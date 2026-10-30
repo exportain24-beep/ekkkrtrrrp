@@ -80,10 +80,11 @@ API key গুলো Secrets-এ থাকায় সেগুলো সেফ
 **৩.৪ Refresh token (OAuth Playground দিয়ে, কোনো কোড লাগবে না)**
 1. developers.google.com/oauthplayground খুলুন
 2. ডান দিকে ⚙️ → ✅ **Use your own OAuth credentials** → উপরের Client ID / Secret বসান
-3. বাম দিকে "Input your own scopes" বক্সে এই তিনটা লিখুন (স্পেস দিয়ে):
+3. বাম দিকে "Input your own scopes" বক্সে এগুলো লিখুন (স্পেস দিয়ে) — আপলোড + পুরো চ্যানেল/SEO কন্ট্রোল + অ্যানালিটিক্স:
    ```
-   https://www.googleapis.com/auth/youtube.upload https://www.googleapis.com/auth/youtube.force-ssl https://www.googleapis.com/auth/youtube.readonly
+   https://www.googleapis.com/auth/youtube https://www.googleapis.com/auth/youtube.upload https://www.googleapis.com/auth/youtube.force-ssl https://www.googleapis.com/auth/youtube.readonly https://www.googleapis.com/auth/yt-analytics.readonly https://www.googleapis.com/auth/yt-analytics-monetary.readonly
    ```
+   (আগে Google Cloud-এ **YouTube Analytics API**-ও Enable করে নিন।)
 4. **Authorize APIs** → গুগল অ্যাকাউন্ট সিলেক্ট → **চ্যানেল সিলেক্ট স্ক্রিনে Eilblick চ্যানেলটা বাছুন** (এটা খুব জরুরি)
    → "Google hasn't verified this app" এলে Advanced → Go to Eilblick Uploader → Allow
 5. **Exchange authorization code for tokens** → **Refresh token** কপি → secret নাম: `YT_REFRESH_TOKEN`
@@ -107,7 +108,8 @@ API key গুলো Secrets-এ থাকায় সেগুলো সেফ
    - Pages → Eilblick → **Full control** (বা অন্তত Content + Community activity)
    - Apps → Eilblick Publisher → **Full control**
 5. **Generate new token** → App: Eilblick Publisher → Expiration: **Never** → Permissions:
-   `pages_show_list`, `pages_read_engagement`, `pages_manage_posts`, `pages_manage_engagement`, `publish_video`, `business_management`
+   `pages_show_list`, `pages_read_engagement`, `pages_manage_posts`, `pages_manage_engagement`, `pages_manage_metadata`,
+   `pages_read_user_content`, `read_insights`, `publish_video`, `business_management`
 6. যে টোকেন আসবে সেটা দিয়ে Graph API Explorer-এ রান করুন: `GET /me/accounts`
    → Eilblick পেজের `access_token` আর `id` কপি করুন
    → secret নাম: `FB_PAGE_TOKEN` (পেজের access_token) আর `FB_PAGE_ID` (পেজের id)
