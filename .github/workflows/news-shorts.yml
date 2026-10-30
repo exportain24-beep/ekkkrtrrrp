@@ -66,6 +66,15 @@ jobs:
           git add state/ ${{ github.event.inputs.queue }}/result.md 2>/dev/null || git add state/
           git commit -q -m "state: ${{ github.event.inputs.queue }}" || exit 0
           for i in 1 2 3; do git pull --rebase -q && git push -q && break; sleep 5; done
+      - name: Review copy (branch "review", overwritten every run)
+        if: always()
+        run: |
+          [ -d out ] || exit 0
+          mkdir -p /tmp/rev && cp -r out/* /tmp/rev/ 2>/dev/null || true
+          cd /tmp/rev && git init -q && git checkout -q -b review
+          git config user.name "eilblick-bot" && git config user.email "eilblick-bot@users.noreply.github.com"
+          git add -A && git commit -q -m "review: ${{ github.event.inputs.queue }}"
+          git push -q -f "https://x-access-token:${{ github.token }}@github.com/${{ github.repository }}.git" review
       - name: Keep video for review (3 days)
         if: always()
         uses: actions/upload-artifact@v4
