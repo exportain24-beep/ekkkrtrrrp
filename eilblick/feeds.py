@@ -288,3 +288,28 @@ def gather(cfg_ed: dict, verbose: bool = True) -> list[Story]:
         print(f"  {len(arts)} articles → {len(stories)} stories → {len(verified)} verified "
               f"(≥{cfg_ed['min_sources_for_story']} outlets) in {time.time()-t0:.1f}s; {len(trends)} trend terms")
     return verified
+
+
+# ---------------------------------------------------------------- (de)serialisation
+def story_to_dict(s: Story, idx: int) -> dict:
+    return {
+        "id": idx, "score": round(s.score, 2), "outlets": s.outlets, "regions": sorted(s.regions),
+        "trend": s.trend_hits, "newest": s.newest.isoformat() if s.newest else None,
+        "articles": [{
+            "source": a.source, "region": a.region, "weight": a.weight, "title": a.title,
+            "summary": a.summary, "link": a.link, "image": a.image, "aggregator": a.aggregator,
+            "published": a.published.isoformat() if a.published else None,
+        } for a in s.articles[:8]],
+    }
+
+
+def story_from_dict(d: dict) -> Story:
+    arts = []
+    for a in d["articles"]:
+        art = Article(a["source"], a["region"], a["weight"], a["title"], a["summary"], a["link"],
+                      datetime.fromisoformat(a["published"]) if a.get("published") else None,
+                      a.get("image"), a.get("aggregator", False))
+        art.tokens = tokenize(art.title + " " + art.summary[:200])
+        arts.append(art)
+    s = Story(arts, d.get("score", 0), d.get("trend", []))
+    return s

@@ -1,0 +1,37 @@
+name: Eilblick 1 – Collect hot news
+
+# Started by the Claude scheduled task ~95 min before each slot.
+# Reads all trusted feeds, verifies (≥2 outlets), ranks and commits candidates.json.
+on:
+  workflow_dispatch:
+    inputs:
+      slot:
+        description: "morgen / mittag / abend / nacht"
+        required: true
+
+permissions:
+  contents: write
+
+concurrency:
+  group: eilblick-repo-write
+  cancel-in-progress: false
+
+jobs:
+  collect:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+          cache: pip
+      - run: pip install -q -r requirements.txt
+      - run: python -m eilblick candidates --slot "${{ github.event.inputs.slot }}"
+      - name: Commit candidates
+        run: |
+          git config user.name "eilblick-bot"
+          git config user.email "eilblick-bot@users.noreply.github.com"
+          git add -A queue
+          git commit -q -m "queue: candidates ${{ github.event.inputs.slot }}" || exit 0
+          git pull --rebase -q && git push -q

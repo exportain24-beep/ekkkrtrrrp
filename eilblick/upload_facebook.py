@@ -51,9 +51,30 @@ def comment(video_id: str, text: str) -> str:
     return r.json().get("id", "")
 
 
+def _app_token() -> str | None:
+    import os
+    aid = os.environ.get("FB_APP_ID")
+    sec = os.environ.get("FB_APP_SECRET")
+    return f"{aid}|{sec}" if aid and sec else None
+
+
 def check_token() -> dict:
-    """Shows which Page the token belongs to and that it can post."""
+    """Which Page the token belongs to, its scopes and expiry (no secrets printed)."""
     tok = env("FB_PAGE_TOKEN")
-    me = requests.get(f"{_g()}/me", params={"fields": "id,name", "access_token": tok}, timeout=30).json()
-    perms = requests.get(f"{_g()}/debug_token", params={"input_token": tok, "access_token": tok}, timeout=30).json()
-    return {"me": me, "token": perms.get("data", perms)}
+    me = requests.get(f"{_g()}/me", params={"fields": "id,name,category,fan_count,followers_count", "access_token": tok},
+                      timeout=30).json()
+    dbg = requests.get(f"{_g()}/debug_token", params={"input_token": tok, "access_token": _app_token() or tok},
+                       timeout=30).json().get("data", {})
+    info = {"me": me, "token": {k: dbg.get(k) for k in ("type", "is_valid", "expires_at", "data_access_expires_at",
+                                                         "scopes", "app_id")}}
+    page_id = env("FB_PAGE_ID", required=False)
+    if page_id and me.get("id") and page_id != me.get("id"):
+        info["warning"] = f"FB_PAGE_ID ({page_id}) does not match the token's page ({me.get('id')})"
+    return info
+
+
+def page_seo(about: str, website: str) -> dict:
+    """Best-effort Page SEO (needs pages_manage_metadata)."""
+    r = requests.post(f"{_g()}/{env('FB_PAGE_ID')}",
+                      data={"about": about[:255], "website": website, "access_token": env("FB_PAGE_TOKEN")}, timeout=30)
+    return r.json()

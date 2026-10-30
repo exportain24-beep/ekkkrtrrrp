@@ -16,19 +16,19 @@ channel:
 # as *scheduled* so it goes live exactly on time (GitHub cron delays don't matter).
 slots:
   - id: morgen
-    time: "07:30"
+    time: "07:00"
     label: "am Morgen"
     focus: "Wichtigste Nachrichten der Nacht und des Morgens: internationale Eilmeldungen der Nacht und die größte politische Schlagzeile in Deutschland."
     pillars: [POLITIK, WELT, WIRTSCHAFT, TECHNOLOGIE]
     notify_subscribers: true
   - id: mittag
-    time: "12:30"
+    time: "12:00"
     label: "am Mittag"
     focus: "Wirtschaft und Finanzen zuerst: DAX, Inflation, EZB, Energiepreise, Autoindustrie (VW, BMW, Mercedes), Technologie."
     pillars: [WIRTSCHAFT, TECHNOLOGIE, POLITIK, WELT]
     notify_subscribers: true
   - id: abend
-    time: "17:30"
+    time: "16:30"
     label: "am Abend"
     focus: "Innenpolitik (Bundestag, Bundesregierung, neue Gesetze), Energie, Alltag der Menschen in Deutschland, Österreich und der Schweiz."
     pillars: [POLITIK, WIRTSCHAFT, WELT, TECHNOLOGIE]
@@ -56,8 +56,7 @@ editorial:
   max_total_words: 100          # ≈ 40–45 s incl. intro, transitions and end card
   target_seconds: 42
   hard_max_seconds: 50          # never longer than 50 s (auto-trims if needed)
-  llm_model: "claude-sonnet-5-5"
-  llm_max_tokens: 4000
+  # The editorial desk is Claude itself (scheduled task) – no separate AI API key needed.
 
 # ---------- Voice (ElevenLabs) ----------
 voice:
@@ -107,12 +106,34 @@ youtube:
   contains_synthetic_media: true   # AI voice → honest disclosure (protects channel trust)
   license: "youtube"
   post_first_comment: true   # API can post the comment; pinning must be done by hand (API limitation)
+  custom_thumbnail: true     # frame-0 headline card uploaded as thumbnail (needs a phone-verified channel)
+  upload_captions: true      # German subtitles from the voice timing → extra search text (ASR layer)
+  use_playlists: true
 
 facebook:
   enabled: true
   graph_version: "v23.0"
 
 seo:
-  base_tags: ["Eilblick", "Nachrichten", "Nachrichten Deutschland", "Eilmeldung", "News heute", "Schlagzeilen", "Deutschland aktuell", "Tagesnachrichten"]
+  # researched DACH search terms (SE Ranking DE 2025: "nachrichten" ~7.5 M/mo, "nachrichten aktuell" ~1 M/mo)
+  base_tags: ["Eilblick", "Nachrichten", "Nachrichten aktuell", "Nachrichten heute", "News heute", "aktuelle Nachrichten",
+              "Nachrichten Deutschland", "Schlagzeilen", "Eilmeldung", "Deutschland aktuell", "Kurznachrichten", "News kurz"]
+  channel_keywords: ["Eilblick", "Nachrichten", "Nachrichten aktuell", "Nachrichten heute", "News heute", "aktuelle Nachrichten",
+                     "Schlagzeilen", "Eilmeldung", "Nachrichten Deutschland", "Deutschland aktuell", "Politik aktuell",
+                     "Wirtschaft aktuell", "Börse DAX", "Weltnachrichten", "Österreich Nachrichten", "Schweiz Nachrichten",
+                     "Kurznachrichten", "News Shorts", "Tagesnachrichten", "DACH"]
+  channel_description: >-
+    Eilblick – Kompakt. Direkt. Auf den Punkt. Viermal täglich die wichtigsten Nachrichten aus Deutschland,
+    Österreich, der Schweiz und Europa in unter 50 Sekunden: Politik, Wirtschaft, Welt und Technologie.
+    Jede Meldung beruht auf Berichten von mindestens zwei etablierten Medien wie tagesschau, ZDFheute,
+    Deutschlandfunk, ORF oder SRF – mit Quellen und Bildnachweisen in jeder Beschreibung.
+    Neue Schlagzeilen täglich um 7:00, 12:00, 16:30 und 20:45 Uhr.
+    Alle Hintergründe auf eilblick.de. Hinweis: Die Sprecherstimme ist KI-generiert.
+  playlists:
+    ALLE: {title: "Eilblick – Nachrichten heute in unter 50 Sekunden", description: "Alle Eilblick-Schlagzeilen: viermal täglich die wichtigsten Nachrichten aus Deutschland, Österreich, der Schweiz und der Welt."}
+    POLITIK: {title: "Politik aktuell – Bundestag, Regierung & neue Gesetze", description: "Politische Nachrichten aus Deutschland, Österreich, der Schweiz und der EU – kompakt erklärt."}
+    WIRTSCHAFT: {title: "Wirtschaft & Börse aktuell – DAX, Inflation, Energiepreise", description: "Wirtschaftsnachrichten: DAX, EZB, Inflation, Autoindustrie und Energiepreise – kompakt in Kurzform."}
+    WELT: {title: "Weltnachrichten – NATO, EU & Geopolitik", description: "Internationale Nachrichten mit Bedeutung für Deutschland und Europa: NATO, EU, Welthandel und Zölle."}
+    TECHNOLOGIE: {title: "Technologie & KI News – Digitales aus Deutschland", description: "Technik-Nachrichten: Künstliche Intelligenz, Cybersicherheit, Deutsche Bahn und digitale Infrastruktur."}
   base_hashtags_youtube: ["#eilblick", "#nachrichten", "#deutschland"]
   base_hashtags_facebook: ["#Eilblick", "#Nachrichten", "#Deutschland"]

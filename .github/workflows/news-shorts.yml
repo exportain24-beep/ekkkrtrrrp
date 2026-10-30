@@ -1,27 +1,14 @@
-name: Eilblick News Shorts
+name: Eilblick 2 – Build & publish Short
 
-# 4 Shorts a day at 07:30 · 12:30 · 17:30 · 20:45 (Berlin time).
-# GitHub cron is UTC, so every slot has two triggers: one fits winter time (CET),
-# the other summer time (CEST). The code works out the real Berlin slot; the
-# second trigger doubles as an automatic retry if the first one failed.
-# Each run starts ~80 min early and uploads the video *scheduled* for the exact slot.
+# Started by the Claude scheduled task after it wrote queue/<date>_<slot>/plan.json.
+# Collects the news photos (temporary), voice, render, uploads scheduled to YouTube + Facebook,
+# adds thumbnail, German captions, playlists, then deletes the photos.
 on:
-  schedule:
-    - cron: "10 4 * * *"    # slot 1 07:30 (CEST)
-    - cron: "10 5 * * *"    # slot 1 07:30 (CET)  / retry
-    - cron: "10 9 * * *"    # slot 2 12:30 (CEST)
-    - cron: "10 10 * * *"   # slot 2 12:30 (CET)  / retry
-    - cron: "10 14 * * *"   # slot 3 17:30 (CEST)
-    - cron: "10 15 * * *"   # slot 3 17:30 (CET)  / retry
-    - cron: "25 17 * * *"   # slot 4 20:45 (CEST)
-    - cron: "25 18 * * *"   # slot 4 20:45 (CET)  / retry
-    - cron: "5 21 * * *"    # late: post the first comment under slot 4
   workflow_dispatch:
     inputs:
-      slot:
-        description: "Slot (morgen / mittag / abend / nacht) – empty = automatic"
-        required: false
-        default: ""
+      queue:
+        description: "queue folder, e.g. queue/2026-11-02_mittag"
+        required: true
       upload:
         description: "Upload to YouTube + Facebook?"
         type: boolean
@@ -35,7 +22,7 @@ permissions:
   contents: write
 
 concurrency:
-  group: eilblick-shorts
+  group: eilblick-build
   cancel-in-progress: false
 
 jobs:
@@ -43,50 +30,42 @@ jobs:
     runs-on: ubuntu-latest
     timeout-minutes: 40
     env:
-      ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
       ELEVENLABS_API_KEY: ${{ secrets.ELEVENLABS_API_KEY }}
       YT_CLIENT_ID: ${{ secrets.YT_CLIENT_ID }}
       YT_CLIENT_SECRET: ${{ secrets.YT_CLIENT_SECRET }}
       YT_REFRESH_TOKEN: ${{ secrets.YT_REFRESH_TOKEN }}
       FB_PAGE_ID: ${{ secrets.FB_PAGE_ID }}
       FB_PAGE_TOKEN: ${{ secrets.FB_PAGE_TOKEN }}
+      FB_APP_ID: ${{ secrets.FB_APP_ID }}
+      FB_APP_SECRET: ${{ secrets.FB_APP_SECRET }}
       PYTHONUNBUFFERED: "1"
     steps:
       - uses: actions/checkout@v4
-
       - uses: actions/setup-python@v5
         with:
           python-version: "3.12"
           cache: pip
-
       - name: Install ffmpeg + Python packages
         run: |
           sudo apt-get update -qq && sudo apt-get install -y -qq ffmpeg > /dev/null
           pip install -q -r requirements.txt
-
-      - name: Build & publish the Short
+      - name: Build & publish
         run: |
-          ARGS="run"
-          if [ -n "${{ github.event.inputs.slot }}" ]; then ARGS="$ARGS --slot ${{ github.event.inputs.slot }}"; fi
+          ARGS="run --queue ${{ github.event.inputs.queue }}"
           if [ "${{ github.event.inputs.upload }}" = "false" ]; then ARGS="$ARGS --no-upload"; fi
           if [ "${{ github.event.inputs.force }}" = "true" ]; then ARGS="$ARGS --force"; fi
           python -m eilblick $ARGS
-
       - name: Delete temporary news photos (always)
         if: always()
         run: rm -rf tmp_media
-
-      - name: Save publish log
+      - name: Save publish log + result
         if: always()
         run: |
           git config user.name "eilblick-bot"
           git config user.email "eilblick-bot@users.noreply.github.com"
-          git add state/published.json
-          if ! git diff --cached --quiet; then
-            git commit -m "state: published $(TZ=Europe/Berlin date +'%Y-%m-%d %H:%M')"
-            git pull --rebase -q && git push -q
-          fi
-
+          git add state/ ${{ github.event.inputs.queue }}/result.md 2>/dev/null || git add state/
+          git commit -q -m "state: ${{ github.event.inputs.queue }}" || exit 0
+          for i in 1 2 3; do git pull --rebase -q && git push -q && break; sleep 5; done
       - name: Keep video for review (3 days)
         if: always()
         uses: actions/upload-artifact@v4
@@ -95,6 +74,7 @@ jobs:
           path: |
             out/*.mp4
             out/*.json
+            out/*.srt
             out/preview/*.jpg
           retention-days: 3
           if-no-files-found: ignore

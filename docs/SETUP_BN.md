@@ -1,6 +1,6 @@
 # Eilblick — সেটআপ গাইড (বাংলা)
 
-এই রিপোতে পুরো জার্মান নিউজ শর্টস সিস্টেম তৈরি আছে। আপনাকে শুধু ৭টা API key / secret GitHub-এ বসাতে হবে।
+এই রিপোতে পুরো জার্মান নিউজ শর্টস সিস্টেম তৈরি আছে। নিউজ ডেস্ক (খবর বাছাই + জার্মান স্ক্রিপ্ট + SEO) Claude-এর scheduled task নিজে করে — আলাদা AI API key লাগে না।
 কোনো কোড এডিট করতে হবে না।
 
 ---
@@ -16,7 +16,7 @@ GitHub Actions (নির্দিষ্ট সময়ে নিজে চা�
   ├─ ২. একই খবর কয়টা মিডিয়া দিয়েছে সেটা গুনে "হট" খবর বের করে
   │     → শুধু ≥২টা মিডিয়ায় আসা খবর নেয় (গুজব বাদ)
   │     → রক্ত/সহিংসতা/গসিপ/লোকাল দুর্ঘটনা বাদ (মনিটাইজেশন সেফ)
-  ├─ ৩. AI নিউজ ডেস্ক (Claude) ৪টা খবর বাছে — কমপক্ষে ৩টা DACH/ইউরোপের,
+  ├─ ৩. Claude scheduled task (নিউজ ডেস্ক) ৪টা খবর বাছে — কমপক্ষে ৩টা DACH/ইউরোপের,
   │     Tagesschau স্টাইলে জার্মান স্ক্রিপ্ট + টাইটেল/ডেসক্রিপশন/ট্যাগ/ফেসবুক ক্যাপশন লেখে
   ├─ ৪. প্রতিটা খবরের আসল আর্টিকেল পেজ থেকে ওই খবরের ছবি (২–৪টা, ভিন্ন ভিন্ন মিডিয়া থেকে)
   │     নামিয়ে `tmp_media/` টেম্পোরারি ফোল্ডারে রাখে
@@ -28,8 +28,8 @@ GitHub Actions (নির্দিষ্ট সময়ে নিজে চা�
   └─ ৮. টেম্পোরারি ছবির ফোল্ডার ডিলিট → পরের ভিডিওর জন্য একদম খালি
 ```
 
-**সময়সূচি (জার্মান সময়):** 07:30 · 12:30 · 17:30 · 20:45
-**বাংলাদেশ সময় (শীতকাল, নভেম্বর–মার্চ):** 12:30 PM · 5:30 PM · 10:30 PM · 1:45 AM
+**সময়সূচি (জার্মান সময়):** 07:00 · 12:00 · 16:30 · 20:45 (প্রতিটার মাঝে ≥৪ ঘণ্টা)
+**বাংলাদেশ সময় (শীতকাল, নভেম্বর–মার্চ):** 12:00 PM · 5:00 PM · 9:30 PM · 1:45 AM
 প্রতিটা ভিডিও ৪০–৫০ সেকেন্ড, কখনো ৫০ সেকেন্ডের বেশি না (বেশি হলে সিস্টেম নিজেই ছোট করে)।
 ৪র্থ স্লটে সাবস্ক্রাইবার নোটিফিকেশন বন্ধ থাকে (YouTube-এর দিনে ৩ নোটিফিকেশন লিমিট)।
 
@@ -49,13 +49,6 @@ API key গুলো Secrets-এ থাকায় সেগুলো সেফ
 1. elevenlabs.io → Profile → **API Keys** → Create key
 2. Permission: Text to Speech ✅, Voices (read) ✅
 3. কপি করে রাখুন → GitHub secret নাম: `ELEVENLABS_API_KEY`
-
-## ধাপ ২ — Anthropic (Claude) API key — নিউজ ডেস্কের জন্য
-
-খবর বাছাই আর জার্মান স্ক্রিপ্ট লেখার জন্য।
-1. console.anthropic.com → **API Keys** → Create Key
-2. Billing-এ কিছু ক্রেডিট দিন (প্রতি ভিডিওতে কয়েক সেন্ট খরচ)
-3. GitHub secret নাম: `ANTHROPIC_API_KEY`
 
 ## ধাপ ৩ — YouTube API (Eilblick চ্যানেলের জন্য নতুন প্রজেক্ট)
 
@@ -109,7 +102,8 @@ API key গুলো Secrets-এ থাকায় সেগুলো সেফ
    - Apps → Eilblick Publisher → **Full control**
 5. **Generate new token** → App: Eilblick Publisher → Expiration: **Never** → Permissions:
    `pages_show_list`, `pages_read_engagement`, `pages_manage_posts`, `pages_manage_engagement`, `pages_manage_metadata`,
-   `pages_read_user_content`, `read_insights`, `publish_video`, `business_management`
+   `pages_read_user_content`, `read_insights`, `business_management`
+   (`publish_video` এখন আলাদা দেখায় না — Reels আপলোড `pages_manage_posts` দিয়েই হয়। System user Employee হলেও চলবে, যদি পেজে Full control দেওয়া থাকে।)
 6. যে টোকেন আসবে সেটা দিয়ে Graph API Explorer-এ রান করুন: `GET /me/accounts`
    → Eilblick পেজের `access_token` আর `id` কপি করুন
    → secret নাম: `FB_PAGE_TOKEN` (পেজের access_token) আর `FB_PAGE_ID` (পেজের id)
@@ -118,11 +112,11 @@ API key গুলো Secrets-এ থাকায় সেগুলো সেফ
 
 ## ধাপ ৫ — GitHub-এ Secrets বসানো
 
-রিপো → **Settings → Secrets and variables → Actions → New repository secret** — এই ৭টা:
+রিপো → **Settings → Secrets and variables → Actions → New repository secret** — এই secret গুলো:
 
 | Secret নাম | কোথা থেকে |
 |---|---|
-| `ANTHROPIC_API_KEY` | ধাপ ২ |
+| `FB_APP_ID`, `FB_APP_SECRET` | Meta অ্যাপ (টোকেন যাচাইয়ের জন্য) |
 | `ELEVENLABS_API_KEY` | ধাপ ১ |
 | `YT_CLIENT_ID` | ধাপ ৩.৩ |
 | `YT_CLIENT_SECRET` | ধাপ ৩.৩ |
