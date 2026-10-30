@@ -30,11 +30,49 @@
    ],
    "comment": {
     "text": "Spürt ihr die sinkende Inflation schon im Alltag – oder eher nicht?",
-    "done": false
+    "done": true,
+    "yt": "UgwdfHyRz260hp9ZY1V4AaABAg",
+    "fb": "1135158292427848_4465437230384226"
    },
    "youtube_id": "D3RLau92wlM",
    "facebook_id": "1135158292427848",
    "created": "2026-10-30T17:37:35.444775+00:00"
+  },
+  {
+   "date": "2026-10-30",
+   "slot": "nacht",
+   "publish_at": "2026-10-30T19:45:00+00:00",
+   "title": "Oleschky: Erste Evakuierung gelingt – und Steinmeier drängt Xi",
+   "duration": 49.1,
+   "stories": [
+    {
+     "headline": "Evakuierung aus Oleschky gelungen",
+     "region": "INT",
+     "pillar": "WELT"
+    },
+    {
+     "headline": "Steinmeier drängt Xi beim Handel",
+     "region": "DE",
+     "pillar": "WIRTSCHAFT"
+    },
+    {
+     "headline": "Merz an der Grenze zu Nordkorea",
+     "region": "DE",
+     "pillar": "POLITIK"
+    },
+    {
+     "headline": "Bundeswehr: Ersatzteil-Lager gestört",
+     "region": "DE",
+     "pillar": "POLITIK"
+    }
+   ],
+   "comment": {
+    "text": "Ist die Feuerpause für Oleschky ein erster Schritt zu mehr – oder nur eine Ausnahme?",
+    "done": false
+   },
+   "youtube_id": "-7Jt58xm6jk",
+   "facebook_id": "2232902390909160",
+   "created": "2026-10-30T18:18:51.719827+00:00"
   }
  ]
 }
