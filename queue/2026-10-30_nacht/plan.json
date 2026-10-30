@@ -1,0 +1,56 @@
+{
+  "stories": [
+    {
+      "candidate_id": 0,
+      "pillar": "WELT",
+      "region": "INT",
+      "kicker": "UKRAINE",
+      "headline": "Evakuierung aus Oleschky gelungen",
+      "highlight": ["Oleschky"],
+      "voice": "Aus Oleschky, der russisch besetzten Stadt in der Südukraine, sind am Freitag erste Einwohner evakuiert worden – möglich durch eine Feuerpause bis Sonntag.",
+      "subline": "Größte humanitäre Hilfsaktion seit Kriegsbeginn 2022",
+      "entities": ["Oleschky", "Ukraine"]
+    },
+    {
+      "candidate_id": 20,
+      "pillar": "WIRTSCHAFT",
+      "region": "DE",
+      "kicker": "CHINA",
+      "headline": "Steinmeier drängt Xi beim Handel",
+      "highlight": ["Steinmeier"],
+      "voice": "Bundespräsident Frank-Walter Steinmeier hat bei seinem Treffen mit Xi Jinping verlangt, dass China seinen hohen Handelsüberschuss gegenüber Deutschland abbaut.",
+      "subline": "Beide Länder sollen die internationale Ordnung aufrechterhalten",
+      "entities": ["Frank-Walter Steinmeier", "Xi Jinping"]
+    },
+    {
+      "candidate_id": 3,
+      "pillar": "POLITIK",
+      "region": "DE",
+      "kicker": "SÜDKOREA",
+      "headline": "Merz an der Grenze zu Nordkorea",
+      "highlight": ["Merz"],
+      "voice": "Bundeskanzler Friedrich Merz hat seine Asienreise beendet und die Handelsbeziehungen zu Singapur, Japan und Südkorea betont. Zuletzt besuchte er die innerkoreanische Grenze.",
+      "subline": "Kanzler hofft auf ein vereintes Korea",
+      "entities": ["Friedrich Merz", "Südkorea"]
+    },
+    {
+      "candidate_id": 21,
+      "pillar": "POLITIK",
+      "region": "DE",
+      "kicker": "BUNDESWEHR",
+      "headline": "Bundeswehr: Ersatzteil-Lager gestört",
+      "highlight": ["Bundeswehr"],
+      "voice": "Die Bundeswehr kämpft laut Medienberichten mit einer Störung in ihrem wichtigsten Logistikzentrum für Ersatzteile. Bis zu tausend Fehlermeldungen täglich – Materialausfälle drohen.",
+      "subline": "Eine zeitnahe Lösung ist nicht absehbar",
+      "entities": ["Bundeswehr"]
+    }
+  ],
+  "hook_text": "Oleschky: Evakuierung gelingt",
+  "youtube_title": "Oleschky: Erste Evakuierung gelingt – und Steinmeier drängt Xi",
+  "description_lead": "Aus dem russisch besetzten Oleschky in der Ukraine werden während einer Feuerpause erste Einwohner evakuiert, Bundespräsident Frank-Walter Steinmeier fordert von Xi Jinping den Abbau des chinesischen Handelsüberschusses. Außerdem: Friedrich Merz beendet seine Asienreise an der innerkoreanischen Grenze, und eine Störung im wichtigsten Ersatzteillager der Bundeswehr droht die Einsatzbereitschaft zu belasten.",
+  "tags": ["Oleschky", "Ukraine", "Feuerpause", "Frank-Walter Steinmeier", "Xi Jinping", "China", "Friedrich Merz", "Südkorea", "Nordkorea", "Bundeswehr", "Handelsüberschuss", "Asienreise", "Einsatzbereitschaft", "Geopolitik"],
+  "hashtags": ["#ukraine", "#china", "#bundeswehr"],
+  "facebook_caption_line1": "Feuerpause hält: Erste Einwohner verlassen das besetzte Oleschky",
+  "facebook_question": "Kann eine lokale Feuerpause wie in Oleschky ein Modell für weitere Regionen der Ukraine sein?",
+  "comment_question": "Ist die Feuerpause für Oleschky ein erster Schritt zu mehr – oder nur eine Ausnahme?"
+}
