@@ -399,10 +399,20 @@ def cmd_check_tokens() -> int:
         ok = False
         lines.append(f"Facebook FAIL: {str(e)[:300]}")
     try:
-        r = requests.get("https://api.elevenlabs.io/v1/voices/" + settings()["voice"]["voice_id"],
+        v = settings()["voice"]
+        r = requests.get("https://api.elevenlabs.io/v1/voices/" + v["voice_id"],
                          headers={"xi-api-key": env("ELEVENLABS_API_KEY")}, timeout=30)
-        r.raise_for_status()
-        lines.append(f"ElevenLabs OK: voice '{r.json().get('name')}'")
+        lines.append(f"ElevenLabs voice info: HTTP {r.status_code} "
+                     + (f"name='{r.json().get('name')}'" if r.ok else r.text[:250]))
+        t = requests.post(f"https://api.elevenlabs.io/v1/text-to-speech/{v['voice_id']}",
+                          params={"output_format": "mp3_44100_64"},
+                          headers={"xi-api-key": env("ELEVENLABS_API_KEY")},
+                          json={"text": "Eilblick.", "model_id": v["model_id"]}, timeout=60)
+        if t.ok and len(t.content) > 1000:
+            lines.append(f"ElevenLabs OK: test speech generated with {v['model_id']} ({len(t.content)} bytes)")
+        else:
+            ok = False
+            lines.append(f"ElevenLabs TTS FAIL: HTTP {t.status_code} {t.text[:300]}")
     except Exception as e:
         ok = False
         lines.append(f"ElevenLabs FAIL: {str(e)[:200]}")

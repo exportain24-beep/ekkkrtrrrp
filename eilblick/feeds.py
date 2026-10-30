@@ -145,9 +145,28 @@ def tokenize(text: str) -> set:
     return out
 
 
+def _root(xml_bytes: bytes):
+    try:
+        return ET.fromstring(xml_bytes)
+    except ET.ParseError:
+        # some feeds append junk after the closing tag – cut it off and retry
+        txt = xml_bytes.decode("utf-8", "replace")
+        for end in ("</rss>", "</feed>", "</rdf:RDF>"):
+            i = txt.rfind(end)
+            if i > 0:
+                return ET.fromstring(txt[: i + len(end)].encode("utf-8"))
+        raise
+
+
 def parse_feed(xml_bytes: bytes, feed: dict) -> list[Article]:
-    root = ET.fromstring(xml_bytes)
-    items = root.findall(".//item") or root.findall(".//atom:entry", NS)
+    root = _root(xml_bytes)
+    rss1 = "{http://purl.org/rss/1.0/}"
+    items = root.findall(".//item") or root.findall(".//atom:entry", NS) or root.findall(f".//{rss1}item")
+    if items and items[0].tag.startswith(rss1):   # RSS 1.0 / RDF (e.g. ORF): strip namespace
+        for it in items:
+            for el in it.iter():
+                if el.tag.startswith(rss1):
+                    el.tag = el.tag[len(rss1):]
     out = []
     for it in items:
         title = clean(_text(it.find("title")) or _text(it.find("atom:title", NS)))

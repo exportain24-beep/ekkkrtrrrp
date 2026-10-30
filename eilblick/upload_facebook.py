@@ -14,9 +14,26 @@ def _g() -> str:
     return f"https://graph.facebook.com/{settings()['facebook']['graph_version']}"
 
 
+_PT: dict = {}
+
+
+def page_token() -> str:
+    """FB_PAGE_TOKEN may be a Page token or a System-User token. For a System-User
+    token the Page access token is fetched automatically (stays valid, never expires)."""
+    if "t" in _PT:
+        return _PT["t"]
+    tok = env("FB_PAGE_TOKEN")
+    page = env("FB_PAGE_ID")
+    r = requests.get(f"{_g()}/{page}", params={"fields": "access_token,name", "access_token": tok}, timeout=30).json()
+    _PT["t"] = r.get("access_token") or tok
+    _PT["name"] = r.get("name")
+    _PT["err"] = r.get("error")
+    return _PT["t"]
+
+
 def upload(video: Path, description: str, publish_at: datetime) -> str:
     page = env("FB_PAGE_ID")
-    tok = env("FB_PAGE_TOKEN")
+    tok = page_token()
     r = requests.post(f"{_g()}/{page}/video_reels", data={"upload_phase": "start", "access_token": tok}, timeout=60)
     if r.status_code >= 400:
         raise RuntimeError(f"FB start failed: {r.text[:400]}")
@@ -44,7 +61,7 @@ def upload(video: Path, description: str, publish_at: datetime) -> str:
 
 
 def comment(video_id: str, text: str) -> str:
-    r = requests.post(f"{_g()}/{video_id}/comments", data={"message": text, "access_token": env("FB_PAGE_TOKEN")},
+    r = requests.post(f"{_g()}/{video_id}/comments", data={"message": text, "access_token": page_token()},
                       timeout=30)
     if r.status_code >= 400:
         raise RuntimeError(f"FB comment failed: {r.text[:300]}")
@@ -60,11 +77,14 @@ def _app_token() -> str | None:
 
 def check_token() -> dict:
     """Which Page the token belongs to, its scopes and expiry (no secrets printed)."""
-    tok = env("FB_PAGE_TOKEN")
-    me = requests.get(f"{_g()}/me", params={"fields": "id,name,category,fan_count,followers_count", "access_token": tok},
-                      timeout=30).json()
-    dbg = requests.get(f"{_g()}/debug_token", params={"input_token": tok, "access_token": _app_token() or tok},
+    raw = env("FB_PAGE_TOKEN")
+    dbg = requests.get(f"{_g()}/debug_token", params={"input_token": raw, "access_token": _app_token() or raw},
                        timeout=30).json().get("data", {})
+    tok = page_token()
+    me = requests.get(f"{_g()}/me", params={"fields": "id,name,category,followers_count", "access_token": tok},
+                      timeout=30).json()
+    if _PT.get("err"):
+        me["page_token_error"] = _PT["err"]
     info = {"me": me, "token": {k: dbg.get(k) for k in ("type", "is_valid", "expires_at", "data_access_expires_at",
                                                          "scopes", "app_id")}}
     page_id = env("FB_PAGE_ID", required=False)
@@ -76,5 +96,5 @@ def check_token() -> dict:
 def page_seo(about: str, website: str) -> dict:
     """Best-effort Page SEO (needs pages_manage_metadata)."""
     r = requests.post(f"{_g()}/{env('FB_PAGE_ID')}",
-                      data={"about": about[:255], "website": website, "access_token": env("FB_PAGE_TOKEN")}, timeout=30)
+                      data={"about": about[:255], "website": website, "access_token": page_token()}, timeout=30)
     return r.json()
