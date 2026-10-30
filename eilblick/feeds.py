@@ -35,7 +35,9 @@ für gegen gewesen hab habe haben hat hatte hier hin hinter ich ihm ihn ihnen ih
 man mehr mein mit muss nach nicht nichts noch nun nur ob oder ohne sehr sein seine sich sie sind so soll sollen über um und uns unser unter vom von
 vor war waren warum was weg weil weiter welche wenn wer werden wie wieder will wir wird wo zu zum zur zwischen neue neuen neuer neues heute gestern
 mehr mehrere erste ersten zwei drei vier fünf jahr jahre jahren prozent laut sagt sagte soll sollen könnte wurde wurden worden seit beim ab
-video live ticker news liveblog newsblog eilmeldung aktuell update
+video live ticker news liveblog newsblog eilmeldung aktuell update deutschland deutsche deutschen deutscher
+bundesregierung regierung präsident minister ministerin land länder menschen woche wochen tag tage montag dienstag
+mittwoch donnerstag freitag samstag sonntag kritik experten nach unter zwischen
 """.split())
 
 
@@ -193,7 +195,7 @@ def parse_feed(xml_bytes: bytes, feed: dict) -> list[Article]:
             title=title, summary=summary[:600], link=link.strip(), published=pub,
             image=_img_from(it), aggregator=bool(feed.get("aggregator")),
         )
-        a.tokens = tokenize(a.title + " " + a.summary[:200])
+        a.tokens = tokenize(a.title + " " + a.title + " " + a.summary[:140])
         out.append(a)
     return out
 
@@ -246,14 +248,16 @@ def _similar(a: set, b: set) -> bool:
     if not a or not b:
         return False
     inter = len(a & b)
-    return inter >= 3 or (inter >= 2 and inter / min(len(a), len(b)) >= 0.5)
+    ratio = inter / min(len(a), len(b))
+    return (inter >= 3 and ratio >= 0.3) or (inter >= 2 and ratio >= 0.55)
 
 
 def cluster(arts: list[Article]) -> list[Story]:
     stories: list[Story] = []
     for a in sorted(arts, key=lambda x: -x.weight):
         for s in stories:
-            if _similar(a.tokens, s.lead.tokens) or any(_similar(a.tokens, o.tokens) for o in s.articles[:4]):
+            # compare with the cluster's first article (no chaining → no topic drift)
+            if _similar(a.tokens, s.articles[0].tokens):
                 s.articles.append(a)
                 break
         else:
