@@ -18,7 +18,8 @@ feeds:
   # --- Germany · quality press ---
   - {name: "SPIEGEL",           url: "https://www.spiegel.de/schlagzeilen/index.rss",       region: DE, weight: 0.9}
   - {name: "ZEIT ONLINE",       url: "https://newsfeed.zeit.de/index",                       region: DE, weight: 0.9}
-  - {name: "FAZ",               url: "https://www.faz.net/rss/aktuell/",                     region: DE, weight: 0.9}
+  # FAZ feed currently returns malformed XML – disabled
+  # - {name: "FAZ",               url: "https://www.faz.net/rss/aktuell/",                     region: DE, weight: 0.9}
   - {name: "Süddeutsche",       url: "https://rss.sueddeutsche.de/rss/Topthemen",            region: DE, weight: 0.9}
   - {name: "WELT",              url: "https://www.welt.de/feeds/latest.rss",                 region: DE, weight: 0.8}
   - {name: "n-tv",              url: "https://www.n-tv.de/rss",                              region: DE, weight: 0.8}

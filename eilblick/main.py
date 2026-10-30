@@ -391,7 +391,7 @@ def cmd_check_tokens() -> int:
     try:
         from .upload_facebook import check_token
         info = check_token()
-        lines.append(f"Facebook: page={info['me'].get('name')} ({info['me'].get('id')}), token={info['token']}"
+        lines.append(f"Facebook: me={ {k: v for k, v in info['me'].items() if k != 'access_token'} }, token={info['token']}"
                      + (f"  WARNING: {info['warning']}" if info.get("warning") else ""))
         if "error" in info["me"]:
             ok = False

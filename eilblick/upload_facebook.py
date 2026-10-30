@@ -23,8 +23,19 @@ def page_token() -> str:
     if "t" in _PT:
         return _PT["t"]
     tok = env("FB_PAGE_TOKEN")
-    page = env("FB_PAGE_ID")
+    page = env("FB_PAGE_ID").strip()
     r = requests.get(f"{_g()}/{page}", params={"fields": "access_token,name", "access_token": tok}, timeout=30).json()
+    if not r.get("access_token"):
+        # fall back: look the page up in the token owner's page list
+        acc = requests.get(f"{_g()}/me/accounts", params={"fields": "id,name,access_token", "access_token": tok},
+                           timeout=30).json()
+        pages = acc.get("data", [])
+        _PT["pages"] = [(p.get("id"), p.get("name")) for p in pages]
+        hit = next((p for p in pages if p.get("id") == page), None)
+        if hit:
+            r = hit
+        elif "error" in acc:
+            r.setdefault("error", acc["error"])
     _PT["t"] = r.get("access_token") or tok
     _PT["name"] = r.get("name")
     _PT["err"] = r.get("error")
@@ -85,6 +96,9 @@ def check_token() -> dict:
                       timeout=30).json()
     if _PT.get("err"):
         me["page_token_error"] = _PT["err"]
+    if _PT.get("pages") is not None:
+        me["pages_visible_to_token"] = _PT["pages"]
+    me["page_id_secret_len"] = len(env("FB_PAGE_ID").strip())
     info = {"me": me, "token": {k: dbg.get(k) for k in ("type", "is_valid", "expires_at", "data_access_expires_at",
                                                          "scopes", "app_id")}}
     page_id = env("FB_PAGE_ID", required=False)
