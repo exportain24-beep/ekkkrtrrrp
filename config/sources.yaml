@@ -1,0 +1,62 @@
+# ============================================================
+#  Trusted news sources (RSS / Atom).
+#  region: DE / AT / CH / EU / INT   ·  weight: editorial trust (1.0 = top)
+#  Dead feeds are skipped automatically; run `python -m eilblick check-feeds`
+#  (or the "Check feeds" workflow) to see which ones answer.
+# ============================================================
+
+feeds:
+  # --- Germany · public broadcasters (highest trust) ---
+  - {name: "tagesschau",        url: "https://www.tagesschau.de/index~rss2.xml",             region: DE, weight: 1.0}
+  - {name: "tagesschau Inland", url: "https://www.tagesschau.de/inland/index~rss2.xml",      region: DE, weight: 1.0}
+  - {name: "tagesschau Ausland",url: "https://www.tagesschau.de/ausland/index~rss2.xml",     region: INT, weight: 1.0}
+  - {name: "tagesschau Wirtschaft", url: "https://www.tagesschau.de/wirtschaft/index~rss2.xml", region: DE, weight: 1.0}
+  - {name: "ZDFheute",          url: "https://www.zdf.de/rss/zdf/nachrichten",               region: DE, weight: 1.0}
+  - {name: "Deutsche Welle",    url: "https://rss.dw.com/xml/rss-de-all",                    region: INT, weight: 0.95}
+  - {name: "Deutschlandfunk",   url: "https://www.deutschlandfunk.de/nachrichten-100.rss",   region: DE, weight: 0.95}
+
+  # --- Germany · quality press ---
+  - {name: "SPIEGEL",           url: "https://www.spiegel.de/schlagzeilen/index.rss",       region: DE, weight: 0.9}
+  - {name: "ZEIT ONLINE",       url: "https://newsfeed.zeit.de/index",                       region: DE, weight: 0.9}
+  - {name: "FAZ",               url: "https://www.faz.net/rss/aktuell/",                     region: DE, weight: 0.9}
+  - {name: "Süddeutsche",       url: "https://rss.sueddeutsche.de/rss/Topthemen",            region: DE, weight: 0.9}
+  - {name: "WELT",              url: "https://www.welt.de/feeds/latest.rss",                 region: DE, weight: 0.8}
+  - {name: "n-tv",              url: "https://www.n-tv.de/rss",                              region: DE, weight: 0.8}
+  - {name: "Handelsblatt",      url: "https://www.handelsblatt.com/contentexport/feed/schlagzeilen", region: DE, weight: 0.9}
+  - {name: "WirtschaftsWoche",  url: "https://www.wiwo.de/contentexport/feed/rss/schlagzeilen", region: DE, weight: 0.85}
+  - {name: "heise online",      url: "https://www.heise.de/rss/heise-atom.xml",              region: DE, weight: 0.85}
+  - {name: "Golem",             url: "https://rss.golem.de/rss.php?feed=RSS2.0",             region: DE, weight: 0.75}
+
+  # --- Austria ---
+  - {name: "ORF",               url: "https://rss.orf.at/news.xml",                          region: AT, weight: 0.95}
+  - {name: "DER STANDARD",      url: "https://www.derstandard.at/rss",                       region: AT, weight: 0.85}
+
+  # --- Switzerland ---
+  - {name: "SRF News",          url: "https://www.srf.ch/news/bnf/rss/1646",                 region: CH, weight: 0.95}
+  - {name: "NZZ",               url: "https://www.nzz.ch/recent.rss",                        region: CH, weight: 0.9}
+
+  # --- Aggregator used for *trend signal* (how many outlets cover a story) ---
+  - {name: "Google News DE",    url: "https://news.google.com/rss?hl=de&gl=DE&ceid=DE:de",   region: DE, weight: 0.6, aggregator: true}
+
+# Google Trends (Germany) — boosts stories people are actively searching for right now.
+trends_feed: "https://trends.google.com/trending/rss?geo=DE"
+
+# Never use these topics (ad-unfriendly / brand-damaging). Matched case-insensitively.
+blocked_keywords:
+  - "leiche"
+  - "enthauptet"
+  - "vergewaltig"
+  - "kinderporno"
+  - "missbrauch"
+  - "horoskop"
+  - "promi"
+  - "dschungelcamp"
+  - "bachelor"
+  - "gntm"
+  - "liveticker"
+  - "newsblog"
+  - "gewinnspiel"
+  - "anzeige"
+  - "podcast"
+  - "kreuzworträtsel"
+  - "lotto"

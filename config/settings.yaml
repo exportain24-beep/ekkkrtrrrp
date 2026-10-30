@@ -1,0 +1,118 @@
+# ============================================================
+#  EILBLICK — DACH News Shorts  ·  Hauptkonfiguration
+#  Everything public-facing is 100 % Hochdeutsch (de-DE).
+# ============================================================
+
+channel:
+  name: "Eilblick"
+  slogan: "Kompakt. Direkt. Auf den Punkt."
+  website: "https://eilblick.de"
+  facebook_url: "https://facebook.com/eilblick.de"
+  language: "de"
+  timezone: "Europe/Berlin"
+
+# ---------- Publishing slots (Berlin local time) ----------
+# Each run starts ~80 min before the slot, builds the Short, and uploads it
+# as *scheduled* so it goes live exactly on time (GitHub cron delays don't matter).
+slots:
+  - id: morgen
+    time: "07:30"
+    label: "am Morgen"
+    focus: "Wichtigste Nachrichten der Nacht und des Morgens: internationale Eilmeldungen der Nacht und die größte politische Schlagzeile in Deutschland."
+    pillars: [POLITIK, WELT, WIRTSCHAFT, TECHNOLOGIE]
+    notify_subscribers: true
+  - id: mittag
+    time: "12:30"
+    label: "am Mittag"
+    focus: "Wirtschaft und Finanzen zuerst: DAX, Inflation, EZB, Energiepreise, Autoindustrie (VW, BMW, Mercedes), Technologie."
+    pillars: [WIRTSCHAFT, TECHNOLOGIE, POLITIK, WELT]
+    notify_subscribers: true
+  - id: abend
+    time: "17:30"
+    label: "am Abend"
+    focus: "Innenpolitik (Bundestag, Bundesregierung, neue Gesetze), Energie, Alltag der Menschen in Deutschland, Österreich und der Schweiz."
+    pillars: [POLITIK, WIRTSCHAFT, WELT, TECHNOLOGIE]
+    notify_subscribers: true
+  - id: nacht
+    time: "20:45"
+    label: "am späten Abend"
+    focus: "Geopolitik, europäische Sicherheit, NATO, EU, Welthandel und Zölle – mit Bezug zu Deutschland."
+    pillars: [WELT, POLITIK, WIRTSCHAFT, TECHNOLOGIE]
+    notify_subscribers: false   # YouTube sends max ~3 notifications/day → slot 4 stays silent
+
+build_window_minutes:
+  before: 95    # a run may start up to 95 min before the slot …
+  after: 45     # … or up to 45 min after it (then it publishes immediately)
+
+# ---------- Editorial ----------
+editorial:
+  stories_per_short: 4          # 4 headlines per Short (allowed 4–5)
+  max_stories_per_short: 5
+  min_regional_stories: 3       # at least 3 of 4 from Germany / Austria / Switzerland / Europe
+  min_sources_for_story: 2      # verification rule: ≥2 independent outlets must report it
+  max_story_age_hours: 14
+  dedupe_days: 2                # never repeat a story already used in the last 2 days
+  words_per_story: [17, 24]     # spoken words per headline block
+  max_total_words: 100          # ≈ 40–45 s incl. intro, transitions and end card
+  target_seconds: 42
+  hard_max_seconds: 50          # never longer than 50 s (auto-trims if needed)
+  llm_model: "claude-sonnet-5-5"
+  llm_max_tokens: 4000
+
+# ---------- Voice (ElevenLabs) ----------
+voice:
+  voice_id: "DEZHhPbmb8LVZmWufkCh"
+  model_id: "eleven_multilingual_v2"
+  output_format: "mp3_44100_128"
+  settings:
+    stability: 0.55
+    similarity_boost: 0.80
+    style: 0.18
+    use_speaker_boost: true
+    speed: 1.04
+
+# ---------- Audio mix (dB) ----------
+audio:
+  voice_db: -1.5
+  signature_duck_db: -15.0 # channel signature track under the voice (assets/audio/signature_bed.mp3)
+  signature_open_db: -6.0  # signature track in intro / gaps / end
+  music_db: -23.0          # fallback synth bed (only if the signature file is missing)
+  music_open_db: -14.0     # bed level in gaps / intro
+  sfx_db: -13.0
+  intro_hit_db: -10.0
+
+# ---------- Video ----------
+video:
+  width: 1080
+  height: 1920
+  fps: 30
+  crf: 20
+  preset: "veryfast"
+  colors:
+    bg: "#121212"
+    panel: "#1B1B1F"
+    red: "#FF2A2A"
+    red_dark: "#B3141B"
+    white: "#FFFFFF"
+    grey: "#A9A9B2"
+  images_per_story: [2, 4]
+  seconds_per_image: 2.8     # "3-second rule": visual change every 2.5–3 s
+  min_image_width: 640
+
+# ---------- Upload ----------
+youtube:
+  enabled: true
+  category_id: "25"          # News & Politics
+  made_for_kids: false
+  contains_synthetic_media: true   # AI voice → honest disclosure (protects channel trust)
+  license: "youtube"
+  post_first_comment: true   # API can post the comment; pinning must be done by hand (API limitation)
+
+facebook:
+  enabled: true
+  graph_version: "v23.0"
+
+seo:
+  base_tags: ["Eilblick", "Nachrichten", "Nachrichten Deutschland", "Eilmeldung", "News heute", "Schlagzeilen", "Deutschland aktuell", "Tagesnachrichten"]
+  base_hashtags_youtube: ["#eilblick", "#nachrichten", "#deutschland"]
+  base_hashtags_facebook: ["#Eilblick", "#Nachrichten", "#Deutschland"]
