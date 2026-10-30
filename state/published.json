@@ -1,1 +1,40 @@
-{"runs": []}
+{
+ "runs": [
+  {
+   "date": "2026-10-30",
+   "slot": "sonder",
+   "publish_at": "2026-10-30T17:36:13.701696+00:00",
+   "title": "Inflation sinkt auf 2,8 %: Tankrabatt wirkt – und BND unter Druck",
+   "duration": 48.8,
+   "stories": [
+    {
+     "headline": "Inflation sinkt auf 2,8 Prozent",
+     "region": "DE",
+     "pillar": "WIRTSCHAFT"
+    },
+    {
+     "headline": "US-Dienste warnen den BND",
+     "region": "DE",
+     "pillar": "POLITIK"
+    },
+    {
+     "headline": "Milliarden-Hack bei Binance",
+     "region": "INT",
+     "pillar": "TECHNOLOGIE"
+    },
+    {
+     "headline": "Russland darf zur Eishockey-WM",
+     "region": "DE",
+     "pillar": "WELT"
+    }
+   ],
+   "comment": {
+    "text": "Spürt ihr die sinkende Inflation schon im Alltag – oder eher nicht?",
+    "done": false
+   },
+   "youtube_id": "D3RLau92wlM",
+   "facebook_id": "1135158292427848",
+   "created": "2026-10-30T17:37:35.444775+00:00"
+  }
+ ]
+}
