@@ -166,6 +166,7 @@ def plan_short(stories: list[Story], slot: dict, slot_time: datetime, already: l
             continue
         errs = validate(plan, len(cands))
         if not errs:
+            plan = improve(plan, prompt, len(cands))
             plan["_candidates"] = cands
             return plan
         last_err = " ".join(errs)
@@ -173,3 +174,32 @@ def plan_short(stories: list[Story], slot: dict, slot_time: datetime, already: l
         messages += [{"role": "assistant", "content": raw},
                      {"role": "user", "content": "Korrigiere bitte: " + last_err + " Gib das vollständige JSON erneut aus."}]
     raise RuntimeError(f"Editor failed: {last_err}")
+
+
+REVIEW = """Du bist jetzt der Schlussredakteur. Prüfe den Entwurf Satz für Satz gegen die Quelltexte oben
+und verbessere ihn, wo es möglich ist:
+- Stimmt jedes Faktum exakt mit den Quellen überein? Streiche alles, was dort nicht steht.
+- Ist jede Meldung sofort verständlich (Was? Wo? Wer? Wann?) und klingt sie wie Tagesschau-Sprecher?
+- Ist der Einstieg jeder Meldung stark, mit dem Schlagwort ganz vorne?
+- Sind Schlagzeilen kürzer und präziser möglich? Ist die Reihenfolge (heißeste Meldung zuerst) richtig?
+- Sind Titel, Tags und Hashtags für deutsche Suchanfragen optimal und einzigartig?
+Gib das vollständige, verbesserte JSON im selben Format zurück (nur JSON)."""
+
+
+def improve(plan: dict, prompt: str, n_candidates: int) -> dict:
+    """Second editorial pass: fact-check against sources and sharpen the wording.
+    Falls back to the first draft if the revision breaks any rule."""
+    try:
+        raw = _call([{"role": "user", "content": prompt},
+                     {"role": "assistant", "content": json.dumps(plan, ensure_ascii=False)},
+                     {"role": "user", "content": REVIEW}])
+        better = _parse(raw)
+        errs = validate(better, n_candidates)
+        if errs:
+            print("  review discarded:", " ".join(errs))
+            return plan
+        print("  review pass applied")
+        return better
+    except Exception as e:
+        print("  review skipped:", e)
+        return plan

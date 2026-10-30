@@ -4,7 +4,6 @@ Screen layout (safe zones respected: nothing important in the right 140 px
 or below y≈1560 where YouTube/Facebook draw their buttons and captions):
 
   ┌──────────────────────────────┐
-  │ ▬▬ ▬▬ ▬▬ ▬▬  story progress  │  y  70
   │ [E] EILBLICK      AKTUELL 07:30│  y 110–210  top bar, logo, clock
   │ 1/4 · POLITIK                │  y 260
   │ ┌──────────────────────────┐ │
@@ -282,16 +281,6 @@ class Renderer:
 
     def top_bar(self, fr: Image.Image, t: float, story: StoryClip | None):
         d = ImageDraw.Draw(fr)
-        # progress segments
-        n = len(self.tl.stories)
-        gap, x0, x1, y = 10, 60, 1020, 68
-        seg = (x1 - x0 - gap * (n - 1)) / n
-        for i, s in enumerate(self.tl.stories):
-            sx = x0 + i * (seg + gap)
-            d.rounded_rectangle([sx, y, sx + seg, y + 7], radius=3, fill=(255, 255, 255, 70))
-            p = 1.0 if t >= s.end else max(0.0, (t - s.start) / (s.end - s.start)) if t >= s.start else 0.0
-            if p > 0:
-                d.rounded_rectangle([sx, y, sx + seg * p, y + 7], radius=3, fill=C["white"])
         fr.alpha_composite(self.logo, (60, 112))
         # clock + AKTUELL pill
         f = font("bold", 34)
