@@ -1,0 +1,1829 @@
+{
+ "slot": {
+  "id": "nacht",
+  "time": "20:45",
+  "label": "am späten Abend",
+  "focus": "Geopolitik, europäische Sicherheit, NATO, EU, Welthandel und Zölle – mit Bezug zu Deutschland.",
+  "pillars": [
+   "WELT",
+   "POLITIK",
+   "WIRTSCHAFT",
+   "TECHNOLOGIE"
+  ],
+  "notify_subscribers": false
+ },
+ "slot_time": "2026-10-30T20:45:00+01:00",
+ "date_text": "Freitag, 30. Oktober 2026",
+ "already_published": [
+  "Inflation sinkt auf 2,8 Prozent",
+  "US-Dienste warnen den BND",
+  "Milliarden-Hack bei Binance",
+  "Russland darf zur Eishockey-WM"
+ ],
+ "candidates": [
+  {
+   "id": 0,
+   "score": 21.14,
+   "outlets": [
+    "tagesschau",
+    "Deutsche Welle",
+    "Deutschlandfunk",
+    "ORF",
+    "SRF News",
+    "SPIEGEL",
+    "Handelsblatt",
+    "NZZ",
+    "WELT",
+    "SZ.de"
+   ],
+   "regions": [
+    "AT",
+    "CH",
+    "DE",
+    "INT"
+   ],
+   "trend": [],
+   "newest": "2026-10-30T17:59:05+00:00",
+   "articles": [
+    {
+     "source": "tagesschau",
+     "region": "DE",
+     "weight": 1.0,
+     "title": "Erste Einwohner aus besetzter ukrainischer Stadt Oleschky evakuiert",
+     "summary": "Inmitten einer Feuerpause haben die ersten Einwohner von Oleschky die von Russland besetzte südukrainische Stadt verlassen. Die Ukraine hofft, dass auch weitere Städte in der Region auf ähnlichem Weg versorgt werden können.",
+     "link": "https://www.tagesschau.de/ausland/europa/ukraine-erste-menschen-verlassen-oleschky-100.html",
+     "image": "https://images.tagesschau.de/image/d4855fdf-43b3-43c7-a54a-397ee7c45e9a/AAABoY2w1fI/AAABnSSvrFg/16x9-big/busse-oleschky-100.jpg?width=1920",
+     "aggregator": false,
+     "published": "2026-10-30T16:49:53+00:00"
+    },
+    {
+     "source": "tagesschau",
+     "region": "DE",
+     "weight": 1.0,
+     "title": "Hilfstransporte für die ukrainische Frontstadt Oleschky laufen an",
+     "summary": "Die Bewohner der von Russland besetzten ukrainischen Frontstadt Oleschky können jetzt mit Hilfe rechnen. Die Route ist von Minen geräumt, die Versorgung mit Hilfslieferungen hat begonnen. Die Waffenruhe gilt noch bis Sonntag.",
+     "link": "https://www.tagesschau.de/ausland/europa/ukraine-oleschky-102.html",
+     "image": "https://images.tagesschau.de/image/4d9c0abe-2359-4ee2-9097-0c92cd25f8ca/AAABoYuDcfM/AAABnSSvrFg/16x9-big/krankenschwestern-patienten-rollstuhl-100.jpg?width=1920",
+     "aggregator": false,
+     "published": "2026-10-30T11:54:46+00:00"
+    },
+    {
+     "source": "tagesschau Ausland",
+     "region": "INT",
+     "weight": 1.0,
+     "title": "Russland und Ukraine beginnen Waffenruhe für Frontstadt Oleschky",
+     "summary": "Seit Jahren ist die von Russland besetzte Stadt Oleschky in der Ostukraine umkämpft. Trotzdem leben dort noch bis zu 2.000 Menschen. Damit sie Hilfe bekommen, gilt jetzt eine Feuerpause. Andernorts gehen die Angriffe weiter.",
+     "link": "https://www.tagesschau.de/ausland/europa/ukraine-oleschky-waffenruhe-100.html",
+     "image": "https://images.tagesschau.de/image/62d4cc37-9f64-482c-b236-4ed3e8efa533/AAABoNKK1jQ/AAABnSSvrFg/16x9-big/karte-ukraine-frontverlaeufe-2228.jpg?width=1920",
+     "aggregator": false,
+     "published": "2026-10-27T06:56:19+00:00"
+    },
+    {
+     "source": "tagesschau Ausland",
+     "region": "INT",
+     "weight": 1.0,
+     "title": "Vermittelt durch Melania Trump - Waffenruhe für besetzte ukrainische Stadt",
+     "summary": "Die humanitäre Lage in der von Russland besetzten ukrainischen Stadt Oleschky ist dramatisch. Nun gibt es Hoffnung für eine Evakuierung. Das Weiße Haus gab eine lokale Waffenruhe bekannt - vermittelt durch First Lady Melania Trump.",
+     "link": "https://www.tagesschau.de/ausland/melania-trump-waffenruhe-oleschky-100.html",
+     "image": "https://images.tagesschau.de/image/a111bf3a-9485-4c36-82cc-c621e4893902/AAABoWlYGkY/AAABnSSvrFg/16x9-big/gebaeude-oleshky-100.jpg?width=1920",
+     "aggregator": false,
+     "published": "2026-10-23T17:26:28+00:00"
+    },
+    {
+     "source": "Deutsche Welle",
+     "region": "INT",
+     "weight": 0.95,
+     "title": "Oleschky-Evakuierung: Wer verhandelt für Russland und die Ukraine?",
+     "summary": "Moskau und Kyjiw haben mit der humanitären Mission für die Menschen im russisch besetzten Oleschky begonnen. Sie wird von den Ombudspersonen beider Länder koordiniert. Wer sind sie und wie arbeiten sie zusammen?",
+     "link": "https://www.dw.com/de/oleschky-evakuierung-wer-verhandelt-für-russland-und-die-ukraine/a-79808325?maca=de-rss-de-all-1119-xml-mrss",
+     "image": "https://static.dw.com/image/78434427_302.jpg",
+     "aggregator": false,
+     "published": "2026-10-30T15:48:00+00:00"
+    },
+    {
+     "source": "Deutschlandfunk",
+     "region": "DE",
+     "weight": 0.95,
+     "title": "Ukraine-Krieg - Menschen verlassen russisch besetzte Stadt Oleschky",
+     "summary": "Trotz anhaltender Kämpfe in anderen Teilen des Landes hat in der von Russland besetzten ukrainischen Stadt Oleschky eine gemeinsame humanitäre Hilfsaktion begonnen. Nach Angaben beider Seiten werden die Bewohner mit Lebensmitteln, Medikamenten und Hygieneartikeln versorgt. Es handelt sich um die größte humanitäre Hilfsaktion seit Kriegsbeginn im Februar 2022.",
+     "link": "https://www.deutschlandfunk.de/menschen-verlassen-russisch-besetzte-stadt-oleschky-100.html",
+     "image": "https://bilder.deutschlandfunk.de/7c/36/4c/6e/7c364c6e-7e1c-4d49-a4ad-d0f5af85846f/ukraine-waffenruhe-oleschky-100-1920x1920.jpg",
+     "aggregator": false,
+     "published": "2026-10-30T17:32:37+00:00"
+    },
+    {
+     "source": "ORF",
+     "region": "AT",
+     "weight": 0.95,
+     "title": "Evakuierung „ohne Zwischenfälle“",
+     "summary": "Am Freitag ist in der von Russland besetzten Frontstadt Oleschky die erhoffte Evakuierung durchgeführt worden. Die seit drei Tagen haltende lokale Feuerpause ermöglichte den Einsatz in der Stadt, die zuvor de facto ausgehungert worden war. Es habe keine „Zwischenfälle oder Störungen“ gegeben, hieß es.",
+     "link": "https://orf.at/stories/3446633/",
+     "image": null,
+     "aggregator": false,
+     "published": "2026-10-30T17:59:05+00:00"
+    },
+    {
+     "source": "ORF",
+     "region": "AT",
+     "weight": 0.95,
+     "title": "Evakuierung von Oleschky läuft",
+     "summary": "Am Freitag haben in der von Russland besetzten Frontstadt Oleschky die Evakuierung und die Lieferung von Hilfsgütern begonnen. Die seit drei Tagen haltende lokale Feuerpause ermöglichte den Einsatz in der Stadt, die zuvor de facto ausgehungert worden war. Russland dämpfte zugleich Hoffnungen, die Feuerpause könnte ein Vorbild für weitere Friedenspläne sein.",
+     "link": "https://orf.at/stories/3446607/",
+     "image": null,
+     "aggregator": false,
+     "published": "2026-10-30T12:47:49+00:00"
+    }
+   ]
+  },
+  {
+   "id": 1,
+   "score": 19.6,
+   "outlets": [
+    "ZDFheute",
+    "Deutsche Welle",
+    "Deutschlandfunk",
+    "SRF News",
+    "heise online",
+    "DER STANDARD",
+    "WELT",
+    "n-tv",
+    "Golem"
+   ],
+   "regions": [
+    "AT",
+    "CH",
+    "DE",
+    "INT"
+   ],
+   "trend": [],
+   "newest": "2026-10-30T17:32:37+00:00",
+   "articles": [
+    {
+     "source": "ZDFheute",
+     "region": "DE",
+     "weight": 1.0,
+     "title": "Er war Captain Picard: Schauspieler Patrick Stewart gestorben",
+     "summary": "Patrick Stewart ist mit 86 Jahren gestorben. Als Captain Picard in \"Star Trek\" wurde er weltbekannt. Seine Laufbahn begann am Theater, dem er bis ins hohe Alter treu blieb.",
+     "link": "https://www.zdfheute.de/video/panorama-patrick-stewart-tot-100.html",
+     "image": "https://www.zdfheute.de/assets/patrick-stewart-schauspieler-tot-100~384x216?cb=1793303856630",
+     "aggregator": false,
+     "published": "2026-10-30T08:48:11+00:00"
+    },
+    {
+     "source": "Deutsche Welle",
+     "region": "INT",
+     "weight": 0.95,
+     "title": "Star-Trek-Schauspieler Patrick Stewart ist tot",
+     "summary": "Als Captain Picard auf der Enterprise gelangte Shakespeare-Mime Patrick Stewart zu Weltruhm. Im Alter von 86 Jahren ist er jetzt in Los Angeles gestorben. Fans und Stars trauern.",
+     "link": "https://www.dw.com/de/star-trek-schauspieler-patrick-stewart-ist-tot/a-79803535?maca=de-rss-de-all-1119-xml-mrss",
+     "image": "https://static.dw.com/image/79803158_302.jpg",
+     "aggregator": false,
+     "published": "2026-10-30T06:39:00+00:00"
+    },
+    {
+     "source": "Deutschlandfunk",
+     "region": "DE",
+     "weight": 0.95,
+     "title": "Captain Jean-Luc Picard - \"Star Trek\": Schauspieler Patrick Stewart gestorben",
+     "summary": "Der Tod des Schauspielers Patrick Stewart hat weltweit für Trauer gesorgt. Stewart war vor allem durch seine Rolle als Captain Jean-Luc Picard in der Serie \"Star Trek\" bekannt geworden. Kollegen und Fans zollen dem britischen Star Tribut.",
+     "link": "https://www.deutschlandfunk.de/star-trek-schauspieler-patrick-stewart-gestorben-106.html",
+     "image": "https://bilder.deutschlandfunk.de/68/4e/b3/c1/684eb3c1-7a30-47b5-b86a-863ea91c5823/stewart-patrick-star-trek-100-1280x1280.jpg",
+     "aggregator": false,
+     "published": "2026-10-30T17:32:37+00:00"
+    },
+    {
+     "source": "SRF News",
+     "region": "CH",
+     "weight": 0.95,
+     "title": "«Star Trek»-Interview – Patrick Stewart: Warum er als Picard der ideale Captain war",
+     "summary": "Als Jean-Luc Picard wurde Patrick Stewart zur Ikone. Ein Sci-Fi-Experte über das Vermächtnis des «besten» Captains.",
+     "link": "https://www.srf.ch/kultur/film-serien/star-trek-interview-patrick-stewart-warum-er-als-picard-der-ideale-captain-war",
+     "image": "https://www.srf.ch/static/cms/images//320ws/185825.webp",
+     "aggregator": false,
+     "published": "2026-10-30T16:34:42+00:00"
+    },
+    {
+     "source": "SRF News",
+     "region": "CH",
+     "weight": 0.95,
+     "title": "Bekannt aus «Star Trek» – Patrick Stewart stirbt 86-jährig",
+     "summary": "Der britische Schauspieler Patrick Stewart ist im Alter von 86 Jahren in Los Angeles gestorben.",
+     "link": "https://www.srf.ch/news/bekannt-aus-star-trek-patrick-stewart-stirbt-86-jaehrig",
+     "image": "https://www.srf.ch/static/cms/images//320ws/2e7f42.webp",
+     "aggregator": false,
+     "published": "2026-10-30T04:11:16+00:00"
+    },
+    {
+     "source": "heise online",
+     "region": "DE",
+     "weight": 0.85,
+     "title": "Patrick Stewart ist tot",
+     "summary": "Der britische Schauspieler Patrick Stewart ist am Mittwoch gestorben. Er wurde 86 Jahre alt.",
+     "link": "https://www.heise.de/news/Patrick-Stewart-ist-tot-11505529.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
+     "image": null,
+     "aggregator": false,
+     "published": "2026-10-29T20:29:00+00:00"
+    },
+    {
+     "source": "DER STANDARD",
+     "region": "AT",
+     "weight": 0.85,
+     "title": "Der königliche Fantasyheld Patrick Stewart",
+     "summary": "Der klassisch ausgebildete Schauspieler spielte früh in Fantasyfilmen im Fernsehen mit – seine Paraderollen fand er bei \"Star Trek\" und den \"X-Men\". Ein Nachruf",
+     "link": "https://www.derstandard.at/story/3000000346732/der-koenigliche-fantasyheld-patrick-stewart?ref=rss",
+     "image": "https://i.ds.at/BKnMvw/rs:fill:150:0/plain/lido-images/2026/10/30/5df7ba5d-f81e-4fae-9a29-bfe1309f9454.jpg",
+     "aggregator": false,
+     "published": "2026-10-30T09:44:12+00:00"
+    },
+    {
+     "source": "DER STANDARD",
+     "region": "AT",
+     "weight": 0.85,
+     "title": "Fans und Wegbegleiter trauern um Sir Patrick Stewart",
+     "summary": "Der aus Star Trek und den Marvel-Filmen bekannte Schauspieler starb im Alter von 86 in seinem zu Hause im kalifornischen Los Angeles",
+     "link": "https://www.derstandard.at/story/3000000346705/fans-und-wegbegleiter-trauern-um-sir-patrick-stewart?ref=rss",
+     "image": "https://i.ds.at/m1Daig/rs:fill:150:0/plain/lido-images/2026/10/30/b79ccf4c-9075-416a-891a-254d11eab946.jpg",
+     "aggregator": false,
+     "published": "2026-10-30T09:10:10+00:00"
+    }
+   ]
+  },
+  {
+   "id": 2,
+   "score": 11.1,
+   "outlets": [
+    "tagesschau",
+    "Deutschlandfunk",
+    "SPIEGEL",
+    "n-tv"
+   ],
+   "regions": [
+    "DE"
+   ],
+   "trend": [],
+   "newest": "2026-10-30T17:32:37+00:00",
+   "articles": [
+    {
+     "source": "tagesschau",
+     "region": "DE",
+     "weight": 1.0,
+     "title": "Klage wegen Unterrichtsausfall: Ex-Schüler scheitert vor Gericht",
+     "summary": "Mehr als 400 ausgefallene Unterrichtsstunden, aber kein Anspruch auf eine Neubewertung des Abiturs: Die Klage eines ehemaligen Schülers aus Landau gegen das Land Rheinland-Pfalz blieb ohne Erfolg. Von Christoph Kehlbach.",
+     "link": "https://www.tagesschau.de/inland/gesellschaft/unterrichtsausfall-klage-abgewiesen-100.html",
+     "image": "https://images.tagesschau.de/image/14102e35-48e8-439a-8fb0-4c556e6d4d00/AAABmEAxqQI/AAABnSSvrFg/16x9-big/abitur-138.jpg?width=1920",
+     "aggregator": false,
+     "published": "2026-10-30T15:55:15+00:00"
+    },
+    {
+     "source": "tagesschau Inland",
+     "region": "DE",
+     "weight": 1.0,
+     "title": "Klage wegen Unterrichtsausfall: Ex-Schüler scheitert vor Gericht",
+     "summary": "Mehr als 400 ausgefallene Unterrichtsstunden, aber kein Anspruch auf eine Neubewertung des Abiturs: Die Klage eines ehemaligen Schülers aus Landau gegen das Land Rheinland-Pfalz blieb ohne Erfolg. Von Christoph Kehlbach.",
+     "link": "https://www.tagesschau.de/inland/gesellschaft/unterrichtsausfall-klage-abgewiesen-100.html",
+     "image": "https://images.tagesschau.de/image/14102e35-48e8-439a-8fb0-4c556e6d4d00/AAABmEAxqQI/AAABnSSvrFg/16x9-big/abitur-138.jpg?width=1920",
+     "aggregator": false,
+     "published": "2026-10-30T15:55:15+00:00"
+    },
+    {
+     "source": "Deutschlandfunk",
+     "region": "DE",
+     "weight": 0.95,
+     "title": "Schule - Zu viel Unterrichtsausfall: Ex-Abiturient verklagt Rheinland-Pfalz - und verliert vor Gericht",
+     "summary": "In einem ungewöhnlichen Rechtsstreit um ausgefallene Schulstunden an einem Gymnasium in Rheinland-Pfalz hat das Gericht die Klage eines ehemaligen Schülers abgewiesen. Ein 20 Jahre alter ehemaliger Abiturient warf dem Land vor, dass während seiner Oberstufenzeit in Landau immer wieder kein regulärer Unterricht stattgefunden habe.",
+     "link": "https://www.deutschlandfunk.de/zu-viel-unterrichtsausfall-ex-abiturient-verklagt-rheinland-pfalz-und-verliert-vor-gericht-100.html",
+     "image": "https://bilder.deutschlandfunk.de/9e/49/51/26/9e495126-edc0-4f16-8917-0ae5116309b0/schule-lehrermangel-unterrichtsausfall-100-1920x1920.jpg",
+     "aggregator": false,
+     "published": "2026-10-30T17:32:37+00:00"
+    },
+    {
+     "source": "SPIEGEL",
+     "region": "DE",
+     "weight": 0.9,
+     "title": "Neustadt an der Weinstraße: Ex-Abiturient scheitert mit Klage wegen Unterrichtsausfall",
+     "summary": "Wegen 405 ausgefallener Unterrichtsstunden wollte Elija Walk eine Neubewertung seiner Abiturleistungen. Das Verwaltungsgericht wies die Klage ab. Die Frage müsse politisch entschieden werden.",
+     "link": "https://www.spiegel.de/panorama/justiz/neustadt-an-der-weinstrasse-ex-abiturient-scheitert-mit-klage-wegen-unterrichtsausfall-a-3d9a6e1c-8313-4df5-ab51-e1efd3afcd24#ref=rss",
+     "image": "https://cdn.prod.www.spiegel.de/images/08d74992-297c-4f79-b9aa-9c9687e0136d_w520_r2.08_fpx44_fpy49.99.jpg",
+     "aggregator": false,
+     "published": "2026-10-30T15:56:00+00:00"
+    },
+    {
+     "source": "n-tv",
+     "region": "DE",
+     "weight": 0.8,
+     "title": "Hunderte Stunden ausgefallen: Ex-Schüler klagt wegen Lücken im Stundenplan - und verliert",
+     "summary": "An einem Gymnasium in Rheinland-Pfalz fallen Hunderte Unterrichtsstunden aus. Ein ehemaliger Abiturient nimmt das nicht hin und zieht vor Gericht: Er fordert eine Neubewertung seiner Noten. Das Gericht weist seine Klage ab, hält diese aber dennoch für wertvoll.",
+     "link": "https://www.n-tv.de/panorama/Rheinland-Pfalz-Ehemaliger-Abiturient-klagt-wegen-Unterrichtsausfall-und-verliert-id31477275.html",
+     "image": "https://www.n-tv.de/img/31477297/1793370819/Img_4_3/250/620688634.jpg",
+     "aggregator": false,
+     "published": "2026-10-30T15:18:40+00:00"
+    }
+   ]
+  },
+  {
+   "id": 3,
+   "score": 11.1,
+   "outlets": [
+    "ZDFheute",
+    "Deutschlandfunk",
+    "Handelsblatt",
+    "WELT"
+   ],
+   "regions": [
+    "DE"
+   ],
+   "trend": [],
+   "newest": "2026-10-30T17:32:37+00:00",
+   "articles": [
+    {
+     "source": "ZDFheute",
+     "region": "DE",
+     "weight": 1.0,
+     "title": "Pressekonferenz Lee Jae Myung und Friedrich Merz in Seoul",
+     "summary": "Pressekonferenz mit Lee Jae Myung (Präsident Südkorea) und Friedrich Merz (CDU, Bundeskanzler)",
+     "link": "https://www.phoenix.de/php/mediaplayer/vod_embed.php?cmsid=5243626",
+     "image": "https://www.zdfheute.de/assets/teaser-phoenix-pressekonferenz-lee-jae-myung-und-friedrich-merz-in-seoul-5243626-100~384x216?cb=1793281967468",
+     "aggregator": false,
+     "published": "2026-10-29T13:40:00+00:00"
+    },
+    {
+     "source": "ZDFheute",
+     "region": "DE",
+     "weight": 1.0,
+     "title": "Zwischenbilanz Asienreise: \"Deutschland wird als ein ganz wichtiger Partner angesehen\"",
+     "summary": "Pressekonferenz von Bundeskanzler Friedrich Merz in Tokio nach gemeinsamen Gesprächen mit der japanischen Premierministerin Sanae Takaichi",
+     "link": "https://www.phoenix.de/php/mediaplayer/vod_embed.php?cmsid=5243435",
+     "image": "https://www.zdfheute.de/assets/teaser-phoenix-zwischenbilanz-asienreise-deutschland-wird-als-ein-ganz-wichtiger-partner-angesehen-5243435-100~384x216?cb=1793195601904",
+     "aggregator": false,
+     "published": "2026-10-28T13:29:00+00:00"
+    },
+    {
+     "source": "ZDFheute",
+     "region": "DE",
+     "weight": 1.0,
+     "title": "Deutsch-japanischer Wirtschaftsgipfel: \"Globale politische Allianz für regelgebundenen Handel\"",
+     "summary": "Pressebegegnung von Bundeskanzler Friedrich Merz (CDU) und Sanae Takaichi, Premierministerin Japan",
+     "link": "https://www.phoenix.de/merz-in-asien-a-5243284.html",
+     "image": "https://www.zdfheute.de/assets/teaser-phoenix-deutsch-japanischer-wirtschaftsgipfel-globale-politische-allianz-fuer-regelgebundenen-handel-5243478-100~384x216?cb=1793198569003",
+     "aggregator": false,
+     "published": "2026-10-28T12:43:00+00:00"
+    },
+    {
+     "source": "ZDFheute",
+     "region": "DE",
+     "weight": 1.0,
+     "title": "Vor Merz-Rede: Zwischenfazit zum CSU-Parteitags mit Alexander Kain und Sara Sievert",
+     "summary": "Vor Auftritt des Bundeskanzlers Friedrich Merz (CDU) auf dem CSU-Parteitags: phoenix-Reporter Gerd-Joachim von Fallois spricht mit Alexander Kain (stellv. Chefredakteur Mediengruppe Bayern) und Sara Sievert (stellv. Redaktionsleiterin Table Briefings).",
+     "link": "https://www.phoenix.de/sendungen/ereignisse/phoenix-vor-ort/ua-csu-parteitag-live-a-5241747.html",
+     "image": "https://www.zdfheute.de/assets/teaser-phoenix-vor-merz-rede-zwischenfazit-zum-csu-parteitags-mit-alexander-kain-und-sara-sievert-5242629-100~384x216?cb=1792839765720",
+     "aggregator": false,
+     "published": "2026-10-24T10:36:00+00:00"
+    },
+    {
+     "source": "ZDFheute",
+     "region": "DE",
+     "weight": 1.0,
+     "title": "EU-Beitritt: \"Montenegro ist auf dem besten Weg, andere werden folgen\"",
+     "summary": "Stetement von Bundeskanzler Friedrich Merz zum Auftakt des Westbalkangipfels in Sveti Stefan, Montenegro",
+     "link": "https://www.phoenix.de/westbalkan-gipfel-a-5241606.html",
+     "image": "https://www.zdfheute.de/assets/teaser-phoenix-eu-beitritt-montenegro-ist-auf-dem-besten-weg-andere-werden-folgen-5241721-100~384x216?cb=1792684862693",
+     "aggregator": false,
+     "published": "2026-10-22T15:03:00+00:00"
+    },
+    {
+     "source": "Deutschlandfunk",
+     "region": "DE",
+     "weight": 0.95,
+     "title": "Asien-Reise beendet - Merz betont Bedeutung der Handelsbeziehungen zu Singapur, Japan und Südkorea",
+     "summary": "Bundeskanzler Merz hat zum Abschluss seiner Asien-Reise nach Singapur, Japan und Südkorea die Bedeutung der Handelsbeziehungen zu den drei Ländern hervorgehoben.",
+     "link": "https://www.deutschlandfunk.de/merz-betont-bedeutung-der-handelsbeziehungen-zu-singapur-japan-und-suedkorea-100.html",
+     "image": "https://bilder.deutschlandfunk.de/08/54/f6/d6/0854f6d6-3543-4c3f-9cd6-1662191d823a/bundeskanzler-merz-asienreise-suedkorea-100-1920x1920.jpg",
+     "aggregator": false,
+     "published": "2026-10-30T17:32:37+00:00"
+    },
+    {
+     "source": "Handelsblatt",
+     "region": "DE",
+     "weight": 0.9,
+     "title": "Asien: Merz hofft auf ein vereintes Korea",
+     "summary": "Der Bundeskanzler hat am Freitag die demilitarisierte Zone zwischen Nord- und Südkorea besucht. Merz betonte mit Blick auf die Teilung der Halbinsel, „wie dankbar wir sein dürfen, dass wir das in Deutschland seit 36 Jahren nicht mehr erleben müssen“.",
+     "link": "https://www.handelsblatt.com/video/politik/asien-merz-hofft-auf-ein-vereintes-korea/100266208.html",
+     "image": null,
+     "aggregator": false,
+     "published": "2026-10-30T14:07:33+00:00"
+    },
+    {
+     "source": "WELT",
+     "region": "DE",
+     "weight": 0.8,
+     "title": "Markus Söder ist und bleibt ein unheimlicher Charakter",
+     "summary": "Bundeskanzler Friedrich Merz braucht keine weiteren Gegner, es genügen die Freunde im eigenen Lager. Das zeigt das Manöver von Markus Söder bei der Suche nach dem nächsten Bundespräsidenten.",
+     "link": "https://www.welt.de/debatte/article6ae475749cc46e5eac2c36e9/csu-chef-markus-soeder-ist-und-bleibt-ein-unheimlicher-charakter.html",
+     "image": "https://images.welt.de/6ae475749cc46e5eac2c36e9/0648f6e0d468226e9664e01c5f2763c0/ci23x11-w1200/dwosb-jacques-schuster-jpg",
+     "aggregator": false,
+     "published": "2026-10-30T16:09:28+00:00"
+    }
+   ]
+  },
+  {
+   "id": 4,
+   "score": 11.0,
+   "outlets": [
+    "tagesschau",
+    "Deutschlandfunk",
+    "DER STANDARD",
+    "n-tv"
+   ],
+   "regions": [
+    "AT",
+    "DE"
+   ],
+   "trend": [],
+   "newest": "2026-10-30T17:32:37+00:00",
+   "articles": [
+    {
+     "source": "tagesschau",
+     "region": "DE",
+     "weight": 1.0,
+     "title": "Zehntausende Menschen protestieren in Italien gegen hohe Inflation und niedrige Löhne",
+     "summary": "Zehntausende Menschen protestieren in Italien gegen hohe Inflation und niedrige Löhne",
+     "link": "https://www.tagesschau.de/video/video-1675266.html",
+     "image": "https://images.tagesschau.de/image/df1564cd-4262-4ed1-a3bf-2bbf10802549/AAABoY2ycpk/AAABnSSvrFg/16x9-big/sendungsbild-1819774.jpg?width=1920",
+     "aggregator": false,
+     "published": "2026-10-30T16:44:28+00:00"
+    },
+    {
+     "source": "Deutschlandfunk",
+     "region": "DE",
+     "weight": 0.95,
+     "title": "Italien - Zehntausende Menschen protestieren gegen hohe Inflation und niedrige Löhne",
+     "summary": "In Italien sind aus Protest gegen die Regierung von Ministerpräsidentin Meloni zehntausende Menschen auf die Straße gegangen.",
+     "link": "https://www.deutschlandfunk.de/zehntausende-menschen-protestieren-gegen-hohe-inflation-und-niedrige-loehne-102.html",
+     "image": "https://bilder.deutschlandfunk.de/82/bb/64/a2/82bb64a2-0e56-4931-9295-4fb3dbe200c3/italien-streik-demontration-generalstreik-mindestrente-loehne-lebenshaltungskosten-100-1920x1920.jpg",
+     "aggregator": false,
+     "published": "2026-10-30T17:32:37+00:00"
+    },
+    {
+     "source": "DER STANDARD",
+     "region": "AT",
+     "weight": 0.85,
+     "title": "Generalstreik in Italien: Proteste in mehr als 50 Städten",
+     "summary": "Hohe Inflation, niedrige Löhne und hohe Rüstungsausgaben: Zehntausende sind bei landesweiten Demonstrationen in Italien gegen Giorgia Melonis rechte Regierung auf die Straße gegangen",
+     "link": "https://www.derstandard.at/story/3000000346716/streik-gegen-hohe-lebenshaltungskosten-und-aufruestung-in-italien?ref=rss",
+     "image": "https://i.ds.at/S43cBA/rs:fill:150:0/plain/lido-images/2026/10/29/7083d0a5-b3e0-4bdd-ad9a-8b1bb7d34098.jpg",
+     "aggregator": false,
+     "published": "2026-10-30T08:41:58+00:00"
+    },
+    {
+     "source": "n-tv",
+     "region": "DE",
+     "weight": 0.8,
+     "title": "Hohe Inflation, geringe Löhne: Hunderttausende Italiener demonstrieren gegen Melonis Politik",
+     "summary": "Auch Italien gehört zu den Ländern, in denen zahlreiche Menschen aus Protest gegen die amtierende Regierung auf die Straßen gehen. Anders als zuvor geschieht dies nun weitgehend friedlich. Trotz hoher Teilnehmerzahlen gelingt den Veranstaltern eines nicht.",
+     "link": "https://www.n-tv.de/politik/Hunderttausende-Italiener-demonstrieren-gegen-Melonis-Politik-id31478204.html",
+     "image": "https://www.n-tv.de/img/31478174/1793381840/Img_4_3/250/629203609.jpg",
+     "aggregator": false,
+     "published": "2026-10-30T17:20:03+00:00"
+    }
+   ]
+  },
+  {
+   "id": 5,
+   "score": 10.08,
+   "outlets": [
+    "ORF",
+    "SPIEGEL",
+    "DER STANDARD",
+    "n-tv"
+   ],
+   "regions": [
+    "AT",
+    "DE"
+   ],
+   "trend": [],
+   "newest": "2026-10-30T15:24:26+00:00",
+   "articles": [
+    {
+     "source": "ORF",
+     "region": "AT",
+     "weight": 0.95,
+     "title": "Frankreich ruft europaweit sieben Mio. Kondome zurück",
+     "summary": "",
+     "link": "https://orf.at/stories/3446612/",
+     "image": null,
+     "aggregator": false,
+     "published": "2026-10-30T13:31:49+00:00"
+    },
+    {
+     "source": "SPIEGEL",
+     "region": "DE",
+     "weight": 0.9,
+     "title": "Frankreich: Sieben Millionen Kondome wegen Mängeln zurückgerufen",
+     "summary": "Im Sommer traten bei Kondomen in Frankreich Mängel auf, die zu einem Rückruf führten. Nun haben Ermittlungen Herstellungsfehler bei einem Produzenten aufgedeckt. Das Land warnt vor mangelhaften Produkten.",
+     "link": "https://www.spiegel.de/panorama/frankreich-sieben-millionen-kondome-wegen-maengeln-zurueckgerufen-a-21173b2c-f4a9-4fd0-a123-1a0010593170#ref=rss",
+     "image": "https://cdn.prod.www.spiegel.de/images/56b8a881-7221-4668-a05c-4e0f0318bdb2_w520_r2.08_fpx33.26_fpy50.jpg",
+     "aggregator": false,
+     "published": "2026-10-30T14:08:00+00:00"
+    },
+    {
+     "source": "DER STANDARD",
+     "region": "AT",
+     "weight": 0.85,
+     "title": "Frankreich ruft europaweit sieben Millionen Kondome zurück",
+     "summary": "Bei den ultradünnen Kondomen schwankt die Qualität der Latexschicht – sie könnten reißen oder Löcher bekommen. 15 Sorten sind betroffen",
+     "link": "https://www.derstandard.at/story/3000000346791/frankreich-ruft-europaweit-sieben-millionen-kondome-zurueck?ref=rss",
+     "image": "https://i.ds.at/0RzI4g/rs:fill:150:0/plain/lido-images/2026/05/21/cb3640d6-49f6-4547-bb09-a89cebc44bf7.jpg",
+     "aggregator": false,
+     "published": "2026-10-30T13:41:47+00:00"
+    },
+    {
+     "source": "n-tv",
+     "region": "DE",
+     "weight": 0.8,
+     "title": "Riss- und Lochgefahr: Frankreich ruft sieben Millionen Kondome in Europa zurück",
+     "summary": "Erst im Sommer rief Frankreich Hunderttausende potenziell unsichere Kondome zurück. Nach weiteren Untersuchungen wird klar: Das Ausmaß ist wesentlich größer. Millionen Kondome in ganz Europa sind betroffen. Nutzer der genannten Marken sollten aktiv werden.",
+     "link": "https://www.n-tv.de/panorama/Frankreich-ruft-sieben-Millionen-unsichere-Kondome-in-Europa-zurueck-id31477615.html",
+     "image": "https://www.n-tv.de/img/31477683/1793374812/Img_4_3/250/217611738.jpg",
+     "aggregator": false,
+     "published": "2026-10-30T15:24:26+00:00"
+    }
+   ]
+  },
+  {
+   "id": 6,
+   "score": 9.6,
+   "outlets": [
+    "ZDFheute",
+    "Deutschlandfunk",
+    "ORF"
+   ],
+   "regions": [
+    "AT",
+    "DE"
+   ],
+   "trend": [],
+   "newest": "2026-10-30T17:32:37+00:00",
+   "articles": [
+    {
+     "source": "ZDFheute",
+     "region": "DE",
+     "weight": 1.0,
+     "title": "Deutschlands Wirtschaft im dritten Quartal leicht gewachsen",
+     "summary": "Die deutsche Wirtschaft ist trotz Belastungen leicht gewachsen. Das Bruttoinlandsprodukt (BIP) legte im dritten Quartal um 0,2 Prozent zu. Ökonomen warnen trotzdem.",
+     "link": "https://www.zdfheute.de/wirtschaft/bip-deutschland-gewachsen-vorquartal-100.html",
+     "image": "https://www.zdfheute.de/assets/typical-deutsche-wirtschaft-100~384x216?cb=1793352463142",
+     "aggregator": false,
+     "published": "2026-10-30T10:34:00+00:00"
+    },
+    {
+     "source": "Deutschlandfunk",
+     "region": "DE",
+     "weight": 0.95,
+     "title": "Statistisches Bundesamt - Deutsche Wirtschaft wächst das dritte Quartal in Folge",
+     "summary": "Die ​deutsche Wirtschaft ist das dritte Quartal in Folge gewachsen.",
+     "link": "https://www.deutschlandfunk.de/deutsche-wirtschaft-waechst-das-dritte-quartal-in-folge-102.html",
+     "image": "https://bilder.deutschlandfunk.de/f7/a0/8f/8f/f7a08f8f-b0c6-48f8-b6fd-6410d620525a/statistisches-bundesamt-102-1920x1920.jpg",
+     "aggregator": false,
+     "published": "2026-10-30T17:32:37+00:00"
+    },
+    {
+     "source": "ORF",
+     "region": "AT",
+     "weight": 0.95,
+     "title": "WIFO: Wirtschaft im dritten Quartal leicht gewachsen",
+     "summary": "",
+     "link": "https://orf.at/stories/3446594/",
+     "image": null,
+     "aggregator": false,
+     "published": "2026-10-30T10:42:27+00:00"
+    }
+   ]
+  },
+  {
+   "id": 7,
+   "score": 9.6,
+   "outlets": [
+    "ZDFheute",
+    "Deutsche Welle",
+    "Deutschlandfunk"
+   ],
+   "regions": [
+    "DE",
+    "INT"
+   ],
+   "trend": [],
+   "newest": "2026-10-30T17:32:37+00:00",
+   "articles": [
+    {
+     "source": "ZDFheute",
+     "region": "DE",
+     "weight": 1.0,
+     "title": "\"Mein Mutterland ist die Türkei, aber das Vaterland hier\"",
+     "summary": "Das Anwerbeabkommen mit der Türkei von 1961 hat unser Land verändert. Inzwischen lebt die vierte Generation mit türkischen Wurzeln in Deutschland, rund 2,6 Millionen Menschen.",
+     "link": "https://www.zdfheute.de/politik/gastarbeiter-anwerbeabkommen-tuerkei-wirtschaftswunder-100.html",
+     "image": "https://www.zdfheute.de/assets/sabri-aydin-100~384x216?cb=1793290170753",
+     "aggregator": false,
+     "published": "2026-10-30T13:26:00+00:00"
+    },
+    {
+     "source": "Deutsche Welle",
+     "region": "INT",
+     "weight": 0.95,
+     "title": "2,6 Millionen Menschen mit türkischen Wurzeln in Deutschland",
+     "summary": "Vor 65 Jahren hat Deutschland ein Anwerbeabkommen mit der Türkei geschlossen. Aktuelle Zahlen zeigen, wie sehr Menschen mit türkischer Einwanderungsgeschichte inzwischen Bestandteil der Gesellschaft geworden sind.",
+     "link": "https://www.dw.com/de/2-6-millionen-menschen-mit-türkischen-wurzeln-in-deutschland/a-79793977?maca=de-rss-de-all-1119-xml-mrss",
+     "image": "https://static.dw.com/image/79402508_302.jpg",
+     "aggregator": false,
+     "published": "2026-10-29T11:28:00+00:00"
+    },
+    {
+     "source": "Deutschlandfunk",
+     "region": "DE",
+     "weight": 0.95,
+     "title": "\"Gastarbeiter\" - 65 Jahre deutsch-türkisches Anwerbeabkommen: Ein Vertrag, der Deutschland stärker verändert hat als andere",
+     "summary": "Heute vor 65 Jahren wurde zwischen Deutschland und der Türkei ein Anwerbeabkommen geschlossen. Der Vertrag vom 30. Oktober 1961 hat Deutschland in den Folgejahren nach Ansicht vieler Experten stärker verändert als ähnliche Abkommen.",
+     "link": "https://www.deutschlandfunk.de/65-jahre-deutsch-tuerkisches-anwerbeabkommen-ein-vertrag-der-deutschland-staerker-veraendert-hat-als-100.html",
+     "image": "https://bilder.deutschlandfunk.de/FI/LE/_a/d2/FILE_ad2bd48cca12725b7f9700f2537a00e9/98164991-jpg-100-768x768.jpg",
+     "aggregator": false,
+     "published": "2026-10-30T17:32:37+00:00"
+    }
+   ]
+  },
+  {
+   "id": 8,
+   "score": 9.59,
+   "outlets": [
+    "ZDFheute",
+    "Deutsche Welle",
+    "SRF News"
+   ],
+   "regions": [
+    "CH",
+    "DE",
+    "INT"
+   ],
+   "trend": [],
+   "newest": "2026-10-30T17:32:00+00:00",
+   "articles": [
+    {
+     "source": "ZDFheute",
+     "region": "DE",
+     "weight": 1.0,
+     "title": "3.000 Meter hohe Aschewolke über den Philippinen",
+     "summary": "Auf den Philippinen ist der Vulkan Mayon ausgebrochen - und hat eine 3.000 Meter hohe Aschewolke in die Luft geschleudert.",
+     "link": "https://www.zdfheute.de/video/panorama-vulkan-mayon-ausgebrochen-video-100.html",
+     "image": "https://www.zdfheute.de/assets/vulkan-mayon-ausbruch-100~384x216?cb=1793381975664",
+     "aggregator": false,
+     "published": "2026-10-30T17:32:00+00:00"
+    },
+    {
+     "source": "Deutsche Welle",
+     "region": "INT",
+     "weight": 0.95,
+     "title": "Vulkan Mayon auf den Philippinen ausgebrochen",
+     "summary": "Nach einem Ausbruch des Vulkans Mayon auf den Philippinen haben die Behörden die Warnstufe erhöht. Eine größere Eruption könnte bevorstehen.",
+     "link": "https://www.dw.com/de/vulkan-mayon-auf-den-philippinen-ausgebrochen/a-79808103?maca=de-rss-de-all-1119-xml-mrss",
+     "image": "https://static.dw.com/image/79807940_302.jpg",
+     "aggregator": false,
+     "published": "2026-10-30T13:37:00+00:00"
+    },
+    {
+     "source": "SRF News",
+     "region": "CH",
+     "weight": 0.95,
+     "title": "Südöstlich von Manila – Vulkan Mayon auf den Philippinen ausgebrochen",
+     "summary": "Das lokale Institut für Vulkanologie und Seismologie erhöhte die Warnstufe; möglicherweise stehe eine Eruption bevor.",
+     "link": "https://www.srf.ch/news/international/suedoestlich-von-manila-vulkan-mayon-auf-den-philippinen-ausgebrochen",
+     "image": "https://www.srf.ch/static/cms/images//320ws/3c7e99f.webp",
+     "aggregator": false,
+     "published": "2026-10-30T11:00:09+00:00"
+    }
+   ]
+  },
+  {
+   "id": 9,
+   "score": 9.57,
+   "outlets": [
+    "tagesschau Inland",
+    "Deutsche Welle",
+    "Süddeutsche",
+    "heise online"
+   ],
+   "regions": [
+    "DE",
+    "INT"
+   ],
+   "trend": [],
+   "newest": "2026-10-30T12:39:07+00:00",
+   "articles": [
+    {
+     "source": "tagesschau Inland",
+     "region": "DE",
+     "weight": 1.0,
+     "title": "Kritik an Audi-Chef Döllner reißt nach Auftritt mit Trump nicht ab",
+     "summary": "Der Auftritt von Audi-Chef Döllner an der Seite von US-Präsident Trump sorgt weiter für Kritik. SPD-Generalsekretär Klüssendorf fordert Konsequenzen vom Mutterkonzern VW. Audi selbst verteidigt den Auftritt.",
+     "link": "https://www.tagesschau.de/inland/audi-kritik-doellner-trump-100.html",
+     "image": "https://images.tagesschau.de/image/c75175e1-3383-485a-b61d-f9f29721e772/AAABoXnIy2Y/AAABnSSvrFg/16x9-big/doellner-trump-104.jpg?width=1920",
+     "aggregator": false,
+     "published": "2026-10-26T19:56:04+00:00"
+    },
+    {
+     "source": "Deutsche Welle",
+     "region": "INT",
+     "weight": 0.95,
+     "title": "Audi-Chef Döllner nach Auftritt mit Trump in der Kritik",
+     "summary": "Der zum Volkswagen-Konzern gehörende Autobauer Audi plant ein Werk in den USA. Das machte Audi-Chef Döllner bei einer Wahlkampfveranstaltung von US-Präsident Trump deutlich. Jetzt gibt es Kritik von mehreren Seiten.",
+     "link": "https://www.dw.com/de/audi-chef-döllner-nach-auftritt-mit-trump-in-der-kritik/a-79764234?maca=de-rss-de-all-1119-xml-mrss",
+     "image": "https://static.dw.com/image/79754483_302.jpg",
+     "aggregator": false,
+     "published": "2026-10-26T13:42:00+00:00"
+    },
+    {
+     "source": "Süddeutsche",
+     "region": "DE",
+     "weight": 0.9,
+     "title": "Wahlkampfhilfe für Trump: Der Audi-Chef wollte das Richtige und tat das Falsche",
+     "summary": "Gernot Döllner wurde durch einen Auftritt zum Wahlkampfhelfer Donald Trumps, jetzt ist er bei vielen unten durch. Er unterliegt dem Irrtum, dass er als Unternehmer nicht politisch sein muss.",
+     "link": "https://www.sueddeutsche.de/wirtschaft/usa-audi-gernot-doellner-wahlkampf-donald-trump-max-weber-essay-li.3569487",
+     "image": "https://www.sueddeutsche.de/2026/10/30/cee23ce3-9dab-4910-bb5b-caaf0e277914.jpg?rect=332%2C0%2C1992%2C1494&width=1000&fm=jpg&q=60",
+     "aggregator": false,
+     "published": "2026-10-30T12:39:07+00:00"
+    },
+    {
+     "source": "heise online",
+     "region": "DE",
+     "weight": 0.85,
+     "title": "Umweltminister Schneider: Audi wettet „auf ein totes Pferd“",
+     "summary": "Der Auftritt von Audi-Chef Döllner im Wahlkampf des US-Präsidenten erregt seit Tagen die Gemüter. Nun gibt es auch grundsätzliche Kritik am geplanten Werk.",
+     "link": "https://www.heise.de/news/Umweltminister-Schneider-Audi-wettet-auf-ein-totes-Pferd-11502541.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
+     "image": null,
+     "aggregator": false,
+     "published": "2026-10-28T08:07:00+00:00"
+    }
+   ]
+  },
+  {
+   "id": 10,
+   "score": 9.56,
+   "outlets": [
+    "ZDFheute",
+    "Deutsche Welle",
+    "ZEIT ONLINE"
+   ],
+   "regions": [
+    "DE",
+    "INT"
+   ],
+   "trend": [],
+   "newest": "2026-10-30T17:44:13+00:00",
+   "articles": [
+    {
+     "source": "ZDFheute",
+     "region": "DE",
+     "weight": 1.0,
+     "title": "Bolsonaro erklärt sich in den USA zum \"Anführer\" Brasiliens",
+     "summary": "Nach seiner Niederlage bei der Präsidentschaftswahl in Brasilien floh Flávio Bolsonaro in die USA. Von dort aus erklärte er sich nun zum \"Anführer\" seines Landes.",
+     "link": "https://www.zdfheute.de/politik/ausland/brasilien-bolsonaro-wahlsieger-lula-100.html",
+     "image": "https://www.zdfheute.de/assets/26-dpa99-u28-10-wahlverlierer-bolsonaro-kommt-in-usa-an-100~384x216?cb=1793218077355",
+     "aggregator": false,
+     "published": "2026-10-29T06:44:00+00:00"
+    },
+    {
+     "source": "Deutsche Welle",
+     "region": "INT",
+     "weight": 0.95,
+     "title": "Flávio Bolsonaro flieht nach Wahlniederlage aus Brasilien",
+     "summary": "Der Sohn des inhaftierten Ex-Präsidenten Jair Bolsonaro ist in den USA gelandet. Zwischenstationen seiner unerkannten Ausreise waren Argentinien und Ecuador.",
+     "link": "https://www.dw.com/de/flávio-bolsonaro-flieht-nach-wahlniederlage-aus-brasilien/a-79786970?maca=de-rss-de-all-1119-xml-mrss",
+     "image": "https://static.dw.com/image/79758876_302.jpg",
+     "aggregator": false,
+     "published": "2026-10-28T14:56:00+00:00"
+    },
+    {
+     "source": "ZEIT ONLINE",
+     "region": "DE",
+     "weight": 0.9,
+     "title": "Brasilien nach der Wahl: Korrupt sind immer nur die anderen",
+     "summary": "Nach Flávio Bolsonaros Flucht erklärt die halbe Welt Brasilien die Demokratie. Linke und Rechte sind sich erstaunlich einig. Das sagt mehr über sie als über das Land.",
+     "link": "https://www.zeit.de/politik/ausland/2026-10/brasilien-wahl-flucht-debatte",
+     "image": "https://img.zeit.de/politik/ausland/2026-10/jair-bolsonaro-brasilien-wahl-flucht-debatte-bild-02/original__640x360",
+     "aggregator": false,
+     "published": "2026-10-30T17:44:13+00:00"
+    }
+   ]
+  },
+  {
+   "id": 11,
+   "score": 9.5,
+   "outlets": [
+    "ZDFheute",
+    "Deutschlandfunk",
+    "SPIEGEL"
+   ],
+   "regions": [
+    "DE"
+   ],
+   "trend": [],
+   "newest": "2026-10-30T17:32:37+00:00",
+   "articles": [
+    {
+     "source": "ZDFheute",
+     "region": "DE",
+     "weight": 1.0,
+     "title": "Rehlinger: Gen-Z-Protest \"legitim\" – aber ohne Vereinnahmung",
+     "summary": "\"Gen Z regelt!\" ruft bundesweit zu Protesten für bessere Bildung und bezahlbares Leben auf. Bei \"Markus Lanz\" warnt Anke Rehlinger vor Vereinnahmung durch andere Gruppen.",
+     "link": "https://www.zdfheute.de/video/politik-anke-rehlinger-gen-z-proteste-markus-lanz-100.html",
+     "image": "https://www.zdfheute.de/assets/anke-rehlinger-markus-lanz-100~384x216?cb=1793186086448",
+     "aggregator": false,
+     "published": "2026-10-29T07:48:00+00:00"
+    },
+    {
+     "source": "ZDFheute",
+     "region": "DE",
+     "weight": 1.0,
+     "title": "Gen-Z-Proteste: Luisa Neubauer warnt vor \"Hyperventilierung\"",
+     "summary": "Für Samstag ruft die Initiative \"Gen Z regelt\" zu bundesweitem Protest auf. Viele fürchten eine Eskalation. Luisa Neubauer fordert mehr Verständnis - und ruft zu Gelassenheit auf.",
+     "link": "https://www.zdfheute.de/politik/deutschland/gen-z-jugend-protest-luisa-neubauer-debatte-100.html",
+     "image": "https://www.zdfheute.de/assets/luisa-neubauer-120~384x216?cb=1793301144761",
+     "aggregator": false,
+     "published": "2026-10-29T21:19:00+00:00"
+    },
+    {
+     "source": "Deutschlandfunk",
+     "region": "DE",
+     "weight": 0.95,
+     "title": "\"Gen Z regelt\" - Bundesweite Jugendproteste geplant - Forderung nach bezahlbarem Leben",
+     "summary": "In bundesweiten Kundgebungen wollen junge Menschen morgen für bessere Bildung und ein bezahlbares Leben auf die Straße gehen. In den vier Großstädten Berlin, Köln, Frankfurt am Main und München veranstaltet die Gruppierung \"GenZ regelt!\" eigene Kundgebungen, in 30 weiteren Städten können sich Interessenten örtlichen Initiativen anschließen.",
+     "link": "https://www.deutschlandfunk.de/bundesweite-jugendproteste-geplant-forderung-nach-bezahlbarem-leben-100.html",
+     "image": "https://bilder.deutschlandfunk.de/NO/VA/_a/cc/NOVA_acc044d89f65637de4fde774d1c68f43/craft-13515260-asset-100-1920x1920.jpg",
+     "aggregator": false,
+     "published": "2026-10-30T17:32:37+00:00"
+    },
+    {
+     "source": "SPIEGEL",
+     "region": "DE",
+     "weight": 0.9,
+     "title": "»Gen Z regelt«: Polizei will Einreise von Gewalttätern aus dem Ausland verhindern",
+     "summary": "Am Wochenende demonstrieren junge Menschen für bessere Bildung und ein bezahlbares Leben. Dafür gibt es parteiübergreifende Unterstützung. Die Sicherheitsbehörden bereiten sich aber auch auf mögliche Gewalttouristen vor.",
+     "link": "https://www.spiegel.de/panorama/justiz/gen-z-regelt-polizei-will-einreise-von-gewalttaetern-aus-dem-ausland-verhindern-a-cfeae341-0fe3-4686-9455-a4b4cf38c480#ref=rss",
+     "image": "https://cdn.prod.www.spiegel.de/images/e4f82e02-2812-4a7a-9f0f-37b3f272e306_w520_r2.08_fpx49.33_fpy50.jpg",
+     "aggregator": false,
+     "published": "2026-10-30T13:57:00+00:00"
+    }
+   ]
+  },
+  {
+   "id": 12,
+   "score": 9.44,
+   "outlets": [
+    "tagesschau",
+    "SRF News",
+    "Handelsblatt"
+   ],
+   "regions": [
+    "CH",
+    "DE",
+    "INT"
+   ],
+   "trend": [],
+   "newest": "2026-10-30T17:23:20+00:00",
+   "articles": [
+    {
+     "source": "tagesschau",
+     "region": "DE",
+     "weight": 1.0,
+     "title": "Proteste gegen Meloni: Hunderttausende demonstrieren in Italien",
+     "summary": "Hohe Lebenshaltungskosten, steigende Rüstungsausgaben, zu wenig Investition in Bildung: In Italien sind Hunderttausende Menschen gegen die Politik der Regierung auf die Straße gegangen - begleitet von einem massiven Polizeiaufgebot.",
+     "link": "https://www.tagesschau.de/ausland/europa/italien-protest-meloni-100.html",
+     "image": "https://images.tagesschau.de/image/a82583bc-7d56-47a2-b7b3-5f24582ee034/AAABoYxf0ec/AAABnSSvrFg/16x9-big/rom-demo-104.jpg?width=1920",
+     "aggregator": false,
+     "published": "2026-10-30T17:23:20+00:00"
+    },
+    {
+     "source": "tagesschau Ausland",
+     "region": "INT",
+     "weight": 1.0,
+     "title": "Proteste gegen Meloni: Hunderttausende demonstrieren in Italien",
+     "summary": "Hohe Lebenshaltungskosten, steigende Rüstungsausgaben, zu wenig Investition in Bildung: In Italien sind Hunderttausende Menschen gegen die Politik der Regierung auf die Straße gegangen - begleitet von einem massiven Polizeiaufgebot.",
+     "link": "https://www.tagesschau.de/ausland/europa/italien-protest-meloni-100.html",
+     "image": "https://images.tagesschau.de/image/a82583bc-7d56-47a2-b7b3-5f24582ee034/AAABoYxf0ec/AAABnSSvrFg/16x9-big/rom-demo-104.jpg?width=1920",
+     "aggregator": false,
+     "published": "2026-10-30T17:23:20+00:00"
+    },
+    {
+     "source": "SRF News",
+     "region": "CH",
+     "weight": 0.95,
+     "title": "Proteste in Italien – Über 100'000 demonstrieren gegen die Regierung Meloni",
+     "summary": "In über 50 Städten demonstrieren Menschen. Die grössten Kundgebungen gab es in Rom, Mailand, Neapel und Turin.",
+     "link": "https://www.srf.ch/news/international/proteste-in-italien-ueber-100-000-demonstrieren-gegen-die-regierung-meloni",
+     "image": "https://www.srf.ch/static/cms/images//320ws/99e70f.webp",
+     "aggregator": false,
+     "published": "2026-10-30T14:29:32+00:00"
+    },
+    {
+     "source": "Handelsblatt",
+     "region": "DE",
+     "weight": 0.9,
+     "title": "Italien: Hunderttausende gegen Meloni auf der Straße",
+     "summary": "Aus Sorge vor Krawallen mobilisiert die Regierung die Sicherheitskräfte. Auch Schüler demonstrieren wieder. Unterdessen schnellt die Inflation auf 5,4 Prozent - so hoch war sie seit Jahren nicht.",
+     "link": "https://www.handelsblatt.com/politik/international/italien-hunderttausende-gegen-meloni-auf-der-strasse/100266176.html",
+     "image": "https://images.handelsblatt.com/QQ-wnKUwWT7P/cover/900/506/0/0/107/106/0.5/0.5/generalstreik-in-italien-rom.jpg",
+     "aggregator": false,
+     "published": "2026-10-30T16:20:25+00:00"
+    }
+   ]
+  },
+  {
+   "id": 13,
+   "score": 9.05,
+   "outlets": [
+    "tagesschau",
+    "SRF News",
+    "WELT"
+   ],
+   "regions": [
+    "CH",
+    "DE",
+    "INT"
+   ],
+   "trend": [],
+   "newest": "2026-10-30T16:48:32+00:00",
+   "articles": [
+    {
+     "source": "tagesschau",
+     "region": "DE",
+     "weight": 1.0,
+     "title": "Wahl-Patt in Israel: Regierungsbildung nicht in Sicht",
+     "summary": "Das Endergebnis der Wahl in Israel bringt für keinen Parteienblock eine regierungsfähige Mehrheit. Jetzt könnten die arabischen Parteien zum Zuge kommen. Doch aus dem Netanjahu-Lager kommen neue Vorwürfe. Konkurrent Eisenkot reagiert. Von Tim Aßmann.",
+     "link": "https://www.tagesschau.de/ausland/asien/israel-wahlergebnis-korri-100.html",
+     "image": "https://images.tagesschau.de/image/4fd8cb36-680d-4b40-a806-2223e18d10b5/AAABoYzqT78/AAABnSSvrFg/16x9-big/wahlplakat-netanjahu-102.jpg?width=1920",
+     "aggregator": false,
+     "published": "2026-10-30T14:28:05+00:00"
+    },
+    {
+     "source": "tagesschau Ausland",
+     "region": "INT",
+     "weight": 1.0,
+     "title": "Wahl-Patt in Israel: Regierungsbildung nicht in Sicht",
+     "summary": "Das Endergebnis der Wahl in Israel bringt für keinen Parteienblock eine regierungsfähige Mehrheit. Jetzt könnten die arabischen Parteien zum Zuge kommen. Doch aus dem Netanjahu-Lager kommen neue Vorwürfe. Konkurrent Eisenkot reagiert. Von Tim Aßmann.",
+     "link": "https://www.tagesschau.de/ausland/asien/israel-wahlergebnis-korri-100.html",
+     "image": "https://images.tagesschau.de/image/4fd8cb36-680d-4b40-a806-2223e18d10b5/AAABoYzqT78/AAABnSSvrFg/16x9-big/wahlplakat-netanjahu-102.jpg?width=1920",
+     "aggregator": false,
+     "published": "2026-10-30T14:28:05+00:00"
+    },
+    {
+     "source": "tagesschau Ausland",
+     "region": "INT",
+     "weight": 1.0,
+     "title": "Netanjahu nach Wahl in Israel ohne Mehrheit und trotzdem am Hebel",
+     "summary": "Israel hat gewählt, doch keines der Lager kommt auf eine Mehrheit. Die Regierungsbildung dürfte sich hinziehen. Bis dahin bleibt Netanjahu im Amt - mit weitreichenden Folgen für den Gazastreifen, das Westjordanland und die gesamte Region. Von J.-C. Kitzler.",
+     "link": "https://www.tagesschau.de/ausland/asien/israel-wahl-mehrheitsverhaeltnisse-100.html",
+     "image": "https://images.tagesschau.de/image/ccb27d56-0f1f-423b-a8c4-a80c751d3e2f/AAABoYOG7Tk/AAABnSSvrFg/16x9-big/netanjahu-418.jpg?width=1920",
+     "aggregator": false,
+     "published": "2026-10-28T17:22:57+00:00"
+    },
+    {
+     "source": "tagesschau Ausland",
+     "region": "INT",
+     "weight": 1.0,
+     "title": "Parlamentswahl in Israel: Wofür die arabischen Parteien stehen",
+     "summary": "Die arabischen Parteien haben bei der Wahl in Israel wahrscheinlich so stark abgeschnitten wie noch nie. Ihre Unterstützung könnte der Opposition den Weg an die Macht ebnen. Was sind ihre Themen, was sind ihre Ziele? Ein Überblick.",
+     "link": "https://www.tagesschau.de/ausland/asien/israel-arabische-parteien-wahl-100.html",
+     "image": "https://images.tagesschau.de/image/7e64f4b0-859c-4402-98df-2f671f0138b3/AAABoYMDTGU/AAABnSSvrFg/16x9-big/abbas-208.jpg?width=1920",
+     "aggregator": false,
+     "published": "2026-10-28T16:08:34+00:00"
+    },
+    {
+     "source": "SRF News",
+     "region": "CH",
+     "weight": 0.95,
+     "title": "Wahlen in Israel – Die arabischen Parteien gehören zu den Gewinnern – wer sind sie?",
+     "summary": "In Israel erzielen die beiden arabischen Parteien rekordhohe Gewinne. Trotzdem dürften sie wohl nicht mitregieren.",
+     "link": "https://www.srf.ch/news/international/wahlen-in-israel-die-arabischen-parteien-gehoeren-zu-den-gewinnern-wer-sind-sie",
+     "image": "https://www.srf.ch/static/cms/images//320ws/df61f0.webp",
+     "aggregator": false,
+     "published": "2026-10-28T16:12:28+00:00"
+    },
+    {
+     "source": "SRF News",
+     "region": "CH",
+     "weight": 0.95,
+     "title": "Wahl in Israel – Die arabischen Parteien gewinnen – Eisenkot ist in der Zwickmühle",
+     "summary": "Die arabischen Parteien legen bei der Wahl in Israel kräftig zu und könnten sie über die nächste Regierung entscheiden.",
+     "link": "https://www.srf.ch/news/international/nahost/wahl-in-israel-die-arabischen-parteien-gewinnen-eisenkot-ist-in-der-zwickmuehle",
+     "image": "https://www.srf.ch/static/cms/images//320ws/0b02eca.webp",
+     "aggregator": false,
+     "published": "2026-10-28T05:02:56+00:00"
+    },
+    {
+     "source": "WELT",
+     "region": "DE",
+     "weight": 0.8,
+     "title": "Netanjahu ohne Mehrheit – Arabische Parteien könnten bei Regierungsbildung entscheidend werden",
+     "summary": "Benjamin Netanjahu hat seine Regierungsmehrheit verloren. Weder sein rechtsreligiöser Block noch die Opposition um Gadi Eisenkot erreicht eine Mehrheit. Zum Machtfaktor könnten nun die arabischen Parteien werden.",
+     "link": "https://www.welt.de/politik/ausland/video6ae4c8e82222e5e68793decb/parlamentswahl-in-israel-netanjahu-ohne-mehrheit-arabische-parteien-koennten-bei-regierungsbildung-entscheidend-werden.html",
+     "image": "https://images.welt.de/6ae4c8e82222e5e68793decb/52d69268a0f0344af1f9d0b9447da08c/ci16x9-w1200/dpa-com-261028-99-85037-jpg",
+     "aggregator": false,
+     "published": "2026-10-30T16:48:32+00:00"
+    }
+   ]
+  },
+  {
+   "id": 14,
+   "score": 9.01,
+   "outlets": [
+    "tagesschau",
+    "Handelsblatt",
+    "WELT",
+    "tagesschau.de"
+   ],
+   "regions": [
+    "DE"
+   ],
+   "trend": [],
+   "newest": "2026-10-30T15:10:23+00:00",
+   "articles": [
+    {
+     "source": "tagesschau",
+     "region": "DE",
+     "weight": 1.0,
+     "title": "Prüfung der Zusammenarbeit: US-Dienste warnten BND nach Hanning-Festnahme",
+     "summary": "Nach der Festnahme von Ex-BND-Chef August Hanning hat den BND nach Recherchen von WDR, NDR und SZ eine brisante Warnung aus den USA erreicht: Die Kooperation komme auf den Prüfstand. Das führte zu großer Aufregung.",
+     "link": "https://www.tagesschau.de/investigativ/ndr-wdr/geheimdienste-usa-hanning-100.html",
+     "image": "https://images.tagesschau.de/image/78dd291e-c875-471a-8f00-e305454f83f0/AAABoYxBD0E/AAABnSSvrFg/16x9-big/hanning-bnd-100.jpg?width=1920",
+     "aggregator": false,
+     "published": "2026-10-30T10:00:36+00:00"
+    },
+    {
+     "source": "Handelsblatt",
+     "region": "DE",
+     "weight": 0.9,
+     "title": "Spionage: Nach Hanning-Festnahme – US-Geheimdienste prüfen weitere Zusammenarbeit mit BND",
+     "summary": "Seit mehreren Wochen wird gegen den Ex-BND-Chef wegen Spionageverdachts ermittelt. Nun zeigen Recherchen: US-Geheimdienste reagierten irritiert auf die Festnahme.",
+     "link": "https://www.handelsblatt.com/politik/international/spionage-us-geheimdienste-pruefen-weitere-zusammenarbeit-mit-bnd/100266211.html",
+     "image": "https://images.handelsblatt.com/QKrmpv0d4uLr/cover/900/506/0/0/1/289/0.5/0.5/august-hanning-vor-nsa-untersuchungsausschuss.jpg",
+     "aggregator": false,
+     "published": "2026-10-30T14:28:51+00:00"
+    },
+    {
+     "source": "WELT",
+     "region": "DE",
+     "weight": 0.8,
+     "title": "US-Geheimdienste schicken nach Festnahme von Hanning Warnung an BND",
+     "summary": "Der Spionageverdacht gegen den ehemaligen BND‑Chef Hanning belastet das Vertrauen der US-Dienste. Die Zusammenarbeit mit dem BND läuft nach Angaben aus Sicherheitskreisen aber weiter normal.",
+     "link": "https://www.welt.de/politik/deutschland/article6ae4a3ad3620137294c249ea/august-hanning-us-geheimdienste-schicken-nach-festnahme-warnung-an-bnd.html",
+     "image": "https://images.welt.de/6ae4a3ad3620137294c249ea/7ea15a6c453be87038de1287d8203b16-master/ci23x11-w1200/dpa-com-261030-935-1709330-jpg",
+     "aggregator": false,
+     "published": "2026-10-30T15:10:23+00:00"
+    },
+    {
+     "source": "tagesschau.de",
+     "region": "DE",
+     "weight": 0.6,
+     "title": "Fall August Hanning: USA stellen Geheimdienstkooperation mit Deutschland auf den Prüfstand",
+     "summary": "Fall August Hanning: USA stellen Geheimdienstkooperation mit Deutschland auf den Prüfstand tagesschau.de Festnahme von August Hanning: US-Geheimdienste überprüfen offenbar Kooperation mit dem BND DIE ZEIT US-Geheimdienste warnten den BND nach Hanning-Festnahme | USA-News T-Online JVA Münster: Untersuchungshaft trotz Leukämie – Neue Details im Fall von Ex-BND-Chef August Hanning WELT US-Geheimdienste drohen BND mit Informationsende n-tv.de",
+     "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNYk85SjAwcTJDMUk2dUZrUEdfbXJESENxcXZ3U0F4Zk0xcGdrSE9jMUo4a21nWTRBQXhZWEdOcjR2MGFJSkV4UkljbTh6T0pwbVpGd051LU9wRFAyRHVFZGNocU41aXd2VmpYbzVVbVVvcmxQdDVIdTU3OGVmTDU4dmNqZ2FJRWJ6?oc=5",
+     "image": null,
+     "aggregator": true,
+     "published": "2026-10-30T10:00:00+00:00"
+    }
+   ]
+  },
+  {
+   "id": 15,
+   "score": 9.0,
+   "outlets": [
+    "Deutschlandfunk",
+    "WirtschaftsWoche",
+    "n-tv"
+   ],
+   "regions": [
+    "DE"
+   ],
+   "trend": [],
+   "newest": "2026-10-30T17:32:37+00:00",
+   "articles": [
+    {
+     "source": "Deutschlandfunk",
+     "region": "DE",
+     "weight": 0.95,
+     "title": "Wirtschaft - Inflationsrate in Deutschland sinkt auf 2,8 Prozent",
+     "summary": "Die Inflationsrate in Deutschland ist aufgrund des sogenannten Tankrabatts gesunken. ​⁠Waren und Dienstleistungen ⁠verteuerten sich im Oktober um 2,8 Prozent im Vergleich zum Vorjahresmonat, wie das Statistische Bundesamt in einer ersten Schätzung mitteilte.",
+     "link": "https://www.deutschlandfunk.de/inflationsrate-in-deutschland-sinkt-auf-2-8-prozent-100.html",
+     "image": "https://bilder.deutschlandfunk.de/15/4f/e3/8b/154fe38b-07ca-4719-a1fc-d4bce38735cd/spritkosten-iran-100-1920x1920.jpg",
+     "aggregator": false,
+     "published": "2026-10-30T17:32:37+00:00"
+    },
+    {
+     "source": "WirtschaftsWoche",
+     "region": "DE",
+     "weight": 0.85,
+     "title": "Konjunktur: Deutsche Wirtschaft wächst überraschend – Inflation sinkt deutlich",
+     "summary": "Die Inflation in Deutschland schwächt sich im Oktober ab. Vor allem der Tankrabatt sorgt für Entlastung. Ökonomen sehen Grund zum Optimismus.",
+     "link": "https://www.wiwo.de/politik/konjunktur/konjunktur-deutsche-wirtschaft-waechst-ueberraschend-inflation-sinkt-deutlich/100266192.html",
+     "image": "https://images.wiwo.de/JoI4Noousorw/cover/900/506/0/0/313/313/0.5/0.5/archiv-01.10.2026-bremen-kraftstoffpreise-stehen-auf-der-preistafel-einer-tankstelle.-zu-dpa.jpg",
+     "aggregator": false,
+     "published": "2026-10-30T16:00:00+00:00"
+    },
+    {
+     "source": "n-tv",
+     "region": "DE",
+     "weight": 0.8,
+     "title": "Tankrabatt drückt Energiekosten: Deutsche Inflationsrate sinkt im Oktober auf 2,8 Prozent",
+     "summary": "Mit dem erneuten Tankrabatt sinkt die Inflationsrate in Deutschland deutlich. Im Oktober liegen die Verbraucherpreise um 2,8 Prozent über dem Niveau des Vorjahresmonats - nach 3,3 Prozent im September, wie das Statistische Bundesamt auf Basis vorläufiger Zahlen mitteilt.",
+     "link": "https://www.n-tv.de/wirtschaft/Deutsche-Inflationsrate-sinkt-im-Oktober-auf-2-8-Prozent-id31477128.html",
+     "image": "https://www.n-tv.de/img/31477138/1793369072/Img_4_3/250/615305272.jpg",
+     "aggregator": false,
+     "published": "2026-10-30T13:02:31+00:00"
+    }
+   ]
+  },
+  {
+   "id": 16,
+   "score": 9.0,
+   "outlets": [
+    "Deutschlandfunk",
+    "DER STANDARD",
+    "WELT"
+   ],
+   "regions": [
+    "AT",
+    "DE"
+   ],
+   "trend": [],
+   "newest": "2026-10-30T17:32:37+00:00",
+   "articles": [
+    {
+     "source": "Deutschlandfunk",
+     "region": "DE",
+     "weight": 0.95,
+     "title": "Medienethik - Kritik am \"Spiegel\" wegen Veröffentlichung interner Kommunikation mit Elif Eralp",
+     "summary": "Ein Bericht des \"Spiegels\" hat Diskussionen über dessen Umgang mit vertraulichen Informationen ausgelöst: Es geht um die Veröffentlichung von interner Kommunikation mit der Berliner Linken-Fraktionschefin Eralp anlässlich eines Interviews. Nicht nur Parteikollegen der Politikerin kritisieren das Vorgehen des Nachrichtenmagazins.",
+     "link": "https://www.deutschlandfunk.de/kritik-am-spiegel-wegen-veroeffentlichung-interner-kommunikation-mit-elif-eralp-100.html",
+     "image": "https://bilder.deutschlandfunk.de/c3/0b/99/0b/c30b990b-a5a7-48c5-8a50-90b23bf27e49/elif-eralp-100-1920x1920.jpg",
+     "aggregator": false,
+     "published": "2026-10-30T17:32:37+00:00"
+    },
+    {
+     "source": "DER STANDARD",
+     "region": "AT",
+     "weight": 0.85,
+     "title": "Legitimes Vorgehen oder Vertrauensbruch? Elif Eralp klagt \"Spiegel\" nach Interview",
+     "summary": "Die Berliner Linkenpolitikerin plant rechtliche Schritte, nachdem das Magazin interne Informationen veröffentlicht hatte. Das führt zu einer Debatte über Autorisierungspraxis",
+     "link": "https://www.derstandard.at/story/3000000346717/legitimes-vorgehen-oder-vertrauensbruch-elif-eralp-klagt-spiegel-nach-interview?ref=rss",
+     "image": "https://i.ds.at/WkbIBg/rs:fill:150:0/plain/lido-images/2026/10/30/165528cd-8a89-49ae-9de7-e8a2c341a1c3.jpg",
+     "aggregator": false,
+     "published": "2026-10-30T12:30:04+00:00"
+    },
+    {
+     "source": "WELT",
+     "region": "DE",
+     "weight": 0.8,
+     "title": "„Manchmal muss man tun, was richtig ist, auch wenn man gegen einen Vertrag verstößt“",
+     "summary": "Rechtsanwalt Joachim Steinhöfel verteidigt die Veröffentlichung interner Notizen von Elif Eralp durch den „Spiegel“. Selbst ein möglicher Verstoß gegen eine Autorisierungsabrede ändere für ihn nichts am öffentlichen Interesse: „Die Wahrheit muss ans Tageslicht.“",
+     "link": "https://www.welt.de/politik/deutschland/video6ae4ad48bfb85e617afeb425/spiegel-bericht-manchmal-muss-man-tun-was-richtig-ist-auch-wenn-man-gegen-einen-vertrag-verstoesst.html",
+     "image": "https://images.welt.de/6ae4ad48bfb85e617afeb425/3e3f0cdf3433bdad329b5a71bdb6e059/ci16x9-w1200/625000375-jpg",
+     "aggregator": false,
+     "published": "2026-10-30T17:01:49+00:00"
+    }
+   ]
+  },
+  {
+   "id": 17,
+   "score": 8.8,
+   "outlets": [
+    "tagesschau",
+    "Deutsche Welle",
+    "n-tv",
+    "sportschau.de"
+   ],
+   "regions": [
+    "DE",
+    "INT"
+   ],
+   "trend": [],
+   "newest": "2026-10-30T14:15:56+00:00",
+   "articles": [
+    {
+     "source": "tagesschau",
+     "region": "DE",
+     "weight": 1.0,
+     "title": "Russland darf an Eishockey-WM teilnehmen",
+     "summary": "Die russische Eishockeynationalmannschaft darf bei der WM 2027 in Deutschland starten - das hat der Internationale Sportgerichtshof CAS geurteilt. Vom Gastgeber kommt harsche Kritik.",
+     "link": "https://www.sportschau.de/eishockey/wm/cas-erteilt-russland-startrecht-fuer-eishockey-wm-in-deutschland,eishockey-russland-bei-wm-in-deutschland-100.html",
+     "image": "https://images.sportschau.de/image/0d5a2705-371a-478f-9ab0-27b85ad96561/AAABn2cJnOY/AAABnSSvrFg/16x9-big/wdr-das-eroeffnungsspiel-der-eishockey-wm-soll-2027-wie-2010-auf-schalke-ausgetragen-werden-100.jpg?width=1920",
+     "aggregator": false,
+     "published": "2026-10-30T11:33:22+00:00"
+    },
+    {
+     "source": "Deutsche Welle",
+     "region": "INT",
+     "weight": 0.95,
+     "title": "CAS hebt Sperre gegen Russlands Eishockey-Teams auf",
+     "summary": "Seit dem verlorenen Olympia-Finale 2022 durften die russischen Eishockey-Spieler international nicht mehr antreten. Jetzt ist die Tür für die Rückkehr offen. Willkommen sind sie aber nicht.",
+     "link": "https://www.dw.com/de/cas-hebt-sperre-gegen-russlands-eishockey-teams-auf/a-79805826?maca=de-rss-de-all-1119-xml-mrss",
+     "image": "https://static.dw.com/image/60835574_302.jpg",
+     "aggregator": false,
+     "published": "2026-10-30T11:15:00+00:00"
+    },
+    {
+     "source": "n-tv",
+     "region": "DE",
+     "weight": 0.8,
+     "title": "\"Doppelte Katastrophe\": Russland darf an Eishockey-WM in Deutschland teilnehmen",
+     "summary": "Nach einem Urteil des CAS darf die russische Eishockey-Nationalmannschaft wieder an internationalen Wettbewerben teilnehmen. Was das für die WM in Deutschland im kommenden Jahr bedeutet, ist völlig unklar.",
+     "link": "https://www.n-tv.de/sport/Russland-darf-an-Eishockey-WM-in-Deutschland-teilnehmen-id31477467.html",
+     "image": "https://www.n-tv.de/img/31477481/1793372535/Img_4_3/250/264168100.jpg",
+     "aggregator": false,
+     "published": "2026-10-30T14:15:56+00:00"
+    },
+    {
+     "source": "sportschau.de",
+     "region": "DE",
+     "weight": 0.6,
+     "title": "Urteil stößt auf Kritik: CAS erteilt Russland Startrecht für Eishockey-WM in Deutschland",
+     "summary": "Urteil stößt auf Kritik: CAS erteilt Russland Startrecht für Eishockey-WM in Deutschland sportschau.de Eishockey-WM: Russland-Beben um das Turnier in Deutschland! BILD Russland darf bei WM in Deutschland starten – Duell mit Ukraine möglich WELT Stellungnahme des Deutschen Eishockey-Bund e.V. (DEB) zum heutigen CAS Urteil Deutscher Eishockey-Bund Eishockey-WM 2027 in Deutschland: Sportgerichtshof Cas hebt Sperre gegen Russlands Eishockeyteams auf DIE ZEIT",
+     "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxNdnExbEJBcm53bXFZYmlONGE3VWRkRVBoZldBbjc5eTBraU03UklxU3c0bkg2SzI4NE85N3BYbFF4WVBIR0pOXzU2Z05ZV0ZqeUtaMlRRaTByRVFOWms3cGtlU3VTQk84bDhnX0tsb2I5MGZWUUQ5YnZwZXBaVWhXMElkV1ZibHNsbGZmR3JmQWZfSmVPRWdGLW9BTXl5ZGJqQlBOUUVHbmt1UmlNU01KRWRnTXlpRU81NjlsZDFKb0ZLdVItWDF4N2Y2dnphZUF3dEFGbVBaNm1XV3hjNFg2a3FVWE44SkRP?oc=5",
+     "image": null,
+     "aggregator": true,
+     "published": "2026-10-30T11:33:00+00:00"
+    }
+   ]
+  },
+  {
+   "id": 18,
+   "score": 8.67,
+   "outlets": [
+    "tagesschau",
+    "Deutsche Welle",
+    "SPIEGEL"
+   ],
+   "regions": [
+    "DE",
+    "INT"
+   ],
+   "trend": [],
+   "newest": "2026-10-30T15:04:00+00:00",
+   "articles": [
+    {
+     "source": "tagesschau",
+     "region": "DE",
+     "weight": 1.0,
+     "title": "Alexander Zverev krönt sich in Wien zur Nummer eins der Tennis-Welt",
+     "summary": "Alexander Zverev hat den Tennisthron erklommen und wird ab Montag erstmals die Weltrangliste anführen. Durch seinen Viertelfinaleinzug in Wien erreichte der Hamburger das nächste große Karriereziel.",
+     "link": "https://www.sportschau.de/tennis/zverev-ab-montag-die-nummer-eins-der-tennis-welt,atp-wien-zverev-griekspoor-100.html",
+     "image": "https://images.sportschau.de/image/f236b14e-c8b8-46d2-b2ed-7a9d4fbf4ae2/AAABoYlJBnc/AAABnSSvrFg/16x9-big/zverev-1720.jpg?width=1920",
+     "aggregator": false,
+     "published": "2026-10-29T19:35:30+00:00"
+    },
+    {
+     "source": "Deutsche Welle",
+     "region": "INT",
+     "weight": 0.95,
+     "title": "Tennis-Star Zverev erfüllt sich Traum von Nummer eins",
+     "summary": "35 Jahre nach Boris Becker ist wieder ein deutscher Spieler die Nummer eins der Tennis-Welt. Alexander Zverev übernimmt als 30. Profi die Ranglistenspitze. Dieses Jahr gibt es noch ein großes Ziel.",
+     "link": "https://www.dw.com/de/tennis-star-zverev-erfüllt-sich-traum-von-nummer-eins/a-79805048?maca=de-rss-de-all-1119-xml-mrss",
+     "image": "https://static.dw.com/image/79804772_302.jpg",
+     "aggregator": false,
+     "published": "2026-10-30T10:39:00+00:00"
+    },
+    {
+     "source": "Deutsche Welle",
+     "region": "INT",
+     "weight": 0.95,
+     "title": "Alexander Zverev: Neue Nummer eins der Tennis-Weltrangliste",
+     "summary": "Alexander Zverev krönt eine historische Saison: Deutschlands bester Tennisprofi wird am Jahresende die Nummer eins der Weltrangliste sein - und ist damit sogar erfolgreicher als Tennislegende Boris Becker.",
+     "link": "https://www.dw.com/de/alexander-zverev-neue-nummer-eins-der-tennis-weltrangliste/a-79642250?maca=de-rss-de-all-1119-xml-mrss",
+     "image": "https://static.dw.com/image/79642984_302.jpg",
+     "aggregator": false,
+     "published": "2026-10-12T13:47:00+00:00"
+    },
+    {
+     "source": "SPIEGEL",
+     "region": "DE",
+     "weight": 0.9,
+     "title": "Alexander Zverev wird die Nummer 1: Wie hat er das geschafft? Eine Karriere in Zahlen",
+     "summary": "Deutschland hat wieder eine Nummer eins: Ab Montag führt Alexander Zverev die Tennis-Weltrangliste an. Wie hat er das geschafft? Eine besondere Karriere in der Datenanalyse.",
+     "link": "https://www.spiegel.de/sport/tennis/alexander-zverev-wird-die-nummer-1-wie-hat-er-das-geschafft-eine-karriere-in-zahlen-a-45d9e7a3-69da-4ab7-b782-ca11b9dc224d#ref=rss",
+     "image": "https://cdn.prod.www.spiegel.de/images/3356b22b-bd54-4fc3-ac18-bf7e62b17a71_w520_r2.08_fpx50_fpy50.png",
+     "aggregator": false,
+     "published": "2026-10-30T15:04:00+00:00"
+    }
+   ]
+  },
+  {
+   "id": 19,
+   "score": 8.62,
+   "outlets": [
+    "tagesschau",
+    "Handelsblatt",
+    "n-tv",
+    "tagesschau.de"
+   ],
+   "regions": [
+    "DE"
+   ],
+   "trend": [],
+   "newest": "2026-10-30T14:00:22+00:00",
+   "articles": [
+    {
+     "source": "tagesschau",
+     "region": "DE",
+     "weight": 1.0,
+     "title": "Deutsche Wirtschaft wächst überraschend im Sommer",
+     "summary": "Nach einem starken Halbjahr hat sich auch im Sommer die Erholung der deutschen Wirtschaft fortgesetzt. Dabei hatten viele Experten mit einer Stagnation gerechnet. Die privaten Ausgaben sind jedoch weiterhin verhalten.",
+     "link": "https://www.tagesschau.de/wirtschaft/konjunktur/entwicklung-bip-deutschland-sommer-100.html",
+     "image": "https://images.tagesschau.de/image/eb011f34-2bf4-4b6e-9580-4e6222929b68/AAABoYwixYc/AAABnSSvrFg/16x9-big/konjunktur-424.jpg?width=1920",
+     "aggregator": false,
+     "published": "2026-10-30T09:50:45+00:00"
+    },
+    {
+     "source": "tagesschau Wirtschaft",
+     "region": "DE",
+     "weight": 1.0,
+     "title": "Deutsche Wirtschaft wächst überraschend im Sommer",
+     "summary": "Nach einem starken Halbjahr hat sich auch im Sommer die Erholung der deutschen Wirtschaft fortgesetzt. Dabei hatten viele Experten mit einer Stagnation gerechnet. Die privaten Ausgaben sind jedoch weiterhin verhalten.",
+     "link": "https://www.tagesschau.de/wirtschaft/konjunktur/entwicklung-bip-deutschland-sommer-100.html",
+     "image": "https://images.tagesschau.de/image/eb011f34-2bf4-4b6e-9580-4e6222929b68/AAABoYwixYc/AAABnSSvrFg/16x9-big/konjunktur-424.jpg?width=1920",
+     "aggregator": false,
+     "published": "2026-10-30T09:50:45+00:00"
+    },
+    {
+     "source": "Handelsblatt",
+     "region": "DE",
+     "weight": 0.9,
+     "title": "Konjunktur in Deutschland: Wirtschaft wächst überraschend - Inflation sinkt deutlich",
+     "summary": "Niedrigwasser am Rhein und der Iran-Krieg haben die Konjunktur im Sommer belastet. Ein Rückschlag im dritten Quartal blieb trotzdem aus. Auch bei der Inflation gibt es gute Nachrichten.",
+     "link": "https://www.handelsblatt.com/politik/deutschland/konjunktur-in-deutschland-wirtschaft-waechst-ueberraschend-inflation-sinkt-deutlich/100266149.html",
+     "image": "https://images.handelsblatt.com/2CgmqHH8paE5/cover/900/506/0/0/74/73/0.5/0.5/zwei-maenner-gehen-mit-aktentasche-bei-sonnenaufgang-ueber-bruecke.jpg",
+     "aggregator": false,
+     "published": "2026-10-30T14:00:22+00:00"
+    },
+    {
+     "source": "n-tv",
+     "region": "DE",
+     "weight": 0.8,
+     "title": "Trotz aller Belastungen: Deutsche Wirtschaft wächst überraschend um 0,2 Prozent",
+     "summary": "Niedrige Pegelstände im Sommer, steigende Preise wegen des Iran-Kriegs: Für die deutsche Wirtschaft ist das dritte Quartal herausfordernd. Das Bruttoinlandsprodukt steigt dennoch leicht an. Mit Blick auf das Gesamtjahr weckt dies Hoffnungen.",
+     "link": "https://www.n-tv.de/wirtschaft/Deutsche-Wirtschaft-waechst-ueberraschend-um-0-2-Prozent-id31475821.html",
+     "image": "https://www.n-tv.de/img/31475927/1793355820/Img_4_3/250/613843496.jpg",
+     "aggregator": false,
+     "published": "2026-10-30T09:03:48+00:00"
+    },
+    {
+     "source": "tagesschau.de",
+     "region": "DE",
+     "weight": 0.6,
+     "title": "Deutsche Wirtschaft wächst überraschend im Sommer",
+     "summary": "Deutsche Wirtschaft wächst überraschend im Sommer tagesschau.de Wirtschaftswachstum: Deutschlands Comeback – der Aufschwung trotzt sogar der Energiekrise WELT BIP: Deutschlands Wirtschaft wächst im Sommer überraschend Spiegel Konjunktur: Deutsche Wirtschaft wächst stärker als erwartet Handelsblatt Wirtschaftswachstum in Deutschland: Kommt jetzt der Aufschwung? - Wirtschaft - SZ.de SZ.de",
+     "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNWE5JMGxJQmE4QWJ0dHA2NFByWHIzcEpGX0ZBd0JacVpzLUlYZUJsNERnWm1zXzZBNG9ISUtkUl8yQXE4eFUtdmZ0RHFMa1hEamdSa0NIX19FSDRWVDRpVF9sQU03UmMwWmhGcXE0cFhPeC1oODJaYjFYVGJnNGUzMFVsYkY4NThlN1oxTmFQOVJrMFBUSGc?oc=5",
+     "image": null,
+     "aggregator": true,
+     "published": "2026-10-30T09:45:00+00:00"
+    }
+   ]
+  },
+  {
+   "id": 20,
+   "score": 8.3,
+   "outlets": [
+    "tagesschau",
+    "Deutschlandfunk",
+    "T-Online"
+   ],
+   "regions": [
+    "DE"
+   ],
+   "trend": [],
+   "newest": "2026-10-30T17:32:37+00:00",
+   "articles": [
+    {
+     "source": "tagesschau",
+     "region": "DE",
+     "weight": 1.0,
+     "title": "Steinmeier in China: Handelsüberschuss im Fokus",
+     "summary": "Bundespräsident Steinmeier hat China zum Abbau seines hohen Handelsdefizits mit Deutschland aufgefordert. Bei einem Treffen mit Präsident Xi betonte er zudem die Verantwortung beider Länder, die internationale Ordnung aufrechtzuerhalten.",
+     "link": "https://www.tagesschau.de/ausland/asien/steinmeiner-xi-treffen-100.html",
+     "image": "https://images.tagesschau.de/image/1b6fcd05-98e7-4b3b-a76a-9a8b2247aa9c/AAABoY01iWc/AAABnSSvrFg/16x9-big/xi-steinmeier-100.jpg?width=1920",
+     "aggregator": false,
+     "published": "2026-10-30T16:35:59+00:00"
+    },
+    {
+     "source": "Deutschlandfunk",
+     "region": "DE",
+     "weight": 0.95,
+     "title": "China-Staatsbesuch - Bundespräsident Steinmeier drängt bei Treffen mit Xi auf Abbau des Handelsüberschusses",
+     "summary": "Bundespräsident Steinmeier hat bei seinem Treffen mit dem chinesischen Staatschef Xi einen Abbau des hohen Außenhandelsdefizits mit Deutschland gefordert.",
+     "link": "https://www.deutschlandfunk.de/bundespraesident-steinmeier-draengt-bei-treffen-mit-xi-auf-abbau-des-handelsueberschusses-100.html",
+     "image": "https://bilder.deutschlandfunk.de/a2/aa/8e/8b/a2aa8e8b-d04c-4746-b8ea-e3fb63e6e6ef/bundespraesident-steinmeier-china-besuch-xi-jinping-grosse-halle-des-volkes-100-1920x1920.jpg",
+     "aggregator": false,
+     "published": "2026-10-30T17:32:37+00:00"
+    },
+    {
+     "source": "T-Online",
+     "region": "DE",
+     "weight": 0.6,
+     "title": "Bei Treffen mit Xi Jinping: Steinmeier kritisiert China für seine Handelspolitik",
+     "summary": "Bei Treffen mit Xi Jinping: Steinmeier kritisiert China für seine Handelspolitik T-Online Steinmeier in China: Handelsüberschuss im Fokus tagesschau.de „Nicht zulassen, dass die industrielle Basis verloren geht“ Handelsblatt Staatsbesuch in China: Frank-Walter Steinmeier will ausgeglichene Handelsbeziehung mit China DIE ZEIT Steinmeiers China-Besuch: Xi Jinping bietet strategische Stabilität an FAZ",
+     "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPQVhMSWdoN2hiNGg5SVVmU2h3VmRWcENET2dNaERzWThKbTEwZzY4Q1lhOXVpOHpjalNla0VDc2J6MmxKeFFkWk5LTzRoVjJaVDhSYUlOMmFCNW9kUmFQb19iS1ZsNG9EMFdQdmtJUVFRdHQ0QXRNQVl3dVV5bHNVVVFyaUlkSl85ZFdOdEJ4M3FHWUdfc0ZxY2h3WGNrWUxQdlU4U0U1WVR3YThYX3g2QWRTb3RfRlJQV3hVbWVmYzJqbVozWi1ramwwTENnMjk2Yl84RGVtSWJzS0I1?oc=5",
+     "image": null,
+     "aggregator": true,
+     "published": "2026-10-30T12:41:46+00:00"
+    }
+   ]
+  },
+  {
+   "id": 21,
+   "score": 8.29,
+   "outlets": [
+    "Handelsblatt",
+    "WirtschaftsWoche"
+   ],
+   "regions": [
+    "DE"
+   ],
+   "trend": [
+    "bundeswehr"
+   ],
+   "newest": "2026-10-30T16:02:13+00:00",
+   "articles": [
+    {
+     "source": "Handelsblatt",
+     "region": "DE",
+     "weight": 0.9,
+     "title": "Verteidigung: Bis zu 1000 Fehlermeldungen pro Tag – Störung bei der Bundeswehr bedroht die Einsatzbereitschaft",
+     "summary": "Der Betrieb des wichtigsten Logistikzentrums für Ersatzteile der Bundeswehr ist offenbar gestört. Es drohen Materialausfälle. Eine zeitnahe Lösung ist nicht absehbar.",
+     "link": "https://www.handelsblatt.com/politik/deutschland/bundeswehr-stoerung-ersatzteil-stopp-bedroht-wohl-panzer-und-instandsetzer/100266161.html",
+     "image": "https://images.handelsblatt.com/f4jS2RdUd4XI/cover/900/506/0/0/246/246/0.5/0.5/mehrere-leopard-2-a6-kampfpanzer-in-der-kaserne-beim-besuch-von-bundesverteidigungsminister-boris-pi.jpg",
+     "aggregator": false,
+     "published": "2026-10-30T14:14:27+00:00"
+    },
+    {
+     "source": "WirtschaftsWoche",
+     "region": "DE",
+     "weight": 0.85,
+     "title": "Bundeswehr: „Totale Katastrophe“ – eine Störung bei der Bundeswehr bedroht die Einsatzbereitschaft",
+     "summary": "Der Betrieb des wichtigsten Logistikzentrums für Ersatzteile der Bundeswehr ist offenbar gestört. Das bestätigen Beteiligte der WirtschaftsWoche. Es drohen Materialausfälle.",
+     "link": "https://www.wiwo.de/politik/deutschland/bundeswehr-stoerung-ersatzteil-stopp-bedroht-wohl-panzer-und-instandsetzer/100265827.html",
+     "image": "https://images.wiwo.de/f7uFVoIpNn1l/cover/900/506/0/0/386/106/0.5/0.5/mehrere-leopard-2-a6-kampfpanzer-in-der-kaserne-beim-besuch-von-bundesverteidigungsminister-boris-pi.jpg",
+     "aggregator": false,
+     "published": "2026-10-30T16:02:13+00:00"
+    }
+   ]
+  },
+  {
+   "id": 22,
+   "score": 8.26,
+   "outlets": [
+    "SRF News",
+    "DER STANDARD",
+    "Golem"
+   ],
+   "regions": [
+    "AT",
+    "CH",
+    "DE"
+   ],
+   "trend": [],
+   "newest": "2026-10-30T15:38:56+00:00",
+   "articles": [
+    {
+     "source": "SRF News",
+     "region": "CH",
+     "weight": 0.95,
+     "title": "Weltgrösste Kryptobörse – Wie konnten die Täter den Binance-Raub durchführen?",
+     "summary": "Bei Binance wurden Kryptowährungen im Wert von 6.3 Milliarden Dollar gestohlen. Die wichtigsten Fragen und Antworten.",
+     "link": "https://www.srf.ch/news/wirtschaft/weltgroesste-kryptoboerse-wie-konnten-die-taeter-den-binance-raub-durchfuehren",
+     "image": "https://www.srf.ch/static/cms/images//320ws/c43098e.webp",
+     "aggregator": false,
+     "published": "2026-10-30T15:38:56+00:00"
+    },
+    {
+     "source": "DER STANDARD",
+     "region": "AT",
+     "weight": 0.85,
+     "title": "Binance meldet massiven Hackerangriff: Mehr als sechs Milliarden Dollar gestohlen",
+     "summary": "Drei Milliarden davon konnte mittlerweile erfolgreich in der Blockchain eingefroren werden, trotzdem bleibt es der größte Kryptoraub aller Zeiten. Dahinter soll Nordkorea stecken",
+     "link": "https://www.derstandard.at/story/3000000346691/binance-meldet-massiven-hackerangriff-25-milliarden-dollar-eingefroren?ref=rss",
+     "image": "https://i.ds.at/snmU6w/rs:fill:150:0/plain/lido-images/2026/10/30/3aa89f4c-27ca-4802-a58b-162d703ad080.jpg",
+     "aggregator": false,
+     "published": "2026-10-30T05:48:48+00:00"
+    },
+    {
+     "source": "Golem",
+     "region": "DE",
+     "weight": 0.75,
+     "title": "Binance gehackt: Ein- und Auszahlungen nach Milliardenhack gestoppt",
+     "summary": "Hacker haben Binance Kryptowährungen im Wert von mehr als 6 Milliarden US-Dollar gestohlen. Die Spur der Angreifer führt erneut nach Nordkorea. ( Cybercrime , Security )",
+     "link": "https://www.golem.de/news/binance-gehackt-milliardendiebstahl-erschuettert-die-kryptobranche-2610-214667.html",
+     "image": "https://cpx.golem.de/cpx.php?class=17&amp;aid=214667&amp;page=1&amp;ts=1793349902",
+     "aggregator": false,
+     "published": "2026-10-30T08:45:02+00:00"
+    }
+   ]
+  },
+  {
+   "id": 23,
+   "score": 8.02,
+   "outlets": [
+    "tagesschau Inland",
+    "SRF News",
+    "DER STANDARD"
+   ],
+   "regions": [
+    "AT",
+    "CH",
+    "DE"
+   ],
+   "trend": [],
+   "newest": "2026-10-30T13:25:26+00:00",
+   "articles": [
+    {
+     "source": "tagesschau Inland",
+     "region": "DE",
+     "weight": 1.0,
+     "title": "Was die Israel-Wahl für Deutschland bedeutet",
+     "summary": "Die Wahl in Israel wird auch in Deutschland mit Spannung verfolgt. Trotz Kritik an Netanjahus Politik bleibt die Bundesregierung zurückhaltend. Einen grundsätzlichen Wandel erwartet niemand. Von Ruth Kirchner.",
+     "link": "https://www.tagesschau.de/inland/innenpolitik/deutschland-israel-154.html",
+     "image": "https://images.tagesschau.de/image/95d669d4-3d45-43a1-bf3f-2a1f25b9d377/AAABoX4Py6M/AAABnSSvrFg/16x9-big/merz-israel-106.jpg?width=1920",
+     "aggregator": false,
+     "published": "2026-10-27T15:52:06+00:00"
+    },
+    {
+     "source": "SRF News",
+     "region": "CH",
+     "weight": 0.95,
+     "title": "Nach der Wahl – Israels Isolation ist nicht so schnell vorbei",
+     "summary": "Das Verhältnis zwischen Israel und Europa bleibt angespannt, auch wenn Benjamin Netanjahu die Macht verlieren sollte.",
+     "link": "https://www.srf.ch/news/international/nahost/nach-der-wahl-israels-isolation-ist-nicht-so-schnell-vorbei",
+     "image": "https://www.srf.ch/static/cms/images//320ws/b8b735b.webp",
+     "aggregator": false,
+     "published": "2026-10-30T13:25:26+00:00"
+    },
+    {
+     "source": "DER STANDARD",
+     "region": "AT",
+     "weight": 0.85,
+     "title": "Pattsituation nach Auszählung aller Stimmen bei Wahl in Israel",
+     "summary": "Die Likud-Partei von Ministerpräsident Netanjahu bleibt die stärkste Partei in der Knesset, seine rechte Koalition kommt auf 53 Sitze und verfehlt damit die Mehrheit",
+     "link": "https://www.derstandard.at/story/3000000346678/israel-wahl-nach-ausz228hlung-aller-stimmen-weiterhin-pattsituation?ref=rss",
+     "image": "https://i.ds.at/x9xltw/rs:fill:150:0/plain/lido-images/2026/10/29/7164f1a7-0cbf-4b99-97e0-59d444583d22.jpg",
+     "aggregator": false,
+     "published": "2026-10-29T19:20:57+00:00"
+    }
+   ]
+  },
+  {
+   "id": 24,
+   "score": 7.96,
+   "outlets": [
+    "tagesschau",
+    "ZDFheute",
+    "DIE ZEIT"
+   ],
+   "regions": [
+    "DE"
+   ],
+   "trend": [],
+   "newest": "2026-10-30T16:14:00+00:00",
+   "articles": [
+    {
+     "source": "tagesschau",
+     "region": "DE",
+     "weight": 1.0,
+     "title": "Experte zum Krypto-Angriff: \"Drei Milliarden sind definitiv weg\"",
+     "summary": "Beim Hackerangriff auf die Kryptobörse Binance geht es um Digitalwährungen in Milliardenhöhe. Cybersicherheitsexperte Mirko Ross erklärt, warum die Spur nach Nordkorea führt und was Anleger beachten sollten.",
+     "link": "https://www.tagesschau.de/wirtschaft/technologie/hackerangriff-binance-interview-100.html",
+     "image": "https://images.tagesschau.de/image/6005bf42-35ee-49c0-a9de-0c0c82432647/AAABoYumLh8/AAABnSSvrFg/16x9-big/binance-104.jpg?width=1920",
+     "aggregator": false,
+     "published": "2026-10-30T12:32:21+00:00"
+    },
+    {
+     "source": "tagesschau",
+     "region": "DE",
+     "weight": 1.0,
+     "title": "Milliardenschwerer Hackerangriff auf Kryptobörse Binance",
+     "summary": "Die weltgrößte Kryptobörse Binance ist offenbar Opfer einer massiven Cyberattacke geworden. Betroffen sind Digitalwährungen im Wert von mehr als sechs Milliarden Dollar. Was bedeutet das für Kunden?",
+     "link": "https://www.tagesschau.de/wirtschaft/technologie/hackerangriff-kryptoboerse-binance-100.html",
+     "image": "https://images.tagesschau.de/image/c98477ae-0b7c-46ba-921a-1bae298474ce/AAABoYumwKE/AAABnSSvrFg/16x9-big/binance-106.jpg?width=1920",
+     "aggregator": false,
+     "published": "2026-10-30T07:24:20+00:00"
+    },
+    {
+     "source": "tagesschau Wirtschaft",
+     "region": "DE",
+     "weight": 1.0,
+     "title": "Experte zum Krypto-Angriff: \"Drei Milliarden sind definitiv weg\"",
+     "summary": "Beim Hackerangriff auf die Kryptobörse Binance geht es um Digitalwährungen in Milliardenhöhe. Cybersicherheitsexperte Mirko Ross erklärt, warum die Spur nach Nordkorea führt und was Anleger beachten sollten.",
+     "link": "https://www.tagesschau.de/wirtschaft/technologie/hackerangriff-binance-interview-100.html",
+     "image": "https://images.tagesschau.de/image/6005bf42-35ee-49c0-a9de-0c0c82432647/AAABoYumLh8/AAABnSSvrFg/16x9-big/binance-104.jpg?width=1920",
+     "aggregator": false,
+     "published": "2026-10-30T12:32:21+00:00"
+    },
+    {
+     "source": "tagesschau Wirtschaft",
+     "region": "DE",
+     "weight": 1.0,
+     "title": "Milliardenschwerer Hackerangriff auf Kryptobörse Binance",
+     "summary": "Die weltgrößte Kryptobörse Binance ist offenbar Opfer einer massiven Cyberattacke geworden. Betroffen sind Digitalwährungen im Wert von mehr als sechs Milliarden Dollar. Was bedeutet das für Kunden?",
+     "link": "https://www.tagesschau.de/wirtschaft/technologie/hackerangriff-kryptoboerse-binance-100.html",
+     "image": "https://images.tagesschau.de/image/c98477ae-0b7c-46ba-921a-1bae298474ce/AAABoYumwKE/AAABnSSvrFg/16x9-big/binance-106.jpg?width=1920",
+     "aggregator": false,
+     "published": "2026-10-30T07:24:20+00:00"
+    },
+    {
+     "source": "ZDFheute",
+     "region": "DE",
+     "weight": 1.0,
+     "title": "Was der Hackerangriff bei Binance bedeutet",
+     "summary": "Hacker haben von der Kryptobörse Binance Werte von schätzungsweise 6,3 Milliarden Dollar gestohlen. Was das für Kunden, Anleger und das Vertrauen in Kryptowährung bedeutet.",
+     "link": "https://www.zdfheute.de/wirtschaft/binance-bitcoin-krypto-faq-100.html",
+     "image": "https://www.zdfheute.de/assets/binance-webseite-browser-100~384x216?cb=1793375002414",
+     "aggregator": false,
+     "published": "2026-10-30T16:14:00+00:00"
+    },
+    {
+     "source": "DIE ZEIT",
+     "region": "DE",
+     "weight": 0.6,
+     "title": "Kryptowährungsdiebstahl bei Binance: Die größten Hackerangriffe auf Kryptobörsen",
+     "summary": "Kryptowährungsdiebstahl bei Binance: Die größten Hackerangriffe auf Kryptobörsen DIE ZEIT Sechs Milliarden Dollar in 20 Minuten weg: Fette Beute für Nordkorea-Kim nach Krypto-Raub? BILD Staatliche Hacker auf Beutezug: Kryptodiebstähle sind Nordkoreas wichtigste Devisenquelle n-tv.de Hackerangriff auf weltweit größte Kryptobörse – Milliarden Dollar binnen 20 Minuten weg WELT (S+) Binance: Wie Hacker Krypto-Milliarden erbeuten konnten Spiegel",
+     "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNdWFmVDZYajhoNmVaQ0JXVjdMSkVGVTR1U3p1ZjJQelpUb0JlVnRFOXVOMHN3b21iNjhwYVhxcGNwSnhDU09pb2M3Y0ZmM3UwMTFXYnJ2SjNHYm9jdk1zZElueGxQQ0xyZVdpYUVLdjZQQkhDYy1iT2FCQXdBUWdDLURoMXZHaWJmQW1IWlREZnFnVk82VEpr?oc=5",
+     "image": null,
+     "aggregator": true,
+     "published": "2026-10-30T11:04:15+00:00"
+    }
+   ]
+  },
+  {
+   "id": 25,
+   "score": 7.83,
+   "outlets": [
+    "tagesschau",
+    "ZDFheute",
+    "DER STANDARD"
+   ],
+   "regions": [
+    "AT",
+    "DE",
+    "INT"
+   ],
+   "trend": [],
+   "newest": "2026-10-30T12:32:41+00:00",
+   "articles": [
+    {
+     "source": "tagesschau",
+     "region": "DE",
+     "weight": 1.0,
+     "title": "Zugunglück in Spanien: Fahrdatenschreiber geborgen",
+     "summary": "Auf den Schock nach dem schweren Zugunglück in Spanien folgt die Suche nach der Ursache: Ermittler haben die Fahrdatenschreiber in den Wracks gefunden. Die Daten werden nun ausgewertet - und liefern hoffentlich Antworten.",
+     "link": "https://www.tagesschau.de/ausland/europa/zugunglueck-spanien-156.html",
+     "image": "https://images.tagesschau.de/image/66f416f5-f843-43a2-aa35-189765c1a3c9/AAABoYwsVgM/AAABnSSvrFg/16x9-big/suche-guardia-vivil-100.jpg?width=1920",
+     "aggregator": false,
+     "published": "2026-10-30T12:32:41+00:00"
+    },
+    {
+     "source": "tagesschau Ausland",
+     "region": "INT",
+     "weight": 1.0,
+     "title": "Zugunglück in Spanien: Fahrdatenschreiber geborgen",
+     "summary": "Auf den Schock nach dem schweren Zugunglück in Spanien folgt die Suche nach der Ursache: Ermittler haben die Fahrdatenschreiber in den Wracks gefunden. Die Daten werden nun ausgewertet - und liefern hoffentlich Antworten.",
+     "link": "https://www.tagesschau.de/ausland/europa/zugunglueck-spanien-156.html",
+     "image": "https://images.tagesschau.de/image/66f416f5-f843-43a2-aa35-189765c1a3c9/AAABoYwsVgM/AAABnSSvrFg/16x9-big/suche-guardia-vivil-100.jpg?width=1920",
+     "aggregator": false,
+     "published": "2026-10-30T12:32:41+00:00"
+    },
+    {
+     "source": "tagesschau Ausland",
+     "region": "INT",
+     "weight": 1.0,
+     "title": "Suche nach Opfern des Zugunglücks in Spanien geht weiter",
+     "summary": "In Spanien suchen die Rettungskräfte nach dem schweren Zugunglück nach weiteren Opfern in den Waggon-Trümmern. Die Regierung versprach Aufklärung, in Madrid gab es Proteste. Als Unfallursache könnte menschliches Versagen eine Rolle gespielt haben.",
+     "link": "https://www.tagesschau.de/ausland/europa/spanien-zugunglueck-128.html",
+     "image": "https://images.tagesschau.de/image/da2c0804-858b-4676-96bd-d51ddbd10635/AAABoYaeqFo/AAABnSSvrFg/16x9-big/spanien-zug-bergung-100.jpg?width=1920",
+     "aggregator": false,
+     "published": "2026-10-29T11:22:21+00:00"
+    },
+    {
+     "source": "tagesschau Ausland",
+     "region": "INT",
+     "weight": 1.0,
+     "title": "Zugunglück in Spanien: Der Schock sitzt tief",
+     "summary": "In Spanien sitzt der Schock tief über das zweite schwere Zugunglück auf der Hochgeschwindigkeitszugstrecke zwischen Madrid und Andalusien. Mindestens 69 Menschen verloren bei dem Unglück in der Region Toledo ihr Leben. Von Franka Welz.",
+     "link": "https://www.tagesschau.de/ausland/europa/spanien-zugunglueck-reportage-100.html",
+     "image": "https://images.tagesschau.de/image/f67b8593-5cb3-4e54-986f-56a033049442/AAABoYT5IkU/AAABnSSvrFg/16x9-big/zugunglueck-spanien-146.jpg?width=1920",
+     "aggregator": false,
+     "published": "2026-10-29T11:24:09+00:00"
+    },
+    {
+     "source": "ZDFheute",
+     "region": "DE",
+     "weight": 1.0,
+     "title": "Zugunglück: Bergungsarbeiten in Spanien gehen weiter",
+     "summary": "Nach dem Zugunglück bei Urda in Spanien geht die Suche nach Opfern und Vermissten weiter. Zur möglichen Ursache gibt es erste Erkenntnisse.",
+     "link": "https://www.zdfheute.de/video/panorama-zugunglueck-spanien-100.html",
+     "image": "https://www.zdfheute.de/assets/zugunglueck-spanien-zusammenstoss-102~384x216?cb=1793291100098",
+     "aggregator": false,
+     "published": "2026-10-29T16:25:00+00:00"
+    },
+    {
+     "source": "DER STANDARD",
+     "region": "AT",
+     "weight": 0.85,
+     "title": "Tödliches Zugunglück in Spanien: Opferzahl könnte noch steigen",
+     "summary": "Bei dem Unfall am Mittwoch sind mindestens 69 Menschen gestorben. Die Ermittler haben inzwischen die Fahrdatenschreiber geborgen",
+     "link": "https://www.derstandard.at/story/3000000346687/zugsungl252ck-in-spanien-fahrdatenschreiber-geborgen?ref=rss",
+     "image": "https://i.ds.at/npPU5A/rs:fill:150:0/plain/lido-images/2026/10/30/0f39e06a-de95-4824-85df-abb0e67132a7.jpg",
+     "aggregator": false,
+     "published": "2026-10-30T05:06:24+00:00"
+    }
+   ]
+  },
+  {
+   "id": 26,
+   "score": 7.7,
+   "outlets": [
+    "tagesschau",
+    "Deutschlandfunk"
+   ],
+   "regions": [
+    "DE"
+   ],
+   "trend": [],
+   "newest": "2026-10-30T17:32:37+00:00",
+   "articles": [
+    {
+     "source": "tagesschau",
+     "region": "DE",
+     "weight": 1.0,
+     "title": "Fast drei Millionen Arbeitslose im Oktober",
+     "summary": "Die Arbeitslosigkeit ist im Oktober zurückgegangen, die übliche Herbstbelebung aber nahezu ausgeblieben. Im Vergleich zum Vorjahr gibt es sogar mehr Arbeitslose. Als Grund nennt BA-Chefin Nahles die wirtschaftlichen Rahmenbedingungen.",
+     "link": "https://www.tagesschau.de/wirtschaft/arbeitsmarkt/arbeitslose-statistik-oktober-100.html",
+     "image": "https://images.tagesschau.de/image/b34a2f44-e641-4777-8bfc-9c23098254d6/AAABoYwJNjo/AAABnSSvrFg/16x9-big/flaggen-logo-bundesagentur-fuer-arbeit-100.jpg?width=1920",
+     "aggregator": false,
+     "published": "2026-10-30T10:32:55+00:00"
+    },
+    {
+     "source": "tagesschau Wirtschaft",
+     "region": "DE",
+     "weight": 1.0,
+     "title": "Fast drei Millionen Arbeitslose im Oktober",
+     "summary": "Die Arbeitslosigkeit ist im Oktober zurückgegangen, die übliche Herbstbelebung aber nahezu ausgeblieben. Im Vergleich zum Vorjahr gibt es sogar mehr Arbeitslose. Als Grund nennt BA-Chefin Nahles die wirtschaftlichen Rahmenbedingungen.",
+     "link": "https://www.tagesschau.de/wirtschaft/arbeitsmarkt/arbeitslose-statistik-oktober-100.html",
+     "image": "https://images.tagesschau.de/image/b34a2f44-e641-4777-8bfc-9c23098254d6/AAABoYwJNjo/AAABnSSvrFg/16x9-big/flaggen-logo-bundesagentur-fuer-arbeit-100.jpg?width=1920",
+     "aggregator": false,
+     "published": "2026-10-30T10:32:55+00:00"
+    },
+    {
+     "source": "Deutschlandfunk",
+     "region": "DE",
+     "weight": 0.95,
+     "title": "Bundesagentur - Zahl der Arbeitslosen ist im Oktober weiter zurückgegangen",
+     "summary": "Die Zahl der registrierten Arbeitslosen ‌in Deutschland ⁠ist im ⁠Oktober weiter zurückgegangen. Wie die Bundesagentur für Arbeit in Nürnberg mitteilte, sank sie um 40.000 auf knapp drei Millionen.",
+     "link": "https://www.deutschlandfunk.de/zahl-der-arbeitslosen-ist-im-oktober-weiter-zurueckgegangen-100.html",
+     "image": "https://bilder.deutschlandfunk.de/35/ce/ea/3f/35ceea3f-2dae-459d-85c3-b5c26b448c07/agentur-100-1920x1920.jpg",
+     "aggregator": false,
+     "published": "2026-10-30T17:32:37+00:00"
+    }
+   ]
+  },
+  {
+   "id": 27,
+   "score": 7.7,
+   "outlets": [
+    "tagesschau Inland",
+    "Deutschlandfunk"
+   ],
+   "regions": [
+    "DE"
+   ],
+   "trend": [],
+   "newest": "2026-10-30T17:32:37+00:00",
+   "articles": [
+    {
+     "source": "tagesschau Inland",
+     "region": "DE",
+     "weight": 1.0,
+     "title": "Linken-Politikerin Klein neue Parlamentspräsidentin",
+     "summary": "Knapp sechs Wochen nach der Wahl in Berlin ist das Abgeordnetenhaus zu seiner konstituierenden Sitzung zusammengekommen. Die Linken-Politikerin Klein ist zur neuen Präsidentin des Parlaments gewählt worden.",
+     "link": "https://www.tagesschau.de/inland/innenpolitik/berlin-abgeordnetenhaus-erste-sitzung-100.html",
+     "image": "https://images.tagesschau.de/image/7343b9a1-fc7f-40b9-b5b4-4032214027e4/AAABoYi51Rg/AAABnSSvrFg/16x9-big/rbb-628859365-100.jpg?width=1920",
+     "aggregator": false,
+     "published": "2026-10-29T17:31:06+00:00"
+    },
+    {
+     "source": "Deutschlandfunk",
+     "region": "DE",
+     "weight": 0.95,
+     "title": "Konstituierende Sitzung - Berliner Abgeordnetenhaus: Linken-Politikerin Klein zur Präsidentin gewählt",
+     "summary": "Die Linken-Politikerin Klein ist neue Präsidentin des Berliner Abgeordnetenhauses.",
+     "link": "https://www.deutschlandfunk.de/berliner-abgeordnetenhaus-linken-politikerin-klein-zur-praesidentin-gewaehlt-102.html",
+     "image": "https://bilder.deutschlandfunk.de/a5/5d/0d/be/a55d0dbe-877d-4ef5-82fe-d44ea7c6c0cb/abgeordnetenhaus-berlin-hendrikje-klein-linke-praesidentin-wahl-100-1920x1920.jpg",
+     "aggregator": false,
+     "published": "2026-10-30T17:32:37+00:00"
+    }
+   ]
+  }
+ ]
+}
