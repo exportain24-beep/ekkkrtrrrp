@@ -1,4 +1,4 @@
-# check_feeds.md – 2026-10-30 17:07 UTC
+# check_feeds.md – 2026-10-30 17:08 UTC
 
 - tagesschau: ok (71)
 - tagesschau Inland: ok (49)
@@ -25,7 +25,7 @@
 21/21 feeds OK, 1215 articles, 40 Google-Trends terms
 
 -  19.0 [CH,DE,INT] (9) G20-Außenministertreffen mit Lawrow und Wadephul in Atlanta
--  17.4 [DE,INT] (6) Alexander Zverev krönt sich in Wien zur Nummer eins der Tennis-Welt
+-  18.0 [DE,INT] (7) Alexander Zverev krönt sich in Wien zur Nummer eins der Tennis-Welt
 -  17.3 [AT,CH,DE,INT] (8) Netanjahu nach Wahl in Israel ohne Mehrheit und trotzdem am Hebel
 -  16.9 [AT,DE,INT] (7) Deutsche Wirtschaft wächst überraschend im Sommer
 -  15.2 [AT,DE,INT] (6) Suche nach Opfern des Zugunglücks in Spanien geht weiter
@@ -34,8 +34,8 @@
 -  14.9 [AT,CH,DE] (6) Nach 30 Jahren: Kreml zwingt die Nowaja Gaseta zum Schweigen
 -  14.8 [AT,DE,INT] (6) Debatte in der Koalition über Steuer auf Umsätze durch KI
 -  14.5 [DE] (6) Klage in Rheinland-Pfalz: Wie viel Unterrichtsausfall ist zu viel?
--  13.1 [CH,DE,INT] (6) Youth Olympic Games 2026: Das müssen Sie wissen
 -  12.9 [AT,DE,INT] (6) Russland darf an Eishockey-WM teilnehmen
 -  12.5 [DE] (5) VW legt die Entwicklung des E-Golfs auf Eis
+-  12.5 [CH,DE,INT] (5) Youth Olympic Games 2026: Das müssen Sie wissen
 -  12.1 [DE] (5) Mercedes hat noch größere Probleme im chinesischen Markt
 -  11.6 [CH,DE] (4) Europäische Zentralbank hält Leitzins unverändert
