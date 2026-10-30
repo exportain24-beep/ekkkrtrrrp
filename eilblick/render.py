@@ -496,8 +496,11 @@ class Renderer:
         d.rectangle([60, 1040, 60 + lw, 1104], fill=C["red"])
         d.text((82, 1046), label, font=f, fill=C["white"])
         d.text((60, 1118), tl.date_text.upper(), font=font("bold", 36), fill=(225, 225, 232, 255))
-        hook = text_block(tl.hook_text.upper(), "black", 950, 3, 150, 84, tl.hook_highlight)
-        fr.alpha_composite(hook, (54, 1180))
+        hook = self.headline_cache.get("hook")
+        if hook is None:
+            hook = self.headline_cache["hook"] = text_block(tl.hook_text.upper(), "black", 950, 2, 128, 70,
+                                                            tl.hook_highlight)
+        fr.alpha_composite(hook, (54, 1172))
         self.ticker(fr, t)
 
     def outro(self, fr, t):
