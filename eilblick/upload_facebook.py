@@ -10,6 +10,18 @@ import requests
 from .config import env, settings
 
 
+def _auth(token: str) -> dict:
+    """access_token + appsecret_proof (the Meta app requires it: a leaked token alone is useless)."""
+    import hashlib
+    import hmac
+    import os
+    d = {"access_token": token}
+    sec = os.environ.get("FB_APP_SECRET")
+    if sec:
+        d["appsecret_proof"] = hmac.new(sec.encode(), token.encode(), hashlib.sha256).hexdigest()
+    return d
+
+
 def _g() -> str:
     return f"https://graph.facebook.com/{settings()['facebook']['graph_version']}"
 
@@ -24,10 +36,10 @@ def page_token() -> str:
         return _PT["t"]
     tok = env("FB_PAGE_TOKEN")
     page = env("FB_PAGE_ID").strip()
-    r = requests.get(f"{_g()}/{page}", params={"fields": "access_token,name", "access_token": tok}, timeout=30).json()
+    r = requests.get(f"{_g()}/{page}", params={"fields": "access_token,name", **_auth(tok)}, timeout=30).json()
     if not r.get("access_token"):
         # fall back: look the page up in the token owner's page list
-        acc = requests.get(f"{_g()}/me/accounts", params={"fields": "id,name,access_token", "access_token": tok},
+        acc = requests.get(f"{_g()}/me/accounts", params={"fields": "id,name,access_token", **_auth(tok)},
                            timeout=30).json()
         pages = acc.get("data", [])
         _PT["pages"] = [(p.get("id"), p.get("name")) for p in pages]
@@ -45,7 +57,7 @@ def page_token() -> str:
 def upload(video: Path, description: str, publish_at: datetime) -> str:
     page = env("FB_PAGE_ID")
     tok = page_token()
-    r = requests.post(f"{_g()}/{page}/video_reels", data={"upload_phase": "start", "access_token": tok}, timeout=60)
+    r = requests.post(f"{_g()}/{page}/video_reels", data={"upload_phase": "start", **_auth(tok)}, timeout=60)
     if r.status_code >= 400:
         raise RuntimeError(f"FB start failed: {r.text[:400]}")
     vid = r.json()["video_id"]
@@ -58,7 +70,7 @@ def upload(video: Path, description: str, publish_at: datetime) -> str:
         )
     if up.status_code >= 400 or not up.json().get("success", False):
         raise RuntimeError(f"FB upload failed: {up.text[:400]}")
-    data = {"upload_phase": "finish", "video_id": vid, "description": description[:2200], "access_token": tok}
+    data = {"upload_phase": "finish", "video_id": vid, "description": description[:2200], **_auth(tok)}
     ts = int(publish_at.astimezone(timezone.utc).timestamp())
     if publish_at.astimezone(timezone.utc) > datetime.now(timezone.utc) + timedelta(minutes=12):
         data.update(video_state="SCHEDULED", scheduled_publish_time=str(ts))
@@ -72,7 +84,7 @@ def upload(video: Path, description: str, publish_at: datetime) -> str:
 
 
 def comment(video_id: str, text: str) -> str:
-    r = requests.post(f"{_g()}/{video_id}/comments", data={"message": text, "access_token": page_token()},
+    r = requests.post(f"{_g()}/{video_id}/comments", data={"message": text, **_auth(page_token())},
                       timeout=30)
     if r.status_code >= 400:
         raise RuntimeError(f"FB comment failed: {r.text[:300]}")
@@ -89,10 +101,10 @@ def _app_token() -> str | None:
 def check_token() -> dict:
     """Which Page the token belongs to, its scopes and expiry (no secrets printed)."""
     raw = env("FB_PAGE_TOKEN")
-    dbg = requests.get(f"{_g()}/debug_token", params={"input_token": raw, "access_token": _app_token() or raw},
+    dbg = requests.get(f"{_g()}/debug_token", params={"input_token": raw, **({"access_token": _app_token()} if _app_token() else _auth(raw))},
                        timeout=30).json().get("data", {})
     tok = page_token()
-    me = requests.get(f"{_g()}/me", params={"fields": "id,name,category,followers_count", "access_token": tok},
+    me = requests.get(f"{_g()}/me", params={"fields": "id,name,category,followers_count", **_auth(tok)},
                       timeout=30).json()
     if _PT.get("err"):
         me["page_token_error"] = _PT["err"]
@@ -110,5 +122,5 @@ def check_token() -> dict:
 def page_seo(about: str, website: str) -> dict:
     """Best-effort Page SEO (needs pages_manage_metadata)."""
     r = requests.post(f"{_g()}/{env('FB_PAGE_ID')}",
-                      data={"about": about[:255], "website": website, "access_token": page_token()}, timeout=30)
+                      data={"about": about[:255], "website": website, **_auth(page_token())}, timeout=30)
     return r.json()
