@@ -182,11 +182,49 @@
    ],
    "comment": {
     "text": "Sollte die Linke in Berlin mit SPD und Grünen regieren? Was meinen Sie?",
-    "done": false
+    "done": true,
+    "yt": "UgyV__TeVg6Ct51xUfx4AaABAg",
+    "fb": "1895649845093533_1475053064544534"
    },
    "youtube_id": "nspHFzQKn0o",
    "facebook_id": "1895649845093533",
    "created": "2026-10-31T13:59:00.784190+00:00"
+  },
+  {
+   "date": "2026-10-31",
+   "slot": "nacht",
+   "publish_at": "2026-10-31T19:45:00+00:00",
+   "title": "Kanada in die EU? Von der Leyen übergeht Merz beim Gipfel 🇪🇺",
+   "duration": 46.6,
+   "stories": [
+    {
+     "headline": "Kanada: Von der Leyen übergeht Merz",
+     "region": "EU",
+     "pillar": "POLITIK"
+    },
+    {
+     "headline": "Iran: Chamenei droht den USA",
+     "region": "INT",
+     "pillar": "WELT"
+    },
+    {
+     "headline": "IG Metall: Warnstreiks ab Sonntag",
+     "region": "DE",
+     "pillar": "WIRTSCHAFT"
+    },
+    {
+     "headline": "Gen Z: Zehntausende auf der Straße",
+     "region": "DE",
+     "pillar": "POLITIK"
+    }
+   ],
+   "comment": {
+    "text": "Kanada als Sondermitglied der EU – gute Idee oder zu weit? Ja oder nein?",
+    "done": false
+   },
+   "youtube_id": "Zgsl6U0EcRo",
+   "facebook_id": "1480201050653151",
+   "created": "2026-10-31T18:15:15.378169+00:00"
   }
  ]
 }
