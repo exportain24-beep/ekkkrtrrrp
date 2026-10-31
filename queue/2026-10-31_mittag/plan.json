@@ -1,0 +1,56 @@
+{
+  "stories": [
+    {
+      "candidate_id": 15,
+      "pillar": "WIRTSCHAFT",
+      "region": "DE",
+      "kicker": "PEKING",
+      "headline": "China will mehr deutsche Produkte",
+      "highlight": ["China"],
+      "voice": "China will mehr hochwertige deutsche Produkte importieren. Das kündigte Ministerpräsident Li Qiang gegenüber Bundespräsident Steinmeier an, der das Handelsungleichgewicht angesprochen hatte.",
+      "subline": "Steinmeier sprach das Ungleichgewicht im Handel direkt an",
+      "entities": ["Frank-Walter Steinmeier", "Li Qiang"]
+    },
+    {
+      "candidate_id": 4,
+      "pillar": "WIRTSCHAFT",
+      "region": "EU",
+      "kicker": "ROM",
+      "headline": "Italien: Massenprotest gegen Preise",
+      "highlight": ["Massenprotest"],
+      "voice": "Italien: Hunderttausende haben gegen die Regierung Meloni und hohe Preise demonstriert. Die Inflation schnellt auf fünf Komma vier Prozent, den höchsten Wert seit Jahren.",
+      "subline": "Größte Kundgebungen in Rom, Mailand, Neapel und Turin",
+      "entities": ["Giorgia Meloni", "Rom"]
+    },
+    {
+      "candidate_id": 11,
+      "pillar": "POLITIK",
+      "region": "DE",
+      "kicker": "DEUTSCHLAND",
+      "headline": "Gen Z protestiert in 30 Städten",
+      "highlight": ["Gen Z"],
+      "voice": "Die Generation Z demonstriert heute in mehr als dreißig deutschen Städten für bessere Bildung und ein bezahlbares Leben. Die Polizei rüstet sich für Großeinsätze.",
+      "subline": "Eigene Kundgebungen in Berlin, Köln, Frankfurt und München",
+      "entities": ["Berlin", "Hamburg"]
+    },
+    {
+      "candidate_id": 9,
+      "pillar": "TECHNOLOGIE",
+      "region": "INT",
+      "kicker": "KRYPTOBÖRSE",
+      "headline": "Binance will alle Verluste ersetzen",
+      "highlight": ["Binance"],
+      "voice": "Binance will nach dem Hackerangriff alle Verluste ersetzen. Hacker hatten von der weltgrößten Kryptobörse Werte von sechs Komma drei Milliarden Dollar erbeutet.",
+      "subline": "Rund drei Milliarden Dollar konnten eingefroren werden",
+      "entities": ["Binance"]
+    }
+  ],
+  "hook_text": "China will deutsche Produkte",
+  "youtube_title": "China will mehr deutsche Produkte: Was Li Qiang jetzt ankündigt",
+  "description_lead": "China will mehr hochwertige deutsche Produkte importieren – das kündigte Ministerpräsident Li Qiang gegenüber Bundespräsident Frank-Walter Steinmeier an. Außerdem: Massenproteste gegen Giorgia Meloni und 5,4 Prozent Inflation in Italien, Gen-Z-Demos in mehr als 30 deutschen Städten und Binance will nach dem Milliarden-Hack alle Verluste ersetzen.",
+  "tags": ["China", "Li Qiang", "Frank-Walter Steinmeier", "Peking", "Italien", "Giorgia Meloni", "Rom", "Gen Z regelt", "Berlin", "Hamburg", "Binance", "Export", "Handel", "Inflation", "Kryptowährung"],
+  "hashtags": ["#china", "#export", "#genz"],
+  "facebook_caption_line1": "China kündigt an: Mehr deutsche Produkte sollen importiert werden",
+  "facebook_question": "Glauben Sie, dass Chinas Ankündigung der deutschen Wirtschaft wirklich hilft?",
+  "comment_question": "Mehr deutsche Exporte nach China: Echte Chance oder nur ein leeres Versprechen?"
+}
