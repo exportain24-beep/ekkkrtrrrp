@@ -106,11 +106,49 @@
    ],
    "comment": {
     "text": "Richtig oder falsch: Sollten Europas Außenminister bei G20 auf Distanz zu Lawrow gehen?",
-    "done": false
+    "done": true,
+    "yt": "UgxSB8mciw58lML4PY54AaABAg",
+    "fb": "1163890449301990_4772477989638785"
    },
    "youtube_id": "TnhmMEDG630",
    "facebook_id": "1163890449301990",
    "created": "2026-10-31T04:29:30.409556+00:00"
+  },
+  {
+   "date": "2026-10-31",
+   "slot": "mittag",
+   "publish_at": "2026-10-31T11:00:00+00:00",
+   "title": "China will mehr deutsche Produkte: Was Li Qiang jetzt ankündigt",
+   "duration": 49.1,
+   "stories": [
+    {
+     "headline": "China will mehr deutsche Produkte",
+     "region": "DE",
+     "pillar": "WIRTSCHAFT"
+    },
+    {
+     "headline": "Italien: Massenprotest gegen Preise",
+     "region": "EU",
+     "pillar": "WIRTSCHAFT"
+    },
+    {
+     "headline": "Gen Z protestiert in 30 Städten",
+     "region": "DE",
+     "pillar": "POLITIK"
+    },
+    {
+     "headline": "Binance will alle Verluste ersetzen",
+     "region": "INT",
+     "pillar": "TECHNOLOGIE"
+    }
+   ],
+   "comment": {
+    "text": "Mehr deutsche Exporte nach China: Echte Chance oder nur ein leeres Versprechen?",
+    "done": false
+   },
+   "youtube_id": "UNSTSPtVOS0",
+   "facebook_id": "2608647126248466",
+   "created": "2026-10-31T09:31:20.239457+00:00"
   }
  ]
 }
