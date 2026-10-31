@@ -1,0 +1,57 @@
+{
+  "stories": [
+    {
+      "candidate_id": 5,
+      "pillar": "POLITIK",
+      "region": "EU",
+      "kicker": "MONTREAL",
+      "headline": "Kanada: Von der Leyen übergeht Merz",
+      "highlight": ["Kanada"],
+      "voice": "Ursula von der Leyen hat beim EU-Kanada-Gipfel in Montreal erneut für eine Sondermitgliedschaft Kanadas geworben – gegen den Wunsch von Kanzler Merz.",
+      "subline": "Merz hatte die Pläne zuvor mit anderen Regierungschefs abgeschwächt",
+      "entities": ["Ursula von der Leyen", "Mark Carney"]
+    },
+    {
+      "candidate_id": 13,
+      "pillar": "WELT",
+      "region": "INT",
+      "kicker": "TEHERAN",
+      "headline": "Iran: Chamenei droht den USA",
+      "highlight": ["Chamenei"],
+      "voice": "Irans oberster Führer Chamenei droht den USA bei neuen Angriffen mit Vergeltung über die Golfregion hinaus. Ägypten warnt vor einer erneuten Eskalation.",
+      "subline": "Spekulationen über neue US-Angriffe nach der Kongresswahl",
+      "entities": ["Modschtaba Chamenei", "Iran"]
+    },
+    {
+      "candidate_id": 14,
+      "pillar": "WIRTSCHAFT",
+      "region": "DE",
+      "kicker": "INDUSTRIE",
+      "headline": "IG Metall: Warnstreiks ab Sonntag",
+      "highlight": ["Warnstreiks"],
+      "voice": "Die IG Metall ruft zu ersten Warnstreiks in der Metall- und Elektroindustrie auf. In Nordrhein-Westfalen geht es am Sonntagabend los, in Bremen bei Mercedes.",
+      "subline": "Gewerkschaft lehnt erstes Angebot der Arbeitgeber ab",
+      "entities": ["IG Metall", "Mercedes-Benz"]
+    },
+    {
+      "candidate_id": 11,
+      "pillar": "POLITIK",
+      "region": "DE",
+      "kicker": "DEUTSCHLAND",
+      "headline": "Gen Z: Zehntausende auf der Straße",
+      "highlight": ["Gen Z"],
+      "voice": "Zehntausende junge Menschen haben am Samstag in mehr als dreißig deutschen Städten demonstriert. Die Proteste blieben meist friedlich, vereinzelt musste die Polizei eingreifen.",
+      "subline": "Jugendproteste in mehr als 30 Städten",
+      "entities": ["Generation Z", "Demonstration"]
+    }
+  ],
+  "hook_text": "Kanada in die EU?",
+  "hook_voice": "Kanada in die EU? Von der Leyen übergeht Merz.",
+  "youtube_title": "Kanada in die EU? Von der Leyen übergeht Merz beim Gipfel 🇪🇺",
+  "description_lead": "Kanada als Sondermitglied der EU: Ursula von der Leyen wirbt beim EU-Kanada-Gipfel in Montreal erneut dafür – gegen den Wunsch von Kanzler Friedrich Merz. Außerdem: Irans Führer Chamenei droht den USA, die IG Metall ruft zu Warnstreiks auf und Zehntausende junge Menschen demonstrieren bei den Gen-Z-Protesten in Deutschland.",
+  "tags": ["Ursula von der Leyen", "Friedrich Merz", "Kanada", "EU-Kanada-Gipfel", "Montreal", "Mark Carney", "Chamenei", "Iran", "USA", "IG Metall", "Warnstreik", "Mercedes", "Gen Z", "Jugendproteste", "Europäische Union"],
+  "hashtags": ["#kanada", "#eu", "#igmetall"],
+  "facebook_caption_line1": "Kanada in die EU? Von der Leyen wirbt erneut – gegen den Wunsch von Kanzler Merz",
+  "facebook_question": "Sollte Kanada eine besondere Mitgliedschaft in der EU bekommen?",
+  "comment_question": "Kanada als Sondermitglied der EU – gute Idee oder zu weit? Ja oder nein?"
+}
