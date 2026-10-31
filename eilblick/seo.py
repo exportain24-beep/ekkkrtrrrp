@@ -58,6 +58,7 @@ def youtube_meta(plan: dict, credits: list[str], sources: list[str], date_text: 
 
 
 def facebook_caption(plan: dict) -> str:
+    """Facebook caption – NEVER contains a website or any link (owner rule)."""
     ch = settings()["channel"]
     seo = settings()["seo"]
     extra = [_hashtag(h.lstrip("#")) for h in plan.get("hashtags", [])][:2]
@@ -68,8 +69,20 @@ def facebook_caption(plan: dict) -> str:
         "",
         *[f"{NUM[i]} {s['headline']}" for i, s in enumerate(plan["stories"])],
         "",
-        f"Eilblick – {ch['slogan']} Mehr auf {ch['website'].replace('https://', '')}",
+        f"Eilblick – {ch['slogan']}",   # owner rule: never a website/link in the Facebook caption
         "",
         " ".join(list(dict.fromkeys(tags))[:6]),
     ]
-    return "\n".join(lines)
+    return strip_links("\n".join(lines))
+
+
+_LINK = re.compile(r"(https?://\S+|www\.\S+|\b[\w-]+\.(de|com|net|org|at|ch|io)\b)", re.I)
+
+
+def strip_links(text: str) -> str:
+    out = []
+    for line in text.splitlines():
+        line = _LINK.sub("", line)
+        line = re.sub(r"[–-]?\s*(mehr|alles|infos?|details)\s+(auf|unter|bei)\s*[:.]?\s*$", "", line, flags=re.I)
+        out.append(re.sub(r"\s{2,}", " ", line).strip())
+    return "\n".join(out)

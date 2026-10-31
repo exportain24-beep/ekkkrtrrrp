@@ -53,6 +53,10 @@ def validate(plan: dict, n_candidates: int) -> list[str]:
             errs.append(f"missing field: {f}")
     if len(plan.get("youtube_title", "")) > 95:
         errs.append("youtube_title too long (max ~65 recommended, hard 95)")
+    import re
+    for f in ("facebook_caption_line1", "facebook_question"):
+        if re.search(r"https?://|www\.|\b[\w-]+\.(de|com|net|org|at|ch)\b", plan.get(f, ""), re.I):
+            errs.append(f"{f}: no website/link allowed in Facebook captions")
     hv = plan.get("hook_voice", "")
     if hv and len(hv.split()) > 9:
         errs.append("hook_voice: max 9 words (must be spoken within ~2 seconds)")

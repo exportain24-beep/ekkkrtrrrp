@@ -82,6 +82,8 @@ Re-read your draft as the final editor ("Schlussredakteur"):
   "DAX", "Wien"), then topic terms ("Rente", "Inflation", "Zölle"). Channel base tags are added automatically.
 - `hashtags`: 2–3 topical, lowercase, no spaces (e.g. `#bundestag`, `#rente`). Base hashtags are added automatically.
 - `facebook_caption_line1`: breaking-style headline; `facebook_question`: neutral open debate question.
+- **Facebook: never a website or link in any caption field** (owner rule; links are stripped automatically).
+  A link to eilblick.de may only ever go into a comment, and only when a viewer asks for sources.
 - `comment_question`: neutral but debate-starting question about story 1 (posted as first comment).
 
 ## plan.json schema
