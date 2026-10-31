@@ -20,7 +20,9 @@ Output: `queue/<date>_<slot>/plan.json` (schema below). Then run
      or invite them to discuss ("Was meinen Sie: …?"). Never take political sides, never argue, never insult,
      never promise things, no links, no emojis spam (max 1).
    - Factual corrections from viewers: thank them; if they are right, say so honestly.
-   - Spam, scams, insults, hate or sexual content: `"reply": ""` (no answer – it is marked as handled).
+   - Rude words about politicians or others: still reply, briefly and friendly, ask for a respectful tone
+     and invite a factual opinion.
+   - Only spam, scams, hate speech, threats or sexual content: `"reply": ""` (no answer – marked as handled).
 3. Commit + push, then `gh api -X POST …/comments.yml/dispatches -f ref=main -f 'inputs[mode]=post'` and wait for it.
    If the inbox is empty, skip 2–3.
 
