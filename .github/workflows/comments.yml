@@ -1,0 +1,48 @@
+name: Eilblick 3 – Comments (fetch / reply)
+
+# Used by the Claude news desk on every slot run:
+#   mode=fetch → every unanswered YouTube + Facebook comment → state/comments_inbox.json
+#   mode=post  → posts the German replies from state/comments_replies.json (+ likes on Facebook)
+on:
+  workflow_dispatch:
+    inputs:
+      mode:
+        description: "fetch or post"
+        required: true
+        default: fetch
+
+permissions:
+  contents: write
+
+concurrency:
+  group: eilblick-repo-write
+  cancel-in-progress: false
+
+jobs:
+  comments:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    env:
+      YT_CLIENT_ID: ${{ secrets.YT_CLIENT_ID }}
+      YT_CLIENT_SECRET: ${{ secrets.YT_CLIENT_SECRET }}
+      YT_REFRESH_TOKEN: ${{ secrets.YT_REFRESH_TOKEN }}
+      FB_PAGE_ID: ${{ secrets.FB_PAGE_ID }}
+      FB_PAGE_TOKEN: ${{ secrets.FB_PAGE_TOKEN }}
+      FB_APP_ID: ${{ secrets.FB_APP_ID }}
+      FB_APP_SECRET: ${{ secrets.FB_APP_SECRET }}
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+          cache: pip
+      - run: pip install -q -r requirements.txt
+      - run: python -m eilblick comments-${{ github.event.inputs.mode }}
+      - name: Save
+        if: always()
+        run: |
+          git config user.name "eilblick-bot"
+          git config user.email "eilblick-bot@users.noreply.github.com"
+          git add -A state/
+          git commit -q -m "comments: ${{ github.event.inputs.mode }}" || exit 0
+          for i in 1 2 3; do git pull --rebase -q && git push -q && break; sleep 5; done

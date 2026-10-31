@@ -10,6 +10,26 @@ sorted by hotness (outlet count × trust, Google-Trends match, freshness, DACH b
 Output: `queue/<date>_<slot>/plan.json` (schema below). Then run
 `python -m eilblick validate-plan queue/<date>_<slot>` and fix until it prints `plan OK ✓`.
 
+## Step 0 – Answer every comment (do this first, every run)
+1. `gh api -X POST repos/exportain24-beep/ekkkrtrrrp/actions/workflows/comments.yml/dispatches -f ref=main -f 'inputs[mode]=fetch'`,
+   wait until the newest "Eilblick 3 – Comments" run is completed, `git pull --rebase`, read `state/comments_inbox.json`.
+2. If it has comments, write `state/comments_replies.json` = a list of `{"platform", "id", "reply"}` — one entry for
+   **every** comment in the inbox (copy platform + id exactly):
+   - Reply in the commenter's language (German by default), 1–2 short sentences, polite, warm, "Sie"-form
+     unless the commenter uses "du". Thank them, answer their question with facts from the video/sources,
+     or invite them to discuss ("Was meinen Sie: …?"). Never take political sides, never argue, never insult,
+     never promise things, no links, no emojis spam (max 1).
+   - Factual corrections from viewers: thank them; if they are right, say so honestly.
+   - Spam, scams, insults, hate or sexual content: `"reply": ""` (no answer – it is marked as handled).
+3. Commit + push, then `gh api -X POST …/comments.yml/dispatches -f ref=main -f 'inputs[mode]=post'` and wait for it.
+   If the inbox is empty, skip 2–3.
+
+## Thumbnail = first impression (the system renders it from your fields)
+- Story 1 must be the strongest story **with good photos** (it provides the thumbnail photo and the hook).
+- `hook_text`: 2–4 words, the keyword first, a concrete fact that creates curiosity but is true
+  ("Inflation sinkt deutlich", "VW stoppt E-Golf", "Lagarde tritt zurück"). `highlight` of story 1 = the keyword (red).
+- Never clickbait that the video does not deliver.
+
 ## Hard rules
 1. **Only facts present in the candidate texts.** Never invent numbers, names, places, quotes or times.
    If unsure, leave it out. You may use WebSearch/WebFetch only to *verify* a fact; if sources contradict, drop the detail.

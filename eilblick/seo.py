@@ -13,7 +13,7 @@ def _hashtag(s: str) -> str:
     return "#" + s if s else ""
 
 
-def youtube_meta(plan: dict, credits: list[str], sources: list[str]) -> tuple[str, str, list[str]]:
+def youtube_meta(plan: dict, credits: list[str], sources: list[str], date_text: str = "") -> tuple[str, str, list[str]]:
     ch = settings()["channel"]
     seo = settings()["seo"]
     title = plan["youtube_title"].strip()
@@ -25,7 +25,7 @@ def youtube_meta(plan: dict, credits: list[str], sources: list[str]) -> tuple[st
         "",
         plan.get("description_lead", ""),
         "",
-        "Die Schlagzeilen:",
+        (f"Nachrichten heute – {date_text}. " if date_text else "") + "Die Schlagzeilen:",
         *[f"{NUM[i]} {s['headline']} – {s['subline']}" for i, s in enumerate(plan["stories"])],
         "",
         f"🚨 EILBLICK – {ch['slogan']}",
@@ -42,7 +42,11 @@ def youtube_meta(plan: dict, credits: list[str], sources: list[str]) -> tuple[st
     ]
     desc = "\n".join(lines)
     tags, total = [], 0
-    for t in list(plan.get("tags", [])) + seo["base_tags"]:
+    date_tag = []
+    if date_text and "," in date_text:
+        dm = date_text.split(",", 1)[1].strip()          # "31. Oktober 2026"
+        date_tag = [f"Nachrichten {dm}", f"News {dm.rsplit(' ', 1)[0]}"]
+    for t in list(plan.get("tags", [])) + date_tag + seo["base_tags"]:
         t = t.strip().replace("#", "")
         if not t or t.lower() in (x.lower() for x in tags):
             continue

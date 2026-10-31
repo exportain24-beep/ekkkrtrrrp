@@ -124,3 +124,43 @@ def page_seo(about: str, website: str) -> dict:
     r = requests.post(f"{_g()}/{env('FB_PAGE_ID')}",
                       data={"about": about[:255], "website": website, **_auth(page_token())}, timeout=30)
     return r.json()
+
+
+def set_thumbnail(video_id: str, jpg: Path) -> None:
+    with open(jpg, "rb") as f:
+        r = requests.post(f"{_g()}/{video_id}/thumbnails", data={"is_preferred": "true", **_auth(page_token())},
+                          files={"source": ("thumb.jpg", f, "image/jpeg")}, timeout=60)
+    if r.status_code >= 400:
+        raise RuntimeError(r.text[:200])
+    print("  Facebook cover ✓")
+
+
+# ------------------------------------------------------------------ comments
+def page_id() -> str:
+    return env("FB_PAGE_ID").strip()
+
+
+def unanswered_comments(video_ids: list[str]) -> list[dict]:
+    out = []
+    tok = page_token()
+    for vid in video_ids:
+        r = requests.get(f"{_g()}/{vid}/comments", params={
+            "fields": "id,message,created_time,from{id},comments.limit(20){from{id}}", "limit": 100,
+            "filter": "toplevel", **_auth(tok)}, timeout=30).json()
+        for c in r.get("data", []):
+            if (c.get("from") or {}).get("id") == page_id():
+                continue
+            replies = (c.get("comments") or {}).get("data", [])
+            if any((x.get("from") or {}).get("id") == page_id() for x in replies):
+                continue
+            if c.get("message"):
+                out.append({"platform": "facebook", "id": c["id"], "video": vid, "text": c["message"][:600]})
+    return out
+
+
+def reply(comment_id: str, text: str) -> None:
+    tok = page_token()
+    r = requests.post(f"{_g()}/{comment_id}/comments", data={"message": text, **_auth(tok)}, timeout=30)
+    if r.status_code >= 400:
+        raise RuntimeError(r.text[:200])
+    requests.post(f"{_g()}/{comment_id}/likes", data=_auth(tok), timeout=30)   # like it too

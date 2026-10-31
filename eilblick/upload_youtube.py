@@ -166,3 +166,45 @@ def channel_seo(description: str, keywords: list[str]) -> dict:
     if r.status_code >= 400:
         raise RuntimeError(f"channel update {r.status_code}: {r.text[:300]}")
     return {"channel": item["snippet"]["title"], "id": item["id"]}
+
+
+
+def my_channel_id() -> str:
+    r = requests.get("https://www.googleapis.com/youtube/v3/channels", params={"part": "id", "mine": "true"},
+                     headers={"Authorization": f"Bearer {_tok()}"}, timeout=30).json()
+    return r["items"][0]["id"]
+
+
+def unanswered_comments(max_pages: int = 5) -> list[dict]:
+    """Top-level comments on our videos without a reply from our channel."""
+    me = my_channel_id()
+    out, token = [], None
+    for _ in range(max_pages):
+        params = {"part": "snippet,replies", "allThreadsRelatedToChannelId": me, "maxResults": 100,
+                  "order": "time", "textFormat": "plainText"}
+        if token:
+            params["pageToken"] = token
+        r = requests.get("https://www.googleapis.com/youtube/v3/commentThreads", params=params,
+                         headers={"Authorization": f"Bearer {_tok()}"}, timeout=30).json()
+        for th in r.get("items", []):
+            top = th["snippet"]["topLevelComment"]
+            sn = top["snippet"]
+            if (sn.get("authorChannelId") or {}).get("value") == me:
+                continue
+            reps = (th.get("replies") or {}).get("comments", [])
+            if any((x["snippet"].get("authorChannelId") or {}).get("value") == me for x in reps):
+                continue
+            out.append({"platform": "youtube", "id": top["id"], "video": sn.get("videoId"),
+                        "text": sn.get("textOriginal", "")[:600]})
+        token = r.get("nextPageToken")
+        if not token:
+            break
+    return out
+
+
+def reply(parent_id: str, text: str) -> None:
+    r = requests.post("https://www.googleapis.com/youtube/v3/comments", params={"part": "snippet"},
+                      headers={"Authorization": f"Bearer {_tok()}"},
+                      json={"snippet": {"parentId": parent_id, "textOriginal": text}}, timeout=30)
+    if r.status_code >= 400:
+        raise RuntimeError(r.text[:200])

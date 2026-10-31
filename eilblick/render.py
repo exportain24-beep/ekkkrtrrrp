@@ -7,14 +7,14 @@ or below y≈1560 where YouTube/Facebook draw their buttons and captions):
   │ [E] EILBLICK      AKTUELL 07:30│  y 110–210  top bar, logo, clock
   │ 1/4 · POLITIK                │  y 260
   │ ┌──────────────────────────┐ │
-  │ │  news photo (Ken Burns)  │ │  y 320–990 photo card, changes every ~2.8 s
+  │ │  news photo (Ken Burns)  │ │  y 310–930 photo card, changes every ~2.8 s
   │ │ Bild: tagesschau.de      │ │
   │ └──────────────────────────┘ │
-  │ ▌BERLIN                      │  y 1022 kicker
-  │ Headline in white, KEY red   │  y 1094 headline (≤2 lines)
-  │ voice-synced caption words   │  y ≤1330 caption
-  │ Quelle: tagesschau · ORF     │  y 1460
-  │ ▌EILBLICK +++ ticker +++     │  y 1495 ticker
+  │ ▌BERLIN                      │  y 958 kicker
+  │ Headline in white, KEY red   │  y 1030 headline (≤2 lines)
+  │ voice-synced caption words   │  y ≤1266 caption
+  │ Quelle: tagesschau · ORF     │  y 1398
+  │ ▌EILBLICK +++ ticker +++     │  y 1436 ticker (inside side margins, above platform UI)
   └──────────────────────────────┘
 """
 from __future__ import annotations
@@ -256,7 +256,7 @@ class PhotoCache:
 
 # ------------------------------------------------------------------ renderer
 class Renderer:
-    CARD = (60, 320, 1020, 990)    # photo card box
+    CARD = (60, 310, 1020, 930)    # photo card box
 
     def __init__(self, tl: Timeline):
         self.tl = tl
@@ -380,18 +380,18 @@ class Renderer:
         f = font("black", 46)
         kw = f.getlength(story.kicker) + 40
         x = 60 - (1 - a) * 300
-        d.rectangle([x, 1022, x + kw, 1082], fill=C["red"])
-        d.text((x + 20, 1024), story.kicker, font=f, fill=C["white"])
-        d.text((x + kw + 18, 1032), "HEUTE", font=font("bold", 34), fill=(220, 220, 228, int(255 * a)))
+        d.rectangle([x, 958, x + kw, 1018], fill=C["red"])
+        d.text((x + 20, 960), story.kicker, font=f, fill=C["white"])
+        d.text((x + kw + 18, 968), "HEUTE", font=font("bold", 34), fill=(220, 220, 228, int(255 * a)))
         key = story.index
         if key not in self.headline_cache:
-            self.headline_cache[key] = text_block(story.headline.upper(), "black", 930, 2, 88, 58, story.highlight)
+            self.headline_cache[key] = text_block(story.headline.upper(), "black", 930, 2, 80, 54, story.highlight)
         hb = self.headline_cache[key]
         ha = ease((lt - 0.3) / 0.45)
         if ha > 0:
             reveal = int(hb.width * ha)
             crop = hb.crop((0, 0, max(1, reveal), hb.height))
-            fr.alpha_composite(crop, (56, 1094))
+            fr.alpha_composite(crop, (56, 1030))
 
     def caption(self, fr, story: StoryClip, t: float):
         words = story.words
@@ -430,27 +430,42 @@ class Renderer:
                     k += 1
             self.caption_cache[key] = img
         hb = self.headline_cache.get(story.index)
-        cy = min(1330, 1094 + (hb.height if hb else 120) + 4)
+        cy = min(1266, 1030 + (hb.height if hb else 120) + 4)
         fr.alpha_composite(self.caption_cache[key], (62, cy))
 
     def source_line(self, fr, story: StoryClip, t: float):
         a = ease((t - story.start - 0.6) / 0.4)
         f = font("med", 26)
         txt = "Quelle: " + " · ".join(story.sources[:3])
-        ImageDraw.Draw(fr).text((62, 1462), txt, font=f, fill=(190, 190, 200, int(230 * a)))
+        ImageDraw.Draw(fr).text((62, 1398), txt, font=f, fill=(190, 190, 200, int(230 * a)))
 
     def ticker(self, fr, t: float):
+        """News ticker kept fully inside the safe area: 40 px side margins, above the
+        platform captions; the label never overlaps the running text."""
+        y, h, x0, x1 = 1436, 58, 40, 1040
         d = ImageDraw.Draw(fr)
-        y = 1505
-        d.rectangle([0, y, W, y + 58], fill=(10, 10, 12, 235))
-        speed = 120
-        off = int(t * speed) % max(1, self.ticker_strip.width // 3)
-        strip = self.ticker_strip.crop((off, 0, off + W, 62))
-        fr.alpha_composite(strip, (230, y - 4))
-        f = font("black", 36)
-        d.rectangle([0, y, 220, y + 58], fill=C["red"])
-        d.text((24, y + 6), "EILBLICK", font=f, fill=C["white"])
-        d.polygon([(220, y), (244, y + 29), (220, y + 58)], fill=C["red"])
+        d.rounded_rectangle([x0, y, x1, y + h], radius=10, fill=(10, 10, 12, 235))
+        f = font("black", 34)
+        label = "EILBLICK"
+        lw = int(f.getlength(label)) + 40
+        run_x0 = x0 + lw + 30
+        speed = 95
+        period = max(1, self.ticker_strip.width // 3)
+        off = int(t * speed) % period
+        strip = self.ticker_strip.crop((off, 0, off + (x1 - 12 - run_x0), 62))
+        # soft fade at both ends so no letter is hard-cut
+        m = Image.new("L", strip.size, 255)
+        md = ImageDraw.Draw(m)
+        for i in range(40):
+            v = int(255 * i / 40)
+            md.line([(i, 0), (i, strip.height)], fill=v)
+            md.line([(strip.width - 1 - i, 0), (strip.width - 1 - i, strip.height)], fill=v)
+        strip.putalpha(Image.composite(strip.getchannel("A"), Image.new("L", strip.size, 0), m))
+        fr.alpha_composite(strip, (run_x0, y - 2))
+        d.rounded_rectangle([x0, y, x0 + lw, y + h], radius=10, fill=C["red"])
+        d.polygon([(x0 + lw - 2, y), (x0 + lw + 22, y + h // 2), (x0 + lw - 2, y + h)], fill=C["red"])
+        asc, desc = f.getmetrics()
+        d.text((x0 + 20, y + (h - asc - desc) // 2 + 2), label, font=f, fill=C["white"])
 
     def background(self, fr, photo, t):
         if photo is None:
@@ -493,14 +508,14 @@ class Renderer:
         f = font("black", 44)
         label = "DIE SCHLAGZEILEN"
         lw = f.getlength(label) + 44
-        d.rectangle([60, 1040, 60 + lw, 1104], fill=C["red"])
-        d.text((82, 1046), label, font=f, fill=C["white"])
-        d.text((60, 1118), tl.date_text.upper(), font=font("bold", 36), fill=(225, 225, 232, 255))
+        d.rectangle([60, 980, 60 + lw, 1044], fill=C["red"])
+        d.text((82, 986), label, font=f, fill=C["white"])
+        d.text((60, 1058), tl.date_text.upper(), font=font("bold", 36), fill=(225, 225, 232, 255))
         hook = self.headline_cache.get("hook")
         if hook is None:
             hook = self.headline_cache["hook"] = text_block(tl.hook_text.upper(), "black", 950, 2, 128, 70,
                                                             tl.hook_highlight)
-        fr.alpha_composite(hook, (54, 1172))
+        fr.alpha_composite(hook, (54, 1110))
         self.ticker(fr, t)
 
     def outro(self, fr, t):
@@ -552,6 +567,47 @@ class Renderer:
             self.wipe(fr, t, s.start)
         self.wipe(fr, t, tl.end_start)
         return fr.convert("RGB")
+
+
+def render_thumbnail(tl: Timeline, out: Path) -> Path:
+    """Click-worthy 9:16 thumbnail: sharpest, largest photo of the top story, boosted
+    contrast, huge 2–3 line hook (keyword in signal red), logo + date. Text sits in the
+    centre-upper safe zone so no platform button covers it."""
+    from PIL import ImageEnhance
+    r = Renderer(tl)
+    fr = Image.new("RGBA", (W, H), C["bg"])
+    photos = [p for s in tl.stories[:1] for p in s.photos] or [p for s in tl.stories for p in s.photos]
+    if photos:
+        best = max(photos, key=lambda p: p.w * p.h)
+        img = r.pc.get(best)
+        img = ImageEnhance.Contrast(img).enhance(1.18)
+        img = ImageEnhance.Color(img).enhance(1.15)
+        img = ImageEnhance.Sharpness(img).enhance(1.3)
+        fr.paste(cover(img, W, H, 1.0, 0.5, 0.35), (0, 0))
+    shade = Image.new("RGBA", (W, H), (0, 0, 0, 0))
+    sd = ImageDraw.Draw(shade)
+    for y in range(H):
+        if y < 300:
+            a = int(170 * (1 - y / 300))
+        elif y > 820:
+            a = int(225 * min(1, (y - 820) / 380))
+        else:
+            a = 0
+        sd.line([(0, y), (W, y)], fill=(8, 8, 10, a))
+    fr.alpha_composite(shade)
+    fr.alpha_composite(logo_image(96), (60, 110))
+    d = ImageDraw.Draw(fr)
+    f = font("black", 52)
+    badge = "SCHLAGZEILEN"
+    bw = f.getlength(badge) + 56
+    d.rounded_rectangle([60, 900, 60 + bw, 980], radius=12, fill=C["red"])
+    d.text((88, 908), badge, font=f, fill=C["white"])
+    hook = text_block(tl.hook_text.upper(), "black", 960, 3, 168, 92, tl.hook_highlight, line_gap=1.02)
+    fr.alpha_composite(hook, (50, 1000))
+    d.text((62, 1000 + hook.height + 10), tl.date_text.upper(), font=font("bold", 40), fill=(235, 235, 240, 255))
+    d.rectangle([0, 0, W - 1, H - 1], outline=C["red"], width=10)
+    fr.convert("RGB").save(out, "JPEG", quality=90, optimize=True)
+    return out
 
 
 def render_video(tl: Timeline, audio_wav: Path, out: Path, preview_dir: Path | None = None) -> Path:

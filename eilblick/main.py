@@ -26,7 +26,7 @@ import numpy as np
 from . import audio as A
 from . import images, state, tts
 from .config import ROOT, TMP, settings
-from .render import StoryClip, Timeline, render_video
+from .render import StoryClip, Timeline, render_thumbnail, render_video
 from .slots import current_slot, german_date, now_berlin, slot_by_id
 
 OUT = ROOT / "out"
@@ -131,6 +131,7 @@ def make_video(plan, slot, slot_time, stories, photos, offline_voice=False) -> t
     t0 = time.time()
     log("• Rendering video…")
     render_video(tl, wav, out, prev)
+    render_thumbnail(tl, OUT / f"{out.stem}_thumb.jpg")
     log(f"  rendered in {time.time()-t0:.0f}s → {out.name} ({out.stat().st_size/1e6:.1f} MB)")
     return out, tl
 
@@ -268,10 +269,10 @@ def cmd_run(args) -> int:
     chosen = chosen[:len(plan["stories"])]
     credits = [p.credit for ph in photos[:len(plan["stories"])] for p in ph]
     srcs = list(dict.fromkeys(o for s in chosen for o in s.outlets))
-    title, desc, tags = seo.youtube_meta(plan, credits, srcs)
+    title, desc, tags = seo.youtube_meta(plan, credits, srcs, german_date(slot_time))
     fb_caption = seo.facebook_caption(plan)
     srt = srt_from_timeline(tl)
-    thumb = OUT / "preview" / "preview_0000.jpg"
+    thumb = OUT / f"{video.stem}_thumb.jpg"
     meta = {"title": title, "description": desc, "tags": tags, "facebook": fb_caption,
             "plan": plan, "duration": round(tl.total, 1)}
     (OUT / f"{video.stem}.json").write_text(json.dumps(meta, ensure_ascii=False, indent=1), encoding="utf-8")
@@ -319,6 +320,11 @@ def cmd_run(args) -> int:
         if cfg["facebook"]["enabled"]:
             try:
                 entry["facebook_id"] = _retry(lambda: FB.upload(video, fb_caption, slot_time))
+                if thumb.exists():
+                    try:
+                        FB.set_thumbnail(entry["facebook_id"], thumb)
+                    except Exception as e:
+                        notes.append(f"fb thumbnail: {e}")
             except Exception as e:
                 errors.append(f"Facebook: {e}")
         if not cfg["youtube"]["post_first_comment"]:
@@ -448,6 +454,66 @@ def cmd_channel_seo() -> int:
     return 0
 
 
+def cmd_comments_fetch() -> int:
+    """Collect every unanswered comment → state/comments_inbox.json (no names stored)."""
+    from . import upload_facebook as FB
+    from . import upload_youtube as YT
+    done = set(json.loads((state.STATE_DIR / "comments_done.json").read_text())
+               if (state.STATE_DIR / "comments_done.json").exists() else [])
+    inbox, errs = [], []
+    try:
+        inbox += YT.unanswered_comments()
+    except Exception as e:
+        errs.append(f"youtube: {e}")
+    try:
+        fb_ids = [r["facebook_id"] for r in state.load()["runs"] if r.get("facebook_id")][-60:]
+        inbox += FB.unanswered_comments(fb_ids)
+    except Exception as e:
+        errs.append(f"facebook: {e}")
+    titles = {r.get("youtube_id"): r.get("title") for r in state.load()["runs"]}
+    titles.update({r.get("facebook_id"): r.get("title") for r in state.load()["runs"]})
+    inbox = [dict(c, video_title=titles.get(c["video"], "")) for c in inbox if c["id"] not in done]
+    (state.STATE_DIR / "comments_inbox.json").write_text(
+        json.dumps({"fetched": datetime.now(timezone.utc).isoformat(), "errors": errs, "comments": inbox},
+                   ensure_ascii=False, indent=1), encoding="utf-8")
+    log(f"{len(inbox)} unanswered comments" + (f"; errors: {errs}" if errs else ""))
+    return 0
+
+
+def cmd_comments_post() -> int:
+    """Post the replies Claude wrote in state/comments_replies.json."""
+    from . import upload_facebook as FB
+    from . import upload_youtube as YT
+    rf = state.STATE_DIR / "comments_replies.json"
+    if not rf.exists():
+        log("no replies file")
+        return 0
+    replies = json.loads(rf.read_text(encoding="utf-8"))
+    df = state.STATE_DIR / "comments_done.json"
+    done = json.loads(df.read_text()) if df.exists() else []
+    ok = fail = 0
+    for r in replies:
+        if r["id"] in done:
+            continue
+        if not r.get("reply"):          # deliberately skipped (spam / abuse)
+            done.append(r["id"])
+            continue
+        try:
+            (YT.reply if r["platform"] == "youtube" else FB.reply)(r["id"], r["reply"][:900])
+            done.append(r["id"])
+            ok += 1
+        except Exception as e:
+            fail += 1
+            log(f"  reply failed {r['platform']} {r['id']}: {e}")
+    df.write_text(json.dumps(done[-5000:]), encoding="utf-8")
+    rf.unlink()
+    inbox = state.STATE_DIR / "comments_inbox.json"
+    if inbox.exists():
+        inbox.unlink()
+    log(f"replied {ok}, failed {fail}")
+    return 0
+
+
 def cmd_demo(args) -> int:
     from .demo import demo_inputs
     slot, slot_time = slot_by_id(args.slot or "morgen")
@@ -473,12 +539,13 @@ def main(argv=None) -> int:
     d = sub.add_parser("demo")
     d.add_argument("--slot")
     d.add_argument("--real-voice", action="store_true")
-    for n in ("check-feeds", "check-tokens", "post-comments", "channel-seo"):
+    for n in ("check-feeds", "check-tokens", "post-comments", "channel-seo", "comments-fetch", "comments-post"):
         sub.add_parser(n)
     a = ap.parse_args(argv)
     fn = {"candidates": lambda: cmd_candidates(a), "validate-plan": lambda: cmd_validate(a),
           "run": lambda: cmd_run(a), "demo": lambda: cmd_demo(a), "check-feeds": cmd_check_feeds,
           "check-tokens": cmd_check_tokens, "channel-seo": cmd_channel_seo,
+          "comments-fetch": cmd_comments_fetch, "comments-post": cmd_comments_post,
           "post-comments": lambda: cmd_post_comments() or 0}[a.cmd]
     return fn()
 
