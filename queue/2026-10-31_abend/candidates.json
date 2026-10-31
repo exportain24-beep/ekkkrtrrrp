@@ -1,0 +1,1860 @@
+{
+ "slot": {
+  "id": "abend",
+  "time": "16:30",
+  "label": "am Abend",
+  "focus": "Innenpolitik (Bundestag, Bundesregierung, neue Gesetze), Energie, Alltag der Menschen in Deutschland, Österreich und der Schweiz.",
+  "pillars": [
+   "POLITIK",
+   "WIRTSCHAFT",
+   "WELT",
+   "TECHNOLOGIE"
+  ],
+  "notify_subscribers": true
+ },
+ "slot_time": "2026-10-31T16:30:00+01:00",
+ "date_text": "Samstag, 31. Oktober 2026",
+ "already_published": [
+  "Inflation sinkt auf 2,8 Prozent",
+  "US-Dienste warnen den BND",
+  "Milliarden-Hack bei Binance",
+  "Russland darf zur Eishockey-WM",
+  "Evakuierung aus Oleschky gelungen",
+  "Steinmeier drängt Xi beim Handel",
+  "Merz an der Grenze zu Nordkorea",
+  "Bundeswehr: Ersatzteil-Lager gestört",
+  "G20: Europäer boykottieren Lawrow-Foto",
+  "EU und Kanada gründen Zukunftsallianz",
+  "Polen: Streit um Verfassungsgericht",
+  "Audi: Gewinn bricht um 87 Prozent ein",
+  "China will mehr deutsche Produkte",
+  "Italien: Massenprotest gegen Preise",
+  "Gen Z protestiert in 30 Städten",
+  "Binance will alle Verluste ersetzen"
+ ],
+ "candidates": [
+  {
+   "id": 0,
+   "score": 14.74,
+   "outlets": [
+    "tagesschau",
+    "Deutsche Welle",
+    "Deutschlandfunk",
+    "Süddeutsche",
+    "Handelsblatt",
+    "n-tv"
+   ],
+   "regions": [
+    "DE",
+    "INT"
+   ],
+   "trend": [],
+   "newest": "2026-10-31T13:05:55+00:00",
+   "articles": [
+    {
+     "source": "tagesschau",
+     "region": "DE",
+     "weight": 1.0,
+     "title": "Erste Einwohner aus besetzter ukrainischer Stadt Oleschky evakuiert",
+     "summary": "Inmitten einer Feuerpause haben die ersten Einwohner von Oleschky die von Russland besetzte südukrainische Stadt verlassen. Die Ukraine hofft, dass auch weitere Städte in der Region auf ähnlichem Weg versorgt werden können.",
+     "link": "https://www.tagesschau.de/ausland/europa/ukraine-erste-menschen-verlassen-oleschky-100.html",
+     "image": "https://images.tagesschau.de/image/d4855fdf-43b3-43c7-a54a-397ee7c45e9a/AAABoY2w1fI/AAABnSSvrFg/16x9-big/busse-oleschky-100.jpg?width=1920",
+     "aggregator": false,
+     "published": "2026-10-30T16:49:53+00:00"
+    },
+    {
+     "source": "tagesschau Ausland",
+     "region": "INT",
+     "weight": 1.0,
+     "title": "Russland und Ukraine beginnen Waffenruhe für Frontstadt Oleschky",
+     "summary": "Seit Jahren ist die von Russland besetzte Stadt Oleschky in der Ostukraine umkämpft. Trotzdem leben dort noch bis zu 2.000 Menschen. Damit sie Hilfe bekommen, gilt jetzt eine Feuerpause. Andernorts gehen die Angriffe weiter.",
+     "link": "https://www.tagesschau.de/ausland/europa/ukraine-oleschky-waffenruhe-100.html",
+     "image": "https://images.tagesschau.de/image/62d4cc37-9f64-482c-b236-4ed3e8efa533/AAABoNKK1jQ/AAABnSSvrFg/16x9-big/karte-ukraine-frontverlaeufe-2228.jpg?width=1920",
+     "aggregator": false,
+     "published": "2026-10-27T06:56:19+00:00"
+    },
+    {
+     "source": "tagesschau Ausland",
+     "region": "INT",
+     "weight": 1.0,
+     "title": "Vermittelt durch Melania Trump - Waffenruhe für besetzte ukrainische Stadt",
+     "summary": "Die humanitäre Lage in der von Russland besetzten ukrainischen Stadt Oleschky ist dramatisch. Nun gibt es Hoffnung für eine Evakuierung. Das Weiße Haus gab eine lokale Waffenruhe bekannt - vermittelt durch First Lady Melania Trump.",
+     "link": "https://www.tagesschau.de/ausland/melania-trump-waffenruhe-oleschky-100.html",
+     "image": "https://images.tagesschau.de/image/a111bf3a-9485-4c36-82cc-c621e4893902/AAABoWlYGkY/AAABnSSvrFg/16x9-big/gebaeude-oleshky-100.jpg?width=1920",
+     "aggregator": false,
+     "published": "2026-10-23T17:26:28+00:00"
+    },
+    {
+     "source": "Deutsche Welle",
+     "region": "INT",
+     "weight": 0.95,
+     "title": "Oleschky-Evakuierung: Wer verhandelt für Russland und die Ukraine?",
+     "summary": "Moskau und Kyjiw haben mit der humanitären Mission für die Menschen im russisch besetzten Oleschky begonnen. Sie wird von den Ombudspersonen beider Länder koordiniert. Wer sind sie und wie arbeiten sie zusammen?",
+     "link": "https://www.dw.com/de/oleschky-evakuierung-wer-verhandelt-für-russland-und-die-ukraine/a-79808325?maca=de-rss-de-all-1119-xml-mrss",
+     "image": "https://static.dw.com/image/78434427_302.jpg",
+     "aggregator": false,
+     "published": "2026-10-30T15:48:00+00:00"
+    },
+    {
+     "source": "Deutschlandfunk",
+     "region": "DE",
+     "weight": 0.95,
+     "title": "Ukrainekrieg - Einwohner aus russisch besetzter Stadt Oleschky in Belarus gelandet",
+     "summary": "Einwohner aus der ukrainischen Frontstadt Oleschky sind im Nachbarland Belarus angekommen.",
+     "link": "https://www.deutschlandfunk.de/einwohner-aus-russisch-besetzter-stadt-oleschky-in-belarus-gelandet-100.html",
+     "image": "https://bilder.deutschlandfunk.de/4a/28/78/e4/4a2878e4-5b3c-477d-bbba-00cf8637a749/ukraine-russland-oleschky-belarus-100-1920x1920.jpg",
+     "aggregator": false,
+     "published": "2026-10-31T13:05:55+00:00"
+    },
+    {
+     "source": "Deutschlandfunk",
+     "region": "DE",
+     "weight": 0.95,
+     "title": "Ukraine-Krieg - Menschen verlassen russisch besetzte Stadt Oleschky",
+     "summary": "Trotz anhaltender Kämpfe in anderen Teilen des Landes läuft in der von Russland besetzten ukrainischen Stadt Oleschky eine gemeinsame humanitäre Hilfsaktion. Nach Angaben beider Seiten werden die Bewohner mit Lebensmitteln, Medikamenten und Hygieneartikeln versorgt. Es handelt sich um die größte humanitäre Hilfsaktion seit Kriegsbeginn im Februar 2022.",
+     "link": "https://www.deutschlandfunk.de/menschen-verlassen-russisch-besetzte-stadt-oleschky-106.html",
+     "image": "https://bilder.deutschlandfunk.de/7c/36/4c/6e/7c364c6e-7e1c-4d49-a4ad-d0f5af85846f/ukraine-waffenruhe-oleschky-100-1920x1920.jpg",
+     "aggregator": false,
+     "published": "2026-10-31T13:05:55+00:00"
+    },
+    {
+     "source": "Süddeutsche",
+     "region": "DE",
+     "weight": 0.9,
+     "title": "Hilfsaktion in der Ukraine: „Ich hoffe, dass alles gut ausgeht“",
+     "summary": "In der umkämpften Stadt Oleschky ist nach Monaten eine Hilfsaktion angelaufen, unter Beteiligung Russlands. Warum Nobelpreisträgerin Oleksandra Matwijtschuk skeptisch ist.",
+     "link": "https://www.sueddeutsche.de/politik/ukraine-oleschky-hilfsgueter-russland-feuerpause-li.3569026",
+     "image": "https://www.sueddeutsche.de/2026/10/30/47d070d2-1935-4ca1-8379-5f5557895a41.jpg?rect=222%2C0%2C3556%2C2667&width=1000&fm=jpg&q=60",
+     "aggregator": false,
+     "published": "2026-10-31T09:05:10+00:00"
+    },
+    {
+     "source": "Handelsblatt",
+     "region": "DE",
+     "weight": 0.9,
+     "title": "Ukraine-Krieg: Oleschky-Flüchtlinge sollen bald zurück in der Ukraine sein",
+     "summary": "Ukrainer sind nach der von US-First-Lady Melania Trump vermittelten Evakuierung in der von Russland besetzten Frontstadt Oleschky in Belarus. Von dort soll es in die Ukraine gehen.",
+     "link": "https://www.handelsblatt.com/politik/international/ukraine-krieg-oleschky-fluechtlinge-sollen-bald-zurueck-in-der-ukraine-sein/100266307.html",
+     "image": "https://images.handelsblatt.com/pe93lc4fnzlU/cover/900/506/0/0/192/192/0.5/0.5/ukraine-krieg-oleschky.jpg",
+     "aggregator": false,
+     "published": "2026-10-31T12:26:55+00:00"
+    }
+   ]
+  },
+  {
+   "id": 1,
+   "score": 13.79,
+   "outlets": [
+    "tagesschau",
+    "ZDFheute",
+    "SRF News",
+    "SPIEGEL",
+    "Handelsblatt",
+    "Euronews.com"
+   ],
+   "regions": [
+    "CH",
+    "DE",
+    "INT"
+   ],
+   "trend": [],
+   "newest": "2026-10-31T12:57:41+00:00",
+   "articles": [
+    {
+     "source": "tagesschau",
+     "region": "DE",
+     "weight": 1.0,
+     "title": "Polen: Tumult und Protest vor dem Verfassungsgericht",
+     "summary": "Der Machtkampf um das polnische Verfassungsgericht spitzt sich zu. Die Polizei sicherte das Gebäude ab, nachdem sich Protestierende dort versammelt hatten. Auslöser ist die mutmaßliche Suspendierung der bisherigen Gerichtsführung.",
+     "link": "https://www.tagesschau.de/ausland/europa/polen-verfassungsgericht-streit-100.html",
+     "image": "https://images.tagesschau.de/image/519b2f4f-df27-4e95-8bcf-d77a469a8d94/AAABoY9o_tw/AAABnSSvrFg/16x9-big/warschau-verfassungsgericht-100.jpg?width=1920",
+     "aggregator": false,
+     "published": "2026-10-31T08:25:36+00:00"
+    },
+    {
+     "source": "tagesschau Ausland",
+     "region": "INT",
+     "weight": 1.0,
+     "title": "Polen: Tumult und Protest vor dem Verfassungsgericht",
+     "summary": "Der Machtkampf um das polnische Verfassungsgericht spitzt sich zu. Die Polizei sicherte das Gebäude ab, nachdem sich Protestierende dort versammelt hatten. Auslöser ist die mutmaßliche Suspendierung der bisherigen Gerichtsführung.",
+     "link": "https://www.tagesschau.de/ausland/europa/polen-verfassungsgericht-streit-100.html",
+     "image": "https://images.tagesschau.de/image/519b2f4f-df27-4e95-8bcf-d77a469a8d94/AAABoY9o_tw/AAABnSSvrFg/16x9-big/warschau-verfassungsgericht-100.jpg?width=1920",
+     "aggregator": false,
+     "published": "2026-10-31T08:25:36+00:00"
+    },
+    {
+     "source": "ZDFheute",
+     "region": "DE",
+     "weight": 1.0,
+     "title": "Polen: Richterstreit eskaliert - Tumult am Verfassungsgericht",
+     "summary": "Polen streitet seit längerem um die Neubesetzung des Verfassungsgerichts. In der Nacht hat die Polizei den Bereich abgeriegelt. Die Stimmung kochte nicht nur vor dem Gebäude hoch.",
+     "link": "https://www.zdfheute.de/politik/ausland/polen-verfassungsgericht-krise-polizei-100.html",
+     "image": "https://www.zdfheute.de/assets/polizei-polen-100~384x216?cb=1793432374812",
+     "aggregator": false,
+     "published": "2026-10-31T08:24:00+00:00"
+    },
+    {
+     "source": "SRF News",
+     "region": "CH",
+     "weight": 0.95,
+     "title": "Eskalation in Warschau – Machtkampf um Polens Verfassungsgericht – das steckt dahinter",
+     "summary": "Der Konflikt zwischen der Regierung und dem rechtskonservativen Lager spitzt sich zu. Die Übersicht.",
+     "link": "https://www.srf.ch/news/international/eskalation-in-warschau-machtkampf-um-polens-verfassungsgericht-das-steckt-dahinter",
+     "image": "https://www.srf.ch/static/cms/images//320ws/8f7e35.webp",
+     "aggregator": false,
+     "published": "2026-10-31T12:57:41+00:00"
+    },
+    {
+     "source": "SPIEGEL",
+     "region": "DE",
+     "weight": 0.9,
+     "title": "Polen: Präsident Karol Nawrocki bangt um die innere Sicherheit seines Landes",
+     "summary": "Im Machtkampf um das polnische Verfassungsgericht pocht Präsident Nawrocki auf die Wiederherstellung der Ordnung und den Abzug der Sicherheitskräfte. Justizminister Żurek bezeichnete das Verhalten des Präsidenten als »inakzeptabel«.",
+     "link": "https://www.spiegel.de/ausland/polen-praesident-karol-nawrocki-bangt-um-die-innere-sicherheit-seines-landes-a-205fff52-2009-47fd-b343-7fdb27356b48#ref=rss",
+     "image": "https://cdn.prod.www.spiegel.de/images/71213ec3-24ec-41f7-aa0b-8c78bb81e9b5_w520_r2.08_fpx42.65_fpy50.jpg",
+     "aggregator": false,
+     "published": "2026-10-31T12:28:00+00:00"
+    },
+    {
+     "source": "Handelsblatt",
+     "region": "DE",
+     "weight": 0.9,
+     "title": "Polen: Krise um Verfassungsgericht in Polen spitzt sich zu",
+     "summary": "Erneut spaltet ein geplanter Umbau des Verfassungsgerichts die polnische Gesellschaft. Als Folge der Eskalation erklären zwei Botschafter nun ihren Rücktritt.",
+     "link": "https://www.handelsblatt.com/politik/international/polen-krise-um-verfassungsgericht-in-polen-spitzt-sich-zu/100266281.html",
+     "image": "https://images.handelsblatt.com/mqJKd8VVrCup/cover/900/506/0/0/146/146/0.5/0.5/urnnewsmldpa.com20090101261030-99-120208.jpg",
+     "aggregator": false,
+     "published": "2026-10-31T10:05:47+00:00"
+    },
+    {
+     "source": "Euronews.com",
+     "region": "DE",
+     "weight": 0.6,
+     "title": "Polen: Polizei sichert Verfassungsgericht – Kaczyński warnt vor Putsch",
+     "summary": "Polen: Polizei sichert Verfassungsgericht – Kaczyński warnt vor Putsch Euronews.com Polen: Friedensnobelpreisträger Lech Wałęsa sieht Polen in der Krise DIE ZEIT Der Kampf um das polnische Verfassungsgericht eskaliert tagesschau.de Eskalation in Polen: Streit um Verfassungsgericht – Präsident will „Wiederherstellung verfassungsmäßiger Ordnung“ WELT Polizeieinsatz vor Verfassungsgericht: Polens Präsident Nawrocki bangt um die innere Sicherheit seines Landes Spiegel",
+     "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOSVRtNVJRUmVuWGNFN0ZvcS1JYVQ2Uk9DTG1DUmlxVlFkYk5hbWlLd25OX2h1bjZjQ0MzdjZaOWNKZFFXRnUtRGJDQmZvX0RjUmVfSVh0NEZNeFRGMlJ5OTJzTWppU1h5ZGdxd0xUcURabzROZUp1QUFhQnBiVy1mam43Wm1ITTJ5RGdCd3NPY2dTZnMtN1hwbVBqNnpZc0k?oc=5",
+     "image": null,
+     "aggregator": true,
+     "published": "2026-10-30T19:07:33+00:00"
+    }
+   ]
+  },
+  {
+   "id": 2,
+   "score": 13.54,
+   "outlets": [
+    "tagesschau Ausland",
+    "ZDFheute",
+    "SPIEGEL",
+    "Handelsblatt",
+    "n-tv"
+   ],
+   "regions": [
+    "DE",
+    "INT"
+   ],
+   "trend": [],
+   "newest": "2026-10-31T13:07:00+00:00",
+   "articles": [
+    {
+     "source": "tagesschau Ausland",
+     "region": "INT",
+     "weight": 1.0,
+     "title": "EU-Kanada-Gipfel: Kanada wird vorerst kein \"assoziiertes EU-Mitglied\"",
+     "summary": "Kanzler Merz und andere EU-Regierungschefs haben die Kanada-Pläne von EU-Kommissionspräsidentin von der Leyen abgeschwächt - kurz vor dem heute beginnenden EU-Kanada-Gipfel. Von einer \"assoziierten Mitgliedschaft\" ist nicht mehr die Rede. Von S. Fritz.",
+     "link": "https://www.tagesschau.de/ausland/europa/eu-kanada-gipfel-100.html",
+     "image": "https://images.tagesschau.de/image/93996ff9-bc64-447b-b6af-4a96aca5bca9/AAABoK2g_CE/AAABnSSvrFg/16x9-big/carney-von-der-leyen-100.jpg?width=1920",
+     "aggregator": false,
+     "published": "2026-10-29T06:20:37+00:00"
+    },
+    {
+     "source": "tagesschau Wirtschaft",
+     "region": "DE",
+     "weight": 1.0,
+     "title": "EU-Kanada-Gipfel: Kanada wird vorerst kein \"assoziiertes EU-Mitglied\"",
+     "summary": "Kanzler Merz und andere EU-Regierungschefs haben die Kanada-Pläne von EU-Kommissionspräsidentin von der Leyen abgeschwächt - kurz vor dem heute beginnenden EU-Kanada-Gipfel. Von einer \"assoziierten Mitgliedschaft\" ist nicht mehr die Rede. Von S. Fritz.",
+     "link": "https://www.tagesschau.de/ausland/europa/eu-kanada-gipfel-100.html",
+     "image": "https://images.tagesschau.de/image/93996ff9-bc64-447b-b6af-4a96aca5bca9/AAABoK2g_CE/AAABnSSvrFg/16x9-big/carney-von-der-leyen-100.jpg?width=1920",
+     "aggregator": false,
+     "published": "2026-10-29T06:20:37+00:00"
+    },
+    {
+     "source": "ZDFheute",
+     "region": "DE",
+     "weight": 1.0,
+     "title": "Abschluss EU-Kanada-Gipfel",
+     "summary": "mit Mark Carney, Premierminister Kanada, Antonio Costa, EU-Ratspräsident und Ursula von der Leyen, EU-Kommissionspräsidentin",
+     "link": "https://www.phoenix.de/sendungen/ereignisse/phoenix-vor-ort/ua-pressestatement-johann-a-5236207.html",
+     "image": "https://www.zdfheute.de/assets/teaser-phoenix-abschluss-eu-kanada-gipfel-5244055-100~384x216?cb=1793382171791",
+     "aggregator": false,
+     "published": "2026-10-30T16:45:00+00:00"
+    },
+    {
+     "source": "ZDFheute",
+     "region": "DE",
+     "weight": 1.0,
+     "title": "Auftakt EU-Kanada-Gipfel",
+     "summary": "Statement von EU-Kommissionspräsidentin Ursula von der Leyen zum Auftakt des EU-Kanada-Gipfels",
+     "link": "https://www.phoenix.de/php/mediaplayer/vod_embed.php?cmsid=5243695",
+     "image": "https://www.zdfheute.de/assets/teaser-phoenix-auftakt-eu-kanada-gipfel-5243695-100~384x216?cb=1793291597964",
+     "aggregator": false,
+     "published": "2026-10-29T16:22:00+00:00"
+    },
+    {
+     "source": "SPIEGEL",
+     "region": "DE",
+     "weight": 0.9,
+     "title": "EU-Kanada-Gipfel: Ursula von der Leyen übergeht Wunsch von Friedrich Merz",
+     "summary": "Wird Kanada zum »assoziierten Mitglied« der EU – oder bildet sich nur eine »Allianz für die Zukunft«? In diesem Begriffsstreit hat Kommissionspräsidentin von der Leyen den Willen von Bundeskanzler Merz ignoriert.",
+     "link": "https://www.spiegel.de/politik/eu-kanada-gipfel-ursula-von-der-leyen-uebergeht-wunsch-von-friedrich-merz-a-cee7cf99-9197-46ff-8bf7-ce444313540f#ref=rss",
+     "image": "https://cdn.prod.www.spiegel.de/images/e93d0873-2ad2-46e9-8c52-e652a41fb7e5_w520_r2.08_fpx67.91_fpy50.jpg",
+     "aggregator": false,
+     "published": "2026-10-31T13:07:00+00:00"
+    },
+    {
+     "source": "Handelsblatt",
+     "region": "DE",
+     "weight": 0.9,
+     "title": "EU-Kanada-Gipfel: Zoff um zwei Worte – Von der Leyen ignoriert Wunsch von Merz",
+     "summary": "Wie ist es um die Beziehung zwischen EU-Kommissionspräsidentin Ursula von der Leyen und Kanzler Friedrich Merz bestellt? Ein Streit um einen Begriff wirft Fragen auf.",
+     "link": "https://www.handelsblatt.com/politik/international/eu-kanada-gipfel-zoff-um-zwei-worte-von-der-leyen-ignoriert-wunsch-von-merz/100266279.html",
+     "image": "https://images.handelsblatt.com/9qaVoUqTl59R/cover/900/506/0/0/288/288/0.5/0.5/imago-images-0871379972.jpg",
+     "aggregator": false,
+     "published": "2026-10-31T01:19:37+00:00"
+    },
+    {
+     "source": "n-tv",
+     "region": "DE",
+     "weight": 0.8,
+     "title": "Kanada \"assoziiertes Mitglied\": Von der Leyen brüskiert Merz mit zwei Worten",
+     "summary": "Spannungen zwischen dem deutschen Bundeskanzler und der EU-Kommissionschefin sorgen in Brüssel für Irritationen. Obwohl Merz dagegen votiert, Kanada als \"assoziiertes Mitglied\" der EU zu bezeichnen, verwendet von der Leyen den Titel in Montreal gleich wieder. Insider rätseln, warum sie das tut.",
+     "link": "https://www.n-tv.de/politik/Von-der-Leyen-brueskiert-Merz-mit-zwei-Worten-id31478714.html",
+     "image": "https://www.n-tv.de/img/31478719/1793440216/Img_4_3/250/imago0473302955h.jpg",
+     "aggregator": false,
+     "published": "2026-10-31T01:13:36+00:00"
+    },
+    {
+     "source": "Handelsblatt",
+     "region": "DE",
+     "weight": 0.6,
+     "title": "EU-Kanada-Gipfel: Zoff um zwei Worte – Von der Leyen ignoriert Wunsch von Merz",
+     "summary": "EU-Kanada-Gipfel: Zoff um zwei Worte – Von der Leyen ignoriert Wunsch von Merz Handelsblatt Von der Leyen spricht von Kanada als »assoziiertem Mitglied« – gegen Wunsch von Merz Spiegel \"Allianz für die Zukunft\": Kanada und Europa gründen Bündnis tagesschau.de \"Allianz für die Zukunft\": EU und Kanada machen sich freier von China und den USA n-tv.de Die EU und Kanada: Von der Leyen ignoriert Einwände von Merz BR",
+     "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQWnliVXB0TlllbDMwWm9BSXdycEpwMWlmbkNHLWpibks0bFZRTkN4ZXdPNDVTMkpuenc1TGttdFQ5dldEYzJBS2VYdXhNcUJkMTRhaDJHYWVjYTRCNm5CODF5TEotb1lCalE2VWV2bHF6ZjIxeFBDWm5pV3dEMi01dEJJd1htdGgtelluUnhwZkI1NGJBel9PZ25OQlJqT2VGMmdxeEtiOFkzb3VkRXJhZk55ZlRHQTU0bmNVZE1xWGVab29tdUlVRlZNOF9HM2Q0ZXRINlQ0Wmk?oc=5",
+     "image": null,
+     "aggregator": true,
+     "published": "2026-10-31T01:19:37+00:00"
+    }
+   ]
+  },
+  {
+   "id": 3,
+   "score": 13.25,
+   "outlets": [
+    "tagesschau",
+    "Deutschlandfunk",
+    "ORF",
+    "NZZ",
+    "DER STANDARD"
+   ],
+   "regions": [
+    "AT",
+    "CH",
+    "DE",
+    "INT"
+   ],
+   "trend": [],
+   "newest": "2026-10-31T13:43:47+00:00",
+   "articles": [
+    {
+     "source": "tagesschau",
+     "region": "DE",
+     "weight": 1.0,
+     "title": "Der Kampf um das polnische Verfassungsgericht eskaliert",
+     "summary": "Nach der Absetzung der bisherigen Gerichtsspitze eskaliert der Streit über Polens Verfassungsgericht: Regierung und Opposition werfen sich gegenseitig vor, die Justiz zu gefährden. Vor dem Gebäude gab es erneut Proteste.",
+     "link": "https://www.tagesschau.de/ausland/europa/polen-eskalation-verfassungsgericht-100.html",
+     "image": "https://images.tagesschau.de/image/9f49bd5c-5daa-4757-ad0b-b6f9d181edc3/AAABoZIXzaw/AAABnSSvrFg/16x9-big/polen-verfassungsgericht-122.jpg?width=1920",
+     "aggregator": false,
+     "published": "2026-10-31T13:43:47+00:00"
+    },
+    {
+     "source": "tagesschau",
+     "region": "DE",
+     "weight": 1.0,
+     "title": "Eskalation um Polens Verfassungsgericht",
+     "summary": "Eskalation um Polens Verfassungsgericht",
+     "link": "https://www.tagesschau.de/video/video-1675694.html",
+     "image": "https://images.tagesschau.de/image/a3bfae83-2886-4b24-ba33-95a6c09cee5f/AAABoZIW_-s/AAABnSSvrFg/16x9-big/sendungsbild-1820152.jpg?width=1920",
+     "aggregator": false,
+     "published": "2026-10-31T13:12:26+00:00"
+    },
+    {
+     "source": "tagesschau Ausland",
+     "region": "INT",
+     "weight": 1.0,
+     "title": "Der Kampf um das polnische Verfassungsgericht eskaliert",
+     "summary": "Nach der Absetzung der bisherigen Gerichtsspitze eskaliert der Streit über Polens Verfassungsgericht: Regierung und Opposition werfen sich gegenseitig vor, die Justiz zu gefährden. Vor dem Gebäude gab es erneut Proteste.",
+     "link": "https://www.tagesschau.de/ausland/europa/polen-eskalation-verfassungsgericht-100.html",
+     "image": "https://images.tagesschau.de/image/9f49bd5c-5daa-4757-ad0b-b6f9d181edc3/AAABoZIXzaw/AAABnSSvrFg/16x9-big/polen-verfassungsgericht-122.jpg?width=1920",
+     "aggregator": false,
+     "published": "2026-10-31T13:43:47+00:00"
+    },
+    {
+     "source": "Deutschlandfunk",
+     "region": "DE",
+     "weight": 0.95,
+     "title": "Polen - Tumulte um Verfassungsgericht - Präsident Nawrocki vor Ort",
+     "summary": "In Polen ist der Streit um das Verfassungsgericht eskaliert.",
+     "link": "https://www.deutschlandfunk.de/tumulte-um-verfassungsgericht-praesident-nawrocki-vor-ort-102.html",
+     "image": "https://bilder.deutschlandfunk.de/FI/LE/_4/c6/FILE_4c601c51b7aed9e71a641316549f8edf/64689895-jpg-100-768x768.jpg",
+     "aggregator": false,
+     "published": "2026-10-31T13:05:55+00:00"
+    },
+    {
+     "source": "ORF",
+     "region": "AT",
+     "weight": 0.95,
+     "title": "Machtkampf um Verfassungsgericht eskaliert",
+     "summary": "In Polen eskaliert der Streit zwischen den beiden großen politischen Lagern des Landes um das Verfassungsgericht weiter. Die rechtskonservative PiS, die von 2015 bis 2023 regierte, hatte das Gericht mit ihr politisch nahestehenden Richtern und Richterinnen besetzt. Die seit 2023 amtierende Mitte-links-Regierung unter Ministerpräsident Donald Tusk machte die Besetzungen rückgängig, wogegen sich aber der rechtskonservative Staatspräsident Karol Nawrocki sperrte. Am Freitag wurde das Gelände um das Gericht zum Schauplatz des Disputs.",
+     "link": "https://orf.at/stories/3446674/",
+     "image": null,
+     "aggregator": false,
+     "published": "2026-10-31T10:50:48+00:00"
+    },
+    {
+     "source": "ORF",
+     "region": "AT",
+     "weight": 0.95,
+     "title": "Streit um Verfassungsgericht Polens eskaliert",
+     "summary": "",
+     "link": "https://orf.at/stories/3446652/",
+     "image": null,
+     "aggregator": false,
+     "published": "2026-10-30T20:44:48+00:00"
+    },
+    {
+     "source": "NZZ",
+     "region": "CH",
+     "weight": 0.9,
+     "title": "«Staatsstreich» oder Rückkehr zur Rechtmässigkeit? Der Streit um Polens Verfassungsgericht eskaliert gefährlich",
+     "summary": "In der Nacht zum Samstag marschiert die Polizei vor Polens Verfassungsgericht auf, und der Staatspräsident liefert sich ein Handgemenge mit einer Richterin. Es geht um die Macht in dem Gremium.",
+     "link": "https://www.nzz.ch/international/machtkampf-in-warschau-streit-um-polens-verfassungsgericht-spitzt-sich-zu-ld.10050144",
+     "image": "https://img-msp-prod.nzz.ch/2026/10/31/811ada14-dc19-4abd-9f9c-547419a95f49.jpg?width=200&height=200&fit=bounds&quality=75&auto=webp&crop=3000,3000,x500,y0",
+     "aggregator": false,
+     "published": "2026-10-31T10:35:52+00:00"
+    },
+    {
+     "source": "DER STANDARD",
+     "region": "AT",
+     "weight": 0.85,
+     "title": "Streit um Verfassungsgericht in Polen eskaliert",
+     "summary": "Der Präsident verweigerte die Vereidigung von Richtern. Die Regierung will die Rechtsstaatlichkeit wiederherstellen",
+     "link": "https://www.derstandard.at/story/3000000346822/streit-um-verfassungsgericht-in-polen-eskaliert?ref=rss",
+     "image": "https://i.ds.at/lXEpmw/rs:fill:150:0/plain/lido-images/2026/10/30/41072946-e4d2-4557-956c-f74ddc354842.jpg",
+     "aggregator": false,
+     "published": "2026-10-30T22:02:25+00:00"
+    }
+   ]
+  },
+  {
+   "id": 4,
+   "score": 11.45,
+   "outlets": [
+    "tagesschau",
+    "Deutsche Welle",
+    "ORF",
+    "NZZ"
+   ],
+   "regions": [
+    "AT",
+    "CH",
+    "DE",
+    "INT"
+   ],
+   "trend": [],
+   "newest": "2026-10-31T13:26:54+00:00",
+   "articles": [
+    {
+     "source": "tagesschau",
+     "region": "DE",
+     "weight": 1.0,
+     "title": "USA genehmigen \"Patriot\"-Lieferungen an Ukraine",
+     "summary": "USA genehmigen \"Patriot\"-Lieferungen an Ukraine",
+     "link": "https://www.tagesschau.de/video/video-1675598.html",
+     "image": "https://images.tagesschau.de/image/b88eab76-9594-408c-a562-0c6f77ca8545/AAABoZEHxhs/AAABnSSvrFg/16x9-big/sendungsbild-1820036.jpg?width=1920",
+     "aggregator": false,
+     "published": "2026-10-31T08:16:11+00:00"
+    },
+    {
+     "source": "tagesschau",
+     "region": "DE",
+     "weight": 1.0,
+     "title": "US-Regierung genehmigt \"Patriot\"-Lieferungen an Ukraine",
+     "summary": "Um sich gegen russische Angriffe zur Wehr zu setzen, ist die Ukraine vor allem auf US-Waffenlieferungen angewiesen. Diese kamen zuletzt ins Stocken. Bei einer Lieferung hat das US-Außenministerium nun grünes Licht gegeben.",
+     "link": "https://www.tagesschau.de/ausland/amerika/usa-ukraine-patriot-100.html",
+     "image": "https://images.tagesschau.de/image/968e7d78-8248-45ab-a5b3-c7f16815a1e6/AAABnLz_Yjc/AAABnSSvrFg/16x9-big/tuerkei-patriot-100.jpg?width=1920",
+     "aggregator": false,
+     "published": "2026-10-30T23:56:24+00:00"
+    },
+    {
+     "source": "tagesschau Ausland",
+     "region": "INT",
+     "weight": 1.0,
+     "title": "US-Regierung genehmigt \"Patriot\"-Lieferungen an Ukraine",
+     "summary": "Um sich gegen russische Angriffe zur Wehr zu setzen, ist die Ukraine vor allem auf US-Waffenlieferungen angewiesen. Diese kamen zuletzt ins Stocken. Bei einer Lieferung hat das US-Außenministerium nun grünes Licht gegeben.",
+     "link": "https://www.tagesschau.de/ausland/amerika/usa-ukraine-patriot-100.html",
+     "image": "https://images.tagesschau.de/image/968e7d78-8248-45ab-a5b3-c7f16815a1e6/AAABnLz_Yjc/AAABnSSvrFg/16x9-big/tuerkei-patriot-100.jpg?width=1920",
+     "aggregator": false,
+     "published": "2026-10-30T23:56:24+00:00"
+    },
+    {
+     "source": "Deutsche Welle",
+     "region": "INT",
+     "weight": 0.95,
+     "title": "Ukraine soll Nachschub an Patriot-Raketen erhalten - News kompakt: Das Wichtigste kurz gefasst",
+     "summary": "Die USA genehmigen den Verkauf Hunderter Abfangraketen an die Ukraine. Die europaweiten Jugendproteste erfassen nun auch Deutschland. Der DW-Nachrichtenüberblick.",
+     "link": "https://www.dw.com/de/ukraine-soll-nachschub-an-patriot-raketen-erhalten-news-kompakt-das-wichtigste-kurz-gefasst/a-79813926?maca=de-rss-de-all-1119-xml-mrss",
+     "image": "https://static.dw.com/image/79813989_302.jpg",
+     "aggregator": false,
+     "published": "2026-10-31T08:00:00+00:00"
+    },
+    {
+     "source": "ORF",
+     "region": "AT",
+     "weight": 0.95,
+     "title": "USA genehmigen „Patriot“-Verkauf: Lieferung erst in Jahren",
+     "summary": "",
+     "link": "https://orf.at/stories/3446669/",
+     "image": null,
+     "aggregator": false,
+     "published": "2026-10-31T07:26:39+00:00"
+    },
+    {
+     "source": "NZZ",
+     "region": "CH",
+     "weight": 0.9,
+     "title": "LIVE-TICKER - Krieg in der Ukraine: Evakuierung aus russisch besetztem Oleschki abgeschlossen +++ USA genehmigen Patriot-Lieferung an Kiew",
+     "summary": "Seit über vier Jahren führt Russland Krieg gegen die Ukraine. Die wichtigsten Entwicklungen im Überblick.",
+     "link": "https://www.nzz.ch/international/krieg-in-der-ukraine-die-neusten-entwicklungen-im-liveticker-ld.10021245",
+     "image": "https://img-msp-prod.nzz.ch/2026/10/31/c40932c6-6210-4ddc-8e06-7d8ed7d0c97c.jpg?width=200&height=200&fit=bounds&quality=75&auto=webp&crop=3444,3444,x0,y0",
+     "aggregator": false,
+     "published": "2026-10-31T13:26:54+00:00"
+    }
+   ]
+  },
+  {
+   "id": 5,
+   "score": 11.44,
+   "outlets": [
+    "tagesschau Ausland",
+    "ZDFheute",
+    "Deutschlandfunk",
+    "Handelsblatt"
+   ],
+   "regions": [
+    "DE",
+    "INT"
+   ],
+   "trend": [],
+   "newest": "2026-10-31T13:05:55+00:00",
+   "articles": [
+    {
+     "source": "tagesschau Ausland",
+     "region": "INT",
+     "weight": 1.0,
+     "title": "Proteste gegen Meloni: Hunderttausende demonstrieren in Italien",
+     "summary": "Hohe Lebenshaltungskosten, steigende Rüstungsausgaben, zu wenig Investition in Bildung: In Italien sind Hunderttausende Menschen gegen die Politik der Regierung auf die Straße gegangen - begleitet von einem massiven Polizeiaufgebot.",
+     "link": "https://www.tagesschau.de/ausland/europa/italien-protest-meloni-100.html",
+     "image": "https://images.tagesschau.de/image/a82583bc-7d56-47a2-b7b3-5f24582ee034/AAABoYxf0ec/AAABnSSvrFg/16x9-big/rom-demo-104.jpg?width=1920",
+     "aggregator": false,
+     "published": "2026-10-30T17:23:20+00:00"
+    },
+    {
+     "source": "ZDFheute",
+     "region": "DE",
+     "weight": 1.0,
+     "title": "Landesweite Proteste in Italien",
+     "summary": "Aus Protest gegen die rechte Regierung von Giorgia Meloni sind in Italien mehr als 200.000 Menschen auf die Straße gegangen. Themen sind die Lebenserhaltungskosten und Bildung.",
+     "link": "https://www.zdfheute.de/video/politik-italien-proteste-meloni-100.html",
+     "image": "https://www.zdfheute.de/assets/italien-proteste-102~384x216?cb=1793385432419",
+     "aggregator": false,
+     "published": "2026-10-30T20:02:00+00:00"
+    },
+    {
+     "source": "Deutschlandfunk",
+     "region": "DE",
+     "weight": 0.95,
+     "title": "Weitgehend friedlich - Landesweite Massenproteste in Italien für bessere Bildung und gegen hohe Preise",
+     "summary": "In Italien haben Hunderttausende Menschen gegen steigende Lebenshaltungskosten und für mehr Geld für Bildung demonstriert. Die Gewerkschaft USB sprach von mindestens einer Million Teilnehmern.",
+     "link": "https://www.deutschlandfunk.de/landesweite-massenproteste-in-italien-fuer-bessere-bildung-und-gegen-hohe-preise-102.html",
+     "image": "https://bilder.deutschlandfunk.de/04/83/14/c5/048314c5-e3ec-4d94-a228-8b3eb3bf8e89/proteste-italien-100-1920x1920.jpg",
+     "aggregator": false,
+     "published": "2026-10-31T13:05:55+00:00"
+    },
+    {
+     "source": "Handelsblatt",
+     "region": "DE",
+     "weight": 0.9,
+     "title": "Italien: Hunderttausende gegen Meloni auf der Straße",
+     "summary": "Aus Sorge vor Krawallen mobilisiert die Regierung die Sicherheitskräfte. Auch Schüler demonstrieren wieder. Unterdessen schnellt die Inflation auf 5,4 Prozent - so hoch war sie seit Jahren nicht.",
+     "link": "https://www.handelsblatt.com/politik/international/italien-hunderttausende-gegen-meloni-auf-der-strasse/100266176.html",
+     "image": "https://images.handelsblatt.com/QQ-wnKUwWT7P/cover/900/506/0/0/107/106/0.5/0.5/generalstreik-in-italien-rom.jpg",
+     "aggregator": false,
+     "published": "2026-10-30T16:20:25+00:00"
+    }
+   ]
+  },
+  {
+   "id": 6,
+   "score": 11.34,
+   "outlets": [
+    "tagesschau",
+    "Deutschlandfunk",
+    "SRF News",
+    "Handelsblatt"
+   ],
+   "regions": [
+    "CH",
+    "DE",
+    "INT"
+   ],
+   "trend": [],
+   "newest": "2026-10-31T13:05:55+00:00",
+   "articles": [
+    {
+     "source": "tagesschau",
+     "region": "DE",
+     "weight": 1.0,
+     "title": "\"Allianz für die Zukunft\": Kanada und Europa gründen Bündnis",
+     "summary": "Die EU und Kanada gründen in Montreal eine \"Allianz für die Zukunft\". Ziel ist mehr Unabhängigkeit und eine engere Zusammenarbeit von KI bis Raumfahrt. Auch die Ukraine spielt eine Rolle.",
+     "link": "https://www.tagesschau.de/ausland/amerika/kanada-eu-allianz-zukunft-100.html",
+     "image": "https://images.tagesschau.de/image/b24841d1-87c4-4a16-ba6c-c4db63284842/AAABoY4uPLA/AAABnSSvrFg/16x9-big/kanada-eu-buendnis-100.jpg?width=1920",
+     "aggregator": false,
+     "published": "2026-10-31T03:57:32+00:00"
+    },
+    {
+     "source": "tagesschau Ausland",
+     "region": "INT",
+     "weight": 1.0,
+     "title": "\"Allianz für die Zukunft\": Kanada und Europa gründen Bündnis",
+     "summary": "Die EU und Kanada gründen in Montreal eine \"Allianz für die Zukunft\". Ziel ist mehr Unabhängigkeit und eine engere Zusammenarbeit von KI bis Raumfahrt. Auch die Ukraine spielt eine Rolle.",
+     "link": "https://www.tagesschau.de/ausland/amerika/kanada-eu-allianz-zukunft-100.html",
+     "image": "https://images.tagesschau.de/image/b24841d1-87c4-4a16-ba6c-c4db63284842/AAABoY4uPLA/AAABnSSvrFg/16x9-big/kanada-eu-buendnis-100.jpg?width=1920",
+     "aggregator": false,
+     "published": "2026-10-31T03:57:32+00:00"
+    },
+    {
+     "source": "tagesschau Ausland",
+     "region": "INT",
+     "weight": 1.0,
+     "title": "EU-Kanada-Gipfel: Zusammenarbeit bei KI verstärken",
+     "summary": "Gemeinsam unabhängiger werden - das ist das große Ziel der angestrebten neuen Allianz zwischen Kanada und der EU. Ein Beispiel: die Zusammenarbeit im Bereich Künstlicher Intelligenz. Von Giselle Ucar.",
+     "link": "https://www.tagesschau.de/ausland/amerika/eu-kanada-ki-100.html",
+     "image": "https://images.tagesschau.de/image/f777cc2e-6e6c-4a70-96d9-74a583c70bef/AAABoYj25Qw/AAABnSSvrFg/16x9-big/flaggen-eu-kanada-100.jpg?width=1920",
+     "aggregator": false,
+     "published": "2026-10-30T06:38:08+00:00"
+    },
+    {
+     "source": "tagesschau Wirtschaft",
+     "region": "DE",
+     "weight": 1.0,
+     "title": "EU-Kanada-Gipfel: Zusammenarbeit bei KI verstärken",
+     "summary": "Gemeinsam unabhängiger werden - das ist das große Ziel der angestrebten neuen Allianz zwischen Kanada und der EU. Ein Beispiel: die Zusammenarbeit im Bereich Künstlicher Intelligenz. Von Giselle Ucar.",
+     "link": "https://www.tagesschau.de/ausland/amerika/eu-kanada-ki-100.html",
+     "image": "https://images.tagesschau.de/image/f777cc2e-6e6c-4a70-96d9-74a583c70bef/AAABoYj25Qw/AAABnSSvrFg/16x9-big/flaggen-eu-kanada-100.jpg?width=1920",
+     "aggregator": false,
+     "published": "2026-10-30T06:38:08+00:00"
+    },
+    {
+     "source": "Deutschlandfunk",
+     "region": "DE",
+     "weight": 0.95,
+     "title": "Gipfel in Montreal - EU und Kanada verabreden \"Allianz für die Zukunft\" - Von der Leyen spricht mit Carney auch über Mitgliedschaft",
+     "summary": "EU-Kommissionspräsidentin von der Leyen hat beim EU-Kanada-Gipfel erneut dafür geworben, Kanada zu einem Sondermitglied der Europäischen Union zu machen.",
+     "link": "https://www.deutschlandfunk.de/eu-und-kanada-verabreden-allianz-fuer-die-zukunft-von-der-leyen-spricht-mit-carney-auch-ueber-mitgli-102.html",
+     "image": "https://bilder.deutschlandfunk.de/86/0a/48/9b/860a489b-7a82-42d0-97c0-a6d4d27db6a6/eu-kanada-gipfel-100-1920x1920.jpg",
+     "aggregator": false,
+     "published": "2026-10-31T13:05:55+00:00"
+    },
+    {
+     "source": "SRF News",
+     "region": "CH",
+     "weight": 0.95,
+     "title": "Gipfelabschluss in Montreal – Die EU und Kanada wollen eine «Allianz für die Zukunft» schmieden",
+     "summary": "Der EU-Kanada-Gipfel ist zu Ende. Die EU-Seite beschreibt ihn als einen der wichtigsten, den man je durchgeführt habe.",
+     "link": "https://www.srf.ch/news/international/gipfelabschluss-in-montreal-die-eu-und-kanada-wollen-eine-allianz-fuer-die-zukunft-schmieden",
+     "image": "https://www.srf.ch/static/cms/images//320ws/99d879.webp",
+     "aggregator": false,
+     "published": "2026-10-30T18:30:41+00:00"
+    },
+    {
+     "source": "Handelsblatt",
+     "region": "DE",
+     "weight": 0.9,
+     "title": "Gipfel in Montreal: EU und Kanada schmieden Allianz für die Zukunft",
+     "summary": "Die Politik von US-Präsident Trump bringt die EU und Kanada enger zusammen. Bei ihrem Gipfel in Montreal vereinbaren sie zahlreiche Vorhaben. Doch es bleiben noch Unstimmigkeiten.",
+     "link": "https://www.handelsblatt.com/politik/international/gipfel-in-montreal-eu-und-kanada-schmieden-allianz-fuer-die-zukunft/100266031.html",
+     "image": "https://images.handelsblatt.com/SGPokvpEchIY/cover/900/506/0/0/107/106/0.5/0.5/eu-kanada-gipfel-in-montreal.jpg",
+     "aggregator": false,
+     "published": "2026-10-30T18:18:48+00:00"
+    }
+   ]
+  },
+  {
+   "id": 7,
+   "score": 11.34,
+   "outlets": [
+    "tagesschau",
+    "ZDFheute",
+    "Deutschlandfunk",
+    "DER STANDARD"
+   ],
+   "regions": [
+    "AT",
+    "DE"
+   ],
+   "trend": [],
+   "newest": "2026-10-31T13:05:55+00:00",
+   "articles": [
+    {
+     "source": "tagesschau",
+     "region": "DE",
+     "weight": 1.0,
+     "title": "Binance will alle Verluste nach Hackerangriff ersetzen",
+     "summary": "Nach einem Hackerangriff mit einem Schaden von 6,3 Milliarden Dollar will Binance alle Verluste ersetzen. Der Fall zeigt, wie verwundbar Kryptowerte sind, und wirft Fragen zur Sicherheit digitaler Anlagen auf.",
+     "link": "https://www.tagesschau.de/wirtschaft/technologie/usa-binance-hackerangriff-verluste-100.html",
+     "image": "https://images.tagesschau.de/image/a0816700-ed50-4ee8-af39-ed742d73f760/AAABoY3FWOk/AAABnSSvrFg/16x9-big/30102026-binace-crypto-hackerangriff-100.jpg?width=1920",
+     "aggregator": false,
+     "published": "2026-10-30T20:21:33+00:00"
+    },
+    {
+     "source": "tagesschau Wirtschaft",
+     "region": "DE",
+     "weight": 1.0,
+     "title": "Binance will alle Verluste nach Hackerangriff ersetzen",
+     "summary": "Nach einem Hackerangriff mit einem Schaden von 6,3 Milliarden Dollar will Binance alle Verluste ersetzen. Der Fall zeigt, wie verwundbar Kryptowerte sind, und wirft Fragen zur Sicherheit digitaler Anlagen auf.",
+     "link": "https://www.tagesschau.de/wirtschaft/technologie/usa-binance-hackerangriff-verluste-100.html",
+     "image": "https://images.tagesschau.de/image/a0816700-ed50-4ee8-af39-ed742d73f760/AAABoY3FWOk/AAABnSSvrFg/16x9-big/30102026-binace-crypto-hackerangriff-100.jpg?width=1920",
+     "aggregator": false,
+     "published": "2026-10-30T20:21:33+00:00"
+    },
+    {
+     "source": "ZDFheute",
+     "region": "DE",
+     "weight": 1.0,
+     "title": "Was der Hackerangriff bei Binance bedeutet",
+     "summary": "Hacker haben von der Kryptobörse Binance Werte von schätzungsweise 6,3 Milliarden Dollar gestohlen. Was das für Kunden, Anleger und das Vertrauen in Kryptowährung bedeutet.",
+     "link": "https://www.zdfheute.de/wirtschaft/binance-bitcoin-krypto-faq-100.html",
+     "image": "https://www.zdfheute.de/assets/binance-webseite-browser-100~384x216?cb=1793375002414",
+     "aggregator": false,
+     "published": "2026-10-30T16:14:00+00:00"
+    },
+    {
+     "source": "Deutschlandfunk",
+     "region": "DE",
+     "weight": 0.95,
+     "title": "Krypto-Hackerangriff auf Binance - \"3,3 Milliarden Dollar sind nicht mehr zurückzuholen\"",
+     "summary": "Der Hackerangriff auf die weltgrößte Digitalwährungsbörse Binance hat bei Anlegern und Börsenvertretern für Aufruhr gesorgt. Wie das Unternehmen erklärte, wurden Kryptowährungen im Wert von 6,3 Milliarden US-Dollar gestohlen, um einen Teil davon wird noch gerungen. Ein Überblick über den Ablauf des wohl größten Krypto-Hackerangriffs der Geschichte und darüber, wie sich Anleger schützen können.",
+     "link": "https://www.deutschlandfunk.de/3-3-milliarden-dollar-sind-nicht-mehr-zurueckzuholen-100.html",
+     "image": "https://bilder.deutschlandfunk.de/63/c7/08/26/63c70826-5020-4a28-857b-b6ccfdceaf75/binance-100-1920x1920.jpg",
+     "aggregator": false,
+     "published": "2026-10-31T13:05:55+00:00"
+    },
+    {
+     "source": "DER STANDARD",
+     "region": "AT",
+     "weight": 0.85,
+     "title": "Binance meldet massiven Hackerangriff: Mehr als sechs Milliarden Dollar gestohlen",
+     "summary": "Drei Milliarden davon konnte mittlerweile erfolgreich in der Blockchain eingefroren werden, trotzdem bleibt es der größte Kryptoraub aller Zeiten. Dahinter soll Nordkorea stecken",
+     "link": "https://www.derstandard.at/story/3000000346691/binance-meldet-massiven-hackerangriff-25-milliarden-dollar-eingefroren?ref=rss",
+     "image": "https://i.ds.at/snmU6w/rs:fill:150:0/plain/lido-images/2026/10/30/3aa89f4c-27ca-4802-a58b-162d703ad080.jpg",
+     "aggregator": false,
+     "published": "2026-10-30T05:48:48+00:00"
+    }
+   ]
+  },
+  {
+   "id": 8,
+   "score": 11.14,
+   "outlets": [
+    "Deutschlandfunk",
+    "SRF News",
+    "Handelsblatt",
+    "NZZ"
+   ],
+   "regions": [
+    "CH",
+    "DE"
+   ],
+   "trend": [],
+   "newest": "2026-10-31T13:05:55+00:00",
+   "articles": [
+    {
+     "source": "Deutschlandfunk",
+     "region": "DE",
+     "weight": 0.95,
+     "title": "Iran-Krieg - Iran will auf Bedrohung geografisch unbeschränkt reagieren",
+     "summary": "Der Iran will im Krieg gegen die USA und Israel offenbar seine Angriffe ausweiten.",
+     "link": "https://www.deutschlandfunk.de/iran-will-auf-bedrohung-geografisch-unbeschraenkt-reagieren-100.html",
+     "image": "https://bilder.deutschlandfunk.de/NO/VA/_f/66/NOVA_f6618dcfb29496786ec5cf62081ed974/craft-12936327-asset-100-1920x1920.jpg",
+     "aggregator": false,
+     "published": "2026-10-31T13:05:55+00:00"
+    },
+    {
+     "source": "SRF News",
+     "region": "CH",
+     "weight": 0.95,
+     "title": "Krieg im Nahen Osten – Iran droht mit Gegenangriffen ohne «geografische Einschränkungen»",
+     "summary": "Der Iran warnt, erneute US-Angriffe würden den Krieg auf ein grösseres Gebiet ausweiten.",
+     "link": "https://www.srf.ch/news/international/nahost/krieg-im-nahen-osten-iran-droht-mit-gegenangriffen-ohne-geografische-einschraenkungen",
+     "image": "https://www.srf.ch/static/cms/images//320ws/5bca25.webp",
+     "aggregator": false,
+     "published": "2026-10-31T11:14:03+00:00"
+    },
+    {
+     "source": "Handelsblatt",
+     "region": "DE",
+     "weight": 0.9,
+     "title": "Iran-Krieg: Irans oberster Führer: Auf jede Bedrohung wirksam reagieren",
+     "summary": "Irans Religionsführer weist die Streitkräfte an, wie sie im Falle eines neuen Krieges reagieren sollen. Irans militärische Antwort soll dabei nicht auf die Golfregion beschränkt bleiben.",
+     "link": "https://www.handelsblatt.com/politik/international/iran-krieg-irans-oberster-fuehrer-auf-jede-bedrohung-wirksam-reagieren/100266329.html",
+     "image": "https://images.handelsblatt.com/UiBOiFLoCx9y/cover/900/506/0/0/107/106/0.5/0.5/iran-krieg-teheran.jpg",
+     "aggregator": false,
+     "published": "2026-10-31T11:15:10+00:00"
+    },
+    {
+     "source": "NZZ",
+     "region": "CH",
+     "weight": 0.9,
+     "title": "LIVE-TICKER - Iran-Krieg: Mojtaba Khamenei weist die Streitkräfte an, auf jede Bedrohung zu reagieren",
+     "summary": "Die USA und Iran befinden sich seit Februar 2026 im Kriegszustand. Zwar haben die beiden Länder eine Waffenruhe vereinbart, doch Donald Trump hat diese Anfang Juli für beendet erklärt. Die neuesten Entwicklungen im Ticker.",
+     "link": "https://www.nzz.ch/international/iran-krieg-jd-vance-soll-mit-iran-chance-auf-verhandlungen-ausloten-kaempfe-in-jemen-vertreiben-immer-mehr-menschen-ld.10021246",
+     "image": "https://img-msp-prod.nzz.ch/2026/08/05/8c9250b3-e58b-46be-b675-1593273eb305.jpg?width=200&height=200&fit=bounds&quality=75&auto=webp&crop=1690,1690,x919,y0",
+     "aggregator": false,
+     "published": "2026-10-31T11:26:21+00:00"
+    }
+   ]
+  },
+  {
+   "id": 9,
+   "score": 10.8,
+   "outlets": [
+    "ZDFheute",
+    "SPIEGEL",
+    "WELT",
+    "n-tv"
+   ],
+   "regions": [
+    "DE"
+   ],
+   "trend": [],
+   "newest": "2026-10-31T13:18:00+00:00",
+   "articles": [
+    {
+     "source": "ZDFheute",
+     "region": "DE",
+     "weight": 1.0,
+     "title": "Hannover 96 trennt sich von Sportchef Boldt",
+     "summary": "Fußball-Zweitligist Hannover 96 hat sich nach nur fünf Monaten von seinem Sport-Geschäftsführer Jonas Boldt getrennt. Das gab der Club bekannt.",
+     "link": "https://www.zdfheute.de/sport/fussball-zweite-liga-hannover-96-jonas-boldt-100.html",
+     "image": "https://www.zdfheute.de/assets/jonas-boldt-102~384x216?cb=1793439228321",
+     "aggregator": false,
+     "published": "2026-10-31T10:06:00+00:00"
+    },
+    {
+     "source": "SPIEGEL",
+     "region": "DE",
+     "weight": 0.9,
+     "title": "2. Bundesliga: Hannover 96 entlässt Sportchef Jonas Boldt",
+     "summary": "Statt um den Aufstieg zu spielen, steckt Hannover 96 im Tabellenkeller fest. Auch, weil die Transfers und der Trainerwechsel von Jonas Boldt bisher nicht zünden. Jetzt muss der Sportchef nach nur fünf Monaten gehen.",
+     "link": "https://www.spiegel.de/sport/fussball/2-bundesliga-hannover-96-entlaesst-sportchef-jonas-boldt-a-9eb28204-9a40-4afd-86bb-bece240f6ef8#ref=rss",
+     "image": "https://cdn.prod.www.spiegel.de/images/36027b01-9088-4b54-9c32-e2550a7e65fd_w520_r2.08_fpx65.33_fpy50.jpg",
+     "aggregator": false,
+     "published": "2026-10-31T13:18:00+00:00"
+    },
+    {
+     "source": "WELT",
+     "region": "DE",
+     "weight": 0.8,
+     "title": "Nach nur fünf Monaten muss Sportchef Boldt bei Hannover 96 gehen",
+     "summary": "Hannover 96 zieht nach dem Fehlstart die Konsequenz und trennt sich von Sport-Geschäftsführer Jonas Boldt. Der frühere HSV-Vorstand hatte einen Vertrag bis 2029. Zuvor hatte schon Jörg Schmadkte nur sehr kurz den Posten innegehabt.",
+     "link": "https://www.welt.de/sport/fussball/article6ae5b690f49d8246067607f4/2-liga-nach-nur-fuenf-monaten-muss-sportchef-boldt-bei-hannover-96-gehen.html",
+     "image": "https://images.welt.de/6ae5b690f49d8246067607f4/ab20bd39974e89f510fcb6c4db0e5533-master/ci23x11-w1200/dpa-com-261028-936-131402-jpg",
+     "aggregator": false,
+     "published": "2026-10-31T10:05:37+00:00"
+    },
+    {
+     "source": "n-tv",
+     "region": "DE",
+     "weight": 0.8,
+     "title": "Nach fünf Monaten ist Schluss: Krisenklub Hannover 96 schmeißt Sport-Geschäftsführer Boldt raus",
+     "summary": "Fußball-Zweitligist Hannover 96 reagiert auf die anhaltende sportliche Talfahrt und trennt sich von Sport-Geschäftsführer Jonas Boldt. Dieser hatte erst im Sommer das Amt übernommen. Die großen Hoffnungen verpufften schnell.",
+     "link": "https://www.n-tv.de/sport/fussball/Krisenklub-Hannover-96-schmeisst-Sport-Geschaeftsfuehrer-Boldt-raus-id31479289.html",
+     "image": "https://www.n-tv.de/img/31472100/1793440724/Img_4_3/250/image.jpg",
+     "aggregator": false,
+     "published": "2026-10-31T10:05:56+00:00"
+    }
+   ]
+  },
+  {
+   "id": 10,
+   "score": 10.58,
+   "outlets": [
+    "tagesschau Inland",
+    "ZDFheute",
+    "WirtschaftsWoche",
+    "WELT"
+   ],
+   "regions": [
+    "DE"
+   ],
+   "trend": [],
+   "newest": "2026-10-31T11:44:00+00:00",
+   "articles": [
+    {
+     "source": "tagesschau Inland",
+     "region": "DE",
+     "weight": 1.0,
+     "title": "Wer am Samstag auf die Straße geht - und was zu erwarten ist",
+     "summary": "Am Samstag soll es in zahlreichen Städten Deutschlands zu Protesten kommen. Nach den Ausschreitungen etwa in Frankreich ist die Sorge vor Gewalt groß. Zu recht? Was sagen die Sicherheitsbehörden, was Experten - und worum geht es eigentlich?",
+     "link": "https://www.tagesschau.de/inland/gesellschaft/gen-z-regelt-proteste-100.html",
+     "image": "https://images.tagesschau.de/image/13a3cc22-d409-4262-8cd5-c9a1e3fe3f8b/AAABoYaUSV4/AAABnSSvrFg/16x9-big/schueler-demonstration-100.jpg?width=1920",
+     "aggregator": false,
+     "published": "2026-10-29T12:02:19+00:00"
+    },
+    {
+     "source": "ZDFheute",
+     "region": "DE",
+     "weight": 1.0,
+     "title": "Worum es der \"Gen Z\" heute bei den Kundgebungen geht",
+     "summary": "In mehr als 30 Städten will \"Gen Z regelt\" heute auf die Straße gehen. Seit Tagen dreht sich die Debatte um die Frage, ob die Proteste eskalieren - und kaum um die Forderungen.",
+     "link": "https://www.zdfheute.de/politik/gen-z-proteste-politik-100.html",
+     "image": "https://www.zdfheute.de/assets/schulstreik-wehrpflicht-clean-100~384x216?cb=1792949484457",
+     "aggregator": false,
+     "published": "2026-10-31T05:00:00+00:00"
+    },
+    {
+     "source": "WirtschaftsWoche",
+     "region": "DE",
+     "weight": 0.85,
+     "title": "Fragen und Antworten: Was von den Gen‑Z‑Protesten zu erwarten ist",
+     "summary": "Knapp 30 Städte, ein Protestaufruf und eine Gruppierung im Aufbau: „Gen Z regelt“ mobilisiert für Samstag. Kann es zu Ausschreitungen wie in Frankreich kommen?",
+     "link": "https://www.wiwo.de/politik/deutschland/gen-z-regelt-was-von-den-genzdemonstrationen-am-samstag-zu-erwarten-ist/100265863.html",
+     "image": "https://images.wiwo.de/bca8foQRfT6Z/cover/900/506/0/0/154/480/0.5/0.5/a-protester-holding-a-blue-white-and-red-flag-with-crs-officers-in-the-background.-a-route-that-a.jpg",
+     "aggregator": false,
+     "published": "2026-10-31T11:44:00+00:00"
+    },
+    {
+     "source": "WELT",
+     "region": "DE",
+     "weight": 0.8,
+     "title": "Geschäfte verbarrikadiert, Polizei in Alarmbereitschaft – Köln und Paris rüsten sich für Proteste",
+     "summary": "Vor den angekündigten Demonstrationen wächst die Sorge vor Ausschreitungen. In Köln verbarrikadieren zahlreiche Händler ihre Geschäfte, die Polizei zeigt Präsenz. Auch Paris bereitet sich mit einem Großaufgebot auf mögliche Krawalle vor. Unsere Reporter berichten von vor Ort.",
+     "link": "https://www.welt.de/politik/deutschland/video6ae5b10b4db6c62483ec3000/sorge-vor-krawallen-geschaefte-verbarrikadiert-polizei-in-alarmbereitschaft-koeln-und-paris-ruesten-sich-fuer-proteste.html",
+     "image": "https://images.welt.de/6ae5b10b4db6c62483ec3000/99256fe9308ade61b012cf884c9fd675/ci16x9-w1200/dpa-com-261030-936-132549-jpg",
+     "aggregator": false,
+     "published": "2026-10-31T11:28:01+00:00"
+    }
+   ]
+  },
+  {
+   "id": 11,
+   "score": 9.85,
+   "outlets": [
+    "ZDFheute",
+    "SPIEGEL",
+    "n-tv",
+    "sportschau.de"
+   ],
+   "regions": [
+    "DE"
+   ],
+   "trend": [],
+   "newest": "2026-10-31T13:27:00+00:00",
+   "articles": [
+    {
+     "source": "ZDFheute",
+     "region": "DE",
+     "weight": 1.0,
+     "title": "Chatzialexiou wird Sportvorstand in Frankfurt",
+     "summary": "Der Wechsel von Sportvorstand Joti Chatzialexiou vom 1. FC Nürnberg zum Fußball-Bundesligisten Eintracht Frankfurt ist perfekt. Er tritt die Nachfolge von Markus Krösche an.",
+     "link": "https://www.zdfheute.de/sport/fussball-bundesliga/bundesliga-joti-chatzialexiou-sportvorstand-eintracht-frankfurt-100.html",
+     "image": "https://www.zdfheute.de/assets/joti-chatzialexiou-112~384x216?cb=1793444404059",
+     "aggregator": false,
+     "published": "2026-10-31T10:54:23+00:00"
+    },
+    {
+     "source": "SPIEGEL",
+     "region": "DE",
+     "weight": 0.9,
+     "title": "Eintracht Frankfurt: Joti Chatzialexiou wird neuer Sportvorstand",
+     "summary": "Er galt als Wunschlösung für den vakanten Posten bei der Eintracht. Joti Chatzialexiou kehrt im Februar aus Nürnberg zurück nach Frankfurt. Für Club-Trainer Miroslav Klose ist das ein herber Verlust.",
+     "link": "https://www.spiegel.de/sport/fussball/eintracht-frankfurt-joti-chatzialexiou-wird-neuer-sportvorstand-a-6b4f51ee-4615-49d8-b5af-dcd48a00ecc5#ref=rss",
+     "image": "https://cdn.prod.www.spiegel.de/images/cc35beef-eca0-47b4-a486-018f6ceee4b8_w520_r2.08_fpx53.57_fpy50.jpg",
+     "aggregator": false,
+     "published": "2026-10-31T13:27:00+00:00"
+    },
+    {
+     "source": "n-tv",
+     "region": "DE",
+     "weight": 0.8,
+     "title": "Klub bestätigt Wechsel: Eintracht Frankfurt holt Krösche-Nachfolger aus der 2. Liga",
+     "summary": "Nach dem Abgang von Sportvorstand Markus Krösche findet Fußball-Bundesligist Eintracht Frankfurt einen neuen Mann für den vakanten Posten. Gegen eine kleine Ablöse soll Joti Chatzialexiou vom 1. FC Nürnberg übernehmen.",
+     "link": "https://www.n-tv.de/sport/fussball/Eintracht-Frankfurt-holt-Kroesche-Nachfolger-aus-der-2-Liga-id31479339.html",
+     "image": "https://www.n-tv.de/img/31479356/1793444220/Img_4_3/250/image.jpg",
+     "aggregator": false,
+     "published": "2026-10-31T10:54:01+00:00"
+    },
+    {
+     "source": "sportschau.de",
+     "region": "DE",
+     "weight": 0.6,
+     "title": "Klub macht es offiziell: Chatzialexiou wird Krösche-Nachfolger bei der Eintracht",
+     "summary": "Klub macht es offiziell: Chatzialexiou wird Krösche-Nachfolger bei der Eintracht sportschau.de Eintracht Frankfurt: Nachfolger für Markus Krösche perfekt BILD Eintracht Frankfurt schnappt sich Kloses »engen Vertrauten« als Sportvorstand Spiegel Peter Meier: \"Wir sind auf solche Situationen vorbereitet\" fcn.de Der Architekt geht: FCN verliert Sportvorstand Chatzialexiou BR",
+     "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPLXowb0lCaFpIT3dlZjF6bHI3cmdCUmI0ZExtS2ltTUk2Z3N0RGhvM2ppTXVfTVhvWTNzMHltendzYkRrTk1laG5PY3B2X3Bkdl92dnExeTRlYzB2ekRnTFVuTVJIT3BlUXZCdWtIUklfOWdya3NlNTBoLTU0ekJLc2R3QlQ4YW9oQ2Rmbk52TmZER3haR1hhRFdoNU1aT0ZlS3hYSy1ZcGE3Zw?oc=5",
+     "image": null,
+     "aggregator": true,
+     "published": "2026-10-31T11:19:00+00:00"
+    }
+   ]
+  },
+  {
+   "id": 12,
+   "score": 9.65,
+   "outlets": [
+    "tagesschau",
+    "Deutschlandfunk",
+    "ZEIT ONLINE"
+   ],
+   "regions": [
+    "DE"
+   ],
+   "trend": [],
+   "newest": "2026-10-31T13:45:06+00:00",
+   "articles": [
+    {
+     "source": "tagesschau",
+     "region": "DE",
+     "weight": 1.0,
+     "title": "Jugendproteste in mehr als 30 Städten geplant",
+     "summary": "Wachsende Unzufriedenheit und Zukunftsängste: Die GenZ protestiert bundesweit für bessere Bildung, Klimaschutz und mehr politische Teilhabe. In mehr als 30 Städten sind Demonstrationen angekündigt. Von Jan Koch.",
+     "link": "https://www.tagesschau.de/inland/gesellschaft/gen-z-proteste-112.html",
+     "image": "https://images.tagesschau.de/image/a17894ed-e343-407d-9017-e7c763655649/AAABoZF-BK4/AAABnSSvrFg/16x9-big/proteste-muenchen-jugend-100.jpg?width=1920",
+     "aggregator": false,
+     "published": "2026-10-31T04:52:31+00:00"
+    },
+    {
+     "source": "tagesschau Inland",
+     "region": "DE",
+     "weight": 1.0,
+     "title": "Jugendproteste in mehr als 30 Städten geplant",
+     "summary": "Wachsende Unzufriedenheit und Zukunftsängste: Die GenZ protestiert bundesweit für bessere Bildung, Klimaschutz und mehr politische Teilhabe. In mehr als 30 Städten sind Demonstrationen angekündigt. Von Jan Koch.",
+     "link": "https://www.tagesschau.de/inland/gesellschaft/gen-z-proteste-112.html",
+     "image": "https://images.tagesschau.de/image/a17894ed-e343-407d-9017-e7c763655649/AAABoZF-BK4/AAABnSSvrFg/16x9-big/proteste-muenchen-jugend-100.jpg?width=1920",
+     "aggregator": false,
+     "published": "2026-10-31T04:52:31+00:00"
+    },
+    {
+     "source": "Deutschlandfunk",
+     "region": "DE",
+     "weight": 0.95,
+     "title": "\"Gen Z regelt\" - Bundesweite Jugendproteste geplant; Sprecherin Dinter weist mögliche Unterwanderung zurück",
+     "summary": "Bundesweit wollen junge Menschen heute für bessere Bildung und ein bezahlbares Leben auf die Straße gehen. In den vier Großstädten Berlin, Köln, Frankfurt am Main und München veranstaltet die Gruppierung \"GenZ regelt!\" eigene Kundgebungen, in 30 weiteren Städten haben örtliche Initiativen Demonstrationen angemeldet.",
+     "link": "https://www.deutschlandfunk.de/bundesweite-jugendproteste-geplant-sprecherin-dinter-weist-moegliche-unterwanderung-zurueck-100.html",
+     "image": "https://bilder.deutschlandfunk.de/NO/VA/_a/cc/NOVA_acc044d89f65637de4fde774d1c68f43/craft-13515260-asset-100-1920x1920.jpg",
+     "aggregator": false,
+     "published": "2026-10-31T13:05:55+00:00"
+    },
+    {
+     "source": "ZEIT ONLINE",
+     "region": "DE",
+     "weight": 0.9,
+     "title": "Demonstrationen: Bundesweite Jugendproteste in ersten Städten gestartet",
+     "summary": "",
+     "link": "https://www.zeit.de/news/2026-10/31/gen-z-regelt-hofft-auf-mehr-als-160-000-demonstranten",
+     "image": "https://img.zeit.de/news/2026-10/31/gen-z-regelt-hofft-auf-mehr-als-160-000-demonstranten-image-group/original__640x360",
+     "aggregator": false,
+     "published": "2026-10-31T13:45:06+00:00"
+    }
+   ]
+  },
+  {
+   "id": 13,
+   "score": 9.44,
+   "outlets": [
+    "tagesschau",
+    "Deutschlandfunk",
+    "Handelsblatt"
+   ],
+   "regions": [
+    "DE",
+    "INT"
+   ],
+   "trend": [],
+   "newest": "2026-10-31T13:05:55+00:00",
+   "articles": [
+    {
+     "source": "tagesschau",
+     "region": "DE",
+     "weight": 1.0,
+     "title": "Ebola-Virus: Mehr als 5.000 Tote in der Demokratischen Republik Kongo",
+     "summary": "Die Ebola-Infektionen in der Demokratischen Republik Kongo nehmen weiter zu. Seit Mai starben mehr als 5.000 Menschen - mehr als 10.000 gelten als infiziert. Das Ende ist nicht in Sicht, aber vielleicht ein Impfstoff.",
+     "link": "https://www.tagesschau.de/ausland/afrika/kongo-ebola-tote-106.html",
+     "image": "https://images.tagesschau.de/image/d58a1485-ef31-40e7-8aa0-018bd151dc5a/AAABoZEFuVo/AAABnSSvrFg/16x9-big/ebola-kongo-204.jpg?width=1920",
+     "aggregator": false,
+     "published": "2026-10-31T11:45:52+00:00"
+    },
+    {
+     "source": "tagesschau Ausland",
+     "region": "INT",
+     "weight": 1.0,
+     "title": "Mehr als 10.000 Ebola-Fälle in Demokratischer Republik Kongo bestätigt",
+     "summary": "Das Ebola-Virus breitet sich in der Demokratischen Republik Kongo weiter aus. Mehr als 10.000 Menschen sind dort bislang erkrankt. Inzwischen wird weiter an der Entwicklung von Therapieverfahren und Impfstoffen gearbeitet.",
+     "link": "https://www.tagesschau.de/ausland/afrika/demokratische-republik-kongo-ebola-100.html",
+     "image": "https://images.tagesschau.de/image/d0d13c3d-b2bf-4d11-af98-8cb20a19c757/AAABoXygYJA/AAABnSSvrFg/16x9-big/desinfektion-strasse-ituri-100.jpg?width=1920",
+     "aggregator": false,
+     "published": "2026-10-27T10:24:11+00:00"
+    },
+    {
+     "source": "Deutschlandfunk",
+     "region": "DE",
+     "weight": 0.95,
+     "title": "Gesundheit - Schon mehr als 5.000 Ebola-Tote im Kongo",
+     "summary": "In der Demokratischen Republik Kongo hat die Zahl der Toten durch das Ebola-Virus die Marke von 5.000 überschritten.",
+     "link": "https://www.deutschlandfunk.de/schon-mehr-als-5-000-ebola-tote-im-kongo-102.html",
+     "image": "https://bilder.deutschlandfunk.de/7d/9c/1f/2c/7d9c1f2c-d491-48c6-9ae7-604bd550cac2/ebola-kongo-114-1920x1920.jpg",
+     "aggregator": false,
+     "published": "2026-10-31T13:05:55+00:00"
+    },
+    {
+     "source": "Handelsblatt",
+     "region": "DE",
+     "weight": 0.9,
+     "title": "Ebola im Kongo: Experten gehen von Dunkelziffer bei Ebola-Toten aus",
+     "summary": "Schon mehr als 5.000 Menschen in der Demokratischen Republik Kongo sind nach offiziellen Angaben an Ebola gestorben. Experten gehen auch hier ebenso wie bei den Fallzahlen von einer Dunkelziffer aus.",
+     "link": "https://www.handelsblatt.com/technik/forschung-innovation/ebola-im-kongo-experten-gehen-von-dunkelziffer-bei-ebola-toten-aus/100266298.html",
+     "image": "https://images.handelsblatt.com/b7-tJKDkeQ9C/cover/900/506/0/0/107/106/0.5/0.5/ebola-ausbruch.jpg",
+     "aggregator": false,
+     "published": "2026-10-31T10:27:25+00:00"
+    }
+   ]
+  },
+  {
+   "id": 14,
+   "score": 9.44,
+   "outlets": [
+    "Deutsche Welle",
+    "Deutschlandfunk",
+    "ORF"
+   ],
+   "regions": [
+    "AT",
+    "DE",
+    "INT"
+   ],
+   "trend": [],
+   "newest": "2026-10-31T13:05:55+00:00",
+   "articles": [
+    {
+     "source": "Deutsche Welle",
+     "region": "INT",
+     "weight": 0.95,
+     "title": "Proteste und Reformen: Steigende Zinsen sprengen Frankreichs Haushalt",
+     "summary": "Wegen der landesweiten Proteste will Frankreich vier Milliarden Euro zusätzlich in den Bildungsbereich stecken. Dabei hat das hoch verschuldete Land kaum finanzielle Spielräume. Und die Zinskosten steigen immer weiter.",
+     "link": "https://www.dw.com/de/proteste-und-reformen-steigende-zinsen-sprengen-frankreichs-haushalt/a-79805455?maca=de-rss-de-all-1119-xml-mrss",
+     "image": "https://static.dw.com/image/79796551_302.jpg",
+     "aggregator": false,
+     "published": "2026-10-30T15:33:00+00:00"
+    },
+    {
+     "source": "Deutschlandfunk",
+     "region": "DE",
+     "weight": 0.95,
+     "title": "Proteste in Frankreich - Regierung will 70.000 Polizisten gegen mögliche Krawalle aufbieten",
+     "summary": "Die französische Regierung ​will heute mit einem Großaufgebot von 70.000 Polizisten auf neue landesweite Proteste reagieren.",
+     "link": "https://www.deutschlandfunk.de/regierung-will-70-000-polizisten-gegen-moegliche-krawalle-aufbieten-102.html",
+     "image": "https://bilder.deutschlandfunk.de/4e/80/55/76/4e805576-426c-4a24-ad39-98498e990838/proteste-frankreich-108-1920x1920.jpg",
+     "aggregator": false,
+     "published": "2026-10-31T13:05:55+00:00"
+    },
+    {
+     "source": "ORF",
+     "region": "AT",
+     "weight": 0.95,
+     "title": "Erneut landesweite Proteste in Frankreich erwartet",
+     "summary": "",
+     "link": "https://orf.at/stories/3446658/",
+     "image": null,
+     "aggregator": false,
+     "published": "2026-10-30T23:17:23+00:00"
+    }
+   ]
+  },
+  {
+   "id": 15,
+   "score": 8.95,
+   "outlets": [
+    "SPIEGEL",
+    "WirtschaftsWoche",
+    "WELT"
+   ],
+   "regions": [
+    "DE"
+   ],
+   "trend": [],
+   "newest": "2026-10-31T13:27:00+00:00",
+   "articles": [
+    {
+     "source": "SPIEGEL",
+     "region": "DE",
+     "weight": 0.9,
+     "title": "Berlin: Linke entscheidet sich für Koalitionsverhandlungen",
+     "summary": "In Berlin will die Linke den Weg für eine rot-grün-rote Koalition frei machen. Vor dem Parteitag versammeln sich Radikale und verhöhnen Spitzenkandidatin Elif Eralp.",
+     "link": "https://www.spiegel.de/politik/deutschland/berlin-linke-entscheidet-sich-fuer-koalitionsverhandlungen-a-5827729d-b7d2-4699-b416-8e483e647bba#ref=rss",
+     "image": "https://cdn.prod.www.spiegel.de/images/9341e826-c570-4d2c-96c3-00fb48cc883c_w520_r2.08_fpx45_fpy48.jpg",
+     "aggregator": false,
+     "published": "2026-10-31T13:27:00+00:00"
+    },
+    {
+     "source": "WirtschaftsWoche",
+     "region": "DE",
+     "weight": 0.85,
+     "title": "Die Linke: Berliner Linke entscheidet über Koalitionsverhandlungen",
+     "summary": "Nach erfolgreichen Sondierungen in Berlin sollen Koalitionsverhandlungen folgen. Grüne und SPD haben zugestimmt, nun steht die Entscheidung der Linken an.",
+     "link": "https://www.wiwo.de/politik/deutschland/die-linke-berliner-linke-entscheidet-ueber-koalitionsverhandlungen/100266321.html",
+     "image": "https://images.wiwo.de/edbAsP9JuhBf/cover/900/506/0/0/313/312/0.5/0.5/archiv-25.09.2026-berlin-elif-eralp-fraktionsvorsitzende-der-partei-die-linke-im-berliner-abgeo.jpg",
+     "aggregator": false,
+     "published": "2026-10-31T09:36:22+00:00"
+    },
+    {
+     "source": "WELT",
+     "region": "DE",
+     "weight": 0.8,
+     "title": "Linken-Parteitag entscheidet über Rot-Grün-Rot – Antisemitismus-Streit birgt Sprengkraft",
+     "summary": "Die Berliner Linke stimmt über mögliche Koalitionsverhandlungen mit SPD und Grünen ab. Die WELT-Reporterinnen Philippa Vögeding und Leonie von Randow berichten vom Parteitag und über die Proteste vor der Halle.",
+     "link": "https://www.welt.de/politik/deutschland/video6ae5b48baedea8cd9ffbf1d3/richtungsstreit-linken-parteitag-entscheidet-ueber-rot-gruen-rot-antisemitismus-streit-birgt-sprengkraft.html",
+     "image": "https://images.welt.de/6ae5b48baedea8cd9ffbf1d3/99b106afb1f5bb26525c7ecbdb488828/ci16x9-w1200/dpa-com-261031-936-133037-jpg",
+     "aggregator": false,
+     "published": "2026-10-31T10:29:39+00:00"
+    }
+   ]
+  },
+  {
+   "id": 16,
+   "score": 8.84,
+   "outlets": [
+    "tagesschau",
+    "ZDFheute",
+    "DER STANDARD",
+    "DIE ZEIT"
+   ],
+   "regions": [
+    "AT",
+    "DE",
+    "INT"
+   ],
+   "trend": [],
+   "newest": "2026-10-31T09:31:00+00:00",
+   "articles": [
+    {
+     "source": "tagesschau",
+     "region": "DE",
+     "weight": 1.0,
+     "title": "Evakuierungsaktion im ukrainischen Oleschky abgeschlossen",
+     "summary": "Es war die größte gemeinsame Aktion von Ukrainern und Russen seit Kriegsbeginn: Mit 25 Bussen wurden Menschen aus der Frontstadt Oleschky gebracht. Ein Teil von ihnen ist bereits in Belarus angekommen, um in die Ukraine weiterzureisen.",
+     "link": "https://www.tagesschau.de/ausland/europa/ukraine-evakuierung-oleschky-100.html",
+     "image": "https://images.tagesschau.de/image/76612aaf-a6e5-4bfd-9d9d-716c0bae47b7/AAABoZES8Ik/AAABnSSvrFg/16x9-big/bus-evakuierung-gomel-100.jpg?width=1920",
+     "aggregator": false,
+     "published": "2026-10-31T09:14:41+00:00"
+    },
+    {
+     "source": "tagesschau Ausland",
+     "region": "INT",
+     "weight": 1.0,
+     "title": "Evakuierungsaktion im ukrainischen Oleschky abgeschlossen",
+     "summary": "Es war die größte gemeinsame Aktion von Ukrainern und Russen seit Kriegsbeginn: Mit 25 Bussen wurden Menschen aus der Frontstadt Oleschky gebracht. Ein Teil von ihnen ist bereits in Belarus angekommen, um in die Ukraine weiterzureisen.",
+     "link": "https://www.tagesschau.de/ausland/europa/ukraine-evakuierung-oleschky-100.html",
+     "image": "https://images.tagesschau.de/image/76612aaf-a6e5-4bfd-9d9d-716c0bae47b7/AAABoZES8Ik/AAABnSSvrFg/16x9-big/bus-evakuierung-gomel-100.jpg?width=1920",
+     "aggregator": false,
+     "published": "2026-10-31T09:14:41+00:00"
+    },
+    {
+     "source": "ZDFheute",
+     "region": "DE",
+     "weight": 1.0,
+     "title": "Oleschky: Gemeinsame Hilfsaktion von Ukraine und Russland",
+     "summary": "Russland und die Ukraine haben in der russisch besetzten Frontstadt Oleschky eine Evakuierung durchgeführt. Dies ist die größte humanitäre Hilfsaktion seit Beginn des Krieges.",
+     "link": "https://www.zdfheute.de/video/politik-evakuierung-oleschky-hilfsaktion-ukraine-video-100.html",
+     "image": "https://www.zdfheute.de/assets/evakuierung-oleschky-100~384x216?cb=1793444030080",
+     "aggregator": false,
+     "published": "2026-10-31T09:31:00+00:00"
+    },
+    {
+     "source": "ZDFheute",
+     "region": "DE",
+     "weight": 1.0,
+     "title": "Oleschky: Evakuierung und Hilfslieferungen gelungen",
+     "summary": "Gemeinsam haben Russland und die Ukraine zahlreiche Einwohner aus Oleschky mit mehreren Bussen evakuiert. Auch Hilfslieferungen erreichten die bislang eingeschlossene Frontstadt.",
+     "link": "https://www.zdfheute.de/politik/ausland/oleschky-waffenruhe-evakuierung-hilfe-ukraine-krieg-russland-100.html",
+     "image": "https://www.zdfheute.de/assets/evakuierung-von-bewohnern-aus-olscheky-ukraine-100~384x216?cb=1793382675247",
+     "aggregator": false,
+     "published": "2026-10-30T18:43:00+00:00"
+    },
+    {
+     "source": "DER STANDARD",
+     "region": "AT",
+     "weight": 0.85,
+     "title": "EU-Außenbeauftragte wirft russischem Außenminister \"Lügen\" über Ukraine vor",
+     "summary": "Die von den USA vermittelte Hilfsaktion für die russisch besetzte südukrainische Frontstadt Oleschky ist weitgehend abgeschlossen",
+     "link": "https://www.derstandard.at/jetzt/livebericht/3000000346812/eu-aussenbeauftragte-wirft-russischem-aussenminister-luegen-ueber-ukraine-vor?ref=rss",
+     "image": "https://i.ds.at/vq3isQ/rs:fill:150:0/plain/lido-images/2026/10/31/7022de82-b23c-4e77-8ab5-8282ff80f2d5.jpg",
+     "aggregator": false,
+     "published": "2026-10-31T07:31:42+00:00"
+    },
+    {
+     "source": "DIE ZEIT",
+     "region": "DE",
+     "weight": 0.6,
+     "title": "Oleschky: Ukrainische Flüchtlinge aus Oleschky sollen in Belarus gelandet sein",
+     "summary": "Oleschky: Ukrainische Flüchtlinge aus Oleschky sollen in Belarus gelandet sein DIE ZEIT Evakuierungsaktion im ukrainischen Oleschky abgeschlossen tagesschau.de Reise über Russland und Belarus: Ukrainer verlassen Oleschky - Einwohner hat Angst vor \"Tricks\" n-tv.de Oleschky-Flüchtlinge sollen bald zurück in der Ukraine sein SZ.de Ukraine holt Zivilisten aus dem besetzten Oleschky heraus FAZ",
+     "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOeUNhVnhpZmpuUWZ5bmJSMVNEVEFXZHVsWkJNdGZUWURTVlY0VkprSlU1U01zNlRBVnRoNFozUERVYWlQbTRzNnByQWxqemFlYTNyVGZjaUZIUlZ0S2ZpY1JVZFZ3MDFVREdIaFl4bXVucTlieHVIcERUYnROSERPOVY0R0Fqd3NPZEg3dVQxal9XaEVyeUlDZmNuSTNCY28xV3c?oc=5",
+     "image": null,
+     "aggregator": true,
+     "published": "2026-10-31T09:22:15+00:00"
+    }
+   ]
+  },
+  {
+   "id": 17,
+   "score": 8.3,
+   "outlets": [
+    "ZDFheute",
+    "DER STANDARD",
+    "WELT"
+   ],
+   "regions": [
+    "AT",
+    "DE"
+   ],
+   "trend": [],
+   "newest": "2026-10-31T10:54:11+00:00",
+   "articles": [
+    {
+     "source": "ZDFheute",
+     "region": "DE",
+     "weight": 1.0,
+     "title": "Experte zu Eralp: \"Das hat ein bisschen Praktikantenniveau\"",
+     "summary": "Wie geht es mit der Berliner Linken nach der Kommunikationspanne um Elif Eralp weiter? Ein Experte sieht die Chance für eine stabile Koalition mit SPD und Grünen schwer beschädigt.",
+     "link": "https://www.zdfheute.de/politik/deutschland/eralp-berlin-linke-interview-folgen-100.html",
+     "image": "https://www.zdfheute.de/assets/eralp-abgeordnetenhaus-100~384x216?cb=1793287214319",
+     "aggregator": false,
+     "published": "2026-10-30T09:35:00+00:00"
+    },
+    {
+     "source": "DER STANDARD",
+     "region": "AT",
+     "weight": 0.85,
+     "title": "Der politische Kredit von Elif Eralp ist fast aufgebraucht",
+     "summary": "Passiert der Linken Frontfrau noch ein Fehler, dann endet der Traum vom Amt der Berliner Bürgermeisterin",
+     "link": "https://www.derstandard.at/story/3000000346748/der-politische-kredit-von-elif-eralp-ist-fast-aufgebraucht?ref=rss",
+     "image": "https://i.ds.at/nQhL8g/rs:fill:150:0/plain/lido-images/2026/10/30/1af637a7-b295-491a-a244-4b42be2b8477.jpg",
+     "aggregator": false,
+     "published": "2026-10-30T14:22:27+00:00"
+    },
+    {
+     "source": "WELT",
+     "region": "DE",
+     "weight": 0.8,
+     "title": "„Sie ist überhaupt nicht auf die Antisemitismusfrage eingegangen“ - Schupelius kritisiert Eralp Rede",
+     "summary": "Stellvertretende WELT TV-Politikchefin Dorothea Schupelius kritisiert Elif Eralps Auftritt beim Parteitag der Berliner Linken. Eralp sei der Antisemitismusdebatte ausgewichen.",
+     "link": "https://www.welt.de/politik/deutschland/video6ae5c247aedea8cd9ffbf2f7/linken-parteitag-sie-ist-ueberhaupt-nicht-auf-die-antisemitismusfrage-eingegangen-schupelius-kritisiert-eralp-rede.html",
+     "image": "https://images.welt.de/6ae5c247aedea8cd9ffbf2f7/25458a0ac23acadd7878fb2273688b45/ci16x9-w1200/pcr1-clean-10-00-bis-14-00-106415-jpg",
+     "aggregator": false,
+     "published": "2026-10-31T10:54:11+00:00"
+    },
+    {
+     "source": "WELT",
+     "region": "DE",
+     "weight": 0.8,
+     "title": "„Eine andere Politik ist möglich und eine andere Politik ist nötig“",
+     "summary": "Die Linke-Spitzenkandidatin Elif Eralp spricht auf dem Parteitag der Berliner Linken. Der Parteitag soll entscheiden ob die Partei eine Koalition mit Grünen und SPD eingehen möchte. Sehen Sie hier die Rede in voller Länge.",
+     "link": "https://www.welt.de/politik/deutschland/video6ae5c216aedea8cd9ffbf2e9/elif-eralp-eine-andere-politik-ist-moeglich-und-eine-andere-politik-ist-noetig.html",
+     "image": "https://images.welt.de/6ae5c216aedea8cd9ffbf2e9/4afc20ad02f4d86f78abf057752aaeb0/ci16x9-w1200/2026-10-31t103441z-391176524-rc2aeoac2jxe-rtrmadp-3-germany-politics-left-party-jpg",
+     "aggregator": false,
+     "published": "2026-10-31T10:38:46+00:00"
+    }
+   ]
+  },
+  {
+   "id": 18,
+   "score": 8.21,
+   "outlets": [
+    "Handelsblatt",
+    "WirtschaftsWoche",
+    "n-tv"
+   ],
+   "regions": [
+    "DE"
+   ],
+   "trend": [],
+   "newest": "2026-10-31T11:13:01+00:00",
+   "articles": [
+    {
+     "source": "Handelsblatt",
+     "region": "DE",
+     "weight": 0.9,
+     "title": "Umstrittener Justizumbau: Heftiger Machtkampf um Polens Verfassungsgericht entbrannt",
+     "summary": "Polens rechtskonservativer Präsident und die Mitte-Links-Regierung streiten um die Besetzung des Verfassungsgerichts. Demonstranten belagern das Gerichtsgebäude. Und die Fronten bleiben verhärtet.",
+     "link": "https://www.handelsblatt.com/politik/international/umstrittener-justizumbau-heftiger-machtkampf-um-polens-verfassungsgericht-entbrannt/100266276.html",
+     "image": "https://images.handelsblatt.com/noi48EUchdQO/cover/900/506/0/0/107/106/0.5/0.5/polizei-vor-dem-gebaeude-des-verfassungsgerichts-in-warschau.jpg",
+     "aggregator": false,
+     "published": "2026-10-31T11:13:01+00:00"
+    },
+    {
+     "source": "WirtschaftsWoche",
+     "region": "DE",
+     "weight": 0.85,
+     "title": "Umstrittener Justizumbau: Heftiger Machtkampf um Polens Verfassungsgericht entbrannt",
+     "summary": "Polens rechtskonservativer Präsident und die Mitte-Links-Regierung streiten um die Besetzung des Verfassungsgerichts. Demonstranten belagern das Gerichtsgebäude. Und die Fronten verhärten sich weiter.",
+     "link": "https://www.wiwo.de/politik/ausland/umstrittener-justizumbau-heftiger-machtkampf-um-polens-verfassungsgericht-entbrannt/100266328.html",
+     "image": "https://images.wiwo.de/Nqa8Ej2W4tYz/cover/900/506/0/0/313/312/0.5/0.5/dpatopbilder-31.10.2026-polen-warschau-die-polnische-polizei-rueckt-auf-dem-gelaende-des-polnisch.jpg",
+     "aggregator": false,
+     "published": "2026-10-31T10:53:42+00:00"
+    },
+    {
+     "source": "n-tv",
+     "region": "DE",
+     "weight": 0.8,
+     "title": "Eskalation am Verfassungsgericht: Polens Präsident Nawrocki bestellt alle Parteien zu Treffen ein",
+     "summary": "Der Streit um die Besetzung des Verfassungsgerichts löst in Polen eine Staatskrise aus. In der Nacht gibt es dramatische Szenen vor dem Gerichtsgebäude. Mitten drin: Präsident Nawrocki. Der will nun die Parteien an einen Tisch bringen.",
+     "link": "https://www.n-tv.de/politik/Polens-Praesident-Nawrocki-bestellt-alle-Parteien-zu-Treffen-ein-id31479312.html",
+     "image": "https://www.n-tv.de/img/31479284/1793442346/Img_4_3/250/image.jpg",
+     "aggregator": false,
+     "published": "2026-10-31T10:13:17+00:00"
+    }
+   ]
+  },
+  {
+   "id": 19,
+   "score": 7.97,
+   "outlets": [
+    "ORF",
+    "DER STANDARD",
+    "n-tv"
+   ],
+   "regions": [
+    "AT",
+    "DE"
+   ],
+   "trend": [],
+   "newest": "2026-10-31T10:12:52+00:00",
+   "articles": [
+    {
+     "source": "ORF",
+     "region": "AT",
+     "weight": 0.95,
+     "title": "Schon mehr als 5.000 Ebola-Tote in DR Kongo",
+     "summary": "",
+     "link": "https://orf.at/stories/3446663/",
+     "image": null,
+     "aggregator": false,
+     "published": "2026-10-31T06:45:13+00:00"
+    },
+    {
+     "source": "DER STANDARD",
+     "region": "AT",
+     "weight": 0.85,
+     "title": "Mittlerweile mehr als 5000 Ebola-Tote im Kongo",
+     "summary": "Laut Gesundheitsbehörden des zentralafrikanischen Landes erkrankten bislang 10.351 Menschen an dem Virus. Experten gehen von noch höheren tatsächlichen Zahlen aus",
+     "link": "https://www.derstandard.at/story/3000000346827/mittlerweile-mehr-als-5000-ebola-tote-im-kongo?ref=rss",
+     "image": "https://i.ds.at/shqHfA/rs:fill:150:0/plain/lido-images/2026/10/31/67482384-4328-4f41-8ba6-638ec70cd05e.jpg",
+     "aggregator": false,
+     "published": "2026-10-31T06:40:40+00:00"
+    },
+    {
+     "source": "n-tv",
+     "region": "DE",
+     "weight": 0.8,
+     "title": "Tückischer Bundibugyo-Erreger: Schon mehr als 5000 Ebola-Tote im Kongo",
+     "summary": "Im Kongo breitet sich Ebola rasant aus. Erst vor wenigen Tagen werden mehr als 10.000 Krankheitsfälle gemeldet, die Zahl der Toten überschreitet nun eine weitere Schwelle. Womöglich ist das wahre Ausmaß noch erschreckender.",
+     "link": "https://www.n-tv.de/panorama/Schon-mehr-als-5000-Ebola-Tote-im-Kongo-id31479193.html",
+     "image": "https://www.n-tv.de/img/31479205/1793441667/Img_4_3/250/image.jpg",
+     "aggregator": false,
+     "published": "2026-10-31T10:12:52+00:00"
+    }
+   ]
+  },
+  {
+   "id": 20,
+   "score": 7.85,
+   "outlets": [
+    "tagesschau",
+    "Deutschlandfunk"
+   ],
+   "regions": [
+    "DE"
+   ],
+   "trend": [],
+   "newest": "2026-10-31T13:45:21+00:00",
+   "articles": [
+    {
+     "source": "tagesschau",
+     "region": "DE",
+     "weight": 1.0,
+     "title": "Linkspartei: Eralp rechnet mit Zustimmung zu Koalitionsgesprächen",
+     "summary": "In Berlin läuft der Parteitag der Linkspartei. Fraktionschefin Eralp verteidigte das Sondierungspapier mit Grünen sowie SPD und warb für Koalitionsverhandlungen. Sie äußerte sich auch zur umstrittenen Abgeordneten Emde.",
+     "link": "https://www.tagesschau.de/inland/regional/berlin/berlin-linkspartei-eralp-koalitionsverhandlungen-100.html",
+     "image": "https://images.tagesschau.de/image/db85f170-eebb-4b23-b413-0aabf20d6c78/AAABoZI3row/AAABnSSvrFg/16x9-big/rbb-elif-eralp-parteitag-629439502-100.jpg?width=1920",
+     "aggregator": false,
+     "published": "2026-10-31T13:45:21+00:00"
+    },
+    {
+     "source": "Deutschlandfunk",
+     "region": "DE",
+     "weight": 0.95,
+     "title": "Berlin - Eralp wirbt um Zustimmung zu Koalition mit Grünen und SPD - Kritik an \"politischen Angriffen\"",
+     "summary": "Die Berliner Spitzenkandidatin der Linken, Eralp, hat auf einem Landesparteitag Zweifel an ihrer Regierungsfähigkeit zurückgewiesen.",
+     "link": "https://www.deutschlandfunk.de/eralp-wirbt-um-zustimmung-zu-koalition-mit-gruenen-und-spd-kritik-an-politischen-angriffen-100.html",
+     "image": "https://bilder.deutschlandfunk.de/b0/12/3c/ae/b0123cae-b002-473b-aec6-258143cd7622/linke-berlin-102-1920x1920.jpg",
+     "aggregator": false,
+     "published": "2026-10-31T13:05:55+00:00"
+    }
+   ]
+  },
+  {
+   "id": 21,
+   "score": 7.73,
+   "outlets": [
+    "tagesschau",
+    "Deutschlandfunk"
+   ],
+   "regions": [
+    "DE"
+   ],
+   "trend": [],
+   "newest": "2026-10-31T13:22:26+00:00",
+   "articles": [
+    {
+     "source": "tagesschau",
+     "region": "DE",
+     "weight": 1.0,
+     "title": "Palina Milling, ARD Warschau, zu Protesten um Verfassungsgericht",
+     "summary": "Palina Milling, ARD Warschau, zu Protesten um Verfassungsgericht",
+     "link": "https://www.tagesschau.de/video/video-1675706.html",
+     "image": "https://images.tagesschau.de/image/d6ac3819-ea3e-4cdf-b206-55534bb19036/AAABoZIgJwg/AAABnSSvrFg/16x9-big/sendungsbild-1820156.jpg?width=1920",
+     "aggregator": false,
+     "published": "2026-10-31T13:22:26+00:00"
+    },
+    {
+     "source": "Deutschlandfunk",
+     "region": "DE",
+     "weight": 0.95,
+     "title": "Justiz - Machtkampf um Polens Verfassungsgericht entbrannt - drei Festnahmen bei Protesten in Warschau",
+     "summary": "In Polen sind bei den Protesten gegen die Absetzung der Spitze des Verfassungsgerichts nach Angaben der Polizei drei Menschen festgenommen worden.",
+     "link": "https://www.deutschlandfunk.de/machtkampf-um-polens-verfassungsgericht-entbrannt-drei-festnahmen-bei-protesten-in-warschau-100.html",
+     "image": "https://bilder.deutschlandfunk.de/5c/78/5b/38/5c785b38-1648-4601-afe1-8cf17a7e3412/polen-verfassungsgericht-100-1920x1920.jpg",
+     "aggregator": false,
+     "published": "2026-10-31T13:05:55+00:00"
+    }
+   ]
+  },
+  {
+   "id": 22,
+   "score": 7.67,
+   "outlets": [
+    "tagesschau",
+    "ZDFheute"
+   ],
+   "regions": [
+    "DE"
+   ],
+   "trend": [],
+   "newest": "2026-10-31T12:55:00+00:00",
+   "articles": [
+    {
+     "source": "tagesschau",
+     "region": "DE",
+     "weight": 1.0,
+     "title": "\"Viel Unterstützung durch Bundeslinke\", Andreas König, RBB, zum Parteitag der Berliner Linke",
+     "summary": "\"Viel Unterstützung durch Bundeslinke\", Andreas König, RBB, zum Parteitag der Berliner Linke",
+     "link": "https://www.tagesschau.de/video/video-1675684.html",
+     "image": "https://images.tagesschau.de/image/26c735f4-c628-4334-9b9c-d7fe6b57a032/AAABoZIG6qw/AAABnSSvrFg/16x9-big/sendungsbild-1820136.jpg?width=1920",
+     "aggregator": false,
+     "published": "2026-10-31T12:55:00+00:00"
+    },
+    {
+     "source": "tagesschau",
+     "region": "DE",
+     "weight": 1.0,
+     "title": "Die Linke in Berlin: Aus dem Trubel in die Koalition?",
+     "summary": "Die Berliner Linke entscheidet heute über den Start von Koalitionsverhandlungen mit SPD und Grünen. Überschattet wird der Parteitag von Antisemitismusvorwürfen und einem Spiegel-Bericht. Von Frank Aischmann.",
+     "link": "https://www.tagesschau.de/inland/innenpolitik/linke-berlin-parteitag-eralp-100.html",
+     "image": "https://images.tagesschau.de/image/ea37117d-67ad-42b4-ae9c-271f9952c93e/AAABoZDpn_w/AAABnSSvrFg/16x9-big/linke-berlin-114.jpg?width=1920",
+     "aggregator": false,
+     "published": "2026-10-31T07:43:12+00:00"
+    },
+    {
+     "source": "tagesschau Inland",
+     "region": "DE",
+     "weight": 1.0,
+     "title": "Die Linke in Berlin: Aus dem Trubel in die Koalition?",
+     "summary": "Die Berliner Linke entscheidet heute über den Start von Koalitionsverhandlungen mit SPD und Grünen. Überschattet wird der Parteitag von Antisemitismusvorwürfen und einem Spiegel-Bericht. Von Frank Aischmann.",
+     "link": "https://www.tagesschau.de/inland/innenpolitik/linke-berlin-parteitag-eralp-100.html",
+     "image": "https://images.tagesschau.de/image/ea37117d-67ad-42b4-ae9c-271f9952c93e/AAABoZDpn_w/AAABnSSvrFg/16x9-big/linke-berlin-114.jpg?width=1920",
+     "aggregator": false,
+     "published": "2026-10-31T07:43:12+00:00"
+    },
+    {
+     "source": "ZDFheute",
+     "region": "DE",
+     "weight": 1.0,
+     "title": "Elif Eralp gibt \"Schutzversprechen\" für Berliner ab",
+     "summary": "Elif Eralp hält beim Parteitag der Berliner Linke eine kämpferische Rede. Die Linke will dort auch über die Aufnahme von Koalitionsgesprächen mit Grünen und SPD entscheiden.",
+     "link": "https://www.zdfheute.de/politik/deutschland/berlin-linke-gruene-spd-koalitionsverhandlungen-wahl-100.html",
+     "image": "https://www.zdfheute.de/assets/elif-eralp-linke-102~384x216?cb=1790377248241",
+     "aggregator": false,
+     "published": "2026-10-31T11:51:00+00:00"
+    }
+   ]
+  },
+  {
+   "id": 23,
+   "score": 7.64,
+   "outlets": [
+    "tagesschau",
+    "Deutschlandfunk"
+   ],
+   "regions": [
+    "DE"
+   ],
+   "trend": [],
+   "newest": "2026-10-31T13:05:55+00:00",
+   "articles": [
+    {
+     "source": "tagesschau",
+     "region": "DE",
+     "weight": 1.0,
+     "title": "Traumtor Campbell - Elversberg überrumpelt Mainz",
+     "summary": "Die SV Elversberg überrascht weiter in der Fußball-Bundesliga: Schon in der ersten Halbzeit konnte sich der Aufsteiger eine deutliche Führung gegen den 1. FSV Mainz 05 erspielen.",
+     "link": "https://www.sportschau.de/fussball/bundesliga/elversberg-ueberrumpelt-mainz,spielbericht-sv-elversberg-mainz-05-100.html",
+     "image": "https://images.sportschau.de/image/ce1e6d3b-5e4d-4a8c-9699-2e9cc19ac635/AAABoY68NBk/AAABnSSvrFg/16x9-big/elversberg-mainz-114.jpg?width=1920",
+     "aggregator": false,
+     "published": "2026-10-30T21:37:30+00:00"
+    },
+    {
+     "source": "Deutschlandfunk",
+     "region": "DE",
+     "weight": 0.95,
+     "title": "Fußball-Bundesliga - Elversberg gewinnt gegen Mainz",
+     "summary": "Im Freitagsspiel der Fußball-Bundesliga hat Elversberg gegen Mainz mit 4:1 gewonnen. Damit rückte der Aufsteiger aus dem Saarland vorläufig auf Platz fünf vor. Mainz fiel auf Rang acht zurück.",
+     "link": "https://www.deutschlandfunk.de/elversberg-gewinnt-gegen-mainz-110.html",
+     "image": "https://bilder.deutschlandfunk.de/a8/97/08/97/a8970897-7306-468c-ad43-49b27e7e89b3/sv-elversberg-102-1920x1920.jpg",
+     "aggregator": false,
+     "published": "2026-10-31T13:05:55+00:00"
+    }
+   ]
+  },
+  {
+   "id": 24,
+   "score": 7.64,
+   "outlets": [
+    "ZDFheute",
+    "Deutschlandfunk"
+   ],
+   "regions": [
+    "DE"
+   ],
+   "trend": [],
+   "newest": "2026-10-31T13:05:55+00:00",
+   "articles": [
+    {
+     "source": "ZDFheute",
+     "region": "DE",
+     "weight": 1.0,
+     "title": "Klimaexperte: Stromsteuersenkung wäre \"richtiger Schritt\"",
+     "summary": "Gegen die Energiepreiskrise sieht Chefökonom Ottmar Edenhofer vor allem die Senkung der Stromsteuer als gutes Mittel. Statt des Tankrabatts spricht er sich für ein Klimageld aus.",
+     "link": "https://www.zdfheute.de/politik/deutschland/stromsteuer-tankrabatt-klimageld-klimaexperte-100.html",
+     "image": "https://www.zdfheute.de/assets/stromsteuer-typical-100~384x216?cb=1793445414485",
+     "aggregator": false,
+     "published": "2026-10-31T12:19:00+00:00"
+    },
+    {
+     "source": "Deutschlandfunk",
+     "region": "DE",
+     "weight": 0.95,
+     "title": "Interview der Woche - Sozialer Ausgleich für Klimaschutzkosten: Ökonom Edenhofer fordert Klimageld und Absenkung der Stromsteuer statt Tankrabatt",
+     "summary": "Der Klimaökonom Ottmar Edenhofer hat den Tankrabatt der Bundesregierung kritisiert und gleichzeitig eine Absenkung der Stromsteuer in Deutschland gefordert. Das sei ein richtiger Schritt, sagte der Direktor des Potsdam Instituts für Klimafolgenforschung im Interview der Woche des Deutschlandfunks.",
+     "link": "https://www.deutschlandfunk.de/sozialer-ausgleich-fuer-klimaschutzkosten-oekonom-edenhofer-fordert-klimageld-und-absenkung-der-stro-100.html",
+     "image": "https://bilder.deutschlandfunk.de/a7/3c/07/78/a73c0778-17cc-4ad5-a9d5-dc2f5592399c/ottmar-edenhofer-102-1920x1920.jpg",
+     "aggregator": false,
+     "published": "2026-10-31T13:05:55+00:00"
+    }
+   ]
+  },
+  {
+   "id": 25,
+   "score": 7.64,
+   "outlets": [
+    "ZDFheute",
+    "Deutschlandfunk"
+   ],
+   "regions": [
+    "DE"
+   ],
+   "trend": [],
+   "newest": "2026-10-31T13:05:55+00:00",
+   "articles": [
+    {
+     "source": "ZDFheute",
+     "region": "DE",
+     "weight": 1.0,
+     "title": "USA liefern Patriot-Raketen an Kiew",
+     "summary": "Washington genehmigt den Verkauf von 500 Patriot-Flugabwehrraketen an die Ukraine. Der ukrainische Präsident Selenskyj drängt auf eine schnelle Lieferung noch für den Winter.",
+     "link": "https://www.zdfheute.de/politik/ausland/usa-patriot-lieferung-ukraine-krieg-russland-100.html",
+     "image": "https://www.zdfheute.de/assets/selenskyj-patriot-raketen-100~384x216?cb=1793418079237",
+     "aggregator": false,
+     "published": "2026-10-31T03:45:00+00:00"
+    },
+    {
+     "source": "Deutschlandfunk",
+     "region": "DE",
+     "weight": 0.95,
+     "title": "Abfangraketen - Selenskyj dringt auf schnellere Lieferung von Patriot-Systemen",
+     "summary": "Der ukrainische Präsident Selenskyj hat sich bei den USA für die Genehmigung für den Verkauf weiterer Raketen-Abfangsysteme bedankt.",
+     "link": "https://www.deutschlandfunk.de/selenskyj-dringt-auf-schnellere-lieferung-von-patriot-systemen-100.html",
+     "image": "https://bilder.deutschlandfunk.de/de/c5/9c/a5/dec59ca5-627d-4fd3-8c67-f65b690ded46/ukraine-patriot-raketen-100-1920x1920.jpg",
+     "aggregator": false,
+     "published": "2026-10-31T13:05:55+00:00"
+    },
+    {
+     "source": "Deutschlandfunk",
+     "region": "DE",
+     "weight": 0.95,
+     "title": "Abfangraketen - US-Regierung genehmigt Patriot-Verkauf an Ukraine",
+     "summary": "Die US-Regierung hat den Verkauf von 500 Patriot-Abfangraketen an die Ukraine genehmigt.",
+     "link": "https://www.deutschlandfunk.de/us-regierung-genehmigt-patriot-verkauf-an-ukraine-108.html",
+     "image": "https://bilder.deutschlandfunk.de/de/c5/9c/a5/dec59ca5-627d-4fd3-8c67-f65b690ded46/ukraine-patriot-raketen-100-1920x1920.jpg",
+     "aggregator": false,
+     "published": "2026-10-31T13:05:55+00:00"
+    }
+   ]
+  },
+  {
+   "id": 26,
+   "score": 7.64,
+   "outlets": [
+    "ZDFheute",
+    "Deutschlandfunk"
+   ],
+   "regions": [
+    "DE"
+   ],
+   "trend": [],
+   "newest": "2026-10-31T13:05:55+00:00",
+   "articles": [
+    {
+     "source": "ZDFheute",
+     "region": "DE",
+     "weight": 1.0,
+     "title": "Pressekonferenz Lee Jae Myung und Friedrich Merz in Seoul",
+     "summary": "Pressekonferenz mit Lee Jae Myung (Präsident Südkorea) und Friedrich Merz (CDU, Bundeskanzler)",
+     "link": "https://www.phoenix.de/php/mediaplayer/vod_embed.php?cmsid=5243626",
+     "image": "https://www.zdfheute.de/assets/teaser-phoenix-pressekonferenz-lee-jae-myung-und-friedrich-merz-in-seoul-5243626-100~384x216?cb=1793281967468",
+     "aggregator": false,
+     "published": "2026-10-29T13:40:00+00:00"
+    },
+    {
+     "source": "ZDFheute",
+     "region": "DE",
+     "weight": 1.0,
+     "title": "Zwischenbilanz Asienreise: \"Deutschland wird als ein ganz wichtiger Partner angesehen\"",
+     "summary": "Pressekonferenz von Bundeskanzler Friedrich Merz in Tokio nach gemeinsamen Gesprächen mit der japanischen Premierministerin Sanae Takaichi",
+     "link": "https://www.phoenix.de/php/mediaplayer/vod_embed.php?cmsid=5243435",
+     "image": "https://www.zdfheute.de/assets/teaser-phoenix-zwischenbilanz-asienreise-deutschland-wird-als-ein-ganz-wichtiger-partner-angesehen-5243435-100~384x216?cb=1793195601904",
+     "aggregator": false,
+     "published": "2026-10-28T13:29:00+00:00"
+    },
+    {
+     "source": "ZDFheute",
+     "region": "DE",
+     "weight": 1.0,
+     "title": "Deutsch-japanischer Wirtschaftsgipfel: \"Globale politische Allianz für regelgebundenen Handel\"",
+     "summary": "Pressebegegnung von Bundeskanzler Friedrich Merz (CDU) und Sanae Takaichi, Premierministerin Japan",
+     "link": "https://www.phoenix.de/merz-in-asien-a-5243284.html",
+     "image": "https://www.zdfheute.de/assets/teaser-phoenix-deutsch-japanischer-wirtschaftsgipfel-globale-politische-allianz-fuer-regelgebundenen-handel-5243478-100~384x216?cb=1793198569003",
+     "aggregator": false,
+     "published": "2026-10-28T12:43:00+00:00"
+    },
+    {
+     "source": "ZDFheute",
+     "region": "DE",
+     "weight": 1.0,
+     "title": "Vor Merz-Rede: Zwischenfazit zum CSU-Parteitags mit Alexander Kain und Sara Sievert",
+     "summary": "Vor Auftritt des Bundeskanzlers Friedrich Merz (CDU) auf dem CSU-Parteitags: phoenix-Reporter Gerd-Joachim von Fallois spricht mit Alexander Kain (stellv. Chefredakteur Mediengruppe Bayern) und Sara Sievert (stellv. Redaktionsleiterin Table Briefings).",
+     "link": "https://www.phoenix.de/sendungen/ereignisse/phoenix-vor-ort/ua-csu-parteitag-live-a-5241747.html",
+     "image": "https://www.zdfheute.de/assets/teaser-phoenix-vor-merz-rede-zwischenfazit-zum-csu-parteitags-mit-alexander-kain-und-sara-sievert-5242629-100~384x216?cb=1792839765720",
+     "aggregator": false,
+     "published": "2026-10-24T10:36:00+00:00"
+    },
+    {
+     "source": "ZDFheute",
+     "region": "DE",
+     "weight": 1.0,
+     "title": "EU-Beitritt: \"Montenegro ist auf dem besten Weg, andere werden folgen\"",
+     "summary": "Stetement von Bundeskanzler Friedrich Merz zum Auftakt des Westbalkangipfels in Sveti Stefan, Montenegro",
+     "link": "https://www.phoenix.de/westbalkan-gipfel-a-5241606.html",
+     "image": "https://www.zdfheute.de/assets/teaser-phoenix-eu-beitritt-montenegro-ist-auf-dem-besten-weg-andere-werden-folgen-5241721-100~384x216?cb=1792684862693",
+     "aggregator": false,
+     "published": "2026-10-22T15:03:00+00:00"
+    },
+    {
+     "source": "Deutschlandfunk",
+     "region": "DE",
+     "weight": 0.95,
+     "title": "Asien-Reise beendet - Merz betont Bedeutung der Handelsbeziehungen zu Singapur, Japan und Südkorea",
+     "summary": "Bundeskanzler Merz hat zum Abschluss seiner Asien-Reise nach Singapur, Japan und Südkorea die Bedeutung der Handelsbeziehungen zu den drei Ländern hervorgehoben.",
+     "link": "https://www.deutschlandfunk.de/merz-betont-bedeutung-der-handelsbeziehungen-zu-singapur-japan-und-suedkorea-102.html",
+     "image": "https://bilder.deutschlandfunk.de/08/54/f6/d6/0854f6d6-3543-4c3f-9cd6-1662191d823a/bundeskanzler-merz-asienreise-suedkorea-100-1920x1920.jpg",
+     "aggregator": false,
+     "published": "2026-10-31T13:05:55+00:00"
+    }
+   ]
+  },
+  {
+   "id": 27,
+   "score": 7.55,
+   "outlets": [
+    "ZEIT ONLINE",
+    "Handelsblatt"
+   ],
+   "regions": [
+    "DE"
+   ],
+   "trend": [],
+   "newest": "2026-10-31T13:44:34+00:00",
+   "articles": [
+    {
+     "source": "ZEIT ONLINE",
+     "region": "DE",
+     "weight": 0.9,
+     "title": "Jugendproteste: Proteste der Gen Z in München und Nürnberg laufen an",
+     "summary": "",
+     "link": "https://www.zeit.de/news/2026-10/31/gen-z-protestiert-junge-freie-waehler-warnen-vor-vorurteilen",
+     "image": "https://img.zeit.de/news/2026-10/31/gen-z-protestiert-junge-freie-waehler-warnen-vor-vorurteilen-image-group/original__640x360",
+     "aggregator": false,
+     "published": "2026-10-31T13:44:34+00:00"
+    },
+    {
+     "source": "Handelsblatt",
+     "region": "DE",
+     "weight": 0.9,
+     "title": "Jugendproteste: Jugendforscher über Proteste der Gen Z: „Sauer sein allein reicht nicht“",
+     "summary": "Auch hierzulande rufen Vertreter der Gen Z nun zu Protesten auf. Der Generationenforscher Simon Schnetzer erklärt, was junge Menschen so wütend macht – und was der Protestbewegung fehlt.",
+     "link": "https://www.handelsblatt.com/politik/deutschland/jugendproteste-wird-die-gen-z-immer-radikaler/100265361.html",
+     "image": "https://images.handelsblatt.com/vDSGFyN1yvMf/cover/900/506/0/0/268/357/0.5/0.5/marseille-france-street-protests-a-costumed-demonstrator-stands-amid-smoke-during-a-protest-in-marse.jpg",
+     "aggregator": false,
+     "published": "2026-10-31T08:19:00+00:00"
+    }
+   ]
+  }
+ ]
+}
