@@ -26,6 +26,26 @@ Output: `queue/<date>_<slot>/plan.json` (schema below). Then run
 3. Commit + push, then `gh api -X POST …/comments.yml/dispatches -f ref=main -f 'inputs[mode]=post'` and wait for it.
    If the inbox is empty, skip 2–3.
 
+## Algorithm rules (YouTube Shorts + Facebook Reels) – follow every time
+Both platforms test each video on a small seed audience first and only widen reach if those viewers
+watch instead of swiping, watch to the end, and interact. Meta additionally ranks originality and asks viewers
+whether content matches their interests. So:
+1. **First 1–2 seconds decide everything (viewed vs. swiped away).** `hook_voice` (max 9 words) is spoken first:
+   the strongest keyword/number + why it matters, e.g. "Inflation sinkt auf zwei Komma acht Prozent – die Schlagzeilen."
+   No greeting, no channel intro before the news.
+2. **Retention / completion:** every sentence must carry new information; no filler words; strongest story first,
+   but keep a strong story for the end too (people who stay to the end = loop/replay signal).
+3. **Satisfaction, not clickbait:** title, hook and thumbnail must be exactly what the video delivers – disappointed
+   viewers swipe and lower future reach for the whole channel.
+4. **Originality (Meta):** always our own wording, our own graphics and voice; never copy a headline verbatim
+   from a source – rewrite it in our style.
+5. **Relevance to the target audience:** DACH viewers first – explain the impact on people in Germany/Austria/Switzerland
+   ("für Mieter", "für Autofahrer") whenever the sources support it.
+6. **Engagement:** `comment_question` must be easy to answer (yes/no or A/B) to trigger comments; every comment gets a reply.
+7. **Learn from data:** read `state/performance.md` (best videos first) before writing. Repeat what works (topics,
+   hook types, title patterns of the top videos), avoid what underperforms – but never repeat a title.
+8. **Consistency:** the schedule (4 per day, fixed times, ≥4 h apart) stays – never post extra videos.
+
 ## Thumbnail = first impression (the system renders it from your fields)
 - Story 1 must be the strongest story **with good photos** (it provides the thumbnail photo and the hook).
 - `hook_text`: 2–4 words, the keyword first, a concrete fact that creates curiosity but is true
@@ -81,6 +101,7 @@ Re-read your draft as the final editor ("Schlussredakteur"):
     }
   ],
   "hook_text": "Rentenpaket beschlossen",
+  "hook_voice": "Rentenpaket beschlossen – die Schlagzeilen am Morgen.",
   "youtube_title": "Rentenpaket beschlossen: Was sich jetzt für Millionen ändert",
   "description_lead": "…",
   "tags": ["Bundestag", "Rentenpaket", "…"],

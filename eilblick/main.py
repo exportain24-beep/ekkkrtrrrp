@@ -99,7 +99,8 @@ def build_timeline(plan, slot, slot_time, intro_seg, segs, photos, stories) -> t
 
 def make_video(plan, slot, slot_time, stories, photos, offline_voice=False) -> tuple[Path, Timeline]:
     cfg = settings()
-    intro_text = f"Eilblick. Die Schlagzeilen {slot['label']}."
+    # Algorithm: the keyword must be heard in the first second (viewed-vs-swiped is decided there)
+    intro_text = (plan.get("hook_voice") or "").strip() or f"{plan.get('hook_text', '')}. Eilblick {slot['label']}."
     texts = [intro_text] + [s["voice"] for s in plan["stories"]]
     log("• Voice-over (ElevenLabs)…" if not offline_voice else "• Voice-over (offline stand-in)…")
     segs = tts.voice_all(texts, offline=offline_voice)
@@ -477,7 +478,50 @@ def cmd_comments_fetch() -> int:
         json.dumps({"fetched": datetime.now(timezone.utc).isoformat(), "errors": errs, "comments": inbox},
                    ensure_ascii=False, indent=1), encoding="utf-8")
     log(f"{len(inbox)} unanswered comments" + (f"; errors: {errs}" if errs else ""))
+    try:
+        performance_report()
+    except Exception as e:
+        log(f"  performance report skipped: {e}")
     return 0
+
+
+def performance_report() -> None:
+    """Views/likes/comments of recent videos → state/performance.md, so the news desk
+    learns which topics, hooks and titles the algorithm and the audience reward."""
+    import requests
+    runs = [r for r in state.load()["runs"] if r.get("youtube_id")][-40:]
+    if not runs:
+        return
+    from . import upload_facebook as FB
+    from . import upload_youtube as YT
+    stats = {}
+    try:
+        ids = ",".join(r["youtube_id"] for r in runs)
+        js = requests.get("https://www.googleapis.com/youtube/v3/videos", params={"part": "statistics", "id": ids},
+                          headers={"Authorization": f"Bearer {YT._tok()}"}, timeout=30).json()
+        stats = {i["id"]: i["statistics"] for i in js.get("items", [])}
+    except Exception as e:
+        log(f"  yt stats: {e}")
+    rows = []
+    for r in runs:
+        st = stats.get(r["youtube_id"], {})
+        fbv = ""
+        try:
+            ins = requests.get(f"{FB._g()}/{r['facebook_id']}/video_insights",
+                               params=FB._auth(FB.page_token()), timeout=20).json().get("data", [])
+            m = {x.get("name"): (x.get("values") or [{}])[0].get("value") for x in ins}
+            fbv = m.get("blue_reels_play_count") or m.get("fb_reels_total_plays") or m.get("total_video_views") or ""
+        except Exception:
+            pass
+        rows.append((int(st.get("viewCount", 0) or 0), r, st, fbv))
+    rows.sort(key=lambda x: -x[0])
+    lines = ["| YT views | likes | comments | FB plays | slot | title | story 1 |", "|---|---|---|---|---|---|---|"]
+    for v, r, st, fbv in rows:
+        lines.append(f"| {v} | {st.get('likeCount', '')} | {st.get('commentCount', '')} | {fbv} | {r['date']} {r['slot']} "
+                     f"| {r.get('title', '')} | {(r.get('stories') or [{}])[0].get('headline', '')} |")
+    (state.STATE_DIR / "performance.md").write_text(
+        f"# Performance (best first) – {datetime.now(timezone.utc):%Y-%m-%d %H:%M} UTC\n\n" + "\n".join(lines) + "\n",
+        encoding="utf-8")
 
 
 def cmd_comments_post() -> int:

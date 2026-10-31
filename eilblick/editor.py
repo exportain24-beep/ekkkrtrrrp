@@ -53,6 +53,9 @@ def validate(plan: dict, n_candidates: int) -> list[str]:
             errs.append(f"missing field: {f}")
     if len(plan.get("youtube_title", "")) > 95:
         errs.append("youtube_title too long (max ~65 recommended, hard 95)")
+    hv = plan.get("hook_voice", "")
+    if hv and len(hv.split()) > 9:
+        errs.append("hook_voice: max 9 words (must be spoken within ~2 seconds)")
     if not (8 <= len(plan.get("tags", [])) <= 20):
         errs.append("tags: give 12–15")
     return errs
