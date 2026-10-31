@@ -1,0 +1,56 @@
+{
+  "stories": [
+    {
+      "candidate_id": 0,
+      "pillar": "POLITIK",
+      "region": "DE",
+      "kicker": "ATLANTA",
+      "headline": "G20: Europäer boykottieren Lawrow-Foto",
+      "highlight": ["Lawrow-Foto"],
+      "voice": "G20-Treffen in Atlanta: Die Europäer, auch Außenminister Johann Wadephul, haben das übliche Familienfoto mit Russlands Außenminister Sergej Lawrow verweigert – ein Signal an Moskau.",
+      "subline": "EU-Außenbeauftragte Kallas wirft Lawrow „viele Lügen“ vor",
+      "entities": ["Johann Wadephul", "Sergej Lawrow", "Kaja Kallas"]
+    },
+    {
+      "candidate_id": 2,
+      "pillar": "POLITIK",
+      "region": "EU",
+      "kicker": "MONTREAL",
+      "headline": "EU und Kanada gründen Zukunftsallianz",
+      "highlight": ["Kanada"],
+      "voice": "Die EU und Kanada haben in Montreal eine „Allianz für die Zukunft“ gegründet: mehr Unabhängigkeit und engere Zusammenarbeit von Künstlicher Intelligenz bis Raumfahrt.",
+      "subline": "Von der Leyen wirbt erneut für eine Sondermitgliedschaft Kanadas",
+      "entities": ["Ursula von der Leyen", "Mark Carney"]
+    },
+    {
+      "candidate_id": 3,
+      "pillar": "POLITIK",
+      "region": "EU",
+      "kicker": "WARSCHAU",
+      "headline": "Polen: Streit um Verfassungsgericht",
+      "highlight": ["Verfassungsgericht"],
+      "voice": "Polens Machtkampf um das Verfassungsgericht eskaliert: Die Polizei hat das Gebäude in Warschau abgeriegelt, Präsident Karol Nawrocki brach eine Auslandsreise ab.",
+      "subline": "Konservative sprechen von einem „Staatsstreich“",
+      "entities": ["Karol Nawrocki", "Warschau"]
+    },
+    {
+      "candidate_id": 14,
+      "pillar": "WIRTSCHAFT",
+      "region": "DE",
+      "kicker": "AUTOINDUSTRIE",
+      "headline": "Audi: Gewinn bricht um 87 Prozent ein",
+      "highlight": ["Audi"],
+      "voice": "Audi rutscht tiefer in die Krise: Der Gewinn des Autobauers ist im dritten Quartal um siebenundachtzig Prozent eingebrochen, unter anderem wegen des schwachen China-Geschäfts.",
+      "subline": "Konzernchef Gernot Döllner steht unter Druck",
+      "entities": ["Audi", "Gernot Döllner"]
+    }
+  ],
+  "hook_text": "G20: Eklat um Lawrow",
+  "youtube_title": "G20-Eklat in Atlanta: Warum Europa das Foto mit Lawrow verweigert",
+  "description_lead": "Beim G20-Treffen in Atlanta verweigern die Europäer um Außenminister Johann Wadephul das Familienfoto mit Sergej Lawrow, Kaja Kallas wirft ihm Lügen vor. Außerdem: EU und Kanada gründen in Montreal eine Allianz für die Zukunft, in Polen eskaliert unter Präsident Karol Nawrocki der Streit um das Verfassungsgericht, und bei Audi bricht der Gewinn um 87 Prozent ein.",
+  "tags": ["G20", "Sergej Lawrow", "Johann Wadephul", "Kaja Kallas", "Atlanta", "Ursula von der Leyen", "Kanada", "Montreal", "Karol Nawrocki", "Polen", "Verfassungsgericht", "Audi", "Autoindustrie", "Russland", "Außenpolitik"],
+  "hashtags": ["#g20", "#polen", "#audi"],
+  "facebook_caption_line1": "Eklat beim G20-Treffen: Europäer verweigern Familienfoto mit Lawrow",
+  "facebook_question": "Ist ein Foto-Boykott ein wirksames Signal an Moskau – oder reine Symbolpolitik?",
+  "comment_question": "Richtig oder falsch: Sollten Europas Außenminister bei G20 auf Distanz zu Lawrow gehen?"
+}
