@@ -68,11 +68,49 @@
    ],
    "comment": {
     "text": "Ist die Feuerpause für Oleschky ein erster Schritt zu mehr – oder nur eine Ausnahme?",
-    "done": false
+    "done": true,
+    "yt": "UgzSkouD3E9tnunwQkN4AaABAg",
+    "fb": "2232902390909160_2138863883666779"
    },
    "youtube_id": "-7Jt58xm6jk",
    "facebook_id": "2232902390909160",
    "created": "2026-10-30T18:18:51.719827+00:00"
+  },
+  {
+   "date": "2026-10-31",
+   "slot": "morgen",
+   "publish_at": "2026-10-31T06:00:00+00:00",
+   "title": "G20-Eklat in Atlanta: Warum Europa das Foto mit Lawrow verweigert",
+   "duration": 49.7,
+   "stories": [
+    {
+     "headline": "G20: Europäer boykottieren Lawrow-Foto",
+     "region": "DE",
+     "pillar": "POLITIK"
+    },
+    {
+     "headline": "EU und Kanada gründen Zukunftsallianz",
+     "region": "EU",
+     "pillar": "POLITIK"
+    },
+    {
+     "headline": "Polen: Streit um Verfassungsgericht",
+     "region": "EU",
+     "pillar": "POLITIK"
+    },
+    {
+     "headline": "Audi: Gewinn bricht um 87 Prozent ein",
+     "region": "DE",
+     "pillar": "WIRTSCHAFT"
+    }
+   ],
+   "comment": {
+    "text": "Richtig oder falsch: Sollten Europas Außenminister bei G20 auf Distanz zu Lawrow gehen?",
+    "done": false
+   },
+   "youtube_id": "TnhmMEDG630",
+   "facebook_id": "1163890449301990",
+   "created": "2026-10-31T04:29:30.409556+00:00"
   }
  ]
 }
