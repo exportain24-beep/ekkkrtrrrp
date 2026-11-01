@@ -265,6 +265,42 @@
    "youtube_id": "yCVjywVItNg",
    "facebook_id": "1431447925776881",
    "created": "2026-11-01T04:29:05.669988+00:00"
+  },
+  {
+   "date": "2026-11-01",
+   "slot": "mittag",
+   "publish_at": "2026-11-01T11:00:00+00:00",
+   "title": "Kramp-Karrenbauer warnt vor AfD und Linken an der Macht ⚠️",
+   "duration": 49.7,
+   "stories": [
+    {
+     "headline": "AKK warnt vor AfD und Linken",
+     "region": "DE",
+     "pillar": "POLITIK"
+    },
+    {
+     "headline": "Frankreich: 320.000 gegen hohe Preise",
+     "region": "EU",
+     "pillar": "WIRTSCHAFT"
+    },
+    {
+     "headline": "Rheinmetall-Brand: Bekennerschreiben",
+     "region": "DE",
+     "pillar": "WIRTSCHAFT"
+    },
+    {
+     "headline": "Trump: Bolsonaro darf in USA bleiben",
+     "region": "INT",
+     "pillar": "WELT"
+    }
+   ],
+   "comment": {
+    "text": "Teilen Sie die Warnung von Kramp-Karrenbauer vor AfD und Linken – ja oder nein?",
+    "done": false
+   },
+   "youtube_id": "Z7_4PLI5d98",
+   "facebook_id": "1078145451721369",
+   "created": "2026-11-01T09:38:59.178353+00:00"
   }
  ]
 }
