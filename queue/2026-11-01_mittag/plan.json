@@ -1,0 +1,57 @@
+{
+  "stories": [
+    {
+      "candidate_id": 9,
+      "pillar": "POLITIK",
+      "region": "DE",
+      "kicker": "BERLIN",
+      "headline": "AKK warnt vor AfD und Linken",
+      "highlight": ["AKK"],
+      "voice": "Annegret Kramp-Karrenbauer warnt vor einer AfD-Regierung in Sachsen-Anhalt und einer Linken-Regierung in Berlin. Beides würde laut der früheren CDU-Chefin das Leben vieler Menschen verändern.",
+      "subline": "Linke gewann in Berlin, AfD in Sachsen-Anhalt",
+      "entities": ["Annegret Kramp-Karrenbauer", "CDU", "AfD", "Die Linke"]
+    },
+    {
+      "candidate_id": 27,
+      "pillar": "WIRTSCHAFT",
+      "region": "EU",
+      "kicker": "FRANKREICH",
+      "headline": "Frankreich: 320.000 gegen hohe Preise",
+      "highlight": ["320.000"],
+      "voice": "Frankreich erlebt den dritten Samstag in Folge Massenproteste gegen hohe Lebenshaltungskosten und Missstände in der Bildung. Laut Innenministerium demonstrierten dreihundertzwanzigtausend Menschen.",
+      "subline": "Dritter Protest-Samstag gegen Lebenshaltungskosten",
+      "entities": ["Frankreich", "Demonstration Frankreich"]
+    },
+    {
+      "candidate_id": 21,
+      "pillar": "WIRTSCHAFT",
+      "region": "DE",
+      "kicker": "KASSEL",
+      "headline": "Rheinmetall-Brand: Bekennerschreiben",
+      "highlight": ["Rheinmetall"],
+      "voice": "Rheinmetall: Auf einer Baustelle des Rüstungskonzerns am Flughafen Kassel-Calden hat es gebrannt, die Polizei geht von Brandstiftung aus. Der Staatsschutz prüft ein mutmaßliches Bekennerschreiben.",
+      "subline": "Staatsschutz ermittelt nach Feuer am Flughafen Kassel-Calden",
+      "entities": ["Rheinmetall", "Flughafen Kassel-Calden"]
+    },
+    {
+      "candidate_id": 1,
+      "pillar": "WELT",
+      "region": "INT",
+      "kicker": "WASHINGTON",
+      "headline": "Trump: Bolsonaro darf in USA bleiben",
+      "highlight": ["Bolsonaro"],
+      "voice": "Donald Trump lässt Brasiliens Wahlverlierer Flávio Bolsonaro unbegrenzt in den USA bleiben. Die Wahl in Brasilien nannte der US-Präsident eine Schande.",
+      "subline": "Sohn von Ex-Präsident Jair Bolsonaro floh nach Wahlniederlage",
+      "entities": ["Donald Trump", "Flávio Bolsonaro"]
+    }
+  ],
+  "hook_text": "AKK warnt: AfD und Linke",
+  "hook_voice": "Kramp-Karrenbauer warnt vor AfD und Linken – die Mittagsnachrichten.",
+  "youtube_title": "Kramp-Karrenbauer warnt vor AfD und Linken an der Macht ⚠️",
+  "description_lead": "Annegret Kramp-Karrenbauer warnt vor Regierungen der AfD in Sachsen-Anhalt und der Linken in Berlin. Außerdem: 320.000 Demonstranten in Frankreich, ein Bekennerschreiben nach dem Brand bei Rheinmetall in Kassel-Calden und Donald Trumps Bleibe-Zusage für Flávio Bolsonaro.",
+  "tags": ["Annegret Kramp-Karrenbauer", "CDU", "AfD", "Die Linke", "Sachsen-Anhalt", "Berlin", "Frankreich", "Rheinmetall", "Kassel-Calden", "Donald Trump", "Flávio Bolsonaro", "Brasilien", "Lebenshaltungskosten", "Staatsschutz"],
+  "hashtags": ["#afd", "#rheinmetall", "#frankreich"],
+  "facebook_caption_line1": "Kramp-Karrenbauer warnt vor Regierungen von AfD und Linken",
+  "facebook_question": "Wie bewerten Sie die Warnung der früheren CDU-Chefin?",
+  "comment_question": "Teilen Sie die Warnung von Kramp-Karrenbauer vor AfD und Linken – ja oder nein?"
+}
