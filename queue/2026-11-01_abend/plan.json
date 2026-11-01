@@ -1,0 +1,57 @@
+{
+  "stories": [
+    {
+      "candidate_id": 1,
+      "pillar": "WIRTSCHAFT",
+      "region": "DE",
+      "kicker": "DEUTSCHLAND",
+      "headline": "Gasspeicher verfehlen Winterziel",
+      "highlight": ["Gasspeicher"],
+      "voice": "Deutschlands Gasspeicher haben das gesetzliche Ziel von siebzig Prozent zum ersten November verfehlt. Netzagentur-Chef Müller sieht die Versorgung gesichert, erwartet aber erheblich höhere Heizkosten.",
+      "subline": "Netzagentur: Versorgung sicher, Heizkosten steigen erheblich",
+      "entities": ["Bundesnetzagentur", "Klaus Müller"]
+    },
+    {
+      "candidate_id": 21,
+      "pillar": "WIRTSCHAFT",
+      "region": "DE",
+      "kicker": "INGOLSTADT",
+      "headline": "Audi-Chef Döllner unter Druck",
+      "highlight": ["Döllner"],
+      "voice": "Audi-Chef Gernot Döllner steht nach seinem Auftritt bei einer Wahlkampfveranstaltung von Donald Trump weiter in der Kritik. Die SPD fordert Konsequenzen von Volkswagen, Audi verteidigt den Auftritt.",
+      "subline": "Audi plant ein eigenes Werk in den USA",
+      "entities": ["Gernot Döllner", "Audi"]
+    },
+    {
+      "candidate_id": 5,
+      "pillar": "POLITIK",
+      "region": "DE",
+      "kicker": "THÜRINGEN / BAYERN",
+      "headline": "Nadeln in Halloween-Süßigkeiten",
+      "highlight": ["Nadeln"],
+      "voice": "Nadeln und Magnete in Halloween-Süßigkeiten: In Thüringen, Rheinland-Pfalz und Bayern haben Kinder gefährliche Funde gemacht. Verletzt wurde niemand, die Polizei ermittelt und warnt Eltern.",
+      "subline": "Polizei: Gesammelte Süßigkeiten genau kontrollieren",
+      "entities": ["Polizei Thüringen", "Halloween"]
+    },
+    {
+      "candidate_id": 22,
+      "pillar": "WELT",
+      "region": "INT",
+      "kicker": "USA",
+      "headline": "Musk: Rekordspenden für Midterms",
+      "highlight": ["Musk"],
+      "voice": "Elon Musk hat im US-Wahlkampf mehr als vierhundertvierzig Millionen Dollar gespendet. Der reichste Mann der Welt ist damit Rekordspender für Trumps Republikaner, vor allem in Texas.",
+      "subline": "Ziel: die Senatsmehrheit der Republikaner sichern",
+      "entities": ["Elon Musk", "Donald Trump"]
+    }
+  ],
+  "hook_text": "Gasspeicher verfehlen Ziel",
+  "hook_voice": "Gasspeicher verfehlen das Winterziel – die Schlagzeilen am Abend.",
+  "youtube_title": "Gasspeicher verfehlen Ziel: Was das für Ihre Heizkosten heißt",
+  "description_lead": "Deutschlands Gasspeicher verfehlen das 70-Prozent-Ziel zum 1. November – die Bundesnetzagentur unter Klaus Müller erwartet höhere Heizkosten. Außerdem: Kritik an Audi-Chef Gernot Döllner nach seinem Auftritt mit Donald Trump, Nadeln in Halloween-Süßigkeiten und Elon Musks Rekordspenden im US-Wahlkampf.",
+  "tags": ["Gasspeicher", "Bundesnetzagentur", "Klaus Müller", "Heizkosten", "Gasversorgung", "Audi", "Gernot Döllner", "Volkswagen", "Donald Trump", "Halloween", "Polizei", "Elon Musk", "US-Wahl", "Energie", "Nachrichten"],
+  "hashtags": ["#gasspeicher", "#heizkosten", "#audi"],
+  "facebook_caption_line1": "Gasspeicher verfehlen das Winterziel – Netzagentur erwartet erheblich höhere Heizkosten",
+  "facebook_question": "Wie bereiten Sie sich auf den Winter und steigende Heizkosten vor?",
+  "comment_question": "Gasspeicher unter Ziel: Machen Sie sich Sorgen um den Winter – ja oder nein?"
+}
