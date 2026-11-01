@@ -1,0 +1,57 @@
+{
+  "stories": [
+    {
+      "candidate_id": 1,
+      "pillar": "POLITIK",
+      "region": "DE",
+      "kicker": "FRANKFURT · KÖLN",
+      "headline": "Gen Z: Krawalle nach Protesten",
+      "highlight": ["Krawalle"],
+      "voice": "Frankfurt und Köln: Nach friedlichen Gen-Z-Protesten Zehntausender kam es am Samstagabend zu Krawallen. Die Organisatoren distanzieren sich, die CDU verurteilt die Gewalt.",
+      "subline": "Auch in Zürich und Basel brannten Barrikaden",
+      "entities": ["Frankfurt am Main", "Köln"]
+    },
+    {
+      "candidate_id": 6,
+      "pillar": "WIRTSCHAFT",
+      "region": "DE",
+      "kicker": "INDUSTRIE",
+      "headline": "IG Metall: Warnstreiks laufen",
+      "highlight": ["Warnstreiks"],
+      "voice": "Die IG Metall hat kurz nach Mitternacht ihre Warnstreiks in der Metall- und Elektroindustrie begonnen. Betroffen sind Schlüsselbranchen wie Auto und Maschinenbau.",
+      "subline": "Gewerkschaft kämpft um Jobs und Kaufkraft",
+      "entities": ["IG Metall", "Hildesheim"]
+    },
+    {
+      "candidate_id": 0,
+      "pillar": "POLITIK",
+      "region": "EU",
+      "kicker": "WARSCHAU",
+      "headline": "Tusk: Angriff auf den Rechtsstaat",
+      "highlight": ["Tusk"],
+      "voice": "Polens Regierungschef Donald Tusk wirft der rechtskonservativen Opposition einen Angriff auf Demokratie und Rechtsstaat vor. Hintergrund ist die Absetzung der Spitze des Verfassungsgerichts.",
+      "subline": "Vor dem Gericht in Warschau gab es erneut Proteste",
+      "entities": ["Donald Tusk", "Warschau"]
+    },
+    {
+      "candidate_id": 2,
+      "pillar": "TECHNOLOGIE",
+      "region": "INT",
+      "kicker": "USA",
+      "headline": "FBI: Nordkorea hinter Binance-Hack",
+      "highlight": ["Nordkorea"],
+      "voice": "Das FBI macht nordkoreanische Hacker für den Milliardenangriff auf die Kryptobörse Binance verantwortlich. Erbeutet wurden Digitalwährungen im Wert von mehr als sechs Milliarden Dollar.",
+      "subline": "Laut FBI steckt die Hackergruppe TraderTraitor dahinter",
+      "entities": ["FBI", "Binance"]
+    }
+  ],
+  "hook_text": "Krawalle nach Gen-Z-Demos",
+  "hook_voice": "Krawalle nach Gen-Z-Protesten – die Schlagzeilen am Morgen.",
+  "youtube_title": "Krawalle nach Gen-Z-Protesten: Organisatoren distanzieren sich",
+  "description_lead": "Krawalle in Frankfurt und Köln überschatten die friedlichen Gen-Z-Proteste – die Organisatoren von „Gen Z regelt“ distanzieren sich, CDU-Generalsekretärin Hoppermann verurteilt die Gewalt. Außerdem: Warnstreiks der IG Metall haben begonnen, Polens Regierungschef Donald Tusk warnt im Streit um das Verfassungsgericht vor einem Angriff auf den Rechtsstaat, und das FBI macht Nordkorea für den Milliarden-Hack bei Binance verantwortlich.",
+  "tags": ["Gen Z regelt", "Frankfurt", "Köln", "Hoppermann", "CDU", "IG Metall", "Warnstreik", "Metallindustrie", "Donald Tusk", "Polen", "Verfassungsgericht", "FBI", "Nordkorea", "Binance", "Jugendproteste"],
+  "hashtags": ["#genz", "#igmetall", "#binance"],
+  "facebook_caption_line1": "Krawalle nach Gen-Z-Protesten: Organisatoren distanzieren sich von der Gewalt in Frankfurt und Köln",
+  "facebook_question": "Schaden die Krawalle dem Anliegen der jungen Protestbewegung?",
+  "comment_question": "Schaden die Krawalle dem Anliegen der Gen-Z-Proteste – ja oder nein?"
+}
