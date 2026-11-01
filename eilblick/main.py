@@ -236,6 +236,21 @@ def cmd_validate(args) -> int:
 
 
 def cmd_run(args) -> int:
+    try:
+        return _cmd_run(args)
+    except Exception:
+        import traceback
+        tb = traceback.format_exc()
+        log(tb)
+        try:
+            d = ROOT / args.queue if not Path(args.queue).is_absolute() else Path(args.queue)
+            (d / "result.md").write_text("## BUILD FAILED\n\n```\n" + tb[-3000:] + "\n```\n", encoding="utf-8")
+        except Exception:
+            pass
+        raise
+
+
+def _cmd_run(args) -> int:
     from . import editor, seo
     from .feeds import story_from_dict
     cfg = settings()

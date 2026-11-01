@@ -60,6 +60,8 @@ whether content matches their interests. So:
 4. Exactly 4 stories (max 5). **At least 3 from DE / AT / CH / EU.** Max one purely international story unless one world event dominates everything.
 5. Order: hottest story first (it becomes the thumbnail + hook).
 6. Never: graphic violence, blood, victim details, celebrity gossip, local accidents, rumours, extremist propaganda.
+   Avoid stories whose photos will mostly show riots, fire, fireworks in crowds, weapons or injured people
+   (ad-unfriendly on YouTube/Facebook) – choose another story or a calmer angle with official/political photos.
    For war/conflict only the political level (decisions, talks, consequences for Europe).
 7. Skip anything in `already_published` unless there is a clearly new development (then say what is new).
 8. Respect the slot focus (`slot.focus`).

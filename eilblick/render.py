@@ -266,8 +266,29 @@ class Renderer:
         self.headline_cache = {}
         self.ticker_strip = self._ticker()
         self.logo = logo_image(78)
+        self.last = None
+        self._validate_photos()
         self.mask = Image.new("L", (self.CARD[2] - self.CARD[0], self.CARD[3] - self.CARD[1]), 0)
         ImageDraw.Draw(self.mask).rounded_rectangle([0, 0, *self.mask.size], radius=22, fill=255)
+
+    def _validate_photos(self):
+        """Drop any photo that cannot be opened/cropped (a single bad photo must never
+        stop the video). EILBLICK_SAFE=1 renders without photos as a last resort."""
+        import os
+        safe = os.environ.get("EILBLICK_SAFE") == "1"
+        x0, y0, x1, y1 = self.CARD
+        for st in self.tl.stories:
+            good = []
+            for ph in ([] if safe else st.photos):
+                try:
+                    im = self.pc.get(ph)
+                    for z in (1.0, 1.15):
+                        cover(im, x1 - x0, y1 - y0, z, 0.5, 0.4)
+                    self.pc.blurred(ph)
+                    good.append(ph)
+                except Exception as e:
+                    print(f"  photo skipped ({ph.credit}): {e}")
+            st.photos = good
 
     # ---- pieces
     def _ticker(self) -> Image.Image:
@@ -331,7 +352,7 @@ class Renderer:
         if idx + 1 < len(order) and local * per > per - 0.3:
             k = ease_io((local * per - (per - 0.3)) / 0.3)
             nxt, nph = frame_of(idx + 1, 0)
-            off = int(cw * (1 - k))
+            off = min(cw - 1, max(0, int(cw * (1 - k))))
             card.paste(nxt.crop((0, 0, cw - off, ch)), (off, 0))
             ImageDraw.Draw(card).rectangle([off - 8, 0, off, ch], fill=C["red"])
             if k > 0.5:
@@ -545,6 +566,25 @@ class Renderer:
         d.text(((W - f2.getlength(site)) / 2, 1135), site, font=f2, fill=(180, 180, 190, int(255 * ease((lt - 0.35) / 0.4))))
 
     def frame(self, t: float) -> Image.Image:
+        try:
+            img = self._frame(t)
+            self.last = img
+            return img
+        except Exception as e:
+            # never crash: drop the photos of the current story and draw the graphic card instead
+            print(f"  frame {t:.2f}s fallback: {type(e).__name__}: {e}")
+            for st in self.tl.stories:
+                if st.start <= t < st.end:
+                    st.photos = []
+            try:
+                img = self._frame(t)
+            except Exception as e2:
+                print(f"  frame {t:.2f}s second fallback: {e2}")
+                img = self.last or Image.new("RGB", (W, H), C["bg"][:3])
+            self.last = img
+            return img
+
+    def _frame(self, t: float) -> Image.Image:
         fr = Image.new("RGBA", (W, H), C["bg"])
         tl = self.tl
         if t < tl.intro_end:
