@@ -220,11 +220,49 @@
    ],
    "comment": {
     "text": "Kanada als Sondermitglied der EU – gute Idee oder zu weit? Ja oder nein?",
-    "done": false
+    "done": true,
+    "yt": "Ugz7VTvSqHqJxf9YJ6d4AaABAg",
+    "fb": "1480201050653151_2148385139098525"
    },
    "youtube_id": "Zgsl6U0EcRo",
    "facebook_id": "1480201050653151",
    "created": "2026-10-31T18:15:15.378169+00:00"
+  },
+  {
+   "date": "2026-11-01",
+   "slot": "morgen",
+   "publish_at": "2026-11-01T06:00:00+00:00",
+   "title": "Krawalle nach Gen-Z-Protesten: Organisatoren distanzieren sich",
+   "duration": 49.7,
+   "stories": [
+    {
+     "headline": "Gen Z: Krawalle nach Protesten",
+     "region": "DE",
+     "pillar": "POLITIK"
+    },
+    {
+     "headline": "IG Metall: Warnstreiks laufen",
+     "region": "DE",
+     "pillar": "WIRTSCHAFT"
+    },
+    {
+     "headline": "Tusk: Angriff auf den Rechtsstaat",
+     "region": "EU",
+     "pillar": "POLITIK"
+    },
+    {
+     "headline": "FBI: Nordkorea hinter Binance-Hack",
+     "region": "INT",
+     "pillar": "TECHNOLOGIE"
+    }
+   ],
+   "comment": {
+    "text": "Schaden die Krawalle dem Anliegen der Gen-Z-Proteste – ja oder nein?",
+    "done": false
+   },
+   "youtube_id": "yCVjywVItNg",
+   "facebook_id": "1431447925776881",
+   "created": "2026-11-01T04:29:05.669988+00:00"
   }
  ]
 }
