@@ -1,0 +1,1866 @@
+{
+ "slot": {
+  "id": "nacht",
+  "time": "20:45",
+  "label": "am späten Abend",
+  "focus": "Geopolitik, europäische Sicherheit, NATO, EU, Welthandel und Zölle – mit Bezug zu Deutschland.",
+  "pillars": [
+   "WELT",
+   "POLITIK",
+   "WIRTSCHAFT",
+   "TECHNOLOGIE"
+  ],
+  "notify_subscribers": false
+ },
+ "slot_time": "2026-11-01T20:45:00+01:00",
+ "date_text": "Sonntag, 1. November 2026",
+ "already_published": [
+  "Evakuierung aus Oleschky gelungen",
+  "Steinmeier drängt Xi beim Handel",
+  "Merz an der Grenze zu Nordkorea",
+  "Bundeswehr: Ersatzteil-Lager gestört",
+  "G20: Europäer boykottieren Lawrow-Foto",
+  "EU und Kanada gründen Zukunftsallianz",
+  "Polen: Streit um Verfassungsgericht",
+  "Audi: Gewinn bricht um 87 Prozent ein",
+  "China will mehr deutsche Produkte",
+  "Italien: Massenprotest gegen Preise",
+  "Gen Z protestiert in 30 Städten",
+  "Binance will alle Verluste ersetzen",
+  "Berlin: Linke will Rot-Grün-Rot",
+  "USA: 500 Patriot-Raketen für Kiew",
+  "Frankreich: 70.000 Polizisten",
+  "Edenhofer: Stromsteuer senken",
+  "Kanada: Von der Leyen übergeht Merz",
+  "Iran: Chamenei droht den USA",
+  "IG Metall: Warnstreiks ab Sonntag",
+  "Gen Z: Zehntausende auf der Straße",
+  "Gen Z: Krawalle nach Protesten",
+  "IG Metall: Warnstreiks laufen",
+  "Tusk: Angriff auf den Rechtsstaat",
+  "FBI: Nordkorea hinter Binance-Hack",
+  "AKK warnt vor AfD und Linken",
+  "Frankreich: 320.000 gegen hohe Preise",
+  "Rheinmetall-Brand: Bekennerschreiben",
+  "Trump: Bolsonaro darf in USA bleiben",
+  "Gasspeicher verfehlen Winterziel",
+  "Audi-Chef Döllner unter Druck",
+  "Nadeln in Halloween-Süßigkeiten"
+ ],
+ "candidates": [
+  {
+   "id": 0,
+   "score": 22.21,
+   "outlets": [
+    "tagesschau",
+    "ZDFheute",
+    "Deutsche Welle",
+    "Deutschlandfunk",
+    "SRF News",
+    "SPIEGEL",
+    "ZEIT ONLINE",
+    "Süddeutsche",
+    "WirtschaftsWoche",
+    "DER STANDARD"
+   ],
+   "regions": [
+    "AT",
+    "CH",
+    "DE",
+    "INT"
+   ],
+   "trend": [],
+   "newest": "2026-11-01T17:17:05+00:00",
+   "articles": [
+    {
+     "source": "tagesschau",
+     "region": "DE",
+     "weight": 1.0,
+     "title": "Initiative \"Gen Z regelt\" distanziert sich von Krawallen nach friedlichen Protesten",
+     "summary": "Initiative \"Gen Z regelt\" distanziert sich von Krawallen nach friedlichen Protesten",
+     "link": "https://www.tagesschau.de/video/video-1676182.html",
+     "image": "https://images.tagesschau.de/image/9f2b8fd4-a258-45c2-8e29-e6b2fca3f173/AAABoZgMoCs/AAABnSSvrFg/16x9-big/sendungsbild-1820636.jpg?width=1920",
+     "aggregator": false,
+     "published": "2026-11-01T17:04:29+00:00"
+    },
+    {
+     "source": "tagesschau",
+     "region": "DE",
+     "weight": 1.0,
+     "title": "FAQ: Wie lief der \"Gen Z regelt\"-Protest? Wie geht es weiter?",
+     "summary": "Mehr als 180.000 Menschen hatten sich zum bundesweiten \"Gen Z regelt\"-Protesttag angemeldet. Es kamen deutlich weniger. Woran könnte es gelegen haben? Wie reagiert die Politik und welche neuen Aktionen sind geplant?",
+     "link": "https://www.tagesschau.de/inland/gesellschaft/demonstration-protest-genz-100.html",
+     "image": "https://images.tagesschau.de/image/48909d4b-1bef-4d3d-9cb2-f18b4eea4d8e/AAABoZZ3yQk/AAABnSSvrFg/16x9-big/genz-266.jpg?width=1920",
+     "aggregator": false,
+     "published": "2026-11-01T14:46:12+00:00"
+    },
+    {
+     "source": "tagesschau",
+     "region": "DE",
+     "weight": 1.0,
+     "title": "\"Gen Z regelt\" will Demos fortsetzen",
+     "summary": "Das Fazit der Organisatoren der \"Gen Z regelt\"-Proteste fällt positiv aus - trotz der vereinzelten Gewalt. Man habe keinen Einfluss darauf, was nach Ende der Demos passiere, sagte ein Sprecher. Der Protest soll bald weitergehen.",
+     "link": "https://www.tagesschau.de/inland/gesellschaft/gen-z-demos-bilanz-100.html",
+     "image": "https://images.tagesschau.de/image/6e5bb6aa-dfd3-4d91-bf28-e0a33d2da407/AAABoZS7Q4s/AAABnSSvrFg/16x9-big/gen-z-demo-100.jpg?width=1920",
+     "aggregator": false,
+     "published": "2026-11-01T11:58:42+00:00"
+    },
+    {
+     "source": "tagesschau Inland",
+     "region": "DE",
+     "weight": 1.0,
+     "title": "FAQ: Wie lief der \"Gen Z regelt\"-Protest? Wie geht es weiter?",
+     "summary": "Mehr als 180.000 Menschen hatten sich zum bundesweiten \"Gen Z regelt\"-Protesttag angemeldet. Es kamen deutlich weniger. Woran könnte es gelegen haben? Wie reagiert die Politik und welche neuen Aktionen sind geplant?",
+     "link": "https://www.tagesschau.de/inland/gesellschaft/demonstration-protest-genz-100.html",
+     "image": "https://images.tagesschau.de/image/48909d4b-1bef-4d3d-9cb2-f18b4eea4d8e/AAABoZZ3yQk/AAABnSSvrFg/16x9-big/genz-266.jpg?width=1920",
+     "aggregator": false,
+     "published": "2026-11-01T14:46:12+00:00"
+    },
+    {
+     "source": "tagesschau Inland",
+     "region": "DE",
+     "weight": 1.0,
+     "title": "\"Gen Z regelt\" will Demos fortsetzen",
+     "summary": "Das Fazit der Organisatoren der \"Gen Z regelt\"-Proteste fällt positiv aus - trotz der vereinzelten Gewalt. Man habe keinen Einfluss darauf, was nach Ende der Demos passiere, sagte ein Sprecher. Der Protest soll bald weitergehen.",
+     "link": "https://www.tagesschau.de/inland/gesellschaft/gen-z-demos-bilanz-100.html",
+     "image": "https://images.tagesschau.de/image/6e5bb6aa-dfd3-4d91-bf28-e0a33d2da407/AAABoZS7Q4s/AAABnSSvrFg/16x9-big/gen-z-demo-100.jpg?width=1920",
+     "aggregator": false,
+     "published": "2026-11-01T11:58:42+00:00"
+    },
+    {
+     "source": "ZDFheute",
+     "region": "DE",
+     "weight": 1.0,
+     "title": "Krawalle und Plünderungen überschatten \"Gen Z regelt\"-Demos",
+     "summary": "Zehntausende junge Menschen sind in über 30 Städten für bessere Bildung und gegen hohe Preise auf die Straße gegangen. Danach kam es vor allem in Frankfurt und Köln zu Krawallen.",
+     "link": "https://www.zdfheute.de/politik/deutschland/gen-z-proteste-pluenderungen-gewalt-100.html",
+     "image": "https://www.zdfheute.de/assets/gen-z-proteste-frankfurt-100~384x216?cb=1793490768299",
+     "aggregator": false,
+     "published": "2026-11-01T13:30:00+00:00"
+    },
+    {
+     "source": "Deutsche Welle",
+     "region": "INT",
+     "weight": 0.95,
+     "title": "Dobrindt verurteilt Gewalt nach \"Gen Z\"-Protesten in Deutschland",
+     "summary": "Erst demonstrierten bundesweit Zehntausende junge Menschen friedlich. Später kam es vor allem in Frankfurt am Main zu schlimmen Szenen. Der deutsche Innenminister fordert harte Strafen für Randalierer.",
+     "link": "https://www.dw.com/de/dobrindt-verurteilt-gewalt-nach-gen-z-protesten-in-deutschland/a-79820787?maca=de-rss-de-all-1119-xml-mrss",
+     "image": "https://static.dw.com/image/79819793_302.jpg",
+     "aggregator": false,
+     "published": "2026-11-01T13:28:00+00:00"
+    },
+    {
+     "source": "Deutschlandfunk",
+     "region": "DE",
+     "weight": 0.95,
+     "title": "Demonstrationen in Frankreich - Friedliche Proteste am Tag - Krawalle am Abend",
+     "summary": "In Frankreich sind den dritten Samstag in Folge hunderttausende Menschen gegen hohe Lebenshaltungskosten und Missstände im Bildungssystem auf die Straße gegangen. Das französische Innenministerium sprach von 320.000 Demonstranten, die Veranstalter von knapp einer Million. Landesweit waren 70.000 Polizisten im Einsatz.",
+     "link": "https://www.deutschlandfunk.de/friedliche-proteste-am-tag-krawalle-am-abend-100.html",
+     "image": "https://bilder.deutschlandfunk.de/99/aa/59/05/99aa5905-76d6-4355-84ad-c228c2c9f3b4/protest-paris-polizei-100-1920x1920.jpg",
+     "aggregator": false,
+     "published": "2026-11-01T17:17:05+00:00"
+    }
+   ]
+  },
+  {
+   "id": 1,
+   "score": 18.91,
+   "outlets": [
+    "tagesschau",
+    "ZDFheute",
+    "Deutschlandfunk",
+    "SRF News",
+    "SPIEGEL",
+    "NZZ",
+    "WELT",
+    "n-tv",
+    "tagesschau.de"
+   ],
+   "regions": [
+    "CH",
+    "DE"
+   ],
+   "trend": [],
+   "newest": "2026-11-01T17:17:05+00:00",
+   "articles": [
+    {
+     "source": "tagesschau",
+     "region": "DE",
+     "weight": 1.0,
+     "title": "Filmproduzentin Regina Ziegler im Alter von 82 Jahren gestorben",
+     "summary": "Filmproduzentin Regina Ziegler im Alter von 82 Jahren gestorben",
+     "link": "https://www.tagesschau.de/video/video-1676194.html",
+     "image": "https://images.tagesschau.de/image/00ce391e-cc0e-492b-b271-6bc7012a352b/AAABoZgRgfA/AAABnSSvrFg/16x9-big/sendungsbild-1820652.jpg?width=1920",
+     "aggregator": false,
+     "published": "2026-11-01T17:04:08+00:00"
+    },
+    {
+     "source": "tagesschau",
+     "region": "DE",
+     "weight": 1.0,
+     "title": "Nach mehr als 500 Produktionen: Filmproduzentin Regina Ziegler gestorben",
+     "summary": "Die erfolgreiche Film- und Fernsehproduzentin Regina Ziegler ist im Alter von 82 Jahren gestorben. Mit mehr als 500 Filmen und zahlreichen Auszeichnungen gehörte sie zu den einflussreichsten Frauen der Branche.",
+     "link": "https://www.tagesschau.de/kultur/ziegler-regina-gestorben-100.html",
+     "image": "https://images.tagesschau.de/image/bc7d5822-1e21-4a4e-a32d-758ae6965668/AAABoZdz8QM/AAABnSSvrFg/16x9-big/regina-ziegler-148.jpg?width=1920",
+     "aggregator": false,
+     "published": "2026-11-01T14:12:27+00:00"
+    },
+    {
+     "source": "ZDFheute",
+     "region": "DE",
+     "weight": 1.0,
+     "title": "Filmproduzentin Regina Ziegler mit 82 Jahren gestorben",
+     "summary": "Die deutsche Film- und Fernsehproduzentin Regina Ziegler ist im Alter von 82 Jahren gestorben. Sie galt als eine der einflussreichsten Figuren in der Branche.",
+     "link": "https://www.zdfheute.de/panorama/prominente/regina-ziegler-tot-film-fernsehen-produzentin-100.html",
+     "image": "https://www.zdfheute.de/assets/regina-ziegler-100~384x216?cb=1793539881578",
+     "aggregator": false,
+     "published": "2026-11-01T16:00:00+00:00"
+    },
+    {
+     "source": "Deutschlandfunk",
+     "region": "DE",
+     "weight": 0.95,
+     "title": "Film und Fernsehen - Produzentin Regina Ziegler gestorben",
+     "summary": "Die Film- und Fernsehproduzentin Regina Ziegler ist tot.",
+     "link": "https://www.deutschlandfunk.de/produzentin-regina-ziegler-gestorben-102.html",
+     "image": "https://bilder.deutschlandfunk.de/df/dd/05/f0/dfdd05f0-98f1-478a-ba7b-6a03915511ad/regina-ziegler-100-1920x1920.jpg",
+     "aggregator": false,
+     "published": "2026-11-01T17:17:05+00:00"
+    },
+    {
+     "source": "SRF News",
+     "region": "CH",
+     "weight": 0.95,
+     "title": "Kulturnews in Kurzform – Filmproduzentin Regina Ziegler mit 82 Jahren gestorben",
+     "summary": "Sie galt als Grand Dame der deutschen Fernsehbranche und realisierte über 500 Filme und Serien.",
+     "link": "https://www.srf.ch/kultur/gesellschaft-religion/kulturnews-in-kurzform-filmproduzentin-regina-ziegler-mit-82-jahren-gestorben",
+     "image": "https://www.srf.ch/static/cms/images//320ws/125ea19.webp",
+     "aggregator": false,
+     "published": "2026-11-01T14:07:10+00:00"
+    },
+    {
+     "source": "SPIEGEL",
+     "region": "DE",
+     "weight": 0.9,
+     "title": "Filmproduzentin Regina Ziegler ist tot",
+     "summary": "Sie galt jahrzehntelang als eine der prägendsten Persönlichkeiten der deutschen Film- und Fernsehbranche. Nun ist die Produzentin Regina Ziegler im Alter von 82 Jahren gestorben.",
+     "link": "https://www.spiegel.de/kultur/filmproduzentin-regina-ziegler-ist-tot-a-3162f2df-99f8-4dc7-9aed-640a71f78663#ref=rss",
+     "image": "https://cdn.prod.www.spiegel.de/images/b1faa066-d9dd-4822-bed9-3b1f166cf092_w520_r2.08_fpx45.98_fpy52.97.jpg",
+     "aggregator": false,
+     "published": "2026-11-01T13:25:00+00:00"
+    },
+    {
+     "source": "NZZ",
+     "region": "CH",
+     "weight": 0.9,
+     "title": "MELDUNGEN KULTUR - Filmproduzentin Regina Ziegler mit 82 Jahren gestorben",
+     "summary": "Die neuesten Meldungen aus dem Feuilleton.",
+     "link": "https://www.nzz.ch/feuilleton/britischer-schauspieler-patrick-stewart-ist-tot-ld.10041945",
+     "image": "https://img-msp-prod.nzz.ch/2026/11/01/e276bfd2-3b96-42a5-a185-786ef5480efc.jpg?width=200&height=200&fit=bounds&quality=75&auto=webp&crop=3142,3142,x0,y0",
+     "aggregator": false,
+     "published": "2026-11-01T13:31:00+00:00"
+    },
+    {
+     "source": "WELT",
+     "region": "DE",
+     "weight": 0.8,
+     "title": "Filmproduzentin Regina Ziegler ist tot",
+     "summary": "Filmproduzentin Regina Ziegler ist im Alter von 82 Jahren in Berlin gestorben. Mehr als 500 Produktionen umfasst ihr Werk. Bis zuletzt arbeitete sie an neuen Projekten.",
+     "link": "https://www.welt.de/vermischtes/article6ae731b36a5ed9f2131347c8/regina-ziegler-filmproduzentin-mit-82-jahren-unerwartet-gestorben.html",
+     "image": "https://images.welt.de/6ae731b36a5ed9f2131347c8/4bd9046592fb28111a499a2fd01e8b2a-master/ci23x11-w1200/gyi-2298376742-jpg",
+     "aggregator": false,
+     "published": "2026-11-01T13:22:01+00:00"
+    }
+   ]
+  },
+  {
+   "id": 2,
+   "score": 16.91,
+   "outlets": [
+    "tagesschau",
+    "Deutsche Welle",
+    "Deutschlandfunk",
+    "Handelsblatt",
+    "NZZ",
+    "heise online",
+    "Golem"
+   ],
+   "regions": [
+    "CH",
+    "DE",
+    "INT"
+   ],
+   "trend": [],
+   "newest": "2026-11-01T17:17:05+00:00",
+   "articles": [
+    {
+     "source": "tagesschau",
+     "region": "DE",
+     "weight": 1.0,
+     "title": "FBI macht Nordkorea für Hackerangriff auf Binance verantwortlich",
+     "summary": "Laut Experten war es der bisher größte Hackerangriff auf eine Börse für Digitalwährungen. Am Donnerstag war er bekannt geworden - und schnell geriet Nordkorea ins Visier. Nun macht auch das FBI nordkoreanische Hacker dafür verantwortlich.",
+     "link": "https://www.tagesschau.de/ausland/asien/hack-binance-100.html",
+     "image": "https://images.tagesschau.de/image/9c1a0a5f-3325-4594-b57a-9d01958b7978/AAABoYunSGo/AAABnSSvrFg/16x9-big/binance-108.jpg?width=1920",
+     "aggregator": false,
+     "published": "2026-11-01T10:08:00+00:00"
+    },
+    {
+     "source": "tagesschau Wirtschaft",
+     "region": "DE",
+     "weight": 1.0,
+     "title": "Milliardenschwerer Hackerangriff auf Kryptobörse Binance",
+     "summary": "Die weltgrößte Kryptobörse Binance ist offenbar Opfer einer massiven Cyberattacke geworden. Betroffen sind Digitalwährungen im Wert von mehr als sechs Milliarden Dollar. Was bedeutet das für Kunden?",
+     "link": "https://www.tagesschau.de/wirtschaft/technologie/hackerangriff-kryptoboerse-binance-100.html",
+     "image": "https://images.tagesschau.de/image/c98477ae-0b7c-46ba-921a-1bae298474ce/AAABoYumwKE/AAABnSSvrFg/16x9-big/binance-106.jpg?width=1920",
+     "aggregator": false,
+     "published": "2026-10-30T07:24:20+00:00"
+    },
+    {
+     "source": "Deutsche Welle",
+     "region": "INT",
+     "weight": 0.95,
+     "title": "Milliarden-Hack auf Kryptowährungsbörse Binance",
+     "summary": "Die größte Digitalwährungsbörse Binance ist Ziel eines Hackerangriffs mit milliardenschweren Folgen geworden. Eine US-Analysefirma vermutet nordkoreanische Hacker hinter dem Diebstahl.",
+     "link": "https://www.dw.com/de/milliarden-hack-auf-kryptowährungsbörse-binance/a-79804737?maca=de-rss-de-all-1119-xml-mrss",
+     "image": "https://static.dw.com/image/67520947_302.jpg",
+     "aggregator": false,
+     "published": "2026-10-30T09:30:00+00:00"
+    },
+    {
+     "source": "Deutschlandfunk",
+     "region": "DE",
+     "weight": 0.95,
+     "title": "Hackerangriff - FBI macht nordkoreanische Hacker für Angriff auf Kryptowährungsbörse Binance verantwortlich",
+     "summary": "Die US-Bundespolizei macht Nordkorea für den milliardenschweren Hackerangriff auf die Kryptowährungsbörse Binance verantwortlich.",
+     "link": "https://www.deutschlandfunk.de/fbi-macht-nordkoreanische-hacker-fuer-angriff-auf-kryptowaehrungsboerse-binance-verantwortlich-102.html",
+     "image": "https://bilder.deutschlandfunk.de/63/c7/08/26/63c70826-5020-4a28-857b-b6ccfdceaf75/binance-100-1920x1920.jpg",
+     "aggregator": false,
+     "published": "2026-11-01T17:17:05+00:00"
+    },
+    {
+     "source": "Handelsblatt",
+     "region": "DE",
+     "weight": 0.9,
+     "title": "Hackerangriff: FBI: Nordkoreanische Hacker stecken hinter milliardenschwerem Krypto-Diebstahl bei Binance",
+     "summary": "Der US-Bundespolizei zufolge soll die Gruppe TraderTraitor hinter dem weltweit größten digitalen Raubzug stecken. Binance will wieder mit Auszahlungen starten.",
+     "link": "https://www.handelsblatt.com/finanzen/maerkte/devisen-rohstoffe/binance-fbi-sieht-nordkoreanische-hacker-hinter-krypto-diebstahl/100266403.html",
+     "image": "https://images.handelsblatt.com/LKpSuLNaTTBQ/cover/900/506/0/0/627/0/0.5/0.5/binance.jpg",
+     "aggregator": false,
+     "published": "2026-11-01T13:30:38+00:00"
+    },
+    {
+     "source": "NZZ",
+     "region": "CH",
+     "weight": 0.9,
+     "title": "FBI bestätigt: Nordkorea steckt hinter milliardenschwerem Krypto-Diebstahl bei Binance",
+     "summary": "Die bisher grösste Hackerattacke auf eine Börse für Digitalwährungen geht auf das Konto der Hackergruppe «TraderTraitor» aus Nordkorea. Binance kündigt an, den Grossteil des Schadens selbst tragen zu wollen.",
+     "link": "https://www.nzz.ch/wirtschaft/fbi-bestaetigt-nordkorea-steckt-hinter-milliardenschwerem-krypto-diebstahl-bei-binance-ld.10050756",
+     "image": "https://img-msp-prod.nzz.ch/2026/10/31/cbe81eb6-be9b-4bad-96cb-4da49fad10da.jpg?width=200&height=200&fit=bounds&quality=75&auto=webp&crop=2984,2984,x153,y0",
+     "aggregator": false,
+     "published": "2026-11-01T10:51:03+00:00"
+    },
+    {
+     "source": "heise online",
+     "region": "DE",
+     "weight": 0.85,
+     "title": "FBI: Nordkorea steckt hinter Milliarden-Kryptodiebstahl bei Binance",
+     "summary": "Das FBI macht die nordkoreanische Gruppe TraderTraitor für den milliardenschweren Hackerangriff auf Binance verantwortlich.",
+     "link": "https://www.heise.de/news/FBI-Nordkorea-steckt-hinter-Milliarden-Kryptodiebstahl-bei-Binance-11507160.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
+     "image": null,
+     "aggregator": false,
+     "published": "2026-11-01T10:52:00+00:00"
+    },
+    {
+     "source": "Golem",
+     "region": "DE",
+     "weight": 0.75,
+     "title": "6,3 Milliarden US-Dollar geklaut: Binance startet nach Rekordhack schrittweise wieder",
+     "summary": "Nach dem größten Kryptodiebstahl aller Zeiten startet Binance die Auszahlungen wieder. Das FBI macht nordkoreanische Hacker verantwortlich. ( Kryptowährung , Security )",
+     "link": "https://www.golem.de/news/6-3-milliarden-us-dollar-geklaut-binance-startet-nach-rekordhack-schrittweise-wieder-2611-214728.html",
+     "image": "https://cpx.golem.de/cpx.php?class=17&amp;aid=214728&amp;page=1&amp;ts=1793540582",
+     "aggregator": false,
+     "published": "2026-11-01T13:43:02+00:00"
+    }
+   ]
+  },
+  {
+   "id": 3,
+   "score": 15.21,
+   "outlets": [
+    "tagesschau",
+    "Deutsche Welle",
+    "Deutschlandfunk",
+    "Handelsblatt",
+    "WirtschaftsWoche",
+    "n-tv",
+    "tagesschau.de"
+   ],
+   "regions": [
+    "DE",
+    "INT"
+   ],
+   "trend": [],
+   "newest": "2026-11-01T17:17:05+00:00",
+   "articles": [
+    {
+     "source": "tagesschau",
+     "region": "DE",
+     "weight": 1.0,
+     "title": "Füllstandsvorgaben bei Gasspeichern nicht erreicht",
+     "summary": "Bis heute sollten die Gasspeicher einen durchschnittlichen Füllstand von 70 Prozent erreichen - aber die Vorgabe wurde verfehlt. Die Versorgung im Winter sei dennoch gesichert, betonen Wirtschaftsministerium und Bundesnetzagentur.",
+     "link": "https://www.tagesschau.de/wirtschaft/energie/gasspeicher-vorgaben-ziel-verfehlt-100.html",
+     "image": "https://images.tagesschau.de/image/90fcaddf-4c0f-4c73-804d-d38f627af935/AAABoKjuL6U/AAABnSSvrFg/16x9-big/gas-206.jpg?width=1920",
+     "aggregator": false,
+     "published": "2026-11-01T12:53:52+00:00"
+    },
+    {
+     "source": "tagesschau Wirtschaft",
+     "region": "DE",
+     "weight": 1.0,
+     "title": "Füllstandsvorgaben bei Gasspeichern nicht erreicht",
+     "summary": "Bis heute sollten die Gasspeicher einen durchschnittlichen Füllstand von 70 Prozent erreichen - aber die Vorgabe wurde verfehlt. Die Versorgung im Winter sei dennoch gesichert, betonen Wirtschaftsministerium und Bundesnetzagentur.",
+     "link": "https://www.tagesschau.de/wirtschaft/energie/gasspeicher-vorgaben-ziel-verfehlt-100.html",
+     "image": "https://images.tagesschau.de/image/90fcaddf-4c0f-4c73-804d-d38f627af935/AAABoKjuL6U/AAABnSSvrFg/16x9-big/gas-206.jpg?width=1920",
+     "aggregator": false,
+     "published": "2026-11-01T12:53:52+00:00"
+    },
+    {
+     "source": "Deutsche Welle",
+     "region": "INT",
+     "weight": 0.95,
+     "title": "Vorgaben für Gasspeicher-Füllstand in Deutschland verfehlt",
+     "summary": "Eigentlich sollten die Gasspeicher am 1. November zu 70 Prozent gefüllt sein. Dieses Ziel wurde nicht erreicht. Das Wirtschaftsministerium beteuert dennoch, die Versorgung im kommenden Winter sei gesichert",
+     "link": "https://www.dw.com/de/vorgaben-für-gasspeicher-füllstand-in-deutschland-verfehlt/a-79822308?maca=de-rss-de-all-1119-xml-mrss",
+     "image": "https://static.dw.com/image/79153655_302.jpg",
+     "aggregator": false,
+     "published": "2026-11-01T14:26:00+00:00"
+    },
+    {
+     "source": "Deutschlandfunk",
+     "region": "DE",
+     "weight": 0.95,
+     "title": "Chef der Bundesnetzagentur - Müller: Gasversorgung auch bei verfehlten Speicherzielen sicher, Verband warnt dagegen vor Engpässen",
+     "summary": "Deutschland ist nach Einschätzung der Bundesnetzagentur auch ohne Erreichen der gesetzlichen Gasspeicherziele aureichend mit Erdgas ‌versorgt.",
+     "link": "https://www.deutschlandfunk.de/mueller-gasversorgung-auch-bei-verfehlten-speicherzielen-sicher-verband-warnt-dagegen-vor-engpaessen-100.html",
+     "image": "https://bilder.deutschlandfunk.de/cc/63/f1/8f/cc63f18f-6b90-451d-8614-63248d1da3c1/gasspeicher-110-1920x1920.jpg",
+     "aggregator": false,
+     "published": "2026-11-01T17:17:05+00:00"
+    },
+    {
+     "source": "Handelsblatt",
+     "region": "DE",
+     "weight": 0.9,
+     "title": "Gasversorgung: Vorgaben bei Gasspeichern verfehlt - was bedeutet das?",
+     "summary": "Der Winter steht bevor - und die Gasspeicher in Deutschland sind vergleichsweise gering befüllt. Vorgaben werden nicht eingehalten. Was nun?",
+     "link": "https://www.handelsblatt.com/politik/deutschland/gasversorgung-vorgaben-bei-gasspeichern-verfehlt-was-bedeutet-das/100266387.html",
+     "image": "https://images.handelsblatt.com/6EKwt-c1LJ0s/cover/900/506/0/0/104/103/0.5/0.5/gasspeicher.jpg",
+     "aggregator": false,
+     "published": "2026-11-01T11:53:58+00:00"
+    },
+    {
+     "source": "WirtschaftsWoche",
+     "region": "DE",
+     "weight": 0.85,
+     "title": "Gasversorgung: Vorgaben bei Gasspeichern verfehlt – was bedeutet das?",
+     "summary": "Der Winter steht bevor – und die Gasspeicher in Deutschland sind vergleichsweise gering befüllt. Vorgaben werden nicht eingehalten. Was nun?",
+     "link": "https://www.wiwo.de/politik/deutschland/gasversorgung-vorgaben-bei-gasspeichern-verfehlt-was-bedeutet-das/100266389.html",
+     "image": "https://images.wiwo.de/Dlnfpkl3ZZ3n/cover/900/506/0/0/104/103/0.5/0.5/gasspeicher.jpg",
+     "aggregator": false,
+     "published": "2026-11-01T12:33:00+00:00"
+    },
+    {
+     "source": "n-tv",
+     "region": "DE",
+     "weight": 0.8,
+     "title": "Deutsche Gasspeicher nicht voll: Netzagentur-Chef rechnet mit \"erheblich\" höheren Heizkosten",
+     "summary": "Deutschland verfehlt vor dem nahenden Winter offenbar die vorgeschriebenen Speicherziele für Erdgas. Die Bundesnetzagentur sieht die Versorgung dennoch gesichert. Doch bei extremer Kälte könnte es zu Engpässen kommen.",
+     "link": "https://www.n-tv.de/wirtschaft/Netzagentur-Chef-rechnet-mit-erheblich-hoeheren-Heizkosten-id31481181.html",
+     "image": "https://www.n-tv.de/img/31481244/1793520590/Img_4_3/250/578621261.jpg",
+     "aggregator": false,
+     "published": "2026-11-01T10:44:12+00:00"
+    },
+    {
+     "source": "tagesschau.de",
+     "region": "DE",
+     "weight": 0.6,
+     "title": "Füllstandsvorgaben bei Gasspeichern nicht erreicht",
+     "summary": "Füllstandsvorgaben bei Gasspeichern nicht erreicht tagesschau.de „Ernst zu nehmendes Warnsignal“ – Deutschlands Gasspeicher nur zu 61 Prozent gefüllt WELT Gas bricht Preisrekord: Deutschland schafft Deadline nicht – Erdgas klettert auf 103 Euro, mehrjähriges Hoch FOCUS online Gasspeicher: Reiche hält Gasversorgung trotz niedriger Füllstände für sicher DIE ZEIT Deutsche Gasspeicher nicht voll: Netzagentur-Chef rechnet mit \"erheblich\" höheren Heizkosten n-tv.de",
+     "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOR1NrYlBEeURCeGY1bnhFWXZMdDlrZ3luYUlSb2JCNEQtSWcxOGxIWWE3U3pfdzlyV1QzTlRzX3h4VDZYem5QRzhVWGFhVDV2b0RIVU1TSF9yeHJ0VXVtdEliS01nVTBGRXE3WWx1RE5LNWNmYkxfWTlnbWV1NmpwalhkcWpnUFU0c3dkcHdfZkl1QQ?oc=5",
+     "image": null,
+     "aggregator": true,
+     "published": "2026-11-01T12:53:00+00:00"
+    }
+   ]
+  },
+  {
+   "id": 4,
+   "score": 15.2,
+   "outlets": [
+    "ZDFheute",
+    "Deutschlandfunk",
+    "ORF",
+    "ZEIT ONLINE",
+    "WELT",
+    "n-tv",
+    "Tagesspiegel"
+   ],
+   "regions": [
+    "AT",
+    "DE"
+   ],
+   "trend": [],
+   "newest": "2026-11-01T17:33:00+00:00",
+   "articles": [
+    {
+     "source": "ZDFheute",
+     "region": "DE",
+     "weight": 1.0,
+     "title": "Polizei: Nadeln und Magnete in Halloween-Süßigkeiten gefunden",
+     "summary": "Metallnadeln in Süßigkeiten, Magnete am Kaubonbon: In Thüringen, Rheinland-Pfalz und Bayern haben Kinder nach Halloween gefährliche Funde gemacht. Die Polizei ermittelt und warnt.",
+     "link": "https://www.zdfheute.de/panorama/kriminalitaet/halloween-suessigkeiten-metall-nadel-magnet-thueringen-rheinland-pfalz-polizei-100.html",
+     "image": "https://www.zdfheute.de/assets/halloween-suessigkeiten-kuerbis-100~384x216?cb=1793515136765",
+     "aggregator": false,
+     "published": "2026-11-01T11:03:00+00:00"
+    },
+    {
+     "source": "Deutschlandfunk",
+     "region": "DE",
+     "weight": 0.95,
+     "title": "Halloween - Nadeln in gesammelten Süßigkeiten entdeckt",
+     "summary": "Am Halloween-Abend haben Familien in mehreren Bundesländern Nadeln und andere Objekte in Süßigkeiten gefunden. In allen Fällen hatten Kinder die Süßigkeiten in der Nachbarschaft gesammelt. Verletzt wurde nach bisherigen Angaben niemand. Die Polizei rief Eltern auf, gesammelte Süßigkeiten genau zu überprüfen.",
+     "link": "https://www.deutschlandfunk.de/nadeln-in-gesammelten-suessigkeiten-entdeckt-100.html",
+     "image": "https://bilder.deutschlandfunk.de/FI/LE/_7/6d/FILE_76d4c4dfbc474e128e4d65daa57e68c8/53232674-jpg-100-768x768.jpg",
+     "aggregator": false,
+     "published": "2026-11-01T17:17:05+00:00"
+    },
+    {
+     "source": "ORF",
+     "region": "AT",
+     "weight": 0.95,
+     "title": "Nadeln in Halloween-Süßigkeiten in Deutschland entdeckt",
+     "summary": "",
+     "link": "https://orf.at/stories/3446789/",
+     "image": null,
+     "aggregator": false,
+     "published": "2026-11-01T16:22:54+00:00"
+    },
+    {
+     "source": "ZEIT ONLINE",
+     "region": "DE",
+     "weight": 0.9,
+     "title": "Halloween: Kinder entdecken Nadeln in Halloween-Süßigkeiten",
+     "summary": "In mehreren Bundesländern haben Kinder in gesammelten Halloween-Süßigkeiten gefährliche Gegenstände gefunden. Woher die präparierten Süßigkeiten stammen, ist unklar.",
+     "link": "https://www.zeit.de/gesellschaft/zeitgeschehen/2026-11/halloween-suessigkeiten-nadeln-metall-gegenstaende-polizei-thueringen-gxe",
+     "image": "https://img.zeit.de/gesellschaft/zeitgeschehen/2026-11/halloween-suessigkeiten-nadeln-metall-gegenstaende-polizei-thueringen-gxe-foto-1/original__640x360",
+     "aggregator": false,
+     "published": "2026-11-01T16:52:01+00:00"
+    },
+    {
+     "source": "WELT",
+     "region": "DE",
+     "weight": 0.8,
+     "title": "Gefährliche Halloween-Ausbeute – Familien entdecken Schrauben und Nadeln in Süßigkeiten",
+     "summary": "Eine Bösartigkeit wie aus einem Horrorfilm: Eltern finden in den von ihren Kindern an Halloween erbeuteten Süßigkeiten Nadeln und andere Metallobjekte.",
+     "link": "https://www.welt.de/vermischtes/article6ae68c1a6a5ed9f213133fbd/mehrere-bundeslaender-gefaehrliche-halloween-ausbeute-familien-entdecken-schrauben-und-nadeln-in-suessigkeiten.html",
+     "image": "https://images.welt.de/6ae68c1a6a5ed9f213133fbd/2ce3f3e5e3e1f85cff2d816c78ce9600-master/ci23x11-w1200/dpa-com-61539766-1-jpg",
+     "aggregator": false,
+     "published": "2026-11-01T16:34:00+00:00"
+    },
+    {
+     "source": "n-tv",
+     "region": "DE",
+     "weight": 0.8,
+     "title": "Fälle in mehreren Bundesländern: Kinder melden vielerorts Nadeln in Halloween-Süßigkeiten",
+     "summary": "In gleich mehreren Regionen machen Kinder in ihrer Halloween-Ausbeute unschöne Funde: In Süßigkeiten stecken Nadeln und Magnete. Die Polizei warnt davor, die Fremdkörper selbst zu entnehmen.",
+     "link": "https://www.n-tv.de/panorama/Kinder-melden-vielerorts-Nadeln-in-Halloween-Suessigkeiten-id31482652.html",
+     "image": "https://www.n-tv.de/img/31482670/1793556558/Img_4_3/250/629903653.jpg",
+     "aggregator": false,
+     "published": "2026-11-01T17:31:18+00:00"
+    },
+    {
+     "source": "Tagesspiegel",
+     "region": "DE",
+     "weight": 0.6,
+     "title": "Polizei geht von Absicht aus: Metallnadeln und Magnete in Halloween-Süßigkeiten entdeckt",
+     "summary": "Polizei geht von Absicht aus: Metallnadeln und Magnete in Halloween-Süßigkeiten entdeckt Tagesspiegel Nadeln und Haken in Halloween-Süßigkeiten: Welche Teufel machen denn so etwas? BILD Metallnadeln in Halloween-Süßigkeiten – Polizei warnt Eltern BR Wie kam das Metall in die Süßigkeiten der Kinder an Halloween? Die Polizei ermittelt SWR Nadeln und Nägel in Halloween-Süßigkeiten: Polizei warnt Eltern NDR.de",
+     "link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxNaUE5emZIZ3NZTkQteTR1VDZ0TFVRdTdLZUVfTkJoWGVJT1J6NVAzTmlvUnNRZWlnWVlNQi1hUi1BMlNPRG1MQ3ZfTF9xSlRidzRPR1V4NDcwYmUzWEFldnA4Y3dFQ2V2YVdPcVR0NmRkT1lmWlVmSWR6RDFiQ1pnRkFWVWhOREJsdUo5WkNVQW05QWF3aFpaSGxseEk2UWMwVHJUdHU4aEd0Ykh3NU02WnVNcUltNC01UlRuTGNzREwxZWFMdmN2QldoWlVkZ3IwTlVUQXcyZ0dzaUsxZUE5b3YyODJlNUE?oc=5",
+     "image": null,
+     "aggregator": true,
+     "published": "2026-11-01T17:33:00+00:00"
+    }
+   ]
+  },
+  {
+   "id": 5,
+   "score": 12.74,
+   "outlets": [
+    "tagesschau",
+    "ZDFheute",
+    "SPIEGEL",
+    "DER STANDARD",
+    "WELT"
+   ],
+   "regions": [
+    "AT",
+    "DE"
+   ],
+   "trend": [],
+   "newest": "2026-11-01T17:04:00+00:00",
+   "articles": [
+    {
+     "source": "tagesschau",
+     "region": "DE",
+     "weight": 1.0,
+     "title": "El Mala rettet 1. FC Köln bei Union Berlin - aber nicht Said",
+     "summary": "Der 1. FC Köln enttäuschte beim Wiedersehen mit Union Berlin - bei seiner Premiere sorgte Malek El Mala, Bruder von Said, trotzdem noch für einen Punktgewinn.",
+     "link": "https://www.sportschau.de/fussball/bundesliga/el-mala-rettet-koeln-bei-union-aber-nicht-said,spielbericht-union-berlin-koeln-102.html",
+     "image": "https://images.sportschau.de/image/ef25b93d-8b07-4828-bfae-1c9f91fd4c3a/AAABoZfwTZw/AAABnSSvrFg/16x9-big/union-kooeln-100.jpg?width=1920",
+     "aggregator": false,
+     "published": "2026-11-01T16:39:47+00:00"
+    },
+    {
+     "source": "ZDFheute",
+     "region": "DE",
+     "weight": 1.0,
+     "title": "Malek El Mala rettet Köln einen Punkt",
+     "summary": "Dank Malek El Mala reist der 1. FC Köln mit einem Punkt im Gepäck aus der Hauptstadt ab. Der Bundesliga-Neuling traf gegen Union Berlin spät zum 1:1.",
+     "link": "https://www.zdfheute.de/sport/fussball-bundesliga/bundesliga-1-fc-union-berlin-1-fc-koeln-spielbericht-100.html",
+     "image": "https://www.zdfheute.de/assets/malek-el-mala-fc-koeln-100~384x216?cb=1793550981744",
+     "aggregator": false,
+     "published": "2026-11-01T17:02:00+00:00"
+    },
+    {
+     "source": "SPIEGEL",
+     "region": "DE",
+     "weight": 0.9,
+     "title": "Fußball-Bundesliga: 1. FC Köln holt dank Malek El Mala Punkt bei Union Berlin",
+     "summary": "40 Jahre nach Klaus und Thomas Allofs hat der 1. FC Köln wieder ein Brüderpaar in der Fußball-Bundesliga. Und Malek El Mala feiert in Berlin einen traumhaften Einstand.",
+     "link": "https://www.spiegel.de/sport/fussball/fussball-bundesliga-1-fc-koeln-holt-dank-malek-el-mala-punkt-bei-union-berlin-a-e6aa8aa5-f5c2-4d56-a539-b03c888bd820#ref=rss",
+     "image": "https://cdn.prod.www.spiegel.de/images/b1553e51-7748-4772-aaa1-d4e1da0ad1f9_w520_r2.08_fpx42.65_fpy49.99.jpg",
+     "aggregator": false,
+     "published": "2026-11-01T17:04:00+00:00"
+    },
+    {
+     "source": "DER STANDARD",
+     "region": "AT",
+     "weight": 0.85,
+     "title": "Union Berlin gibt Sieg gegen Köln spät her",
+     "summary": "Die Berliner verpassen die Revanche für die Pokalpleite vor wenigen Tagen. Malek El Mala rettete den Gästen einen Punkt",
+     "link": "https://www.derstandard.at/story/3000000346951/fu223ball-union-berlin-daheim-gegen-k246ln-11?ref=rss",
+     "image": "https://i.ds.at/F9tQmA/rs:fill:150:0/plain/lido-images/2026/11/01/312b9587-53ab-40a5-885b-3a9001c73008.jpg",
+     "aggregator": false,
+     "published": "2026-11-01T16:58:49+00:00"
+    },
+    {
+     "source": "WELT",
+     "region": "DE",
+     "weight": 0.8,
+     "title": "Saïd El Mala leitet ein, Malek El Mala vollstreckt – Köln punktet bei Union Berlin",
+     "summary": "40 Jahre nach Klaus und Thomas Allofs hatte Köln in der Schlussphase bei Union Berlin wieder ein Brüderpaar auf dem Platz. Das Duo war auch am verdienten Ausgleich beteiligt. Mit dem ersten Auswärtssieg seit Oktober 2025 wurde es aber nichts.",
+     "link": "https://www.welt.de/sport/fussball/bundesliga/article6ae766cc82dfc5c67ce5a86f/said-el-mala-leitet-ein-malek-el-mala-vollstreckt-koeln-punktet-bei-union-berlin.html",
+     "image": "https://images.welt.de/6ae766cc82dfc5c67ce5a86f/e372ee514901fd800168b5112c418c65-master/ci23x11-w1200/2026-11-01t161720z-1439858118-up1emb1198v7c-rtrmadp-3-soccer-germany-fcu-koe-jpg",
+     "aggregator": false,
+     "published": "2026-11-01T16:34:19+00:00"
+    }
+   ]
+  },
+  {
+   "id": 6,
+   "score": 12.73,
+   "outlets": [
+    "tagesschau",
+    "ZDFheute",
+    "Handelsblatt",
+    "WirtschaftsWoche",
+    "DER STANDARD"
+   ],
+   "regions": [
+    "AT",
+    "DE",
+    "INT"
+   ],
+   "trend": [],
+   "newest": "2026-11-01T16:43:53+00:00",
+   "articles": [
+    {
+     "source": "tagesschau",
+     "region": "DE",
+     "weight": 1.0,
+     "title": "Streit über Verfassungsgericht: Unterstützung für Tusk aus Brüssel",
+     "summary": "In Polen stehen sich die Regierung von Tusk und das rechtskonservative Lager um Staatspräsident Nawrocki scheinbar unversöhnlich gegenüber. Nun schaltet sich die EU-Kommission in den Streit über das Verfassungsgericht ein.",
+     "link": "https://www.tagesschau.de/ausland/polen-verfassungsgericht-eu-kommission-102.html",
+     "image": "https://images.tagesschau.de/image/151ab74c-4bdb-4d76-9475-80d7decae5a0/AAABoZdy__A/AAABnSSvrFg/16x9-big/polen-verfassungsgericht-126.jpg?width=1920",
+     "aggregator": false,
+     "published": "2026-11-01T14:25:24+00:00"
+    },
+    {
+     "source": "tagesschau Ausland",
+     "region": "INT",
+     "weight": 1.0,
+     "title": "Streit über Verfassungsgericht: Unterstützung für Tusk aus Brüssel",
+     "summary": "In Polen stehen sich die Regierung von Tusk und das rechtskonservative Lager um Staatspräsident Nawrocki scheinbar unversöhnlich gegenüber. Nun schaltet sich die EU-Kommission in den Streit über das Verfassungsgericht ein.",
+     "link": "https://www.tagesschau.de/ausland/polen-verfassungsgericht-eu-kommission-102.html",
+     "image": "https://images.tagesschau.de/image/151ab74c-4bdb-4d76-9475-80d7decae5a0/AAABoZdy__A/AAABnSSvrFg/16x9-big/polen-verfassungsgericht-126.jpg?width=1920",
+     "aggregator": false,
+     "published": "2026-11-01T14:25:24+00:00"
+    },
+    {
+     "source": "ZDFheute",
+     "region": "DE",
+     "weight": 1.0,
+     "title": "Tusk: In Polen gilt nicht das \"Gesetz des Dschungels\"",
+     "summary": "Im Streit um das polnische Verfassungsgericht hat Regierungschef Tusk den rechtskonservativen Präsidenten Nawrocki scharf kritisiert. Er warf ihm Einschüchterung der Richter vor.",
+     "link": "https://www.zdfheute.de/politik/ausland/polen-tusk-konflikt-verfassungsgericht-100.html",
+     "image": "https://www.zdfheute.de/assets/donald-tusk-polen-104~384x216?cb=1793507998382",
+     "aggregator": false,
+     "published": "2026-11-01T04:45:00+00:00"
+    },
+    {
+     "source": "Handelsblatt",
+     "region": "DE",
+     "weight": 0.9,
+     "title": "Justiz: Verhärtete Fronten im Streit um Polens Verfassungsgericht",
+     "summary": "Beim Tauziehen um die Besetzung der Richterposten will weder Regierungschef Tusk noch Präsident Nawrocki nachgeben. Eine geplante Generalversammlung der Verfassungsrichter birgt neuen Zündstoff.",
+     "link": "https://www.handelsblatt.com/politik/international/justiz-verhaertete-fronten-im-streit-um-polens-verfassungsgericht/100266386.html",
+     "image": "https://images.handelsblatt.com/c5Q8tFdGwoON/cover/900/506/0/0/107/107/0.5/0.5/streit-um-verfassungsgericht-in-polen-spitzt-sich-zu.jpg",
+     "aggregator": false,
+     "published": "2026-11-01T13:16:59+00:00"
+    },
+    {
+     "source": "Handelsblatt",
+     "region": "DE",
+     "weight": 0.9,
+     "title": "Polen: ﻿„Staatsstreich“ oder Rückkehr zur Rechtmäßigkeit? Der Streit um Polens Verfassungsgericht eskaliert",
+     "summary": "In der Nacht zum Samstag marschiert die Polizei vor Polens Verfassungsgericht auf, und der Staatspräsident liefert sich ein Handgemenge mit einer Richterin. Es geht um die Macht in dem Gremium.",
+     "link": "https://www.handelsblatt.com/politik/international/polen-streit-um-polens-verfassungsgericht-eskaliert/100266434.html",
+     "image": "https://images.handelsblatt.com/UU1pAwEXArMf/cover/900/506/0/0/0/627/0.5/0.5/warschau.jpg",
+     "aggregator": false,
+     "published": "2026-11-01T13:07:02+00:00"
+    },
+    {
+     "source": "WirtschaftsWoche",
+     "region": "DE",
+     "weight": 0.85,
+     "title": "Umstrittener Justizumbau: Verhärtete Fronten im Streit um Polens Verfassungsgericht",
+     "summary": "Beim Tauziehen um die Besetzung der Richterposten will weder Regierungschef Donald Tusk noch Präsident Karol Nawrocki nachgeben.",
+     "link": "https://www.wiwo.de/politik/ausland/umstrittener-justizumbau-verhaertete-fronten-im-streit-um-polens-verfassungsgericht/100266328.html",
+     "image": "https://images.wiwo.de/Nqa8Ej2W4tYz/cover/900/506/0/0/313/312/0.5/0.5/dpatopbilder-31.10.2026-polen-warschau-die-polnische-polizei-rueckt-auf-dem-gelaende-des-polnisch.jpg",
+     "aggregator": false,
+     "published": "2026-11-01T13:53:00+00:00"
+    },
+    {
+     "source": "DER STANDARD",
+     "region": "AT",
+     "weight": 0.85,
+     "title": "Der Machtkampf um Polens Verfassungsgericht ist noch nicht entschieden",
+     "summary": "Der Machtkampf um Polens Verfassungsgericht ist noch nicht entschieden Tusk: Im Rechtsstaat gilt nicht das Gesetz des Dschungels",
+     "link": "https://www.derstandard.at/story/3000000346935/der-machtkampf-um-polens-verfassungsgericht-ist-noch-nicht-entschieden?ref=rss",
+     "image": "https://i.ds.at/q6FuRA/rs:fill:150:0/plain/lido-images/2026/11/01/e3a97477-9f53-4321-b8dc-6cccd84afa0a.jpg",
+     "aggregator": false,
+     "published": "2026-11-01T16:43:53+00:00"
+    }
+   ]
+  },
+  {
+   "id": 7,
+   "score": 11.89,
+   "outlets": [
+    "tagesschau",
+    "SPIEGEL",
+    "Handelsblatt",
+    "WELT",
+    "n-tv"
+   ],
+   "regions": [
+    "DE"
+   ],
+   "trend": [],
+   "newest": "2026-11-01T15:25:00+00:00",
+   "articles": [
+    {
+     "source": "tagesschau",
+     "region": "DE",
+     "weight": 1.0,
+     "title": "Polizei zieht Bilanz zu Krawallen in Frankfurt",
+     "summary": "54 Festnahmen, zahlreiche Verletzte und fünf geplünderte Geschäfte: Nach den Krawallen in Frankfurt am Main hat die Polizei eine erste Bilanz gezogen. Bei einem überwiegenden Teil der Randalierer sei kein politisches Motiv erkennbar.",
+     "link": "https://www.tagesschau.de/inland/regional/hessen/krawalle-frankfurt-polizei-bilanz-100.html",
+     "image": "https://images.tagesschau.de/image/4243f3f1-0ef0-4997-a728-4b49d417be41/AAABoZfYLHc/AAABnSSvrFg/16x9-big/krawalle-randale-frankfurt-100.jpg?width=1920",
+     "aggregator": false,
+     "published": "2026-11-01T14:34:28+00:00"
+    },
+    {
+     "source": "SPIEGEL",
+     "region": "DE",
+     "weight": 0.9,
+     "title": "Frankfurt am Main: Nach »Gen Z regelt«-Demo zieht der hessische Innenminister Bilanz",
+     "summary": "Verletzte Polizisten, geplünderte Geschäfte: Als die »Gen Z regelt«-Demos endeten, spitzte sich die Lage in Frankfurt zu. Nun räumt die Stadt auf – und die Diskussion über die Randalierer beginnt.",
+     "link": "https://www.spiegel.de/politik/deutschland/frankfurt-am-main-nach-gen-z-regelt-demo-zieht-der-hessische-innenminister-bilanz-a-73755ca1-6c44-47e2-9a05-1d53b8677f7d#ref=rss",
+     "image": "https://cdn.prod.www.spiegel.de/images/b1737b84-2236-43e4-a2db-5b591ec80573_w520_r2.08_fpx33.33_fpy49.99.jpg",
+     "aggregator": false,
+     "published": "2026-11-01T15:25:00+00:00"
+    },
+    {
+     "source": "Handelsblatt",
+     "region": "DE",
+     "weight": 0.9,
+     "title": "Gewalt bei Ausschreitungen: Was zu den Krawallen in Frankfurt bekannt ist",
+     "summary": "Plünderungen, brennende Barrikaden, über 50 Festnahmen: Die Polizei spricht nach den Krawallen in Frankfurt von erheblichen Schäden. Wer dahinter steckt und wie die Gewalt jetzt aufgearbeitet wird.",
+     "link": "https://www.handelsblatt.com/politik/deutschland/gewalt-bei-ausschreitungen-was-zu-den-krawallen-in-frankfurt-bekannt-ist/100266371.html",
+     "image": "https://images.handelsblatt.com/Hsghlkc0O2CM/cover/900/506/0/0/107/106/0.5/0.5/nach-demonstrationen-gen-z-regelt-frankfurt-am-main.jpg",
+     "aggregator": false,
+     "published": "2026-11-01T14:02:37+00:00"
+    },
+    {
+     "source": "WELT",
+     "region": "DE",
+     "weight": 0.8,
+     "title": "„Tätergruppe war überwiegend migrantisch geprägt“ – Innenminister setzt Sonderkommission ein",
+     "summary": "Hessens Innenminister Poseck (CDU) zieht nach den Krawallen in Frankfurt Bilanz. Insgesamt waren 1500 gewaltbereite Störer auf den Straßen, der jüngste war erst 13 Jahre alt. Die AfD wirft der Landesregierung Versagen vor.",
+     "link": "https://www.welt.de/politik/deutschland/article6ae723e982dfc5c67ce5a3f9/frankfurt-taetergruppe-war-ueberwiegend-migrantisch-gepraegt-sagt-poseck-afd-wirft-regierung-versagen-vor.html",
+     "image": "https://images.welt.de/6ae723e982dfc5c67ce5a3f9/21d932048548dde3d2637f2b3f1a8f1b/ci23x11-w1200/2026-10-31t201251z-1336582077-rc2keoat105v-rtrmadp-3-germany-protest-jpg",
+     "aggregator": false,
+     "published": "2026-11-01T12:42:34+00:00"
+    },
+    {
+     "source": "n-tv",
+     "region": "DE",
+     "weight": 0.8,
+     "title": "54 Personen festgenommen: Frankfurt zieht Bilanz: Verletzte Polizisten, geplünderte Geschäfte",
+     "summary": "In der vergangenen Nacht folgten auf friedliche Demonstrationen in mehreren deutschen Städten Ausschreitungen. Vor allem Frankfurt am Main ist betroffen. Stadtvertreter und Polizei berichten von Schäden, Festnahmen und Verletzten.",
+     "link": "https://www.n-tv.de/politik/Frankfurt-zieht-Bilanz-Verletzte-Polizisten-gepluenderte-Geschaefte-id31482317.html",
+     "image": "https://www.n-tv.de/img/31482303/1793544874/Img_4_3/250/629682883.jpg",
+     "aggregator": false,
+     "published": "2026-11-01T14:16:09+00:00"
+    }
+   ]
+  },
+  {
+   "id": 8,
+   "score": 11.69,
+   "outlets": [
+    "tagesschau",
+    "SPIEGEL",
+    "ZEIT ONLINE",
+    "WELT",
+    "T-Online"
+   ],
+   "regions": [
+    "DE"
+   ],
+   "trend": [],
+   "newest": "2026-11-01T17:50:15+00:00",
+   "articles": [
+    {
+     "source": "tagesschau",
+     "region": "DE",
+     "weight": 1.0,
+     "title": "Beatles-Wegbereiter Horst Fascher gestorben",
+     "summary": "Er holte die Beatles in seinen Star-Club nach Hamburg und legte damit den Grundstein für ihren Welterfolg. Nun ist der Konzert-Manager Horst Fascher NDR-Informationen zufolge im Alter von 90 Jahren gestorben.",
+     "link": "https://www.ndr.de/kultur/musik/pop/sein-star-club-machte-sie-gross-beatles-wegbereiter-horst-fascher-gestorben,horstfascher-100.html",
+     "image": "https://images.ndr.de/image/038942d5-73a3-43c5-9b22-078fa9fe03f8/AAABoZc3IXM/AAABnSSvrFg/16x9-big/screenshot-253888.jpg?width=1920",
+     "aggregator": false,
+     "published": "2026-11-01T14:16:10+00:00"
+    },
+    {
+     "source": "SPIEGEL",
+     "region": "DE",
+     "weight": 0.9,
+     "title": "Horst Fascher: Star-Club-Mitgründer ist tot",
+     "summary": "Er machte die Beatles in Deutschland groß, sein Star-Club in Hamburg galt als legendär: Nun ist Horst Fascher im Alter von 90 Jahren gestorben.",
+     "link": "https://www.spiegel.de/kultur/horst-fascher-star-club-mitgruender-ist-tot-a-d0618a32-22a3-413e-9261-949afb35192c#ref=rss",
+     "image": "https://cdn.prod.www.spiegel.de/images/6d538ccc-c95f-441c-9d5a-07e72defbef5_w520_r2.08_fpx50.75_fpy44.88.jpg",
+     "aggregator": false,
+     "published": "2026-11-01T17:33:00+00:00"
+    },
+    {
+     "source": "ZEIT ONLINE",
+     "region": "DE",
+     "weight": 0.9,
+     "title": "Hamburger Kiez-Musikmanager: «Star-Club»-Legende Horst Fascher ist tot",
+     "summary": "",
+     "link": "https://www.zeit.de/news/2026-11/01/star-club-legende-horst-fascher-ist-tot",
+     "image": "https://img.zeit.de/news/2026-11/01/star-club-legende-horst-fascher-ist-tot-image-group/original__640x360",
+     "aggregator": false,
+     "published": "2026-11-01T17:29:39+00:00"
+    },
+    {
+     "source": "WELT",
+     "region": "DE",
+     "weight": 0.8,
+     "title": "Er holte die Beatles und Chuck Berry nach St. Pauli – „Star-Club“-Legende Horst Fascher ist tot",
+     "summary": "Der Hamburger Musikmanager starb am Freitag im Alter von 90 Jahren. Mit dem „Star-Club“ schrieb Horst Fascher ein Stück Rockgeschichte. Ob Chuck Berry, Jerry Lee Lewis, Ray Charles oder Bill Haley – bei Fascher traten sie alle auf.",
+     "link": "https://www.welt.de/vermischtes/article6ae777b6aedea8cd9ffc0e8d/hamburger-musikmanager-er-holte-die-beatles-und-chuck-berry-nach-st-pauli-star-club-legende-horst-fascher-ist-tot.html",
+     "image": "https://images.welt.de/6ae777b6aedea8cd9ffc0e8d/e882ebaffdfec2c3f4311c85a0b0ff2e-master/ci23x11-w1200/dpa-com-261101-935-1714309-jpg",
+     "aggregator": false,
+     "published": "2026-11-01T17:50:15+00:00"
+    },
+    {
+     "source": "T-Online",
+     "region": "DE",
+     "weight": 0.6,
+     "title": "Horst Fascher: Deutscher Wegbegleiter der Beatles ist tot",
+     "summary": "Horst Fascher: Deutscher Wegbegleiter der Beatles ist tot T-Online Beatles-Wegbereiter in Deutschland: Star-Club-Mitgründer Horst Fascher ist tot Spiegel Er holte die Beatles und Chuck Berry nach St. Pauli – „Star-Club“-Legende Horst Fascher ist tot WELT Eine Kiez-Legende ist tot: Horst Fascher und die wilden Jahre der Beatles NDR.de Trauer um den deutschen Beatles-Entdecker Horst Fascher BILD",
+     "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPUEg1OElwU0FoOUtjNW4zRDc1NGlnV0hrTjJ0MVhrQVNSSVNsOEs0QWNYUFM5djZWdHRENEJtRHlPNnJrQWtsYW9ieEVmSlRLbjltQTFGZ3pSZnA0Y3B0NExlaXhpbjBNZEJzd0NXT3J6UzdrR0lNQmhtR2dxZmg3bF9XZFBSY3BoV3dORUtwVkszTnZxVlVfQUppVnBIZ3VDc1pqWFE0b1VYVGtPcmFWOW9Dd3ROOGh5?oc=5",
+     "image": null,
+     "aggregator": true,
+     "published": "2026-11-01T14:32:36+00:00"
+    }
+   ]
+  },
+  {
+   "id": 9,
+   "score": 10.82,
+   "outlets": [
+    "SPIEGEL",
+    "ZEIT ONLINE",
+    "DER STANDARD",
+    "WELT"
+   ],
+   "regions": [
+    "AT",
+    "DE"
+   ],
+   "trend": [],
+   "newest": "2026-11-01T17:54:33+00:00",
+   "articles": [
+    {
+     "source": "SPIEGEL",
+     "region": "DE",
+     "weight": 0.9,
+     "title": "Hollywoodregisseur Michael Mann: Selbst verletzt bei Schießstand-Unfall",
+     "summary": "Der 83-Jährige ist ins Krankenhaus gebracht worden, inzwischen gibt es jedoch Entwarnung: Hollywoodregisseur Michael Mann hat sich versehentlich auf einem Schießstand ins Bein geschossen.",
+     "link": "https://www.spiegel.de/panorama/leute/hollywoodregisseur-michael-mann-selbst-verletzt-bei-schiessstand-unfall-a-1c88e0d1-7b0b-4de2-978a-432f20e98050#ref=rss",
+     "image": "https://cdn.prod.www.spiegel.de/images/40885a00-7b4b-413e-a11c-b9806fb3fcb7_w520_r2.08_fpx40.65_fpy45.jpg",
+     "aggregator": false,
+     "published": "2026-11-01T17:53:00+00:00"
+    },
+    {
+     "source": "ZEIT ONLINE",
+     "region": "DE",
+     "weight": 0.9,
+     "title": "Sportunfall: Regisseur Michael Mann bei Schießunfall leicht verletzt",
+     "summary": "",
+     "link": "https://www.zeit.de/news/2026-11/01/regisseur-michael-mann-bei-schiessunfall-leicht-verletzt",
+     "image": "https://img.zeit.de/news/2026-11/01/regisseur-michael-mann-bei-schiessunfall-leicht-verletzt-image-group/original__640x360",
+     "aggregator": false,
+     "published": "2026-11-01T17:54:33+00:00"
+    },
+    {
+     "source": "DER STANDARD",
+     "region": "AT",
+     "weight": 0.85,
+     "title": "\"Heat\"-Regisseur Michael Mann schießt sich ins eigene Bein und muss ins Spital",
+     "summary": "Bei einem Schießstand in Los Angeles hat sich der US-Regisseur selbst mit seiner eigenen Waffe verletzt. Die Schusswunde sei aber harmlos",
+     "link": "https://www.derstandard.at/story/3000000346948/heat-regisseur-michael-mann-schiesst-sich-ins-eigene-bein-und-muss-ins-spital?ref=rss",
+     "image": "https://i.ds.at/6YMZxw/rs:fill:150:0/plain/lido-images/2026/11/01/aae3a48d-a442-463d-b435-afe7c07ff00f.jpg",
+     "aggregator": false,
+     "published": "2026-11-01T16:29:20+00:00"
+    },
+    {
+     "source": "WELT",
+     "region": "DE",
+     "weight": 0.8,
+     "title": "Unfall beim Training – Michael Mann schießt sich selbst ins Bein",
+     "summary": "Der 83-jährige Regisseur war auf einem Schießstand gerade dabei, seine Waffe während des Zielschießens in das Holster zu stecken, als sich der Schuss löste. Michael Mann gilt als erfahrener Sportschütze.",
+     "link": "https://www.welt.de/politik/deutschland/article6ae76ae582dfc5c67ce5a8d8/filmemacher-unfall-beim-training-michael-mann-schiesst-sich-selbst-ins-bein.html",
+     "image": "https://images.welt.de/6ae76ae582dfc5c67ce5a8d8/f5ca7f5f26e19e90c3836f3fc1265034-master/ci23x11-w1200/apdpa-f7b6422e58e64ff79be028d59b99435c-jpg",
+     "aggregator": false,
+     "published": "2026-11-01T17:07:11+00:00"
+    }
+   ]
+  },
+  {
+   "id": 10,
+   "score": 10.71,
+   "outlets": [
+    "Deutschlandfunk",
+    "Handelsblatt",
+    "WirtschaftsWoche",
+    "n-tv"
+   ],
+   "regions": [
+    "DE"
+   ],
+   "trend": [],
+   "newest": "2026-11-01T17:17:05+00:00",
+   "articles": [
+    {
+     "source": "Deutschlandfunk",
+     "region": "DE",
+     "weight": 0.95,
+     "title": "Finanzen - Nach Hacker-Angriff: Binance gibt Kundenauszahlungen schrittweise frei",
+     "summary": "Nach dem Cyberangriff auf die Digitalwährungsbörse Binance erlaubt das Unternehmen wieder erste Kundenauszahlungen.",
+     "link": "https://www.deutschlandfunk.de/nach-hacker-angriff-binance-gibt-kundenauszahlungen-schrittweise-frei-100.html",
+     "image": "https://bilder.deutschlandfunk.de/63/c7/08/26/63c70826-5020-4a28-857b-b6ccfdceaf75/binance-100-1920x1920.jpg",
+     "aggregator": false,
+     "published": "2026-11-01T17:17:05+00:00"
+    },
+    {
+     "source": "Handelsblatt",
+     "region": "DE",
+     "weight": 0.9,
+     "title": "Digitalwährungen: Binance gibt Kundenauszahlungen nach Hackerangriff frei",
+     "summary": "Nach dem Rekord-Hackerangriff auf Binance kommen die Kunden der Kryptobörse mit hoher Wahrscheinlichkeit glimpflich davon. Sie können inzwischen Ihre Einlagen auch wieder abheben.",
+     "link": "https://www.handelsblatt.com/technik/it-internet/digitalwaehrungen-binance-gibt-kundenauszahlungen-nach-hackerangriff-frei/100266432.html",
+     "image": "https://images.handelsblatt.com/EftxtlDmn7OV/cover/900/506/0/0/107/106/0.5/0.5/sicherheitsvorfall-bei-binance.jpg",
+     "aggregator": false,
+     "published": "2026-11-01T10:55:04+00:00"
+    },
+    {
+     "source": "WirtschaftsWoche",
+     "region": "DE",
+     "weight": 0.85,
+     "title": "Cyberangriff: Binance gibt Kundenauszahlungen nach Hackerangriff frei",
+     "summary": "Nach dem Rekord-Hackerangriff auf Binance kommen die Kunden der Kryptobörse mit hoher Wahrscheinlichkeit glimpflich davon. Sie können inzwischen Ihre Einlagen auch wieder abheben.",
+     "link": "https://www.wiwo.de/finanzen/geldanlage/binance-kryptoboerse-nimmt-nach-milliarden-raub-auszahlungen-wieder-auf/100266414.html",
+     "image": "https://images.wiwo.de/es-T5zdEfEvH/cover/900/506/0/0/624/1/0.5/0.5/archiv-28.02.2023-usa-gemeinde-marple-das-binance-logo-ist-auf-einem-smartphone-zu-sehen.-die-g.jpg",
+     "aggregator": false,
+     "published": "2026-11-01T10:44:00+00:00"
+    },
+    {
+     "source": "n-tv",
+     "region": "DE",
+     "weight": 0.8,
+     "title": "Digitaler Kassensturz: Binance gibt nach Hackerangriff Kundenauszahlungen frei",
+     "summary": "Nach dem Rekord-Hackerangriff auf Binance kommen die Kunden der Kryptobörse mit hoher Wahrscheinlichkeit glimpflich davon. Sie können inzwischen Ihre Einlagen auch wieder abheben.",
+     "link": "https://www.n-tv.de/wirtschaft/Binance-gibt-nach-Hackerangriff-Kundenauszahlungen-frei-id31481821.html",
+     "image": "https://www.n-tv.de/img/31481829/1793535626/Img_4_3/250/629629588.jpg",
+     "aggregator": false,
+     "published": "2026-11-01T12:20:58+00:00"
+    }
+   ]
+  },
+  {
+   "id": 11,
+   "score": 9.26,
+   "outlets": [
+    "tagesschau Ausland",
+    "ZDFheute",
+    "n-tv"
+   ],
+   "regions": [
+    "DE",
+    "INT"
+   ],
+   "trend": [],
+   "newest": "2026-11-01T17:07:10+00:00",
+   "articles": [
+    {
+     "source": "tagesschau Ausland",
+     "region": "INT",
+     "weight": 1.0,
+     "title": "Proteste gegen Meloni: Hunderttausende demonstrieren in Italien",
+     "summary": "Hohe Lebenshaltungskosten, steigende Rüstungsausgaben, zu wenig Investition in Bildung: In Italien sind Hunderttausende Menschen gegen die Politik der Regierung auf die Straße gegangen - begleitet von einem massiven Polizeiaufgebot.",
+     "link": "https://www.tagesschau.de/ausland/europa/italien-protest-meloni-100.html",
+     "image": "https://images.tagesschau.de/image/a82583bc-7d56-47a2-b7b3-5f24582ee034/AAABoYxf0ec/AAABnSSvrFg/16x9-big/rom-demo-104.jpg?width=1920",
+     "aggregator": false,
+     "published": "2026-10-30T17:23:20+00:00"
+    },
+    {
+     "source": "ZDFheute",
+     "region": "DE",
+     "weight": 1.0,
+     "title": "Landesweite Proteste in Italien",
+     "summary": "Aus Protest gegen die rechte Regierung von Giorgia Meloni sind in Italien mehr als 200.000 Menschen auf die Straße gegangen. Themen sind die Lebenserhaltungskosten und Bildung.",
+     "link": "https://www.zdfheute.de/video/politik-italien-proteste-meloni-100.html",
+     "image": "https://www.zdfheute.de/assets/italien-proteste-102~384x216?cb=1793385432419",
+     "aggregator": false,
+     "published": "2026-10-30T20:02:00+00:00"
+    },
+    {
+     "source": "n-tv",
+     "region": "DE",
+     "weight": 0.8,
+     "title": "Demos von Albanien bis Portugal: Frankreichs Funke springt über - Krawalle in mehreren Ländern",
+     "summary": "Steigende Kosten, zu wenig Geld für Bildung: Der Grundgedanke der Proteste in Frankreich verbindet zahlreiche Menschen in Europa. In mehreren Städten wird nun demonstriert - und nicht nur in Deutschland kippt dabei die Stimmung. Ein Überblick.",
+     "link": "https://www.n-tv.de/panorama/Frankreichs-Funke-springt-ueber-Krawalle-in-mehreren-Laendern-id31482566.html",
+     "image": "https://www.n-tv.de/img/31482593/1793553303/Img_4_3/250/629561899.jpg",
+     "aggregator": false,
+     "published": "2026-11-01T17:07:10+00:00"
+    }
+   ]
+  },
+  {
+   "id": 12,
+   "score": 9.21,
+   "outlets": [
+    "ZDFheute",
+    "Deutschlandfunk",
+    "n-tv"
+   ],
+   "regions": [
+    "DE"
+   ],
+   "trend": [],
+   "newest": "2026-11-01T17:17:05+00:00",
+   "articles": [
+    {
+     "source": "ZDFheute",
+     "region": "DE",
+     "weight": 1.0,
+     "title": "Steinmeier: China nicht bereit für Ukraine-Gipfel",
+     "summary": "Nach einem Treffen mit Chinas Präsident Xi kündigt der Bundespräsident mögliche Gespräche zwischen China, Russland und den USA an. Die Ukraine soll dabei jedoch kein Thema sein.",
+     "link": "https://www.zdfheute.de/politik/ausland/steinmeier-china-russland-usa-gipfel-ukraine-100.html",
+     "image": "https://www.zdfheute.de/assets/frank-walter-steinmeier-und-xi-jinping-100~384x216?cb=1793530022644",
+     "aggregator": false,
+     "published": "2026-11-01T12:50:00+00:00"
+    },
+    {
+     "source": "Deutschlandfunk",
+     "region": "DE",
+     "weight": 0.95,
+     "title": "Russlands Krieg in der Ukraine - Steinmeier: Chinas Staatschef Xi \"irritiert\" über Berichte zu Dreiergipfel mit USA und Russland",
+     "summary": "​Chinas Staats- und Parteichef Xi hat nach Darstellung von Bundespräsident Steinmeier kein Interesse an einem Ukraine-Dreiergipfel mit den USA und Russland. Die Irritation habe Xi im Gesicht gestanden, als er ihn direkt auf solche Meldungen angesprochen habe, sagte Steinmeier in der ARD kurz vor seiner Rückreise aus China.",
+     "link": "https://www.deutschlandfunk.de/steinmeier-chinas-staatschef-xi-irritiert-ueber-berichte-zu-dreiergipfel-mit-usa-und-russland-100.html",
+     "image": "https://bilder.deutschlandfunk.de/a2/aa/8e/8b/a2aa8e8b-d04c-4746-b8ea-e3fb63e6e6ef/bundespraesident-steinmeier-china-besuch-xi-jinping-grosse-halle-des-volkes-100-1920x1920.jpg",
+     "aggregator": false,
+     "published": "2026-11-01T17:17:05+00:00"
+    },
+    {
+     "source": "n-tv",
+     "region": "DE",
+     "weight": 0.8,
+     "title": "Bei Gespräch über Ukraine-Gipfel: Steinmeier: Xi stand \"die Irritation in seinem Gesicht\"",
+     "summary": "Werden die Präsidenten Russlands, der USA und Chinas zu dritt über die Ukraine-Frage beraten? Bundespräsident Steinmeier spricht in Peking Präsident Xi darauf an. Der reagiert demnach abweisend.",
+     "link": "https://www.n-tv.de/politik/Steinmeier-Xi-stand-die-Irritation-in-seinem-Gesicht-id31481697.html",
+     "image": "https://www.n-tv.de/img/31481699/1793532579/Img_4_3/250/629151556.jpg",
+     "aggregator": false,
+     "published": "2026-11-01T11:21:31+00:00"
+    }
+   ]
+  },
+  {
+   "id": 13,
+   "score": 8.91,
+   "outlets": [
+    "Deutschlandfunk",
+    "DER STANDARD",
+    "WELT"
+   ],
+   "regions": [
+    "AT",
+    "DE"
+   ],
+   "trend": [],
+   "newest": "2026-11-01T17:17:05+00:00",
+   "articles": [
+    {
+     "source": "Deutschlandfunk",
+     "region": "DE",
+     "weight": 0.95,
+     "title": "Großbritannien - London: Hunderte Festnahmen bei Solidaritäts-Demo für verbotene Aktivistengruppe \"Palestine Action\"",
+     "summary": "In London sind bei Protesten gegen das Verbot der Gruppe \"Palestine Action\" erneut Hunderte Menschen festgenommen worden.",
+     "link": "https://www.deutschlandfunk.de/london-hunderte-festnahmen-bei-solidaritaets-demo-fuer-verbotene-aktivistengruppe-palestine-action-100.html",
+     "image": "https://bilder.deutschlandfunk.de/c7/8a/a1/f6/c78aa1f6-5281-4736-9f30-68c11d25f4f8/london-festnahmen-100-1920x1920.jpg",
+     "aggregator": false,
+     "published": "2026-11-01T17:17:05+00:00"
+    },
+    {
+     "source": "DER STANDARD",
+     "region": "AT",
+     "weight": 0.85,
+     "title": "Erneut Hunderte Festnahmen bei Gaza-Demo in London",
+     "summary": "Der Protest richtete sich gegen das Verbot von Palestine Action. Die Gruppe wurde zuvor als terroristisch eingestuft",
+     "link": "https://www.derstandard.at/story/3000000346920/erneut-hunderte-festnahmen-bei-gaza-demo-in-london?ref=rss",
+     "image": "https://i.ds.at/mob22g/rs:fill:150:0/plain/lido-images/2026/11/01/7394d0c4-d582-4a71-8e83-825b3ca5d318.jpg",
+     "aggregator": false,
+     "published": "2026-11-01T12:03:42+00:00"
+    },
+    {
+     "source": "WELT",
+     "region": "DE",
+     "weight": 0.8,
+     "title": "Protest gegen Verbot von Gruppe Palestine Action – 325 Festnahmen in London",
+     "summary": "Angriffe auf einen israelischen Rüstungskonzern gehörten zu den Aktionen, die zum Verbot von Palestine Action in Großbritannien führten. Eine neue Solidaritätskundgebung in London führte nun zu hunderten Festnahmen.",
+     "link": "https://www.welt.de/vermischtes/kriminalitaet/article6ae7497882dfc5c67ce5a674/eingestufte-terrororganisation-protest-gegen-verbot-von-gruppe-palestine-action-325-festnahmen-in-london.html",
+     "image": "https://images.welt.de/6ae7497882dfc5c67ce5a674/14b2fa6fcb348ad22f5ff56109a760e1-master/ci23x11-w1200/dpa-com-261101-99-132995-jpg",
+     "aggregator": false,
+     "published": "2026-11-01T15:09:48+00:00"
+    }
+   ]
+  },
+  {
+   "id": 14,
+   "score": 8.68,
+   "outlets": [
+    "Deutsche Welle",
+    "ORF",
+    "DER STANDARD"
+   ],
+   "regions": [
+    "AT",
+    "INT"
+   ],
+   "trend": [],
+   "newest": "2026-11-01T15:41:01+00:00",
+   "articles": [
+    {
+     "source": "Deutsche Welle",
+     "region": "INT",
+     "weight": 0.95,
+     "title": "China: Kommunistische Parteiführung fordert mehr Disziplin",
+     "summary": "Die Kommunistische Partei Chinas verlangt von ihren Mitgliedern mehr Loyalität. 2027 wird die Parteispitze neu gewählt. Unklar bleibt, wer Xi Jinping wann nachfolgen wird. Die Herausforderungen sind vielfältig.",
+     "link": "https://www.dw.com/de/china-kommunistische-parteiführung-fordert-mehr-disziplin/a-79801448?maca=de-rss-de-all-1119-xml-mrss",
+     "image": "https://static.dw.com/image/79799552_302.jpg",
+     "aggregator": false,
+     "published": "2026-10-30T13:49:00+00:00"
+    },
+    {
+     "source": "ORF",
+     "region": "AT",
+     "weight": 0.95,
+     "title": "Chinas KP fordert mehr Disziplin von Funktionären",
+     "summary": "",
+     "link": "https://orf.at/stories/3446775/",
+     "image": null,
+     "aggregator": false,
+     "published": "2026-11-01T13:03:03+00:00"
+    },
+    {
+     "source": "DER STANDARD",
+     "region": "AT",
+     "weight": 0.85,
+     "title": "Partei von \"Viren\" befreien: Chinas KP mahnt zu mehr Disziplin",
+     "summary": "Die Parteiführung in China will mit einer Resolution die parteiinterne Disziplin fördern und verlangt von ihren Mitgliedern absolute Loyalität",
+     "link": "https://www.derstandard.at/story/3000000346944/mehr-disziplin-chinas-f252hrung-st228rkt-xis-autorit228t-in-kp?ref=rss",
+     "image": "https://i.ds.at/y9ZNtw/rs:fill:150:0/plain/lido-images/2026/11/01/41931067-3fb9-450c-99ed-1377e9f717a2.jpg",
+     "aggregator": false,
+     "published": "2026-11-01T15:41:01+00:00"
+    }
+   ]
+  },
+  {
+   "id": 15,
+   "score": 7.82,
+   "outlets": [
+    "tagesschau Inland",
+    "ZDFheute"
+   ],
+   "regions": [
+    "DE"
+   ],
+   "trend": [],
+   "newest": "2026-11-01T17:36:00+00:00",
+   "articles": [
+    {
+     "source": "tagesschau Inland",
+     "region": "DE",
+     "weight": 1.0,
+     "title": "Wer am Samstag auf die Straße geht - und was zu erwarten ist",
+     "summary": "Am Samstag soll es in zahlreichen Städten Deutschlands zu Protesten kommen. Nach den Ausschreitungen etwa in Frankreich ist die Sorge vor Gewalt groß. Zu recht? Was sagen die Sicherheitsbehörden, was Experten - und worum geht es eigentlich?",
+     "link": "https://www.tagesschau.de/inland/gesellschaft/gen-z-regelt-proteste-100.html",
+     "image": "https://images.tagesschau.de/image/13a3cc22-d409-4262-8cd5-c9a1e3fe3f8b/AAABoYaUSV4/AAABnSSvrFg/16x9-big/schueler-demonstration-100.jpg?width=1920",
+     "aggregator": false,
+     "published": "2026-10-29T12:02:19+00:00"
+    },
+    {
+     "source": "ZDFheute",
+     "region": "DE",
+     "weight": 1.0,
+     "title": "Gen-Z-Demos: Ausschreitungen überschatten den Protest",
+     "summary": "In mehr als 30 Städten haben junge Menschen ihren Frust auf die Straße getragen. Am Rande der meist friedlichen Proteste kam es in manchen Städten zu Krawallen. Der Tag im Blog.",
+     "link": "https://www.zdfheute.de/politik/deutschland/gen-z-proteste-deutschland-liveblog-100.html",
+     "image": "https://www.zdfheute.de/assets/frankfurt-ausschreitungen-innenstadt-100~384x216?cb=1793482194309",
+     "aggregator": false,
+     "published": "2026-11-01T17:36:00+00:00"
+    }
+   ]
+  },
+  {
+   "id": 16,
+   "score": 7.61,
+   "outlets": [
+    "tagesschau",
+    "Deutschlandfunk"
+   ],
+   "regions": [
+    "DE"
+   ],
+   "trend": [],
+   "newest": "2026-11-01T17:17:05+00:00",
+   "articles": [
+    {
+     "source": "tagesschau",
+     "region": "DE",
+     "weight": 1.0,
+     "title": "Ausschreitungen am Abend nach friedlichen Protesten am Nachmittag",
+     "summary": "Bei den Protesten am Tag ging es um bessere Bildung oder die Wehrpflicht, Zehntausende demonstrierten friedlich. Am Abend übernahmen in einigen Städten dann Krawallmacher und Extremisten. Besonders in Frankfurt eskalierte die Lage.",
+     "link": "https://www.tagesschau.de/inland/ausschreitungen-frankfurt-koeln-100.html",
+     "image": "https://images.tagesschau.de/image/17d67126-2747-4a82-b1c3-15cd570eaa3f/AAABoZR_zgc/AAABnSSvrFg/16x9-big/frankfurt-ausschreitungen-102.jpg?width=1920",
+     "aggregator": false,
+     "published": "2026-11-01T13:07:16+00:00"
+    },
+    {
+     "source": "tagesschau",
+     "region": "DE",
+     "weight": 1.0,
+     "title": "Weitgehend friedlich - in einigen Städten Ausschreitungen",
+     "summary": "Bessere Bildung, mehr Klimaschutz und bezahlbarer Wohnraum - dafür sind Zehntausende in vielen deutschen Städten auf die Straße gezogen. Die Proteste der \"Gen Z regelt\" blieben weitgehend friedlich. Doch am Abend kam es zu einigen Ausschreitungen.",
+     "link": "https://www.tagesschau.de/inland/gesellschaft/jugendproteste-102.html",
+     "image": "https://images.tagesschau.de/image/351fb06b-846d-4d72-9e5a-276ea9f46658/AAABoZN6Pzg/AAABnSSvrFg/16x9-big/jugendproteste-104.jpg?width=1920",
+     "aggregator": false,
+     "published": "2026-10-31T20:33:42+00:00"
+    },
+    {
+     "source": "tagesschau Inland",
+     "region": "DE",
+     "weight": 1.0,
+     "title": "Ausschreitungen am Abend nach friedlichen Protesten am Nachmittag",
+     "summary": "Bei den Protesten am Tag ging es um bessere Bildung oder die Wehrpflicht, Zehntausende demonstrierten friedlich. Am Abend übernahmen in einigen Städten dann Krawallmacher und Extremisten. Besonders in Frankfurt eskalierte die Lage.",
+     "link": "https://www.tagesschau.de/inland/ausschreitungen-frankfurt-koeln-100.html",
+     "image": "https://images.tagesschau.de/image/17d67126-2747-4a82-b1c3-15cd570eaa3f/AAABoZR_zgc/AAABnSSvrFg/16x9-big/frankfurt-ausschreitungen-102.jpg?width=1920",
+     "aggregator": false,
+     "published": "2026-11-01T13:07:16+00:00"
+    },
+    {
+     "source": "tagesschau Inland",
+     "region": "DE",
+     "weight": 1.0,
+     "title": "Weitgehend friedlich - in einigen Städten Ausschreitungen",
+     "summary": "Bessere Bildung, mehr Klimaschutz und bezahlbarer Wohnraum - dafür sind Zehntausende in vielen deutschen Städten auf die Straße gezogen. Die Proteste der \"Gen Z regelt\" blieben weitgehend friedlich. Doch am Abend kam es zu einigen Ausschreitungen.",
+     "link": "https://www.tagesschau.de/inland/gesellschaft/jugendproteste-102.html",
+     "image": "https://images.tagesschau.de/image/351fb06b-846d-4d72-9e5a-276ea9f46658/AAABoZN6Pzg/AAABnSSvrFg/16x9-big/jugendproteste-104.jpg?width=1920",
+     "aggregator": false,
+     "published": "2026-10-31T20:33:42+00:00"
+    },
+    {
+     "source": "Deutschlandfunk",
+     "region": "DE",
+     "weight": 0.95,
+     "title": "Weitgehend friedlich - Landesweite Massenproteste in Italien für bessere Bildung und gegen hohe Preise",
+     "summary": "In Italien haben Hunderttausende Menschen gegen steigende Lebenshaltungskosten und für mehr Geld für Bildung demonstriert. Die Gewerkschaft USB sprach von mindestens einer Million Teilnehmern.",
+     "link": "https://www.deutschlandfunk.de/landesweite-massenproteste-in-italien-fuer-bessere-bildung-und-gegen-hohe-preise-104.html",
+     "image": "https://bilder.deutschlandfunk.de/04/83/14/c5/048314c5-e3ec-4d94-a228-8b3eb3bf8e89/proteste-italien-100-1920x1920.jpg",
+     "aggregator": false,
+     "published": "2026-11-01T17:17:05+00:00"
+    }
+   ]
+  },
+  {
+   "id": 17,
+   "score": 7.61,
+   "outlets": [
+    "ZDFheute",
+    "Deutschlandfunk"
+   ],
+   "regions": [
+    "DE"
+   ],
+   "trend": [],
+   "newest": "2026-11-01T17:17:05+00:00",
+   "articles": [
+    {
+     "source": "ZDFheute",
+     "region": "DE",
+     "weight": 1.0,
+     "title": "Klimaexperte: Stromsteuersenkung wäre \"richtiger Schritt\"",
+     "summary": "Gegen die Energiepreiskrise sieht Chefökonom Ottmar Edenhofer vor allem die Senkung der Stromsteuer als gutes Mittel. Statt des Tankrabatts spricht er sich für ein Klimageld aus.",
+     "link": "https://www.zdfheute.de/politik/deutschland/stromsteuer-tankrabatt-klimageld-klimaexperte-100.html",
+     "image": "https://www.zdfheute.de/assets/stromsteuer-typical-100~384x216?cb=1793445414485",
+     "aggregator": false,
+     "published": "2026-10-31T12:19:00+00:00"
+    },
+    {
+     "source": "Deutschlandfunk",
+     "region": "DE",
+     "weight": 0.95,
+     "title": "Interview der Woche - Klimaökonom Edenhofer fordert Klimageld und Absenkung der Stromsteuer statt Tankrabatt",
+     "summary": "Der Klimaökonom Ottmar Edenhofer hat den Tankrabatt der Bundesregierung kritisiert und gleichzeitig eine Absenkung der Stromsteuer in Deutschland gefordert. Das sei ein richtiger Schritt, sagte der Direktor des Potsdam Instituts für Klimafolgenforschung im Interview der Woche des Deutschlandfunks.",
+     "link": "https://www.deutschlandfunk.de/klimaoekonom-edenhofer-fordert-klimageld-und-absenkung-der-stromsteuer-statt-tankrabatt-100.html",
+     "image": "https://bilder.deutschlandfunk.de/a7/3c/07/78/a73c0778-17cc-4ad5-a9d5-dc2f5592399c/ottmar-edenhofer-102-1920x1920.jpg",
+     "aggregator": false,
+     "published": "2026-11-01T17:17:05+00:00"
+    }
+   ]
+  },
+  {
+   "id": 18,
+   "score": 7.51,
+   "outlets": [
+    "Deutschlandfunk",
+    "ORF"
+   ],
+   "regions": [
+    "AT",
+    "DE"
+   ],
+   "trend": [],
+   "newest": "2026-11-01T17:17:05+00:00",
+   "articles": [
+    {
+     "source": "Deutschlandfunk",
+     "region": "DE",
+     "weight": 0.95,
+     "title": "Dürre und drohende Überschwemmungen - Bolivien ruft wegen El Niño Notstand aus",
+     "summary": "In Bolivien hat Präsident Paz wegen Dürren und drohender Überschwemmungen im Zusammenhang mit dem Klimaphänomen El Niño den Notstand ausgerufen.",
+     "link": "https://www.deutschlandfunk.de/bolivien-ruft-wegen-el-ni-o-notstand-aus-100.html",
+     "image": "https://bilder.deutschlandfunk.de/80/d4/5f/af/80d45faf-7b00-44dc-826f-44f0373e6244/eine-el-nino-wetterlage-102-768x768.png",
+     "aggregator": false,
+     "published": "2026-11-01T17:17:05+00:00"
+    },
+    {
+     "source": "ORF",
+     "region": "AT",
+     "weight": 0.95,
+     "title": "Bolivien ruft wegen „El Nino“ Notstand aus",
+     "summary": "",
+     "link": "https://orf.at/stories/3446748/",
+     "image": null,
+     "aggregator": false,
+     "published": "2026-11-01T08:29:24+00:00"
+    }
+   ]
+  },
+  {
+   "id": 19,
+   "score": 7.45,
+   "outlets": [
+    "tagesschau",
+    "Deutsche Welle",
+    "Handelsblatt"
+   ],
+   "regions": [
+    "DE",
+    "INT"
+   ],
+   "trend": [],
+   "newest": "2026-11-01T11:25:00+00:00",
+   "articles": [
+    {
+     "source": "tagesschau",
+     "region": "DE",
+     "weight": 1.0,
+     "title": "Trump lädt Flávio Bolsonaro zum Bleiben ein",
+     "summary": "Nach seiner Wahlniederlage setzte sich der brasilianische Präsidentschaftskandidat Flávio Bolsonaro in die USA ab. Dort darf er bleiben - \"so lange, wie er will\", sagte Präsident Trump. Treffen will er Bolsonaro vorerst nicht.",
+     "link": "https://www.tagesschau.de/ausland/amerika/trump-bolsonaro-usa-100.html",
+     "image": "https://images.tagesschau.de/image/2be04343-b2bc-4534-b2e4-46f970e3ff0e/AAABoZWlMg0/AAABnSSvrFg/16x9-big/trump-halloween-102.jpg?width=1920",
+     "aggregator": false,
+     "published": "2026-11-01T07:45:02+00:00"
+    },
+    {
+     "source": "tagesschau Ausland",
+     "region": "INT",
+     "weight": 1.0,
+     "title": "Trump lädt Flávio Bolsonaro zum Bleiben ein",
+     "summary": "Nach seiner Wahlniederlage setzte sich der brasilianische Präsidentschaftskandidat Flávio Bolsonaro in die USA ab. Dort darf er bleiben - \"so lange, wie er will\", sagte Präsident Trump. Treffen will er Bolsonaro vorerst nicht.",
+     "link": "https://www.tagesschau.de/ausland/amerika/trump-bolsonaro-usa-100.html",
+     "image": "https://images.tagesschau.de/image/2be04343-b2bc-4534-b2e4-46f970e3ff0e/AAABoZWlMg0/AAABnSSvrFg/16x9-big/trump-halloween-102.jpg?width=1920",
+     "aggregator": false,
+     "published": "2026-11-01T07:45:02+00:00"
+    },
+    {
+     "source": "Deutsche Welle",
+     "region": "INT",
+     "weight": 0.95,
+     "title": "Trump: Bolsonaro kann in den USA bleiben",
+     "summary": "Nach seiner Wahlniederlage hat Flávio Bolsonaro Brasilien fluchtartig in Richtung USA verlassen - trotz eines gerichtlichen Ausreiseverbots. Wenn es nach US-Präsident Trump geht, kann er so lange bleiben, wie er will.",
+     "link": "https://www.dw.com/de/trump-bolsonaro-kann-in-den-usa-bleiben/a-79821509?maca=de-rss-de-all-1119-xml-mrss",
+     "image": "https://static.dw.com/image/79821725_302.jpg",
+     "aggregator": false,
+     "published": "2026-11-01T11:25:00+00:00"
+    },
+    {
+     "source": "Deutsche Welle",
+     "region": "INT",
+     "weight": 0.95,
+     "title": "Flávio Bolsonaro flieht nach Wahlniederlage aus Brasilien",
+     "summary": "Der Sohn des inhaftierten Ex-Präsidenten Jair Bolsonaro ist in den USA gelandet. Zwischenstationen seiner unerkannten Ausreise waren Argentinien und Ecuador.",
+     "link": "https://www.dw.com/de/flávio-bolsonaro-flieht-nach-wahlniederlage-aus-brasilien/a-79786970?maca=de-rss-de-all-1119-xml-mrss",
+     "image": "https://static.dw.com/image/79758876_302.jpg",
+     "aggregator": false,
+     "published": "2026-10-28T14:56:00+00:00"
+    },
+    {
+     "source": "Handelsblatt",
+     "region": "DE",
+     "weight": 0.9,
+     "title": "Außenpolitik: Trump: Bolsonaro kann in USA bleiben",
+     "summary": "Der US-Präsident nennt die Wahl in Brasilien „eine Schande“. Wahlverlierer Flavio Bolsonaro dürfe so lange bleiben, wie er wolle. Das könnte die Beziehungen zwischen beiden Ländern belasten.",
+     "link": "https://www.handelsblatt.com/politik/international/brasilien-trump-bolsonaro-kann-in-usa-bleiben/100266404.html",
+     "image": "https://images.handelsblatt.com/6W1tOskTkqiC/cover/900/506/0/0/0/624/0.5/0.5/donald-trump.jpg",
+     "aggregator": false,
+     "published": "2026-11-01T06:53:24+00:00"
+    }
+   ]
+  },
+  {
+   "id": 20,
+   "score": 7.45,
+   "outlets": [
+    "tagesschau",
+    "ORF",
+    "Handelsblatt"
+   ],
+   "regions": [
+    "AT",
+    "DE",
+    "INT"
+   ],
+   "trend": [],
+   "newest": "2026-11-01T11:24:19+00:00",
+   "articles": [
+    {
+     "source": "tagesschau",
+     "region": "DE",
+     "weight": 1.0,
+     "title": "Israel: Demos für Einbindung der arabischen Parteien",
+     "summary": "Sie demonstrierten für Veränderung - und die Ablösung von Premier Netanjahu: In Israel haben Hunderte die Opposition dazu aufgerufen, die arabischen Parteien an der Regierungsbildung zu beteiligen.",
+     "link": "https://www.tagesschau.de/ausland/asien/israel-demo-arabische-parteien-100.html",
+     "image": "https://images.tagesschau.de/image/0177f223-3cc5-4615-981f-5d0db95461e4/AAABoZajhwU/AAABnSSvrFg/16x9-big/israel-demonstrationen-110.jpg?width=1920",
+     "aggregator": false,
+     "published": "2026-11-01T11:24:19+00:00"
+    },
+    {
+     "source": "tagesschau Ausland",
+     "region": "INT",
+     "weight": 1.0,
+     "title": "Israel: Demos für Einbindung der arabischen Parteien",
+     "summary": "Sie demonstrierten für Veränderung - und die Ablösung von Premier Netanjahu: In Israel haben Hunderte die Opposition dazu aufgerufen, die arabischen Parteien an der Regierungsbildung zu beteiligen.",
+     "link": "https://www.tagesschau.de/ausland/asien/israel-demo-arabische-parteien-100.html",
+     "image": "https://images.tagesschau.de/image/0177f223-3cc5-4615-981f-5d0db95461e4/AAABoZajhwU/AAABnSSvrFg/16x9-big/israel-demonstrationen-110.jpg?width=1920",
+     "aggregator": false,
+     "published": "2026-11-01T11:24:19+00:00"
+    },
+    {
+     "source": "ORF",
+     "region": "AT",
+     "weight": 0.95,
+     "title": "Israel: Opposition warnt vor Krieg mit Iran unter Netanjahu",
+     "summary": "",
+     "link": "https://orf.at/stories/3446751/",
+     "image": null,
+     "aggregator": false,
+     "published": "2026-11-01T08:50:20+00:00"
+    },
+    {
+     "source": "Handelsblatt",
+     "region": "DE",
+     "weight": 0.9,
+     "title": "Israel: Protest gegen Netanjahu bringt arabische Israelis an die Wahlurne",
+     "summary": "Bei den Parlamentswahlen wählten so viele palästinensische Staatsbürger Israels wie nie zuvor. Dies stärkt die arabischen Parteien – doch deren Regierungsbeteiligung ist keineswegs sicher.",
+     "link": "https://www.handelsblatt.com/politik/international/israel-protest-gegen-netanjahu-bringt-arabische-israelis-an-die-wahlurne/100266412.html",
+     "image": "https://images.handelsblatt.com/m0IO97zzTKcr/cover/900/506/0/0/313/312/0.5/0.5/dpatopbilder-28.10.2026-israel-jerusalem-der-israelische-ministerpraesident-benjamin-netanjahu-s.jpg",
+     "aggregator": false,
+     "published": "2026-11-01T08:21:24+00:00"
+    }
+   ]
+  },
+  {
+   "id": 21,
+   "score": 7.41,
+   "outlets": [
+    "Deutschlandfunk",
+    "Handelsblatt"
+   ],
+   "regions": [
+    "DE"
+   ],
+   "trend": [],
+   "newest": "2026-11-01T17:17:05+00:00",
+   "articles": [
+    {
+     "source": "Deutschlandfunk",
+     "region": "DE",
+     "weight": 0.95,
+     "title": "Vandalismus - Dobrindt: Linksextreme und \"migrantische Chaoten\" für Gewalt verantwortlich",
+     "summary": "Bundesinnenminister Dobrindt bewertet die Ausschreitungen in der vergangenen Nacht in mehreren deutschen Städten als Fälle von Landfriedensbruch. Der CSU-Politiker sagte am Rande einer Veranstaltung im bayerischen Peißenberg, es habe sich um gewaltbereite Linksextreme sowie - Zitat - \"Chaoten aus dem migrantischen Umfeld\" gehandelt. Sie hätten die zuvor friedlichen Demonstrationen gekapert. Das Vorgehen der Polizei bezeichnete Dobrindt als angemessen.",
+     "link": "https://www.deutschlandfunk.de/dobrindt-linksextreme-und-migrantische-chaoten-fuer-gewalt-verantwortlich-100.html",
+     "image": "https://bilder.deutschlandfunk.de/23/71/63/d9/237163d9-d4f3-4340-90c5-b223ae840b3d/frankfurt-krawalle-100-1920x1920.jpg",
+     "aggregator": false,
+     "published": "2026-11-01T17:17:05+00:00"
+    },
+    {
+     "source": "Deutschlandfunk",
+     "region": "DE",
+     "weight": 0.95,
+     "title": "CDU-Generalsekretärin Hoppermann - Demonstrationen als Deckmantel für Gewalt",
+     "summary": "CDU-Generalsekretärin Hoppermann hat die Krawalle nach Jugend-Demonstrationen in mehreren deutschen Städten verurteilt.",
+     "link": "https://www.deutschlandfunk.de/demonstrationen-als-deckmantel-fuer-gewalt-100.html",
+     "image": "https://bilder.deutschlandfunk.de/d0/1f/5b/72/d01f5b72-cd8c-4466-86d6-6f716a321a6b/cdu-sitzung-hoppermann-100-1920x1920.jpg",
+     "aggregator": false,
+     "published": "2026-11-01T17:17:05+00:00"
+    },
+    {
+     "source": "Handelsblatt",
+     "region": "DE",
+     "weight": 0.9,
+     "title": "Gen-Z-Proteste: Ausschreitungen in mehreren deutschen Städten: Gewaltexzesse wie in Paris laut Dobrindt verhindert",
+     "summary": "Für die Szenen aus Frankfurt und Köln am Samstagabend macht der Bundesinnenminister „gewaltbereite linke Gruppen und Chaoten aus dem migrantischen Milieu“ verantwortlich.",
+     "link": "https://www.handelsblatt.com/politik/deutschland/gen-z-proteste-ausschreitungen-in-mehreren-deutschen-staedten/100266421.html",
+     "image": "https://images.handelsblatt.com/hnM1946RcHk3/cover/900/506/0/0/313/312/0.5/0.5/dpatopbilder-31.10.2026-hessen-frankfurt-am-main-ein-feuer-brennt-bei-ausschreitungen-in-der-in.jpg",
+     "aggregator": false,
+     "published": "2026-11-01T10:08:11+00:00"
+    }
+   ]
+  },
+  {
+   "id": 22,
+   "score": 7.41,
+   "outlets": [
+    "Deutschlandfunk",
+    "Handelsblatt"
+   ],
+   "regions": [
+    "DE"
+   ],
+   "trend": [],
+   "newest": "2026-11-01T17:17:05+00:00",
+   "articles": [
+    {
+     "source": "Deutschlandfunk",
+     "region": "DE",
+     "weight": 0.95,
+     "title": "Tarife - Erste Warnstreiks der IG Metall",
+     "summary": "Im Tarifkonflikt der Metallindustrie hat es Warnstreiks gegeben.",
+     "link": "https://www.deutschlandfunk.de/erste-warnstreiks-der-ig-metall-104.html",
+     "image": "https://bilder.deutschlandfunk.de/FI/LE/_5/37/FILE_537fac075587e0fd4045b87391645c8b/133823390-jpg-100-768x768.jpg",
+     "aggregator": false,
+     "published": "2026-11-01T17:17:05+00:00"
+    },
+    {
+     "source": "Handelsblatt",
+     "region": "DE",
+     "weight": 0.9,
+     "title": "Tarifkonflikt: Metaller-Warnstreiks nehmen Fahrt auf",
+     "summary": "Mit „Mitternachtsaktionen“ beginnen Warnstreiks in der deutschen Metall- und Elektroindustrie. In einer schwierigen Lage geht es um Jobs und den Erhalt der Kaufkraft - auch in der neuen Woche.",
+     "link": "https://www.handelsblatt.com/politik/deutschland/tarifkonflikt-metaller-warnstreiks-nehmen-fahrt-auf/100266377.html",
+     "image": "https://images.handelsblatt.com/aIPKrhSjDdv2/cover/900/506/0/0/107/106/0.5/0.5/ig-metall-warnstreiks-andernach.jpg",
+     "aggregator": false,
+     "published": "2026-11-01T13:05:54+00:00"
+    }
+   ]
+  },
+  {
+   "id": 23,
+   "score": 7.41,
+   "outlets": [
+    "Deutschlandfunk",
+    "Handelsblatt"
+   ],
+   "regions": [
+    "DE"
+   ],
+   "trend": [],
+   "newest": "2026-11-01T17:17:05+00:00",
+   "articles": [
+    {
+     "source": "Deutschlandfunk",
+     "region": "DE",
+     "weight": 0.95,
+     "title": "Interview - Kramp-Karrenbauer warnt vor Regierungen von AfD und Linken",
+     "summary": "Die frühere CDU-Vorsitzende Kramp-Karrenbauer hat vor einer Regierungsübernahme der AfD in Sachsen-Anhalt, beziehungsweise der Linken in Berlin gewarnt.",
+     "link": "https://www.deutschlandfunk.de/kramp-karrenbauer-warnt-vor-regierungen-von-afd-und-linken-100.html",
+     "image": "https://bilder.deutschlandfunk.de/79/90/73/9c/7990739c-fea4-4ba3-9e48-5916a442b2a7/annegret-kramp-karrenbauer-cdu-konrad-adenauer-stiftung-vorsitzende-100-1920x1920.jpg",
+     "aggregator": false,
+     "published": "2026-11-01T17:17:05+00:00"
+    },
+    {
+     "source": "Handelsblatt",
+     "region": "DE",
+     "weight": 0.9,
+     "title": "Innenpolitik: Würde das Leben vieler Menschen verändern: Kramp-Karrenbauer warnt vor Bündnissen mit Linken oder AfD",
+     "summary": "In Berlin hat die Linke die Wahl gewonnen, in Sachsen-Anhalt die AfD. Die frühere CDU-Chefin meint, das Leben vieler Menschen würde sich stark verändern, wenn diese Parteien regieren würden.",
+     "link": "https://www.handelsblatt.com/politik/deutschland/innenpolitik-kramp-karrenbauer-warnt-vor-buendnissen-mit-linken-oder-der-afd/100266411.html",
+     "image": "https://images.handelsblatt.com/ndC6KiC6RAaU/cover/900/506/0/0/0/1855/0.5/0.5/28.04.2026-bayern-gmund-am-tegernsee-annegret-kramp-karrenbauer-vorsitzende-konrad-adenauer-stif.jpg",
+     "aggregator": false,
+     "published": "2026-11-01T08:03:22+00:00"
+    }
+   ]
+  },
+  {
+   "id": 24,
+   "score": 7.41,
+   "outlets": [
+    "ZDFheute",
+    "n-tv"
+   ],
+   "regions": [
+    "DE"
+   ],
+   "trend": [],
+   "newest": "2026-11-01T17:34:52+00:00",
+   "articles": [
+    {
+     "source": "ZDFheute",
+     "region": "DE",
+     "weight": 1.0,
+     "title": "Iran-Krieg und Nahost-Konflikt: Alle Nachrichten im Liveblog",
+     "summary": "Die Lage in Nahost ist weiter angespannt - es kommt immer wieder zu Angriffen. Im Westjordanland spitzt sich die Situation zu. Alle Entwicklungen im Liveblog.",
+     "link": "https://www.zdfheute.de/politik/ausland/iran-israel-usa-angriff-liveblog-100.html",
+     "image": "https://www.zdfheute.de/assets/beitrag-x-von-centcom-zu-angriffen-usa-auf-iran-100~384x216?cb=1788158231999",
+     "aggregator": false,
+     "published": "2026-11-01T13:48:00+00:00"
+    },
+    {
+     "source": "n-tv",
+     "region": "DE",
+     "weight": 0.8,
+     "title": "Neue israelische Angriffe: Bericht zählt erneut zehn Tote im Gazastreifen",
+     "summary": "Eigentlich herrscht im Gaza-Krieg eine Waffenruhe, dennoch kommt es immer wieder zu israelischen Angriffen. Eine palästinensische Nachrichtenagentur berichtet erneut von zehn Toten. Darunter soll auch ein Minderjähriger sein.",
+     "link": "https://www.n-tv.de/politik/Bericht-zaehlt-erneut-zehn-Tote-im-Gazastreifen-id31482419.html",
+     "image": "https://www.n-tv.de/img/31482446/1793548695/Img_4_3/250/629249659.jpg",
+     "aggregator": false,
+     "published": "2026-11-01T17:34:52+00:00"
+    }
+   ]
+  },
+  {
+   "id": 25,
+   "score": 7.34,
+   "outlets": [
+    "tagesschau Ausland",
+    "ZDFheute",
+    "BILD"
+   ],
+   "regions": [
+    "DE",
+    "INT"
+   ],
+   "trend": [],
+   "newest": "2026-11-01T14:22:31+00:00",
+   "articles": [
+    {
+     "source": "tagesschau Ausland",
+     "region": "INT",
+     "weight": 1.0,
+     "title": "Bewohner Oleschkys auf ukrainisch kontrolliertem Gebiet angekommen",
+     "summary": "Nach der Evakuierung der von Russland besetzten Stadt Oleschky sind gerettete Bewohner in ukrainisch kontrolliertem Gebiet angekommen. Zuvor waren sie mit Militärflugzeugen nach Belarus gebracht worden.",
+     "link": "https://www.tagesschau.de/ausland/oleschky-ukraine-100.html",
+     "image": "https://images.tagesschau.de/image/fe71c35a-2fba-4961-abc0-ac073243635b/AAABoZIiK3A/AAABnSSvrFg/16x9-big/ukraine-2890.jpg?width=1920",
+     "aggregator": false,
+     "published": "2026-10-31T15:06:39+00:00"
+    },
+    {
+     "source": "tagesschau Ausland",
+     "region": "INT",
+     "weight": 1.0,
+     "title": "Russland und Ukraine beginnen Waffenruhe für Frontstadt Oleschky",
+     "summary": "Seit Jahren ist die von Russland besetzte Stadt Oleschky in der Ostukraine umkämpft. Trotzdem leben dort noch bis zu 2.000 Menschen. Damit sie Hilfe bekommen, gilt jetzt eine Feuerpause. Andernorts gehen die Angriffe weiter.",
+     "link": "https://www.tagesschau.de/ausland/europa/ukraine-oleschky-waffenruhe-100.html",
+     "image": "https://images.tagesschau.de/image/62d4cc37-9f64-482c-b236-4ed3e8efa533/AAABoNKK1jQ/AAABnSSvrFg/16x9-big/karte-ukraine-frontverlaeufe-2228.jpg?width=1920",
+     "aggregator": false,
+     "published": "2026-10-27T06:56:19+00:00"
+    },
+    {
+     "source": "tagesschau Ausland",
+     "region": "INT",
+     "weight": 1.0,
+     "title": "Vermittelt durch Melania Trump - Waffenruhe für besetzte ukrainische Stadt",
+     "summary": "Die humanitäre Lage in der von Russland besetzten ukrainischen Stadt Oleschky ist dramatisch. Nun gibt es Hoffnung für eine Evakuierung. Das Weiße Haus gab eine lokale Waffenruhe bekannt - vermittelt durch First Lady Melania Trump.",
+     "link": "https://www.tagesschau.de/ausland/melania-trump-waffenruhe-oleschky-100.html",
+     "image": "https://images.tagesschau.de/image/a111bf3a-9485-4c36-82cc-c621e4893902/AAABoWlYGkY/AAABnSSvrFg/16x9-big/gebaeude-oleshky-100.jpg?width=1920",
+     "aggregator": false,
+     "published": "2026-10-23T17:26:28+00:00"
+    },
+    {
+     "source": "ZDFheute",
+     "region": "DE",
+     "weight": 1.0,
+     "title": "Oleschky: Gemeinsame Hilfsaktion von Ukraine und Russland",
+     "summary": "Russland und die Ukraine haben in der russisch besetzten Frontstadt Oleschky eine Evakuierung durchgeführt. Dies ist die größte humanitäre Hilfsaktion seit Beginn des Krieges.",
+     "link": "https://www.zdfheute.de/video/politik-evakuierung-oleschky-hilfsaktion-ukraine-video-100.html",
+     "image": "https://www.zdfheute.de/assets/evakuierung-oleschky-100~384x216?cb=1793444030080",
+     "aggregator": false,
+     "published": "2026-10-31T09:31:00+00:00"
+    },
+    {
+     "source": "ZDFheute",
+     "region": "DE",
+     "weight": 1.0,
+     "title": "Ukrainische Flüchtlinge aus Oleschky treffen in Belarus ein",
+     "summary": "Nach ihrer Evakuierung aus der umkämpften Stadt Oleschky sind viele ukrainische Zivilisten in Belarus eingetroffen. Von dort aus soll es für sie zurück in die Ukraine gehen.",
+     "link": "https://www.zdfheute.de/politik/ausland/oleschky-evakuierte-belarus-ukraine-krieg-russland-100.html",
+     "image": "https://www.zdfheute.de/assets/oleschky-evakuierung-100~384x216?cb=1793443661050",
+     "aggregator": false,
+     "published": "2026-10-31T12:35:00+00:00"
+    },
+    {
+     "source": "BILD",
+     "region": "DE",
+     "weight": 0.6,
+     "title": "Papst Leo XIV.: Druck auf Putin für Feuerpause um Oleschky",
+     "summary": "Papst Leo XIV.: Druck auf Putin für Feuerpause um Oleschky BILD Bewohner Oleschkys auf ukrainisch kontrolliertem Gebiet angekommen tagesschau.de „Mission beendet“: Dutzende Menschen aus Oleschky evakuiert FOCUS online Ukraine: 19 Stunden von Oleschky in die Freiheit FAZ Frontstadt Oleschky: Trotz erfolgreicher Evakuierung wenig Hoffnung auf Frieden taz.de",
+     "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPSzh6RzlKWjhFaTVTaU1EUUVOajZVODR3RE13TEpDMXB5Zng3eS1lR0YyQW8yM0FjRjNzbVlFaEhjMmp6OUNPc3lVc290TzJMZklkRkVDUDl6WlRpWkdqUkJmWXZnVEVHOVFjYkR3NXhvamJuRy1MYUJPcVBpckJNUTNEWWduUElfd0ZXWVJCV0VkOGRuVWRIcEUxSVJjbGlxU0tVNVNEalA0eW84TnRTT2xIUWhZU3ljbDVFaHR1RDZGRGdPMExXSlM3N0lwa0kwbDhJNA?oc=5",
+     "image": null,
+     "aggregator": true,
+     "published": "2026-11-01T14:22:31+00:00"
+    }
+   ]
+  },
+  {
+   "id": 26,
+   "score": 7.34,
+   "outlets": [
+    "ORF",
+    "WELT"
+   ],
+   "regions": [
+    "AT",
+    "DE"
+   ],
+   "trend": [],
+   "newest": "2026-11-01T17:39:59+00:00",
+   "articles": [
+    {
+     "source": "ORF",
+     "region": "AT",
+     "weight": 0.95,
+     "title": "US-Warnung vor Anschlag in Moskau: Minderjähriger verhaftet",
+     "summary": "",
+     "link": "https://orf.at/stories/3446788/",
+     "image": null,
+     "aggregator": false,
+     "published": "2026-11-01T16:16:44+00:00"
+    },
+    {
+     "source": "WELT",
+     "region": "DE",
+     "weight": 0.8,
+     "title": "Nach US-Warnung vor drohendem Anschlag in Moskau – Minderjähriger Russe festgenommen",
+     "summary": "US-Ermittler informierten den russischen Geheimdienst über einen bevorstehenden Anschlag auf ein Museum nahe Moskau. Nun steht ein 17-jähriger Russe im Fokus der Ermittler.",
+     "link": "https://www.welt.de/politik/ausland/article6ae77430d186611fe99328fd/terrorismus-nach-us-warnung-vor-drohendem-anschlag-in-moskau-minderjaehriger-russe-festgenommen.html",
+     "image": "https://images.welt.de/6ae77430d186611fe99328fd/b5a98bdbe565562493431e88a4532a79-master/ci23x11-w1200/517717742-jpg",
+     "aggregator": false,
+     "published": "2026-11-01T17:39:59+00:00"
+    }
+   ]
+  },
+  {
+   "id": 27,
+   "score": 7.29,
+   "outlets": [
+    "ZEIT ONLINE",
+    "n-tv"
+   ],
+   "regions": [
+    "DE"
+   ],
+   "trend": [],
+   "newest": "2026-11-01T17:49:29+00:00",
+   "articles": [
+    {
+     "source": "ZEIT ONLINE",
+     "region": "DE",
+     "weight": 0.9,
+     "title": "Jugendproteste: Dobrindt erwartet harte Strafen nach Krawallen",
+     "summary": "",
+     "link": "https://www.zeit.de/news/2026-11/01/dobrindt-erwartet-harte-strafen-nach-krawallen",
+     "image": "https://img.zeit.de/news/2026-11/01/dobrindt-erwartet-harte-strafen-nach-krawallen-image-group/original__640x360",
+     "aggregator": false,
+     "published": "2026-11-01T17:49:29+00:00"
+    },
+    {
+     "source": "n-tv",
+     "region": "DE",
+     "weight": 0.8,
+     "title": "\"Müssen harte Strafen folgen\": Dobrindt macht zwei Gruppen für Randale verantwortlich",
+     "summary": "Nach friedlichen Kundgebungen junger Menschen kommt es teils zu Krawallen. Dobrindt vermutet bestimmte Gruppierungen hinter den Straftaten. Für die Täter werde es \"auch nach Halloween gruselig\", droht NRW-Innenminister Reul.",
+     "link": "https://www.n-tv.de/politik/Dobrindt-macht-zwei-Gruppen-fuer-Randale-verantwortlich-id31481991.html",
+     "image": "https://www.n-tv.de/img/31482145/1793541202/Img_4_3/250/616794058.jpg",
+     "aggregator": false,
+     "published": "2026-11-01T13:19:07+00:00"
+    }
+   ]
+  }
+ ]
+}
