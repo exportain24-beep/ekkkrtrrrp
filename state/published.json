@@ -329,11 +329,49 @@
    ],
    "comment": {
     "text": "Gasspeicher unter Ziel: Machen Sie sich Sorgen um den Winter – ja oder nein?",
-    "done": false
+    "done": true,
+    "yt": "Ugwz09drCw8jo8SHYXV4AaABAg",
+    "fb": "1176137331754717_1456149130030443"
    },
    "youtube_id": "cDuO3X-1UFk",
    "facebook_id": "1176137331754717",
    "created": "2026-11-01T13:59:36.436871+00:00"
+  },
+  {
+   "date": "2026-11-01",
+   "slot": "nacht",
+   "publish_at": "2026-11-01T19:45:00+00:00",
+   "title": "Steinmeier nach Xi-Treffen: China nicht bereit für Ukraine-Gipfel",
+   "duration": 49.7,
+   "stories": [
+    {
+     "headline": "Steinmeier: Xi gegen Dreiergipfel",
+     "region": "DE",
+     "pillar": "POLITIK"
+    },
+    {
+     "headline": "EU-Kommission stützt Tusk",
+     "region": "EU",
+     "pillar": "POLITIK"
+    },
+    {
+     "headline": "Binance zahlt wieder aus",
+     "region": "INT",
+     "pillar": "TECHNOLOGIE"
+    },
+    {
+     "headline": "Regina Ziegler ist tot",
+     "region": "DE",
+     "pillar": "POLITIK"
+    }
+   ],
+   "comment": {
+    "text": "Kann China beim Frieden in der Ukraine helfen – ja oder nein?",
+    "done": false
+   },
+   "youtube_id": "SRpyHVO170Q",
+   "facebook_id": "1683201039887467",
+   "created": "2026-11-01T18:21:06.029081+00:00"
   }
  ]
 }
