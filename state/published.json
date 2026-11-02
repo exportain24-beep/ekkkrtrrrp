@@ -405,11 +405,49 @@
    ],
    "comment": {
     "text": "Ist die Kritik der CDU-Basis an der Bundespolitik berechtigt – ja oder nein?",
-    "done": false
+    "done": true,
+    "yt": "Ugy7FsSpati-In6Nz-J4AaABAg",
+    "fb": "2213279762947564_1803283287489582"
    },
    "youtube_id": "M9mGPy09Em8",
    "facebook_id": "2213279762947564",
    "created": "2026-11-02T04:28:52.334127+00:00"
+  },
+  {
+   "date": "2026-11-02",
+   "slot": "mittag",
+   "publish_at": "2026-11-02T11:00:00+00:00",
+   "title": "Rente mit 63: Handwerk fordert höhere Abschläge für Frührentner",
+   "duration": 49.7,
+   "stories": [
+    {
+     "headline": "Rente mit 63: Mehr Abschläge gefordert",
+     "region": "DE",
+     "pillar": "WIRTSCHAFT"
+    },
+    {
+     "headline": "Digitalgipfel ringt um KI-Anschluss",
+     "region": "DE",
+     "pillar": "TECHNOLOGIE"
+    },
+    {
+     "headline": "Bulgarien: Jotowa gewinnt Stichwahl",
+     "region": "EU",
+     "pillar": "POLITIK"
+    },
+    {
+     "headline": "Binance: Kunden ziehen Milliarden ab",
+     "region": "INT",
+     "pillar": "WIRTSCHAFT"
+    }
+   ],
+   "comment": {
+    "text": "Höhere Abschläge bei der Rente mit 63 – richtig oder falsch?",
+    "done": false
+   },
+   "youtube_id": "r5D8vDlJ7sY",
+   "facebook_id": "1138270902472954",
+   "created": "2026-11-02T09:29:21.547647+00:00"
   }
  ]
 }
