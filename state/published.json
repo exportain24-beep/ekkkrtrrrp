@@ -481,11 +481,49 @@
    ],
    "comment": {
     "text": "Sollten Minister und Abgeordnete nur noch speziell gesicherte Diensthandys nutzen dürfen – ja oder nein?",
-    "done": false
+    "done": true,
+    "yt": "UgxZBUCzeLns5CSov-Z4AaABAg",
+    "fb": "1130126239789829_2331769994303407"
    },
    "youtube_id": "E5vdy87PVas",
    "facebook_id": "1130126239789829",
    "created": "2026-11-02T14:44:33.614995+00:00"
+  },
+  {
+   "date": "2026-11-02",
+   "slot": "nacht",
+   "publish_at": "2026-11-02T19:45:00+00:00",
+   "title": "Rot-Grün-Rot in Berlin: Kommt die Koalition bis Dezember?",
+   "duration": 49.3,
+   "stories": [
+    {
+     "headline": "Berlin: Rot-Grün-Rot verhandelt",
+     "region": "DE",
+     "pillar": "POLITIK"
+    },
+    {
+     "headline": "Hacker legen Supermarkt-Kühlung lahm",
+     "region": "EU",
+     "pillar": "TECHNOLOGIE"
+    },
+    {
+     "headline": "Marvell bietet 115 Mrd. für Lumentum",
+     "region": "INT",
+     "pillar": "WIRTSCHAFT"
+    },
+    {
+     "headline": "Merz will eine Bundespräsidentin",
+     "region": "DE",
+     "pillar": "POLITIK"
+    }
+   ],
+   "comment": {
+    "text": "Rot-Grün-Rot in Berlin: Gute Idee – ja oder nein?",
+    "done": false
+   },
+   "youtube_id": "nDF1-GDfTH4",
+   "facebook_id": "1186829424030690",
+   "created": "2026-11-02T18:30:44.637610+00:00"
   }
  ]
 }
