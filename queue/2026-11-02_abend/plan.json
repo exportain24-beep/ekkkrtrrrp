@@ -1,0 +1,57 @@
+{
+  "stories": [
+    {
+      "candidate_id": 3,
+      "pillar": "POLITIK",
+      "region": "DE",
+      "kicker": "BERLIN",
+      "headline": "Hackerangriff auf Bundespolitiker",
+      "highlight": ["Hackerangriff"],
+      "voice": "Digitalminister Karsten Wildberger hat einen Hackerangriff auf Bundespolitiker bestätigt. Spähsoftware befiel Apple-Geräte von Abgeordneten und Regierungsmitgliedern. Wer dahintersteckt, ist noch unklar.",
+      "subline": "Spyware auf iPhones von Abgeordneten und Ministern – Prüfung läuft",
+      "entities": ["Karsten Wildberger", "Deutscher Bundestag"]
+    },
+    {
+      "candidate_id": 23,
+      "pillar": "WIRTSCHAFT",
+      "region": "DE",
+      "kicker": "DEUTSCHLAND",
+      "headline": "Spritpreisdeckel: Reiche plant Hürden",
+      "highlight": ["Spritpreisdeckel"],
+      "voice": "Spritpreisdeckel: Wirtschaftsministerin Katherina Reiche will Benzin- und Dieselpreise nur bei außergewöhnlich starken Steigerungen begrenzen – und das höchstens für drei Monate.",
+      "subline": "Deckel soll spätestens Anfang 2027 den Tankrabatt ersetzen",
+      "entities": ["Katherina Reiche", "Bundesministerium für Wirtschaft und Energie"]
+    },
+    {
+      "candidate_id": 9,
+      "pillar": "POLITIK",
+      "region": "EU",
+      "kicker": "BRÜSSEL",
+      "headline": "Belgien: De Wever bietet Rücktritt an",
+      "highlight": ["De Wever"],
+      "voice": "Belgien: Premierminister Bart De Wever hat König Philippe wegen des festgefahrenen Haushaltsstreits seinen Rücktritt angeboten. Der König will zuerst mit den Koalitionspartnern sprechen.",
+      "subline": "Belgier lehnen geplante Sparmaßnahmen ab – Regierung blockiert",
+      "entities": ["Bart De Wever", "Philippe (Belgien)"]
+    },
+    {
+      "candidate_id": 20,
+      "pillar": "POLITIK",
+      "region": "DE",
+      "kicker": "KIEL",
+      "headline": "Merkel soll Staatsoberhaupt mitwählen",
+      "highlight": ["Merkel"],
+      "voice": "Angela Merkel soll im Januar das neue Staatsoberhaupt mitwählen. Die CDU Schleswig-Holstein will die Altkanzlerin in die Bundesversammlung schicken, die Steinmeiers Nachfolge bestimmt.",
+      "subline": "Bundesversammlung tritt Ende Januar 2027 zusammen",
+      "entities": ["Angela Merkel", "Bundesversammlung"]
+    }
+  ],
+  "hook_text": "Hackerangriff auf Bundespolitiker",
+  "hook_voice": "Hackerangriff auf Bundespolitiker – die Schlagzeilen am Abend.",
+  "youtube_title": "Hackerangriff auf Bundespolitiker: Spyware auf Minister-iPhones",
+  "description_lead": "Digitalminister Karsten Wildberger bestätigt einen Hackerangriff mit Spähsoftware auf Apple-Geräte von Bundestagsabgeordneten und Regierungsmitgliedern. Außerdem: Katherina Reiche plant Hürden beim Spritpreisdeckel, Belgiens Premier Bart De Wever bietet König Philippe den Rücktritt an und Angela Merkel soll in der Bundesversammlung das neue Staatsoberhaupt mitwählen.",
+  "tags": ["Karsten Wildberger", "Hackerangriff", "Bundestag", "Spyware", "Katherina Reiche", "Spritpreisdeckel", "Tankrabatt", "Bart De Wever", "Belgien", "König Philippe", "Angela Merkel", "Bundesversammlung", "Bundespräsident", "Cybersicherheit", "Spritpreise"],
+  "hashtags": ["#hackerangriff", "#spritpreise", "#merkel"],
+  "facebook_caption_line1": "Hackerangriff auf Bundespolitiker: Digitalminister Wildberger bestätigt Spyware auf Regierungshandys",
+  "facebook_question": "Wie gut ist Deutschland aus Ihrer Sicht gegen Cyberangriffe auf Politik und Behörden geschützt?",
+  "comment_question": "Sollten Minister und Abgeordnete nur noch speziell gesicherte Diensthandys nutzen dürfen – ja oder nein?"
+}
