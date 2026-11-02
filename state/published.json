@@ -367,11 +367,49 @@
    ],
    "comment": {
     "text": "Kann China beim Frieden in der Ukraine helfen – ja oder nein?",
-    "done": false
+    "done": true,
+    "yt": "UgzkYgAsiuKhHDoZRrx4AaABAg",
+    "fb": "1683201039887467_1888793799151139"
    },
    "youtube_id": "SRpyHVO170Q",
    "facebook_id": "1683201039887467",
    "created": "2026-11-01T18:21:06.029081+00:00"
+  },
+  {
+   "date": "2026-11-02",
+   "slot": "morgen",
+   "publish_at": "2026-11-02T06:00:00+00:00",
+   "title": "Merz unter Druck: CDU-Basis sieht „Alarmstufe dunkelrot“",
+   "duration": 47.8,
+   "stories": [
+    {
+     "headline": "Merz trifft verärgerte CDU-Basis",
+     "region": "DE",
+     "pillar": "POLITIK"
+    },
+    {
+     "headline": "Pistorius widerspricht Dobrindt",
+     "region": "DE",
+     "pillar": "POLITIK"
+    },
+    {
+     "headline": "IG Metall weitet Warnstreiks aus",
+     "region": "DE",
+     "pillar": "WIRTSCHAFT"
+    },
+    {
+     "headline": "Ukraine: Gehackte App zeigt Atomalarm",
+     "region": "INT",
+     "pillar": "WELT"
+    }
+   ],
+   "comment": {
+    "text": "Ist die Kritik der CDU-Basis an der Bundespolitik berechtigt – ja oder nein?",
+    "done": false
+   },
+   "youtube_id": "M9mGPy09Em8",
+   "facebook_id": "2213279762947564",
+   "created": "2026-11-02T04:28:52.334127+00:00"
   }
  ]
 }
