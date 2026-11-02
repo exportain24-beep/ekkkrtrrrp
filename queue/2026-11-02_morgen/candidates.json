@@ -1,0 +1,1762 @@
+{
+ "slot": {
+  "id": "morgen",
+  "time": "07:00",
+  "label": "am Morgen",
+  "focus": "Wichtigste Nachrichten der Nacht und des Morgens: internationale Eilmeldungen der Nacht und die größte politische Schlagzeile in Deutschland.",
+  "pillars": [
+   "POLITIK",
+   "WELT",
+   "WIRTSCHAFT",
+   "TECHNOLOGIE"
+  ],
+  "notify_subscribers": true
+ },
+ "slot_time": "2026-11-02T07:00:00+01:00",
+ "date_text": "Montag, 2. November 2026",
+ "already_published": [
+  "G20: Europäer boykottieren Lawrow-Foto",
+  "EU und Kanada gründen Zukunftsallianz",
+  "Polen: Streit um Verfassungsgericht",
+  "Audi: Gewinn bricht um 87 Prozent ein",
+  "China will mehr deutsche Produkte",
+  "Italien: Massenprotest gegen Preise",
+  "Gen Z protestiert in 30 Städten",
+  "Binance will alle Verluste ersetzen",
+  "Berlin: Linke will Rot-Grün-Rot",
+  "USA: 500 Patriot-Raketen für Kiew",
+  "Frankreich: 70.000 Polizisten",
+  "Edenhofer: Stromsteuer senken",
+  "Kanada: Von der Leyen übergeht Merz",
+  "Iran: Chamenei droht den USA",
+  "IG Metall: Warnstreiks ab Sonntag",
+  "Gen Z: Zehntausende auf der Straße",
+  "Gen Z: Krawalle nach Protesten",
+  "IG Metall: Warnstreiks laufen",
+  "Tusk: Angriff auf den Rechtsstaat",
+  "FBI: Nordkorea hinter Binance-Hack",
+  "AKK warnt vor AfD und Linken",
+  "Frankreich: 320.000 gegen hohe Preise",
+  "Rheinmetall-Brand: Bekennerschreiben",
+  "Trump: Bolsonaro darf in USA bleiben",
+  "Gasspeicher verfehlen Winterziel",
+  "Audi-Chef Döllner unter Druck",
+  "Nadeln in Halloween-Süßigkeiten",
+  "Steinmeier: Xi gegen Dreiergipfel",
+  "EU-Kommission stützt Tusk",
+  "Binance zahlt wieder aus",
+  "Regina Ziegler ist tot"
+ ],
+ "candidates": [
+  {
+   "id": 0,
+   "score": 19.14,
+   "outlets": [
+    "tagesschau",
+    "ZDFheute",
+    "Deutschlandfunk",
+    "SRF News",
+    "SPIEGEL",
+    "Süddeutsche",
+    "DER STANDARD",
+    "n-tv",
+    "sportschau.de"
+   ],
+   "regions": [
+    "AT",
+    "CH",
+    "DE"
+   ],
+   "trend": [],
+   "newest": "2026-11-02T03:53:56+00:00",
+   "articles": [
+    {
+     "source": "tagesschau",
+     "region": "DE",
+     "weight": 1.0,
+     "title": "Antonelli krönt sich zum Formel-1-Weltmeister",
+     "summary": "Kimi Antonelli ist Formel-1-Weltmeister. Beim Großen Preis von Mexiko fuhr der Italiener auf Rang drei und sicherte sich den Gesamtsieg. Mit 20 Jahren ist er der jüngste Titelgewinner der Geschichte.",
+     "link": "https://www.sportschau.de/motorsport/formel1/antonelli-kroent-sich-zum-formel-1-weltmeister,gp-mexiko-antonelli-100.html",
+     "image": "https://images.sportschau.de/image/84d40e3e-333a-4ac0-aece-15fb5989d67f/AAABoZlLfN8/AAABnSSvrFg/16x9-big/antonelli-jubel-102.jpg?width=1920",
+     "aggregator": false,
+     "published": "2026-11-01T22:44:54+00:00"
+    },
+    {
+     "source": "ZDFheute",
+     "region": "DE",
+     "weight": 1.0,
+     "title": "Formel 1: Antonelli ist jüngster Weltmeister aller Zeiten",
+     "summary": "Sebastian Vettel ist seinen Rekord los. Denn nach dem GP von Mexiko darf sich Kimi Antonelli jüngster Formel-1-Weltmeister aller Zeiten nennen.",
+     "link": "https://www.zdfheute.de/sport/formel-1-gp-mexiko-kimi-antonelli-100.html",
+     "image": "https://www.zdfheute.de/assets/antonelli-trophy-100~384x216?cb=1793576942016",
+     "aggregator": false,
+     "published": "2026-11-01T22:39:00+00:00"
+    },
+    {
+     "source": "Deutschlandfunk",
+     "region": "DE",
+     "weight": 0.95,
+     "title": "Formel 1 - Mercedes-Pilot Kimi Antonelli zum ersten Mal Weltmeister",
+     "summary": "Der Mercedes-Fahrer Kimi Antonelli ist zum ersten Mal Formel-1-Weltmeister.",
+     "link": "https://www.deutschlandfunk.de/mercedes-pilot-kimi-antonelli-zum-ersten-mal-weltmeister-106.html",
+     "image": "https://bilder.deutschlandfunk.de/fa/1a/35/ef/fa1a35ef-8799-4670-a42d-a195b06a6539/kimi-antonelli-100-1920x1920.jpg",
+     "aggregator": false,
+     "published": "2026-11-02T03:53:56+00:00"
+    },
+    {
+     "source": "SRF News",
+     "region": "CH",
+     "weight": 0.95,
+     "title": "Grosser Preis in Mexiko-Stadt – Rang 3 genügt locker: Antonelli macht WM-Titel perfekt",
+     "summary": "Kimi Antonelli avanciert dank einem 3. Rang in Mexiko-Stadt vorzeitig zum jüngsten Formel-1-Weltmeister der Geschichte.",
+     "link": "https://www.srf.ch/sport/motorsport/formel-1/grosser-preis-in-mexiko-stadt-rang-3-genuegt-locker-antonelli-macht-wm-titel-perfekt",
+     "image": "https://www.srf.ch/static/cms/images//320ws/619eb7.webp",
+     "aggregator": false,
+     "published": "2026-11-01T22:27:52+00:00"
+    },
+    {
+     "source": "SPIEGEL",
+     "region": "DE",
+     "weight": 0.9,
+     "title": "Formel 1: Kimi Antonelli ist jüngster Weltmeister der Geschichte",
+     "summary": "Mit 20 Jahren löst der Italiener Kimi Antonelli Sebastian Vettel als jüngsten Champion der Formel-1-Geschichte ab. Beim Großen Preis von Mexiko genügte ihm ein dritter Platz zum vorzeitigen Titelgewinn.",
+     "link": "https://www.spiegel.de/sport/formel1/formel-1-kimi-antonelli-ist-juengster-weltmeister-der-geschichte-a-b78e9346-c766-4f1b-b503-93a81618588a#ref=rss",
+     "image": "https://cdn.prod.www.spiegel.de/images/d009d177-745e-4fc0-b3a7-9182d31af971_w520_r2.08_fpx68_fpy52.jpg",
+     "aggregator": false,
+     "published": "2026-11-01T22:25:00+00:00"
+    },
+    {
+     "source": "Süddeutsche",
+     "region": "DE",
+     "weight": 0.9,
+     "title": "Formel 1: Kimi Antonelli ist Weltmeister – der jüngste der Geschichte",
+     "summary": "Beim Großen Preis von Mexiko reicht dem 20-Jährigen Platz drei hinter Max Verstappen und Lewis Hamilton, um in seinem zweiten Formel-1-Jahr zu triumphieren. Damit löst er Sebastian Vettel als jüngster Champion ab.",
+     "link": "https://www.sueddeutsche.de/sport/kimi-antonelli-weltmeister-mercedes-formel-1-mexiko-li.3572572",
+     "image": "https://www.sueddeutsche.de/2026/11/01/0076f021-4667-4fa4-8a48-2e25ba15c805.jpg?rect=125%2C0%2C2889%2C2167&width=1000&fm=jpg&q=60",
+     "aggregator": false,
+     "published": "2026-11-01T23:10:54+00:00"
+    },
+    {
+     "source": "DER STANDARD",
+     "region": "AT",
+     "weight": 0.85,
+     "title": "Kimi Antonelli krönt sich in Mexiko zum jüngsten Formel-1-Weltmeister aller Zeiten",
+     "summary": "Der Mercedes-Pilot fährt beim zwischenzeitlich unterbrochenen Grand Prix auf Rang drei ins Ziel. Den Rennsieg holt sich Verstappen vor Hamilton",
+     "link": "https://www.derstandard.at/story/3000000346959/grand-prix-von-mexiko-nach-bottas-unfall-unterbrochen-antonelli-auf-titelkurs?ref=rss",
+     "image": "https://i.ds.at/umFEJA/rs:fill:150:0/plain/lido-images/2026/11/01/08d3d316-14fc-4e17-8568-cbfa68777b99.jpg",
+     "aggregator": false,
+     "published": "2026-11-01T21:43:47+00:00"
+    },
+    {
+     "source": "n-tv",
+     "region": "DE",
+     "weight": 0.8,
+     "title": "Vettel-Rekord geknackt: Antonelli krönt sich vorzeitig zum Formel-1-Weltmeister",
+     "summary": "Kimi Antonelli schreibt Formel-1-Geschichte: Der Mercedes-Pilot wird beim Großen Preis von Mexiko vorzeitig Weltmeister und schnappt Sebastian Vettel einen Rekord weg. Der 20-jährige Italiener ist nun der jüngste F1-Weltmeister der Geschichte.",
+     "link": "https://www.n-tv.de/sport/formel1/Antonelli-kroent-sich-vorzeitig-zum-Formel-1-Weltmeister-id31482975.html",
+     "image": "https://www.n-tv.de/img/31482971/1793574504/Img_4_3/250/image.jpg",
+     "aggregator": false,
+     "published": "2026-11-01T22:24:45+00:00"
+    }
+   ]
+  },
+  {
+   "id": 1,
+   "score": 16.44,
+   "outlets": [
+    "tagesschau",
+    "ZDFheute",
+    "Deutschlandfunk",
+    "SPIEGEL",
+    "DER STANDARD",
+    "WELT",
+    "n-tv"
+   ],
+   "regions": [
+    "AT",
+    "DE"
+   ],
+   "trend": [],
+   "newest": "2026-11-02T03:53:56+00:00",
+   "articles": [
+    {
+     "source": "tagesschau",
+     "region": "DE",
+     "weight": 1.0,
+     "title": "Wieder 3:1 - Frankfurt legt nach, HSV verpasst Revanche",
+     "summary": "Nach dem Erfolg im DFB-Pokal hat Eintracht Frankfurt auch in der Fußball-Bundesliga einen Sieg gegen den Hamburger SV eingefahren. Das Ergebnis war eine Art Déjà-vu.",
+     "link": "https://www.sportschau.de/fussball/bundesliga/wieder-31-frankfurt-legt-nach-hsv-verpasst-revanche,spielbericht-eintracht-frankfurt-hamburger-sv-102.html",
+     "image": "https://images.sportschau.de/image/a6ab1b9c-48a2-4933-8888-19563f0abb37/AAABoZgy9oY/AAABnSSvrFg/16x9-big/sge-hsv-102.jpg?width=1920",
+     "aggregator": false,
+     "published": "2026-11-01T23:00:00+00:00"
+    },
+    {
+     "source": "ZDFheute",
+     "region": "DE",
+     "weight": 1.0,
+     "title": "Wie im Pokal: Eintracht siegt erneut gegen den HSV",
+     "summary": "Eintracht Frankfurt entscheidet auch das zweite Duell mit dem Hamburger SV innerhalb weniger Tage mit 3:1 für sich. Dabei schreibt Youngster Ilicevic Bundesliga-Geschichte.",
+     "link": "https://www.zdfheute.de/sport/fussball-bundesliga/bundesliga-eintracht-frankfurt-hamburger-sv-spielbericht-100.html",
+     "image": "https://www.zdfheute.de/assets/eintracht-frankfurt-niko-ilicevic-100~384x216?cb=1793558179237",
+     "aggregator": false,
+     "published": "2026-11-01T19:21:00+00:00"
+    },
+    {
+     "source": "ZDFheute",
+     "region": "DE",
+     "weight": 1.0,
+     "title": "Frankfurt schlägt HSV - Ilicevic historisch",
+     "summary": "Nach dem Erfolg im Pokal gibt Eintracht Frankfurt dem HSV auch in der Liga mit 3:1 das Nachsehen. In der Nachspielzeit stellt Youngster Niko Ilicevic einen Rekord ein.",
+     "link": "https://www.zdfheute.de/sport/fussball-bundesliga/video/eintracht-frankfurt-hamburger-sv-saison-2026-27-100.html",
+     "image": "https://www.zdfheute.de/assets/eintracht-frankfurt-hamburger-100~384x216?cb=1793561434356",
+     "aggregator": false,
+     "published": "2026-11-01T23:00:00+00:00"
+    },
+    {
+     "source": "Deutschlandfunk",
+     "region": "DE",
+     "weight": 0.95,
+     "title": "Fußball-Bundesliga - Eintracht Frankfurt - HSV 3:1, Union Berlin - 1. FC Köln 1:1",
+     "summary": "In der Fußball-Bundesliga hat Eintracht Frankfurt die Gäste vom Hamburger SV mit 3:1 besiegt.",
+     "link": "https://www.deutschlandfunk.de/eintracht-frankfurt-hsv-3-1-union-berlin-1-fc-koeln-1-106.html",
+     "image": "https://bilder.deutschlandfunk.de/74/ab/d2/f4/74abd2f4-3bde-404e-9663-512dd0482de2/frankfurt-hamburg-100-1920x1920.jpg",
+     "aggregator": false,
+     "published": "2026-11-02T03:53:56+00:00"
+    },
+    {
+     "source": "SPIEGEL",
+     "region": "DE",
+     "weight": 0.9,
+     "title": "Eintracht Frankfurt: 16-jähriger Niko Iličević stellt Altersrekord gegen HSV auf",
+     "summary": "Sein Onkel Ivo spielte einst für den HSV, jetzt schreibt der 16-jährige Niko Iličević beim Sieg gegen die Hamburger Bundesligageschichte. Kein Spieler war bei seinem Debüt jünger.",
+     "link": "https://www.spiegel.de/sport/fussball/eintracht-frankfurt-16-jaehriger-ilicevic-stellt-altersrekord-gegen-hsv-auf-a-605d09f7-ac4b-486e-be7b-ee85dfff4074#ref=rss",
+     "image": "https://cdn.prod.www.spiegel.de/images/42217ac3-168c-4721-93e3-2c17d028656f_w520_r2.08_fpx63.31_fpy54.97.jpg",
+     "aggregator": false,
+     "published": "2026-11-01T19:17:00+00:00"
+    },
+    {
+     "source": "DER STANDARD",
+     "region": "AT",
+     "weight": 0.85,
+     "title": "Frankfurt macht mit Sieg gegen HSV sieben Plätze gut und spielt im Pokal gegen Dortmund",
+     "summary": "Union Berlin gibt den Sieg gegen Köln spät her und verpasst die Revanche für die Pokalpleite vor wenigen Tagen. Das Achtelfinale des DFB-Pokals wurde ausgelost",
+     "link": "https://www.derstandard.at/story/3000000346951/fu223ball-union-berlin-daheim-gegen-k246ln-11?ref=rss",
+     "image": "https://i.ds.at/X5hvzQ/rs:fill:150:0/plain/lido-images/2026/11/01/a3922f3c-6dae-47fa-be06-a62376ea00ce.jpg",
+     "aggregator": false,
+     "published": "2026-11-01T16:58:49+00:00"
+    },
+    {
+     "source": "WELT",
+     "region": "DE",
+     "weight": 0.8,
+     "title": "Frankfurt wechselt den jüngsten Spieler der Bundesligageschichte ein",
+     "summary": "Eintracht Frankfurt hat auch das Ligaduell gegen den HSV gewonnen. Fünf Tage nach dem 3:1 im DFB-Pokal holten sich die Hessen den nächsten Sieg. Mit dabei war Niko Ilicevic, der am Tag zuvor erst seinen 16. Geburtstag gefeiert hatte.",
+     "link": "https://www.welt.de/sport/fussball/bundesliga/article6ae7862a5e7018b4bea950aa/sieg-gegen-den-hsv-frankfurt-wechselt-den-juengsten-spieler-der-bundesligageschichte-ein.html",
+     "image": "https://images.welt.de/6ae7862a5e7018b4bea950aa/82f563bf0fe0f5cf21ba64901abb7bc0-master/ci23x11-w1200/dpa-com-261101-936-135122-jpg",
+     "aggregator": false,
+     "published": "2026-11-01T19:03:34+00:00"
+    },
+    {
+     "source": "n-tv",
+     "region": "DE",
+     "weight": 0.8,
+     "title": "Pokal-Ergebnis kopiert: Frankfurt schlägt den HSV zum zweiten Mal binnen fünf Tagen",
+     "summary": "Der Hamburger SV verzweifelt an Eintracht Frankfurt. Zum zweiten Mal in dieser Woche verliert der HSV gegen die Hessen. Fünf Tage nach dem Pokal-Aus zieht der Nordklub auch in der Bundesliga den Kürzeren. Ein Talent der Frankfurter schreibt Bundesliga-Geschichte.",
+     "link": "https://www.n-tv.de/sport/fussball/Frankfurt-schlaegt-den-HSV-zum-zweiten-Mal-binnen-fuenf-Tagen-id31482672.html",
+     "image": "https://www.n-tv.de/img/31482753/1793559451/Img_4_3/250/image.jpg",
+     "aggregator": false,
+     "published": "2026-11-01T18:32:07+00:00"
+    }
+   ]
+  },
+  {
+   "id": 2,
+   "score": 15.64,
+   "outlets": [
+    "tagesschau",
+    "ZDFheute",
+    "Deutschlandfunk",
+    "SRF News",
+    "NZZ",
+    "n-tv",
+    "Tagesspiegel"
+   ],
+   "regions": [
+    "CH",
+    "DE"
+   ],
+   "trend": [],
+   "newest": "2026-11-02T03:53:56+00:00",
+   "articles": [
+    {
+     "source": "tagesschau",
+     "region": "DE",
+     "weight": 1.0,
+     "title": "Nach mehr als 500 Produktionen: Filmproduzentin Regina Ziegler gestorben",
+     "summary": "Die erfolgreiche Film- und Fernsehproduzentin Regina Ziegler ist im Alter von 82 Jahren gestorben. Mit mehr als 500 Filmen und zahlreichen Auszeichnungen gehörte sie zu den einflussreichsten Frauen der Branche.",
+     "link": "https://www.tagesschau.de/kultur/ziegler-regina-gestorben-100.html",
+     "image": "https://images.tagesschau.de/image/bc7d5822-1e21-4a4e-a32d-758ae6965668/AAABoZdz8QM/AAABnSSvrFg/16x9-big/regina-ziegler-148.jpg?width=1920",
+     "aggregator": false,
+     "published": "2026-11-01T14:12:27+00:00"
+    },
+    {
+     "source": "ZDFheute",
+     "region": "DE",
+     "weight": 1.0,
+     "title": "Filmproduzentin Regina Ziegler mit 82 Jahren gestorben",
+     "summary": "Die deutsche Film- und Fernsehproduzentin Regina Ziegler ist im Alter von 82 Jahren gestorben. Sie galt als eine der einflussreichsten Figuren in der Branche.",
+     "link": "https://www.zdfheute.de/panorama/prominente/regina-ziegler-tot-film-fernsehen-produzentin-100.html",
+     "image": "https://www.zdfheute.de/assets/regina-ziegler-100~384x216?cb=1793539881578",
+     "aggregator": false,
+     "published": "2026-11-01T16:00:00+00:00"
+    },
+    {
+     "source": "Deutschlandfunk",
+     "region": "DE",
+     "weight": 0.95,
+     "title": "Film und Fernsehen - Produzentin Regina Ziegler gestorben",
+     "summary": "Die Film- und Fernsehproduzentin Regina Ziegler ist tot.",
+     "link": "https://www.deutschlandfunk.de/produzentin-regina-ziegler-gestorben-112.html",
+     "image": "https://bilder.deutschlandfunk.de/df/dd/05/f0/dfdd05f0-98f1-478a-ba7b-6a03915511ad/regina-ziegler-100-1920x1920.jpg",
+     "aggregator": false,
+     "published": "2026-11-02T03:53:56+00:00"
+    },
+    {
+     "source": "SRF News",
+     "region": "CH",
+     "weight": 0.95,
+     "title": "Kulturnews in Kurzform – Filmproduzentin Regina Ziegler mit 82 Jahren gestorben",
+     "summary": "Sie galt als Grand Dame der deutschen Fernsehbranche und realisierte über 500 Filme und Serien.",
+     "link": "https://www.srf.ch/kultur/gesellschaft-religion/kulturnews-in-kurzform-filmproduzentin-regina-ziegler-mit-82-jahren-gestorben",
+     "image": "https://www.srf.ch/static/cms/images//320ws/125ea19.webp",
+     "aggregator": false,
+     "published": "2026-11-01T14:07:10+00:00"
+    },
+    {
+     "source": "NZZ",
+     "region": "CH",
+     "weight": 0.9,
+     "title": "MELDUNGEN KULTUR - Filmproduzentin Regina Ziegler mit 82 Jahren gestorben",
+     "summary": "Die neuesten Meldungen aus dem Feuilleton.",
+     "link": "https://www.nzz.ch/feuilleton/britischer-schauspieler-patrick-stewart-ist-tot-ld.10041945",
+     "image": "https://img-msp-prod.nzz.ch/2026/11/01/e276bfd2-3b96-42a5-a185-786ef5480efc.jpg?width=200&height=200&fit=bounds&quality=75&auto=webp&crop=3142,3142,x0,y0",
+     "aggregator": false,
+     "published": "2026-11-01T13:31:00+00:00"
+    },
+    {
+     "source": "n-tv",
+     "region": "DE",
+     "weight": 0.8,
+     "title": "\"Weissensee\" und \"Heimsuchung\": Filmproduzentin Regina Ziegler ist tot",
+     "summary": "Sie war eine der einflussreichsten Figuren im deutschen Film- und Fernsehgeschäft: Vor weniger als einem Monat stand Regina Ziegler noch bei einer Kino-Premiere auf dem roten Teppich. Nun ist die Filmproduzentin überraschend gestorben.",
+     "link": "https://www.n-tv.de/leute/Filmproduzentin-Regina-Ziegler-ist-tot-id31482315.html",
+     "image": "https://www.n-tv.de/img/31482320/1793545096/Img_4_3/250/623717128.jpg",
+     "aggregator": false,
+     "published": "2026-11-01T14:12:14+00:00"
+    },
+    {
+     "source": "Tagesspiegel",
+     "region": "DE",
+     "weight": 0.6,
+     "title": "Berliner Filmproduzentin: Regina Ziegler mit 82 Jahren gestorben",
+     "summary": "Berliner Filmproduzentin: Regina Ziegler mit 82 Jahren gestorben Tagesspiegel Vor wenigen Tagen stand sie noch in der Öffentlichkeit: Regina Ziegler ist tot T-Online Bis zuletzt arbeitete sie an neuen Projekten: Film-Königin Regina Ziegler (82) ist tot BILD Nachruf auf Regina Ziegler: Power-Produzentin mit weitem Horizont Tagesspiegel Produzentinnen-Legende Regina Ziegler ist tot: Die Königin - Medien - SZ.de SZ.de",
+     "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOZy1vOWs5U0Nfa09rbTBjaWUweEJxQ3p0aEpmcUNpdTVRVVd5dGVheHpoRlZRRGJQLTRwdEpZbXFZSWZ4aUNLWmxCU0JNWmpzMERmeVpxZVY1ZWx6SWNob2YtNDFMeE1TdzE0UUxJcnV6OUE0YnpscVp0OU5pMHRsRUo0QmxLQ3ZBellvM25RYVZpT0syTXYxRA?oc=5",
+     "image": null,
+     "aggregator": true,
+     "published": "2026-11-01T13:16:53+00:00"
+    }
+   ]
+  },
+  {
+   "id": 3,
+   "score": 15.34,
+   "outlets": [
+    "tagesschau",
+    "ZDFheute",
+    "Deutschlandfunk",
+    "SPIEGEL",
+    "WELT",
+    "n-tv",
+    "sportschau.de"
+   ],
+   "regions": [
+    "DE"
+   ],
+   "trend": [],
+   "newest": "2026-11-02T03:53:56+00:00",
+   "articles": [
+    {
+     "source": "tagesschau",
+     "region": "DE",
+     "weight": 1.0,
+     "title": "DFB-Pokal: Frankfurt empfängt Dortmund, Bayern gegen Hertha",
+     "summary": "Das Achtelfinale im DFB-Pokal ist ausgelost. Eintracht Frankfurt empfängt Borussia Dortmund. Bayern München hat Heimrecht gegen Hertha BSC.",
+     "link": "https://www.sportschau.de/fussball/dfbpokal/jetzt-live-die-auslosung-der-achtelfinals,auslosung-achtelfinale-120.html",
+     "image": "https://images.sportschau.de/image/381c41c6-d7c4-48d9-80ba-c6d7f60355f4/AAABoGO_xTg/AAABnSSvrFg/16x9-big/auslosung-208.jpg?width=1920",
+     "aggregator": false,
+     "published": "2026-11-01T18:55:04+00:00"
+    },
+    {
+     "source": "ZDFheute",
+     "region": "DE",
+     "weight": 1.0,
+     "title": "Hertha mit Hammerlos - Bundesliga-Duell in Frankfurt",
+     "summary": "Die Achtelfinal-Paarungen des DFB-Pokals stehen fest. Die Titelverteidiger aus München empfangen den Zweitliga-Spitzenreiter Hertha BSC. Alle Begegnungen im Überblick.",
+     "link": "https://www.zdfheute.de/sport/fussball-dfb-pokal-2026-2027-auslosung-achtelfinale-100.html",
+     "image": "https://www.zdfheute.de/assets/dfb-pokal-244~384x216?cb=1793541992016",
+     "aggregator": false,
+     "published": "2026-11-01T18:46:00+00:00"
+    },
+    {
+     "source": "Deutschlandfunk",
+     "region": "DE",
+     "weight": 0.95,
+     "title": "Fußball - Achtelfinale des DFB-Pokals ausgelost",
+     "summary": "Die Auslosung des Achtelfinales im Fußball-DFB-Pokal ergab folgende Begegnungen:",
+     "link": "https://www.deutschlandfunk.de/achtelfinale-des-dfb-pokals-ausgelost-108.html",
+     "image": "https://bilder.deutschlandfunk.de/FI/LE/_2/58/FILE_258f93466484f0d54eeb7e0afd399d62/dfb-pokal-jpg-100-768x768.jpg",
+     "aggregator": false,
+     "published": "2026-11-02T03:53:56+00:00"
+    },
+    {
+     "source": "SPIEGEL",
+     "region": "DE",
+     "weight": 0.9,
+     "title": "DFB-Pokal-Ausloung: FC Bayern gegen Hertha BSC, Eintracht Frankfurt vs BVB",
+     "summary": "Zu gleich sechs Duellen zwischen Bundesliga und zweiter Liga kommt es im Achtelfinale des DFB-Pokals. Das Spitzenspiel steigt in Frankfurt, wenn die Eintracht auf den BVB trifft.",
+     "link": "https://www.spiegel.de/sport/fussball/dfb-pokal-fc-bayern-muenchen-gegen-hertha-bsc-eintracht-frankfurt-vs-borussia-dortmund-a-16b558ed-519c-4556-8790-be9b16361cd2#ref=rss",
+     "image": "https://cdn.prod.www.spiegel.de/images/81bf3cc5-e44d-4b4a-814f-db3bc00649e3_w520_r2.08_fpx39.99_fpy50.jpg",
+     "aggregator": false,
+     "published": "2026-11-01T18:40:00+00:00"
+    },
+    {
+     "source": "WELT",
+     "region": "DE",
+     "weight": 0.8,
+     "title": "FC Bayern mit Heimspiel, Lospech für Dortmund und Leipzig",
+     "summary": "In der ARD-Sportschau wurde das Achtelfinale im DFB-Pokal ausgelost. Der FC Bayern hat ein Heimspiel gegen Zweitliga-Tabellenführer Hertha BSC. Borussia Dortmund und RB Leipzig erhielten schwere Auswärtsaufgaben.",
+     "link": "https://www.welt.de/sport/fussball/dfb-pokal/article6ae7311d5e7018b4bea94b68/dfb-pokal-achtelfinale-ausgelost-fc-bayern-mit-heimspiel-schwere-lose-fuer-dortmund-und-leipzig.html",
+     "image": "https://images.welt.de/6ae7311d5e7018b4bea94b68/7814a674c25b5e838fcb06172be28526-master/ci23x11-w1200/575858057-jpg",
+     "aggregator": false,
+     "published": "2026-11-01T18:34:03+00:00"
+    },
+    {
+     "source": "n-tv",
+     "region": "DE",
+     "weight": 0.8,
+     "title": "Pokal-Achtelfinale steht fest: Bayern empfängt Zweitliga-Überflieger, BVB muss nach Frankfurt",
+     "summary": "16 Mannschaften träumen noch vom Titel in Berlin. Jetzt stehen die Partien für das Achtelfinale im DFB-Pokal fest. Titelverteidiger FC Bayern empfängt den Spitzenreiter der 2. Bundesliga, Borussia Dortmund bekommt ein schwieriges Los. Auch in Leverkusen steigt ein Topspiel.",
+     "link": "https://www.n-tv.de/sport/fussball/Bayern-empfaengt-Zweitliga-Ueberflieger-BVB-muss-nach-Frankfurt-id31482705.html",
+     "image": "https://www.n-tv.de/img/31482777/1793561134/Img_4_3/250/image.jpg",
+     "aggregator": false,
+     "published": "2026-11-01T18:46:54+00:00"
+    },
+    {
+     "source": "sportschau.de",
+     "region": "DE",
+     "weight": 0.6,
+     "title": "DFB-Pokal: Frankfurt empfängt Dortmund, Bayern gegen Hertha",
+     "summary": "DFB-Pokal: Frankfurt empfängt Dortmund, Bayern gegen Hertha sportschau.de Termine, Regeln, Übertragung: Alles zur Auslosung des Achtelfinals im DFB-Pokal Kicker Borussia Mönchengladbach: Gladbach freut sich über Glückslos BILD Achtelfinale DFB-Pokal: FC Bayern gegen Hertha BSC FC Bayern DFB-Pokal: FC Bayern im Glück – schweres Los für Borussia Dortmund T-Online",
+     "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNLUx5M1ktQU9UY3Q4a2ttQzhyR3N0LW9HTXJFSzd3YzRjYVZybDUzTUFoeGo5LWpGLUNjZEF5R2prYXl5UnlKck16RVVTNUZZenBTWUZGaV9yOF9QRFVsYmVIY0psNFBVQWpuR2YtMWJmelRGREZHY204R3lmczhhWlluOE43eVU5Q2pMR3NyS3ZUcEpsTEp4ZFlXOENidmVkYnZrODQxOHJyMHBNV19XdVByTFVVSlVF?oc=5",
+     "image": null,
+     "aggregator": true,
+     "published": "2026-11-02T03:26:02+00:00"
+    }
+   ]
+  },
+  {
+   "id": 4,
+   "score": 13.44,
+   "outlets": [
+    "ZDFheute",
+    "Deutschlandfunk",
+    "ORF",
+    "WELT",
+    "n-tv",
+    "WDR"
+   ],
+   "regions": [
+    "AT",
+    "DE"
+   ],
+   "trend": [],
+   "newest": "2026-11-02T03:53:56+00:00",
+   "articles": [
+    {
+     "source": "ZDFheute",
+     "region": "DE",
+     "weight": 1.0,
+     "title": "Polizei: Nadeln und Magnete in Halloween-Süßigkeiten gefunden",
+     "summary": "Metallnadeln in Süßigkeiten, Magnete am Kaubonbon: In Thüringen, Rheinland-Pfalz und Bayern haben Kinder nach Halloween gefährliche Funde gemacht. Die Polizei ermittelt und warnt.",
+     "link": "https://www.zdfheute.de/panorama/kriminalitaet/halloween-suessigkeiten-metall-nadel-magnet-thueringen-rheinland-pfalz-polizei-100.html",
+     "image": "https://www.zdfheute.de/assets/halloween-suessigkeiten-kuerbis-100~384x216?cb=1793515136765",
+     "aggregator": false,
+     "published": "2026-11-01T11:03:00+00:00"
+    },
+    {
+     "source": "Deutschlandfunk",
+     "region": "DE",
+     "weight": 0.95,
+     "title": "Nach Halloween-Geschenken für Kinder - Polizei ermittelt in fünf Bundesländern wegen Nadeln in Süßigkeiten",
+     "summary": "An Halloween sind bislang in fünf Bundesländern Süßigkeiten aufgetaucht, die mit Nadeln und anderen Metallteilen gespickt waren.",
+     "link": "https://www.deutschlandfunk.de/polizei-ermittelt-in-fuenf-bundeslaendern-wegen-nadeln-in-suessigkeiten-108.html",
+     "image": "https://bilder.deutschlandfunk.de/NO/VA/_e/d8/NOVA_ed83575a14c5a4bbef73ce74d8f92492/craft-12867790-asset-100-1920x1920.jpg",
+     "aggregator": false,
+     "published": "2026-11-02T03:53:56+00:00"
+    },
+    {
+     "source": "ORF",
+     "region": "AT",
+     "weight": 0.95,
+     "title": "Nadeln in Halloween-Süßigkeiten in Deutschland entdeckt",
+     "summary": "",
+     "link": "https://orf.at/stories/3446789/",
+     "image": null,
+     "aggregator": false,
+     "published": "2026-11-01T16:22:54+00:00"
+    },
+    {
+     "source": "WELT",
+     "region": "DE",
+     "weight": 0.8,
+     "title": "Gefährliche Halloween-Ausbeute – Familien entdecken Schrauben und Nadeln in Süßigkeiten",
+     "summary": "Eine Bösartigkeit wie aus einem Horrorfilm: Eltern finden in den von ihren Kindern an Halloween erbeuteten Süßigkeiten Nadeln und andere Metallobjekte.",
+     "link": "https://www.welt.de/vermischtes/article6ae68c1a6a5ed9f213133fbd/mehrere-bundeslaender-gefaehrliche-halloween-ausbeute-familien-entdecken-schrauben-und-nadeln-in-suessigkeiten.html",
+     "image": "https://images.welt.de/6ae68c1a6a5ed9f213133fbd/2ce3f3e5e3e1f85cff2d816c78ce9600-master/ci23x11-w1200/dpa-com-61539766-1-jpg",
+     "aggregator": false,
+     "published": "2026-11-01T16:34:00+00:00"
+    },
+    {
+     "source": "n-tv",
+     "region": "DE",
+     "weight": 0.8,
+     "title": "Fälle in mehreren Bundesländern: Kinder melden vielerorts Nadeln in Halloween-Süßigkeiten",
+     "summary": "In gleich mehreren Regionen machen Kinder in ihrer Halloween-Ausbeute unschöne Funde: In Süßigkeiten stecken Nadeln und Magnete. Die Polizei warnt davor, die Fremdkörper selbst zu entnehmen.",
+     "link": "https://www.n-tv.de/panorama/Kinder-melden-vielerorts-Nadeln-in-Halloween-Suessigkeiten-id31482652.html",
+     "image": "https://www.n-tv.de/img/31482670/1793556558/Img_4_3/250/629903653.jpg",
+     "aggregator": false,
+     "published": "2026-11-01T17:31:18+00:00"
+    },
+    {
+     "source": "WDR",
+     "region": "DE",
+     "weight": 0.6,
+     "title": "Bei der Polizei in Essen sind Nadeln in Halloween-Süßigkeiten gefunden worden",
+     "summary": "Bei der Polizei in Essen sind Nadeln in Halloween-Süßigkeiten gefunden worden WDR Nadeln und Haken in Halloween-Süßigkeiten: Welche Teufel machen denn so etwas? BILD Nadeln und Nägel in Halloween-Süßigkeiten: Polizei warnt Eltern NDR.de Gefährliche Funde: Polizei rät Eltern, Halloween-Süßigkeiten zu prüfen SWR Kinder finden Nadeln in Halloween-Süßigkeiten - Polizei rät zu genauem Blick MDR.de",
+     "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQajlwdWJVSE1ZMENBeERDLWo2OWRpT1FDWkpCR2V3TmxjVGFSbGNCSlZXUHZfN2tIOWdJem9GWW9zTzhFZy1UbG10VDBxaXY5eGRJMllMNFRKZWo3YmZ1RTYySEZPb1Baa0N6b3IxMktLdml2elkzaEhOZG41TGk5RnRwWi01c013emtpeGJRbm5iZHBYbW10V0lkSlY?oc=5",
+     "image": null,
+     "aggregator": true,
+     "published": "2026-11-01T19:51:53+00:00"
+    }
+   ]
+  },
+  {
+   "id": 5,
+   "score": 13.42,
+   "outlets": [
+    "tagesschau",
+    "Deutsche Welle",
+    "Handelsblatt",
+    "heise online",
+    "Golem"
+   ],
+   "regions": [
+    "DE",
+    "INT"
+   ],
+   "trend": [],
+   "newest": "2026-11-02T04:08:02+00:00",
+   "articles": [
+    {
+     "source": "tagesschau",
+     "region": "DE",
+     "weight": 1.0,
+     "title": "FBI macht Nordkorea für Hackerangriff auf Binance verantwortlich",
+     "summary": "Laut Experten war es der bisher größte Hackerangriff auf eine Börse für Digitalwährungen. Am Donnerstag war er bekannt geworden - und schnell geriet Nordkorea ins Visier. Nun macht auch das FBI nordkoreanische Hacker dafür verantwortlich.",
+     "link": "https://www.tagesschau.de/ausland/asien/hack-binance-100.html",
+     "image": "https://images.tagesschau.de/image/9c1a0a5f-3325-4594-b57a-9d01958b7978/AAABoYunSGo/AAABnSSvrFg/16x9-big/binance-108.jpg?width=1920",
+     "aggregator": false,
+     "published": "2026-11-01T10:08:00+00:00"
+    },
+    {
+     "source": "tagesschau Wirtschaft",
+     "region": "DE",
+     "weight": 1.0,
+     "title": "Milliardenschwerer Hackerangriff auf Kryptobörse Binance",
+     "summary": "Die weltgrößte Kryptobörse Binance ist offenbar Opfer einer massiven Cyberattacke geworden. Betroffen sind Digitalwährungen im Wert von mehr als sechs Milliarden Dollar. Was bedeutet das für Kunden?",
+     "link": "https://www.tagesschau.de/wirtschaft/technologie/hackerangriff-kryptoboerse-binance-100.html",
+     "image": "https://images.tagesschau.de/image/c98477ae-0b7c-46ba-921a-1bae298474ce/AAABoYumwKE/AAABnSSvrFg/16x9-big/binance-106.jpg?width=1920",
+     "aggregator": false,
+     "published": "2026-10-30T07:24:20+00:00"
+    },
+    {
+     "source": "Deutsche Welle",
+     "region": "INT",
+     "weight": 0.95,
+     "title": "Milliarden-Hack auf Kryptowährungsbörse Binance",
+     "summary": "Die größte Digitalwährungsbörse Binance ist Ziel eines Hackerangriffs mit milliardenschweren Folgen geworden. Eine US-Analysefirma vermutet nordkoreanische Hacker hinter dem Diebstahl.",
+     "link": "https://www.dw.com/de/milliarden-hack-auf-kryptowährungsbörse-binance/a-79804737?maca=de-rss-de-all-1119-xml-mrss",
+     "image": "https://static.dw.com/image/67520947_302.jpg",
+     "aggregator": false,
+     "published": "2026-10-30T09:30:00+00:00"
+    },
+    {
+     "source": "Handelsblatt",
+     "region": "DE",
+     "weight": 0.9,
+     "title": "Hackerangriff: FBI: Nordkoreanische Hacker stecken hinter milliardenschwerem Krypto-Diebstahl bei Binance",
+     "summary": "Der US-Bundespolizei zufolge soll die Gruppe TraderTraitor hinter dem weltweit größten digitalen Raubzug stecken. Binance will wieder mit Auszahlungen starten.",
+     "link": "https://www.handelsblatt.com/finanzen/maerkte/devisen-rohstoffe/binance-fbi-sieht-nordkoreanische-hacker-hinter-krypto-diebstahl/100266403.html",
+     "image": "https://images.handelsblatt.com/LKpSuLNaTTBQ/cover/900/506/0/0/627/0/0.5/0.5/binance.jpg",
+     "aggregator": false,
+     "published": "2026-11-02T04:08:02+00:00"
+    },
+    {
+     "source": "heise online",
+     "region": "DE",
+     "weight": 0.85,
+     "title": "FBI: Nordkorea steckt hinter Milliarden-Kryptodiebstahl bei Binance",
+     "summary": "Das FBI macht die nordkoreanische Gruppe TraderTraitor für den milliardenschweren Hackerangriff auf Binance verantwortlich.",
+     "link": "https://www.heise.de/news/FBI-Nordkorea-steckt-hinter-Milliarden-Kryptodiebstahl-bei-Binance-11507160.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
+     "image": null,
+     "aggregator": false,
+     "published": "2026-11-01T10:52:00+00:00"
+    },
+    {
+     "source": "Golem",
+     "region": "DE",
+     "weight": 0.75,
+     "title": "6,3 Milliarden US-Dollar geklaut: Binance startet nach Rekordhack schrittweise wieder",
+     "summary": "Nach dem größten Kryptodiebstahl aller Zeiten startet Binance die Auszahlungen wieder. Das FBI macht nordkoreanische Hacker verantwortlich. ( Kryptowährung , Security )",
+     "link": "https://www.golem.de/news/6-3-milliarden-us-dollar-geklaut-binance-startet-nach-rekordhack-schrittweise-wieder-2611-214728.html",
+     "image": "https://cpx.golem.de/cpx.php?class=17&amp;aid=214728&amp;page=1&amp;ts=1793540582",
+     "aggregator": false,
+     "published": "2026-11-01T13:43:02+00:00"
+    },
+    {
+     "source": "Handelsblatt",
+     "region": "DE",
+     "weight": 0.6,
+     "title": "Binance: FBI sieht nordkoreanische Hacker hinter Krypto-Diebstahl",
+     "summary": "Binance: FBI sieht nordkoreanische Hacker hinter Krypto-Diebstahl Handelsblatt FBI macht Nordkorea für Hackerangriff auf Binance verantwortlich tagesschau.de Auszahlungen laufen wieder: Binance erlebt Abhebungswelle nach Rekord-Hack n-tv.de dpa-AFX-Überblick: UNTERNEHMEN - Die wichtigsten Meldungen vom Wochenende Finanzen.net Binance gibt Kundenauszahlungen nach Hackerangriff frei freenet Mail",
+     "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxOOVZ2RjFXS2dvTVdtdDRUckl6RW5XSTdYSWxBZjRuM0Q3RnB3UDViWl9uU2RHNjQ4bXVsN0pwTThVRGdiQ2RmdWdkZXdDY2xlYkRzMG40NXE2MVRyTjY5TEhseHd1YWp4MGFYTjJieG1WYjN3Y1dONWFEZWVFeGZYcnNsUE4zLWQwNGNoNWl4ckprQVEyNnFRLUFWSVU0ektRMVNUUFNpX0VYZUloTjFQcVRlTG1lMXZGWVkxbWdFYnluMWFBeXVIQmw4TUlIRy1HMFVqY0pURGZFdUE?oc=5",
+     "image": null,
+     "aggregator": true,
+     "published": "2026-11-01T06:33:08+00:00"
+    }
+   ]
+  },
+  {
+   "id": 6,
+   "score": 12.62,
+   "outlets": [
+    "ORF",
+    "SPIEGEL",
+    "Süddeutsche",
+    "DER STANDARD",
+    "n-tv"
+   ],
+   "regions": [
+    "AT",
+    "DE"
+   ],
+   "trend": [],
+   "newest": "2026-11-02T03:50:58+00:00",
+   "articles": [
+    {
+     "source": "ORF",
+     "region": "AT",
+     "weight": 0.95,
+     "title": "Demokratenstreit in Michigan eskaliert",
+     "summary": "Wenige Tage vor den US-Zwischenwahlen hat die Demokratin Haley Stevens überraschend den republikanischen Kandidaten für einen Senatssitz für Michigan, Mike Rogers, unterstützt. Ihr Parteikollege, der linke Demokrat Abdul El-Sayed, habe klargemacht, dass sie nicht länger in seiner Wahlkampagne willkommen sei, sagte sie in einem auf X veröffentlichten Video. Von der eigenen Partei hagelte es Kritik. Das Rennen um den Senatssitz in Michigan gilt als eines der knappsten bei den Midterms am Dienstag.",
+     "link": "https://orf.at/stories/3446799/",
+     "image": null,
+     "aggregator": false,
+     "published": "2026-11-01T20:40:04+00:00"
+    },
+    {
+     "source": "SPIEGEL",
+     "region": "DE",
+     "weight": 0.9,
+     "title": "USA: Demokraten in Michigan werfen Haley Stevens nach Eklat offenbar raus",
+     "summary": "In Michigan eskaliert der parteiinterne Streit bei den Demokraten: Ex-Anwärterin Haley Stevens schlug sich auf die Seite des politischen Gegners. Das hat nun offenbar drastische Konsequenzen.",
+     "link": "https://www.spiegel.de/ausland/usa-demokraten-in-michigan-werfen-haley-stevens-nach-eklat-offenbar-raus-a-67205fbb-ee59-455a-a672-4286150733f4#ref=rss",
+     "image": "https://cdn.prod.www.spiegel.de/images/ec503abc-d5e2-42fc-b5ea-0257e9ef9979_w520_r2.08_fpx46.62_fpy50.jpg",
+     "aggregator": false,
+     "published": "2026-11-02T00:01:00+00:00"
+    },
+    {
+     "source": "Süddeutsche",
+     "region": "DE",
+     "weight": 0.9,
+     "title": "USA: Demokratin Stevens unterstützt Republikaner Rogers",
+     "summary": "Das Rennen um den Senatssitz für Michigan ist eines der wichtigsten in diesen US-Parlamentswahlen. Für die Republikaner tritt Mike Rogers an – und der bekommt jetzt ausgerechnet Unterstützung von einer Demokratin.",
+     "link": "https://www.sueddeutsche.de/politik/usa-news-liveblog-michigan-kongresswahlen-abdul-el-sayed-haley-stevens-mike-rogers-demokraten-republikaner-li.3568285",
+     "image": "https://www.sueddeutsche.de/2026/11/02/09d03eb2-15e7-4efb-88d0-853da982b643.jpg?rect=0%2C0%2C3200%2C2400&width=1000&fm=jpg&q=60",
+     "aggregator": false,
+     "published": "2026-11-02T03:50:58+00:00"
+    },
+    {
+     "source": "DER STANDARD",
+     "region": "AT",
+     "weight": 0.85,
+     "title": "Unterlegene Demokratin in Michigan unterstützt nun Republikaner",
+     "summary": "Haley Stevens spricht sich nach ihrer internen Wahlniederlage für den Republikaner Mike Rogers aus. Ihr Kontrahent Abdul El-Sayed gibt sich gelassen",
+     "link": "https://www.derstandard.at/story/3000000346971/unterlegene-demokratin-in-michigan-unterstuetzt-nun-republikaner?ref=rss",
+     "image": "https://i.ds.at/t3pKVA/rs:fill:150:0/plain/lido-images/2026/11/01/0ade3280-5ceb-43fb-8b10-676588e82907.jpg",
+     "aggregator": false,
+     "published": "2026-11-01T21:55:25+00:00"
+    },
+    {
+     "source": "n-tv",
+     "region": "DE",
+     "weight": 0.8,
+     "title": "Trump: \"Haley Stevens hat Mut\": Demokratin in Michigan empfiehlt Wahl von Republikaner",
+     "summary": "Kurz von den Midterm-Wahlen gehen die Demokraten in Michigan aufeinander los. Der linke Senatsbewerber Abdul El-Sayed hat offenbar seine unterlegene Parteigenossin Stevens so aufgebracht, dass sie öffentlich zur Wahl des Republikaners aufruft. US-Präsident Trump lobt sie dafür.",
+     "link": "https://www.n-tv.de/politik/Demokratin-in-Michigan-empfiehlt-Wahl-von-Republikaner-id31482974.html",
+     "image": "https://www.n-tv.de/img/31482982/1793575650/Img_4_3/250/AP26305699870754.jpg",
+     "aggregator": false,
+     "published": "2026-11-01T22:37:18+00:00"
+    }
+   ]
+  },
+  {
+   "id": 7,
+   "score": 10.8,
+   "outlets": [
+    "tagesschau",
+    "ZDFheute",
+    "WELT"
+   ],
+   "regions": [
+    "DE"
+   ],
+   "trend": [
+    "spiel",
+    "Union Berlin: Jauch-Kandidat: Trikot mit falschem Namen als Andenken"
+   ],
+   "newest": "2026-11-01T23:00:00+00:00",
+   "articles": [
+    {
+     "source": "tagesschau",
+     "region": "DE",
+     "weight": 1.0,
+     "title": "El Mala rettet 1. FC Köln bei Union Berlin - aber nicht Said",
+     "summary": "Der 1. FC Köln enttäuschte beim Wiedersehen mit Union Berlin - bei seiner Premiere sorgte Malek El Mala, Bruder von Said, trotzdem noch für einen Punktgewinn.",
+     "link": "https://www.sportschau.de/fussball/bundesliga/el-mala-rettet-koeln-bei-union-aber-nicht-said,spielbericht-union-berlin-koeln-102.html",
+     "image": "https://images.sportschau.de/image/ef25b93d-8b07-4828-bfae-1c9f91fd4c3a/AAABoZfwTZw/AAABnSSvrFg/16x9-big/union-kooeln-100.jpg?width=1920",
+     "aggregator": false,
+     "published": "2026-11-01T23:00:00+00:00"
+    },
+    {
+     "source": "ZDFheute",
+     "region": "DE",
+     "weight": 1.0,
+     "title": "Malek El Mala rettet Köln Punkt bei Union",
+     "summary": "Was für eine Geschichte: Malek El Mala, der ältere Bruder von Said, feiert im Spiel bei Union Berlin sein Bundesliga-Debüt für Köln. Kurz vor Schluss trifft er zum 1:1-Endstand.",
+     "link": "https://www.zdfheute.de/sport/fussball-bundesliga/video/union-berlin-1-fc-koeln-saison-2026-27-100.html",
+     "image": "https://www.zdfheute.de/assets/malek-el-mala-100~384x216?cb=1793561833448",
+     "aggregator": false,
+     "published": "2026-11-01T23:00:00+00:00"
+    },
+    {
+     "source": "ZDFheute",
+     "region": "DE",
+     "weight": 1.0,
+     "title": "Malek El Mala rettet Köln einen Punkt",
+     "summary": "Dank Malek El Mala reist der 1. FC Köln mit einem Punkt im Gepäck aus der Hauptstadt ab. Der Bundesliga-Neuling traf gegen Union Berlin spät zum 1:1.",
+     "link": "https://www.zdfheute.de/sport/fussball-bundesliga/bundesliga-1-fc-union-berlin-1-fc-koeln-spielbericht-100.html",
+     "image": "https://www.zdfheute.de/assets/malek-el-mala-fc-koeln-100~384x216?cb=1793550981744",
+     "aggregator": false,
+     "published": "2026-11-01T17:02:00+00:00"
+    },
+    {
+     "source": "WELT",
+     "region": "DE",
+     "weight": 0.8,
+     "title": "Saïd El Mala leitet ein, Malek El Mala vollstreckt – Köln punktet bei Union Berlin",
+     "summary": "40 Jahre nach Klaus und Thomas Allofs hatte Köln in der Schlussphase bei Union Berlin wieder ein Brüderpaar auf dem Platz. Das Duo war auch am verdienten Ausgleich beteiligt. Mit dem ersten Auswärtssieg seit Oktober 2025 wurde es aber nichts.",
+     "link": "https://www.welt.de/sport/fussball/bundesliga/article6ae766cc82dfc5c67ce5a86f/said-el-mala-leitet-ein-malek-el-mala-vollstreckt-koeln-punktet-bei-union-berlin.html",
+     "image": "https://images.welt.de/6ae766cc82dfc5c67ce5a86f/e372ee514901fd800168b5112c418c65-master/ci23x11-w1200/2026-11-01t161720z-1439858118-up1emb1198v7c-rtrmadp-3-soccer-germany-fcu-koe-jpg",
+     "aggregator": false,
+     "published": "2026-11-01T16:34:19+00:00"
+    }
+   ]
+  },
+  {
+   "id": 8,
+   "score": 10.2,
+   "outlets": [
+    "tagesschau",
+    "ZDFheute",
+    "Handelsblatt",
+    "WirtschaftsWoche",
+    "DER STANDARD"
+   ],
+   "regions": [
+    "AT",
+    "DE",
+    "INT"
+   ],
+   "trend": [],
+   "newest": "2026-11-01T16:43:53+00:00",
+   "articles": [
+    {
+     "source": "tagesschau",
+     "region": "DE",
+     "weight": 1.0,
+     "title": "Streit über Verfassungsgericht: Unterstützung für Tusk aus Brüssel",
+     "summary": "In Polen stehen sich die Regierung von Tusk und das rechtskonservative Lager um Staatspräsident Nawrocki scheinbar unversöhnlich gegenüber. Nun schaltet sich die EU-Kommission in den Streit über das Verfassungsgericht ein.",
+     "link": "https://www.tagesschau.de/ausland/polen-verfassungsgericht-eu-kommission-102.html",
+     "image": "https://images.tagesschau.de/image/151ab74c-4bdb-4d76-9475-80d7decae5a0/AAABoZdy__A/AAABnSSvrFg/16x9-big/polen-verfassungsgericht-126.jpg?width=1920",
+     "aggregator": false,
+     "published": "2026-11-01T14:25:24+00:00"
+    },
+    {
+     "source": "tagesschau Ausland",
+     "region": "INT",
+     "weight": 1.0,
+     "title": "Streit über Verfassungsgericht: Unterstützung für Tusk aus Brüssel",
+     "summary": "In Polen stehen sich die Regierung von Tusk und das rechtskonservative Lager um Staatspräsident Nawrocki scheinbar unversöhnlich gegenüber. Nun schaltet sich die EU-Kommission in den Streit über das Verfassungsgericht ein.",
+     "link": "https://www.tagesschau.de/ausland/polen-verfassungsgericht-eu-kommission-102.html",
+     "image": "https://images.tagesschau.de/image/151ab74c-4bdb-4d76-9475-80d7decae5a0/AAABoZdy__A/AAABnSSvrFg/16x9-big/polen-verfassungsgericht-126.jpg?width=1920",
+     "aggregator": false,
+     "published": "2026-11-01T14:25:24+00:00"
+    },
+    {
+     "source": "ZDFheute",
+     "region": "DE",
+     "weight": 1.0,
+     "title": "Tusk: In Polen gilt nicht das \"Gesetz des Dschungels\"",
+     "summary": "Im Streit um das polnische Verfassungsgericht hat Regierungschef Tusk den rechtskonservativen Präsidenten Nawrocki scharf kritisiert. Er warf ihm Einschüchterung der Richter vor.",
+     "link": "https://www.zdfheute.de/politik/ausland/polen-tusk-konflikt-verfassungsgericht-100.html",
+     "image": "https://www.zdfheute.de/assets/donald-tusk-polen-104~384x216?cb=1793507998382",
+     "aggregator": false,
+     "published": "2026-11-01T04:45:00+00:00"
+    },
+    {
+     "source": "Handelsblatt",
+     "region": "DE",
+     "weight": 0.9,
+     "title": "Justiz: Verhärtete Fronten im Streit um Polens Verfassungsgericht",
+     "summary": "Beim Tauziehen um die Besetzung der Richterposten will weder Regierungschef Tusk noch Präsident Nawrocki nachgeben. Eine geplante Generalversammlung der Verfassungsrichter birgt neuen Zündstoff.",
+     "link": "https://www.handelsblatt.com/politik/international/justiz-verhaertete-fronten-im-streit-um-polens-verfassungsgericht/100266386.html",
+     "image": "https://images.handelsblatt.com/c5Q8tFdGwoON/cover/900/506/0/0/107/107/0.5/0.5/streit-um-verfassungsgericht-in-polen-spitzt-sich-zu.jpg",
+     "aggregator": false,
+     "published": "2026-11-01T13:16:59+00:00"
+    },
+    {
+     "source": "Handelsblatt",
+     "region": "DE",
+     "weight": 0.9,
+     "title": "Polen: ﻿„Staatsstreich“ oder Rückkehr zur Rechtmäßigkeit? Der Streit um Polens Verfassungsgericht eskaliert",
+     "summary": "In der Nacht zum Samstag marschiert die Polizei vor Polens Verfassungsgericht auf, und der Staatspräsident liefert sich ein Handgemenge mit einer Richterin. Es geht um die Macht in dem Gremium.",
+     "link": "https://www.handelsblatt.com/politik/international/polen-streit-um-polens-verfassungsgericht-eskaliert/100266434.html",
+     "image": "https://images.handelsblatt.com/UU1pAwEXArMf/cover/900/506/0/0/0/627/0.5/0.5/warschau.jpg",
+     "aggregator": false,
+     "published": "2026-11-01T13:07:02+00:00"
+    },
+    {
+     "source": "WirtschaftsWoche",
+     "region": "DE",
+     "weight": 0.85,
+     "title": "Umstrittener Justizumbau: Verhärtete Fronten im Streit um Polens Verfassungsgericht",
+     "summary": "Beim Tauziehen um die Besetzung der Richterposten will weder Regierungschef Donald Tusk noch Präsident Karol Nawrocki nachgeben.",
+     "link": "https://www.wiwo.de/politik/ausland/umstrittener-justizumbau-verhaertete-fronten-im-streit-um-polens-verfassungsgericht/100266328.html",
+     "image": "https://images.wiwo.de/Nqa8Ej2W4tYz/cover/900/506/0/0/313/312/0.5/0.5/dpatopbilder-31.10.2026-polen-warschau-die-polnische-polizei-rueckt-auf-dem-gelaende-des-polnisch.jpg",
+     "aggregator": false,
+     "published": "2026-11-01T13:53:00+00:00"
+    },
+    {
+     "source": "DER STANDARD",
+     "region": "AT",
+     "weight": 0.85,
+     "title": "Der Machtkampf um Polens Verfassungsgericht ist noch nicht entschieden",
+     "summary": "Der Machtkampf um Polens Verfassungsgericht ist noch nicht entschieden Tusk: Im Rechtsstaat gilt nicht das Gesetz des Dschungels",
+     "link": "https://www.derstandard.at/story/3000000346935/der-machtkampf-um-polens-verfassungsgericht-ist-noch-nicht-entschieden?ref=rss",
+     "image": "https://i.ds.at/q6FuRA/rs:fill:150:0/plain/lido-images/2026/11/01/e3a97477-9f53-4321-b8dc-6cccd84afa0a.jpg",
+     "aggregator": false,
+     "published": "2026-11-01T16:43:53+00:00"
+    }
+   ]
+  },
+  {
+   "id": 9,
+   "score": 9.44,
+   "outlets": [
+    "Deutschlandfunk",
+    "ORF",
+    "SPIEGEL"
+   ],
+   "regions": [
+    "AT",
+    "DE"
+   ],
+   "trend": [],
+   "newest": "2026-11-02T03:53:56+00:00",
+   "articles": [
+    {
+     "source": "Deutschlandfunk",
+     "region": "DE",
+     "weight": 0.95,
+     "title": "USA - Neun Tote bei Absturz von Geschäftsflugzeug in Florida",
+     "summary": "Im US-Bundesstaat Florida sind beim Absturz eines Privatflugzeugs alle neun Insassen ums Leben gekommen.",
+     "link": "https://www.deutschlandfunk.de/neun-tote-bei-absturz-von-geschaeftsflugzeug-in-florida-104.html",
+     "image": "https://bilder.deutschlandfunk.de/30/e7/d1/58/30e7d158-7be4-41f9-a4bf-e30bd102ef1a/flugzeugabsturz-florida-100-1920x1920.jpg",
+     "aggregator": false,
+     "published": "2026-11-02T03:53:56+00:00"
+    },
+    {
+     "source": "ORF",
+     "region": "AT",
+     "weight": 0.95,
+     "title": "US-Minister: Neun Tote bei Flugzeugabsturz in Florida",
+     "summary": "",
+     "link": "https://orf.at/stories/3446805/",
+     "image": null,
+     "aggregator": false,
+     "published": "2026-11-01T21:29:53+00:00"
+    },
+    {
+     "source": "SPIEGEL",
+     "region": "DE",
+     "weight": 0.9,
+     "title": "USA: Privatjet stürzt in Wohngebiet in Florida – neun Tote",
+     "summary": "Überwachungskameras filmten den Einschlag, ein gewaltiger Krater zeugt von der Wucht: Nahe West Palm Beach ist ein Privatflugzeug abgestürzt. Das Unglück ereignete sich in einer belebten Gegend.",
+     "link": "https://www.spiegel.de/panorama/usa-privatjet-stuerzt-in-wohngebiet-in-florida-neun-tote-a-bc8c87a9-f52d-4153-9fd2-faaa28a48aaa#ref=rss",
+     "image": "https://cdn.prod.www.spiegel.de/images/6d07ee22-ab7c-417a-89ea-3175a3afaa5c_w520_r2.08_fpx41.34_fpy50.jpg",
+     "aggregator": false,
+     "published": "2026-11-02T01:21:00+00:00"
+    }
+   ]
+  },
+  {
+   "id": 10,
+   "score": 9.34,
+   "outlets": [
+    "tagesschau",
+    "Deutschlandfunk",
+    "WELT"
+   ],
+   "regions": [
+    "DE"
+   ],
+   "trend": [],
+   "newest": "2026-11-02T03:53:56+00:00",
+   "articles": [
+    {
+     "source": "tagesschau",
+     "region": "DE",
+     "weight": 1.0,
+     "title": "Beatles-Wegbereiter Horst Fascher gestorben",
+     "summary": "Er holte die Beatles in seinen Star-Club nach Hamburg und legte damit den Grundstein für ihren Welterfolg. Nun ist der Konzert-Manager Horst Fascher NDR-Informationen zufolge im Alter von 90 Jahren gestorben.",
+     "link": "https://www.ndr.de/kultur/musik/pop/sein-star-club-machte-sie-gross-beatles-wegbereiter-horst-fascher-gestorben,horstfascher-100.html",
+     "image": "https://images.ndr.de/image/038942d5-73a3-43c5-9b22-078fa9fe03f8/AAABoZc3IXM/AAABnSSvrFg/16x9-big/screenshot-253888.jpg?width=1920",
+     "aggregator": false,
+     "published": "2026-11-01T19:22:54+00:00"
+    },
+    {
+     "source": "Deutschlandfunk",
+     "region": "DE",
+     "weight": 0.95,
+     "title": "Hamburg - Deutscher Beatles-Wegbereiter Horst Fascher gestorben",
+     "summary": "Der deutsche Beatles-Wegbereiter Horst Fascher ist gestorben.",
+     "link": "https://www.deutschlandfunk.de/deutscher-beatles-wegbereiter-horst-fascher-gestorben-100.html",
+     "image": "https://bilder.deutschlandfunk.de/5a/e4/93/26/5ae49326-545a-4df8-aac5-d8b90080757a/horst-fascher-100-1920x1920.jpg",
+     "aggregator": false,
+     "published": "2026-11-02T03:53:56+00:00"
+    },
+    {
+     "source": "WELT",
+     "region": "DE",
+     "weight": 0.8,
+     "title": "Er holte die Beatles und Chuck Berry nach St. Pauli – „Star-Club“-Legende Horst Fascher ist tot",
+     "summary": "Der Hamburger Musikmanager starb am Freitag im Alter von 90 Jahren. Mit dem „Star-Club“ schrieb Horst Fascher ein Stück Rockgeschichte. Ob Chuck Berry, Jerry Lee Lewis, Ray Charles oder Bill Haley – bei Fascher traten sie alle auf.",
+     "link": "https://www.welt.de/vermischtes/article6ae777b6aedea8cd9ffc0e8d/hamburger-musikmanager-er-holte-die-beatles-und-chuck-berry-nach-st-pauli-star-club-legende-horst-fascher-ist-tot.html",
+     "image": "https://images.welt.de/6ae777b6aedea8cd9ffc0e8d/e882ebaffdfec2c3f4311c85a0b0ff2e-master/ci23x11-w1200/dpa-com-261101-935-1714309-jpg",
+     "aggregator": false,
+     "published": "2026-11-01T17:50:15+00:00"
+    }
+   ]
+  },
+  {
+   "id": 11,
+   "score": 9.34,
+   "outlets": [
+    "ZDFheute",
+    "Deutschlandfunk",
+    "n-tv"
+   ],
+   "regions": [
+    "DE"
+   ],
+   "trend": [],
+   "newest": "2026-11-02T03:53:56+00:00",
+   "articles": [
+    {
+     "source": "ZDFheute",
+     "region": "DE",
+     "weight": 1.0,
+     "title": "Steinmeier: China nicht bereit für Ukraine-Gipfel",
+     "summary": "Nach einem Treffen mit Chinas Präsident Xi kündigt der Bundespräsident mögliche Gespräche zwischen China, Russland und den USA an. Die Ukraine soll dabei jedoch kein Thema sein.",
+     "link": "https://www.zdfheute.de/politik/ausland/steinmeier-china-russland-usa-gipfel-ukraine-100.html",
+     "image": "https://www.zdfheute.de/assets/frank-walter-steinmeier-und-xi-jinping-100~384x216?cb=1793530022644",
+     "aggregator": false,
+     "published": "2026-11-01T12:50:00+00:00"
+    },
+    {
+     "source": "Deutschlandfunk",
+     "region": "DE",
+     "weight": 0.95,
+     "title": "Russlands Krieg in der Ukraine - Bundespräsident Steinmeier: Chinas Staats- und Parteichef Xi \"irritiert\" über Berichte zu Gipfel mit USA und Russland zur Ukraine",
+     "summary": "​Chinas Staats- und Parteichef Xi hat nach Darstellung von Bundespräsident Steinmeier kein Interesse an einem Ukraine-Dreiergipfel mit den USA und Russland.",
+     "link": "https://www.deutschlandfunk.de/bundespraesident-steinmeier-chinas-staats-und-parteichef-xi-irritiert-ueber-berichte-zu-gipfel-mit-u-110.html",
+     "image": "https://bilder.deutschlandfunk.de/a2/aa/8e/8b/a2aa8e8b-d04c-4746-b8ea-e3fb63e6e6ef/bundespraesident-steinmeier-china-besuch-xi-jinping-grosse-halle-des-volkes-100-1920x1920.jpg",
+     "aggregator": false,
+     "published": "2026-11-02T03:53:56+00:00"
+    },
+    {
+     "source": "n-tv",
+     "region": "DE",
+     "weight": 0.8,
+     "title": "Bei Gespräch über Ukraine-Gipfel: Steinmeier: Xi stand \"die Irritation in seinem Gesicht\"",
+     "summary": "Werden die Präsidenten Russlands, der USA und Chinas zu dritt über die Ukraine-Frage beraten? Bundespräsident Steinmeier spricht in Peking Präsident Xi darauf an. Der reagiert demnach abweisend.",
+     "link": "https://www.n-tv.de/politik/Steinmeier-Xi-stand-die-Irritation-in-seinem-Gesicht-id31481697.html",
+     "image": "https://www.n-tv.de/img/31481699/1793532579/Img_4_3/250/629151556.jpg",
+     "aggregator": false,
+     "published": "2026-11-01T11:21:31+00:00"
+    }
+   ]
+  },
+  {
+   "id": 12,
+   "score": 9.0,
+   "outlets": [
+    "tagesschau",
+    "Deutsche Welle",
+    "Handelsblatt",
+    "WirtschaftsWoche",
+    "WELT"
+   ],
+   "regions": [
+    "DE",
+    "INT"
+   ],
+   "trend": [],
+   "newest": "2026-11-01T14:26:00+00:00",
+   "articles": [
+    {
+     "source": "tagesschau",
+     "region": "DE",
+     "weight": 1.0,
+     "title": "Füllstandsvorgaben bei Gasspeichern nicht erreicht",
+     "summary": "Bis heute sollten die Gasspeicher einen durchschnittlichen Füllstand von 70 Prozent erreichen - aber die Vorgabe wurde verfehlt. Die Versorgung im Winter sei dennoch gesichert, betonen Wirtschaftsministerium und Bundesnetzagentur.",
+     "link": "https://www.tagesschau.de/wirtschaft/energie/gasspeicher-vorgaben-ziel-verfehlt-100.html",
+     "image": "https://images.tagesschau.de/image/90fcaddf-4c0f-4c73-804d-d38f627af935/AAABoKjuL6U/AAABnSSvrFg/16x9-big/gas-206.jpg?width=1920",
+     "aggregator": false,
+     "published": "2026-11-01T12:53:52+00:00"
+    },
+    {
+     "source": "tagesschau Wirtschaft",
+     "region": "DE",
+     "weight": 1.0,
+     "title": "Füllstandsvorgaben bei Gasspeichern nicht erreicht",
+     "summary": "Bis heute sollten die Gasspeicher einen durchschnittlichen Füllstand von 70 Prozent erreichen - aber die Vorgabe wurde verfehlt. Die Versorgung im Winter sei dennoch gesichert, betonen Wirtschaftsministerium und Bundesnetzagentur.",
+     "link": "https://www.tagesschau.de/wirtschaft/energie/gasspeicher-vorgaben-ziel-verfehlt-100.html",
+     "image": "https://images.tagesschau.de/image/90fcaddf-4c0f-4c73-804d-d38f627af935/AAABoKjuL6U/AAABnSSvrFg/16x9-big/gas-206.jpg?width=1920",
+     "aggregator": false,
+     "published": "2026-11-01T12:53:52+00:00"
+    },
+    {
+     "source": "Deutsche Welle",
+     "region": "INT",
+     "weight": 0.95,
+     "title": "Vorgaben für Gasspeicher-Füllstand in Deutschland verfehlt",
+     "summary": "Eigentlich sollten die Gasspeicher am 1. November zu 70 Prozent gefüllt sein. Dieses Ziel wurde nicht erreicht. Das Wirtschaftsministerium beteuert dennoch, die Versorgung im kommenden Winter sei gesichert",
+     "link": "https://www.dw.com/de/vorgaben-für-gasspeicher-füllstand-in-deutschland-verfehlt/a-79822308?maca=de-rss-de-all-1119-xml-mrss",
+     "image": "https://static.dw.com/image/79153655_302.jpg",
+     "aggregator": false,
+     "published": "2026-11-01T14:26:00+00:00"
+    },
+    {
+     "source": "Handelsblatt",
+     "region": "DE",
+     "weight": 0.9,
+     "title": "Gasversorgung: Vorgaben bei Gasspeichern verfehlt - was bedeutet das?",
+     "summary": "Der Winter steht bevor - und die Gasspeicher in Deutschland sind vergleichsweise gering befüllt. Vorgaben werden nicht eingehalten. Was nun?",
+     "link": "https://www.handelsblatt.com/politik/deutschland/gasversorgung-vorgaben-bei-gasspeichern-verfehlt-was-bedeutet-das/100266387.html",
+     "image": "https://images.handelsblatt.com/6EKwt-c1LJ0s/cover/900/506/0/0/104/103/0.5/0.5/gasspeicher.jpg",
+     "aggregator": false,
+     "published": "2026-11-01T11:53:58+00:00"
+    },
+    {
+     "source": "WirtschaftsWoche",
+     "region": "DE",
+     "weight": 0.85,
+     "title": "Gasversorgung: Vorgaben bei Gasspeichern verfehlt – was bedeutet das?",
+     "summary": "Der Winter steht bevor – und die Gasspeicher in Deutschland sind vergleichsweise gering befüllt. Vorgaben werden nicht eingehalten. Was nun?",
+     "link": "https://www.wiwo.de/politik/deutschland/gasversorgung-vorgaben-bei-gasspeichern-verfehlt-was-bedeutet-das/100266389.html",
+     "image": "https://images.wiwo.de/Dlnfpkl3ZZ3n/cover/900/506/0/0/104/103/0.5/0.5/gasspeicher.jpg",
+     "aggregator": false,
+     "published": "2026-11-01T12:33:00+00:00"
+    },
+    {
+     "source": "WELT",
+     "region": "DE",
+     "weight": 0.6,
+     "title": "„Ernst zu nehmendes Warnsignal“ – Deutschlands Gasspeicher nur zu 61 Prozent gefüllt",
+     "summary": "„Ernst zu nehmendes Warnsignal“ – Deutschlands Gasspeicher nur zu 61 Prozent gefüllt WELT Füllstandsvorgaben bei Gasspeichern nicht erreicht tagesschau.de Gasspeicher: Reiche hält Gasversorgung trotz niedriger Füllstände für sicher DIE ZEIT Gas bricht Preisrekord: Deutschland schafft Deadline nicht – Erdgas klettert auf 103 Euro, mehrjähriges Hoch FOCUS online Deutsche Gasspeicher nicht voll: Netzagentur-Chef rechnet mit \"erheblich\" höheren Heizkosten n-tv.de",
+     "link": "https://news.google.com/rss/articles/CBMiiwJBVV95cUxOWC1WS1NJNlk4VGp0M0hYN2JubmZCaG1aOWo5R2RLZ2xHV01fRkJ0cGgwbG5zNmxMRWJ3dDhJeEpzWTl5SFlJSkFpUWgyNm1JT29aaG5ZaExmNGEtZ2FyUWJOSlVRQmppVi1GTjZNRTE0RHl4Uk85eG9GeC0yc043UUN5TkdSN0NvT1hKczBwYUF5SzRxbk9xUnVlWFYzZm9KODdmb0MxOUctUEZhbjc2amtiXzBkRmFLcWx6ci1ZNkl3TlljRXUtR0NGeVVpTEZpcHQzSjcta3NVVkVpN0d1Q2NOUmhCeTBkQXJLRno0ZUt6ZHN3MmpQeTdvbDMwZE1fdnhXcGoxeVJFY3M?oc=5",
+     "image": null,
+     "aggregator": true,
+     "published": "2026-11-01T13:55:01+00:00"
+    }
+   ]
+  },
+  {
+   "id": 13,
+   "score": 8.53,
+   "outlets": [
+    "SPIEGEL",
+    "DER STANDARD",
+    "WELT",
+    "n-tv"
+   ],
+   "regions": [
+    "AT",
+    "DE"
+   ],
+   "trend": [],
+   "newest": "2026-11-01T20:03:43+00:00",
+   "articles": [
+    {
+     "source": "SPIEGEL",
+     "region": "DE",
+     "weight": 0.9,
+     "title": "Michael Mann schießt sich in L.A. aus Versehen selbst ins Bein",
+     "summary": "Der 83-Jährige ist ins Krankenhaus gebracht worden, inzwischen gibt es jedoch Entwarnung: Hollywoodregisseur Michael Mann hat sich versehentlich auf einem Schießstand ins Bein geschossen.",
+     "link": "https://www.spiegel.de/panorama/leute/hollywoodregisseur-michael-mann-selbst-verletzt-bei-schiessstand-unfall-a-1c88e0d1-7b0b-4de2-978a-432f20e98050#ref=rss",
+     "image": "https://cdn.prod.www.spiegel.de/images/40885a00-7b4b-413e-a11c-b9806fb3fcb7_w520_r2.08_fpx40.65_fpy45.jpg",
+     "aggregator": false,
+     "published": "2026-11-01T17:53:00+00:00"
+    },
+    {
+     "source": "DER STANDARD",
+     "region": "AT",
+     "weight": 0.85,
+     "title": "\"Heat\"-Regisseur Michael Mann schießt sich ins eigene Bein und muss ins Spital",
+     "summary": "Bei einem Schießstand in Los Angeles hat sich der US-Regisseur selbst mit seiner eigenen Waffe verletzt. Die Schusswunde sei aber harmlos",
+     "link": "https://www.derstandard.at/story/3000000346948/heat-regisseur-michael-mann-schiesst-sich-ins-eigene-bein-und-muss-ins-spital?ref=rss",
+     "image": "https://i.ds.at/6YMZxw/rs:fill:150:0/plain/lido-images/2026/11/01/aae3a48d-a442-463d-b435-afe7c07ff00f.jpg",
+     "aggregator": false,
+     "published": "2026-11-01T16:29:20+00:00"
+    },
+    {
+     "source": "WELT",
+     "region": "DE",
+     "weight": 0.8,
+     "title": "Unfall beim Training – Michael Mann schießt sich selbst ins Bein",
+     "summary": "Der 83-jährige Regisseur war auf einem Schießstand gerade dabei, seine Waffe während des Zielschießens in das Holster zu stecken, als sich der Schuss löste. Michael Mann gilt als erfahrener Sportschütze.",
+     "link": "https://www.welt.de/politik/deutschland/article6ae76ae582dfc5c67ce5a8d8/filmemacher-unfall-beim-training-michael-mann-schiesst-sich-selbst-ins-bein.html",
+     "image": "https://images.welt.de/6ae76ae582dfc5c67ce5a8d8/f5ca7f5f26e19e90c3836f3fc1265034-master/ci23x11-w1200/apdpa-f7b6422e58e64ff79be028d59b99435c-jpg",
+     "aggregator": false,
+     "published": "2026-11-01T17:07:11+00:00"
+    },
+    {
+     "source": "n-tv",
+     "region": "DE",
+     "weight": 0.8,
+     "title": "Bei Training in Los Angeles: Hollywood-Regisseur schießt sich selbst ins Bein",
+     "summary": "Er ist bekannt für Filme wie \"Heat\" - und eigentlich ein erfahrener Sportschütze. Dennoch zieht sich der Regisseur Michael Mann beim Schießtraining eine Verletzung zu, als sich ein Schuss aus seiner eigenen Waffe löst.",
+     "link": "https://www.n-tv.de/leute/Hollywood-Regisseur-schiesst-sich-selbst-ins-Bein-id31482858.html",
+     "image": "https://www.n-tv.de/img/31482860/1793564300/Img_4_3/250/622268407.jpg",
+     "aggregator": false,
+     "published": "2026-11-01T20:03:43+00:00"
+    },
+    {
+     "source": "WELT",
+     "region": "DE",
+     "weight": 0.6,
+     "title": "Filmemacher: Unfall beim Training – Michael Mann schießt sich selbst ins Bein",
+     "summary": "Filmemacher: Unfall beim Training – Michael Mann schießt sich selbst ins Bein WELT Michael Mann in Klinik: Kult-Regisseur schießt sich selbst ins Bein BILD \"Heat\"-Regisseur Michael Mann steckt Pistole ins Holster - Schuss löst sich WEB.DE Bei Training in Los Angeles: Hollywood-Regisseur schießt sich selbst ins Bein n-tv.de Michael Mann schießt sich in L.A. aus Versehen selbst ins Bein Spiegel",
+     "link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxPdnBmYU1fdGJqek9UeEhQeDdLd1NlZXY5QzdJbmVDeWxYbXZBUlFyQ0NnMUhMWTBxcjY1ZUE4VnZTYURRbmQ4bG12VXpHYWRXbWFsRWQyMGxYRXJQYVdQUE5vOU5meUdzcnRGUWdzZ1N2QklMS01NbnN6X2drekU0SkVudEt4MEcyZVZQbTFQZXcwOXQ3aHVhMDFycnM2bDBHalBudk5Jdnh3YktweERwWlp4cWJzQzlKVWVjelBKVWkta2IwX0c1d293TE5oWDA4VElYX1FtMmZRR2FsS2JRTFVpVl9JUUU?oc=5",
+     "image": null,
+     "aggregator": true,
+     "published": "2026-11-01T17:08:13+00:00"
+    }
+   ]
+  },
+  {
+   "id": 14,
+   "score": 7.89,
+   "outlets": [
+    "SPIEGEL",
+    "n-tv"
+   ],
+   "regions": [
+    "DE"
+   ],
+   "trend": [
+    "spiel",
+    "GTA 6: Downloadgröße geleakt - Spieler müssen wohl ordentlich Speicher freiräumen"
+   ],
+   "newest": "2026-11-01T20:51:00+00:00",
+   "articles": [
+    {
+     "source": "SPIEGEL",
+     "region": "DE",
+     "weight": 0.9,
+     "title": "Donald Trump prahlt neue Angriffsziele in Iran ins Spiel - »Pickaxe Mountain«?",
+     "summary": "»Wir müssen uns noch um ein oder zwei Anlagen kümmern, aber das können wir in zehn Minuten erledigen«: Donald Trump spricht über Angriffe auf Iran – auch auf ein Ziel 200 Kilometer südlich von Teheran.",
+     "link": "https://www.spiegel.de/ausland/donald-trump-prahlt-neue-angriffsziele-in-iran-ins-spiel-pickaxe-mountain-a-41a5db5e-7ad1-49b1-8038-e773378f49a1#ref=rss",
+     "image": "https://cdn.prod.www.spiegel.de/images/4f445290-3fbd-44a0-9f12-2dad14f73b5b_w520_r2.08_fpx33.34_fpy50.jpg",
+     "aggregator": false,
+     "published": "2026-11-01T20:51:00+00:00"
+    },
+    {
+     "source": "n-tv",
+     "region": "DE",
+     "weight": 0.8,
+     "title": "\"In zehn Minuten erledigen\": Trump bringt Angriff auf Irans Atomanlage \"Pickaxe Mountain\" ins Spiel",
+     "summary": "US-Präsident Trump hat offenbar neue Angriffsziele im Iran im Blick, Teheran droht sofort mit Vergeltung. Während Vermittler um eine Lösung ringen, wächst die Sorge vor einer neuen Eskalation - und im Golf wird ein Tanker getroffen.",
+     "link": "https://www.n-tv.de/politik/Trump-bringt-Angriff-auf-Irans-Atomanlage-Pickaxe-Mountain-ins-Spiel-id31482098.html",
+     "image": "https://www.n-tv.de/img/31482100/1793540626/Img_4_3/250/608455889.jpg",
+     "aggregator": false,
+     "published": "2026-11-01T13:11:43+00:00"
+    }
+   ]
+  },
+  {
+   "id": 15,
+   "score": 7.67,
+   "outlets": [
+    "tagesschau Wirtschaft",
+    "ZEIT ONLINE"
+   ],
+   "regions": [
+    "DE"
+   ],
+   "trend": [],
+   "newest": "2026-11-02T04:00:28+00:00",
+   "articles": [
+    {
+     "source": "tagesschau Wirtschaft",
+     "region": "DE",
+     "weight": 1.0,
+     "title": "Fehlende Wohnungen: Was hat der \"Bau-Turbo\" bislang gebracht?",
+     "summary": "In Deutschland werden viel zu wenig Wohnungen gebaut. Dabei versucht die Bundesregierung gegenzusteuern - etwa mit dem \"Bau-Turbo\", der seit einem Jahr gilt. Was hat das Gesetz bislang gebracht? Von Axel John.",
+     "link": "https://www.tagesschau.de/wirtschaft/konjunktur/bauturbo-wohnungen-immobilien-100.html",
+     "image": "https://images.tagesschau.de/image/5c82355f-22c0-4406-b0b4-220b96eb59b9/AAABoYvWZGQ/AAABnSSvrFg/16x9-big/baustelle-402.jpg?width=1920",
+     "aggregator": false,
+     "published": "2026-10-30T07:55:53+00:00"
+    },
+    {
+     "source": "ZEIT ONLINE",
+     "region": "DE",
+     "weight": 0.9,
+     "title": "Preußische Gärten: Wohnen im Welterbe: ein wenig Italien, viel Denkmalschutz",
+     "summary": "",
+     "link": "https://www.zeit.de/news/2026-11/02/wohnen-im-welterbe-ein-wenig-italien-viel-denkmalschutz",
+     "image": "https://img.zeit.de/news/2026-11/02/wohnen-im-welterbe-ein-wenig-italien-viel-denkmalschutz-image-group/original__640x360",
+     "aggregator": false,
+     "published": "2026-11-02T04:00:28+00:00"
+    }
+   ]
+  },
+  {
+   "id": 16,
+   "score": 7.67,
+   "outlets": [
+    "tagesschau Inland",
+    "Handelsblatt"
+   ],
+   "regions": [
+    "DE"
+   ],
+   "trend": [],
+   "newest": "2026-11-02T04:00:17+00:00",
+   "articles": [
+    {
+     "source": "tagesschau Inland",
+     "region": "DE",
+     "weight": 1.0,
+     "title": "Wahl des Bundespräsidenten: Wer folgt auf Steinmeier?",
+     "summary": "Am 30. Januar wählt die Bundesversammlung ein neues Staatsoberhaupt. Doch wer für die Nachfolge von Frank-Walter Steinmeier ins Rennen geschickt wird, ist noch offen. Welche Namen gehandelt werden, wer die besten Chancen hat und wie die Wahl abläuft.",
+     "link": "https://www.tagesschau.de/inland/innenpolitik/bundespraesidentenwahl-102.html",
+     "image": "https://images.tagesschau.de/image/e1453247-34bc-4f3e-88fd-6a9c620b8bd9/AAABoXfKAK8/AAABnSSvrFg/16x9-big/frank-walter-steinmeier-254.jpg?width=1920",
+     "aggregator": false,
+     "published": "2026-10-26T15:07:22+00:00"
+    },
+    {
+     "source": "Handelsblatt",
+     "region": "DE",
+     "weight": 0.9,
+     "title": "Steinmeier-Nachfolge: SPD nominiert Michel Friedman für die Bundesversammlung",
+     "summary": "Michel Friedman soll nach dem Willen der Hessen-SPD mitentscheiden, wer auf Frank-Walter Steinmeier als Bundespräsident folgt - aus Sicht des Publizisten eine Wahl „von höchster Bedeutung“.",
+     "link": "https://www.handelsblatt.com/politik/deutschland/steinmeier-nachfolge-spd-nominiert-michel-friedman-fuer-die-bundesversammlung/100266509.html",
+     "image": "https://images.handelsblatt.com/gE2R7zAb5Ylj/cover/900/506/0/0/107/107/0.5/0.5/michel-friedman.jpg",
+     "aggregator": false,
+     "published": "2026-11-02T04:00:17+00:00"
+    }
+   ]
+  },
+  {
+   "id": 17,
+   "score": 7.64,
+   "outlets": [
+    "Deutsche Welle",
+    "Deutschlandfunk"
+   ],
+   "regions": [
+    "DE",
+    "INT"
+   ],
+   "trend": [],
+   "newest": "2026-11-02T03:53:56+00:00",
+   "articles": [
+    {
+     "source": "Deutsche Welle",
+     "region": "INT",
+     "weight": 0.95,
+     "title": "Deutschlands erste Jüdische Akademie - zwischen Tradition und Moderne",
+     "summary": "In Frankfurt am Main eröffnet der Zentralrat der Juden die \"Jüdische Akademie\". Ein Projekt von bundesweiter Bedeutung - und vor großen Herausforderungen.",
+     "link": "https://www.dw.com/de/deutschlands-erste-jüdische-akademie-zwischen-tradition-und-moderne/a-79790862?maca=de-rss-de-all-1119-xml-mrss",
+     "image": "https://static.dw.com/image/79788840_302.jpg",
+     "aggregator": false,
+     "published": "2026-10-31T14:38:00+00:00"
+    },
+    {
+     "source": "Deutschlandfunk",
+     "region": "DE",
+     "weight": 0.95,
+     "title": "Religion - Erste Jüdische Akademie wird in Frankfurt eröffnet - Steinmeier erwartet",
+     "summary": "In Frankfurt am Main wird heute im Beisein von Bundespräsident Steinmeier eine Jüdische Akademie eröffnet.",
+     "link": "https://www.deutschlandfunk.de/erste-juedische-akademie-wird-in-frankfurt-eroeffnet-steinmeier-erwartet-100.html",
+     "image": "https://bilder.deutschlandfunk.de/f2/ed/14/2e/f2ed142e-0a8e-42e6-b0dd-3272ae3f341f/juedische-akademie-frankfurt-100-1920x1920.jpg",
+     "aggregator": false,
+     "published": "2026-11-02T03:53:56+00:00"
+    }
+   ]
+  },
+  {
+   "id": 18,
+   "score": 7.54,
+   "outlets": [
+    "Deutschlandfunk",
+    "Handelsblatt"
+   ],
+   "regions": [
+    "DE"
+   ],
+   "trend": [],
+   "newest": "2026-11-02T03:53:56+00:00",
+   "articles": [
+    {
+     "source": "Deutschlandfunk",
+     "region": "DE",
+     "weight": 0.95,
+     "title": "Tarife - Weitere Warnstreiks der IG Metall",
+     "summary": "Im Tarifkonflikt der Metallindustrie will die IG Metall ihre Warnstreiks heute ausweiten.",
+     "link": "https://www.deutschlandfunk.de/weitere-warnstreiks-der-ig-metall-100.html",
+     "image": "https://bilder.deutschlandfunk.de/FI/LE/_5/37/FILE_537fac075587e0fd4045b87391645c8b/133823390-jpg-100-768x768.jpg",
+     "aggregator": false,
+     "published": "2026-11-02T03:53:56+00:00"
+    },
+    {
+     "source": "Handelsblatt",
+     "region": "DE",
+     "weight": 0.9,
+     "title": "Tarifkonflikt: Metaller-Warnstreiks nehmen Fahrt auf",
+     "summary": "Mit „Mitternachtsaktionen“ beginnen Warnstreiks in der deutschen Metall- und Elektroindustrie. In einer schwierigen Lage geht es um Jobs und den Erhalt der Kaufkraft - auch in der neuen Woche.",
+     "link": "https://www.handelsblatt.com/politik/deutschland/tarifkonflikt-metaller-warnstreiks-nehmen-fahrt-auf/100266377.html",
+     "image": "https://images.handelsblatt.com/aIPKrhSjDdv2/cover/900/506/0/0/107/106/0.5/0.5/ig-metall-warnstreiks-andernach.jpg",
+     "aggregator": false,
+     "published": "2026-11-01T13:05:54+00:00"
+    }
+   ]
+  },
+  {
+   "id": 19,
+   "score": 7.54,
+   "outlets": [
+    "Deutschlandfunk",
+    "Handelsblatt"
+   ],
+   "regions": [
+    "DE"
+   ],
+   "trend": [],
+   "newest": "2026-11-02T03:53:56+00:00",
+   "articles": [
+    {
+     "source": "Deutschlandfunk",
+     "region": "DE",
+     "weight": 0.95,
+     "title": "Wählerverzeichnisse - Indiens Opposition erneuert Forderung nach Rücktritt des Chefs der Wahlkommission",
+     "summary": "In Indien haben erneut mehrere zehntausend Menschen gegen die geplante Änderung des landesweiten Wählerverzeichnisses protestiert.",
+     "link": "https://www.deutschlandfunk.de/indiens-opposition-erneuert-forderung-nach-ruecktritt-des-chefs-der-wahlkommission-104.html",
+     "image": "https://bilder.deutschlandfunk.de/3b/d2/58/9b/3bd2589b-469c-4608-a8a7-ff60b424e8e9/indien-proteste-delhi-100-1920x1920.jpg",
+     "aggregator": false,
+     "published": "2026-11-02T03:53:56+00:00"
+    },
+    {
+     "source": "Handelsblatt",
+     "region": "DE",
+     "weight": 0.9,
+     "title": "Indien: Indische Opposition protestiert erneut gegen Wahlkommissionschef Gyanesh Kumar",
+     "summary": "In Indien gingen erneut zehntausende Menschen gegen den Leiter der Wahlkommission auf die Straße. Dieser hatte 2025 die Wahllisten stark überarbeitet – offenbar zum Nachteil von Minderheiten.",
+     "link": "https://www.handelsblatt.com/politik/international/indien-indische-opposition-protestiert-erneut-gegen-wahlkommissionschef/100266454.html",
+     "image": "https://images.handelsblatt.com/J67qJMegSBNn/cover/900/506/0/0/310/311/0.5/0.5/a-protester-holds-a-cut-out-of-indiaaposs-chief-election-commissioner-gyanesh-kumar-during-a-prote.jpg",
+     "aggregator": false,
+     "published": "2026-11-01T13:48:12+00:00"
+    }
+   ]
+  },
+  {
+   "id": 20,
+   "score": 7.5,
+   "outlets": [
+    "ZEIT ONLINE",
+    "Handelsblatt"
+   ],
+   "regions": [
+    "DE"
+   ],
+   "trend": [],
+   "newest": "2026-11-02T04:05:05+00:00",
+   "articles": [
+    {
+     "source": "ZEIT ONLINE",
+     "region": "DE",
+     "weight": 0.9,
+     "title": "Midterms: Auf diese Rennen sollte man bei den US-Zwischenwahlen achten",
+     "summary": "",
+     "link": "https://www.zeit.de/news/2026-11/02/auf-diese-rennen-sollte-man-bei-den-us-zwischenwahlen-achten",
+     "image": "https://img.zeit.de/news/2026-11/02/auf-diese-rennen-sollte-man-bei-den-us-zwischenwahlen-achten-image-group/original__640x360",
+     "aggregator": false,
+     "published": "2026-11-02T04:05:05+00:00"
+    },
+    {
+     "source": "Handelsblatt",
+     "region": "DE",
+     "weight": 0.9,
+     "title": "Midterms: Auf diese Rennen sollte man bei den US-Zwischenwahlen achten",
+     "summary": "50 Bundesstaaten, Hunderte Rennen und die große Frage: Wechselt die Mehrheit in einer oder beiden Kammern des US-Parlaments? Wo man am Wahlabend genauer hinschauen sollte.",
+     "link": "https://www.handelsblatt.com/politik/international/midterms-auf-diese-rennen-sollte-man-bei-den-us-zwischenwahlen-achten/100266510.html",
+     "image": "https://images.handelsblatt.com/nr0lzOMfZkAq/cover/900/506/0/0/107/106/0.5/0.5/us-midterms.jpg",
+     "aggregator": false,
+     "published": "2026-11-02T04:05:05+00:00"
+    }
+   ]
+  },
+  {
+   "id": 21,
+   "score": 7.47,
+   "outlets": [
+    "ZEIT ONLINE",
+    "Handelsblatt"
+   ],
+   "regions": [
+    "DE"
+   ],
+   "trend": [],
+   "newest": "2026-11-02T04:00:19+00:00",
+   "articles": [
+    {
+     "source": "ZEIT ONLINE",
+     "region": "DE",
+     "weight": 0.9,
+     "title": "Treffen der Kreisvorsitzenden: Alarmstufe «dunkelrot»: Kanzler trifft auf verärgerte Basis",
+     "summary": "",
+     "link": "https://www.zeit.de/news/2026-11/02/alarmstufe-dunkelrot-kanzler-trifft-auf-veraergerte-basis",
+     "image": "https://img.zeit.de/news/2026-11/02/alarmstufe-dunkelrot-kanzler-trifft-auf-veraergerte-basis-image-group/original__640x360",
+     "aggregator": false,
+     "published": "2026-11-02T04:00:19+00:00"
+    },
+    {
+     "source": "Handelsblatt",
+     "region": "DE",
+     "weight": 0.9,
+     "title": "Treffen der Kreisvorsitzenden: Alarmstufe „dunkelrot“: Kanzler trifft auf verärgerte Basis",
+     "summary": "Die CDU-Basis macht die Bundespolitik für die tiefe Krise der Partei verantwortlich. Bei einer Konferenz in Berlin prallen nun beide Seiten aufeinander. Für den Kanzler dürfte es ungemütlich werden.",
+     "link": "https://www.handelsblatt.com/politik/deutschland/treffen-der-kreisvorsitzenden-alarmstufe-dunkelrot-kanzler-trifft-auf-veraergerte-basis/100266508.html",
+     "image": "https://images.handelsblatt.com/MxNNc412pr93/cover/900/506/0/0/69/68/0.5/0.5/klausur-cdu-parteipraesidium.jpg",
+     "aggregator": false,
+     "published": "2026-11-02T04:00:19+00:00"
+    }
+   ]
+  },
+  {
+   "id": 22,
+   "score": 7.37,
+   "outlets": [
+    "Handelsblatt",
+    "n-tv"
+   ],
+   "regions": [
+    "DE"
+   ],
+   "trend": [],
+   "newest": "2026-11-02T04:18:13+00:00",
+   "articles": [
+    {
+     "source": "Handelsblatt",
+     "region": "DE",
+     "weight": 0.9,
+     "title": "Wohnen: Linke: Mehr als 11.000 Mieter alarmierten über App die Ämter",
+     "summary": "Seit zwei Jahren kann man bei der Linken seine Miete überprüfen lassen. Jetzt zieht die Fraktion Zwischenbilanz und sagt: Lange nicht alle trauen sich, gegen Mietwucher etwas zu unternehmen.",
+     "link": "https://www.handelsblatt.com/politik/deutschland/wohnen-linke-mehr-als-11000-mieter-alarmierten-ueber-app-die-aemter/100266502.html",
+     "image": "https://images.handelsblatt.com/nwTzdEqrDp53/cover/900/506/0/0/84/83/0.5/0.5/symbolbildproduktion-wohnen-in-frankfurt.jpg",
+     "aggregator": false,
+     "published": "2026-11-02T03:30:04+00:00"
+    },
+    {
+     "source": "n-tv",
+     "region": "DE",
+     "weight": 0.8,
+     "title": "Zwei Jahre \"Mietwucher-App\": Linkspartei: 11.000 Mieter alarmierten die Ämter",
+     "summary": "Seit zwei Jahren können Bürger bei der Linken ihre Miete überprüfen lassen. Die meisten Zugriffe auf die App registriert die Partei in Berlin. Allerdings nutzt nur ein Bruchteil der Anwender die Möglichkeit, eine überhöhte Miete dann auch bei den Ämtern zu melden.",
+     "link": "https://www.n-tv.de/politik/Linkspartei-11-000-Mieter-alarmierten-die-Aemter-id31483273.html",
+     "image": "https://www.n-tv.de/img/31483282/1793596373/Img_4_3/250/621205561.jpg",
+     "aggregator": false,
+     "published": "2026-11-02T04:18:13+00:00"
+    }
+   ]
+  },
+  {
+   "id": 23,
+   "score": 7.37,
+   "outlets": [
+    "Deutsche Welle",
+    "ZEIT ONLINE"
+   ],
+   "regions": [
+    "DE",
+    "INT"
+   ],
+   "trend": [],
+   "newest": "2026-11-02T03:23:52+00:00",
+   "articles": [
+    {
+     "source": "Deutsche Welle",
+     "region": "INT",
+     "weight": 0.95,
+     "title": "Oleschky-Evakuierung: Wer verhandelt für Russland und die Ukraine?",
+     "summary": "Moskau und Kyjiw haben mit der humanitären Mission für die Menschen im russisch besetzten Oleschky begonnen. Sie wird von den Ombudspersonen beider Länder koordiniert. Wer sind sie und wie arbeiten sie zusammen?",
+     "link": "https://www.dw.com/de/oleschky-evakuierung-wer-verhandelt-für-russland-und-die-ukraine/a-79808325?maca=de-rss-de-all-1119-xml-mrss",
+     "image": "https://static.dw.com/image/78434427_302.jpg",
+     "aggregator": false,
+     "published": "2026-10-30T15:48:00+00:00"
+    },
+    {
+     "source": "ZEIT ONLINE",
+     "region": "DE",
+     "weight": 0.9,
+     "title": "Krieg gegen die Ukraine: Cyberangriffe stören ukrainische und russische Warn-Apps",
+     "summary": "Nach Behördenangaben sind Warn-Apps in der Ukraine und in Russland gehackt worden. Die App Air Alert warnte in Kyjiw fälschlicherweise vor radioaktiver Strahlung.",
+     "link": "https://www.zeit.de/politik/ausland/2026-11/hackerangriffe-warn-apps-ukraine-russland-air-alert-cyberangriff",
+     "image": "https://img.zeit.de/politik/ausland/2026-11/hackerangriffe-warn-apps-ukraine-russland-air-alert-cyberangriff-foto-1/original__640x360",
+     "aggregator": false,
+     "published": "2026-11-02T03:23:52+00:00"
+    }
+   ]
+  },
+  {
+   "id": 24,
+   "score": 7.28,
+   "outlets": [
+    "ZDFheute",
+    "WELT",
+    "n-tv",
+    "Tagesspiegel"
+   ],
+   "regions": [
+    "DE"
+   ],
+   "trend": [],
+   "newest": "2026-11-01T20:50:07+00:00",
+   "articles": [
+    {
+     "source": "ZDFheute",
+     "region": "DE",
+     "weight": 1.0,
+     "title": "Migranten als Chaoten? Pistorius setzt sich von Dobrindt ab",
+     "summary": "Alexander Dobrindt macht Chaoten aus dem migrantischen Milieu für die Krawalle bei den Gen Z-Demos verantwortlich. Boris Pistorius widerspricht: Das führe in die falsche Richtung.",
+     "link": "https://www.zdfheute.de/politik/boris-pistorius-interview-wehrpflicht-gen-z-krawalle-100.html",
+     "image": "https://www.zdfheute.de/assets/pistorius-verteidigungsministertreffen-100~384x216?cb=1781798343588",
+     "aggregator": false,
+     "published": "2026-11-01T18:45:00+00:00"
+    },
+    {
+     "source": "WELT",
+     "region": "DE",
+     "weight": 0.8,
+     "title": "„Führt in die falsche Richtung“, sagt Pistorius über Dobrindts Aussage zu „migrantischen Chaoten“",
+     "summary": "Boris Pistorius zweifelt an der Aussage von Innenminister Dobrindt, dass linke Gruppen und „migrantische Chaoten“ für die Krawalle in der Halloween-Nacht verantwortlich sind. Kritisch sieht Deutschlands Verteidigungsminister auch die Definition von „migrantischen Gruppen“.",
+     "link": "https://www.welt.de/politik/deutschland/article6ae799c55e7018b4bea951d8/randale-und-pluenderungen-fuehrt-in-die-falsche-richtung-sagt-pistorius-ueber-dobrindts-aussage-zu-migrantischen-chaoten.html",
+     "image": "https://images.welt.de/6ae799c55e7018b4bea951d8/7ee3635c28a124f83846455e52bc037a-master/ci23x11-w1200/dpa-com-261101-935-1714414-jpg",
+     "aggregator": false,
+     "published": "2026-11-01T20:13:48+00:00"
+    },
+    {
+     "source": "n-tv",
+     "region": "DE",
+     "weight": 0.8,
+     "title": "\"Führt in die falsche Richtung\": \"Migrantische Chaoten\"? Pistorius widerspricht Dobrindt",
+     "summary": "Für die Krawalle nach den Gen-Z-Demos macht Innenminister Dobrindt auch \"migrantische Chaoten\" verantwortlich. So richtig kann Verteidigungsminister Pistorius dieser Einschätzung nicht folgen, er hält sie nicht für zielführend.",
+     "link": "https://www.n-tv.de/politik/Migrantische-Chaoten-Pistorius-widerspricht-Dobrindt-id31482920.html",
+     "image": "https://www.n-tv.de/img/31482919/1793568619/Img_4_3/250/629813884.jpg",
+     "aggregator": false,
+     "published": "2026-11-01T20:50:07+00:00"
+    },
+    {
+     "source": "Tagesspiegel",
+     "region": "DE",
+     "weight": 0.6,
+     "title": "Mehr als 100 verletzte Polizisten – Dobrindt macht Linke und „Chaoten aus migrantischem Milieu“ verantwortlich",
+     "summary": "Mehr als 100 verletzte Polizisten – Dobrindt macht Linke und „Chaoten aus migrantischem Milieu“ verantwortlich Tagesspiegel Polizei zieht Bilanz: 100 verletzte Polizisten und 54 Festnahmen bei Krawallen in Frankfurt hessenschau.de „Das ging gegen Deutschland. Gegen uns alle!“ BILD „Gewaltbereite linke Gruppen und Chaoten aus dem migrantischen Milieu“, sagt Dobrindt über Krawalle WELT Ausschreitungen nach Protesten: Unterwanderung oder spontane Eskalation? tagesschau.de",
+     "link": "https://news.google.com/rss/articles/CBMinAJBVV95cUxNYzJPc2tyMW9UUlNjZ1V4b0JPcVlUcHA0VGdHYTc3ekwyQWlnVnFnWEtTVE03ejhLd25XVmt3eEZaRzBzV0NTeHBvdkhORmhhQWVGYXJ0Q3VaZ2E5ejd6WEt1X0k3RTRPYzBlczM0SFpHM1BSMy1sVk1SRnBybThOd3dKdDJoMEYyOVJvTFYzR0Z1RHJEMzVvaFNMaUdiVVVVdjMtNGxLdVZIT3R1a3JPa2ZFeTd5Yl9pZmV4SHgtOElhOXpPTV81Qm42Sk1ndDh3ODMzeU00QnBnS01zYW1UdndWOHFJVk5GbzNHeXZJM3dKbHFqZDBJX3NGRS10ZmdCV0dZXzdCV0t3NnlILWVpcm9xMXJScUpRLURFVw?oc=5",
+     "image": null,
+     "aggregator": true,
+     "published": "2026-11-01T17:44:42+00:00"
+    }
+   ]
+  },
+  {
+   "id": 25,
+   "score": 7.09,
+   "outlets": [
+    "heise online",
+    "Golem"
+   ],
+   "regions": [
+    "DE"
+   ],
+   "trend": [],
+   "newest": "2026-11-02T04:04:00+00:00",
+   "articles": [
+    {
+     "source": "heise online",
+     "region": "DE",
+     "weight": 0.85,
+     "title": "Meta arbeitet offenbar mit chinesischer Hilfe an humanoidem Haushaltsroboter",
+     "summary": "'Max' heißt der Roboter in Menschengestalt, den Meta mit Unterstützung des chinesischen Start-ups Fourier entwickelt haben soll. Ein Verkauf ist nicht geplant.",
+     "link": "https://www.heise.de/news/Meta-arbeitet-offenbar-mit-chinesischer-Hilfe-an-humanoidem-Haushaltsroboter-11507414.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
+     "image": null,
+     "aggregator": false,
+     "published": "2026-11-02T04:04:00+00:00"
+    },
+    {
+     "source": "Golem",
+     "region": "DE",
+     "weight": 0.75,
+     "title": "Mit Fourier aus China: Meta entwickelt humanoiden Prototyp eines Roboters",
+     "summary": "Meta System arbeitet mit einem Start-up aus China zusammen. Das Unternehmen sucht nach Hardwareplattformen für seine KI-Agenten. ( Roboter , Wirtschaft )",
+     "link": "https://www.golem.de/news/mit-fourier-aus-china-meta-entwickelt-humanoiden-prototyp-eines-roboter-2611-214730.html",
+     "image": "https://cpx.golem.de/cpx.php?class=17&amp;aid=214730&amp;page=1&amp;ts=1793539501",
+     "aggregator": false,
+     "published": "2026-11-01T13:25:01+00:00"
+    }
+   ]
+  },
+  {
+   "id": 26,
+   "score": 6.82,
+   "outlets": [
+    "tagesschau",
+    "ORF"
+   ],
+   "regions": [
+    "AT",
+    "DE",
+    "INT"
+   ],
+   "trend": [],
+   "newest": "2026-11-02T01:09:27+00:00",
+   "articles": [
+    {
+     "source": "tagesschau",
+     "region": "DE",
+     "weight": 1.0,
+     "title": "Ukraine: Feuerpause in Oleschky ausgelaufen",
+     "summary": "Die Feuerpause in Oleschky ist vorbei. Vor ihrem Ende nutzte das ukrainische Militär noch die Gelegenheit, weitere Menschen aus der Region in Sicherheit zu bringen. Unterdessen melden Ukraine und Russland Cyberattacken auf ihre Warn-Apps.",
+     "link": "https://www.tagesschau.de/ausland/europa/ukraine-waffenruhe-cherson-100.html",
+     "image": "https://images.tagesschau.de/image/269540d6-d27d-44e3-ae7f-22656aa2bca3/AAABoZnD__4/AAABnSSvrFg/16x9-big/region-cherson-100.jpg?width=1920",
+     "aggregator": false,
+     "published": "2026-11-02T01:09:27+00:00"
+    },
+    {
+     "source": "tagesschau Ausland",
+     "region": "INT",
+     "weight": 1.0,
+     "title": "Ukraine: Feuerpause in Oleschky ausgelaufen",
+     "summary": "Die Feuerpause in Oleschky ist vorbei. Vor ihrem Ende nutzte das ukrainische Militär noch die Gelegenheit, weitere Menschen aus der Region in Sicherheit zu bringen. Unterdessen melden Ukraine und Russland Cyberattacken auf ihre Warn-Apps.",
+     "link": "https://www.tagesschau.de/ausland/europa/ukraine-waffenruhe-cherson-100.html",
+     "image": "https://images.tagesschau.de/image/269540d6-d27d-44e3-ae7f-22656aa2bca3/AAABoZnD__4/AAABnSSvrFg/16x9-big/region-cherson-100.jpg?width=1920",
+     "aggregator": false,
+     "published": "2026-11-02T01:09:27+00:00"
+    },
+    {
+     "source": "ORF",
+     "region": "AT",
+     "weight": 0.95,
+     "title": "Feuerpause in Oleschky endet",
+     "summary": "",
+     "link": "https://orf.at/stories/3446806/",
+     "image": null,
+     "aggregator": false,
+     "published": "2026-11-01T21:31:56+00:00"
+    },
+    {
+     "source": "ORF",
+     "region": "AT",
+     "weight": 0.95,
+     "title": "Ukraine: Russland gegen verlängerte Feuerpause in Oleschky",
+     "summary": "",
+     "link": "https://orf.at/stories/3446798/",
+     "image": null,
+     "aggregator": false,
+     "published": "2026-11-01T18:53:17+00:00"
+    }
+   ]
+  },
+  {
+   "id": 27,
+   "score": 6.7,
+   "outlets": [
+    "ORF",
+    "SRF News"
+   ],
+   "regions": [
+    "AT",
+    "CH"
+   ],
+   "trend": [],
+   "newest": "2026-11-02T01:05:06+00:00",
+   "articles": [
+    {
+     "source": "ORF",
+     "region": "AT",
+     "weight": 0.95,
+     "title": "Ukraine: Warn-App für Luftangriffe wurde gehackt",
+     "summary": "",
+     "link": "https://orf.at/stories/3446807/",
+     "image": null,
+     "aggregator": false,
+     "published": "2026-11-01T21:46:00+00:00"
+    },
+    {
+     "source": "SRF News",
+     "region": "CH",
+     "weight": 0.95,
+     "title": "Krieg in der Ukraine – Ukrainische App zur Warnung vor Luftangriffen gehackt",
+     "summary": "Die ukrainische Warn-App für Luftangriffe zeigte kurzzeitig für Kiew und andere Gebiete einen Atomalarm an.",
+     "link": "https://www.srf.ch/news/international/ukraine/krieg-in-der-ukraine-ukrainische-app-zur-warnung-vor-luftangriffen-gehackt",
+     "image": "https://www.srf.ch/static/cms/images//320ws/9681b60.webp",
+     "aggregator": false,
+     "published": "2026-11-02T01:05:06+00:00"
+    }
+   ]
+  }
+ ]
+}
