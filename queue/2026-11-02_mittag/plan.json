@@ -1,0 +1,57 @@
+{
+  "stories": [
+    {
+      "candidate_id": 9,
+      "pillar": "WIRTSCHAFT",
+      "region": "DE",
+      "kicker": "DEUTSCHLAND",
+      "headline": "Rente mit 63: Mehr Abschläge gefordert",
+      "highlight": ["Rente"],
+      "voice": "Rente mit dreiundsechzig: Handwerkspräsident Jörg Dittrich fordert höhere Abschläge bei vorzeitigem Renteneintritt – auch wenn das bei einigen Handwerkern auf Ärger stößt.",
+      "subline": "Dachdeckermeister Dittrich nimmt Ärger im eigenen Lager in Kauf",
+      "entities": ["Jörg Dittrich", "Zentralverband des Deutschen Handwerks"]
+    },
+    {
+      "candidate_id": 10,
+      "pillar": "TECHNOLOGIE",
+      "region": "DE",
+      "kicker": "BERLIN",
+      "headline": "Digitalgipfel ringt um KI-Anschluss",
+      "highlight": ["Digitalgipfel"],
+      "voice": "Digitalminister Wildberger eröffnet heute in Berlin den neunzehnten Digitalgipfel. Zwei Tage lang geht es darum, wie Deutschland und Europa bei Künstlicher Intelligenz mitreden können.",
+      "subline": "Zweitägige Konferenz zu KI und digitaler Souveränität",
+      "entities": ["Karsten Wildberger", "Digitalgipfel"]
+    },
+    {
+      "candidate_id": 8,
+      "pillar": "POLITIK",
+      "region": "EU",
+      "kicker": "SOFIA",
+      "headline": "Bulgarien: Jotowa gewinnt Stichwahl",
+      "highlight": ["Jotowa"],
+      "voice": "Bulgarien: Amtsinhaberin Ilijana Jotowa hat die Stichwahl um das Präsidentenamt klar gewonnen. Die russlandfreundliche Politikerin setzte sich gegen den Liberalen Andrej Gjurow durch.",
+      "subline": "Wahl gilt als Signal für Bulgariens Kurs gegenüber Russland",
+      "entities": ["Ilijana Jotowa", "Bulgarien"]
+    },
+    {
+      "candidate_id": 4,
+      "pillar": "WIRTSCHAFT",
+      "region": "INT",
+      "kicker": "KRYPTO",
+      "headline": "Binance: Kunden ziehen Milliarden ab",
+      "highlight": ["Binance"],
+      "voice": "Binance: Nach dem Hackerangriff haben Kunden drei Komma sechs Milliarden Dollar von der Kryptobörse abgezogen. Neunzig Prozent der gestohlenen Werte sind laut Binance ersetzt.",
+      "subline": "3,6 Milliarden Dollar abgezogen – Bitcoin erholt sich leicht",
+      "entities": ["Binance", "Bitcoin"]
+    }
+  ],
+  "hook_text": "Rente mit 63: Mehr Abschläge",
+  "hook_voice": "Rente mit dreiundsechzig: höhere Abschläge gefordert – die Schlagzeilen.",
+  "youtube_title": "Rente mit 63: Handwerk fordert höhere Abschläge für Frührentner",
+  "description_lead": "Handwerkspräsident Jörg Dittrich fordert höhere Abschläge bei der Rente mit 63. Außerdem: Digitalminister Karsten Wildberger eröffnet den Digitalgipfel in Berlin, Ilijana Jotowa gewinnt die Stichwahl in Bulgarien und Binance-Kunden ziehen 3,6 Milliarden Dollar ab.",
+  "tags": ["Jörg Dittrich", "Rente mit 63", "Zentralverband des Deutschen Handwerks", "Karsten Wildberger", "Digitalgipfel", "Berlin", "Ilijana Jotowa", "Andrej Gjurow", "Bulgarien", "Binance", "Bitcoin", "Rente", "Frührente", "Künstliche Intelligenz", "Kryptobörse"],
+  "hashtags": ["#rente", "#handwerk", "#binance"],
+  "facebook_caption_line1": "Rente mit 63: Handwerkspräsident Dittrich fordert höhere Abschläge",
+  "facebook_question": "Wie sollte der vorzeitige Renteneintritt aus Ihrer Sicht künftig geregelt werden?",
+  "comment_question": "Höhere Abschläge bei der Rente mit 63 – richtig oder falsch?"
+}
