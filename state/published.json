@@ -443,11 +443,49 @@
    ],
    "comment": {
     "text": "Höhere Abschläge bei der Rente mit 63 – richtig oder falsch?",
-    "done": false
+    "done": true,
+    "yt": "UgysmwE3TjcWc90mikJ4AaABAg",
+    "fb": "1138270902472954_1594238339124756"
    },
    "youtube_id": "r5D8vDlJ7sY",
    "facebook_id": "1138270902472954",
    "created": "2026-11-02T09:29:21.547647+00:00"
+  },
+  {
+   "date": "2026-11-02",
+   "slot": "abend",
+   "publish_at": "2026-11-02T15:30:00+00:00",
+   "title": "Hackerangriff auf Bundespolitiker: Spyware auf Minister-iPhones",
+   "duration": 49.7,
+   "stories": [
+    {
+     "headline": "Hackerangriff auf Bundespolitiker",
+     "region": "DE",
+     "pillar": "POLITIK"
+    },
+    {
+     "headline": "Spritpreisdeckel: Reiche plant Hürden",
+     "region": "DE",
+     "pillar": "WIRTSCHAFT"
+    },
+    {
+     "headline": "Belgien: De Wever bietet Rücktritt an",
+     "region": "EU",
+     "pillar": "POLITIK"
+    },
+    {
+     "headline": "Merkel soll Staatsoberhaupt mitwählen",
+     "region": "DE",
+     "pillar": "POLITIK"
+    }
+   ],
+   "comment": {
+    "text": "Sollten Minister und Abgeordnete nur noch speziell gesicherte Diensthandys nutzen dürfen – ja oder nein?",
+    "done": false
+   },
+   "youtube_id": "E5vdy87PVas",
+   "facebook_id": "1130126239789829",
+   "created": "2026-11-02T14:44:33.614995+00:00"
   }
  ]
 }
