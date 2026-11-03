@@ -56,7 +56,10 @@ editorial:
   max_total_words: 100          # ≈ 40–45 s incl. intro, transitions and end card
   target_seconds: 42
   hard_max_seconds: 50          # never longer than 50 s (auto-trims if needed)
-  # The editorial desk is Claude itself (scheduled task) – no separate AI API key needed.
+  # The editorial desk is Claude itself (scheduled task). Only if that run could not happen
+  # (e.g. usage limit) the GitHub fallback writes the edition via the Anthropic API key secret:
+  api_model: "claude-sonnet-5-5"
+  fallback_wait_minutes: 10
 
 # ---------- Voice (ElevenLabs) ----------
 voice:

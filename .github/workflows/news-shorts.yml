@@ -51,30 +51,10 @@ jobs:
           pip install -q -r requirements.txt
       - name: Build & publish
         id: build
-        continue-on-error: true
         run: |
           ARGS="run --queue ${{ github.event.inputs.queue }}"
           if [ "${{ github.event.inputs.upload }}" = "false" ]; then ARGS="$ARGS --no-upload"; fi
           if [ "${{ github.event.inputs.force }}" = "true" ]; then ARGS="$ARGS --force"; fi
-          echo "ARGS=$ARGS" >> "$GITHUB_ENV"
-          python -m eilblick $ARGS
-      # Automatic immediate retry: fresh photos, bad photos skipped. Already-published slots are skipped,
-      # so a retry can never post twice.
-      - name: Retry 1 (automatic)
-        id: retry1
-        if: steps.build.outcome == 'failure'
-        continue-on-error: true
-        run: |
-          sleep 20
-          python -m eilblick $ARGS
-      # Last resort: render without news photos (graphic cards) so the slot is never empty.
-      - name: Retry 2 (safe mode)
-        id: retry2
-        if: steps.build.outcome == 'failure' && steps.retry1.outcome == 'failure'
-        env:
-          EILBLICK_SAFE: "1"
-        run: |
-          sleep 20
           python -m eilblick $ARGS
       - name: Delete temporary news photos (always)
         if: always()

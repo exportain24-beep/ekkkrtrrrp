@@ -1,0 +1,82 @@
+name: Eilblick 0 – API fallback (only if the Claude news desk did not run)
+
+# ~45 min before each slot (two UTC triggers per slot for winter/summer time).
+# Does nothing if the edition was already written or published. Only when the Claude
+# scheduled task could not run (e.g. usage limit) it writes the edition with the
+# Anthropic API key secret and builds it – one try.
+on:
+  schedule:
+    - cron: "15 4 * * *"    # 07:00 slot (CEST)
+    - cron: "15 5 * * *"    # 07:00 slot (CET)
+    - cron: "15 9 * * *"    # 12:00 slot (CEST)
+    - cron: "15 10 * * *"   # 12:00 slot (CET)
+    - cron: "45 13 * * *"   # 16:30 slot (CEST)
+    - cron: "45 14 * * *"   # 16:30 slot (CET)
+    - cron: "0 18 * * *"    # 20:45 slot (CEST)
+    - cron: "0 19 * * *"    # 20:45 slot (CET)
+  workflow_dispatch:
+    inputs:
+      slot:
+        description: "force a slot (morgen / mittag / abend / nacht) – empty = automatic"
+        required: false
+        default: ""
+
+permissions:
+  contents: write
+
+concurrency:
+  group: eilblick-build
+  cancel-in-progress: false
+
+jobs:
+  fallback:
+    runs-on: ubuntu-latest
+    timeout-minutes: 45
+    env:
+      ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
+      CLAUDE_API_KEY: ${{ secrets.CLAUDE_API_KEY }}
+      ELEVENLABS_API_KEY: ${{ secrets.ELEVENLABS_API_KEY }}
+      YT_CLIENT_ID: ${{ secrets.YT_CLIENT_ID }}
+      YT_CLIENT_SECRET: ${{ secrets.YT_CLIENT_SECRET }}
+      YT_REFRESH_TOKEN: ${{ secrets.YT_REFRESH_TOKEN }}
+      FB_PAGE_ID: ${{ secrets.FB_PAGE_ID }}
+      FB_PAGE_TOKEN: ${{ secrets.FB_PAGE_TOKEN }}
+      FB_APP_ID: ${{ secrets.FB_APP_ID }}
+      FB_APP_SECRET: ${{ secrets.FB_APP_SECRET }}
+      PYTHONUNBUFFERED: "1"
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+          cache: pip
+      - run: pip install -q -r requirements.txt
+      - name: Decide + write edition via API if needed
+        id: plan
+        run: |
+          git config user.name "eilblick-bot"
+          git config user.email "eilblick-bot@users.noreply.github.com"
+          ARGS=""
+          if [ -n "${{ github.event.inputs.slot }}" ]; then ARGS="--slot ${{ github.event.inputs.slot }}"; fi
+          python -m eilblick fallback $ARGS
+          Q=$(git status --porcelain queue | grep -o 'queue/[^/]*' | head -1 || true)
+          if [ -n "$Q" ] && [ -f "$Q/FALLBACK" ]; then
+            git add -A queue && git commit -q -m "queue: fallback edition $Q (Anthropic API)"
+            for i in 1 2 3; do git pull --rebase -q && git push -q && break; sleep 5; done
+            echo "queue=$Q" >> "$GITHUB_OUTPUT"
+          fi
+      - name: Install ffmpeg
+        if: steps.plan.outputs.queue != ''
+        run: sudo apt-get update -qq && sudo apt-get install -y -qq ffmpeg > /dev/null
+      - name: Build & publish
+        if: steps.plan.outputs.queue != ''
+        run: python -m eilblick run --queue ${{ steps.plan.outputs.queue }}
+      - name: Delete temporary news photos (always)
+        if: always()
+        run: rm -rf tmp_media
+      - name: Save publish log
+        if: always() && steps.plan.outputs.queue != ''
+        run: |
+          git add state/ ${{ steps.plan.outputs.queue }}/result.md 2>/dev/null || git add state/
+          git commit -q -m "state: ${{ steps.plan.outputs.queue }} (fallback)" || exit 0
+          for i in 1 2 3; do git pull --rebase -q && git push -q && break; sleep 5; done

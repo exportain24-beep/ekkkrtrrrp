@@ -67,3 +67,63 @@ def validate(plan: dict, n_candidates: int) -> list[str]:
 
 def load_plan(path: Path) -> dict:
     return json.loads(Path(path).read_text(encoding="utf-8"))
+
+
+# ------------------------------------------------------------------ API fallback editor
+def api_key() -> str | None:
+    import os
+    return os.environ.get("ANTHROPIC_API_KEY") or os.environ.get("CLAUDE_API_KEY")
+
+
+def _api_call(system: str, messages: list[dict], model: str, max_tokens: int = 6000) -> str:
+    import requests
+    r = requests.post("https://api.anthropic.com/v1/messages",
+                      headers={"x-api-key": api_key(), "anthropic-version": "2023-06-01",
+                               "content-type": "application/json"},
+                      json={"model": model, "max_tokens": max_tokens, "system": system, "messages": messages},
+                      timeout=300)
+    if r.status_code >= 400:
+        raise RuntimeError(f"Anthropic API {r.status_code}: {r.text[:300]}")
+    return "".join(b.get("text", "") for b in r.json()["content"] if b.get("type") == "text")
+
+
+def _extract_json(text: str) -> dict:
+    import re
+    text = re.sub(r"^```(?:json)?|```$", "", text.strip(), flags=re.M).strip()
+    return json.loads(text[text.find("{"): text.rfind("}") + 1])
+
+
+def write_plan_via_api(queue_dir: Path) -> dict:
+    """Fallback news desk (used only when the Claude scheduled task could not run, e.g. usage
+    limit): the same editorial brief (docs/EDITOR_GUIDE.md) sent to the Anthropic API."""
+    from .config import ROOT
+    guide = (ROOT / "docs" / "EDITOR_GUIDE.md").read_text(encoding="utf-8")
+    # comment handling is not part of the fallback
+    if "## Step 0" in guide:
+        a = guide.index("## Step 0")
+        b = guide.index("## ", a + 5)
+        guide = guide[:a] + guide[b:]
+    perf = ROOT / "state" / "performance.md"
+    cdata = json.loads((queue_dir / "candidates.json").read_text(encoding="utf-8"))
+    model = settings()["editorial"].get("api_model", "claude-sonnet-5-5")
+    system = (guide + "\n\nYou write ONLY the plan.json content. Output a single valid JSON object, nothing else. "
+              "Include hook_voice.")
+    user = ("candidates.json:\n" + json.dumps(cdata, ensure_ascii=False)[:120_000] +
+            ("\n\nstate/performance.md:\n" + perf.read_text(encoding="utf-8")[:6000] if perf.exists() else ""))
+    messages = [{"role": "user", "content": user}]
+    last = ""
+    for _ in range(3):
+        raw = _api_call(system, messages, model)
+        try:
+            plan = _extract_json(raw)
+            errs = validate(plan, len(cdata["candidates"]))
+        except Exception as e:
+            errs = [f"invalid JSON: {e}"]
+        if not errs:
+            (queue_dir / "plan.json").write_text(json.dumps(plan, ensure_ascii=False, indent=1), encoding="utf-8")
+            return plan
+        last = "; ".join(errs)
+        print("  api plan retry:", last)
+        messages += [{"role": "assistant", "content": raw},
+                     {"role": "user", "content": "Fix these problems and output the complete JSON again: " + last}]
+    raise RuntimeError("API editor failed: " + last)

@@ -222,6 +222,57 @@ def cmd_candidates(args) -> int:
     return 0
 
 
+def cmd_fallback(args) -> int:
+    """GitHub-only fallback (no Claude session needed). Runs ~45 min before each slot:
+    if the Claude news desk did not deliver the edition (no plan.json, nothing published),
+    collect news, write the edition via the Anthropic API key and build it. One try only."""
+    import subprocess
+    import time as _t
+    from datetime import timedelta
+    from . import editor
+    cfg = settings()
+    now = now_berlin()
+    found = None
+    for slot in cfg["slots"]:
+        t = slot_by_id(slot["id"], now)[1]
+        if timedelta(minutes=10) <= t - now <= timedelta(minutes=75):
+            found = (slot, t)
+    if args.slot:
+        found = slot_by_id(args.slot, now)
+    if not found:
+        log(f"fallback: no slot in the next 10–75 min ({now:%H:%M} Berlin) – nothing to do")
+        return 0
+    slot, slot_time = found
+    date = slot_time.strftime("%Y-%m-%d")
+    d = queue_dir(slot, slot_time)
+    if state.slot_done(date, slot["id"]):
+        log(f"fallback: {slot['id']} already published – nothing to do")
+        return 0
+    if (d / "plan.json").exists():
+        log(f"fallback: {d.name}/plan.json exists – the news desk handled it (one try only) – nothing to do")
+        return 0
+    cand = d / "candidates.json"
+    if cand.exists() and _t.time() - cand.stat().st_mtime < 30 * 60:
+        wait = cfg["editorial"].get("fallback_wait_minutes", 10)
+        log(f"fallback: news desk seems busy, waiting up to {wait} min for its plan…")
+        for _ in range(wait * 2):
+            _t.sleep(30)
+            subprocess.run(["git", "pull", "-q", "--rebase"], cwd=ROOT)
+            if (d / "plan.json").exists() or state.slot_done(date, slot["id"]):
+                log("fallback: news desk delivered – nothing to do")
+                return 0
+    if not editor.api_key():
+        log("fallback: no ANTHROPIC_API_KEY secret – cannot write the edition")
+        return 1
+    log(f"fallback: the Claude news desk did not deliver {slot['id']} – using the Anthropic API")
+    args.slot = slot["id"]
+    cmd_candidates(args)
+    editor.write_plan_via_api(d)
+    (d / "FALLBACK").write_text("written by the Anthropic API fallback\n", encoding="utf-8")
+    log("fallback: plan written ✓")
+    return 0
+
+
 def cmd_validate(args) -> int:
     from . import editor
     d = ROOT / args.queue if not Path(args.queue).is_absolute() else Path(args.queue)
@@ -389,7 +440,7 @@ def cmd_check_tokens() -> int:
     import requests
     from .config import env
     lines, ok = [], True
-    names = ["ELEVENLABS_API_KEY", "YT_CLIENT_ID", "YT_CLIENT_SECRET", "YT_REFRESH_TOKEN",
+    names = ["ANTHROPIC_API_KEY", "CLAUDE_API_KEY", "ELEVENLABS_API_KEY", "YT_CLIENT_ID", "YT_CLIENT_SECRET", "YT_REFRESH_TOKEN",
              "FB_PAGE_ID", "FB_PAGE_TOKEN", "FB_APP_ID", "FB_APP_SECRET"]
     lines.append("Secrets present: " + ", ".join(f"{n}={'yes' if os.environ.get(n) else 'NO'}" for n in names))
     try:
@@ -438,6 +489,17 @@ def cmd_check_tokens() -> int:
     except Exception as e:
         ok = False
         lines.append(f"ElevenLabs FAIL: {str(e)[:200]}")
+    try:
+        from .editor import _api_call, api_key
+        if api_key():
+            txt = _api_call("Antworte nur mit: OK", [{"role": "user", "content": "Test"}],
+                            settings()["editorial"].get("api_model", "claude-sonnet-5-5"), 10)
+            lines.append(f"Anthropic API OK: model {settings()['editorial'].get('api_model')} answered '{txt.strip()[:20]}'")
+        else:
+            lines.append("Anthropic API: no key secret found (ANTHROPIC_API_KEY / CLAUDE_API_KEY)")
+    except Exception as e:
+        ok = False
+        lines.append(f"Anthropic API FAIL: {str(e)[:300]}")
     log("\n".join(lines))
     _report("check_tokens.md", lines)
     return 0 if ok else 1
@@ -589,6 +651,8 @@ def main(argv=None) -> int:
     sub = ap.add_subparsers(dest="cmd", required=True)
     c = sub.add_parser("candidates")
     c.add_argument("--slot")
+    fb = sub.add_parser("fallback")
+    fb.add_argument("--slot")
     v = sub.add_parser("validate-plan")
     v.add_argument("queue")
     r = sub.add_parser("run")
@@ -601,7 +665,7 @@ def main(argv=None) -> int:
     for n in ("check-feeds", "check-tokens", "post-comments", "channel-seo", "comments-fetch", "comments-post"):
         sub.add_parser(n)
     a = ap.parse_args(argv)
-    fn = {"candidates": lambda: cmd_candidates(a), "validate-plan": lambda: cmd_validate(a),
+    fn = {"candidates": lambda: cmd_candidates(a), "fallback": lambda: cmd_fallback(a), "validate-plan": lambda: cmd_validate(a),
           "run": lambda: cmd_run(a), "demo": lambda: cmd_demo(a), "check-feeds": cmd_check_feeds,
           "check-tokens": cmd_check_tokens, "channel-seo": cmd_channel_seo,
           "comments-fetch": cmd_comments_fetch, "comments-post": cmd_comments_post,
