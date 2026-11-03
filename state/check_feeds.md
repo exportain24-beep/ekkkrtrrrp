@@ -1,12 +1,12 @@
-# check_feeds.md – 2026-10-30 17:09 UTC
+# check_feeds.md – 2026-11-03 22:44 UTC
 
-- tagesschau: ok (71)
+- tagesschau: ok (65)
 - tagesschau Inland: ok (49)
 - tagesschau Ausland: ok (65)
-- tagesschau Wirtschaft: ok (27)
+- tagesschau Wirtschaft: ok (25)
 - ZDFheute: ok (167)
-- Deutsche Welle: ok (86)
-- Deutschlandfunk: ok (40)
+- Deutsche Welle: ok (91)
+- Deutschlandfunk: ok (61)
 - SPIEGEL: ok (30)
 - ZEIT ONLINE: ok (15)
 - Süddeutsche: ok (15)
@@ -14,28 +14,28 @@
 - n-tv: ok (50)
 - Handelsblatt: ok (50)
 - WirtschaftsWoche: ok (20)
-- heise online: ok (150)
+- heise online: ok (153)
 - Golem: ok (40)
-- ORF: ok (20)
-- DER STANDARD: ok (157)
+- ORF: ok (26)
+- DER STANDARD: ok (156)
 - SRF News: ok (85)
-- NZZ: ok (14)
+- NZZ: ok (16)
 - Google News DE: ok (34)
 
-21/21 feeds OK, 1215 articles, 40 Google-Trends terms
+21/21 feeds OK, 1243 articles, 39 Google-Trends terms
 
--  19.0 [CH,DE,INT] (9) G20-Außenministertreffen mit Lawrow und Wadephul in Atlanta
--  17.4 [DE,INT] (6) Alexander Zverev krönt sich in Wien zur Nummer eins der Tennis-Welt
--  17.3 [AT,CH,DE,INT] (8) Netanjahu nach Wahl in Israel ohne Mehrheit und trotzdem am Hebel
--  16.9 [AT,DE,INT] (7) Deutsche Wirtschaft wächst überraschend im Sommer
--  15.2 [AT,DE,INT] (6) Suche nach Opfern des Zugunglücks in Spanien geht weiter
--  15.0 [DE,INT] (6) Wahl des Bundespräsidenten: Wer folgt auf Steinmeier?
--  14.9 [DE] (7) Deutsche Nachrichtendienste setzen auf Cloud-System von Google
--  14.9 [AT,CH,DE] (6) Nach 30 Jahren: Kreml zwingt die Nowaja Gaseta zum Schweigen
--  14.8 [AT,DE,INT] (6) Debatte in der Koalition über Steuer auf Umsätze durch KI
--  14.5 [DE] (6) Klage in Rheinland-Pfalz: Wie viel Unterrichtsausfall ist zu viel?
--  13.1 [CH,DE,INT] (6) Youth Olympic Games 2026: Das müssen Sie wissen
--  12.9 [AT,DE,INT] (6) Russland darf an Eishockey-WM teilnehmen
--  12.5 [DE] (5) VW legt die Entwicklung des E-Golfs auf Eis
--  12.1 [DE] (5) Mercedes hat noch größere Probleme im chinesischen Markt
--  11.6 [CH,DE] (4) Europäische Zentralbank hält Leitzins unverändert
+-  24.5 [AT,CH,DE,INT] (12) Reaktion auf Zugunglücke: Spaniens Verkehrsminister tritt zurück
+-  16.9 [DE] (7) Champions League: VfB Stuttgart verliert in Istanbul bei Galatasaray
+-  15.8 [DE] (6) Koalitionsverhandlungen in Berlin: Das Rumoren in der SPD
+-  15.0 [CH,DE] (6) Champions League: Bayern München gewinnt bei Atletico Madrid
+-  13.5 [CH,DE,INT] (5) USA greifen offenbar iranische Ziele in Straße von Hormus an
+-  13.0 [DE] (5) EU genehmigt MediaMarktSaturn-Übernahme durch JD.com
+-  12.7 [AT,DE] (5) Grönland gibt grünes Licht für Abkommen mit den USA
+-  12.7 [CH,DE] (5) Ende einer Ära: Trainer Schmidt verlässt Heidenheim im Sommer
+-  11.6 [DE] (4) Cyberangriffe auf Kühlanlagen auch in deutschen Supermärkten
+-  11.3 [AT,DE,INT] (4) Die Midterms in Zahlen und Karten
+-  11.2 [DE] (5) tagesschau 20:00 Uhr
+-  11.0 [AT,CH,DE] (4) Krieg im Nahen Osten – Trump kündigt Ende milliardenschwerer Hilfen an Israel an
+-   9.8 [DE,INT] (3) Selenskyj, Merz und der Kampf gegen die Zweifel
+-   9.8 [DE] (3) Bilger will sogenannte Handy-Blitzer bundesweit einführen
+-   9.4 [AT,DE,INT] (3) Streik bei öffentlich-rechtlichen Medien in Tschechien
