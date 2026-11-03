@@ -519,11 +519,49 @@
    ],
    "comment": {
     "text": "Rot-Grün-Rot in Berlin: Gute Idee – ja oder nein?",
-    "done": false
+    "done": true,
+    "yt": "UgzYg4IwFvtKoxM3aPl4AaABAg",
+    "fb": "1186829424030690_1676127757447673"
    },
    "youtube_id": "nDF1-GDfTH4",
    "facebook_id": "1186829424030690",
    "created": "2026-11-02T18:30:44.637610+00:00"
+  },
+  {
+   "date": "2026-11-03",
+   "slot": "morgen",
+   "publish_at": "2026-11-03T06:00:00+00:00",
+   "title": "SPD-Brandbrief: Über 1000 Mitglieder warnen vor Rot-Grün-Rot",
+   "duration": 49.7,
+   "stories": [
+    {
+     "headline": "SPD-Basis warnt vor Rot-Grün-Rot",
+     "region": "DE",
+     "pillar": "POLITIK"
+    },
+    {
+     "headline": "USA wählen heute ihren Kongress",
+     "region": "INT",
+     "pillar": "WELT"
+    },
+    {
+     "headline": "Bilger will Handy-Blitzer bundesweit",
+     "region": "DE",
+     "pillar": "POLITIK"
+    },
+    {
+     "headline": "Jüdische Akademie eröffnet",
+     "region": "DE",
+     "pillar": "POLITIK"
+    }
+   ],
+   "comment": {
+    "text": "SPD-Basis gegen Rot-Grün-Rot: Sollte die Partei auf ihre Mitglieder hören?",
+    "done": false
+   },
+   "youtube_id": "G1Fj-feJbpI",
+   "facebook_id": "2063607084359292",
+   "created": "2026-11-03T04:28:59.049775+00:00"
   }
  ]
 }
