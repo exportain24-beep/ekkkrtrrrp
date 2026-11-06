@@ -1,0 +1,36 @@
+{
+ "date": "2026-11-06",
+ "slot": "nacht",
+ "publish_at": "2026-11-06T19:45:00+00:00",
+ "title": "Eishockey-WM 2027: Bund will Heim-WM retten – aber ohne Russland",
+ "duration": 49.7,
+ "stories": [
+  {
+   "headline": "Eishockey-WM nur ohne Russland",
+   "region": "DE",
+   "pillar": "POLITIK"
+  },
+  {
+   "headline": "Leipzig: BKA fahndet mit KI-Bild",
+   "region": "DE",
+   "pillar": "POLITIK"
+  },
+  {
+   "headline": "Belgiens König lehnt Rücktritt ab",
+   "region": "EU",
+   "pillar": "POLITIK"
+  },
+  {
+   "headline": "Ukraine-Deal: Kreml bremst Trump",
+   "region": "INT",
+   "pillar": "WELT"
+  }
+ ],
+ "comment": {
+  "text": "Eishockey-WM 2027 in Deutschland: mit Russland ausrichten oder lieber zurückgeben – was meinen Sie?",
+  "done": false
+ },
+ "youtube_id": "qQO-r5dELeo",
+ "facebook_id": "2047302882632262",
+ "created": "2026-11-06T18:14:42.272705+00:00"
+}
