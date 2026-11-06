@@ -1,0 +1,33 @@
+# recent_uploads.md – 2026-11-06 10:15 UTC
+
+- YT zB-adrP1DCc 2026-11-06T10:08:54Z (NOT IN STATE) AfD-Leak: Spur der Hacker führt in die USA – 420.000 E-Mails
+- YT nnYhNr0iX4Y 2026-11-06T10:04:56Z (known) DAX unter Druck: Tech-Ausverkauf erfasst Europas Börsen 📉
+- YT G1Fj-feJbpI 2026-11-03T06:00:37Z (known) SPD-Brandbrief: Über 1000 Mitglieder warnen vor Rot-Grün-Rot
+- YT nDF1-GDfTH4 2026-11-02T19:45:31Z (known) Rot-Grün-Rot in Berlin: Kommt die Koalition bis Dezember?
+- YT E5vdy87PVas 2026-11-02T15:30:17Z (known) Hackerangriff auf Bundespolitiker: Spyware auf Minister-iPhones
+- YT r5D8vDlJ7sY 2026-11-02T11:00:17Z (known) Rente mit 63: Handwerk fordert höhere Abschläge für Frührentner
+- YT M9mGPy09Em8 2026-11-02T06:00:02Z (known) Merz unter Druck: CDU-Basis sieht „Alarmstufe dunkelrot“
+- YT SRpyHVO170Q 2026-11-01T19:45:22Z (known) Steinmeier nach Xi-Treffen: China nicht bereit für Ukraine-Gipfel
+- YT cDuO3X-1UFk 2026-11-01T15:30:10Z (known) Gasspeicher verfehlen Ziel: Was das für Ihre Heizkosten heißt
+- YT Z7_4PLI5d98 2026-11-01T11:00:32Z (known) Kramp-Karrenbauer warnt vor AfD und Linken an der Macht ⚠️
+- YT yCVjywVItNg 2026-11-01T06:00:28Z (known) Krawalle nach Gen-Z-Protesten: Organisatoren distanzieren sich
+- YT Zgsl6U0EcRo 2026-10-31T19:45:05Z (known) Kanada in die EU? Von der Leyen übergeht Merz beim Gipfel 🇪🇺
+- YT nspHFzQKn0o 2026-10-31T15:30:35Z (known) Linke will Rot-Grün-Rot: Eralp wirbt um Koalition in Berlin
+- YT UNSTSPtVOS0 2026-10-31T11:00:24Z (known) China will mehr deutsche Produkte: Was Li Qiang jetzt ankündigt
+- YT TnhmMEDG630 2026-10-31T06:00:27Z (known) G20-Eklat in Atlanta: Warum Europa das Foto mit Lawrow verweigert
+- FB 1469529315389326 2026-11-06T10:08:43+0000 '🚨 AfD-Leak: Spur der Hacker führt in die USA\nSollten Hacker-Leaks über'
+- FB 2063607084359292 2026-11-03T04:28:47+0000 '🚨 SPD-Brandbrief: Mehr als tausend Mitglieder warnen vor Rot-Grün-Rot '
+- FB 1186829424030690 2026-11-02T18:30:35+0000 '🚨 Rot-Grün-Rot in Berlin: Linke, Grüne und SPD verhandeln über eine Ko'
+- FB 1130126239789829 2026-11-02T14:44:22+0000 '🚨 Hackerangriff auf Bundespolitiker: Digitalminister Wildberger bestät'
+- FB 1138270902472954 2026-11-02T09:29:11+0000 '🚨 Rente mit 63: Handwerkspräsident Dittrich fordert höhere Abschläge\nW'
+- FB 2213279762947564 2026-11-02T04:28:44+0000 '🚨 „Alarmstufe dunkelrot“: Kanzler Merz trifft auf eine verärgerte CDU-'
+- FB 1683201039887467 2026-11-01T18:20:54+0000 '🚨 Steinmeier nach Treffen mit Xi: China nicht bereit für einen Ukraine'
+- FB 1176137331754717 2026-11-01T13:59:27+0000 '🚨 Gasspeicher verfehlen das Winterziel – Netzagentur erwartet erheblic'
+- FB 1078145451721369 2026-11-01T09:38:48+0000 '🚨 Kramp-Karrenbauer warnt vor Regierungen von AfD und Linken\nWie bewer'
+- FB 1431447925776881 2026-11-01T04:28:55+0000 '🚨 Krawalle nach Gen-Z-Protesten: Organisatoren distanzieren sich von d'
+- FB 1480201050653151 2026-10-31T18:15:08+0000 '🚨 Kanada in die EU? Von der Leyen wirbt erneut – gegen den Wunsch von '
+- FB 1895649845093533 2026-10-31T13:58:51+0000 '🚨 Berlin: Die Linke will den Weg für Rot-Grün-Rot frei machen\nWäre Rot'
+- FB 2608647126248466 2026-10-31T09:31:09+0000 '🚨 China kündigt an: Mehr deutsche Produkte sollen importiert werden\nGl'
+- FB 1163890449301990 2026-10-31T04:29:20+0000 '🚨 Eklat beim G20-Treffen: Europäer verweigern Familienfoto mit Lawrow\n'
+- FB 2232902390909160 2026-10-30T18:18:38+0000 '🚨 Feuerpause hält: Erste Einwohner verlassen das besetzte Oleschky\nKan'
+RECOVERED 2026-11-06_extra: yt=zB-adrP1DCc fb=1469529315389326
