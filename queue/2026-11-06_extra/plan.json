@@ -1,0 +1,91 @@
+{
+ "stories": [
+  {
+   "candidate_id": 20,
+   "pillar": "POLITIK",
+   "region": "DE",
+   "kicker": "CYBERANGRIFF",
+   "headline": "AfD-Leak: Spur führt in die USA",
+   "highlight": [
+    "AfD-Leak"
+   ],
+   "voice": "AfD-Leak: Die Spur der mutmaßlichen Hacker führt laut SPIEGEL in die USA. Mehr als vierhundertzwanzigtausend E-Mails wurden erbeutet und online gestellt.",
+   "subline": "Mehr als 420.000 E-Mails erbeutet",
+   "entities": [
+    "Alternative für Deutschland"
+   ]
+  },
+  {
+   "candidate_id": 8,
+   "pillar": "POLITIK",
+   "region": "DE",
+   "kicker": "BUNDESWEHR",
+   "headline": "Freuding wird Generalinspekteur",
+   "highlight": [
+    "Freuding"
+   ],
+   "voice": "Christian Freuding wird neuer Generalinspekteur und damit ranghöchster Soldat der Bundeswehr. Verteidigungsminister Pistorius nennt ihn den Richtigen für das neue Zeitalter.",
+   "subline": "Ranghöchster Soldat der Bundeswehr",
+   "entities": [
+    "Christian Freuding",
+    "Bundeswehr"
+   ]
+  },
+  {
+   "candidate_id": 15,
+   "pillar": "POLITIK",
+   "region": "DE",
+   "kicker": "BERLIN",
+   "headline": "Bundestag repariert Tabaksteuer-Panne",
+   "highlight": [
+    "Tabaksteuer"
+   ],
+   "voice": "Der Bundestag korrigiert eine Panne bei der Tabaksteuer: Wegen eines Formulierungsfehlers trat die Erhöhung zu früh in Kraft. Teurer wird Rauchen trotzdem – nur nicht sofort.",
+   "subline": "Erhöhung trat versehentlich zu früh in Kraft",
+   "entities": [
+    "Deutscher Bundestag"
+   ]
+  },
+  {
+   "candidate_id": 9,
+   "pillar": "WIRTSCHAFT",
+   "region": "AT",
+   "kicker": "ÖSTERREICH",
+   "headline": "Benko erneut verurteilt",
+   "highlight": [
+    "Benko"
+   ],
+   "voice": "René Benko ist erneut verurteilt worden: Wegen schweren Betrugs erhält der österreichische Immobilieninvestor zwei weitere Jahre Haft. Das Urteil ist noch nicht rechtskräftig.",
+   "subline": "Zwei weitere Jahre Haft wegen Betrugs",
+   "entities": [
+    "René Benko"
+   ]
+  }
+ ],
+ "hook_text": "AfD-Leak: Spur in die USA",
+ "hook_voice": "AfD-Leak: Spur führt in die USA – die Schlagzeilen.",
+ "youtube_title": "AfD-Leak: Spur der Hacker führt in die USA – 420.000 E-Mails",
+ "description_lead": "Die Spur der mutmaßlichen Hacker hinter dem AfD-Leak führt laut SPIEGEL in die USA. Außerdem: Christian Freuding wird Generalinspekteur der Bundeswehr, der Bundestag repariert die Tabaksteuer-Panne und René Benko wird erneut verurteilt.",
+ "tags": [
+  "AfD",
+  "AfD-Leak",
+  "Hacker",
+  "Cyberangriff",
+  "Christian Freuding",
+  "Generalinspekteur",
+  "Bundeswehr",
+  "Boris Pistorius",
+  "Tabaksteuer",
+  "Bundestag",
+  "René Benko",
+  "Signa",
+  "Österreich"
+ ],
+ "hashtags": [
+  "#afd",
+  "#bundeswehr"
+ ],
+ "facebook_caption_line1": "AfD-Leak: Spur der Hacker führt in die USA",
+ "facebook_question": "Sollten Hacker-Leaks über Parteien veröffentlicht werden dürfen?",
+ "comment_question": "Sollten geleakte Partei-Dokumente veröffentlicht werden – ja oder nein?"
+}
