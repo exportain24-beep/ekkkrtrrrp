@@ -557,11 +557,49 @@
    ],
    "comment": {
     "text": "SPD-Basis gegen Rot-Grün-Rot: Sollte die Partei auf ihre Mitglieder hören?",
-    "done": false
+    "done": true,
+    "yt": "UgzXKjVxEZVR4kuREfp4AaABAg",
+    "fb": "2063607084359292_917109041366340"
    },
    "youtube_id": "G1Fj-feJbpI",
    "facebook_id": "2063607084359292",
    "created": "2026-11-03T04:28:59.049775+00:00"
+  },
+  {
+   "date": "2026-11-06",
+   "slot": "mittag",
+   "publish_at": "2026-11-06T11:00:00+00:00",
+   "title": "DAX unter Druck: Tech-Ausverkauf erfasst Europas Börsen 📉",
+   "duration": 48.3,
+   "stories": [
+    {
+     "headline": "Tech-Ausverkauf drückt den DAX",
+     "region": "DE",
+     "pillar": "WIRTSCHAFT"
+    },
+    {
+     "headline": "Industrie wächst überraschend",
+     "region": "DE",
+     "pillar": "WIRTSCHAFT"
+    },
+    {
+     "headline": "Daimler Truck: Gewinn plus 73 Prozent",
+     "region": "DE",
+     "pillar": "WIRTSCHAFT"
+    },
+    {
+     "headline": "Trump kündigt Russland-Deal an",
+     "region": "INT",
+     "pillar": "WELT"
+    }
+   ],
+   "comment": {
+    "text": "Nur eine kurze Delle an der Börse – ja oder nein?",
+    "done": false
+   },
+   "youtube_id": "nnYhNr0iX4Y",
+   "facebook_id": "1536973744929711",
+   "created": "2026-11-06T10:05:11.984560+00:00"
   }
  ]
 }
