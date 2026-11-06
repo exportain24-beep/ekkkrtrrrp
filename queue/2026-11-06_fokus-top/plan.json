@@ -1,0 +1,23 @@
+{
+  "format": "single",
+  "candidate_id": 16,
+  "pillar": "WIRTSCHAFT", "region": "DE", "kicker": "TARIFSTREIT",
+  "hook_screen": "STREIK-WELLE!",
+  "hook_voice": "Über vierhunderttausend Metaller im Warnstreik – und das ist erst der Anfang!",
+  "beats": [
+    {"voice": "Die IG Metall zählt in dieser Woche mehr als vierhunderttausend Teilnehmer an den ersten Warnstreiks der Metall- und Elektroindustrie.", "big": "400.000", "label": "Beschäftigte bei den ersten Warnstreiks"},
+    {"voice": "Die Gewerkschaft fordert fünf Prozent mehr Lohn für die Beschäftigten.", "big": "+5 %", "label": "Lohnforderung der IG Metall"},
+    {"voice": "In etlichen Bundesländern gehen die Warnstreiks und Kundgebungen weiter.", "big": "Fortsetzung", "label": "Warnstreiks in etlichen Bundesländern"},
+    {"voice": "Am Montag wird verhandelt. Bessern die Arbeitgeber nicht nach, droht die IG Metall mit einer Verschärfung des Arbeitskampfs.", "big": "Montag", "label": "nächste Verhandlungsrunde"}
+  ],
+  "loop_line": "Kommt am Montag keine Einigung, droht noch mehr als das hier:",
+  "headline": "IG Metall: Über 400.000 im Warnstreik", "highlight": ["Warnstreik"],
+  "entities": ["IG Metall", "Warnstreik", "Metallindustrie"],
+  "youtube_title": "IG Metall: Über 400.000 im Warnstreik – eskaliert es am Montag?",
+  "description_lead": "Mehr als 400.000 Beschäftigte haben sich nach Angaben der IG Metall in dieser Woche an den ersten Warnstreiks in der Metall- und Elektroindustrie beteiligt. Die Gewerkschaft fordert fünf Prozent mehr Lohn und droht vor den Verhandlungen am Montag mit einer Verschärfung des Arbeitskampfs.",
+  "tags": ["IG Metall", "Warnstreik", "Warnstreiks", "Metall- und Elektroindustrie", "Tarifstreit", "Tarifverhandlungen", "Arbeitskampf", "Lohnerhöhung", "Gewerkschaft", "Streik", "Industrie", "Löhne", "Deutschland"],
+  "hashtags": ["#igmetall", "#warnstreik", "#tarifstreit"],
+  "facebook_caption_line1": "EIL: Über 400.000 Beschäftigte im Warnstreik – IG Metall droht vor Verhandlungen am Montag mit Verschärfung",
+  "facebook_question": "Sind fünf Prozent mehr Lohn in der aktuellen Lage angemessen?",
+  "comment_question": "Ist die Forderung der IG Metall nach fünf Prozent mehr Lohn gerechtfertigt – ja oder nein?"
+}
