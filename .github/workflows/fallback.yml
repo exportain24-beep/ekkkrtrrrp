@@ -1,19 +1,15 @@
 name: Eilblick 0 – API fallback (only if the Claude news desk did not run)
 
-# ~45 min before each slot (two UTC triggers per slot for winter/summer time).
+# Checks every 30 min for a slot starting in the next 10–75 min.
 # Does nothing if the edition was already written or published. Only when the Claude
 # scheduled task could not run (e.g. usage limit) it writes the edition with the
 # Anthropic API key secret and builds it – one try.
 on:
   schedule:
-    - cron: "15 4 * * *"    # 07:00 slot (CEST)
-    - cron: "15 5 * * *"    # 07:00 slot (CET)
-    - cron: "15 9 * * *"    # 12:00 slot (CEST)
-    - cron: "15 10 * * *"   # 12:00 slot (CET)
-    - cron: "45 13 * * *"   # 16:30 slot (CEST)
-    - cron: "45 14 * * *"   # 16:30 slot (CET)
-    - cron: "0 18 * * *"    # 20:45 slot (CEST)
-    - cron: "0 19 * * *"    # 20:45 slot (CET)
+    # every 30 min – GitHub often starts scheduled runs late, so a dense schedule makes
+    # sure one run lands in each slot's window (10–75 min before the slot). Runs that find
+    # nothing to do finish in seconds.
+    - cron: "7,37 * * * *"
   workflow_dispatch:
     inputs:
       slot:
@@ -62,7 +58,7 @@ jobs:
           Q=$(git status --porcelain queue | grep -o 'queue/[^/]*' | head -1 || true)
           if [ -n "$Q" ] && [ -f "$Q/FALLBACK" ]; then
             git add -A queue && git commit -q -m "queue: fallback edition $Q (Anthropic API)"
-            for i in 1 2 3; do git pull --rebase -q && git push -q && break; sleep 5; done
+            ok=0; for i in 1 2 3 4 5; do git pull --rebase -q && git push -q && ok=1 && break; sleep $((i*4)); done; [ $ok = 1 ]
             echo "queue=$Q" >> "$GITHUB_OUTPUT"
           fi
       - name: Install ffmpeg
@@ -79,4 +75,4 @@ jobs:
         run: |
           git add state/ ${{ steps.plan.outputs.queue }}/result.md 2>/dev/null || git add state/
           git commit -q -m "state: ${{ steps.plan.outputs.queue }} (fallback)" || exit 0
-          for i in 1 2 3; do git pull --rebase -q && git push -q && break; sleep 5; done
+          ok=0; for i in 1 2 3 4 5; do git pull --rebase -q && git push -q && ok=1 && break; sleep $((i*4)); done; [ $ok = 1 ]

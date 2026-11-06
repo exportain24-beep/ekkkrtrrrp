@@ -34,4 +34,4 @@ jobs:
           git config user.email "eilblick-bot@users.noreply.github.com"
           git add -A queue
           git commit -q -m "queue: candidates ${{ github.event.inputs.slot }}" || exit 0
-          git pull --rebase -q && git push -q
+          ok=0; for i in 1 2 3 4 5; do git pull --rebase -q && git push -q && ok=1 && break; sleep $((i*4)); done; [ $ok = 1 ]

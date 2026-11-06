@@ -26,7 +26,7 @@ import numpy as np
 from . import audio as A
 from . import images, state, tts
 from .config import ROOT, TMP, settings
-from .render import StoryClip, Timeline, render_thumbnail, render_video
+from .render import Beat, SingleTimeline, StoryClip, Timeline, render_single, render_thumbnail, render_video
 from .slots import current_slot, german_date, now_berlin, slot_by_id
 
 OUT = ROOT / "out"
@@ -134,6 +134,55 @@ def make_video(plan, slot, slot_time, stories, photos, offline_voice=False) -> t
     render_video(tl, wav, out, prev)
     render_thumbnail(tl, OUT / f"{out.stem}_thumb.jpg")
     log(f"  rendered in {time.time()-t0:.0f}s → {out.name} ({out.stat().st_size/1e6:.1f} MB)")
+    return out, tl
+
+
+def make_video_single(plan, slot, slot_time, story, photos, offline_voice=False):
+    """FOKUS: hook → 3–4 data beats → loop line. No intro, no outro (the video loops)."""
+    cfg = settings()
+    texts = [plan["hook_voice"]] + [b["voice"] for b in plan["beats"]] + [plan["loop_line"]]
+    log("• Voice-over (ElevenLabs)…" if not offline_voice else "• Voice-over (offline stand-in)…")
+    segs = tts.voice_all(texts, offline=offline_voice)
+    hard = cfg["editorial"]["single_hard_max_seconds"]
+    for _ in range(2):
+        total = 0.12 + sum(sg.duration for sg in segs) + 0.12 * (len(segs) - 1) + 0.15
+        if total <= hard:
+            break
+        f = min(1.15, (total - 0.4) / max(1.0, total - (total - hard) - 0.4))
+        log(f"  {total:.1f}s > {hard}s → tightening voice ×{f:.3f}")
+        segs = [speed_up(sg, f) for sg in segs]
+    t = 0.12
+    spans, beats, sfx = [], [], [("sting", 0.0)]
+    meta = [("", "")] + [(b.get("big", ""), b.get("label", "")) for b in plan["beats"]] + [("", "")]
+    for i, (sg, (big, label)) in enumerate(zip(segs, meta)):
+        spans.append((t, sg.audio))
+        end = t + sg.duration + 0.12
+        beats.append(Beat(start=t if i else 0.0, end=end, words=[(w, t + a, t + b) for w, a, b in sg.words],
+                          big=big, label=label))
+        if 0 < i < len(segs) - 1:
+            sfx.append(("whoosh", max(0, t - 0.2)))
+        t = end
+    total = t + 0.03
+    tl = SingleTimeline(total=total, hook_end=beats[0].end, hook_screen=plan["hook_screen"],
+                        kicker=plan["kicker"], highlight=plan.get("highlight", []),
+                        photos=[p for ph in photos for p in ph], sources=story.outlets,
+                        beats=beats, loop_start=beats[-1].start)
+    log(f"• FOKUS timeline {total:.1f}s")
+    mixcfg = dict(cfg["audio"])
+    mix = A.mix(total, spans, sfx, mixcfg)
+    wav = TMP / "mix.wav"
+    A.write_wav(wav, mix)
+    OUT.mkdir(exist_ok=True)
+    out = OUT / f"eilblick_{slot_time:%Y-%m-%d}_{slot['id']}.mp4"
+    prev = OUT / "preview"
+    prev.mkdir(exist_ok=True)
+    t0 = time.time()
+    log("• Rendering FOKUS video…")
+    render_single(tl, wav, out, prev, thumb=OUT / f"{out.stem}_thumb.jpg")
+    log(f"  rendered in {time.time()-t0:.0f}s → {out.name} ({out.stat().st_size/1e6:.1f} MB)")
+    tl.stories = [StoryClip(beats[0].start, total, beats[0].start, [w for b in beats for w in b.words], tl.photos,
+                            plan["kicker"], plan["headline"], plan.get("highlight", []), plan["pillar"],
+                            story.outlets, 1, 1)]
     return out, tl
 
 
@@ -325,6 +374,9 @@ def _cmd_run(args) -> int:
             cmd_post_comments()
         except Exception as e:
             log(f"  (comments skipped: {e})")
+    single = editor.is_single(plan)
+    if single:
+        plan["stories"] = [editor.single_story(plan)]
     chosen = [story_from_dict(cdata["candidates"][s["candidate_id"]]) for s in plan["stories"]]
     for i, s in enumerate(plan["stories"]):
         log(f"  {i+1}. [{s['region']}/{s['pillar']}] {s['headline']}  ←  {', '.join(chosen[i].outlets[:4])}")
@@ -332,7 +384,10 @@ def _cmd_run(args) -> int:
     log("• Collecting news photos into temporary folder…")
     photos = images.collect(chosen, plan["stories"])
 
-    video, tl = make_video(plan, slot, slot_time, chosen, photos)
+    if single:
+        video, tl = make_video_single(plan, slot, slot_time, chosen[0], photos)
+    else:
+        video, tl = make_video(plan, slot, slot_time, chosen, photos)
     chosen = chosen[:len(plan["stories"])]
     credits = [p.credit for ph in photos[:len(plan["stories"])] for p in ph]
     srcs = list(dict.fromkeys(o for s in chosen for o in s.outlets))
@@ -635,6 +690,63 @@ def cmd_comments_post() -> int:
     return 0
 
 
+def cmd_recover() -> int:
+    """List the newest uploads on YouTube + Facebook and re-create missing state entries
+    (e.g. when a push of the publish log failed)."""
+    import requests
+    from . import upload_facebook as FB
+    from . import upload_youtube as YT
+    lines = []
+    known_yt = {r.get("youtube_id") for r in state.load()["runs"]}
+    tok = YT._tok()
+    ch = requests.get("https://www.googleapis.com/youtube/v3/channels", params={"part": "contentDetails", "mine": "true"},
+                      headers={"Authorization": f"Bearer {tok}"}, timeout=30).json()
+    up = ch["items"][0]["contentDetails"]["relatedPlaylists"]["uploads"]
+    items = requests.get("https://www.googleapis.com/youtube/v3/playlistItems",
+                         params={"part": "snippet,status", "playlistId": up, "maxResults": 15},
+                         headers={"Authorization": f"Bearer {tok}"}, timeout=30).json().get("items", [])
+    reels = requests.get(f"{FB._g()}/{FB.page_id()}/video_reels",
+                         params={"fields": "id,description,created_time", "limit": 15, **FB._auth(FB.page_token())},
+                         timeout=30).json().get("data", [])
+    for it in items:
+        sn = it["snippet"]
+        vid = sn["resourceId"]["videoId"]
+        lines.append(f"- YT {vid} {sn.get('publishedAt')} {'(known)' if vid in known_yt else '(NOT IN STATE)'} {sn['title']}")
+    for r in reels:
+        lines.append(f"- FB {r['id']} {r.get('created_time')} {(r.get('description') or '')[:70]!r}")
+    # re-create entries for queue folders whose title matches an unknown upload
+    for d in sorted(QUEUE.glob("*_*")):
+        meta = OUT / f"eilblick_{d.name}.json"
+        pf = d / "plan.json"
+        if not pf.exists():
+            continue
+        date, slot = d.name.split("_", 1)
+        if state.slot_done(date, slot):
+            continue
+        plan = json.loads(pf.read_text(encoding="utf-8"))
+        title = plan.get("youtube_title", "").strip()
+        yt = next((it["snippet"]["resourceId"]["videoId"] for it in items
+                   if it["snippet"]["title"].strip() == title[:100]), None)
+        line1 = plan.get("facebook_caption_line1", "")
+        fb = next((r["id"] for r in reels if line1 and line1 in (r.get("description") or "")), None)
+        if yt or fb:
+            single = plan.get("format") == "single"
+            stories = [editor_single(plan)] if single else plan["stories"]
+            state.record({"date": date, "slot": slot, "title": title, "youtube_id": yt, "facebook_id": fb,
+                          "publish_at": datetime.now(timezone.utc).isoformat(), "recovered": True,
+                          "stories": [{"headline": s["headline"], "region": s["region"], "pillar": s["pillar"]} for s in stories],
+                          "comment": {"text": plan.get("comment_question", ""), "done": False}})
+            lines.append(f"RECOVERED {d.name}: yt={yt} fb={fb}")
+    log("\n".join(lines))
+    _report("recent_uploads.md", lines)
+    return 0
+
+
+def editor_single(plan):
+    from .editor import single_story
+    return single_story(plan)
+
+
 def cmd_demo(args) -> int:
     from .demo import demo_inputs
     slot, slot_time = slot_by_id(args.slot or "morgen")
@@ -662,13 +774,13 @@ def main(argv=None) -> int:
     d = sub.add_parser("demo")
     d.add_argument("--slot")
     d.add_argument("--real-voice", action="store_true")
-    for n in ("check-feeds", "check-tokens", "post-comments", "channel-seo", "comments-fetch", "comments-post"):
+    for n in ("check-feeds", "check-tokens", "post-comments", "channel-seo", "comments-fetch", "comments-post", "recover"):
         sub.add_parser(n)
     a = ap.parse_args(argv)
     fn = {"candidates": lambda: cmd_candidates(a), "fallback": lambda: cmd_fallback(a), "validate-plan": lambda: cmd_validate(a),
           "run": lambda: cmd_run(a), "demo": lambda: cmd_demo(a), "check-feeds": cmd_check_feeds,
           "check-tokens": cmd_check_tokens, "channel-seo": cmd_channel_seo,
-          "comments-fetch": cmd_comments_fetch, "comments-post": cmd_comments_post,
+          "comments-fetch": cmd_comments_fetch, "comments-post": cmd_comments_post, "recover": cmd_recover,
           "post-comments": lambda: cmd_post_comments() or 0}[a.cmd]
     return fn()
 

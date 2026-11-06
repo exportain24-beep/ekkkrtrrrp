@@ -675,3 +675,238 @@ def render_video(tl: Timeline, audio_wav: Path, out: Path, preview_dir: Path | N
     if p.wait() != 0:
         raise RuntimeError("ffmpeg failed")
     return out
+
+
+# ====================================================================== FOKUS (single story)
+@dataclass
+class Beat:
+    start: float
+    end: float
+    words: list          # [(word, abs_start, abs_end)]
+    big: str = ""
+    label: str = ""
+
+
+@dataclass
+class SingleTimeline:
+    total: float
+    hook_end: float
+    hook_screen: str
+    kicker: str
+    highlight: list
+    photos: list
+    sources: list
+    beats: list = field(default_factory=list)      # hook + data beats + loop line, in order
+    loop_start: float = 0.0
+
+
+class SingleRenderer:
+    """One story, full-bleed news photo, giant red shock hook at 0:00, a big data overlay per
+    beat, voice-synced captions, no intro and no outro – the last frame flows back into frame 0."""
+
+    def __init__(self, tl: SingleTimeline):
+        self.tl = tl
+        self.pc = PhotoCache()
+        self.last = None
+        self.cap_cache = {}
+        good = []
+        import os
+        for ph in ([] if os.environ.get("EILBLICK_SAFE") == "1" else tl.photos):
+            try:
+                cover(self.pc.get(ph), W, H, 1.1, 0.5, 0.4)
+                good.append(ph)
+            except Exception as e:
+                print(f"  photo skipped ({ph.credit}): {e}")
+        tl.photos = good
+        self.logo = logo_image(70)
+        self.hook_img = text_block(tl.hook_screen.upper(), "black", 980, 3, 190, 96, [tl.hook_screen],
+                                   color=C["red"], hl_color=C["red"], line_gap=1.0)
+        shade = Image.new("RGBA", (W, H), (0, 0, 0, 0))
+        sd = ImageDraw.Draw(shade)
+        for y in range(H):
+            if y < 380:
+                a = int(200 * (1 - y / 380))
+            elif y > 700:
+                a = int(235 * min(1, (y - 700) / 520))
+            else:
+                a = 40
+            sd.line([(0, y), (W, y)], fill=(8, 8, 10, a))
+        self.shade = shade
+
+    def photo_at(self, t):
+        if not self.tl.photos:
+            return None, 0, 0
+        per = settings()["video"]["seconds_per_image"]
+        i = int(t / per)
+        return self.tl.photos[i % len(self.tl.photos)], i, (t - i * per) / per
+
+    def background(self, fr, t):
+        ph, i, loc = self.photo_at(t)
+        if ph is None:
+            fr.paste(C["bg"][:3], (0, 0, W, H))
+            fr.alpha_composite(grid_layer())
+            return
+        zoom = 1.06 + 0.08 * loc if i % 2 == 0 else 1.14 - 0.08 * loc
+        img = cover(self.pc.get(ph), W, H, zoom, 0.5 + (0.06 * (loc - 0.5) if i % 3 else 0), 0.38)
+        fr.paste(img, (0, 0))
+        per = settings()["video"]["seconds_per_image"]
+        if loc * per > per - 0.18 and len(self.tl.photos) > 1:      # quick flash cut to next photo
+            k = (loc * per - (per - 0.18)) / 0.18
+            nxt = self.tl.photos[(i + 1) % len(self.tl.photos)]
+            fr.paste(Image.blend(img, cover(self.pc.get(nxt), W, H, 1.06, 0.5, 0.38), ease_io(k)), (0, 0))
+        fr.alpha_composite(self.shade)
+        d = ImageDraw.Draw(fr)
+        f = font("med", 24)
+        cr = f"Bild: {ph.credit}"[:60]
+        d.rounded_rectangle([40, 1506, 64 + f.getlength(cr), 1542], radius=8, fill=(0, 0, 0, 150))
+        d.text((52, 1510), cr, font=f, fill=(235, 235, 240, 255))
+
+    def top(self, fr):
+        fr.alpha_composite(self.logo, (50, 110))
+        d = ImageDraw.Draw(fr)
+        f = font("black", 36)
+        x = 50 + self.logo.width + 26
+        d.rounded_rectangle([x, 118, x + f.getlength("FOKUS") + 36, 174], radius=10, fill=C["red"])
+        d.text((x + 18, 122), "FOKUS", font=f, fill=C["white"])
+        f2 = font("bold", 34)
+        d.text((x + f.getlength("FOKUS") + 56, 128), self.tl.kicker.upper(), font=f2, fill=C["white"])
+
+    def hook(self, fr, t, alpha=1.0):
+        k = ease(t / 0.22)
+        sc = 1.12 - 0.12 * k if t > 0 else 1.0       # frame 0 = final layout (thumbnail-ready)
+        img = self.hook_img
+        if sc != 1.0:
+            img = img.resize((int(img.width * sc), int(img.height * sc)), Image.LANCZOS)
+        if alpha < 1:
+            img = img.copy()
+            img.putalpha(img.getchannel("A").point(lambda p: int(p * alpha)))
+        # white "flash" plate behind the red words for maximum contrast
+        plate = Image.new("RGBA", (img.width + 40, img.height + 10), (0, 0, 0, 0))
+        ImageDraw.Draw(plate).rounded_rectangle([0, 0, plate.width, plate.height], radius=18,
+                                                fill=(255, 255, 255, int(235 * alpha)))
+        y = 760 - img.height // 2
+        fr.alpha_composite(plate, ((W - plate.width) // 2, y - 6))
+        fr.alpha_composite(img, ((W - img.width) // 2 + 8, y))
+
+    def data_card(self, fr, b: Beat, t):
+        if not b.big:
+            return
+        a = ease((t - b.start) / 0.3)
+        f = None
+        for size in (210, 180, 150, 124, 100):
+            f = font("black", size)
+            if f.getlength(b.big) <= 960:
+                break
+        y = 690 + int((1 - a) * 60)
+        d = ImageDraw.Draw(fr)
+        tw = f.getlength(b.big)
+        x = (W - tw) / 2
+        d.text((x + 6, y + 8), b.big, font=f, fill=(0, 0, 0, int(170 * a)))
+        d.text((x, y), b.big, font=f, fill=C["red"][:3] + (int(255 * a),))
+        if b.label:
+            fl, lines = fit_text(b.label.upper(), "xbold", 940, 2, 62, 40)
+            yy = y + f.getmetrics()[0] + f.getmetrics()[1] + 4
+            for ln in lines:
+                txt = " ".join(ln)
+                lw = fl.getlength(txt)
+                d.rounded_rectangle([(W - lw) / 2 - 18, yy - 4, (W + lw) / 2 + 18, yy + fl.size + 18], radius=10,
+                                    fill=(10, 10, 12, int(200 * a)))
+                d.text(((W - lw) / 2, yy), txt, font=fl, fill=(255, 255, 255, int(255 * a)))
+                yy += fl.size + 26
+
+    def caption(self, fr, b: Beat, t):
+        words = b.words
+        if not words or t < words[0][1] - 0.05:
+            return
+        groups, cur = [], []
+        for w in words:
+            cur.append(w)
+            if len(cur) >= 4 or w[0].endswith((".", ",", ":", "?", "!")):
+                groups.append(cur)
+                cur = []
+        if cur:
+            groups.append(cur)
+        gi = max([i for i, g in enumerate(groups) if t >= g[0][1] - 0.05] or [0])
+        g = groups[gi]
+        active = sum(1 for w in g if t >= w[1])
+        key = (id(b), gi, active)
+        if key not in self.cap_cache:
+            f = font("black", 64)
+            img = Image.new("RGBA", (1000, 170), (0, 0, 0, 0))
+            dd = ImageDraw.Draw(img)
+            lines = wrap_words([w[0] for w in g], f, 960)
+            k = 0
+            for li, line in enumerate(lines[:2]):
+                lw = f.getlength(" ".join(line))
+                x = (1000 - lw) / 2
+                for w in line:
+                    hl = _is_hl(w, self.tl.highlight)
+                    col = C["red"] if hl and k < active else (C["white"] if k < active else (175, 175, 185, 255))
+                    for dx, dy in ((-3, 0), (3, 0), (0, -3), (0, 4)):
+                        dd.text((x + dx, li * 80 + dy), w, font=f, fill=(0, 0, 0, 230))
+                    dd.text((x, li * 80), w, font=f, fill=col)
+                    x += f.getlength(w + " ")
+                    k += 1
+            self.cap_cache[key] = img
+        fr.alpha_composite(self.cap_cache[key], (40, 1290))
+
+    def sources(self, fr):
+        f = font("med", 26)
+        ImageDraw.Draw(fr).text((52, 1468), "Quelle: " + " · ".join(self.tl.sources[:3]), font=f,
+                                fill=(200, 200, 210, 230))
+
+    def _frame(self, t):
+        fr = Image.new("RGBA", (W, H), C["bg"])
+        tl = self.tl
+        self.background(fr, t)
+        self.top(fr)
+        beat = next((b for b in tl.beats if b.start <= t < b.end), tl.beats[-1])
+        if t < tl.hook_end:
+            self.hook(fr, t)
+        else:
+            self.data_card(fr, beat, t)
+        self.caption(fr, beat, t)
+        self.sources(fr)
+        # seamless loop: the hook words fade back in during the last 0.35 s
+        if t > tl.total - 0.35:
+            self.hook(fr, 1.0, alpha=ease((t - (tl.total - 0.35)) / 0.35))
+        return fr.convert("RGB")
+
+    def frame(self, t):
+        try:
+            img = self._frame(t)
+        except Exception as e:
+            print(f"  frame {t:.2f}s fallback: {e}")
+            self.tl.photos = []
+            try:
+                img = self._frame(t)
+            except Exception:
+                img = self.last or Image.new("RGB", (W, H), C["bg"][:3])
+        self.last = img
+        return img
+
+
+def render_single(tl: SingleTimeline, audio_wav: Path, out: Path, preview_dir: Path | None = None,
+                  thumb: Path | None = None) -> Path:
+    vc = settings()["video"]
+    r = SingleRenderer(tl)
+    fps = vc["fps"]
+    n = int(round(tl.total * fps))
+    cmd = ["ffmpeg", "-y", "-v", "error", "-f", "rawvideo", "-pix_fmt", "rgb24", "-s", f"{W}x{H}", "-r", str(fps),
+           "-i", "-", "-i", str(audio_wav), "-c:v", "libx264", "-preset", vc["preset"], "-crf", str(vc["crf"]),
+           "-pix_fmt", "yuv420p", "-profile:v", "high", "-af", "loudnorm=I=-14:TP=-1.5:LRA=11", "-c:a", "aac",
+           "-b:a", "192k", "-ar", "48000", "-shortest", "-movflags", "+faststart", "-metadata", "title=Eilblick Fokus",
+           "-metadata", "language=deu", str(out)]
+    p = subprocess.Popen(cmd, stdin=subprocess.PIPE)
+    preview_at = {0, int(n * 0.15), int(n * 0.4), int(n * 0.65), n - 5}
+    for i in range(n):
+        img = r.frame(i / fps)
+        if i == 0 and thumb is not None:
+            img.save(thumb, "JPEG", quality=90, optimize=True)
+        if preview_dir is not None and i in preview_at:
+            img.save(preview_dir / f"preview_{i:04d}.jpg", quality=88)
+        p.stdin.write(img.tobytes())
+    p.stdin.close()
+    if p.wait() != 0:
+        raise RuntimeError("ffmpeg failed")
+    return out

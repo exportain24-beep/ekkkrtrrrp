@@ -13,7 +13,71 @@ REQUIRED = ["youtube_title", "description_lead", "tags", "hashtags", "facebook_c
             "facebook_question", "comment_question", "hook_text"]
 
 
+def is_single(plan: dict) -> bool:
+    return plan.get("format") == "single"
+
+
+def single_story(plan: dict) -> dict:
+    """FOKUS plans carry one story; this gives the code a 'stories' entry like the headline format."""
+    beats = plan.get("beats") or []
+    return {"candidate_id": plan.get("candidate_id"), "pillar": plan.get("pillar"), "region": plan.get("region"),
+            "kicker": plan.get("kicker", ""), "headline": plan.get("headline", ""), "highlight": plan.get("highlight", []),
+            "voice": " ".join([plan.get("hook_voice", "")] + [b.get("voice", "") for b in beats] + [plan.get("loop_line", "")]),
+            "subline": (beats[0].get("label", "") if beats else ""), "entities": plan.get("entities", [])}
+
+
+def validate_single(plan: dict, n_candidates: int) -> list[str]:
+    cfg = settings()["editorial"]
+    lo, hi = cfg["single_words"]
+    errs = []
+    cid = plan.get("candidate_id")
+    if not isinstance(cid, int) or not (0 <= cid < n_candidates):
+        errs.append("invalid candidate_id")
+    if plan.get("pillar") not in PILLARS:
+        errs.append(f"pillar must be one of {sorted(PILLARS)}")
+    if plan.get("region") not in REGIONS:
+        errs.append(f"region must be one of {sorted(REGIONS)}")
+    hs = plan.get("hook_screen", "")
+    if not hs or len(hs) > 24:
+        errs.append("hook_screen: 1–3 shocking words, max 24 chars (e.g. HEIZKOSTEN-SCHOCK!)")
+    hv = plan.get("hook_voice", "")
+    if not hv or len(hv.split()) > 12:
+        errs.append("hook_voice: the shock itself, max 12 words")
+    beats = plan.get("beats") or []
+    if not (3 <= len(beats) <= 4):
+        errs.append("beats: 3–4 needed")
+    for i, b in enumerate(beats):
+        if not b.get("voice"):
+            errs.append(f"beat {i+1}: voice missing")
+        if not b.get("big") or len(b["big"]) > 14:
+            errs.append(f"beat {i+1}: big (number/keyword on screen) missing or >14 chars")
+        if len(b.get("label", "")) > 42:
+            errs.append(f"beat {i+1}: label >42 chars")
+    ll = plan.get("loop_line", "")
+    if not ll or len(ll.split()) > 16:
+        errs.append("loop_line: max 16 words, must lead back into the hook")
+    total = len(single_story(plan)["voice"].split())
+    if not (lo - 4 <= total <= hi + 4):
+        errs.append(f"total voice {total} words (target {lo}–{hi} → 30–35 s)")
+    if not plan.get("headline") or len(plan["headline"]) > 44:
+        errs.append("headline missing or >44 chars")
+    if not plan.get("kicker") or len(plan["kicker"]) > 20:
+        errs.append("kicker missing or >20 chars")
+    for f in REQUIRED:
+        if f != "hook_text" and not plan.get(f):
+            errs.append(f"missing field: {f}")
+    if not (8 <= len(plan.get("tags", [])) <= 20):
+        errs.append("tags: give 12–15")
+    import re
+    for f in ("facebook_caption_line1", "facebook_question"):
+        if re.search(r"https?://|www\.|\b[\w-]+\.(de|com|net|org|at|ch)\b", plan.get(f, ""), re.I):
+            errs.append(f"{f}: no website/link allowed in Facebook captions")
+    return errs
+
+
 def validate(plan: dict, n_candidates: int) -> list[str]:
+    if is_single(plan):
+        return validate_single(plan, n_candidates)
     cfg = settings()["editorial"]
     wmin, wmax = cfg["words_per_story"]
     errs = []
@@ -108,7 +172,10 @@ def write_plan_via_api(queue_dir: Path) -> dict:
     model = settings()["editorial"].get("api_model", "claude-sonnet-5-5")
     system = (guide + "\n\nYou write ONLY the plan.json content. Output a single valid JSON object, nothing else. "
               "Include hook_voice.")
-    user = ("candidates.json:\n" + json.dumps(cdata, ensure_ascii=False)[:120_000] +
+    fmt = cdata.get("slot", {}).get("format", "headlines")
+    user = (("THIS SLOT USES THE FOKUS FORMAT (format=single) – write the FOKUS plan.json.\n\n" if fmt == "single"
+             else "THIS SLOT USES THE HEADLINE FORMAT (4 stories).\n\n") +
+            "candidates.json:\n" + json.dumps(cdata, ensure_ascii=False)[:120_000] +
             ("\n\nstate/performance.md:\n" + perf.read_text(encoding="utf-8")[:6000] if perf.exists() else ""))
     messages = [{"role": "user", "content": user}]
     last = ""

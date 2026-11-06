@@ -13,6 +13,15 @@ def _hashtag(s: str) -> str:
     return "#" + s if s else ""
 
 
+def _body_lines(plan: dict, date_text: str) -> list[str]:
+    pre = f"Nachrichten heute – {date_text}. " if date_text else ""
+    if plan.get("format") == "single":
+        return [pre + "Im Fokus: " + plan.get("headline", "")] + \
+            [f"▶️ {b.get('big', '')} – {b.get('label', '')}" for b in plan.get("beats", [])]
+    return [pre + "Die Schlagzeilen:"] + \
+        [f"{NUM[i]} {s['headline']} – {s['subline']}" for i, s in enumerate(plan["stories"])]
+
+
 def youtube_meta(plan: dict, credits: list[str], sources: list[str], date_text: str = "") -> tuple[str, str, list[str]]:
     ch = settings()["channel"]
     seo = settings()["seo"]
@@ -25,8 +34,7 @@ def youtube_meta(plan: dict, credits: list[str], sources: list[str], date_text: 
         "",
         plan.get("description_lead", ""),
         "",
-        (f"Nachrichten heute – {date_text}. " if date_text else "") + "Die Schlagzeilen:",
-        *[f"{NUM[i]} {s['headline']} – {s['subline']}" for i, s in enumerate(plan["stories"])],
+        *_body_lines(plan, date_text),
         "",
         f"🚨 EILBLICK – {ch['slogan']}",
         "Täglich die wichtigsten Nachrichten aus Deutschland, Österreich, der Schweiz und der Welt in unter 60 Sekunden.",
@@ -67,7 +75,8 @@ def facebook_caption(plan: dict) -> str:
         "🚨 " + plan.get("facebook_caption_line1", plan["youtube_title"]),
         plan.get("facebook_question", ""),
         "",
-        *[f"{NUM[i]} {s['headline']}" for i, s in enumerate(plan["stories"])],
+        *([f"{NUM[i]} {s['headline']}" for i, s in enumerate(plan["stories"])] if plan.get("format") != "single"
+          else [f"▶️ {b.get('big', '')} – {b.get('label', '')}" for b in plan.get("beats", [])]),
         "",
         f"Eilblick – {ch['slogan']}",   # owner rule: never a website/link in the Facebook caption
         "",

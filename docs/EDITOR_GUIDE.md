@@ -117,3 +117,46 @@ Re-read your draft as the final editor ("Schlussredakteur"):
 ```
 Field limits: `kicker` ≤ 18 chars UPPERCASE place/area · `headline` ≤ 38 chars · `highlight` 1–2 words from the headline
 (shown in red) · `subline` ≤ 70 chars · `entities` used for extra free-licence photos.
+
+
+## FOKUS format (slots fokus-geld 08:30, fokus-politik 18:30, fokus-top 22:00 – owner, 6 Nov 2026)
+**One video = one real story, 30–35 seconds.** No list of headlines, no "Die Schlagzeilen …", no intro,
+no logo outro – the last sentence flows straight back into the first second (loop).
+Pick the ONE strongest real story from candidates.json that fits `slot.focus` (verified by ≥2 outlets, only facts
+from the candidate texts; WebSearch/WebFetch only to verify). The same hard rules as above apply (no violence,
+gossip, rumours; never invent numbers; 100 % Hochdeutsch).
+
+Structure:
+- **0:00–0:03 Hook:** `hook_screen` = 1–3 shocking words in caps for giant red screen text
+  (e.g. „HEIZKOSTEN-SCHOCK!“, „GEHEIM-AKTE BERLIN!“, „500 EURO MINUS!“) and `hook_voice` = the shock itself
+  in max 12 words, spoken first (e.g. "Wer in Deutschland jetzt nicht aufpasst, zahlt Hunderte Euro mehr!").
+  It must be TRUE and backed by the sources – a shocking angle of a real fact, never an exaggeration.
+- **0:03–0:22 Facts:** 3–4 `beats`; each beat = 1–2 short spoken sentences (`voice`) + one big on-screen
+  number/keyword (`big`, max 14 chars, e.g. „+300 €“, „420.000“, „−6 %“, „A57“) + a short `label` (max 42 chars).
+  Explain who/what/where/when and what it means for people in DACH (their money, safety, daily life).
+- **0:22–0:30 Loop line:** `loop_line` (max 16 words) – an open question or a turn that makes the viewer
+  rewatch and leads back into the hook (e.g. "… und genau deshalb sollten Sie jetzt eines wissen:").
+- Total spoken words 62–84.
+
+FOKUS plan.json schema:
+```json
+{
+  "format": "single",
+  "candidate_id": 0,
+  "pillar": "WIRTSCHAFT", "region": "DE", "kicker": "HEIZKOSTEN",
+  "hook_screen": "HEIZKOSTEN-SCHOCK!",
+  "hook_voice": "Wer jetzt nicht aufpasst, zahlt Hunderte Euro mehr fürs Heizen!",
+  "beats": [
+    {"voice": "…", "big": "+300 €", "label": "mehr pro Haushalt im Jahr"},
+    {"voice": "…", "big": "70 %", "label": "Füllstand der Gasspeicher"},
+    {"voice": "…", "big": "Januar", "label": "dann steigen die Preise"}
+  ],
+  "loop_line": "Und das Teuerste daran kommt erst noch –",
+  "headline": "Heizkosten steigen um Hunderte Euro", "highlight": ["Heizkosten"],
+  "entities": ["Gasspeicher"],
+  "youtube_title": "…", "description_lead": "…", "tags": ["…"], "hashtags": ["#…"],
+  "facebook_caption_line1": "…", "facebook_question": "…", "comment_question": "…"
+}
+```
+The workflow commands are the same as for headline editions (prepare with inputs[slot]=fokus-…, then
+validate-plan, push, news-shorts with the queue folder). The first frame (hook) is also the thumbnail.

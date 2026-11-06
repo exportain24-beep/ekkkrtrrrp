@@ -43,6 +43,9 @@ jobs:
       - name: News feeds
         run: python -m eilblick check-feeds
         continue-on-error: true
+      - name: Recover missing publish records
+        run: python -m eilblick recover
+        continue-on-error: true
       - name: Channel SEO
         if: github.event.inputs.channel_seo == 'true'
         run: python -m eilblick channel-seo

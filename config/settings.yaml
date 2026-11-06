@@ -40,6 +40,27 @@ slots:
     pillars: [WELT, POLITIK, WIRTSCHAFT, TECHNOLOGIE]
     notify_subscribers: false   # YouTube sends max ~3 notifications/day → slot 4 stays silent
 
+  # ---- FOKUS format (owner, 6 Nov 2026): 1 video = 1 real story, 30–35 s, shock hook in the
+  #      first second, no intro/outro, ends straight into a loop. Prime-time slots.
+  - id: fokus-geld
+    format: single
+    time: "08:30"
+    label: "Fokus Geld"
+    focus: "Der eine Wirtschafts- oder Geld-Aufreger des Tages mit direkter Wirkung auf den Geldbeutel der Menschen in Deutschland, Österreich oder der Schweiz (Preise, Heizkosten, Steuern, Löhne, Rente, Mieten, Inflation, Jobs)."
+    notify_subscribers: false
+  - id: fokus-politik
+    format: single
+    time: "18:30"
+    label: "Fokus Politik"
+    focus: "Die eine große politische oder sicherheitspolitische Enthüllung bzw. Eilmeldung des Tages aus Berlin, Wien, Bern oder Brüssel (Regierung, Kanzleramt, Hackerangriffe, Spionage, große Entscheidungen, Skandale)."
+    notify_subscribers: false
+  - id: fokus-top
+    format: single
+    time: "22:00"
+    label: "Fokus des Tages"
+    focus: "Die meistdiskutierte, überraschendste Meldung des Tages im DACH-Raum (jedes Ressort außer Sport-Ergebnissen und Promi-Klatsch), die für die Menschen hier spürbare Folgen hat."
+    notify_subscribers: false
+
 build_window_minutes:
   before: 95    # a run may start up to 95 min before the slot …
   after: 45     # … or up to 45 min after it (then it publishes immediately)
@@ -54,6 +75,8 @@ editorial:
   dedupe_days: 2                # never repeat a story already used in the last 2 days
   words_per_story: [17, 24]     # spoken words per headline block
   max_total_words: 100          # ≈ 40–45 s incl. intro, transitions and end card
+  single_words: [62, 84]        # FOKUS: whole voice-over (hook + beats + loop line) ≈ 30–35 s
+  single_hard_max_seconds: 38
   target_seconds: 42
   hard_max_seconds: 50          # never longer than 50 s (auto-trims if needed)
   # The editorial desk is Claude itself (scheduled task). Only if that run could not happen
