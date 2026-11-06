@@ -1,0 +1,1776 @@
+{
+ "slot": {
+  "id": "nacht",
+  "time": "20:45",
+  "label": "am späten Abend",
+  "focus": "Geopolitik, europäische Sicherheit, NATO, EU, Welthandel und Zölle – mit Bezug zu Deutschland.",
+  "pillars": [
+   "WELT",
+   "POLITIK",
+   "WIRTSCHAFT",
+   "TECHNOLOGIE"
+  ],
+  "notify_subscribers": false
+ },
+ "slot_time": "2026-11-06T20:45:00+01:00",
+ "date_text": "Freitag, 6. November 2026",
+ "already_published": [
+  "Tech-Ausverkauf drückt den DAX",
+  "Industrie wächst überraschend",
+  "Daimler Truck: Gewinn plus 73 Prozent",
+  "Trump kündigt Russland-Deal an",
+  "AfD-Leak: Spur führt in die USA",
+  "Freuding wird Generalinspekteur",
+  "Bundestag repariert Tabaksteuer-Panne",
+  "Benko erneut verurteilt",
+  "Führerschein soll billiger werden",
+  "EU droht TikTok mit Strafe",
+  "Härtere Strafen für K.o.-Tropfen",
+  "Mäc Geiz schließt 60 Filialen",
+  "Bombendrohungen gegen Flüge in Europa"
+ ],
+ "candidates": [
+  {
+   "id": 0,
+   "score": 15.08,
+   "outlets": [
+    "tagesschau",
+    "Deutschlandfunk",
+    "SRF News",
+    "SPIEGEL",
+    "NZZ",
+    "DER STANDARD"
+   ],
+   "regions": [
+    "AT",
+    "CH",
+    "DE",
+    "INT"
+   ],
+   "trend": [],
+   "newest": "2026-11-06T18:05:35+00:00",
+   "articles": [
+    {
+     "source": "tagesschau",
+     "region": "DE",
+     "weight": 1.0,
+     "title": "Anführer von Hungersekte in Kenia zu 200 Jahren Haft verurteilt.",
+     "summary": "Der selbsternannte kenianische Pastor Mackenzie ist für den Mord an 191 Menschen verurteilt worden. Er soll sie aus angeblich religiösen Gründen zum Todesfasten verleitet haben - die meisten waren Kinder.",
+     "link": "https://www.tagesschau.de/ausland/afrika/kenia-urteil-sektenfuehrer-100.html",
+     "image": "https://images.tagesschau.de/image/0ee6aae7-d404-4265-b65c-b7a69d58cfcb/AAABobHBgfY/AAABnSSvrFg/16x9-big/mackenzie-102.jpg?width=1920",
+     "aggregator": false,
+     "published": "2026-11-06T17:08:10+00:00"
+    },
+    {
+     "source": "tagesschau Ausland",
+     "region": "INT",
+     "weight": 1.0,
+     "title": "Anführer von Hungersekte in Kenia zu 200 Jahren Haft verurteilt.",
+     "summary": "Der selbsternannte kenianische Pastor Mackenzie ist für den Mord an 191 Menschen verurteilt worden. Er soll sie aus angeblich religiösen Gründen zum Todesfasten verleitet haben - die meisten waren Kinder.",
+     "link": "https://www.tagesschau.de/ausland/afrika/kenia-urteil-sektenfuehrer-100.html",
+     "image": "https://images.tagesschau.de/image/0ee6aae7-d404-4265-b65c-b7a69d58cfcb/AAABobHBgfY/AAABnSSvrFg/16x9-big/mackenzie-102.jpg?width=1920",
+     "aggregator": false,
+     "published": "2026-11-06T17:08:10+00:00"
+    },
+    {
+     "source": "Deutschlandfunk",
+     "region": "DE",
+     "weight": 0.95,
+     "title": "Afrika - Sektenführer in Kenia zu 200 Jahren Haft verurteilt",
+     "summary": "Der kenianische Sektenführer Mackenzie ist zu insgesamt 200 Jahren Gefängnis verurteilt worden.",
+     "link": "https://www.deutschlandfunk.de/sektenfuehrer-in-kenia-zu-200-jahren-haft-verurteilt-100.html",
+     "image": "https://bilder.deutschlandfunk.de/1c/27/3b/7e/1c273b7e-e84f-4573-9c25-ba721be1d238/kenia-sektenfuehrer-paul-mackenzie-schuldspruch-gericht-toetung-100-1920x1920.jpg",
+     "aggregator": false,
+     "published": "2026-11-06T18:05:35+00:00"
+    },
+    {
+     "source": "SRF News",
+     "region": "CH",
+     "weight": 0.95,
+     "title": "Fasten bis zum Tod – Sektenführer in Kenia wegen Mordes an 190 Kindern verurteilt",
+     "summary": "Ein Gericht hat den Sektenführer zu 200 Jahren Haft verurteilt. 190 Kinder sollen auf seinen Befehl hin verhungert sein.",
+     "link": "https://www.srf.ch/news/international/fasten-bis-zum-tod-sektenfuehrer-in-kenia-wegen-mordes-an-190-kindern-verurteilt",
+     "image": "https://www.srf.ch/static/cms/images//320ws/7df423.webp",
+     "aggregator": false,
+     "published": "2026-11-06T14:37:13+00:00"
+    },
+    {
+     "source": "SPIEGEL",
+     "region": "DE",
+     "weight": 0.9,
+     "title": "Kenia: Sektenführer Paul Mackenzie zu 200 Jahren Haft verurteilt",
+     "summary": "Seinen Anhängern predigte Paul Mackenzie, Leiden und Sterben seien der einzige Weg zu Jesus. Fast 200 Menschen starben, viele verhungerten, darunter auch Neugeborene und Kleinkinder. Reue zeigte er offenbar nicht.",
+     "link": "https://www.spiegel.de/politik/deutschland/kenia-sektenfuehrer-paul-mackenzie-zu-200-jahren-haft-verurteilt-a-b20e6eef-cbf8-4edc-a7a0-19e48cdfdcc8#ref=rss",
+     "image": "https://cdn.prod.www.spiegel.de/images/ea5f26d8-1f72-4a65-8f67-5e0dc767d1c3_w520_r2.08_fpx33.32_fpy49.98.jpg",
+     "aggregator": false,
+     "published": "2026-11-06T16:51:00+00:00"
+    },
+    {
+     "source": "NZZ",
+     "region": "CH",
+     "weight": 0.9,
+     "title": "In Kenya hungerten über 400 Menschen zu Tode. Ihr Pastor wollte es so. Nun ist er zu 200 Jahren Haft verurteilt worden",
+     "summary": "Paul Mackenzie war einst Taxifahrer in einem kenyanischen Touristenort. Dann gründete er eine Kirche, die 2023 für eines der schlimmsten Sektenmassaker verantwortlich war.",
+     "link": "https://www.nzz.ch/panorama/kenya-pastor-verurteilt-nach-sektenmassaker-im-shakahola-wald-ld.10039076",
+     "image": "https://img-msp-prod.nzz.ch/2026/10/20/bf0b13d5-8d3a-4a79-a56f-f8698639e6d7.jpg?width=200&height=200&fit=bounds&quality=75&auto=webp&crop=2666,2666,x360,y0",
+     "aggregator": false,
+     "published": "2026-11-06T15:27:20+00:00"
+    },
+    {
+     "source": "DER STANDARD",
+     "region": "AT",
+     "weight": 0.85,
+     "title": "Sektenführer in Kenia wegen Mordes an 190 Kindern zu 200 Jahren Haft verurteilt",
+     "summary": "Der selbsternannte Prediger hatte Anhängern eingeredet, dass sie durch Fasten bis zum Tod zu Jesus gelangen können. Ermittler entdeckten zahlreiche Massengräber",
+     "link": "https://www.derstandard.at/story/3000000347910/sektenfuehrer-in-kenia-wegen-mordes-an-190-kindern-zu-200-jahren-haft-verurteilt?ref=rss",
+     "image": "https://i.ds.at/CUzyrg/rs:fill:150:0/plain/lido-images/2026/11/06/207df2b7-a994-4b13-a2a6-3617210918d6.jpg",
+     "aggregator": false,
+     "published": "2026-11-06T12:48:15+00:00"
+    }
+   ]
+  },
+  {
+   "id": 1,
+   "score": 14.68,
+   "outlets": [
+    "tagesschau",
+    "Deutsche Welle",
+    "Deutschlandfunk",
+    "Handelsblatt",
+    "n-tv"
+   ],
+   "regions": [
+    "DE",
+    "INT"
+   ],
+   "trend": [
+    "\"Gefragt – Gejagt\" trifft auf \"Wer weiß denn sowas?\": Warum die heutigen Gäste für besondere Spannung sorgen"
+   ],
+   "newest": "2026-11-06T18:05:35+00:00",
+   "articles": [
+    {
+     "source": "tagesschau",
+     "region": "DE",
+     "weight": 1.0,
+     "title": "Trump trifft Kreml-Vertreter und stellt Abkommen in Aussicht",
+     "summary": "Sowohl Vertreter Russlands als auch der Ukraine waren jetzt zu Gast im Weißen Haus. Doch den US-Präsidenten persönlich durfte nur der Kreml-Gesandte treffen. Anschließend kündigte Trump einen möglichen Deal an, nannte aber keine Details.",
+     "link": "https://www.tagesschau.de/ausland/amerika/trump-ukraine-russland-108.html",
+     "image": "https://images.tagesschau.de/image/8b4fd96d-51df-4799-a080-e7b3d1559804/AAABobAS0U0/AAABnSSvrFg/16x9-big/trump-5428.jpg?width=1920",
+     "aggregator": false,
+     "published": "2026-11-06T06:00:41+00:00"
+    },
+    {
+     "source": "tagesschau Ausland",
+     "region": "INT",
+     "weight": 1.0,
+     "title": "Trump trifft Kreml-Vertreter und stellt Abkommen in Aussicht",
+     "summary": "Sowohl Vertreter Russlands als auch der Ukraine waren jetzt zu Gast im Weißen Haus. Doch den US-Präsidenten persönlich durfte nur der Kreml-Gesandte treffen. Anschließend kündigte Trump einen möglichen Deal an, nannte aber keine Details.",
+     "link": "https://www.tagesschau.de/ausland/amerika/trump-ukraine-russland-108.html",
+     "image": "https://images.tagesschau.de/image/8b4fd96d-51df-4799-a080-e7b3d1559804/AAABobAS0U0/AAABnSSvrFg/16x9-big/trump-5428.jpg?width=1920",
+     "aggregator": false,
+     "published": "2026-11-06T06:00:41+00:00"
+    },
+    {
+     "source": "Deutsche Welle",
+     "region": "INT",
+     "weight": 0.95,
+     "title": "Ukraine: Trump stellt \"sehr großes\" Abkommen mit Russland in Aussicht",
+     "summary": "Der US-Präsident hat in Washington einen Kreml-Berater empfangen. Donald Trumps anschließendes Statement dürfte für Unruhe in der Ukraine und Europa sorgen.",
+     "link": "https://www.dw.com/de/ukraine-trump-stellt-sehr-großes-abkommen-mit-russland-in-aussicht/a-79873159?maca=de-rss-de-all-1119-xml-mrss",
+     "image": "https://static.dw.com/image/79873823_302.jpg",
+     "aggregator": false,
+     "published": "2026-11-06T10:05:00+00:00"
+    },
+    {
+     "source": "Deutschlandfunk",
+     "region": "DE",
+     "weight": 0.95,
+     "title": "Weißes Haus - US-Präsident Trump lässt Oval Office als nationales Denkmal schützen",
+     "summary": "US-Präsident Trump hat das Oval Office und den Kabinettsraum im ‌Weißen Haus zu nationalen Denkmälern erklärt.",
+     "link": "https://www.deutschlandfunk.de/us-praesident-trump-laesst-oval-office-als-nationales-denkmal-schuetzen-100.html",
+     "image": "https://bilder.deutschlandfunk.de/cf/2f/d8/9e/cf2fd89e-9ca9-461c-830c-cd27d4cd5a2e/trump-usa-praesident-100-1920x1920.jpg",
+     "aggregator": false,
+     "published": "2026-11-06T18:05:35+00:00"
+    },
+    {
+     "source": "Handelsblatt",
+     "region": "DE",
+     "weight": 0.9,
+     "title": "USA: Nach Treffen mit russischem Gesandten: Trump stellt Friedensabkommen in Aussicht",
+     "summary": "Der US-Präsident hat sich am Donnerstag mit einem Vertreter des russischen Präsidenten im Weißen Haus getroffen. Genaue Inhalte nannte Trump nicht, sprach jedoch von einer baldigen Einigung zur Beendigung des Ukrainekrieges.",
+     "link": "https://www.handelsblatt.com/video/politik/usa-nach-treffen-mit-russischem-gesandten-trump-stellt-friedensabkommen-in-aussicht/100267888.html",
+     "image": null,
+     "aggregator": false,
+     "published": "2026-11-06T14:38:00+00:00"
+    },
+    {
+     "source": "n-tv",
+     "region": "DE",
+     "weight": 0.8,
+     "title": "Gespräch über \"großes\" Abkommen: Merz hat vergangene Nacht mit Trump telefoniert",
+     "summary": "US-Präsident Trump stellt vor wenigen Stunden ein \"großes\" Abkommen mit Russland in Aussicht. Die Ankündigung folgt auf ein überraschendes Treffen mit einem Kreml-Berater im Weißen Haus. Bleibt Europa außen vor? Der Kanzler telefoniert immerhin mit Trump.",
+     "link": "https://www.n-tv.de/politik/Bundeskanzler-Merz-hat-vergangene-Nacht-mit-US-Praesident-Trump-telefoniert-id31503879.html",
+     "image": "https://www.n-tv.de/img/31503924/1793970410/Img_4_3/250/623430379.jpg",
+     "aggregator": false,
+     "published": "2026-11-06T12:20:02+00:00"
+    }
+   ]
+  },
+  {
+   "id": 2,
+   "score": 13.18,
+   "outlets": [
+    "ZDFheute",
+    "Deutsche Welle",
+    "Deutschlandfunk",
+    "NZZ",
+    "n-tv"
+   ],
+   "regions": [
+    "CH",
+    "DE",
+    "INT"
+   ],
+   "trend": [],
+   "newest": "2026-11-06T18:05:35+00:00",
+   "articles": [
+    {
+     "source": "ZDFheute",
+     "region": "DE",
+     "weight": 1.0,
+     "title": "Boykottgefahr: Bundesregierung sucht Lösung für Eishockey-WM",
+     "summary": "Nach dem Russland-Urteil des CAS bangt der Deutsche Eishockey-Bund um die Ausrichtung der WM 2027. Nun hat sich auch die Bundesregierung eingeschaltet.",
+     "link": "https://www.zdfheute.de/sport/eishockey-wm-russland-bundesregierung-100.html",
+     "image": "https://www.zdfheute.de/assets/eishockey-typical-102~384x216?cb=1793975310469",
+     "aggregator": false,
+     "published": "2026-11-06T16:09:00+00:00"
+    },
+    {
+     "source": "Deutsche Welle",
+     "region": "INT",
+     "weight": 0.95,
+     "title": "Deutschland erwägt Rückgabe der Eishockey-WM 2027 wegen Russland-Teilnahme",
+     "summary": "Nach der Zulassung Russlands durch den CAS zieht der Deutsche Eishockey-Bund eine Rückgabe der WM 2027 in Betracht. Der Verband warnt vor Sicherheitskosten und Visa-Konflikten. Es gibt bereits mehrere Boykottdrohungen.",
+     "link": "https://www.dw.com/de/deutschland-erwägt-rückgabe-der-eishockey-wm-2027-wegen-russland-teilnahme/a-79828606?maca=de-rss-de-all-1119-xml-mrss",
+     "image": "https://static.dw.com/image/79830376_302.jpg",
+     "aggregator": false,
+     "published": "2026-11-02T12:36:00+00:00"
+    },
+    {
+     "source": "Deutschlandfunk",
+     "region": "DE",
+     "weight": 0.95,
+     "title": "Nach CAS-Urteil - Bund sucht nach Lösungen für Eishockey-WM 2027",
+     "summary": "Die Bundesregierung sucht im Konflikt um die geplante Eishockey-Weltmeisterschaft in Deutschland im kommenden Jahr nach Lösungen.",
+     "link": "https://www.deutschlandfunk.de/bund-sucht-nach-loesungen-fuer-eishockey-wm-100.html",
+     "image": "https://bilder.deutschlandfunk.de/78/5c/ab/c9/785cabc9-ab8b-4b01-b182-e6e10b1040e9/eishockey-russland-100-1920x1920.jpg",
+     "aggregator": false,
+     "published": "2026-11-06T18:05:35+00:00"
+    },
+    {
+     "source": "NZZ",
+     "region": "CH",
+     "weight": 0.9,
+     "title": "Die deutsche Regierung sucht eine Lösung für die Eishockey-WM 2027 – ohne Russland",
+     "summary": "Der Deutsche Eishockey-Bund bangt nach dem Urteil des Internationalen Sportgerichtshofes darum, wie es mit der Heim-WM 2027 weitergeht. Die Bundesregierung will dabei helfen.",
+     "link": "https://www.nzz.ch/sport/eishockey/die-deutsche-regierung-sucht-eine-loesung-fuer-die-eishockey-wm-2027-ohne-russland-ld.10056542",
+     "image": "https://img-msp-prod.nzz.ch/2026/10/30/e7155de0-3e8d-437d-a15d-cd7c38ffcb11.jpg?width=200&height=200&fit=bounds&quality=75&auto=webp&crop=2539,2539,x592,y0",
+     "aggregator": false,
+     "published": "2026-11-06T15:10:35+00:00"
+    },
+    {
+     "source": "n-tv",
+     "region": "DE",
+     "weight": 0.8,
+     "title": "Kein Boykott, aber ...: Bundesregierung: Eishockey-WM soll in Deutschland stattfinden - ohne Russland",
+     "summary": "Die Bundesregierung will den Deutschen Eishockey-Bund bei der geplanten Ausrichtung der WM im kommenden Jahr unterstützen. Auch aus Sicht des Bundes ist das nur ohne Russlands Teilnahme realistisch.",
+     "link": "https://www.n-tv.de/sport/Bundesregierung-Eishockey-WM-soll-in-Deutschland-stattfinden-ohne-Russland-id31504364.html",
+     "image": "https://www.n-tv.de/img/31493876/1793900952/Img_4_3/250/image.jpg",
+     "aggregator": false,
+     "published": "2026-11-06T14:08:29+00:00"
+    }
+   ]
+  },
+  {
+   "id": 3,
+   "score": 12.08,
+   "outlets": [
+    "tagesschau",
+    "Deutschlandfunk",
+    "ORF",
+    "DER STANDARD",
+    "tagesschau.de"
+   ],
+   "regions": [
+    "AT",
+    "DE",
+    "INT"
+   ],
+   "trend": [],
+   "newest": "2026-11-06T18:05:35+00:00",
+   "articles": [
+    {
+     "source": "tagesschau",
+     "region": "DE",
+     "weight": 1.0,
+     "title": "Bombendrohungen auch gegen irische Medien",
+     "summary": "Während weiter Flüge wegen Bombendrohungen umgeleitet werden, trifft es nun auch Medien: In Irland mussten Redaktionsgebäude geräumt werden. Es soll einen Zusammenhang geben. Aber wer steckt dahinter? Das bleibt unklar.",
+     "link": "https://www.tagesschau.de/ausland/europa/bombendrohung-oeffentlich-rechtlicher-sender-irland-100.html",
+     "image": "https://images.tagesschau.de/image/d29db17e-c52b-4210-8a01-5420e5ec67e6/AAABobEAuy0/AAABnSSvrFg/16x9-big/beamte-sender-rte-100.jpg?width=1920",
+     "aggregator": false,
+     "published": "2026-11-06T13:49:52+00:00"
+    },
+    {
+     "source": "tagesschau Ausland",
+     "region": "INT",
+     "weight": 1.0,
+     "title": "Bombendrohungen auch gegen irische Medien",
+     "summary": "Während weiter Flüge wegen Bombendrohungen umgeleitet werden, trifft es nun auch Medien: In Irland mussten Redaktionsgebäude geräumt werden. Es soll einen Zusammenhang geben. Aber wer steckt dahinter? Das bleibt unklar.",
+     "link": "https://www.tagesschau.de/ausland/europa/bombendrohung-oeffentlich-rechtlicher-sender-irland-100.html",
+     "image": "https://images.tagesschau.de/image/d29db17e-c52b-4210-8a01-5420e5ec67e6/AAABobEAuy0/AAABnSSvrFg/16x9-big/beamte-sender-rte-100.jpg?width=1920",
+     "aggregator": false,
+     "published": "2026-11-06T13:49:52+00:00"
+    },
+    {
+     "source": "Deutschlandfunk",
+     "region": "DE",
+     "weight": 0.95,
+     "title": "Europa - Bombendrohungen gegen Flüge in Europa weiten sich auf Medien aus",
+     "summary": "Die ‌Serie von Bombendrohungen gegen Passagierflüge ⁠in Europa hat sich ⁠fortgesetzt und auf Medien ausgeweitet.",
+     "link": "https://www.deutschlandfunk.de/bombendrohungen-gegen-fluege-in-europa-weiten-sich-auf-medien-aus-100.html",
+     "image": "https://bilder.deutschlandfunk.de/NO/VA/_d/3f/NOVA_d3ffa859b5a77631a054e8eb6c03a203/craft-13163325-asset-100-1920x1920.jpg",
+     "aggregator": false,
+     "published": "2026-11-06T18:05:35+00:00"
+    },
+    {
+     "source": "ORF",
+     "region": "AT",
+     "weight": 0.95,
+     "title": "Neue Bombendrohungen gegen Flüge in Europa",
+     "summary": "",
+     "link": "https://orf.at/stories/3447424/",
+     "image": null,
+     "aggregator": false,
+     "published": "2026-11-06T11:30:51+00:00"
+    },
+    {
+     "source": "DER STANDARD",
+     "region": "AT",
+     "weight": 0.85,
+     "title": "Sendebetrieb unterbrochen: Büros irischer Medien nach Bombendrohungen geräumt",
+     "summary": "Möglicherweise Zusammenhang mit Droh-E-Mails gegen Flüge",
+     "link": "https://www.derstandard.at/story/3000000347918/sendebetrieb-unterbrochen-bueros-irischer-medien-nach-bombendrohungen-geraeumt?ref=rss",
+     "image": "https://i.ds.at/JH0Nww/rs:fill:150:0/plain/lido-images/2026/11/06/e3fb9943-b7c6-4fd7-a0e5-7e1e5ff6a4de.jpg",
+     "aggregator": false,
+     "published": "2026-11-06T13:13:26+00:00"
+    },
+    {
+     "source": "tagesschau.de",
+     "region": "DE",
+     "weight": 0.6,
+     "title": "Bombendrohungen auch gegen irische Medien",
+     "summary": "Bombendrohungen auch gegen irische Medien tagesschau.de Weitere Schlagzeilen und Meinungen in Google News",
+     "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOQUVsRWIyN2ZNdEVJZE0xdE1wU0gyMy1CRzE1RGdlcTlLSHNteXpESHdXV25CdzhYX3c1THl3WVBNNURiMFhEYU9DOGJXU1Q0NlRMVVZvUjBHcDBzQzdEd2tjWk5mY3VtdTRvcGFod1lCVThDQW1NZjZYRTZaTW9mbFJDSnRuR2tnUXM2d2V4U3RzYzllTEFTU1I3RWNjRmY1aEFN?oc=5",
+     "image": null,
+     "aggregator": true,
+     "published": "2026-11-06T13:49:00+00:00"
+    }
+   ]
+  },
+  {
+   "id": 4,
+   "score": 11.68,
+   "outlets": [
+    "ZDFheute",
+    "Deutsche Welle",
+    "Deutschlandfunk",
+    "SRF News"
+   ],
+   "regions": [
+    "CH",
+    "DE",
+    "INT"
+   ],
+   "trend": [],
+   "newest": "2026-11-06T18:05:35+00:00",
+   "articles": [
+    {
+     "source": "ZDFheute",
+     "region": "DE",
+     "weight": 1.0,
+     "title": "Bankenskandal in Paraguay löst Regierungskrise aus",
+     "summary": "Die Insolvenz einer Digitalbank sorgt in Paraguay für eine Krise. Während Millionen Bürger um ihr Erspartes fürchten und demonstrieren, wurde Präsident Peñas Rücktritt abgelehnt.",
+     "link": "https://www.zdfheute.de/politik/ausland/paraguay-bankenskandal-krise-regierung-100.html",
+     "image": "https://www.zdfheute.de/assets/paraguay-proteste-zusammenbruch-ueno-bank-100~384x216?cb=1793956565087",
+     "aggregator": false,
+     "published": "2026-11-06T11:54:00+00:00"
+    },
+    {
+     "source": "Deutsche Welle",
+     "region": "INT",
+     "weight": 0.95,
+     "title": "Paraguay: Präsident droht Amtsenthebung nach Bankenskandal",
+     "summary": "Millionen Menschen fürchten um ihre Ersparnisse, der Druck auf Paraguays Staatschef wächst. Sein Rücktrittsgesuch scheiterte im Parlament. Nun muss sich Santiago Peña einem Amtsenthebungsverfahren stellen.",
+     "link": "https://www.dw.com/de/paraguay-präsident-droht-amtsenthebung-nach-bankenskandal/a-79873533?maca=de-rss-de-all-1119-xml-mrss",
+     "image": "https://static.dw.com/image/79873615_302.jpg",
+     "aggregator": false,
+     "published": "2026-11-06T10:43:00+00:00"
+    },
+    {
+     "source": "Deutschlandfunk",
+     "region": "DE",
+     "weight": 0.95,
+     "title": "Regierungskrise in Paraguay - Senat entscheidet über Amtsenthebung von Präsident Peña",
+     "summary": "Ein Bankenskandal hat Paraguay in eine Regierungskrise gestürzt.",
+     "link": "https://www.deutschlandfunk.de/senat-entscheidet-ueber-amtsenthebung-von-praesident-pe-a-102.html",
+     "image": "https://bilder.deutschlandfunk.de/b8/ef/5a/a7/b8ef5aa7-27df-49af-b039-14b70977a105/paraguay-santiago-pena-ruecktritt-praesident-100-1920x1920.jpg",
+     "aggregator": false,
+     "published": "2026-11-06T18:05:35+00:00"
+    },
+    {
+     "source": "SRF News",
+     "region": "CH",
+     "weight": 0.95,
+     "title": "Krise nach Bankenskandal – Rücktritt gescheitert: Paraguays Präsident droht Amtsenthebung",
+     "summary": "Millionen Sparer bangen um ihr Geld, während Paraguay in eine politische Krise rutscht. Der Überblick.",
+     "link": "https://www.srf.ch/news/international/krise-nach-bankenskandal-ruecktritt-gescheitert-paraguays-praesident-droht-amtsenthebung",
+     "image": "https://www.srf.ch/static/cms/images//320ws/0324e4.webp",
+     "aggregator": false,
+     "published": "2026-11-06T11:23:27+00:00"
+    }
+   ]
+  },
+  {
+   "id": 5,
+   "score": 11.17,
+   "outlets": [
+    "tagesschau",
+    "SPIEGEL",
+    "Süddeutsche",
+    "n-tv",
+    "BILD"
+   ],
+   "regions": [
+    "DE"
+   ],
+   "trend": [],
+   "newest": "2026-11-06T16:16:00+00:00",
+   "articles": [
+    {
+     "source": "tagesschau",
+     "region": "DE",
+     "weight": 1.0,
+     "title": "Prozessauftakt gegen Reichsbürger: \"König von Deutschland\" vor Gericht",
+     "summary": "Das \"Königreich Deutschland\" ist seit Mai 2025 verboten. Vier mutmaßliche Reichsbürger, darunter \"König\" Peter Fitzek, stehen ab heute vor Gericht - wegen Bildung einer kriminellen Vereinigung und Steuerhinterziehung.",
+     "link": "https://www.tagesschau.de/inland/regional/nordrheinwestfalen/wdr-prozessauftakt-in-duesseldorf-koenig-von-deutschland-vor-gericht-100.html",
+     "image": "https://images.tagesschau.de/image/22c4538a-0d84-4dad-ba17-0a85b92396d4/AAABobCXkS4/AAABnSSvrFg/16x9-big/endzeit-buch-fitzek-100.jpg?width=1920",
+     "aggregator": false,
+     "published": "2026-11-06T16:16:00+00:00"
+    },
+    {
+     "source": "SPIEGEL",
+     "region": "DE",
+     "weight": 0.9,
+     "title": "»Königreich Deutschland«: Prozessauftakt gegen Fantasiekönig Peter Fitzek",
+     "summary": "Er nannte sich König, die Untertanen zahlten. Nun sitzt Peter Fitzek vor dem Oberlandesgericht Düsseldorf. Dort stellt sich die Frage, was das »Königreich Deutschland« war: Geschäftsmodell oder staatsfeindlicher Wahn?",
+     "link": "https://www.spiegel.de/panorama/koenigreich-deutschland-prozessauftakt-gegen-fantasiekoenig-peter-fitzek-a-c05b15ad-54e3-4101-80ca-4c266d52d38c#ref=rss",
+     "image": "https://cdn.prod.www.spiegel.de/images/912aa112-1c2c-4438-905f-babe46087a29_w520_r2.08_fpx72_fpy47.jpg",
+     "aggregator": false,
+     "published": "2026-11-06T15:58:00+00:00"
+    },
+    {
+     "source": "Süddeutsche",
+     "region": "DE",
+     "weight": 0.9,
+     "title": "„Reichsbürger“-Prozess: Steht ein König vor Gericht",
+     "summary": "Jahrelang hat Peter Fitzek mitten in Deutschland einen Fantasiestaat aufgebaut, mit eigener Währung, Bank und Versicherung. Mit ihm als Oberhaupt. Jetzt sitzt er auf der Anklagebank in Düsseldorf.",
+     "link": "https://www.sueddeutsche.de/politik/koenig-von-deutschland-fitzek-prozess-reichsbuerger-li.3573849",
+     "image": "https://www.sueddeutsche.de/2026/11/06/82017510-1a5a-43cc-ab55-ec1b86976004.jpg?rect=126%2C0%2C3248%2C2436&width=1000&fm=jpg&q=60",
+     "aggregator": false,
+     "published": "2026-11-06T13:36:33+00:00"
+    },
+    {
+     "source": "n-tv",
+     "region": "DE",
+     "weight": 0.8,
+     "title": "Fitzek vor Gericht: Reichsbürger-Prozess gegen \"König von Deutschland\" beginnt",
+     "summary": "Bis zu dem Verbot des Pseudostaates sollen Angehörige des \"Königreiches Deutschlands\" zahlreiche Straftaten begangen haben, um die Legitimität der Bundesrepublik zu untergraben. Dazu gehören laut Anklage Steuerdelikte und Urkundenfälschung. In Düsseldorf stehen nun vier Anführer der Gruppierung vor Gericht.",
+     "link": "https://www.n-tv.de/politik/Reichsbuerger-Prozess-gegen-Koenig-von-Deutschland-beginnt-id31504275.html",
+     "image": "https://www.n-tv.de/img/31504293/1793974764/Img_4_3/250/image.jpg",
+     "aggregator": false,
+     "published": "2026-11-06T14:16:13+00:00"
+    },
+    {
+     "source": "BILD",
+     "region": "DE",
+     "weight": 0.6,
+     "title": "„Reichsbürger-König“ kommt mit Müllsack ins Gericht",
+     "summary": "„Reichsbürger-König“ kommt mit Müllsack ins Gericht BILD \"König von Deutschland\" vor Gericht tagesschau.de Fitzek vor Gericht: Reichsbürger-Prozess gegen \"König von Deutschland\" beginnt n-tv.de Reichsbürgerprozess in Düsseldorf: Königliche Audienz im Gerichtssaal taz.de Prozess gegen \"Reichsbürger\": \"König von Deutschland\" vor Gericht - Politik - SZ.de SZ.de",
+     "link": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxPMzNwMk82VU9DZ2dEZGNOMzN5RkdqRUtVc3dLZnM4a0lQSktRZnZkUzJZT0xEaW54R2dubTFOdlFtXzJvSWxOUkNMMTFHTHN4SU9NU29XMk4zWGI4TE1leWJCY2Vjd0NkbDBDYmd4WEVqVnNfVW91cE1MaDdmRzN2cVV2cm1Pd3lkd3RXMXBLbE9XMnhzWWNWaWxYZDgtaVVXMDFjVTc3SVhiWTl0N0prcmpPVVo2b1MzUFVKMVBnT3A1c3ZTaldLakNPSVJMNXIxbnV5NVRHNGMyTDM0a21HaUQzY1FqX1FXMVZLeVJB?oc=5",
+     "image": null,
+     "aggregator": true,
+     "published": "2026-11-06T13:10:29+00:00"
+    }
+   ]
+  },
+  {
+   "id": 6,
+   "score": 11.12,
+   "outlets": [
+    "tagesschau",
+    "Handelsblatt",
+    "heise online",
+    "DER STANDARD"
+   ],
+   "regions": [
+    "AT",
+    "DE"
+   ],
+   "trend": [],
+   "newest": "2026-11-06T17:53:55+00:00",
+   "articles": [
+    {
+     "source": "tagesschau",
+     "region": "DE",
+     "weight": 1.0,
+     "title": "Tesla will Cybertruck-Produktion in Texas einstellen",
+     "summary": "Der Cybertruck sollte Teslas Antwort auf die beliebten US-Pickups sein. Doch das Elektroauto blieb hinter den Erwartungen zurück. Nun will Elon Musk die Produktion in Texas beenden und Platz für ein anderes Produkt schaffen.",
+     "link": "https://www.tagesschau.de/wirtschaft/unternehmen/tesla-produktion-cybertruck-100.html",
+     "image": "https://images.tagesschau.de/image/0e57ec04-bb0e-43a1-9ba3-42722e87581d/AAABobC8AqE/AAABnSSvrFg/16x9-big/tesla-cybertruck-106.jpg?width=1920",
+     "aggregator": false,
+     "published": "2026-11-06T13:09:10+00:00"
+    },
+    {
+     "source": "tagesschau Wirtschaft",
+     "region": "DE",
+     "weight": 1.0,
+     "title": "Tesla will Cybertruck-Produktion in Texas einstellen",
+     "summary": "Der Cybertruck sollte Teslas Antwort auf die beliebten US-Pickups sein. Doch das Elektroauto blieb hinter den Erwartungen zurück. Nun will Elon Musk die Produktion in Texas beenden und Platz für ein anderes Produkt schaffen.",
+     "link": "https://www.tagesschau.de/wirtschaft/unternehmen/tesla-produktion-cybertruck-100.html",
+     "image": "https://images.tagesschau.de/image/0e57ec04-bb0e-43a1-9ba3-42722e87581d/AAABobC8AqE/AAABnSSvrFg/16x9-big/tesla-cybertruck-106.jpg?width=1920",
+     "aggregator": false,
+     "published": "2026-11-06T13:09:10+00:00"
+    },
+    {
+     "source": "Handelsblatt",
+     "region": "DE",
+     "weight": 0.9,
+     "title": "Futuristischer Flop: Musk kündigt Ende von Cybertruck-Produktion in Texas an",
+     "summary": "Teslas Cybertruck wurde als Auto der Zukunft präsentiert, war aber ein Flop bei den Verkaufszahlen. Jetzt stellt Firmenchef Elon Musk das Ende der Produktion in Texas in Aussicht.",
+     "link": "https://www.handelsblatt.com/technik/it-internet/futuristischer-flop-musk-kuendigt-ende-von-cybertruck-produktion-in-texas-an/100268001.html",
+     "image": "https://images.handelsblatt.com/gUKFIKmkJs7L/cover/900/506/0/0/107/106/0.5/0.5/cybertrucks-von-tesla.jpg",
+     "aggregator": false,
+     "published": "2026-11-06T17:53:55+00:00"
+    },
+    {
+     "source": "heise online",
+     "region": "DE",
+     "weight": 0.85,
+     "title": "Tesla stellt Cybertruck-Produktion in Texas ein",
+     "summary": "Tesla beendet die Produktion seines erfolglosen Cybertrucks in Texas. Die frei werdenden Kapazitäten sollen zur Produktion des Cybercab genutzt werden.",
+     "link": "https://www.heise.de/news/Tesla-stellt-Cybertruck-Produktion-in-Texas-ein-11515652.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
+     "image": null,
+     "aggregator": false,
+     "published": "2026-11-06T13:43:00+00:00"
+    },
+    {
+     "source": "DER STANDARD",
+     "region": "AT",
+     "weight": 0.85,
+     "title": "Musk kündigt an: Der Cybertruck muss gehen. Ein Nachruf auf den Autoflop",
+     "summary": "Der Elektro-Pick-up blieb weit unter seinen Erwartungen und soll in der Gigafactory in Texas Platz machen für das neue heiße Eisen: den Cybercab",
+     "link": "https://www.derstandard.at/story/3000000347825/musk-kuendigt-an-der-cybertruck-muss-gehen-ein-nachruf-auf-den-autoflop?ref=rss",
+     "image": "https://i.ds.at/WnbaSg/rs:fill:150:0/plain/lido-images/2026/10/21/94fdd639-456a-4c95-82a6-1e8f77f796a8.jpg",
+     "aggregator": false,
+     "published": "2026-11-06T12:10:52+00:00"
+    }
+   ]
+  },
+  {
+   "id": 7,
+   "score": 10.8,
+   "outlets": [
+    "tagesschau",
+    "ZEIT ONLINE",
+    "DER STANDARD",
+    "n-tv"
+   ],
+   "regions": [
+    "AT",
+    "DE"
+   ],
+   "trend": [],
+   "newest": "2026-11-06T17:15:35+00:00",
+   "articles": [
+    {
+     "source": "tagesschau",
+     "region": "DE",
+     "weight": 1.0,
+     "title": "Kleinflugzeug auf A2 abgestürzt - zwei Tote",
+     "summary": "Auf der A2 im Nordosten von Magdeburg ist ein kleines Flugzeug verunglückt. Polizei und Rettungskräfte sind im Einsatz. Die zwei Insassen wurden tot geborgen.",
+     "link": "https://www.tagesschau.de/inland/regional/sachsenanhalt/polizei-feuerwehr-einsatz,a-zwei-flugzeug-100.html",
+     "image": "https://images.mdr.de/image/3b484e8a-2e10-4df4-b3b5-07912a767e73/AAABobHvH_w/AAABnSSvrFg/16x9-big/a-zwei-flugzeug-102.jpg?width=1920",
+     "aggregator": false,
+     "published": "2026-11-06T17:15:35+00:00"
+    },
+    {
+     "source": "ZEIT ONLINE",
+     "region": "DE",
+     "weight": 0.9,
+     "title": "Notfälle: Kleinflugzeug auf A2 abgestürzt - zwei Tote",
+     "summary": "",
+     "link": "https://www.zeit.de/news/2026-11/06/kleines-flugzeug-auf-a2-verunglueckt",
+     "image": "https://img.zeit.de/news/2026-11/06/kleines-flugzeug-auf-a2-verunglueckt-image-group/original__640x360",
+     "aggregator": false,
+     "published": "2026-11-06T17:12:57+00:00"
+    },
+    {
+     "source": "DER STANDARD",
+     "region": "AT",
+     "weight": 0.85,
+     "title": "Flugzeug krachte auf Autobahn in Sachsen-Anhalt",
+     "summary": "Die Ursache für den Absturz des Kleinflugzeugs ist noch unbekannt. Die zwei Insassen starben",
+     "link": "https://www.derstandard.at/story/3000000347947/flugzeug-krachte-auf-autobahn-in-sachsen-anhalt?ref=rss",
+     "image": "https://i.ds.at/qup2ww/rs:fill:150:0/plain/lido-images/2026/08/06/cfe5d9b5-6766-4ea9-98d6-9249d623be0b.jpg",
+     "aggregator": false,
+     "published": "2026-11-06T16:27:13+00:00"
+    },
+    {
+     "source": "n-tv",
+     "region": "DE",
+     "weight": 0.8,
+     "title": "Nordöstlich von Magdeburg: Kleinflugzeug stürzt auf A2 ab - zwei Menschen sterben",
+     "summary": "Ein kleines Flugzeug ist auf der Autobahn 2 nordöstlich von Magdeburg verunglückt. Zwei Insassen konnten nur noch tot geborgen werden. Fotos und Videos in den sozialen Medien zeigen das brennende Flugzeug.",
+     "link": "https://www.n-tv.de/panorama/Kleinflugzeug-stuerzt-auf-A2-ab-zwei-Menschen-sterben-id31505072.html",
+     "image": "https://www.n-tv.de/img/31505182/1793983881/Img_4_3/250/Screenshot 2026-11-06 165100.jpg",
+     "aggregator": false,
+     "published": "2026-11-06T15:38:08+00:00"
+    }
+   ]
+  },
+  {
+   "id": 8,
+   "score": 10.37,
+   "outlets": [
+    "ZDFheute",
+    "SRF News",
+    "DER STANDARD",
+    "n-tv"
+   ],
+   "regions": [
+    "AT",
+    "CH",
+    "DE"
+   ],
+   "trend": [],
+   "newest": "2026-11-06T15:40:00+00:00",
+   "articles": [
+    {
+     "source": "ZDFheute",
+     "region": "DE",
+     "weight": 1.0,
+     "title": "Maybrit Illner: Kann ein Deal mit Putin ihn noch retten?",
+     "summary": "Nach der Niederlage der Republikaner bei den Midterms gsteht Trump unter Druck. Bei \"Maybrit Illner\" wird diskutiert, ob er einen Deal mit Putin anstrebt und was das bedeutet.",
+     "link": "https://www.zdfheute.de/video/politik-illner-trump-midterms-100.html",
+     "image": "https://www.zdfheute.de/assets/iilner--trump-niederlage-midterms-100~384x216?cb=1793979697820",
+     "aggregator": false,
+     "published": "2026-11-06T15:40:00+00:00"
+    },
+    {
+     "source": "SRF News",
+     "region": "CH",
+     "weight": 0.95,
+     "title": "Midterms 2026 – Republikaner debattieren über Zukunft ohne Trump",
+     "summary": "Die Republikaner haben nach der Niederlage bei den Midterms eine Debatte über ihre künftige Ausrichtung begonnen.",
+     "link": "https://www.srf.ch/news/international/midterms-2026-republikaner-debattieren-ueber-zukunft-ohne-trump",
+     "image": "https://www.srf.ch/static/cms/images//320ws/ef7983.webp",
+     "aggregator": false,
+     "published": "2026-11-06T14:22:31+00:00"
+    },
+    {
+     "source": "DER STANDARD",
+     "region": "AT",
+     "weight": 0.85,
+     "title": "Arc de Trump",
+     "summary": "Nach der Niederlage bei den Midterms gibt sich Donald Trump weiter als gigantomanischer Bauherr",
+     "link": "https://www.derstandard.at/story/3000000347601/arc-de-trump?ref=rss",
+     "image": "https://i.ds.at/ZK-Pzw/rs:fill:150:0/plain/lido-images/2026/11/05/b66fff31-0aab-4b62-a9b0-f43d89ff5de5.jpg",
+     "aggregator": false,
+     "published": "2026-11-05T09:42:01+00:00"
+    },
+    {
+     "source": "n-tv",
+     "region": "DE",
+     "weight": 0.8,
+     "title": "Goldener Fallschirm für Hegseth?: Trumps \"Kriegsminister\" sitzt auf dem Schleudersitz - und reagiert mit Kampfansage",
+     "summary": "Verteidigungsminister Hegseth steht nach den Midterms in den USA unter Druck. Sowohl die Demokraten als auch einzelne Republikaner fordern eine Neuaufstellung des Pentagon. Doch der attackierte \"Kriegsminister\" gibt nicht klein bei.",
+     "link": "https://www.n-tv.de/politik/Trumps-Kriegsminister-sitzt-auf-dem-Schleudersitz-und-reagiert-mit-Kampfansage-id31504560.html",
+     "image": "https://www.n-tv.de/img/31504127/1793972857/Img_4_3/250/626949460.jpg",
+     "aggregator": false,
+     "published": "2026-11-06T14:22:02+00:00"
+    }
+   ]
+  },
+  {
+   "id": 9,
+   "score": 9.88,
+   "outlets": [
+    "tagesschau",
+    "ZDFheute",
+    "Deutschlandfunk"
+   ],
+   "regions": [
+    "DE"
+   ],
+   "trend": [],
+   "newest": "2026-11-06T18:05:35+00:00",
+   "articles": [
+    {
+     "source": "tagesschau",
+     "region": "DE",
+     "weight": 1.0,
+     "title": "EU-Dienst Copernicus: 1,5-Grad-Marke wird 2026 wohl überschritten",
+     "summary": "Kurz vor der Klimakonferenz COP31 in Antalya gibt es ernüchternde Zahlen: Das 1,5-Grad-Ziel wird 2026 laut EU-Dienst Copernicus höchstwahrscheinlich überschritten. Der Oktober war zudem der wärmste seit Beginn der Aufzeichnungen.",
+     "link": "https://www.tagesschau.de/wissen/klima/copernicus-klimakrise-1komma5-grad-100.html",
+     "image": "https://images.tagesschau.de/image/f4bebb41-025e-4f86-a438-8a0981db65af/AAABobE1LXo/AAABnSSvrFg/16x9-big/hitze-852.jpg?width=1920",
+     "aggregator": false,
+     "published": "2026-11-06T13:02:07+00:00"
+    },
+    {
+     "source": "ZDFheute",
+     "region": "DE",
+     "weight": 1.0,
+     "title": "Copernicus: 2026 wird 1,5-Grad-Marke wohl überschreiten",
+     "summary": "Eigentlich sollte die Erderwärmung den Wert von 1,5 Grad im Vergleich zur vorindustriellen Zeit nicht überschreiten. Dieses Jahr wird das aber wahrscheinlich - erneut - passieren.",
+     "link": "https://www.zdfheute.de/wissen/klimawandel-klima-ziel-hitze-copernicus-vereinte-nationen-100.html",
+     "image": "https://www.zdfheute.de/assets/trockenheit-in-ungarn-100~384x216?cb=1793974861953",
+     "aggregator": false,
+     "published": "2026-11-06T16:30:00+00:00"
+    },
+    {
+     "source": "Deutschlandfunk",
+     "region": "DE",
+     "weight": 0.95,
+     "title": "Wärmster Oktober der Messgeschichte - Copernicus: 1,5-Grad-Marke wird 2026 wohl erneut überschritten",
+     "summary": "Die weltweite Durchschnittstemperatur wird in diesem Jahr voraussichtlich zum zweiten Mal nach 2024 mehr als 1,5 Grad über dem vorindustriellen Niveau liegen. Das erwartet der EU-Klimadienst Copernicus. Auch der Oktober war weltweit so warm wie nie zuvor seit Beginn der Wetteraufzeichnungen.",
+     "link": "https://www.deutschlandfunk.de/copernicus-1-5-grad-marke-wird-2026-wohl-erneut-ueberschritten-100.html",
+     "image": "https://bilder.deutschlandfunk.de/94/0e/09/ff/940e09ff-c2d4-4d73-98f5-6bfc78189a86/klimawandel-132-1920x1920.jpg",
+     "aggregator": false,
+     "published": "2026-11-06T18:05:35+00:00"
+    }
+   ]
+  },
+  {
+   "id": 10,
+   "score": 9.68,
+   "outlets": [
+    "Deutschlandfunk",
+    "WELT",
+    "n-tv"
+   ],
+   "regions": [
+    "DE"
+   ],
+   "trend": [],
+   "newest": "2026-11-06T18:05:35+00:00",
+   "articles": [
+    {
+     "source": "Deutschlandfunk",
+     "region": "DE",
+     "weight": 0.95,
+     "title": "Sachsen-Anhalt - AfD-Politiker Siegmund schließt mehrere Wahlgänge nicht mehr aus",
+     "summary": "Der AfD-Politiker Siegmund schließt entgegen früheren Aussagen nicht mehr aus, bei der Ministerpräsidentenwahl in Sachsen-Anhalt auch in einem zweiten oder dritten Wahlgang anzutreten.",
+     "link": "https://www.deutschlandfunk.de/afd-politiker-siegmund-schliesst-mehrere-wahlgaenge-nicht-mehr-aus-100.html",
+     "image": "https://bilder.deutschlandfunk.de/fd/df/6b/47/fddf6b47-1eb6-4a43-9e14-386ef8fa59ad/ulrich-siegmund-afd-104-1920x1920.jpg",
+     "aggregator": false,
+     "published": "2026-11-06T18:05:35+00:00"
+    },
+    {
+     "source": "WELT",
+     "region": "DE",
+     "weight": 0.8,
+     "title": "„Umstand, den ich bewerten muss“ – Siegmund schließt mehrere Wahlgänge nicht mehr aus",
+     "summary": "Weil die CDU bei der Ministerpräsidentenwahl in Sachsen-Anhalt angekündigt hat, den Saal zu verlassen, will Ulrich Siegmund „die Gemengelage neu bewerten“. Entscheidend sei für den AfD-Politiker, dass er seine Glaubwürdigkeit nicht verliert.",
+     "link": "https://www.welt.de/politik/deutschland/article6aedf9e6320931eb80f5c9a8/ministerpraesidentenwahl-umstand-den-ich-bewerten-muss-siegmund-schliesst-mehrere-wahlgaenge-nicht-mehr-aus.html",
+     "image": "https://images.welt.de/6aedf9e6320931eb80f5c9a8/40e097204503deaca2df97dd24d6a8c5-master/ci23x11-w1200/617506657-jpg",
+     "aggregator": false,
+     "published": "2026-11-06T17:08:50+00:00"
+    },
+    {
+     "source": "n-tv",
+     "region": "DE",
+     "weight": 0.8,
+     "title": "\"Gemengelage neu bewerten\"?: AfD-Kandidat Siegmund erwägt nun doch mehrere Wahlgänge",
+     "summary": "Bei der Ministerpräsidentenwahl in Magdeburg wollte der AfD-Politiker Siegmund zunächst nur in einem Wahlgang antreten. Nachdem die CDU ihren Kurs abgesteckt hat, lässt er weitere Versuche nun offen. Es könnte jemand anderes im dritten Wahlgang antreten.",
+     "link": "https://www.n-tv.de/politik/AfD-Kandidat-Siegmund-erwaegt-nun-doch-mehrere-Wahlgaenge-id31505282.html",
+     "image": "https://www.n-tv.de/img/31419116/1793987013/Img_4_3/250/625225831.jpg",
+     "aggregator": false,
+     "published": "2026-11-06T17:34:31+00:00"
+    },
+    {
+     "source": "WELT",
+     "region": "DE",
+     "weight": 0.6,
+     "title": "„Umstand, den ich bewerten muss“ – Siegmund schließt mehrere Wahlgänge nicht mehr aus",
+     "summary": "„Umstand, den ich bewerten muss“ – Siegmund schließt mehrere Wahlgänge nicht mehr aus WELT Ulrich Siegmund: Siegmund würde bei Ministerpräsidentenwahl doch mehrfach antreten DIE ZEIT Sachsen-Anhalt - AfD-Politiker Siegmund schließt mehrere Wahlgänge nicht mehr aus Deutschlandfunk Sachsen-Anhalt: Linke-Fraktionschefin Eva von Angern will Ministerpräsidentin werden Volksstimme „Die Mehrheiten können auch von der AfD kommen“ WELT",
+     "link": "https://news.google.com/rss/articles/CBMikgJBVV95cUxQZXJKbl9hb1VvanNYTXhkYlU3OF9RUmFmVVhQd2xFMFlEUWhDYm5OQmlUQU9aRDNLUVJWU1JSM240RkM3aXZxZ3Rkcmw0Uk5KQ2YzaWpVV19qUDdEWW5mZGxnd1k3MWxhSHUxRmtPeFc1THlaVkdzVndVOHlJMkV6OHl4bVY0U3BLcm5HdVpXWm1wZWpQX2NlaDJKTmpKZ1hobWI1aVE2QU5NWkh6WG9wc1VQREpadXJ5Z2NXVzJ4amVyWEFYZmtBOWd6ZTcyRDlubkppdlJZR0gtSjF1S0N3SUlhTWYydldUY3U3dTFDLUs5UmFjMXd5U0pRN2s2LWI1VnA3aDM5el8tWkJNSlQ2OWJ3?oc=5",
+     "image": null,
+     "aggregator": true,
+     "published": "2026-11-06T17:09:45+00:00"
+    }
+   ]
+  },
+  {
+   "id": 11,
+   "score": 9.68,
+   "outlets": [
+    "tagesschau",
+    "ZDFheute",
+    "Handelsblatt"
+   ],
+   "regions": [
+    "DE",
+    "INT"
+   ],
+   "trend": [],
+   "newest": "2026-11-06T17:46:51+00:00",
+   "articles": [
+    {
+     "source": "tagesschau",
+     "region": "DE",
+     "weight": 1.0,
+     "title": "Verhaltene Reaktionen auf Trumps Ankündigung eines Ukraine-Abkommens",
+     "summary": "Nach einem Treffen mit Kreml-Unterhändler Dmitrijew kündigte US-Präsident Trump ein \"großes\" Ukraine-Abkommen an. Alle würden begeistert sein, behauptete er. Doch Moskau und Brüssel dämpfen die Erwartungen.",
+     "link": "https://www.tagesschau.de/ausland/amerika/trump-ukraine-reaktionen-100.html",
+     "image": "https://images.tagesschau.de/image/f1e87fc9-03d2-4e6d-8446-01b16e2ce7e5/AAABobH4baM/AAABnSSvrFg/16x9-big/trump-5432.jpg?width=1920",
+     "aggregator": false,
+     "published": "2026-11-06T17:46:51+00:00"
+    },
+    {
+     "source": "tagesschau Ausland",
+     "region": "INT",
+     "weight": 1.0,
+     "title": "Verhaltene Reaktionen auf Trumps Ankündigung eines Ukraine-Abkommens",
+     "summary": "Nach einem Treffen mit Kreml-Unterhändler Dmitrijew kündigte US-Präsident Trump ein \"großes\" Ukraine-Abkommen an. Alle würden begeistert sein, behauptete er. Doch Moskau und Brüssel dämpfen die Erwartungen.",
+     "link": "https://www.tagesschau.de/ausland/amerika/trump-ukraine-reaktionen-100.html",
+     "image": "https://images.tagesschau.de/image/f1e87fc9-03d2-4e6d-8446-01b16e2ce7e5/AAABobH4baM/AAABnSSvrFg/16x9-big/trump-5432.jpg?width=1920",
+     "aggregator": false,
+     "published": "2026-11-06T17:46:51+00:00"
+    },
+    {
+     "source": "ZDFheute",
+     "region": "DE",
+     "weight": 1.0,
+     "title": "Donald Trump kündigt \"großes Abkommen\" mit Russland an",
+     "summary": "US-Präsident Trump kündigt nach einem Treffen mit einem russischen Unterhändler ein Abkommen zum Ukraine-Krieg an. Es könne ganz Europa betreffen. Details nennt er nicht.",
+     "link": "https://www.zdfheute.de/video/politik-trump-abkommen-ukraine-krieg-100.html",
+     "image": "https://www.zdfheute.de/assets/trump-oval-office-120~384x216?cb=1793953937283",
+     "aggregator": false,
+     "published": "2026-11-06T08:31:00+00:00"
+    },
+    {
+     "source": "ZDFheute",
+     "region": "DE",
+     "weight": 1.0,
+     "title": "Trump stellt Ukraine-Abkommen in Aussicht - Kreml zurückhaltend",
+     "summary": "Donald Trump hat nach einem Treffen mit Putins Gesandtem Dmitrijew ein \"großes Abkommen\" zwischen den USA und Russland in Aussicht gestellt. Der Kreml dämpft die Erwartungen.",
+     "link": "https://www.zdfheute.de/politik/ausland/trump-ankuendigung-deal-fuer-europa-ukraine-krieg-russland-100.html",
+     "image": "https://www.zdfheute.de/assets/26-apu29-10-trump-102~384x216?cb=1793976811157",
+     "aggregator": false,
+     "published": "2026-11-06T13:17:00+00:00"
+    },
+    {
+     "source": "Handelsblatt",
+     "region": "DE",
+     "weight": 0.9,
+     "title": "Großes Abkommen?: Trump kündigt Ukraine-Abkommen an - Kreml dämpft Erwartungen",
+     "summary": "US-Präsident Donald Trump hat Kremlunterhändler Dmitrijew getroffen und ein großes Abkommen im Konflikt um die Ukraine in Aussicht gestellt. Auch Kanzler Merz wurde informiert. Was sagt Moskau?",
+     "link": "https://www.handelsblatt.com/politik/international/grosses-abkommen-trump-kuendigt-ukraine-abkommen-an-kreml-daempft-erwartungen/100267722.html",
+     "image": "https://images.handelsblatt.com/5-thUBrPpnuN/cover/900/506/0/0/107/106/0.5/0.5/vertreter-russlands-und-der-ukraine-im-weissen-haus.jpg",
+     "aggregator": false,
+     "published": "2026-11-06T13:24:01+00:00"
+    }
+   ]
+  },
+  {
+   "id": 12,
+   "score": 9.58,
+   "outlets": [
+    "tagesschau Inland",
+    "Deutschlandfunk",
+    "heise online"
+   ],
+   "regions": [
+    "DE"
+   ],
+   "trend": [],
+   "newest": "2026-11-06T18:05:35+00:00",
+   "articles": [
+    {
+     "source": "tagesschau Inland",
+     "region": "DE",
+     "weight": 1.0,
+     "title": "Kameras in Schlachthöfen: Mehr Überwachung für den Tierschutz",
+     "summary": "Der Bundestag hat eine verpflichtende Videoüberwachung in großen Schlachthöfen beschlossen. Doch Ausnahmen für kleine Betriebe und Fragen zur Umsetzung sorgen für Diskussionen. Von Eva Huber.",
+     "link": "https://www.tagesschau.de/inland/innenpolitik/bundestag-tierschutzgesetz-100.html",
+     "image": "https://images.tagesschau.de/image/9ddfd8db-915b-4ae9-9685-bed94f4b4fc6/AAABoawBJm0/AAABnSSvrFg/16x9-big/schweine-transporter-100.jpg?width=1920",
+     "aggregator": false,
+     "published": "2026-11-05T18:02:22+00:00"
+    },
+    {
+     "source": "Deutschlandfunk",
+     "region": "DE",
+     "weight": 0.95,
+     "title": "Videoüberwachung in Schlachthöfen - Tierrechtsorganisation kritisiert beschlossene Regelung",
+     "summary": "Größere Schlachthöfe in Deutschland müssen künftig ihre Betriebe mit Kameras überwachen. So hat es der Bundestag am Donnerstagabend beschlossen. Tierrechtsaktivisten halten die Regelung allerdings für unzureichend, um Tierleid zu verhindern.",
+     "link": "https://www.deutschlandfunk.de/tierrechtsorganisation-kritisiert-beschlossene-regelung-100.html",
+     "image": "https://bilder.deutschlandfunk.de/FI/LE/_e/d7/FILE_ed73c419cba1d4f6449df82e79d999cf/kloeckner-laedt-zum-65793587-jpg-100-768x768.jpg",
+     "aggregator": false,
+     "published": "2026-11-06T18:05:35+00:00"
+    },
+    {
+     "source": "heise online",
+     "region": "DE",
+     "weight": 0.85,
+     "title": "Tierschutz: Nur große Schlachthöfe von Videopflicht betroffen",
+     "summary": "Der Bundestag hat eine Videoüberwachungspflicht für Schlachthöfe beschlossen – allerdings nur für größere Betriebe.",
+     "link": "https://www.heise.de/news/Tierschutz-Nur-grosse-Schlachthoefe-von-Videopflicht-betroffen-11513964.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
+     "image": null,
+     "aggregator": false,
+     "published": "2026-11-05T19:15:00+00:00"
+    }
+   ]
+  },
+  {
+   "id": 13,
+   "score": 9.58,
+   "outlets": [
+    "Deutschlandfunk",
+    "ORF",
+    "Handelsblatt"
+   ],
+   "regions": [
+    "AT",
+    "DE"
+   ],
+   "trend": [],
+   "newest": "2026-11-06T18:05:35+00:00",
+   "articles": [
+    {
+     "source": "Deutschlandfunk",
+     "region": "DE",
+     "weight": 0.95,
+     "title": "Haushaltsstreit - Belgiens König Philippe lehnt Rücktritt von Ministerpräsident De Wever ab",
+     "summary": "In Belgien hat König Philippe das Rücktrittsgesuch von Regierungschef De Wever abgelehnt.",
+     "link": "https://www.deutschlandfunk.de/belgiens-koenig-philippe-lehnt-ruecktritt-von-ministerpraesident-de-wever-ab-102.html",
+     "image": "https://bilder.deutschlandfunk.de/c7/91/b0/53/c791b053-124e-4da2-a100-875f0cfc433d/eu-belgien-russland-100-1920x1920.jpg",
+     "aggregator": false,
+     "published": "2026-11-06T18:05:35+00:00"
+    },
+    {
+     "source": "ORF",
+     "region": "AT",
+     "weight": 0.95,
+     "title": "Belgien: König Philippe gegen Rücktritt von De Wever",
+     "summary": "",
+     "link": "https://orf.at/stories/3447430/",
+     "image": null,
+     "aggregator": false,
+     "published": "2026-11-06T12:33:47+00:00"
+    },
+    {
+     "source": "Handelsblatt",
+     "region": "DE",
+     "weight": 0.9,
+     "title": "Belgien: Belgiens Premier De Wever bleibt trotz Haushaltskrise im Amt",
+     "summary": "Belgien ist hoch verschuldet, die Regierung einigt sich nicht auf Einsparungen und einen neuen Etat – der Premier bietet seinen Rücktritt an. Nun hat der König eine Entscheidung getroffen.",
+     "link": "https://www.handelsblatt.com/politik/international/belgien-belgiens-premier-de-wever-bleibt-trotz-haushaltskrise-im-amt/100267925.html",
+     "image": "https://images.handelsblatt.com/8cFlQTxd3ebq/cover/900/506/0/0/111/111/0.5/0.5/belgium-government-.jpg",
+     "aggregator": false,
+     "published": "2026-11-06T13:14:39+00:00"
+    }
+   ]
+  },
+  {
+   "id": 14,
+   "score": 9.56,
+   "outlets": [
+    "tagesschau",
+    "Deutsche Welle",
+    "Handelsblatt"
+   ],
+   "regions": [
+    "DE",
+    "INT"
+   ],
+   "trend": [],
+   "newest": "2026-11-06T17:44:00+00:00",
+   "articles": [
+    {
+     "source": "tagesschau",
+     "region": "DE",
+     "weight": 1.0,
+     "title": "Wie sich der Wahlsieg der Demokraten auf Big Tech auswirkt",
+     "summary": "Die Demokraten haben bei den Midterms in den USA Mehrheiten in beiden Kammern des Kongresses gewonnen. Für die Tech-Industrie könnte das in einigen Bereichen höhere Hürden bedeuten. Von Antje Sieb.",
+     "link": "https://www.tagesschau.de/wirtschaft/digitales/midterms-bigtech-reaktionen-100.html",
+     "image": "https://images.tagesschau.de/image/491f03ad-5345-46fe-baf6-0fc42fefc9ae/AAABoawerIU/AAABnSSvrFg/16x9-big/usa-rechenzentrum-100.jpg?width=1920",
+     "aggregator": false,
+     "published": "2026-11-05T14:04:42+00:00"
+    },
+    {
+     "source": "tagesschau Wirtschaft",
+     "region": "DE",
+     "weight": 1.0,
+     "title": "Wie sich der Wahlsieg der Demokraten auf Big Tech auswirkt",
+     "summary": "Die Demokraten haben bei den Midterms in den USA Mehrheiten in beiden Kammern des Kongresses gewonnen. Für die Tech-Industrie könnte das in einigen Bereichen höhere Hürden bedeuten. Von Antje Sieb.",
+     "link": "https://www.tagesschau.de/wirtschaft/digitales/midterms-bigtech-reaktionen-100.html",
+     "image": "https://images.tagesschau.de/image/491f03ad-5345-46fe-baf6-0fc42fefc9ae/AAABoawerIU/AAABnSSvrFg/16x9-big/usa-rechenzentrum-100.jpg?width=1920",
+     "aggregator": false,
+     "published": "2026-11-05T14:04:42+00:00"
+    },
+    {
+     "source": "Deutsche Welle",
+     "region": "INT",
+     "weight": 0.95,
+     "title": "Midterms-Sieg für US-Demokraten: Wie viel Macht haben sie wirklich? Und können sich Progressive und Moderate einig werden?",
+     "summary": "Die Demokraten haben Donald Trump die Mehrheit in beiden Kammern des US-Kongresses abgenommen. Doch der Präsident bleibt mächtig – und die Demokraten sind sich längst nicht einig, wie sie ihre neue Macht nutzen sollen.",
+     "link": "https://www.dw.com/de/midterms-sieg-für-us-demokraten-wie-viel-macht-haben-sie-wirklich-und-können-sich-progressive-und-moderate-einig-werden/a-79879388?maca=de-rss-de-all-1119-xml-mrss",
+     "image": "https://static.dw.com/image/79854705_302.jpg",
+     "aggregator": false,
+     "published": "2026-11-06T17:44:00+00:00"
+    },
+    {
+     "source": "Handelsblatt",
+     "region": "DE",
+     "weight": 0.9,
+     "title": "USA: Börsencrash und Regulierung – was droht Big Tech nach den Midterms?",
+     "summary": "Mit dem Durchmarsch der US-Demokraten ist die Tech-Branche in einer neuen Welt aufgewacht. Denn beim Bau von Rechenzentren ist nun eine weitere umkämpfte Ressource entscheidend: die Wähler.",
+     "link": "https://www.handelsblatt.com/technik/it-internet/usa-boersencrash-und-regulierung-was-droht-big-tech-nach-den-midterms/100267849.html",
+     "image": "https://images.handelsblatt.com/yPTHbedHKo6w/cover/900/506/0/0/105/104/0.5/0.5/a-worker-padlocks-the-gate-at-an-electrical-substation-under-construction-at-the-site-of-a-new-qts-e.jpg",
+     "aggregator": false,
+     "published": "2026-11-06T16:33:26+00:00"
+    }
+   ]
+  },
+  {
+   "id": 15,
+   "score": 9.38,
+   "outlets": [
+    "Deutschlandfunk",
+    "Handelsblatt",
+    "WirtschaftsWoche"
+   ],
+   "regions": [
+    "DE"
+   ],
+   "trend": [],
+   "newest": "2026-11-06T18:05:35+00:00",
+   "articles": [
+    {
+     "source": "Deutschlandfunk",
+     "region": "DE",
+     "weight": 0.95,
+     "title": "Tarifstreit - IG Metall zählt mehr als 400.000 Teilnehmer an Warnstreiks",
+     "summary": "An ​den ersten Warnstreiks im Tarifstreit der Metall- und Elektroindustrie haben sich in dieser Woche nach Angaben der IG Metall mehr als 400.000 Beschäftigte ‌beteiligt.",
+     "link": "https://www.deutschlandfunk.de/ig-metall-zaehlt-mehr-als-400-000-teilnehmer-an-warnstreiks-100.html",
+     "image": "https://bilder.deutschlandfunk.de/f5/76/7a/e7/f5767ae7-1964-45c4-b9b3-96b3c9d9fe88/ig-metall-warnstreiks-streik-100-1920x1920.jpg",
+     "aggregator": false,
+     "published": "2026-11-06T18:05:35+00:00"
+    },
+    {
+     "source": "Deutschlandfunk",
+     "region": "DE",
+     "weight": 0.95,
+     "title": "Tarifstreit - Warnstreiks in der Metall- und Elektroindustrie werden fortgesetzt",
+     "summary": "Im Tarifstreit der Metall- und Elektroindustrie werden die Warnstreiks und Kundgebungen in etlichen Bundesländern fortgesetzt.",
+     "link": "https://www.deutschlandfunk.de/warnstreiks-in-der-metall-und-elektroindustrie-werden-fortgesetzt-100.html",
+     "image": "https://bilder.deutschlandfunk.de/f4/f6/de/96/f4f6de96-91c2-4f8b-a383-43934b2d02d1/ig-metall-streiks-100-1920x1920.jpg",
+     "aggregator": false,
+     "published": "2026-11-06T18:05:35+00:00"
+    },
+    {
+     "source": "Handelsblatt",
+     "region": "DE",
+     "weight": 0.9,
+     "title": "Tarifstreit: IG Metall zählt mehr als 400.000 Teilnehmer an Warnstreiks",
+     "summary": "Fünf Prozent mehr Lohn fordert die IG Metall. Vor den Verhandlungen am Montag droht die Gewerkschaft mit einer Verschärfung des Arbeitskampfs, falls die Arbeitgeber nicht nachbessern.",
+     "link": "https://www.handelsblatt.com/politik/deutschland/tarifstreit-ig-metall-zaehlt-mehr-als-400.000-teilnehmer-an-warnstreiks/100267972.html",
+     "image": "https://images.handelsblatt.com/2moeUlhk07LW/cover/900/506/6/6/0/0/0.5/0.5/urnnewsmldpa.com20090101261105-936-137917.jpg",
+     "aggregator": false,
+     "published": "2026-11-06T17:36:14+00:00"
+    },
+    {
+     "source": "WirtschaftsWoche",
+     "region": "DE",
+     "weight": 0.85,
+     "title": "Metall- und Elektroindustrie: IG Metall zählt mehr als 400.000 Teilnehmer an Warnstreiks",
+     "summary": "Im Tarifstreit der Metallindustrie droht eine Verschärfung des Arbeitskampfs. Die IG Metall erhöht den Druck auf die Arbeitgeber.",
+     "link": "https://www.wiwo.de/unternehmen/industrie/metall-und-elektroindustrie-ig-metall-zaehlt-mehr-als-400.000-teilnehmer-an-warnstreiks/100267968.html",
+     "image": "https://images.wiwo.de/AQAdk7UFBBSf/cover/900/506/0/0/313/312/0.5/0.5/05.11.2026-thueringen-jena-teilnehmer-eines-warnstreikes-der-ig-metall-demonstrieren-auf-dem-holzm.jpg",
+     "aggregator": false,
+     "published": "2026-11-06T15:32:54+00:00"
+    }
+   ]
+  },
+  {
+   "id": 16,
+   "score": 9.38,
+   "outlets": [
+    "Deutschlandfunk",
+    "SPIEGEL",
+    "DER STANDARD"
+   ],
+   "regions": [
+    "AT",
+    "DE"
+   ],
+   "trend": [],
+   "newest": "2026-11-06T18:05:35+00:00",
+   "articles": [
+    {
+     "source": "Deutschlandfunk",
+     "region": "DE",
+     "weight": 0.95,
+     "title": "Gerichtsentscheidung - Beschluss rechtskräftig: NSU-Terroristin Zschäpe bleibt mindestens bis zum Jahr 2035 im Gefängnis",
+     "summary": "Die NSU-Terroristin Zschäpe bleibt mindestens bis zum Jahr 2035 im Gefängnis.",
+     "link": "https://www.deutschlandfunk.de/beschluss-rechtskraeftig-nsu-terroristin-zschaepe-bleibt-mindestens-bis-zum-jahr-2035-im-gefaengnis-100.html",
+     "image": "https://bilder.deutschlandfunk.de/95/66/eb/47/9566eb47-cf9a-42dd-95cc-e52748ed8d77/zschaepe-100-1920x1920.jpg",
+     "aggregator": false,
+     "published": "2026-11-06T18:05:35+00:00"
+    },
+    {
+     "source": "SPIEGEL",
+     "region": "DE",
+     "weight": 0.9,
+     "title": "NSU: Beate Zschäpe akzeptiert Haft bis mindestens 2035",
+     "summary": "Mindestens 24 Jahre soll Beate Zschäpe in Haft verbüßen: Das entschied das Oberlandesgericht München im Oktober. Die NSU-Terroristin hat nun darauf verzichtet, dagegen Rechtsmittel einzulegen.",
+     "link": "https://www.spiegel.de/panorama/justiz/nsu-beate-zschaepe-akzeptiert-haft-bis-mindestens-2035-a-7b1bbf7a-a2db-416c-ac97-796a147bc9c2#ref=rss",
+     "image": "https://cdn.prod.www.spiegel.de/images/4711713b-0001-0004-0000-000001236205_w520_r2.08_fpx74_fpy54.jpg",
+     "aggregator": false,
+     "published": "2026-11-06T14:04:00+00:00"
+    },
+    {
+     "source": "DER STANDARD",
+     "region": "AT",
+     "weight": 0.85,
+     "title": "NSU-Terroristin Zschäpe akzeptiert Haft bis mindestens 2035",
+     "summary": "Damit hat die heute 51-Jährige nach Gerichtsangaben eine realistische Chance, zu Lebzeiten wieder auf freien Fuß zu kommen",
+     "link": "https://www.derstandard.at/story/3000000347921/nsu-terroristin-zsch228pe-akzeptiert-haft-bis-mindestens-2035?ref=rss",
+     "image": "https://i.ds.at/jMsLlg/rs:fill:150:0/plain/lido-images/2025/12/03/3f917401-18c7-474a-ba35-c0900daa6ae4.jpeg",
+     "aggregator": false,
+     "published": "2026-11-06T13:43:52+00:00"
+    }
+   ]
+  },
+  {
+   "id": 17,
+   "score": 9.2,
+   "outlets": [
+    "tagesschau Ausland",
+    "ZDFheute",
+    "NZZ"
+   ],
+   "regions": [
+    "CH",
+    "DE",
+    "INT"
+   ],
+   "trend": [],
+   "newest": "2026-11-06T16:21:21+00:00",
+   "articles": [
+    {
+     "source": "tagesschau Ausland",
+     "region": "INT",
+     "weight": 1.0,
+     "title": "Mehrere Bombendrohungen gegen Passagierflüge in Europa",
+     "summary": "Wieder gibt es Bombendrohungen gegen Flugzeuge im europäischen Luftraum. Unter anderem eine irische Maschine musste außerplanmäßig auf einem französischen Luftwaffenstützpunkt landen. Die Hintergründe sind bisher nicht bekannt.",
+     "link": "https://www.tagesschau.de/ausland/europa/bombendrohungen-flugzeuge-100.html",
+     "image": "https://images.tagesschau.de/image/9bc70d70-2865-4654-99e6-7ff106653283/AAABoa1MoPo/AAABnSSvrFg/16x9-big/flugzeug-362.jpg?width=1920",
+     "aggregator": false,
+     "published": "2026-11-05T14:20:37+00:00"
+    },
+    {
+     "source": "ZDFheute",
+     "region": "DE",
+     "weight": 1.0,
+     "title": "Serie von Bombendrohungen gegen Flüge geht weiter",
+     "summary": "Wieder mussten Flugzeuge in Europa nach Bombendrohungen zwischenlanden. Betroffen waren Flüge nach Prag, Sofia und Rom. Bislang wurde in keiner der Maschinen Sprengstoff gefunden.",
+     "link": "https://www.zdfheute.de/panorama/kriminalitaet/bombendrohung-flug-europa-flugzeug-flughafen-bombe-100.html",
+     "image": "https://www.zdfheute.de/assets/bombendrohnung-flughafen-in-sofia-bulgarien-100~384x216?cb=1793975471657",
+     "aggregator": false,
+     "published": "2026-11-06T15:01:00+00:00"
+    },
+    {
+     "source": "ZDFheute",
+     "region": "DE",
+     "weight": 1.0,
+     "title": "Rätselhafte Bombendrohungen stören Europas Flugverkehr",
+     "summary": "Bombendrohungen legen Teile des europäischen Flugverkehrs lahm: Mehr als ein Dutzend Flüge sind betroffen - mehrere Maschinen wurden umgeleitet. Viele Fragen sind noch offen.",
+     "link": "https://www.zdfheute.de/panorama/kriminalitaet/bombendrohung-flughafen-verkehr-europa-100.html",
+     "image": "https://www.zdfheute.de/assets/typical-flugverkehr-100~384x216?cb=1793901692370",
+     "aggregator": false,
+     "published": "2026-11-05T17:07:46+00:00"
+    },
+    {
+     "source": "NZZ",
+     "region": "CH",
+     "weight": 0.9,
+     "title": "Dutzende Bombendrohungen gegen Passagierflüge und Flughäfen in Europa",
+     "summary": "Seit Tagen häufen sich in Europa Bombendrohungen gegen Linienflüge. Mehrere Flugzeuge mussten umgeleitet werden, weitere Maschinen wurden untersucht. Was zu den Vorfällen bekannt ist.",
+     "link": "https://www.nzz.ch/international/berichte-ueber-mehrere-bombendrohungen-gegen-passagierfluege-in-europa-ld.10055153",
+     "image": "https://img-msp-prod.nzz.ch/2026/11/05/010d5591-6b7d-48a5-81aa-41082ebb31e3.jpg?width=200&height=200&fit=bounds&quality=75&auto=webp&crop=1434,1434,x357,y0",
+     "aggregator": false,
+     "published": "2026-11-06T16:21:21+00:00"
+    }
+   ]
+  },
+  {
+   "id": 18,
+   "score": 9.08,
+   "outlets": [
+    "Deutschlandfunk",
+    "heise online",
+    "Golem"
+   ],
+   "regions": [
+    "DE"
+   ],
+   "trend": [],
+   "newest": "2026-11-06T18:05:35+00:00",
+   "articles": [
+    {
+     "source": "Deutschlandfunk",
+     "region": "DE",
+     "weight": 0.95,
+     "title": "Öko-Institut - Studie warnt vor Wasserstress durch neue Mega-Rechenzentren in Deutschland",
+     "summary": "Der Wasserbedarf von Rechenzentren in Deutschland könnte sich bis 2030 mehr als verdoppeln.",
+     "link": "https://www.deutschlandfunk.de/studie-warnt-vor-wasserstress-durch-neue-mega-rechenzentren-in-deutschland-100.html",
+     "image": "https://bilder.deutschlandfunk.de/3d/14/e1/08/3d14e108-a39c-47bc-b422-9f61559d7eef/muenchen-rechenzentrum-ki-kuenstliche-intelligenz-100-1920x1920.jpg",
+     "aggregator": false,
+     "published": "2026-11-06T18:05:35+00:00"
+    },
+    {
+     "source": "heise online",
+     "region": "DE",
+     "weight": 0.85,
+     "title": "Studie warnt vor Wasserstress durch neue Mega-Rechenzentren in Deutschland",
+     "summary": "Der Wasserbedarf deutscher Rechenzentren könnte sich bis 2030 mehr als verdoppeln. Das Öko-Institut bringt Alternativen ins Gespräch.",
+     "link": "https://www.heise.de/news/Studie-warnt-vor-Wasserstress-durch-neue-Mega-Rechenzentren-in-Deutschland-11514447.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
+     "image": null,
+     "aggregator": false,
+     "published": "2026-11-06T08:13:00+00:00"
+    },
+    {
+     "source": "Golem",
+     "region": "DE",
+     "weight": 0.75,
+     "title": "KI-Boom: Neue Mega-Rechenzentren bedrohen Trinkwasserversorgung",
+     "summary": "Der Wasserbedarf deutscher KI-Rechenzentren könnte sich bis 2030 mehr als verdoppeln. Die Politik soll gegenlenken. ( KI , Rechenzentrum )",
+     "link": "https://www.golem.de/news/ki-boom-neue-mega-rechenzentren-bedrohen-trinkwasserversorgung-2611-214913.html",
+     "image": "https://cpx.golem.de/cpx.php?class=17&amp;aid=214913&amp;page=1&amp;ts=1793946602",
+     "aggregator": false,
+     "published": "2026-11-06T06:30:02+00:00"
+    }
+   ]
+  },
+  {
+   "id": 19,
+   "score": 8.87,
+   "outlets": [
+    "tagesschau",
+    "Handelsblatt",
+    "n-tv"
+   ],
+   "regions": [
+    "DE"
+   ],
+   "trend": [],
+   "newest": "2026-11-06T16:34:11+00:00",
+   "articles": [
+    {
+     "source": "tagesschau",
+     "region": "DE",
+     "weight": 1.0,
+     "title": "BKA sucht mit KI-Bild weiteren Verdächtigen",
+     "summary": "Im Fall des versuchten Drohnen-Angriffs auf den Leipziger Flughafen wird nach einem weiteren Tatverdächtigen gesucht. Die Ermittler haben deshalb jetzt KI-generierte Fahndungsbilder veröffentlicht.",
+     "link": "https://www.mdr.de/nachrichten/sachsen/leipzig/leipzig-leipzig-land/news-flughafen-leipzig-halle-bka-zeugen-,fahndung-drohnenangriff-100.html",
+     "image": "https://images.mdr.de/image/b69baabd-9ded-4ac6-adfa-575ea990d214/AAABobFy8x8/AAABnSSvrFg/16x9-big/fahndung-drohne-100.jpg?width=1920",
+     "aggregator": false,
+     "published": "2026-11-06T16:34:11+00:00"
+    },
+    {
+     "source": "Handelsblatt",
+     "region": "DE",
+     "weight": 0.9,
+     "title": "Leipzig: Ermittler fahnden nach verdächtiger Person von Leipziger Anschlagsversuch",
+     "summary": "Ein Fahndungsbild des BKA zeigt eine Person mit Kapuze auf einem E-Bike. Hat der oder die Unbekannte mit dem Anschlagsversuch am Leipziger Flughafen zu tun? Die Polizei sucht Zeugen.",
+     "link": "https://www.handelsblatt.com/politik/deutschland/leipzig-fahndung-nach-verdaechtiger-person-von-leipzigeranschlagsversuch/100267967.html",
+     "image": "https://images.handelsblatt.com/RACoT6lLOv1m/cover/900/506/0/0/198/198/0.5/0.5/urnnewsmldpa.com20090101261005-935-1655646.jpg",
+     "aggregator": false,
+     "published": "2026-11-06T16:24:21+00:00"
+    },
+    {
+     "source": "Handelsblatt",
+     "region": "DE",
+     "weight": 0.9,
+     "title": "Anschlagsversuch von Leipzig: Drohnenangriff: Ermittler fahnden nach verdächtiger Person",
+     "summary": "Ein Fahndungsbild des BKA zeigt eine Person mit Kapuze auf einem E-Bike. Hat der oder die Unbekannte mit dem Anschlagsversuch am Leipziger Flughafen zu tun? Die Polizei sucht Zeugen.",
+     "link": "https://www.handelsblatt.com/politik/deutschland/anschlagsversuch-von-leipzig-drohnenangriff-ermittler-fahnden-nach-verdaechtiger-person/100267957.html",
+     "image": "https://images.handelsblatt.com/WXZVwxTiYVXX/cover/900/506/0/0/84/83/0.5/0.5/drohnen-vorfall-am-flughafen-leipzig-halle.jpg",
+     "aggregator": false,
+     "published": "2026-11-06T14:38:44+00:00"
+    },
+    {
+     "source": "n-tv",
+     "region": "DE",
+     "weight": 0.8,
+     "title": "Tatmittel gefunden: Versuchter Drohnenanschlag in Leipzig - Polizei fahndet nach Verdächtigen",
+     "summary": "Anfang August wird eine mit Sprengstoff beladene Drohne am Leipziger Flughafen gefunden. Die Bundesregierung sieht Russland in der Verantwortung. Nun fahndet das Bundeskriminalamt öffentlich nach einer verdächtigen Person. Sie soll den Flughafen ausspioniert haben.",
+     "link": "https://www.n-tv.de/panorama/Versuchter-Drohnenanschlag-in-Leipzig-Polizei-fahndet-nach-Verdaechtigen-id31505047.html",
+     "image": "https://www.n-tv.de/img/31360621/1790688521/Img_4_3/250/imago0863429051h.jpg",
+     "aggregator": false,
+     "published": "2026-11-06T15:51:07+00:00"
+    }
+   ]
+  },
+  {
+   "id": 20,
+   "score": 8.58,
+   "outlets": [
+    "tagesschau",
+    "Deutsche Welle",
+    "Handelsblatt",
+    "STERN.de"
+   ],
+   "regions": [
+    "DE",
+    "INT"
+   ],
+   "trend": [],
+   "newest": "2026-11-06T12:59:40+00:00",
+   "articles": [
+    {
+     "source": "tagesschau",
+     "region": "DE",
+     "weight": 1.0,
+     "title": "Was Aiwangers Tod für Bayerns Koalition bedeutet",
+     "summary": "Mit Hubert Aiwanger verlieren die Freien Wähler ihr Zentrum und ihre Anziehungskraft. Das könnte die politischen Verhältnisse in Bayern nachhaltig verändern. Noch sind sie Regierungspartner der CSU. Von J. Wengert.",
+     "link": "https://www.tagesschau.de/inland/innenpolitik/aiwanger-soeder-analyse-100.html",
+     "image": "https://images.tagesschau.de/image/3f0f9936-ad9c-43b6-9b64-8a657fea245e/AAABoa435AM/AAABnSSvrFg/16x9-big/aiwanger-soeder-112.jpg?width=1920",
+     "aggregator": false,
+     "published": "2026-11-06T09:30:52+00:00"
+    },
+    {
+     "source": "tagesschau Inland",
+     "region": "DE",
+     "weight": 1.0,
+     "title": "Was Aiwangers Tod für Bayerns Koalition bedeutet",
+     "summary": "Mit Hubert Aiwanger verlieren die Freien Wähler ihr Zentrum und ihre Anziehungskraft. Das könnte die politischen Verhältnisse in Bayern nachhaltig verändern. Noch sind sie Regierungspartner der CSU. Von J. Wengert.",
+     "link": "https://www.tagesschau.de/inland/innenpolitik/aiwanger-soeder-analyse-100.html",
+     "image": "https://images.tagesschau.de/image/3f0f9936-ad9c-43b6-9b64-8a657fea245e/AAABoa435AM/AAABnSSvrFg/16x9-big/aiwanger-soeder-112.jpg?width=1920",
+     "aggregator": false,
+     "published": "2026-11-06T09:30:52+00:00"
+    },
+    {
+     "source": "tagesschau Inland",
+     "region": "DE",
+     "weight": 1.0,
+     "title": "Reaktionen auf Tod Aiwangers: Söder spricht von \"absoluter Tragödie\"",
+     "summary": "Der unerwartete Tod von Hubert Aiwanger hat Bestürzung ausgelöst. Der Chef der Freien Wähler war leblos in einem Hotel aufgefunden worden. Bayerns Ministerpräsident Söder sprach von einer \"absoluten Tragödie\". Er würdigte Aiwanger als \"starken Bayern\".",
+     "link": "https://www.tagesschau.de/inland/innenpolitik/aiwanger-gestorben-reaktionen-100.html",
+     "image": "https://images.tagesschau.de/image/9526788b-a593-416f-9d83-7c024e337cc0/AAABoapntBI/AAABnSSvrFg/16x9-big/hubert-aiwanger-204.jpg?width=1920",
+     "aggregator": false,
+     "published": "2026-11-05T10:21:40+00:00"
+    },
+    {
+     "source": "tagesschau Inland",
+     "region": "DE",
+     "weight": 1.0,
+     "title": "Bayerns Wirtschaftsminister Hubert Aiwanger ist tot",
+     "summary": "Bayerns Wirtschaftsminister und Vize-Ministerpräsident Hubert Aiwanger ist tot, wie das ARD-Hauptstadtstudio aus Regierungskreisen erfuhr. Der Freie-Wähler-Chef starb demnach im Alter von 55 Jahren in einem Berliner Hotel.",
+     "link": "https://www.tagesschau.de/inland/innenpolitik/hubert-aiwanger-tot-100.html",
+     "image": "https://images.tagesschau.de/image/330f6630-9913-4ebc-a661-85f4840220a5/AAABoahdBeA/AAABnSSvrFg/16x9-big/hubert-aiwanger-202.jpg?width=1920",
+     "aggregator": false,
+     "published": "2026-11-04T23:35:58+00:00"
+    },
+    {
+     "source": "Deutsche Welle",
+     "region": "INT",
+     "weight": 0.95,
+     "title": "\"Echtes Mannsbild\": Bestürzung nach Hubert Aiwangers Tod",
+     "summary": "Der bayerische Wirtschaftsminister und Chef der Freien Wähler starb unerwartet in Berlin - wodurch, ist noch unklar. Weggefährten und politische Gegner würdigen den Bauernsohn, der nie seine Bodenständigkeit verlor.",
+     "link": "https://www.dw.com/de/echtes-mannsbild-bestürzung-nach-hubert-aiwangers-tod/a-79863355?maca=de-rss-de-all-1119-xml-mrss",
+     "image": "https://static.dw.com/image/66711935_302.jpg",
+     "aggregator": false,
+     "published": "2026-11-05T14:52:00+00:00"
+    },
+    {
+     "source": "Handelsblatt",
+     "region": "DE",
+     "weight": 0.9,
+     "title": "Bayern: Ministerium will nach Aiwangers Tod „bruchlos“ weitermachen",
+     "summary": "Das bayerische Wirtschaftsministerium soll zunächst in der Linie des verstorbenen Ministers weitergeführt werden. Die Partei der Freien Wähler will sich später um eine Nachfolge kümmern.",
+     "link": "https://www.handelsblatt.com/politik/deutschland/bayern-ministerium-will-nach-aiwangers-tod-bruchlos-weitermachen/100267913.html",
+     "image": "https://images.handelsblatt.com/IREDqtqp-RCj/cover/900/506/0/0/290/290/0.5/0.5/pressekonferenz-im-bayerischen-wirtschaftsministerium-am-06.11.2026.-wirtschaftsstaatssekretaer-tobi.jpg",
+     "aggregator": false,
+     "published": "2026-11-06T12:59:40+00:00"
+    },
+    {
+     "source": "STERN.de",
+     "region": "DE",
+     "weight": 0.6,
+     "title": "„Unglaublich schwerer Verlust“ – was über Hubert Aiwangers Tod bekannt ist",
+     "summary": "„Unglaublich schwerer Verlust“ – was über Hubert Aiwangers Tod bekannt ist STERN.de Tod von Hubert Aiwanger: Tobias Gotthardt übernimmt bayerisches Wirtschaftsministerium vorerst DIE ZEIT Die Fußstapfen Aiwangers müssen im Team gefüllt werden Idowa.de \"Verlieren einen Freund\": Trauer um Aiwanger im Kondolenzbuch BR Hubert Aiwanger: Spezialkräfte durchkämmen Hotel BILD",
+     "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNUk9PVFhpRW16ZE1OdXVWNkJnRGQzME1SaFJmS2pSQTZKbnNWSldJVWdNT0gwY0M2OFV3Z08yM05vbHR3alBEaVlLa29QZmo5VW5OdVdsVlZXRlpqS1ExTU52SFRIZnRkVEZvQ0RsTHVlRWpCNVlhcGFiX2xBM0FSWWIxMXdXaFFEeXJabnlCYVVzeU80SjY0MnpTR0lWZnNWdzZaOFVmTlczVFczQkJjVkpVMnYwT3ot?oc=5",
+     "image": null,
+     "aggregator": true,
+     "published": "2026-11-06T12:26:00+00:00"
+    }
+   ]
+  },
+  {
+   "id": 21,
+   "score": 8.34,
+   "outlets": [
+    "SPIEGEL",
+    "Handelsblatt",
+    "WirtschaftsWoche"
+   ],
+   "regions": [
+    "DE"
+   ],
+   "trend": [],
+   "newest": "2026-11-06T15:16:00+00:00",
+   "articles": [
+    {
+     "source": "SPIEGEL",
+     "region": "DE",
+     "weight": 0.9,
+     "title": "Braunschweig: VW muss Ex-Manager rund 300.000 Euro nachzahlen",
+     "summary": "Weil er interne Unterlagen unter anderem an das Landeskriminalamt weitergegeben haben soll, feuerte Volkswagen einen Manager. Der klagte – mit Erfolg.",
+     "link": "https://www.spiegel.de/wirtschaft/unternehmen/braunschweig-vw-muss-ex-manager-rund-300-000-euro-nachzahlen-a-dc3eb412-a0e6-46c0-9f23-38516e88ccb1#ref=rss",
+     "image": "https://cdn.prod.www.spiegel.de/images/047c698c-14c7-40b5-a0c0-53e491fb13a4_w520_r2.08_fpx33.75_fpy55.01.jpg",
+     "aggregator": false,
+     "published": "2026-11-06T15:16:00+00:00"
+    },
+    {
+     "source": "Handelsblatt",
+     "region": "DE",
+     "weight": 0.9,
+     "title": "Rechtsstreit: VW muss Ex-Manager rund 300.000 Euro nachzahlen",
+     "summary": "Weil interne VW-Berichte bei Behörden und Medien landeten, mussten zwei Manager das Unternehmen verlassen. Seitdem wird vor Gericht unter anderem um die Nachzahlung von Gehalt gestritten.",
+     "link": "https://www.handelsblatt.com/unternehmen/industrie/rechtsstreit-vw-muss-ex-manager-rund-300.000-euro-nachzahlen/100267950.html",
+     "image": "https://images.handelsblatt.com/RYMK6wtEhKtC/cover/900/506/0/0/375/375/0.5/0.5/urnnewsmldpa.com20090101260225-911-027899.jpg",
+     "aggregator": false,
+     "published": "2026-11-06T14:50:11+00:00"
+    },
+    {
+     "source": "Handelsblatt",
+     "region": "DE",
+     "weight": 0.9,
+     "title": "Prozess beim Arbeitsgericht: Gericht: VW muss Ex-Manager rund 300.000 Euro nachzahlen",
+     "summary": "Weil interne VW-Berichte bei Behörden und Medien landeten, mussten zwei Manager das Unternehmen verlassen. Seitdem wird vor Gericht unter anderem um die Nachzahlung von Gehalt gestritten.",
+     "link": "https://www.handelsblatt.com/politik/deutschland/prozess-beim-arbeitsgericht-gericht-vw-muss-ex-manager-rund-300000-euro-nachzahlen/100267948.html",
+     "image": "https://images.handelsblatt.com/yWOttY4g82I-/cover/900/506/0/0/192/192/0.5/0.5/arbeitsgericht-braunschweig.jpg",
+     "aggregator": false,
+     "published": "2026-11-06T14:25:01+00:00"
+    },
+    {
+     "source": "WirtschaftsWoche",
+     "region": "DE",
+     "weight": 0.85,
+     "title": "Autobauer: VW muss Ex-Manager rund 300.000 Euro nachzahlen",
+     "summary": "Weil interne VW-Berichte bei Behörden und Medien landeten, mussten zwei Manager das Unternehmen verlassen. Seitdem wird vor Gericht unter anderem um die Nachzahlung von Gehalt gestritten.",
+     "link": "https://www.wiwo.de/unternehmen/auto/vw-autobauer-muss-ex-manager-rund-300.000-euro-nachzahlen/100267955.html",
+     "image": "https://images.wiwo.de/bwKaC5z-IxrI/cover/900/506/0/0/375/375/0.5/0.5/archiv-25.02.2026-niedersachsen-braunschweig-das-arbeitsgericht-in-braunschweig.-ein-streit-zwi.jpg",
+     "aggregator": false,
+     "published": "2026-11-06T14:35:36+00:00"
+    }
+   ]
+  },
+  {
+   "id": 22,
+   "score": 8.32,
+   "outlets": [
+    "Deutsche Welle",
+    "ORF",
+    "DER STANDARD"
+   ],
+   "regions": [
+    "AT",
+    "INT"
+   ],
+   "trend": [],
+   "newest": "2026-11-06T14:37:00+00:00",
+   "articles": [
+    {
+     "source": "Deutsche Welle",
+     "region": "INT",
+     "weight": 0.95,
+     "title": "EU: Tiktok gefährdet mentale Gesundheit - Strafe droht",
+     "summary": "Die EU-Kommission wirft Tiktok offiziell vor, nichts gegen suchtfördernde Mechanismen zu tun. Ohne angemessene und wirksame Gegenmaßnahmen kann es für die Kurzvideoplattform teuer werden.",
+     "link": "https://www.dw.com/de/eu-tiktok-gefährdet-mentale-gesundheit-strafe-droht/a-79876791?maca=de-rss-de-all-1119-xml-mrss",
+     "image": "https://static.dw.com/image/77055592_302.jpg",
+     "aggregator": false,
+     "published": "2026-11-06T14:37:00+00:00"
+    },
+    {
+     "source": "ORF",
+     "region": "AT",
+     "weight": 0.95,
+     "title": "Kommission: TikTok gefährdet mentale Gesundheit",
+     "summary": "",
+     "link": "https://orf.at/stories/3447429/",
+     "image": null,
+     "aggregator": false,
+     "published": "2026-11-06T12:26:22+00:00"
+    },
+    {
+     "source": "DER STANDARD",
+     "region": "AT",
+     "weight": 0.85,
+     "title": "EU droht Tiktok mit Strafe wegen Gefährdung der mentalen Gesundheit",
+     "summary": "Der Tiktok-Algorithmus personalisiere Inhalte, die potenziell belastend sein könnten, befindet die EU-Kommission",
+     "link": "https://www.derstandard.at/story/3000000347902/eu-tiktok-gef228hrdet-mentale-gesundheit-strafe-droht?ref=rss",
+     "image": "https://i.ds.at/GX0VBQ/rs:fill:150:0/plain/lido-images/2026/11/06/6ab0a864-693f-40f2-9a45-6c919c4e7634.jpg",
+     "aggregator": false,
+     "published": "2026-11-06T12:10:18+00:00"
+    }
+   ]
+  },
+  {
+   "id": 23,
+   "score": 7.95,
+   "outlets": [
+    "ZDFheute",
+    "DER STANDARD",
+    "n-tv"
+   ],
+   "regions": [
+    "AT",
+    "DE"
+   ],
+   "trend": [],
+   "newest": "2026-11-06T14:06:48+00:00",
+   "articles": [
+    {
+     "source": "ZDFheute",
+     "region": "DE",
+     "weight": 1.0,
+     "title": "Stecken diese Hacker hinter den AfD-Leaks?",
+     "summary": "Hacker veröffentlichten Hunderttausende interne Dokumente der AfD. Wer steckt hinter dem Cyberangriff? Die Spur führt in die USA.",
+     "link": "https://www.zdfheute.de/politik/deutschland/hacker-afd-leak-emails-usa-100.html",
+     "image": "https://www.zdfheute.de/assets/afd-schriftzug-100~384x216?cb=1729167710446",
+     "aggregator": false,
+     "published": "2026-11-06T09:00:00+00:00"
+    },
+    {
+     "source": "DER STANDARD",
+     "region": "AT",
+     "weight": 0.85,
+     "title": "AfD war \"verlockendes Ziel\", sagt mutmaßlicher Hacker hinter AfD-Leaks",
+     "summary": "Bei dem Hackerangriff wurden mehr als 420.000 E-Mails erbeutet und online gestellt. Die Spuren führen in die USA",
+     "link": "https://www.derstandard.at/story/3000000347820/afd-war-verlockendes-ziel-sagt-mutmasslicher-hacker-hinter-afd-leaks?ref=rss",
+     "image": "https://i.ds.at/-7I1OA/rs:fill:150:0/plain/lido-images/2026/11/06/f4078ba7-d0f5-43f8-93b1-99147891eecd.jpg",
+     "aggregator": false,
+     "published": "2026-11-06T09:00:02+00:00"
+    },
+    {
+     "source": "n-tv",
+     "region": "DE",
+     "weight": 0.8,
+     "title": "Kein politisches Interesse?: Bericht: Hinter dem AfD-Leak stecken US-Hacker",
+     "summary": "Mitte Oktober werden Hunderttausende interne Mails und Zehntausende Dokumente der AfD veröffentlicht. Es ist der wohl größte Datenklau der deutschen Parteiengeschichte. Lange ist unklar, wer hinter dem Angriff steckt. Nun gibt es offenbar eine Spur.",
+     "link": "https://www.n-tv.de/politik/Recherche-zeigt-mutmassliche-Hacker-hinter-dem-AfD-Leak-id31503461.html",
+     "image": "https://www.n-tv.de/img/31503612/1793967582/Img_4_3/250/604842944.jpg",
+     "aggregator": false,
+     "published": "2026-11-06T14:06:48+00:00"
+    }
+   ]
+  },
+  {
+   "id": 24,
+   "score": 7.9,
+   "outlets": [
+    "ORF",
+    "WELT",
+    "DIE ZEIT"
+   ],
+   "regions": [
+    "AT",
+    "DE"
+   ],
+   "trend": [],
+   "newest": "2026-11-06T17:32:37+00:00",
+   "articles": [
+    {
+     "source": "ORF",
+     "region": "AT",
+     "weight": 0.95,
+     "title": "Kleinflugzeug stürzte auf deutsche Autobahn: Zwei Tote",
+     "summary": "",
+     "link": "https://orf.at/stories/3447450/",
+     "image": null,
+     "aggregator": false,
+     "published": "2026-11-06T16:13:37+00:00"
+    },
+    {
+     "source": "WELT",
+     "region": "DE",
+     "weight": 0.8,
+     "title": "Kleinflugzeug stürzt auf Autobahn und geht in Flammen auf – Zwei Menschen sterben",
+     "summary": "Bei dem Absturz eines Kleinflugzeugs auf der Autobahn 2 nordöstlich von Magdeburg sind zwei Menschen gestorben. Laut Polizei bargen Rettungskräfte zwei Insassen tot aus dem Flugzeug.",
+     "link": "https://www.welt.de/vermischtes/video6aedfbd847b5fce02f87a83d/a2-bei-magdeburg-kleinflugzeug-stuerzt-auf-autobahn-und-geht-in-flammen-auf-zwei-menschen-sterben.html",
+     "image": "https://images.welt.de/6aedfbd847b5fce02f87a83d/33d0b9f5b9a498216a0d7c418d665087/ci16x9-w1200/dpa-com-261106-936-139216-jpg",
+     "aggregator": false,
+     "published": "2026-11-06T16:15:20+00:00"
+    },
+    {
+     "source": "DIE ZEIT",
+     "region": "DE",
+     "weight": 0.6,
+     "title": "Sachsen-Anhalt: Zwei Tote bei Flugzeugabsturz auf A2",
+     "summary": "Sachsen-Anhalt: Zwei Tote bei Flugzeugabsturz auf A2 DIE ZEIT Flammen auf der A2: Zwei Tote! Kleinflugzeug stürzt auf Autobahn BILD Kleinflugzeug stürzt auf A2 und gerät in Brand: Zwei Tote bei Unglück nahe Magdeburg tagesschau.de Flugzeugabsturz auf der A2: Zwei Personen tödlich verunglückt Volksstimme A2 bei Magdebrug: Kleinflugzeug stürzt auf Autobahn und fängt Feuer T-Online",
+     "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNRW5rME1ETjJTSmZZY1ZaQklvM0x5NE9iYUpZaUZNWFVkWG1jdUVCd2dBTnlvR2JvYnVucktoMkI3LTdBVzdLdFRsOVFpeG1FSGxKMWFGRnhpT0Z2eXNveUlORU1yeTAtcHByZVRtS1UyUTRKVHRHLTBfWXdKZmNDN1NGcTU5TXBQck4wSw?oc=5",
+     "image": null,
+     "aggregator": true,
+     "published": "2026-11-06T17:32:37+00:00"
+    }
+   ]
+  },
+  {
+   "id": 25,
+   "score": 7.88,
+   "outlets": [
+    "tagesschau",
+    "Deutschlandfunk"
+   ],
+   "regions": [
+    "DE"
+   ],
+   "trend": [],
+   "newest": "2026-11-06T18:05:35+00:00",
+   "articles": [
+    {
+     "source": "tagesschau",
+     "region": "DE",
+     "weight": 1.0,
+     "title": "Absage von Kanzler Merz zur Teilnahme an UN-Klimakonferenz im türkischen Antalya",
+     "summary": "Absage von Kanzler Merz zur Teilnahme an UN-Klimakonferenz im türkischen Antalya",
+     "link": "https://www.tagesschau.de/video/video-1679336.html",
+     "image": "https://images.tagesschau.de/image/4b920319-5386-4ae2-af7d-b8cca7181853/AAABobG2q5c/AAABnSSvrFg/16x9-big/sendungsbild-1823540.jpg?width=1920",
+     "aggregator": false,
+     "published": "2026-11-06T16:44:14+00:00"
+    },
+    {
+     "source": "Deutschlandfunk",
+     "region": "DE",
+     "weight": 0.95,
+     "title": "Weltklimakonferenz ab Montag - Bundesregierung unterstützt Elektrifizierungs-Ziel - Merz begründet Abwesenheit mit \"vollem Terminkalender\"",
+     "summary": "Die Bundesregierung will sich auf der Weltklimakonferenz im türkischen Antalya für eine stärkere Nutzung von Strom als Energieträger einsetzen. Bundesumweltminister Schneider sagte in Berlin, Deutschland werde sich der Initiative des Gastgebers sowie Australiens anschließen.",
+     "link": "https://www.deutschlandfunk.de/bundesregierung-unterstuetzt-elektrifizierungs-ziel-merz-begruendet-abwesenheit-mit-vollem-terminkal-100.html",
+     "image": "https://bilder.deutschlandfunk.de/db/c4/88/03/dbc48803-d9ae-4b2a-9a8f-ee2443d5593b/umweltminister-carsten-schneider-100-1920x1920.jpg",
+     "aggregator": false,
+     "published": "2026-11-06T18:05:35+00:00"
+    }
+   ]
+  },
+  {
+   "id": 26,
+   "score": 7.88,
+   "outlets": [
+    "tagesschau",
+    "Deutschlandfunk"
+   ],
+   "regions": [
+    "DE",
+    "INT"
+   ],
+   "trend": [],
+   "newest": "2026-11-06T18:05:35+00:00",
+   "articles": [
+    {
+     "source": "tagesschau",
+     "region": "DE",
+     "weight": 1.0,
+     "title": "Auch Senat in Polen stimmt für Lockerung des Abtreibungsrechts",
+     "summary": "Nach der ersten Kammer hat in Polen auch der Senat für eine Liberalisierung des Abtreibungsrechts gestimmt. Das letzte Wort hat aber Präsident Nawrocki. Dessen Zustimmung gilt als unwahrscheinlich.",
+     "link": "https://www.tagesschau.de/ausland/europa/polen-aenderung-abreibungsrecht-100.html",
+     "image": "https://images.tagesschau.de/image/f6024f71-83b2-4e38-82f8-10f6db10df1c/AAABobGKEFc/AAABnSSvrFg/16x9-big/polen-parlament-103.jpg?width=1920",
+     "aggregator": false,
+     "published": "2026-11-06T16:19:52+00:00"
+    },
+    {
+     "source": "tagesschau Ausland",
+     "region": "INT",
+     "weight": 1.0,
+     "title": "Auch Senat in Polen stimmt für Lockerung des Abtreibungsrechts",
+     "summary": "Nach der ersten Kammer hat in Polen auch der Senat für eine Liberalisierung des Abtreibungsrechts gestimmt. Das letzte Wort hat aber Präsident Nawrocki. Dessen Zustimmung gilt als unwahrscheinlich.",
+     "link": "https://www.tagesschau.de/ausland/europa/polen-aenderung-abreibungsrecht-100.html",
+     "image": "https://images.tagesschau.de/image/f6024f71-83b2-4e38-82f8-10f6db10df1c/AAABobGKEFc/AAABnSSvrFg/16x9-big/polen-parlament-103.jpg?width=1920",
+     "aggregator": false,
+     "published": "2026-11-06T16:19:52+00:00"
+    },
+    {
+     "source": "Deutschlandfunk",
+     "region": "DE",
+     "weight": 0.95,
+     "title": "Schwangerschafts-Abbrüche - Auch Polens Senat stimmt für liberalere Abtreibungsregeln",
+     "summary": "In Polen hat die geplante Lockerung der strengen Abtreibungsregeln eine weitere parlamentarische Hürde genommen.",
+     "link": "https://www.deutschlandfunk.de/auch-polens-senat-stimmt-fuer-liberalere-abtreibungsregeln-100.html",
+     "image": "https://bilder.deutschlandfunk.de/FI/LE/_c/c7/FILE_cc749688b87861b6ac3b8631b8b83215/senat-33036795-jpg-100-768x768.jpg",
+     "aggregator": false,
+     "published": "2026-11-06T18:05:35+00:00"
+    }
+   ]
+  },
+  {
+   "id": 27,
+   "score": 7.88,
+   "outlets": [
+    "tagesschau",
+    "Deutschlandfunk"
+   ],
+   "regions": [
+    "DE"
+   ],
+   "trend": [],
+   "newest": "2026-11-06T18:05:35+00:00",
+   "articles": [
+    {
+     "source": "tagesschau",
+     "region": "DE",
+     "weight": 1.0,
+     "title": "Daimler Truck meldet deutlichen Gewinnsprung wegen USA-Geschäft",
+     "summary": "Der Nutzfahrzeughersteller Daimler Truck hat wieder auf die Erfolgsspur zurückgefunden. Dank eines anspringenden US-Geschäfts verbucht das Unternehmen einen Milliardengewinn und kann sich etwas erholen.",
+     "link": "https://www.tagesschau.de/wirtschaft/unternehmen/daimlertruck-100.html",
+     "image": "https://images.tagesschau.de/image/0514bf57-934c-46c2-9076-d629e23c1a1b/AAABoa_dmvU/AAABnSSvrFg/16x9-big/daimler-truck-124.jpg?width=1920",
+     "aggregator": false,
+     "published": "2026-11-06T09:13:00+00:00"
+    },
+    {
+     "source": "tagesschau Wirtschaft",
+     "region": "DE",
+     "weight": 1.0,
+     "title": "Daimler Truck meldet deutlichen Gewinnsprung wegen USA-Geschäft",
+     "summary": "Der Nutzfahrzeughersteller Daimler Truck hat wieder auf die Erfolgsspur zurückgefunden. Dank eines anspringenden US-Geschäfts verbucht das Unternehmen einen Milliardengewinn und kann sich etwas erholen.",
+     "link": "https://www.tagesschau.de/wirtschaft/unternehmen/daimlertruck-100.html",
+     "image": "https://images.tagesschau.de/image/0514bf57-934c-46c2-9076-d629e23c1a1b/AAABoa_dmvU/AAABnSSvrFg/16x9-big/daimler-truck-124.jpg?width=1920",
+     "aggregator": false,
+     "published": "2026-11-06T09:13:00+00:00"
+    },
+    {
+     "source": "Deutschlandfunk",
+     "region": "DE",
+     "weight": 0.95,
+     "title": "Autobranche - Daimler Truck mit Gewinnplus von 73 Prozent - Erholung in Nordamerika",
+     "summary": "Nutzfahrzeughersteller Daimler Truck hat seinen Gewinn im dritten Quartal deutlich gesteigert.",
+     "link": "https://www.deutschlandfunk.de/daimler-truck-mit-gewinnplus-von-73-prozent-erholung-in-nordamerika-100.html",
+     "image": "https://bilder.deutschlandfunk.de/b7/d7/87/78/b7d78778-70ba-47b0-b435-defffe9f4f7a/daimler-truck-zentrale-100-1920x1920.jpg",
+     "aggregator": false,
+     "published": "2026-11-06T18:05:35+00:00"
+    }
+   ]
+  }
+ ]
+}
