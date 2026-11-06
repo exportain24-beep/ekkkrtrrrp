@@ -1,0 +1,36 @@
+{
+ "date": "2026-11-06",
+ "slot": "abend",
+ "publish_at": "2026-11-06T15:30:00+00:00",
+ "title": "Führerschein soll billiger werden: Bundestag beschließt Reform 🚗",
+ "duration": 49.7,
+ "stories": [
+  {
+   "headline": "Führerschein soll billiger werden",
+   "region": "DE",
+   "pillar": "POLITIK"
+  },
+  {
+   "headline": "EU droht TikTok mit Strafe",
+   "region": "EU",
+   "pillar": "TECHNOLOGIE"
+  },
+  {
+   "headline": "Härtere Strafen für K.o.-Tropfen",
+   "region": "DE",
+   "pillar": "POLITIK"
+  },
+  {
+   "headline": "Mäc Geiz schließt 60 Filialen",
+   "region": "DE",
+   "pillar": "WIRTSCHAFT"
+  }
+ ],
+ "comment": {
+  "text": "Glauben Sie, dass der Führerschein wirklich billiger wird – ja oder nein?",
+  "done": false
+ },
+ "youtube_id": "TRPYeh0jhlE",
+ "facebook_id": "964566623002984",
+ "created": "2026-11-06T14:00:23.655500+00:00"
+}
