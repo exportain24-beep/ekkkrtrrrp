@@ -495,7 +495,7 @@ def cmd_check_tokens() -> int:
     import requests
     from .config import env
     lines, ok = [], True
-    names = ["ANTHROPIC_API_KEY", "CLAUDE_API_KEY", "ELEVENLABS_API_KEY", "YT_CLIENT_ID", "YT_CLIENT_SECRET", "YT_REFRESH_TOKEN",
+    names = ["BUFFER_API_KEY", "ANTHROPIC_API_KEY", "CLAUDE_API_KEY", "ELEVENLABS_API_KEY", "YT_CLIENT_ID", "YT_CLIENT_SECRET", "YT_REFRESH_TOKEN",
              "FB_PAGE_ID", "FB_PAGE_TOKEN", "FB_APP_ID", "FB_APP_SECRET"]
     lines.append("Secrets present: " + ", ".join(f"{n}={'yes' if os.environ.get(n) else 'NO'}" for n in names))
     try:
@@ -555,6 +555,16 @@ def cmd_check_tokens() -> int:
     except Exception as e:
         ok = False
         lines.append(f"Anthropic API FAIL: {str(e)[:300]}")
+    try:
+        from . import upload_buffer as BU
+        if BU.key():
+            chs = BU.channels()
+            lines.append("Buffer OK: " + ", ".join(f"{c['service']} '{c['name']}' ({c['id']})" for c in chs))
+        else:
+            lines.append("Buffer: no BUFFER_API_KEY secret found")
+    except Exception as e:
+        ok = False
+        lines.append(f"Buffer FAIL: {str(e)[:300]}")
     log("\n".join(lines))
     _report("check_tokens.md", lines)
     return 0 if ok else 1
