@@ -1,0 +1,57 @@
+{
+  "stories": [
+    {
+      "candidate_id": 1,
+      "pillar": "POLITIK",
+      "region": "DE",
+      "kicker": "FRANKFURT",
+      "headline": "Pahlavi: Freiheitspreis für Irans Volk",
+      "highlight": ["Pahlavi"],
+      "voice": "Reza Pahlavi hat in der Frankfurter Paulskirche den Freiheitspreis der Friedrich-Naumann-Stiftung entgegengenommen – stellvertretend für das iranische Volk. Tausende Menschen demonstrierten in der Stadt.",
+      "subline": "Tausende demonstrieren für Menschenrechte im Iran",
+      "entities": ["Reza Pahlavi", "Paulskirche", "Friedrich-Naumann-Stiftung"]
+    },
+    {
+      "candidate_id": 14,
+      "pillar": "POLITIK",
+      "region": "DE",
+      "kicker": "BERLIN",
+      "headline": "Aigner-Kandidatur: Merz schweigt",
+      "highlight": ["Merz"],
+      "voice": "Friedrich Merz schweigt weiter zur Kandidatur von Ilse Aigner als Bundespräsidentin. Grünen-Politiker Omid Nouripour wirft dem Kanzler vor, das Personalverfahren sei ihm entglitten.",
+      "subline": "Kritik von den Grünen und aus der CDU",
+      "entities": ["Friedrich Merz", "Ilse Aigner", "Omid Nouripour"]
+    },
+    {
+      "candidate_id": 21,
+      "pillar": "WIRTSCHAFT",
+      "region": "AT",
+      "kicker": "ÖSTERREICH",
+      "headline": "Pensionisten zahlen E-Card-Gebühr",
+      "highlight": ["E-Card-Gebühr"],
+      "voice": "Österreichs Pensionisten müssen erstmals die E-Card-Gebühr zahlen: knapp siebenundzwanzig Euro für zweitausendsiebenundzwanzig, ab November automatisch von der Pension abgezogen. Pensionistenvertretung und Opposition sind empört.",
+      "subline": "Knapp 27 Euro – automatisch von der Pension abgezogen",
+      "entities": ["Österreichische Gesundheitskasse", "E-Card"]
+    },
+    {
+      "candidate_id": 10,
+      "pillar": "WELT",
+      "region": "DE",
+      "kicker": "ALLGÄUER ALPEN",
+      "headline": "Allgäu verliert letzten Gletscher",
+      "highlight": ["Gletscher"],
+      "voice": "Der Schwarzmilzferner gilt nicht mehr als Gletscher – die Allgäuer Alpen sind damit gletscherfrei. Nach dem nächsten Sommer dürfte er laut Forschern verschwunden sein.",
+      "subline": "Schwarzmilzferner auf knapp 2.500 Metern Höhe",
+      "entities": ["Schwarzmilzferner", "Mädelegabel", "Allgäuer Alpen"]
+    }
+  ],
+  "hook_text": "Pahlavi in Frankfurt",
+  "hook_voice": "Reza Pahlavi in Frankfurt – die Schlagzeilen am Abend.",
+  "youtube_title": "Reza Pahlavi in Frankfurt: Warum Tausende für Iran demonstrieren",
+  "description_lead": "Reza Pahlavi nimmt in der Frankfurter Paulskirche den Freiheitspreis der Friedrich-Naumann-Stiftung für das iranische Volk entgegen, Tausende demonstrieren. Außerdem: Friedrich Merz schweigt zur Aigner-Kandidatur und erntet Kritik von Omid Nouripour, Österreichs Pensionisten zahlen erstmals die E-Card-Gebühr und die Allgäuer Alpen verlieren mit dem Schwarzmilzferner ihren letzten Gletscher.",
+  "tags": ["Reza Pahlavi", "Frankfurt", "Paulskirche", "Freiheitspreis", "Friedrich-Naumann-Stiftung", "Iran", "Friedrich Merz", "Ilse Aigner", "Omid Nouripour", "Bundespräsidentin", "E-Card", "ÖGK", "Pensionisten", "Schwarzmilzferner", "Gletscher"],
+  "hashtags": ["#iran", "#frankfurt", "#gletscher"],
+  "facebook_caption_line1": "Reza Pahlavi in Frankfurt: Freiheitspreis für Irans Volk – Tausende auf der Straße",
+  "facebook_question": "Wie sollte Deutschland mit der iranischen Opposition umgehen?",
+  "comment_question": "War es richtig, den Freiheitspreis an das iranische Volk zu vergeben – ja oder nein?"
+}
