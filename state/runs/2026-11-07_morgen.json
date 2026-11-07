@@ -1,0 +1,36 @@
+{
+ "date": "2026-11-07",
+ "slot": "morgen",
+ "publish_at": "2026-11-07T06:00:00+00:00",
+ "title": "Ilse Aigner: Union setzt auf die erste Bundespräsidentin 🇩🇪",
+ "duration": 49.7,
+ "stories": [
+  {
+   "headline": "Aigner soll Bundespräsidentin werden",
+   "region": "DE",
+   "pillar": "POLITIK"
+  },
+  {
+   "headline": "Trump: Hardliner Miller wird Stabschef",
+   "region": "INT",
+   "pillar": "WELT"
+  },
+  {
+   "headline": "Hubig: AfD-Mails für Verbotsprüfung",
+   "region": "DE",
+   "pillar": "POLITIK"
+  },
+  {
+   "headline": "Pistorius: Wehrpflicht wohl unnötig",
+   "region": "DE",
+   "pillar": "POLITIK"
+  }
+ ],
+ "comment": {
+  "text": "Ilse Aigner als erste Bundespräsidentin: gute Wahl – ja oder nein?",
+  "done": false
+ },
+ "youtube_id": "bKzi-XswILY",
+ "facebook_id": "2224611605145561",
+ "created": "2026-11-07T04:29:33.294986+00:00"
+}
