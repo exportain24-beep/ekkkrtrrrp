@@ -1,4 +1,4 @@
-# check_feeds.md – 2026-11-07 23:27 UTC
+# check_feeds.md – 2026-11-07 23:29 UTC
 
 - tagesschau: ok (59)
 - tagesschau Inland: ok (49)
@@ -24,18 +24,18 @@
 
 21/21 feeds OK, 1182 articles, 40 Google-Trends terms
 
--  12.3 [DE,INT] (5) Papst in Uruguay: Schwierige Mission für Leo XIV.
+-  11.7 [DE,INT] (4) Papst in Uruguay: Schwierige Mission für Leo XIV.
 -  11.4 [DE] (5) Reese patzt bei Hertha-Heimkehr: Berlin gewinnt Topspiel
--  11.1 [AT,CH,DE] (5) Midterms 2026 – US-Präsident Trump schlägt Kampfsportler als Pressesprecher vor
+-  11.0 [AT,CH,DE] (5) Midterms 2026 – US-Präsident Trump schlägt Kampfsportler als Pressesprecher vor
 -  10.7 [AT,DE] (5) Pahlavi nimmt Freiheitspreis für iranisches Volk entgegen
+-   9.8 [DE] (4) Fußball-Bundesliga - Siege für Stuttgart, Dortmund, Leipzig und Bayern
 -   9.6 [CH,DE] (2) Formel 1: GP Brasilien – Verregnetes Qualifying spült Norris auf die Pole – Hülkenberg 4.
 -   9.5 [AT,DE,INT] (3) Tote nach Angriff auf Flughafen in Saudi-Arabien
 -   9.4 [DE] (4) Jensen Huang: Nvidia-Chef soll Beziehung mit chinesischer Spionin gehabt haben
 -   9.4 [DE] (3) Gold im Weißen Haus: Trump macht Oval Office zum Denkmal
 -   9.2 [CH,DE,INT] (3) Bankenkrise: Anklage gegen Paraguays Ex-Präsidenten
--   9.2 [DE] (3) Fußball-Bundesliga - Siege für Stuttgart, Dortmund, Leipzig und Bayern
 -   8.4 [DE] (3) SPD im Ruhrgebiet: Noch da, wieder da? Jedenfalls nicht weg
--   8.2 [DE,INT] (3) tagesschau 20:00 Uhr
+-   7.8 [DE] (3) Ukraine: Wolodymyr Selenskyjs Stabschef muss Bußgeld zahlen, weil er Russisch sprach
 -   7.8 [DE,INT] (2) Weniger Teilnehmer bei neuen Demos in Frankreich
 -   7.8 [DE] (2) Pistorius rechnet derzeit nicht mit Rückkehr zur Wehrpflicht
 -   7.8 [DE,INT] (2) Paraguay: Peña als Präsident abgesetzt und unter Hausarrest

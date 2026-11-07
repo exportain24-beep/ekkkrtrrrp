@@ -1,4 +1,4 @@
-# check_tokens.md – 2026-11-07 23:27 UTC
+# check_tokens.md – 2026-11-07 23:29 UTC
 
 Secrets present: BUFFER_API_KEY=yes, ANTHROPIC_API_KEY=yes, CLAUDE_API_KEY=NO, ELEVENLABS_API_KEY=yes, YT_CLIENT_ID=yes, YT_CLIENT_SECRET=yes, YT_REFRESH_TOKEN=yes, FB_PAGE_ID=yes, FB_PAGE_TOKEN=yes, FB_APP_ID=yes, FB_APP_SECRET=yes
 YouTube OK: channel 'Eilblick' (UCyVEEma6S1pY1jvuDwIVW1A), longUploads=allowed, subs=13
