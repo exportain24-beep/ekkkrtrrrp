@@ -1,0 +1,1778 @@
+{
+ "slot": {
+  "id": "fokus-politik",
+  "format": "single",
+  "time": "18:30",
+  "label": "Fokus Politik",
+  "focus": "Nur Tie-Breaker – immer zuerst die populärsten, meistberichteten Nachrichten. Bei Gleichstand bevorzugt: Die eine große politische oder sicherheitspolitische Enthüllung bzw. Eilmeldung des Tages aus Berlin, Wien, Bern oder Brüssel (Regierung, Kanzleramt, Hackerangriffe, Spionage, große Entscheidungen, Skandale).",
+  "notify_subscribers": false
+ },
+ "slot_time": "2026-11-07T18:30:00+01:00",
+ "date_text": "Samstag, 7. November 2026",
+ "already_published": [
+  "Tech-Ausverkauf drückt den DAX",
+  "Industrie wächst überraschend",
+  "Daimler Truck: Gewinn plus 73 Prozent",
+  "Trump kündigt Russland-Deal an",
+  "AfD-Leak: Spur führt in die USA",
+  "Freuding wird Generalinspekteur",
+  "Bundestag repariert Tabaksteuer-Panne",
+  "Benko erneut verurteilt",
+  "Führerschein soll billiger werden",
+  "EU droht TikTok mit Strafe",
+  "Härtere Strafen für K.o.-Tropfen",
+  "Mäc Geiz schließt 60 Filialen",
+  "Bombendrohungen gegen Flüge in Europa",
+  "Eishockey-WM nur ohne Russland",
+  "Leipzig: BKA fahndet mit KI-Bild",
+  "Belgiens König lehnt Rücktritt ab",
+  "Ukraine-Deal: Kreml bremst Trump",
+  "IG Metall: Über 400.000 im Warnstreik",
+  "Aigner soll Bundespräsidentin werden",
+  "Trump: Hardliner Miller wird Stabschef",
+  "Hubig: AfD-Mails für Verbotsprüfung",
+  "Pistorius: Wehrpflicht wohl unnötig",
+  "Pflegekassen brauchen Extra-Darlehen",
+  "Linke fordert Mandat von Emde zurück",
+  "Papst beginnt Südamerika-Reise",
+  "Hackerangriff auf TU München",
+  "Stadtwerke wollen Gasnetze stilllegen",
+  "Pahlavi: Freiheitspreis für Irans Volk",
+  "Aigner-Kandidatur: Merz schweigt",
+  "Pensionisten zahlen E-Card-Gebühr",
+  "Allgäu verliert letzten Gletscher"
+ ],
+ "candidates": [
+  {
+   "id": 0,
+   "score": 24.49,
+   "outlets": [
+    "tagesschau",
+    "ZDFheute",
+    "ORF",
+    "SRF News",
+    "SPIEGEL",
+    "ZEIT ONLINE",
+    "Handelsblatt",
+    "NZZ",
+    "DER STANDARD",
+    "WELT",
+    "n-tv",
+    "n-tv.de"
+   ],
+   "regions": [
+    "AT",
+    "CH",
+    "DE",
+    "INT"
+   ],
+   "trend": [],
+   "newest": "2026-11-07T15:53:02+00:00",
+   "articles": [
+    {
+     "source": "tagesschau",
+     "region": "DE",
+     "weight": 1.0,
+     "title": "Polen: Mindestens fünf Tote nach Schüssen in Krakau",
+     "summary": "Bei Schüssen in der polnischen Stadt Krakau sind laut Polizei mindestens fünf Menschen getötet und mehr als zehn Personen verletzt worden. Der mutmaßliche Täter konnte demnach gefasst werden.",
+     "link": "https://www.tagesschau.de/ausland/europa/schuesse-krakau-100.html",
+     "image": "https://images.tagesschau.de/image/bee3ba3a-f8f6-43d9-a494-b75bb2b72fe1/AAABobanF1k/AAABnSSvrFg/16x9-big/einsatzkraefte-historisches-stadtzentrum-100.jpg?width=1920",
+     "aggregator": false,
+     "published": "2026-11-07T15:45:58+00:00"
+    },
+    {
+     "source": "tagesschau Ausland",
+     "region": "INT",
+     "weight": 1.0,
+     "title": "Polen: Mindestens fünf Tote nach Schüssen in Krakau",
+     "summary": "Bei Schüssen in der polnischen Stadt Krakau sind laut Polizei mindestens fünf Menschen getötet und mehr als zehn Personen verletzt worden. Der mutmaßliche Täter konnte demnach gefasst werden.",
+     "link": "https://www.tagesschau.de/ausland/europa/schuesse-krakau-100.html",
+     "image": "https://images.tagesschau.de/image/bee3ba3a-f8f6-43d9-a494-b75bb2b72fe1/AAABobanF1k/AAABnSSvrFg/16x9-big/einsatzkraefte-historisches-stadtzentrum-100.jpg?width=1920",
+     "aggregator": false,
+     "published": "2026-11-07T15:45:58+00:00"
+    },
+    {
+     "source": "ZDFheute",
+     "region": "DE",
+     "weight": 1.0,
+     "title": "Tote und Verletzte nach Schüssen in Krakau",
+     "summary": "Im Zentrum der polnischen Stadt Krakau (Krakow) sind Schüsse gefallen. Offenbar wurden fünf Menschen getötet und viele verletzt.",
+     "link": "https://www.zdfheute.de/politik/ausland/polen-krakau-schuesse-tote-verletzte-100.html",
+     "image": "https://www.zdfheute.de/assets/schuesse-in-krakau-100~384x216?cb=1794065731586",
+     "aggregator": false,
+     "published": "2026-11-07T15:22:05+00:00"
+    },
+    {
+     "source": "ORF",
+     "region": "AT",
+     "weight": 0.95,
+     "title": "Tote nach Schüssen im Zentrum von Krakau",
+     "summary": "Bei einem Schusswaffenangriff in der polnischen Stadt Krakau sind nach Polizeiangaben am Samstag fünf Menschen getötet worden. Mindestens zwölf Personen seien bei der Attacke im Stadtzentrum verletzt worden, hieß es weiter.",
+     "link": "https://orf.at/stories/3447538/",
+     "image": null,
+     "aggregator": false,
+     "published": "2026-11-07T15:46:26+00:00"
+    },
+    {
+     "source": "ORF",
+     "region": "AT",
+     "weight": 0.95,
+     "title": "Fünf Tote nach Schüssen in Krakau",
+     "summary": "",
+     "link": "https://orf.at/stories/3447537/",
+     "image": null,
+     "aggregator": false,
+     "published": "2026-11-07T15:29:55+00:00"
+    },
+    {
+     "source": "SRF News",
+     "region": "CH",
+     "weight": 0.95,
+     "title": "Polen – Fünf Tote und mehr als zehn Verletzte bei Schüssen in Krakau",
+     "summary": "Der polnische Premier Tusk schreibt auf X, dass die Polizei eine Schussabgabe untersuche.",
+     "link": "https://www.srf.ch/news/international/polen-fuenf-tote-und-mehr-als-zehn-verletzte-bei-schuessen-in-krakau",
+     "image": "https://www.srf.ch/static/cms/images//320ws/1d9d24.webp",
+     "aggregator": false,
+     "published": "2026-11-07T15:53:02+00:00"
+    },
+    {
+     "source": "SPIEGEL",
+     "region": "DE",
+     "weight": 0.9,
+     "title": "Krakau: Tote und Verletzte nach Schüssen in Polen",
+     "summary": "Im polnischen Krakau sind nach Schüssen mindestens fünf Menschen gestorben, mehrere wurden verletzt. Der Angreifer wurde laut Polizei »neutralisiert«.",
+     "link": "https://www.spiegel.de/ausland/krakau-tote-und-verletzte-nach-schuessen-in-polen-a-706b54e1-b14f-4068-bf4d-be1aae44cf29#ref=rss",
+     "image": "https://cdn.prod.www.spiegel.de/images/05c1a33d-c763-4424-a763-c6c3dc594a4d_w520_r2.08_fpx55.96_fpy44.98.jpg",
+     "aggregator": false,
+     "published": "2026-11-07T15:31:00+00:00"
+    },
+    {
+     "source": "ZEIT ONLINE",
+     "region": "DE",
+     "weight": 0.9,
+     "title": "Kriminalität: Fünf Tote und Verletzte nach Schüssen im polnischen Krakau",
+     "summary": "",
+     "link": "https://www.zeit.de/news/2026-11/07/fuenf-tote-und-verletzte-nach-schuessen-im-polnischen-krakau",
+     "image": "https://img.zeit.de/news/2026-11/07/fuenf-tote-und-verletzte-nach-schuessen-im-polnischen-krakau-image-group/original__640x360",
+     "aggregator": false,
+     "published": "2026-11-07T15:35:49+00:00"
+    }
+   ]
+  },
+  {
+   "id": 1,
+   "score": 16.58,
+   "outlets": [
+    "tagesschau",
+    "ZDFheute",
+    "ORF",
+    "SPIEGEL",
+    "Handelsblatt",
+    "WELT",
+    "n-tv"
+   ],
+   "regions": [
+    "AT",
+    "DE"
+   ],
+   "trend": [],
+   "newest": "2026-11-07T15:32:00+00:00",
+   "articles": [
+    {
+     "source": "tagesschau",
+     "region": "DE",
+     "weight": 1.0,
+     "title": "\"Bis zu 20.000 Teilnehmer\", Heiko Neumann, HR, zu Demonstrationen in Frankfurt wegen Freiheitspreis an iranisches Volk",
+     "summary": "\"Bis zu 20.000 Teilnehmer\", Heiko Neumann, HR, zu Demonstrationen in Frankfurt wegen Freiheitspreis an iranisches Volk",
+     "link": "https://www.tagesschau.de/video/video-1679728.html",
+     "image": "https://images.tagesschau.de/image/37510a55-fd80-46be-b223-34ba56996fec/AAABobWz5qo/AAABnSSvrFg/16x9-big/sendungsbild-1823848.jpg?width=1920",
+     "aggregator": false,
+     "published": "2026-11-07T11:10:34+00:00"
+    },
+    {
+     "source": "tagesschau",
+     "region": "DE",
+     "weight": 1.0,
+     "title": "Pahlavi nimmt Freiheitspreis für iranisches Volk entgegen",
+     "summary": "Der iranische Oppositionelle Pahlavi hat stellvertretend für das iranische Volk den Freiheitspreis der FDP-nahen Friedrich-Naumann-Stiftung entgegengenommen. Während der Verleihung gab es auch Demonstrationen.",
+     "link": "https://www.tagesschau.de/inland/regional/hessen/pahlavi-friedenspreis-frankfurt-100.html",
+     "image": "https://images.tagesschau.de/image/69afd520-0a62-42d7-98a2-21d6b11496fc/AAABobZlGvc/AAABnSSvrFg/16x9-big/hr-reza-pahlavi-wurde-in-der-frankfurter-paulskirche-mit-applaus-und-standing-ovations-empfangen-100.jpg?width=1920",
+     "aggregator": false,
+     "published": "2026-11-07T13:25:25+00:00"
+    },
+    {
+     "source": "ZDFheute",
+     "region": "DE",
+     "weight": 1.0,
+     "title": "Schah-Sohn nimmt Ehrung entgegen: Tausende Demonstranten in Frankfurt",
+     "summary": "Stellvertretend für das iranische Volk hat Schah-Sohn Pahlavi in Frankfurt den Freiheitspreis entgegengenommen. Tausende nahmen das zum Anlass, gegen das Regime zu protestieren.",
+     "link": "https://www.zdfheute.de/politik/deutschland/frankfurt-demonstrationen-iran-100.html",
+     "image": "https://www.zdfheute.de/assets/iran-demo-frankfurt-100~384x216?cb=1794055970531",
+     "aggregator": false,
+     "published": "2026-11-07T15:32:00+00:00"
+    },
+    {
+     "source": "ORF",
+     "region": "AT",
+     "weight": 0.95,
+     "title": "Freiheitspreis an Schah-Sohn in D: Demonstrationen",
+     "summary": "",
+     "link": "https://orf.at/stories/3447517/",
+     "image": null,
+     "aggregator": false,
+     "published": "2026-11-07T12:27:53+00:00"
+    },
+    {
+     "source": "SPIEGEL",
+     "region": "DE",
+     "weight": 0.9,
+     "title": "Reza Pahlavi: Schah-Sohn nimmt Preis für iranisches Volk in Frankfurt am Main entgegen",
+     "summary": "In der Paulskirche erhält Reza Pahlavi den Freiheitspreis der Friedrich-Naumann-Stiftung und spricht von seiner Rolle als Brückenbauer. Pahlavi gilt als umstritten – trotzdem demonstrieren Tausende für ihn.",
+     "link": "https://www.spiegel.de/ausland/reza-pahlavi-schah-sohn-nimmt-preis-fuer-iranisches-volk-in-frankfurt-am-main-entgegen-a-6bedb06f-70db-470c-bd01-1bf2fb464853#ref=rss",
+     "image": "https://cdn.prod.www.spiegel.de/images/f2fb604e-50e5-4235-9c26-a22261876b3c_w520_r2.08_fpx29.96_fpy44.98.jpg",
+     "aggregator": false,
+     "published": "2026-11-07T13:29:00+00:00"
+    },
+    {
+     "source": "Handelsblatt",
+     "region": "DE",
+     "weight": 0.9,
+     "title": "Freiheitspreis: Schah-Sohn erhält Preis für Irans Volk – Demonstrationen",
+     "summary": "Am Rande der Auszeichnung in der Frankfurter Paulskirche schwenken zahlreiche Anhänger Flaggen für Reza Pahlavi. Andere sehen ihn kritisch. Am Nachmittag ist eine Großkundgebung geplant.",
+     "link": "https://www.handelsblatt.com/politik/deutschland/freiheitspreis-schah-sohn-erhaelt-preis-fuer-irans-volk-demonstrationen/100268096.html",
+     "image": "https://images.handelsblatt.com/b40xCcx0uqoP/cover/900/506/0/0/300/300/0.5/0.5/07.11.2026-hessen-frankfurt-main-der-iranische-oppositionspolitiker-reza-pahlavi-schuettel-den-f.jpg",
+     "aggregator": false,
+     "published": "2026-11-07T15:16:39+00:00"
+    },
+    {
+     "source": "WELT",
+     "region": "DE",
+     "weight": 0.8,
+     "title": "Tausende demonstrieren in Frankfurt am Main für Menschenrechte im Iran",
+     "summary": "In Frankfurt protestieren Tausende gegen Menschenrechtsverletzungen im Iran. Anlass ist der Freiheitspreis für das iranische Volk, den Oppositionsvertreter Reza Pahlavi entgegennimmt.",
+     "link": "https://www.welt.de/politik/article6aef27bfa389bc337cfc91d5/freiheitspreis-an-iranisches-volk-tausende-demonstrieren-in-frankfurt-am-main-fuer-menschenrechte-im-iran.html",
+     "image": "https://images.welt.de/6aef27bfa389bc337cfc91d5/d714fb1e163d09bf9f75ef4cadf60ad9/ci23x11-w1200/dpa-com-261107-936-139865-jpg",
+     "aggregator": false,
+     "published": "2026-11-07T13:48:44+00:00"
+    },
+    {
+     "source": "n-tv",
+     "region": "DE",
+     "weight": 0.8,
+     "title": "Schah-Sohn in Frankfurt: Irans Volk erhält Freiheitspreis - Tausende demonstrieren",
+     "summary": "In Frankfurt erhält Reza Pahlavi einen Freiheitspreis. Nicht nur in der Paulskirche wird er von Anhängern gefeiert. Tausende Menschen demonstrieren auch auf den Straßen und versammeln sich zu einer Großkundgebung.",
+     "link": "https://www.n-tv.de/politik/Irans-Volk-erhaelt-Freiheitspreis-Tausende-demonstrieren-id31506851.html",
+     "image": "https://www.n-tv.de/img/31507228/1794067836/Img_4_3/250/image.jpg",
+     "aggregator": false,
+     "published": "2026-11-07T13:01:41+00:00"
+    }
+   ]
+  },
+  {
+   "id": 2,
+   "score": 14.74,
+   "outlets": [
+    "tagesschau",
+    "Deutschlandfunk",
+    "SPIEGEL",
+    "Süddeutsche",
+    "Handelsblatt",
+    "n-tv"
+   ],
+   "regions": [
+    "DE"
+   ],
+   "trend": [],
+   "newest": "2026-11-07T15:24:51+00:00",
+   "articles": [
+    {
+     "source": "tagesschau",
+     "region": "DE",
+     "weight": 1.0,
+     "title": "Berliner Linkspartei fordert von Emde Mandatsverzicht",
+     "summary": "\"Wir vertrauen ihr nicht mehr\": Nach der Sitzung des Landesvorstands der Berliner Linken hat die Parteiführung die Abgeordnete Emde aufgefordert, ihr Mandat niederzulegen. Aber sie gibt ihr auch noch eine Chance.",
+     "link": "https://www.tagesschau.de/inland/regional/berlin/rbb-berlin-aufforderung-zu-mandatsverzicht-von-emde-nicht-sicher-100.html",
+     "image": "https://images.tagesschau.de/image/bf2bb47a-b8aa-4708-89c7-cace4b8fdada/AAABobT1EM0/AAABnSSvrFg/16x9-big/rbb-vanessa-emde-die-linke-100.jpg?width=1920",
+     "aggregator": false,
+     "published": "2026-11-07T07:38:04+00:00"
+    },
+    {
+     "source": "Deutschlandfunk",
+     "region": "DE",
+     "weight": 0.95,
+     "title": "Antisemitismus-Vorwurf - Berliner Landesverband fordert Abgeordnete Emde zum Mandatsverzicht auf",
+     "summary": "Der Berliner Landesverband der Linkspartei hat die Abgeordnete Emde zum Mandatsverzicht aufgefordert. Die Vorsitzenden Wolter und Schirmer erklärten, Emde solle wegen ihrer Position zum Nahostkonflikt ihr Mandat im Abgeordnetenhaus in Berlin zurückgeben.",
+     "link": "https://www.deutschlandfunk.de/berliner-landesverband-fordert-abgeordnete-emde-zum-mandatsverzicht-auf-102.html",
+     "image": "https://bilder.deutschlandfunk.de/d7/a2/2f/d3/d7a22fd3-5253-46ff-8e64-bb075475afb7/vanessa-emde-die-linke-krankmeldung-abstimmung-umgang-100-1920x1920.jpg",
+     "aggregator": false,
+     "published": "2026-11-07T15:24:51+00:00"
+    },
+    {
+     "source": "SPIEGEL",
+     "region": "DE",
+     "weight": 0.9,
+     "title": "Berlin: Linken-Chefin hofft auf Einlenken von Vanessa Emde",
+     "summary": "Die Berliner Linkenchefin Kerstin Wolter verteidigt die Aufforderung an die umstrittene Abgeordnete Vanessa Emde zum Mandatsverzicht. Ihr Verhalten beim Landesparteitag habe »das Fass zum Überlaufen gebracht«.",
+     "link": "https://www.spiegel.de/politik/deutschland/berlin-linke-chefin-hofft-auf-einlenken-von-vanessa-emde-a-335b4b83-c079-4c10-949d-9abc24777440#ref=rss",
+     "image": "https://cdn.prod.www.spiegel.de/images/77e7c9dd-e075-46ce-8881-13b3c30adc3f_w520_r2.08_fpx54.57_fpy49.98.jpg",
+     "aggregator": false,
+     "published": "2026-11-07T12:31:00+00:00"
+    },
+    {
+     "source": "Süddeutsche",
+     "region": "DE",
+     "weight": 0.9,
+     "title": "Abgeordnetenhaus: Berliner Linke fordert Mandatsverzicht von Emde",
+     "summary": "Wegen umstrittener Aussagen zum Nahost-Konflikt geht die Berliner Linke auf Distanz zu der Abgeordneten. Ob Vanessa Emde ihr Mandat tatsächlich zurückgibt, ist offen.",
+     "link": "https://www.sueddeutsche.de/politik/vanessa-emde-linke-berlin-li.3575552",
+     "image": "https://www.sueddeutsche.de/2026/11/02/f9b72910-8e76-4b7b-b733-1e9ad8c3b3b0.jpg?rect=369%2C27%2C2113%2C1585&width=1000&fm=jpg&q=60",
+     "aggregator": false,
+     "published": "2026-11-06T18:33:25+00:00"
+    },
+    {
+     "source": "Handelsblatt",
+     "region": "DE",
+     "weight": 0.9,
+     "title": "Berlin: Berliner Linke fordert Mandatsverzicht von Emde",
+     "summary": "Die Berliner Linke hat schon länger Ärger mit ihrer propalästinensischen Abgeordneten Vanessa Emde. Nun fordert die Partei-Führung die Rückgabe ihres Mandats.",
+     "link": "https://www.handelsblatt.com/politik/deutschland/berlin-berliner-linke-fordert-mandatsverzicht-von-emde/100267960.html",
+     "image": "https://images.handelsblatt.com/Ee8zjlOBCpT4/cover/900/506/0/0/0/293/0.5/0.5/urnnewsmldpa.com20090101261102-935-1716026.jpg",
+     "aggregator": false,
+     "published": "2026-11-07T11:02:53+00:00"
+    },
+    {
+     "source": "Handelsblatt",
+     "region": "DE",
+     "weight": 0.9,
+     "title": "Regierungsbildung in Berlin: Linke-Abgeordnete Emde muss über Mandatsverzicht entscheiden",
+     "summary": "Die Linke in Berlin erhöht den Druck auf ihre umstrittene Abgeordnete Vanessa Emde. Sie soll ihr Mandat zurückgeben, fordert die Parteiführung. Nun liegt der Ball bei der Neuköllner Politikerin.",
+     "link": "https://www.handelsblatt.com/politik/deutschland/regierungsbildung-in-berlin-linke-abgeordnete-emde-muss-ueber-mandatsverzicht-entscheiden/100268045.html",
+     "image": "https://images.handelsblatt.com/z-peV6YJXimF/cover/900/506/0/0/130/130/0.5/0.5/konstituierende-sitzung-berliner-abgeordnetenhaus.jpg",
+     "aggregator": false,
+     "published": "2026-11-07T03:30:06+00:00"
+    },
+    {
+     "source": "n-tv",
+     "region": "DE",
+     "weight": 0.8,
+     "title": "Aufruf zum Mandatsverzicht: Berliner Linke hofft auf Einlenken Emdes - und eine Entschuldigung",
+     "summary": "Die umstrittene Linke-Abgeordnete Vanessa Emde soll auf ihr Mandat verzichten - dazu fordert sie der Berliner Landesverband auf. Dessen Chefin Wolter hofft noch auf ein Einlenken. Dafür müsse es aber mehr als eine Entschuldigung geben.",
+     "link": "https://www.n-tv.de/politik/Berliner-Linke-hofft-auf-Einlenken-Emdes-und-eine-Entschuldigung-id31506685.html",
+     "image": "https://www.n-tv.de/img/31506662/1794053510/Img_4_3/250/image.jpg",
+     "aggregator": false,
+     "published": "2026-11-07T11:41:28+00:00"
+    }
+   ]
+  },
+  {
+   "id": 3,
+   "score": 13.73,
+   "outlets": [
+    "tagesschau",
+    "ZDFheute",
+    "Deutsche Welle",
+    "DER STANDARD",
+    "WELT",
+    "n-tv.de"
+   ],
+   "regions": [
+    "AT",
+    "DE",
+    "INT"
+   ],
+   "trend": [],
+   "newest": "2026-11-07T15:41:48+00:00",
+   "articles": [
+    {
+     "source": "tagesschau",
+     "region": "DE",
+     "weight": 1.0,
+     "title": "Papst Leo XIV. besucht Uruguay, Tilmann Kleinjung, zum Auftakt der Südamerika-Reise",
+     "summary": "Papst Leo XIV. besucht Uruguay, Tilmann Kleinjung, zum Auftakt der Südamerika-Reise",
+     "link": "https://www.tagesschau.de/video/video-1679838.html",
+     "image": "https://images.tagesschau.de/image/50dc34e9-648f-4bb0-9d17-f47a1733a8f6/AAABobasRLg/AAABnSSvrFg/16x9-big/sendungsbild-1823960.jpg?width=1920",
+     "aggregator": false,
+     "published": "2026-11-07T15:41:48+00:00"
+    },
+    {
+     "source": "tagesschau",
+     "region": "DE",
+     "weight": 1.0,
+     "title": "Papst Leo XIV. beginnt Südamerika-Reise in Uruguay",
+     "summary": "Drei Länder in elf Tagen: In Uruguay beginnt Papst Leo XIV. heute seine Südamerika-Reise. Auf ihn warten auch die Heimat seines Vorgängers und ein Wiedersehen mit der eigenen Vergangenheit. Von Anne Herrberg.",
+     "link": "https://www.tagesschau.de/ausland/amerika/papst-suedamerika-104.html",
+     "image": "https://images.tagesschau.de/image/cc733b1a-41a9-4323-9020-173ca154acf1/AAABobOALEY/AAABnSSvrFg/16x9-big/leo-176.jpg?width=1920",
+     "aggregator": false,
+     "published": "2026-11-07T01:50:19+00:00"
+    },
+    {
+     "source": "tagesschau Ausland",
+     "region": "INT",
+     "weight": 1.0,
+     "title": "Papst Leo XIV. beginnt Südamerika-Reise in Uruguay",
+     "summary": "Drei Länder in elf Tagen: In Uruguay beginnt Papst Leo XIV. heute seine Südamerika-Reise. Auf ihn warten auch die Heimat seines Vorgängers und ein Wiedersehen mit der eigenen Vergangenheit. Von Anne Herrberg.",
+     "link": "https://www.tagesschau.de/ausland/amerika/papst-suedamerika-104.html",
+     "image": "https://images.tagesschau.de/image/cc733b1a-41a9-4323-9020-173ca154acf1/AAABobOALEY/AAABnSSvrFg/16x9-big/leo-176.jpg?width=1920",
+     "aggregator": false,
+     "published": "2026-11-07T01:50:19+00:00"
+    },
+    {
+     "source": "ZDFheute",
+     "region": "DE",
+     "weight": 1.0,
+     "title": "Heimspiel für den Papst in Lateinamerika",
+     "summary": "Seine bisher längste Reise führt Papst Leo XIV. nach Uruguay, Argentinien und Peru. Nach seiner Krebs-OP gab es keinerlei Änderungen am ursprünglich geplanten Reiseverlauf.",
+     "link": "https://www.zdfheute.de/panorama/papst-leo-xiv-suedamerika-reise-100.html",
+     "image": "https://www.zdfheute.de/assets/papst-leo-suedamerika-100~384x216?cb=1793998334412",
+     "aggregator": false,
+     "published": "2026-11-06T22:01:00+00:00"
+    },
+    {
+     "source": "Deutsche Welle",
+     "region": "INT",
+     "weight": 0.95,
+     "title": "Reise mit Strapazen: Papst Leo XIV. ist in Südamerika zurück",
+     "summary": "Der Pontifex besucht zuerst das streng laizistische Uruguay - eine stabile Demokratie, in der die Kirche jedoch nicht besonders populär ist. Auch gesundheitlich ist die Reise für den 71-Jährigen eine Herausforderung.",
+     "link": "https://www.dw.com/de/reise-mit-strapazen-papst-leo-xiv-ist-in-südamerika-zurück/a-79885738?maca=de-rss-de-all-1119-xml-mrss",
+     "image": "https://static.dw.com/image/79885767_302.jpg",
+     "aggregator": false,
+     "published": "2026-11-07T15:09:00+00:00"
+    },
+    {
+     "source": "Deutsche Welle",
+     "region": "INT",
+     "weight": 0.95,
+     "title": "Zwölf Tage, vierzehn Flüge - Papst Leo besucht Südamerika und kehrt heim nach Peru",
+     "summary": "Bei seiner bislang längsten Auslandsreise besucht Papst Leo kurz nach seiner Krebsoperation drei Länder Lateinamerikas. Eine Reise in eine Region, in der die katholische Kirche schrumpft.",
+     "link": "https://www.dw.com/de/zwölf-tage-vierzehn-flüge-papst-leo-besucht-südamerika-und-kehrt-heim-nach-peru/a-79845828?maca=de-rss-de-all-1119-xml-mrss",
+     "image": "https://static.dw.com/image/77443953_302.jpg",
+     "aggregator": false,
+     "published": "2026-11-05T12:39:00+00:00"
+    },
+    {
+     "source": "Deutsche Welle",
+     "region": "INT",
+     "weight": 0.95,
+     "title": "Papst Leo XIV. lobt Europa - und nimmt es in die Pflicht",
+     "summary": "Dort, wo einst Kriege in Europa tobten, ruft Papst Leo nun zum Frieden auf. Er sieht Europa als Vorbild für Aussöhnung zwischen Feinden.",
+     "link": "https://www.dw.com/de/papst-leo-xiv-lobt-europa-und-nimmt-es-in-die-pflicht/a-79463744?maca=de-rss-de-all-1119-xml-mrss",
+     "image": "https://static.dw.com/image/79464601_302.jpg",
+     "aggregator": false,
+     "published": "2026-09-28T17:00:00+00:00"
+    },
+    {
+     "source": "Deutsche Welle",
+     "region": "INT",
+     "weight": 0.95,
+     "title": "Begeisterung: Papst Leo besucht Frankreich und stärkt Europa",
+     "summary": "Frankreich ist im Papst-Fieber. Im Herzen des alten christlichen Europas richtet Leo den Blick auf die Zukunft des Kontinents.",
+     "link": "https://www.dw.com/de/begeisterung-papst-leo-besucht-frankreich-und-stärkt-europa/a-79394184?maca=de-rss-de-all-1119-xml-mrss",
+     "image": "https://static.dw.com/image/79159126_302.jpg",
+     "aggregator": false,
+     "published": "2026-09-24T05:36:00+00:00"
+    }
+   ]
+  },
+  {
+   "id": 4,
+   "score": 11.34,
+   "outlets": [
+    "tagesschau",
+    "Deutschlandfunk",
+    "Süddeutsche",
+    "Handelsblatt"
+   ],
+   "regions": [
+    "DE"
+   ],
+   "trend": [],
+   "newest": "2026-11-07T15:24:51+00:00",
+   "articles": [
+    {
+     "source": "tagesschau",
+     "region": "DE",
+     "weight": 1.0,
+     "title": "Ilse Aigner soll laut ARD-Informationen Bundespräsidentin werden",
+     "summary": "Sie wäre dort die erste Frau: Laut ARD-Hauptstadtstudio werden CDU und CSU Ilse Aigner als Kandidatin für das Amt der Bundespräsidentin vorschlagen. Gemeinsam mit der SPD hätten sie in der Bundesversammlung eine Mehrheit.",
+     "link": "https://www.tagesschau.de/inland/innenpolitik/cdu-csu-aigner-bundespraesidentin-100.html",
+     "image": "https://images.tagesschau.de/image/9aea46e7-124f-4c55-8c85-5a3c827109f2/AAABobF9tAA/AAABnSSvrFg/16x9-big/ilse-aigner-298.jpg?width=1920",
+     "aggregator": false,
+     "published": "2026-11-06T20:36:48+00:00"
+    },
+    {
+     "source": "tagesschau Inland",
+     "region": "DE",
+     "weight": 1.0,
+     "title": "Ilse Aigner soll laut ARD-Informationen Bundespräsidentin werden",
+     "summary": "Sie wäre dort die erste Frau: Laut ARD-Hauptstadtstudio werden CDU und CSU Ilse Aigner als Kandidatin für das Amt der Bundespräsidentin vorschlagen. Gemeinsam mit der SPD hätten sie in der Bundesversammlung eine Mehrheit.",
+     "link": "https://www.tagesschau.de/inland/innenpolitik/cdu-csu-aigner-bundespraesidentin-100.html",
+     "image": "https://images.tagesschau.de/image/9aea46e7-124f-4c55-8c85-5a3c827109f2/AAABobF9tAA/AAABnSSvrFg/16x9-big/ilse-aigner-298.jpg?width=1920",
+     "aggregator": false,
+     "published": "2026-11-06T20:36:48+00:00"
+    },
+    {
+     "source": "Deutschlandfunk",
+     "region": "DE",
+     "weight": 0.95,
+     "title": "Bundespräsidentenwahl - Medienberichte: Auch CDU für Ilse Aigner - Merz schweigt weiter - CDU-Parteikollege Kiesewetter kritisiert Merz",
+     "summary": "Nach der CSU will nun auch die CDU ‌Medienberichten zufolge Ilse Aigner für das Amt der Bundespräsidentin nominieren. Dies berichteten \"Bild\", \"Spiegel\" und \"Süddeutsche Zeitung\" übereinstimmend. Mit einer offiziellen Bekanntgabe wird am Montag gerechnet.",
+     "link": "https://www.deutschlandfunk.de/medienberichte-auch-cdu-fuer-ilse-aigner-merz-schweigt-weiter-cdu-parteikollege-kiesewetter-kritisie-100.html",
+     "image": "https://bilder.deutschlandfunk.de/47/77/f2/e8/4777f2e8-009a-4497-8055-2d3eb6dba31a/ilse-aigner-csu-100-1920x1920.jpg",
+     "aggregator": false,
+     "published": "2026-11-07T15:24:51+00:00"
+    },
+    {
+     "source": "Süddeutsche",
+     "region": "DE",
+     "weight": 0.9,
+     "title": "Reaktionen: „Ilse Aigner schätzen wir“",
+     "summary": "Sowohl Grüne als auch die SPD signalisieren ihre Unterstützung für die Kandidatur der CSU-Politikerin für das Amt der Bundespräsidentin. Die Linke kritisiert das Zustandekommen ihrer möglichen Aufstellung.",
+     "link": "https://www.sueddeutsche.de/politik/ilse-aigner-bundespraesidentin-gruene-spd-linke-reaktionen-li.3575672",
+     "image": "https://www.sueddeutsche.de/2026/11/06/d01dedee-18ef-49a0-96a3-f2ff05a9d079.jpg?rect=288%2C0%2C3424%2C2568&width=1000&fm=jpg&q=60",
+     "aggregator": false,
+     "published": "2026-11-06T21:43:24+00:00"
+    },
+    {
+     "source": "Handelsblatt",
+     "region": "DE",
+     "weight": 0.9,
+     "title": "Bundespräsidentenwahl: Ungekürte Kandidatin Ilse Aigner - Kritik an Kanzler Merz",
+     "summary": "Während die Zustimmung zu Ilse Aigner als neue Bundespräsidentin stieg und stieg, hat der Kanzler immer weiter geschwiegen. Kritik kontert Merz mit einem Hinweis auf das vereinbarte Verfahren.",
+     "link": "https://www.handelsblatt.com/politik/deutschland/bundespraesidentenwahl-ungekuerte-kandidatin-ilse-aigner-kritik-an-kanzler-merz/100268048.html",
+     "image": "https://images.handelsblatt.com/NcEvKE-UEzPg/cover/900/506/0/0/136/135/0.5/0.5/ilse-aigner.jpg",
+     "aggregator": false,
+     "published": "2026-11-07T15:14:08+00:00"
+    },
+    {
+     "source": "Handelsblatt",
+     "region": "DE",
+     "weight": 0.9,
+     "title": "Bundespräsidentenwahl: Die „Nachbarin von nebenan“ - Besuch in Aigners Heimatort",
+     "summary": "Ilse Aigner soll als Kandidatin für das Amt des Staatsoberhaupts nominiert werden. In ihrem Heimatort ist die Freude groß. Was die Menschen dort an ihr schätzen.",
+     "link": "https://www.handelsblatt.com/politik/deutschland/bundespraesidentenwahl-die-nachbarin-von-nebenan-besuch-in-aigners-heimatort/100268104.html",
+     "image": "https://images.handelsblatt.com/Rany5vw8g8A9/cover/900/506/0/0/84/83/0.5/0.5/feldkirchen-westerham-heimat-von-ilse-aigner.jpg",
+     "aggregator": false,
+     "published": "2026-11-07T13:45:22+00:00"
+    }
+   ]
+  },
+  {
+   "id": 5,
+   "score": 11.18,
+   "outlets": [
+    "tagesschau",
+    "ZDFheute",
+    "SRF News",
+    "ZEIT ONLINE"
+   ],
+   "regions": [
+    "CH",
+    "DE"
+   ],
+   "trend": [],
+   "newest": "2026-11-07T14:20:21+00:00",
+   "articles": [
+    {
+     "source": "tagesschau",
+     "region": "DE",
+     "weight": 1.0,
+     "title": "Ilse Aigner im Porträt: Krisenerprobt, bürgernah - und bald Staatsoberhaupt?",
+     "summary": "Ilse Aigner hat beste Chancen, die erste Bundespräsidentin Deutschlands zu werden. Obwohl sie bereits hohe Ämter auf Bundes- und Landesebene innehatte, stand sie nie in allererster Reihe. Ein Porträt von Anita Fünffinger.",
+     "link": "https://www.tagesschau.de/inland/ilse-aigner-portraet-100.html",
+     "image": "https://images.tagesschau.de/image/63349e36-d85c-4d78-ae34-e74ef5be0d6e/AAABobXFrsg/AAABnSSvrFg/16x9-big/ilse-aigner-308.jpg?width=1920",
+     "aggregator": false,
+     "published": "2026-11-07T11:30:37+00:00"
+    },
+    {
+     "source": "tagesschau Inland",
+     "region": "DE",
+     "weight": 1.0,
+     "title": "Ilse Aigner im Porträt: Krisenerprobt, bürgernah - und bald Staatsoberhaupt?",
+     "summary": "Ilse Aigner hat beste Chancen, die erste Bundespräsidentin Deutschlands zu werden. Obwohl sie bereits hohe Ämter auf Bundes- und Landesebene innehatte, stand sie nie in allererster Reihe. Ein Porträt von Anita Fünffinger.",
+     "link": "https://www.tagesschau.de/inland/ilse-aigner-portraet-100.html",
+     "image": "https://images.tagesschau.de/image/63349e36-d85c-4d78-ae34-e74ef5be0d6e/AAABobXFrsg/AAABnSSvrFg/16x9-big/ilse-aigner-308.jpg?width=1920",
+     "aggregator": false,
+     "published": "2026-11-07T11:30:37+00:00"
+    },
+    {
+     "source": "ZDFheute",
+     "region": "DE",
+     "weight": 1.0,
+     "title": "Bundespräsident oder Bundespräsidentin: Das Amt erklärt",
+     "summary": "Der Bundespräsident oder die Bundespräsidentin ist Deutschlands Staatsoberhaupt. Das Grafikvideo erklärt die Aufgaben, die Dauer der Amtszeit und den Ablauf der Wahl.",
+     "link": "https://www.zdfheute.de/video/bundespraesident-wahl-bundesversammlung-100.html",
+     "image": "https://www.zdfheute.de/assets/bundespraesident-bundespraesidentin-tn-100~384x216?cb=1793890019951",
+     "aggregator": false,
+     "published": "2026-11-05T14:46:00+00:00"
+    },
+    {
+     "source": "SRF News",
+     "region": "CH",
+     "weight": 0.95,
+     "title": "Höchstes Amt in Deutschland – Ilse Aigner soll Bundespräsidentin werden",
+     "summary": "Die regierende CDU will sie für das Amt nominieren, berichten Medien.",
+     "link": "https://www.srf.ch/news/international/hoechstes-amt-in-deutschland-ilse-aigner-soll-bundespraesidentin-werden",
+     "image": "https://www.srf.ch/static/cms/images//320ws/61480c.webp",
+     "aggregator": false,
+     "published": "2026-11-06T17:03:04+00:00"
+    },
+    {
+     "source": "ZEIT ONLINE",
+     "region": "DE",
+     "weight": 0.9,
+     "title": "Bundespräsidentin: Wurde auch Zeit",
+     "summary": "Ilse Aigner wird wahrscheinlich die erste Bundespräsidentin. Das hat weniger mit ihr zu tun als mit zwei Männeregos. Trotzdem sollte man es feiern.",
+     "link": "https://www.zeit.de/politik/deutschland/2026-11/bundespraesidentin-ilse-aigner-cdu-csu-kandidatur",
+     "image": "https://img.zeit.de/politik/deutschland/2026-11/bundespraesidentin-ilse-aigner-cdu-csu-kandidatur-bild-2/original__640x360",
+     "aggregator": false,
+     "published": "2026-11-07T14:20:21+00:00"
+    }
+   ]
+  },
+  {
+   "id": 6,
+   "score": 10.74,
+   "outlets": [
+    "Deutschlandfunk",
+    "heise online",
+    "DER STANDARD",
+    "n-tv"
+   ],
+   "regions": [
+    "AT",
+    "DE"
+   ],
+   "trend": [],
+   "newest": "2026-11-07T15:24:51+00:00",
+   "articles": [
+    {
+     "source": "Deutschlandfunk",
+     "region": "DE",
+     "weight": 0.95,
+     "title": "Darknet - Italienischer Außenminister wird Opfer von Cyberangriff - Regierungschefin Meloni macht pro-russische Hacker verantwortlich",
+     "summary": "Der italienische Außenminister Tajani ist nach eigenen Angaben Opfer eines Hackerangriffs geworden.",
+     "link": "https://www.deutschlandfunk.de/italienischer-aussenminister-wird-opfer-von-cyberangriff-regierungschefin-meloni-macht-pro-russische-102.html",
+     "image": "https://bilder.deutschlandfunk.de/c1/27/30/2f/c127302f-a76c-4092-a1cb-1055d9447e27/antonio-tajani-aussenminister-italien-syrien-unterstuetzung-100-1920x1920.jpg",
+     "aggregator": false,
+     "published": "2026-11-07T15:24:51+00:00"
+    },
+    {
+     "source": "heise online",
+     "region": "DE",
+     "weight": 0.85,
+     "title": "Mindfactory informiert Kunden über Cyberangriff",
+     "summary": "Hardwarehändler Mindfactory ist Opfer eines Cyberangriffs geworden. Kunden und die Datenschutzbehörde wurden informiert, die Ermittlungen laufen.",
+     "link": "https://www.heise.de/news/Mindfactory-informiert-Kunden-ueber-Cyberangriff-11515963.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
+     "image": null,
+     "aggregator": false,
+     "published": "2026-11-06T17:22:00+00:00"
+    },
+    {
+     "source": "DER STANDARD",
+     "region": "AT",
+     "weight": 0.85,
+     "title": "Hacker veröffentlichen Daten des italienischen Außenministers",
+     "summary": "Auch Daten von Tajanis Angehörigen wurden veröffentlicht. Nach Bombendrohungen gegen Passagierflugzeuge und Hackerangriffe auf Kühlungsanlagen warnt Verteidigungsminister Crosetto vor einem \"hybriden Krieg\"",
+     "link": "https://www.derstandard.at/story/3000000347973/nach-hackerangriffen-auf-kuehlschraenke-italien-warnt-vor-hybridem-krieg?ref=rss",
+     "image": "https://i.ds.at/f1KJUg/rs:fill:150:0/plain/lido-images/2026/11/07/332541ca-e334-4109-8447-3ac7ccf4a49f.jpg",
+     "aggregator": false,
+     "published": "2026-11-07T08:22:57+00:00"
+    },
+    {
+     "source": "n-tv",
+     "region": "DE",
+     "weight": 0.8,
+     "title": "Tajani spricht von \"Bedrohungen\": Persönliche Daten von Italiens Außenminister landen im Darknet",
+     "summary": "In den vergangenen Woche gab es etliche Berichte über Hackerangriffe. Betroffen ist auch der italienische Außenminister. Dieser gibt an, Cyberkriminelle hätten seine Familie ins Visier genommen. Er sieht einen Zusammenhang mit Hilfen für die Ukraine.",
+     "link": "https://www.n-tv.de/politik/Persoenliche-Daten-von-Italiens-Aussenminister-landen-im-Darknet-id31506816.html",
+     "image": "https://www.n-tv.de/img/31506801/1794057243/Img_4_3/250/image.jpg",
+     "aggregator": false,
+     "published": "2026-11-07T14:37:52+00:00"
+    }
+   ]
+  },
+  {
+   "id": 7,
+   "score": 10.14,
+   "outlets": [
+    "WELT",
+    "n-tv"
+   ],
+   "regions": [
+    "DE"
+   ],
+   "trend": [
+    "Didi Hamann und Oliver Kahn über Kane-Verlängerung, DFB-Nominierung, Jonas Urbig und Manuel Neuer",
+    "Didi Hamann schwärmt von Schalke-Star: „Er ist der Beste“"
+   ],
+   "newest": "2026-11-07T15:43:31+00:00",
+   "articles": [
+    {
+     "source": "WELT",
+     "region": "DE",
+     "weight": 0.8,
+     "title": "„Es gibt immer einen, der in die Suppe spucken muss – und Didi ist dann leider oft dabei“",
+     "summary": "Nach der Vertragsverlängerung mit Harry Kane gab es für den FC Bayern nicht nur Lob. Didi Hamann etwa übte Kritik und erinnerte an das Alter des Weltfußballers. Sportvorstand Max Eberl kann das nicht nachvollziehen.",
+     "link": "https://www.welt.de/sport/fussball/bundesliga/fc-bayern-muenchen/article6aef3c7da389bc337cfc92fc/hamann-nervt-eberl-es-gibt-immer-einen-der-in-die-suppe-spucken-muss-didi-ist-leider-oft-dabei.html",
+     "image": "https://images.welt.de/6aef3c7da389bc337cfc92fc/0cfcb83ad8eb511c9ca9c40106c1c477-master/ci23x11-w1200/dpa-com-261107-935-1727504-jpg",
+     "aggregator": false,
+     "published": "2026-11-07T15:18:02+00:00"
+    },
+    {
+     "source": "n-tv",
+     "region": "DE",
+     "weight": 0.8,
+     "title": "Kritik an Kane-Verlängerung: Eberl von Experte Hamann genervt: \"Muss in die Suppe spucken\"",
+     "summary": "Der FC Bayern verlängert mit Weltfußballer Harry Kane, erntet dafür aber nicht nur Lob. Besonders Kritik von Sky-Experte Dietmar Hamann stößt Sportvorstand Max Eberl dabei übel auf.",
+     "link": "https://www.n-tv.de/sport/fussball/Eberl-von-Experte-Hamann-genervt-Muss-in-die-Suppe-spucken-id31507217.html",
+     "image": "https://www.n-tv.de/img/31507209/1794067304/Img_4_3/250/imago1085537691h.jpg",
+     "aggregator": false,
+     "published": "2026-11-07T15:43:31+00:00"
+    }
+   ]
+  },
+  {
+   "id": 8,
+   "score": 9.89,
+   "outlets": [
+    "tagesschau",
+    "SRF News",
+    "WirtschaftsWoche",
+    "Spiegel"
+   ],
+   "regions": [
+    "CH",
+    "DE",
+    "INT"
+   ],
+   "trend": [],
+   "newest": "2026-11-07T14:57:49+00:00",
+   "articles": [
+    {
+     "source": "tagesschau",
+     "region": "DE",
+     "weight": 1.0,
+     "title": "Wofür Trumps neuer Stabschef Miller steht",
+     "summary": "Seit Freitag ist Stephen Miller neuer Stabschef von Präsident Trump. Der 41-Jährige gilt als rechter Hardliner und Kopf hinter der strikten Einwanderungspolitik. Welches Signal sendet Trump mit der Personalie an Republikaner und Demokraten?",
+     "link": "https://www.tagesschau.de/ausland/amerika/trump-stabschef-miller-100.html",
+     "image": "https://images.tagesschau.de/image/15646591-1e61-481c-b10d-8b00ab988e21/AAABobaEBY4/AAABnSSvrFg/16x9-big/stephen-miller-104.jpg?width=1920",
+     "aggregator": false,
+     "published": "2026-11-07T14:57:49+00:00"
+    },
+    {
+     "source": "tagesschau Ausland",
+     "region": "INT",
+     "weight": 1.0,
+     "title": "Wofür Trumps neuer Stabschef Miller steht",
+     "summary": "Seit Freitag ist Stephen Miller neuer Stabschef von Präsident Trump. Der 41-Jährige gilt als rechter Hardliner und Kopf hinter der strikten Einwanderungspolitik. Welches Signal sendet Trump mit der Personalie an Republikaner und Demokraten?",
+     "link": "https://www.tagesschau.de/ausland/amerika/trump-stabschef-miller-100.html",
+     "image": "https://images.tagesschau.de/image/15646591-1e61-481c-b10d-8b00ab988e21/AAABobaEBY4/AAABnSSvrFg/16x9-big/stephen-miller-104.jpg?width=1920",
+     "aggregator": false,
+     "published": "2026-11-07T14:57:49+00:00"
+    },
+    {
+     "source": "SRF News",
+     "region": "CH",
+     "weight": 0.95,
+     "title": "Neuer Chief of Staff in USA – Stabschef Stephen Miller: Ein Hardliner der Superlative",
+     "summary": "Der US-Präsident zieht nach den Midterms erste personelle Konsequenzen. Ein Versuch, Macht und Stärke zu demonstrieren.",
+     "link": "https://www.srf.ch/news/international/neuer-chief-of-staff-in-usa-stabschef-stephen-miller-ein-hardliner-der-superlative",
+     "image": "https://www.srf.ch/static/cms/images//320ws/e628e3.webp",
+     "aggregator": false,
+     "published": "2026-11-07T10:44:37+00:00"
+    },
+    {
+     "source": "WirtschaftsWoche",
+     "region": "DE",
+     "weight": 0.85,
+     "title": "Stephen Miller: Neuer Stabschef – was über den rechten Hardliner bekannt ist",
+     "summary": "Donald Trump baut seinen Machtzirkel um und setzt auf Stephen Miller. Was Sie über den Strippenzieher der radikalen Abschiebepolitik wissen müssen.",
+     "link": "https://www.wiwo.de/politik/ausland/stephen-miller-neuer-stabschef-was-ueber-den-rechten-hardliner-bekannt-ist/100268072.html",
+     "image": "https://images.wiwo.de/XKXOqNPR6N88/cover/900/506/0/0/0/625/0.5/0.5/archiv-20.02.2025-usa-washington-stephen-miller-stellvertretender-stabschef-des-weissen-hauses.jpg",
+     "aggregator": false,
+     "published": "2026-11-07T08:48:45+00:00"
+    },
+    {
+     "source": "Spiegel",
+     "region": "DE",
+     "weight": 0.6,
+     "title": "(S+) Nach den Midterms: Mit dem neuen Stabschef setzt Trump auf Angst",
+     "summary": "(S+) Nach den Midterms: Mit dem neuen Stabschef setzt Trump auf Angst Spiegel Wofür Trumps neuer Stabschef Miller steht tagesschau.de Nach Mehrheitsverlust: Trump rückt rechten Hardliner ins Zentrum des Machtzirkels - Panorama - SZ.de SZ.de USA: Trump entlässt nach Verlusten bei den Midterms seine Stabschefin DIE ZEIT Neuer Stabschef: Trump setzt mit Hardliner Stephen Miller auf Konfrontation n-tv.de",
+     "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQaTh6Ty1JbG5vN3dwazhlUUhqblJ1OE5CLWl6MGpPRWIzTko3WFQwQ2h6NEd1Vmx4M1poN0o3TkRmdk5laHVFaHFNa0xHLVZoaHNZbThNd09XbFAwVWNZOVdCMUJBc0dCZDVLYWZLa29YemlLMXFVcTVVNGJSU1UzS0lNNVFUQlBHd3dwYmVXVlhwR2Z5d0tPa2R6U2hOS2lLQ21HSDZZMTUzUjR6d3E5SHQ3bzdWamxZU0d1NzVyNXFjZw?oc=5",
+     "image": null,
+     "aggregator": true,
+     "published": "2026-11-07T06:35:00+00:00"
+    }
+   ]
+  },
+  {
+   "id": 9,
+   "score": 9.24,
+   "outlets": [
+    "Deutschlandfunk",
+    "SPIEGEL",
+    "DER STANDARD"
+   ],
+   "regions": [
+    "AT",
+    "DE"
+   ],
+   "trend": [],
+   "newest": "2026-11-07T15:24:51+00:00",
+   "articles": [
+    {
+     "source": "Deutschlandfunk",
+     "region": "DE",
+     "weight": 0.95,
+     "title": "Schwarzmilzferner - Letzter Gletscher in Allgäuer Alpen fließt nicht mehr",
+     "summary": "Der letzte Gletscher in den Allgäuer Alpen hat seinen Status verloren - der Schwarzmilzferner gilt nicht mehr als Gletscher. Er liegt auf knapp 2.500 Metern Höhe auf der österreichischen Seite des Grenz-Bergs Mädelegabel.",
+     "link": "https://www.deutschlandfunk.de/letzter-gletscher-in-allgaeuer-alpen-fliesst-nicht-mehr-102.html",
+     "image": "https://bilder.deutschlandfunk.de/e6/04/02/32/e6040232-2f0f-4b7e-9949-f5e942c772d0/schwarzmilzferner-gletscher-allgaeuer-alpen-100-1280x1280.jpg",
+     "aggregator": false,
+     "published": "2026-11-07T15:24:51+00:00"
+    },
+    {
+     "source": "SPIEGEL",
+     "region": "DE",
+     "weight": 0.9,
+     "title": "Schwarzmilzferner geschrumpft: Forscher beerdigen letzten Gletscher in den Allgäuer Alpen",
+     "summary": "In den Allgäuer Alpen gibt es keinen Gletscher mehr. Experten haben dem Schwarzmilzferner den Status entzogen, nachdem er im Sommer viel Eismasse verloren hatte. Welche Gletscher verschwinden als nächste?",
+     "link": "https://www.spiegel.de/wissenschaft/schwarzmilzferner-geschrumpft-forscher-beerdigen-letzten-gletscher-in-den-allgaeuer-alpen-a-9ac75bb8-9b4a-40c9-a785-fc2c54185215#ref=rss",
+     "image": "https://cdn.prod.www.spiegel.de/images/f8000522-7b37-4a1b-b67a-70f0cbe8e00d_w520_r2.08_fpx37.47_fpy49.97.jpg",
+     "aggregator": false,
+     "published": "2026-11-07T13:37:00+00:00"
+    },
+    {
+     "source": "DER STANDARD",
+     "region": "AT",
+     "weight": 0.85,
+     "title": "Letzter Gletscher auf Tiroler Seite der Allgäuer Hochalpen vor Aus",
+     "summary": "Laut dem Glaziologen Christoph Mayer wird der Schwarzmilzferner Gletscher nach dem kommenden Sommer aller Voraussicht nach komplett verschwunden sein",
+     "link": "https://www.derstandard.at/story/3000000348003/letzter-gletscher-auf-tiroler-seite-der-allg228uer-hochalpen-vor-aus?ref=rss",
+     "image": "https://i.ds.at/2cYmqw/rs:fill:150:0/plain/lido-images/2025/09/29/19e874dc-7db4-453e-99e2-ae056d71ef6d.jpeg",
+     "aggregator": false,
+     "published": "2026-11-07T13:15:51+00:00"
+    }
+   ]
+  },
+  {
+   "id": 10,
+   "score": 9.24,
+   "outlets": [
+    "Deutschlandfunk",
+    "SPIEGEL",
+    "DER STANDARD"
+   ],
+   "regions": [
+    "AT",
+    "DE"
+   ],
+   "trend": [],
+   "newest": "2026-11-07T15:24:51+00:00",
+   "articles": [
+    {
+     "source": "Deutschlandfunk",
+     "region": "DE",
+     "weight": 0.95,
+     "title": "Nach CAS-Urteil - Eishockey-WM in Deutschland mit Russland? Weltverband IIHF spielt auf Zeit",
+     "summary": "Im Streit um eine Teilnahme Russlands an der Eishockey-Weltmeisterschaft im kommenden Jahr in Deutschland spielt der Weltverband IIHF auf Zeit. Die \"International Ice Hockey Federation\" kündigte in Zürich an, für das weitere Vorgehen - Zitat - \"alle verfügbaren Optionen\" zu prüfen.",
+     "link": "https://www.deutschlandfunk.de/eishockey-wm-in-deutschland-mit-russland-weltverband-iihf-spielt-auf-zeit-102.html",
+     "image": "https://bilder.deutschlandfunk.de/78/5c/ab/c9/785cabc9-ab8b-4b01-b182-e6e10b1040e9/eishockey-russland-100-1920x1920.jpg",
+     "aggregator": false,
+     "published": "2026-11-07T15:24:51+00:00"
+    },
+    {
+     "source": "SPIEGEL",
+     "region": "DE",
+     "weight": 0.9,
+     "title": "Eishockey-WM in Deutschland: Bundesregierung hält Austragung mit Teilnahme Russlands für »unmöglich«",
+     "summary": "Die Bundesregierung hat im Streit über die Eishockey-WM in Deutschland 2027 ein Machtwort gesprochen: Sie sieht keine Austragung der Titelkämpfe, wenn Russland teilnehmen darf.",
+     "link": "https://www.spiegel.de/sport/eishockey/eishockey-wm-in-deutschland-bundesregierung-haelt-austragung-mit-teilnahme-russlands-fuer-unmoeglich-a-77ae7f94-d8ca-4230-a5d0-bf88126ef2d1#ref=rss",
+     "image": "https://cdn.prod.www.spiegel.de/images/a549fd4d-0001-0004-0000-000001052426_w520_r2.08_fpx62.14_fpy49.85.jpg",
+     "aggregator": false,
+     "published": "2026-11-07T09:39:00+00:00"
+    },
+    {
+     "source": "DER STANDARD",
+     "region": "AT",
+     "weight": 0.85,
+     "title": "Eishockey: IIHF prüft Russland-Rückkehr, Belarus bleibt gesperrt",
+     "summary": "Weltverband werde trotz Ablehnung des CAS-Urteils Schritte zur Rückkehr Russlands einleiten",
+     "link": "https://www.derstandard.at/story/3000000348016/eishockey-iihf-prueft-russland-rueckkehr-belarus-bleibt-gesperrt?ref=rss",
+     "image": "https://i.ds.at/bZYWPw/rs:fill:150:0/plain/lido-images/2026/10/30/fbcf5c2d-c466-4497-8464-4e2bec397ae9.jpg",
+     "aggregator": false,
+     "published": "2026-11-07T14:32:10+00:00"
+    }
+   ]
+  },
+  {
+   "id": 11,
+   "score": 9.19,
+   "outlets": [
+    "ZDFheute",
+    "ZEIT ONLINE",
+    "WELT"
+   ],
+   "regions": [
+    "DE"
+   ],
+   "trend": [],
+   "newest": "2026-11-07T15:15:38+00:00",
+   "articles": [
+    {
+     "source": "ZDFheute",
+     "region": "DE",
+     "weight": 1.0,
+     "title": "Lars Klingbeil beim SPD-Wirtschaftsforum",
+     "summary": "Vortrag und Podium mit Bundesfinanzminister Lars Klingbeil (SPD) beim Wirtschaftsforum seiner Partei",
+     "link": "https://www.phoenix.de/wirtschaftskonferenz-a-5244967.html",
+     "image": "https://www.zdfheute.de/assets/teaser-phoenix-lars-klingbeil-beim-spd-wirtschaftsforum-5245251-100~384x216?cb=1793870581955",
+     "aggregator": false,
+     "published": "2026-11-04T14:50:00+00:00"
+    },
+    {
+     "source": "ZEIT ONLINE",
+     "region": "DE",
+     "weight": 0.9,
+     "title": "SPD-Vorsitz: Lars Klingbeil lässt erneute Kandidatur für SPD-Spitze offen",
+     "summary": "Zur Frage, ob er SPD-Vorsitzender bleiben will, hält sich Lars Klingbeil bedeckt. Ihm gehe es um die beste Aufstellung der Partei. Er klebe aber nicht an seinem Stuhl.",
+     "link": "https://www.zeit.de/politik/deutschland/2026-11/spd-vorsitz-lars-klingbeil-baerbel-bas-hubertus-heil-manuela-schwesig-gxe",
+     "image": "https://img.zeit.de/politik/deutschland/2026-11/spd-vorsitz-lars-klingbeil-baerbel-bas-hubertus-heil-manuela-schwesig-gxe-foto-1/original__640x360",
+     "aggregator": false,
+     "published": "2026-11-07T15:15:38+00:00"
+    },
+    {
+     "source": "WELT",
+     "region": "DE",
+     "weight": 0.8,
+     "title": "„Da klebe ich auch nicht am Stuhl“ – Klingbeil lässt Kandidatur um Parteivorsitz offen",
+     "summary": "Die SPD wählt im Januar nach Bärbel Bas’ Rücktritt eine neue Spitze. Parteichef Lars Klingbeil lässt seine Kandidatur offen und verweist auf Kritik an ihm.",
+     "link": "https://www.welt.de/politik/article6aef30e3798c07f951a8f329/spd-neuaufstellung-da-klebe-ich-auch-nicht-am-stuhl-klingbeil-laesst-kandidatur-um-parteivorsitz-offen.html",
+     "image": "https://images.welt.de/6aef30e3798c07f951a8f329/f25d710fe096a78c91b51cc3bdc87fdb-master/ci23x11-w1200/dpa-com-261107-936-139719-jpg",
+     "aggregator": false,
+     "published": "2026-11-07T14:24:02+00:00"
+    }
+   ]
+  },
+  {
+   "id": 12,
+   "score": 9.05,
+   "outlets": [
+    "Handelsblatt",
+    "WirtschaftsWoche",
+    "n-tv"
+   ],
+   "regions": [
+    "DE"
+   ],
+   "trend": [],
+   "newest": "2026-11-07T15:44:35+00:00",
+   "articles": [
+    {
+     "source": "Handelsblatt",
+     "region": "DE",
+     "weight": 0.9,
+     "title": "US-Holdinggesellschaft: Berkshire Hathaway kauft mehr eigene Aktien zurück",
+     "summary": "Der Konzern kaufte im dritten Quartal eigene Aktien für 9,6 Milliarden Dollar zurück. Zugleich investiert der Konzern in neue Unternehmen.",
+     "link": "https://www.handelsblatt.com/finanzen/maerkte/aktien/us-holdinggesellschaft-berkshire-hathaway-kauft-mehr-eigene-aktien-zurueck/100268115.html",
+     "image": "https://images.handelsblatt.com/TUWWunzi3jWw/cover/900/506/0/0/284/284/0.5/0.5/the-company-logo-for-the-berkshire-hathaway-inc.-is-displayed-on-a-screen-at-the-new-york-stock-exch.jpg",
+     "aggregator": false,
+     "published": "2026-11-07T14:36:54+00:00"
+    },
+    {
+     "source": "WirtschaftsWoche",
+     "region": "DE",
+     "weight": 0.85,
+     "title": "Börse: Berkshire Hathaway kauft eigene Papiere im Wert von 9,6 Milliarden Dollar zurück",
+     "summary": "Berkshire Hathaway greift wieder stärker zu und kauft eigene Aktien zurück. Unter Greg Abel kommt Bewegung in die gewaltigen Geldreserven des Konzerns.",
+     "link": "https://www.wiwo.de/finanzen/boerse/boerse-berkshire-hathaway-kauft-eigene-papiere-im-wert-von-96-milliarden-dollar-zurueck/100268116.html",
+     "image": "https://images.wiwo.de/efGWoMUztlN9/cover/900/506/0/0/230/231/0.5/0.5/file-photo-a-screen-displays-the-trading-information-for-berkshire-hathaway-inc.-as-traders-work-on.jpg",
+     "aggregator": false,
+     "published": "2026-11-07T14:37:35+00:00"
+    },
+    {
+     "source": "n-tv",
+     "region": "DE",
+     "weight": 0.8,
+     "title": "Anders als unter Buffett: Berkshire Hathaway kauft mehr eigene Aktien zurück",
+     "summary": "Berkshire Hathaway setzt verstärkt auf Aktienrückkäufe und gibt Milliarden aus den gewaltigen Cashreserven aus. Unter dem neuen Chef zeichnet sich damit ein Kurswechsel seinem Vorgänger gegenüber ab. Gleichzeitig schwächelt das operative Geschäft.",
+     "link": "https://www.n-tv.de/wirtschaft/Berkshire-Hathaway-kauft-mehr-eigene-Aktien-zurueck-id31507184.html",
+     "image": "https://www.n-tv.de/img/31507189/1794066818/Img_4_3/250/523186064.jpg",
+     "aggregator": false,
+     "published": "2026-11-07T15:44:35+00:00"
+    }
+   ]
+  },
+  {
+   "id": 13,
+   "score": 9.04,
+   "outlets": [
+    "Deutschlandfunk",
+    "DER STANDARD",
+    "n-tv"
+   ],
+   "regions": [
+    "AT",
+    "DE"
+   ],
+   "trend": [],
+   "newest": "2026-11-07T15:24:51+00:00",
+   "articles": [
+    {
+     "source": "Deutschlandfunk",
+     "region": "DE",
+     "weight": 0.95,
+     "title": "\"Eine fantastische Frau\" - Chilenischer Oscar-Regisseur Sebastián Lelio ist gestorben",
+     "summary": "Der chilenische Regisseur Sebastián Lelio ist im Alter von 52 Jahren gestorben. Sein Drama \"Eine fantastische Frau\" gewann 2018 den Oscar als bester fremdsprachiger Film. Es war das bislang einzige Mal, dass der Auslands-Oscar nach Chile ging. Lelio lebte für mehrere Jahre in Berlin.",
+     "link": "https://www.deutschlandfunk.de/chilenischer-oscar-regisseur-sebasti-n-lelio-ist-gestorben-102.html",
+     "image": "https://bilder.deutschlandfunk.de/76/61/78/19/76617819-8d23-4414-9332-daf8d9ab6d75/sebastian-lelio-chile-regisseur-100-1920x1920.jpg",
+     "aggregator": false,
+     "published": "2026-11-07T15:24:51+00:00"
+    },
+    {
+     "source": "DER STANDARD",
+     "region": "AT",
+     "weight": 0.85,
+     "title": "Chilenischer Starregisseur Sebastián Lelio gestorben",
+     "summary": "Der 52-Jährige gewann 2018 den Auslandsoscar für \"Eine fantastische Frau\". Er starb in seiner Heimat Chile aus \"gesundheitlichen Gründen\"",
+     "link": "https://www.derstandard.at/story/3000000347977/chilenischer-starregisseur-sebasti225n-lelio-gestorben?ref=rss",
+     "image": "https://i.ds.at/Jcfbjw/rs:fill:150:0/plain/lido-images/2026/11/07/61da06b8-8dd3-4b08-8da6-159faf3bfc2b.jpg",
+     "aggregator": false,
+     "published": "2026-11-07T09:01:05+00:00"
+    },
+    {
+     "source": "n-tv",
+     "region": "DE",
+     "weight": 0.8,
+     "title": "Er lebte mehrere Jahre in Berlin: Oscar-Gewinner Sebastián Lelio ist tot",
+     "summary": "Mit \"Eine fantastische Frau\" wird er international bekannt. Berlin ist zeitweise seine Wahlheimat. Die Stadt inspiriert ihn für weitere Erfolgsfilme, in Kreuzberg hat er sogar ein eigenes Restaurant. Nun ist der Starregisseur Sebastián Lelio gestorben.",
+     "link": "https://www.n-tv.de/leute/Starregisseur-und-Oscar-Gewinner-Sebastian-Lelio-ist-tot-id31506139.html",
+     "image": "https://www.n-tv.de/img/31506142/1794033331/Img_4_3/250/631474951.jpg",
+     "aggregator": false,
+     "published": "2026-11-07T06:06:13+00:00"
+    }
+   ]
+  },
+  {
+   "id": 14,
+   "score": 8.83,
+   "outlets": [
+    "ZEIT ONLINE",
+    "n-tv"
+   ],
+   "regions": [
+    "DE"
+   ],
+   "trend": [
+    "Alte Schule und Neue Klasse: BMW 3er kommt im Doppelpack"
+   ],
+   "newest": "2026-11-07T15:41:40+00:00",
+   "articles": [
+    {
+     "source": "ZEIT ONLINE",
+     "region": "DE",
+     "weight": 0.9,
+     "title": "Ermittler bitten um Hinweise: Polizei sucht vermisste 13-Jährige - Verbrechen befürchtet",
+     "summary": "",
+     "link": "https://www.zeit.de/news/2026-11/07/suche-nach-13-jaehriger-schuelerin-in-berlin-wird-fortgesetzt",
+     "image": "https://img.zeit.de/news/2026-11/07/suche-nach-13-jaehriger-schuelerin-in-berlin-wird-fortgesetzt-image-group/original__640x360",
+     "aggregator": false,
+     "published": "2026-11-07T15:41:40+00:00"
+    },
+    {
+     "source": "ZEIT ONLINE",
+     "region": "DE",
+     "weight": 0.9,
+     "title": "Vermisste Schülerin in Berlin: Berliner Polizei vermutet Verbrechen im Fall um vermisste 13-Jährige",
+     "summary": "Seit Dienstagmorgen wird eine 13 Jahre alte Schülerin aus Berlin vermisst. Sie wollte zur Schule, doch kam dort nie an. Die Polizei schließt eine Straftat nicht aus.",
+     "link": "https://www.zeit.de/gesellschaft/2026-11/vermisste-schuelerin-berlin-marzahn-13-jahre-lisa-t-gxe",
+     "image": "https://img.zeit.de/gesellschaft/2026-11/vermisste-schuelerin-berlin-marzahn-13-jahre-lisa-t-gxe-foto-1/original__640x360",
+     "aggregator": false,
+     "published": "2026-11-07T13:22:13+00:00"
+    },
+    {
+     "source": "n-tv",
+     "region": "DE",
+     "weight": 0.8,
+     "title": "Auf dem Schulweg verschwunden: Verdacht einer Straftat: Berliner Polizei sucht 13-Jährige",
+     "summary": "Die 13 Jahre alte Lisa T. verlässt am Dienstagmorgen ihr Wohnhaus in Berlin-Marzahn und macht sich auf zur Schule. Doch dort kommt sie nie an. Die Polizei ist mit mehr als 140 Beamten, Diensthunden und einem Hubschrauber im Großeinsatz.",
+     "link": "https://www.n-tv.de/panorama/Verdacht-einer-Straftat-Berliner-Polizei-sucht-13-Jaehrige-Lisa-T-id31506388.html",
+     "image": "https://www.n-tv.de/img/31506377/1794044669/Img_4_3/250/631326214.jpg",
+     "aggregator": false,
+     "published": "2026-11-07T09:27:09+00:00"
+    }
+   ]
+  },
+  {
+   "id": 15,
+   "score": 8.78,
+   "outlets": [
+    "SPIEGEL",
+    "Handelsblatt",
+    "n-tv"
+   ],
+   "regions": [
+    "DE"
+   ],
+   "trend": [],
+   "newest": "2026-11-07T14:38:00+00:00",
+   "articles": [
+    {
+     "source": "SPIEGEL",
+     "region": "DE",
+     "weight": 0.9,
+     "title": "BSW-Spitze kritisiert Nominierung von Constantin Schreiber für die Bundesversammlung",
+     "summary": "Im BSW gibt es Zwist, weil der sächsische Landesverband den früheren »Tagesschau«-Sprecher Constantin Schreiber als Wahlmann für die Bundespräsidentenwahl nominiert hat. Schreiber will einen Kandidaten vorschlagen.",
+     "link": "https://www.spiegel.de/politik/bsw-spitze-kritisiert-nominierung-von-constantin-schreiber-fuer-die-bundesversammlung-a-3e0ec6e6-ccfd-47dd-bf21-1877ca10ae19#ref=rss",
+     "image": "https://cdn.prod.www.spiegel.de/images/ceda6323-4895-42f5-8945-e46eea11f059_w520_r2.08_fpx52.66_fpy52.98.jpg",
+     "aggregator": false,
+     "published": "2026-11-07T14:38:00+00:00"
+    },
+    {
+     "source": "Handelsblatt",
+     "region": "DE",
+     "weight": 0.9,
+     "title": "Wahl des Staatsoberhaupts: BSW-Spitze kritisiert Nominierung von Constantin Schreiber",
+     "summary": "Die sächsische BSW-Fraktion nominiert den Journalisten Constantin Schreiber für die Bundesversammlung – doch die Parteichefs halten die Personalie für nicht überzeugend. Was sie daran kritisieren.",
+     "link": "https://www.handelsblatt.com/politik/deutschland/wahl-des-staatsoberhaupts-bsw-spitze-kritisiert-nominierung-von-constantin-schreiber/100268097.html",
+     "image": "https://images.handelsblatt.com/CRCpBryS0ZkT/cover/900/506/0/0/107/106/0.5/0.5/constantin-schreiber-ist-bsw-kandidat-bei-der-bundesversammlung.jpg",
+     "aggregator": false,
+     "published": "2026-11-07T12:53:09+00:00"
+    },
+    {
+     "source": "n-tv",
+     "region": "DE",
+     "weight": 0.8,
+     "title": "Parteispitze kritisiert Sachsen: Nominierung von Constantin Schreiber sorgt für Zwist im BSW",
+     "summary": "Constantin Schreiber ist vor allem als Journalist und früherer \"Tagesschau\"-Sprecher bekannt. Nun nominiert ihn das BSW in Sachsen für die Bundesversammlung - und begründet den Schritt mit Meinungsvielfalt. Doch aus den eigenen Reihen kommt Gegenwind.",
+     "link": "https://www.n-tv.de/politik/Nominierung-von-Constantin-Schreiber-sorgt-fuer-Zwist-im-BSW-id31506903.html",
+     "image": "https://www.n-tv.de/img/31506913/1794060437/Img_4_3/250/imago0846453882h.jpg",
+     "aggregator": false,
+     "published": "2026-11-07T14:27:36+00:00"
+    }
+   ]
+  },
+  {
+   "id": 16,
+   "score": 8.45,
+   "outlets": [
+    "tagesschau Inland",
+    "ZDFheute",
+    "Süddeutsche"
+   ],
+   "regions": [
+    "DE"
+   ],
+   "trend": [],
+   "newest": "2026-11-07T11:50:55+00:00",
+   "articles": [
+    {
+     "source": "tagesschau Inland",
+     "region": "DE",
+     "weight": 1.0,
+     "title": "Was Aiwangers Tod für Bayerns Koalition bedeutet",
+     "summary": "Mit Hubert Aiwanger verlieren die Freien Wähler ihr Zentrum und ihre Anziehungskraft. Das könnte die politischen Verhältnisse in Bayern nachhaltig verändern. Noch sind sie Regierungspartner der CSU. Von J. Wengert.",
+     "link": "https://www.tagesschau.de/inland/innenpolitik/aiwanger-soeder-analyse-100.html",
+     "image": "https://images.tagesschau.de/image/3f0f9936-ad9c-43b6-9b64-8a657fea245e/AAABoa435AM/AAABnSSvrFg/16x9-big/aiwanger-soeder-112.jpg?width=1920",
+     "aggregator": false,
+     "published": "2026-11-06T09:30:52+00:00"
+    },
+    {
+     "source": "tagesschau Inland",
+     "region": "DE",
+     "weight": 1.0,
+     "title": "Freie Wähler beraten nach Aiwangers Tod über weiteres Vorgehen",
+     "summary": "Nach dem plötzlichen Tod von Hubert Aiwanger ist die Bestürzung über Bayerns Grenzen hinaus groß. Die Freien Wähler müssen sich jetzt neu aufstellen - denn Aiwanger war die zentrale Figur seiner Partei.",
+     "link": "https://www.tagesschau.de/inland/freie-waehler-beraten-naechste-schritte-nach-aiwangers-tod-100.html",
+     "image": "https://images.tagesschau.de/image/5cdacbc5-bc6b-47f3-8f71-fd283e85ad69/AAABoavM7qM/AAABnSSvrFg/16x9-big/freie-waehler-109.jpg?width=1920",
+     "aggregator": false,
+     "published": "2026-11-05T12:38:28+00:00"
+    },
+    {
+     "source": "tagesschau Inland",
+     "region": "DE",
+     "weight": 1.0,
+     "title": "Reaktionen auf Tod Aiwangers: Söder spricht von \"absoluter Tragödie\"",
+     "summary": "Der unerwartete Tod von Hubert Aiwanger hat Bestürzung ausgelöst. Der Chef der Freien Wähler war leblos in einem Hotel aufgefunden worden. Bayerns Ministerpräsident Söder sprach von einer \"absoluten Tragödie\". Er würdigte Aiwanger als \"starken Bayern\".",
+     "link": "https://www.tagesschau.de/inland/innenpolitik/aiwanger-gestorben-reaktionen-100.html",
+     "image": "https://images.tagesschau.de/image/9526788b-a593-416f-9d83-7c024e337cc0/AAABoapntBI/AAABnSSvrFg/16x9-big/hubert-aiwanger-204.jpg?width=1920",
+     "aggregator": false,
+     "published": "2026-11-05T10:21:40+00:00"
+    },
+    {
+     "source": "tagesschau Inland",
+     "region": "DE",
+     "weight": 1.0,
+     "title": "Bayerns Wirtschaftsminister Hubert Aiwanger ist tot",
+     "summary": "Bayerns Wirtschaftsminister und Vize-Ministerpräsident Hubert Aiwanger ist tot, wie das ARD-Hauptstadtstudio aus Regierungskreisen erfuhr. Der Freie-Wähler-Chef starb demnach im Alter von 55 Jahren in einem Berliner Hotel.",
+     "link": "https://www.tagesschau.de/inland/innenpolitik/hubert-aiwanger-tot-100.html",
+     "image": "https://images.tagesschau.de/image/330f6630-9913-4ebc-a661-85f4840220a5/AAABoahdBeA/AAABnSSvrFg/16x9-big/hubert-aiwanger-202.jpg?width=1920",
+     "aggregator": false,
+     "published": "2026-11-04T23:35:58+00:00"
+    },
+    {
+     "source": "ZDFheute",
+     "region": "DE",
+     "weight": 1.0,
+     "title": "Freie Wähler nach Tod von Hubert Aiwanger: \"Nichts was begonnen wurde, wird stoppen\"",
+     "summary": "Pressekonferenz der Freien Wähler zum Tod Hubert Aiwangers in phoenix vor ort am 06.11.2026",
+     "link": "https://www.phoenix.de/php/mediaplayer/vod_embed.php?cmsid=5245881",
+     "image": "https://www.zdfheute.de/assets/teaser-phoenix-freie-waehler-nach-tod-von-hubert-aiwanger-nichts-was-begonnen-wurde-wird-stoppen-5245881-100~384x216?cb=1793990569160",
+     "aggregator": false,
+     "published": "2026-11-06T15:00:00+00:00"
+    },
+    {
+     "source": "Süddeutsche",
+     "region": "DE",
+     "weight": 0.9,
+     "title": "Freie Wähler: Nur eine kann das Aiwanger-Gefühl in die Zukunft retten",
+     "summary": "Nach Hubert Aiwangers Tod geht es für die Freien Wähler um die Existenz. Niemand weiß, ob seine Lebensgefährtin die Kraft dafür findet, doch sie könnte die Linie des alles prägenden Parteichefs fortsetzen: Tanja Schweiger.",
+     "link": "https://www.sueddeutsche.de/bayern/freie-waehler-aiwanger-nachfolge-tanja-schweiger-li.3575297",
+     "image": "https://www.sueddeutsche.de/2025/03/13/73ec50a2-19cf-4de0-a459-0ee7f59d9647.jpeg?rect=167%2C0%2C2667%2C2000&width=1000&fm=jpg&q=60",
+     "aggregator": false,
+     "published": "2026-11-07T11:50:55+00:00"
+    }
+   ]
+  },
+  {
+   "id": 17,
+   "score": 8.34,
+   "outlets": [
+    "tagesschau",
+    "Deutschlandfunk",
+    "tagesschau.de"
+   ],
+   "regions": [
+    "DE",
+    "INT"
+   ],
+   "trend": [],
+   "newest": "2026-11-07T15:24:51+00:00",
+   "articles": [
+    {
+     "source": "tagesschau",
+     "region": "DE",
+     "weight": 1.0,
+     "title": "Was passiert bei einer Bombendrohung im Flugzeug?",
+     "summary": "Die Bombendrohungen im europäischen Luftverkehr alarmieren Behörden - und verunsichern Passagiere. Gibt es solche Vorfälle öfter? Und was passiert bei einer Bombendrohung an Bord? Ein Überblick über die wichtigsten Fragen.",
+     "link": "https://www.tagesschau.de/ausland/bombendrohungen-faq-100.html",
+     "image": "https://images.tagesschau.de/image/09372948-5e30-4d1a-a149-94422fc7b84a/AAABobQRL9c/AAABnSSvrFg/16x9-big/flugzeug-193.jpg?width=1920",
+     "aggregator": false,
+     "published": "2026-11-07T08:10:26+00:00"
+    },
+    {
+     "source": "tagesschau Ausland",
+     "region": "INT",
+     "weight": 1.0,
+     "title": "Was passiert bei einer Bombendrohung im Flugzeug?",
+     "summary": "Die Bombendrohungen im europäischen Luftverkehr alarmieren Behörden - und verunsichern Passagiere. Gibt es solche Vorfälle öfter? Und was passiert bei einer Bombendrohung an Bord? Ein Überblick über die wichtigsten Fragen.",
+     "link": "https://www.tagesschau.de/ausland/bombendrohungen-faq-100.html",
+     "image": "https://images.tagesschau.de/image/09372948-5e30-4d1a-a149-94422fc7b84a/AAABobQRL9c/AAABnSSvrFg/16x9-big/flugzeug-193.jpg?width=1920",
+     "aggregator": false,
+     "published": "2026-11-07T08:10:26+00:00"
+    },
+    {
+     "source": "tagesschau Ausland",
+     "region": "INT",
+     "weight": 1.0,
+     "title": "Mehrere Bombendrohungen gegen Passagierflüge in Europa",
+     "summary": "Wieder gibt es Bombendrohungen gegen Flugzeuge im europäischen Luftraum. Unter anderem eine irische Maschine musste außerplanmäßig auf einem französischen Luftwaffenstützpunkt landen. Die Hintergründe sind bisher nicht bekannt.",
+     "link": "https://www.tagesschau.de/ausland/europa/bombendrohungen-flugzeuge-100.html",
+     "image": "https://images.tagesschau.de/image/9bc70d70-2865-4654-99e6-7ff106653283/AAABoa1MoPo/AAABnSSvrFg/16x9-big/flugzeug-362.jpg?width=1920",
+     "aggregator": false,
+     "published": "2026-11-05T14:20:37+00:00"
+    },
+    {
+     "source": "Deutschlandfunk",
+     "region": "DE",
+     "weight": 0.95,
+     "title": "Europa - Bombendrohungen gegen Flüge in Europa weiten sich aus",
+     "summary": "Die Serie rätselhafter Bombendrohungen im europäischen Luftverkehr hält an.",
+     "link": "https://www.deutschlandfunk.de/bombendrohungen-gegen-fluege-in-europa-weiten-sich-aus-100.html",
+     "image": "https://bilder.deutschlandfunk.de/NO/VA/_d/3f/NOVA_d3ffa859b5a77631a054e8eb6c03a203/craft-13163325-asset-100-1920x1920.jpg",
+     "aggregator": false,
+     "published": "2026-11-07T15:24:51+00:00"
+    },
+    {
+     "source": "tagesschau.de",
+     "region": "DE",
+     "weight": 0.6,
+     "title": "Was passiert bei einer Bombendrohung im Flugzeug?",
+     "summary": "Was passiert bei einer Bombendrohung im Flugzeug? tagesschau.de Spaniens Außenminister sieht hinter Bombendrohungen hybride Aggression DIE ZEIT Wie mit Bombendrohungen umgegangen wird Goslarsche.de (S+) Bombendrohungen gegen Flugzeuge: Was bisher bekannt ist Spiegel Bombendrohungen in Europa: Anzeichen auf koordinierten Angriff verdichten sich tagesschau.de",
+     "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5IYUVCcm1aRzBxOE9aenJwYW9BTTFMS3JHcGMwUVVSUnNOeHpxaUJPZUF0NUdVR2U4V1FCQ1dEZzVsajNXZlRJR0xEcndFOXRPXzVXcEc1UW82Rl92QkJvU0lFcXZRMDdoZU5WV2tBNA?oc=5",
+     "image": null,
+     "aggregator": true,
+     "published": "2026-11-07T08:10:00+00:00"
+    }
+   ]
+  },
+  {
+   "id": 18,
+   "score": 8.27,
+   "outlets": [
+    "Deutschlandfunk",
+    "ZEIT ONLINE",
+    "hessenschau.de"
+   ],
+   "regions": [
+    "DE"
+   ],
+   "trend": [],
+   "newest": "2026-11-07T15:48:07+00:00",
+   "articles": [
+    {
+     "source": "Deutschlandfunk",
+     "region": "DE",
+     "weight": 0.95,
+     "title": "Frankfurt am Main - Tausende Menschen demonstrieren für freie Gesellschaft im Iran - Preisverleihung für Reza Pahlavi",
+     "summary": "Tausende Menschen haben in Frankfurt gegen die Mullah-Regierung im Iran demonstriert. Sie feierten den iranischen Exil-Oppositionspolitiker Reza Pahlavi, der zuvor in der Paulskirche im Namen des iranischen Volkes den Freiheitspreis der FDP-nahen Friedrich-Naumann-Stiftung entgegengenommen hatte.",
+     "link": "https://www.deutschlandfunk.de/tausende-menschen-demonstrieren-fuer-freie-gesellschaft-im-iran-preisverleihung-fuer-reza-pahlavi-100.html",
+     "image": "https://bilder.deutschlandfunk.de/92/83/1b/1f/92831b1f-306b-4c56-b1f3-5eabbd4a8de9/iran-proteste-frankfurt-100-1920x1920.jpg",
+     "aggregator": false,
+     "published": "2026-11-07T15:24:51+00:00"
+    },
+    {
+     "source": "ZEIT ONLINE",
+     "region": "DE",
+     "weight": 0.9,
+     "title": "Frankfurt am Main: Tausende Menschen demonstrieren für einen freien Iran",
+     "summary": "Bei einer Demonstration in Frankfurt wurde der Sohn des Schahs gefeiert. Reza Pahlavi nahm zuvor einen Freiheitspreis stellvertretend für das iranische Volk entgegen.",
+     "link": "https://www.zeit.de/politik/deutschland/2026-11/iran-reza-pahlavi-freiheitspreis-naumann-stiftung",
+     "image": "https://img.zeit.de/gesellschaft/zeitgeschehen/2026-11/freiheitspreis-naumann-stiftung-reza-pahlavi-bild/original__640x360",
+     "aggregator": false,
+     "published": "2026-11-07T15:48:07+00:00"
+    },
+    {
+     "source": "hessenschau.de",
+     "region": "DE",
+     "weight": 0.6,
+     "title": "Nächster Demo-Tag in Frankfurt: Umstrittene Preisverleihung sorgt für Verkehrsprobleme",
+     "summary": "Nächster Demo-Tag in Frankfurt: Umstrittene Preisverleihung sorgt für Verkehrsprobleme hessenschau.de Frankfurt am Main - Tausende Menschen demonstrieren für freie Gesellschaft im Iran - Preisverleihung für Reza Pahlavi Deutschlandfunk Iran-Demos in Frankfurt: Schah-Sohn Pahlavi spricht zu Anhängern im Ostpark hessenschau.de Pahlavi nimmt Freiheitspreis für iranisches Volk entgegen tagesschau.de Frankfurt: Zehntausende Demonstranten erwartet – Verkehrschaos droht WEB.DE",
+     "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPSWo2NXZfMjVkbDBkVGJWZkFCRndhWDlIUkZBYWw2SVdzTHdlLWRXei0xUGJlc3haN2FiVTF4X1RZeEVheTFnRHVpWmtpR0ExUEYzbVFPYTRTbUpMM29rcUhjeDJIN3ljV3pfTi1sM3BpeExWS3dvQjFwV1k2OHAwNFVRWWhxWmZXTUo2VFI4bVQ3S21LdjV3T2hVTWVXck55QktLWU5FcVdFNkl4VU5KSldtb0ZZQ1VISWtNWnc2UmowYjNHT3JjMV92VEt1dUJ4VUtrWkZR?oc=5",
+     "image": null,
+     "aggregator": true,
+     "published": "2026-11-07T13:31:47+00:00"
+    }
+   ]
+  },
+  {
+   "id": 19,
+   "score": 8.12,
+   "outlets": [
+    "SRF News",
+    "DER STANDARD",
+    "WEB.DE"
+   ],
+   "regions": [
+    "AT",
+    "CH"
+   ],
+   "trend": [],
+   "newest": "2026-11-07T15:39:23+00:00",
+   "articles": [
+    {
+     "source": "SRF News",
+     "region": "CH",
+     "weight": 0.95,
+     "title": "Teure Spitzenmedizin – Krebserkrankungen durch das Medikament Zolgensma?",
+     "summary": "Die US-Arzneimittelbehörde untersucht, ob das teure Medikament für Kinder bösartige Tumore verursacht.",
+     "link": "https://www.srf.ch/news/international/teure-spitzenmedizin-krebserkrankungen-durch-das-medikament-zolgensma",
+     "image": "https://www.srf.ch/static/cms/images//320ws/c71ae8.webp",
+     "aggregator": false,
+     "published": "2026-11-07T15:39:23+00:00"
+    },
+    {
+     "source": "DER STANDARD",
+     "region": "AT",
+     "weight": 0.85,
+     "title": "Novartis: Zwei Tumorfälle bei Kindern deuten auf Bezug zu Gentherapie hin",
+     "summary": "Das Unternehmen hat eigenen Angaben nach seit 2019 neun Meldungen über Tumore bei Patienten erhalten, die zuvor mit dem Medikament Zolgensma behandelt wurden",
+     "link": "https://www.derstandard.at/story/3000000347989/novartis-zwei-tumorf228lle-bei-kindern-deuten-auf-bezug-zu-gentherapie-hin?ref=rss",
+     "image": "https://i.ds.at/aXkFng/rs:fill:150:0/plain/lido-images/2026/11/07/838f575a-bd3b-4276-9a3b-18d566ebd68d.jpg",
+     "aggregator": false,
+     "published": "2026-11-07T11:25:06+00:00"
+    },
+    {
+     "source": "WEB.DE",
+     "region": "DE",
+     "weight": 0.6,
+     "title": "Zolgensma: Tumore nach Behandlung mit \"Millionenspritze\" gemeldet",
+     "summary": "Zolgensma: Tumore nach Behandlung mit \"Millionenspritze\" gemeldet WEB.DE Zolgensma: Tumorfälle bei Kindern nach Millionenspritze BILD Zolgensma: Novartis bestätigt Tumorfälle Apotheke Adhoc Neun Meldungen seit 2019: Novartis: Zwei Tumorfälle deuten auf Bezug zu Gentherapie hin n-tv.de Tumor-Fälle bei Kindern nach Behandlung mit Millionenspritze FOCUS online",
+     "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNOERNZExuZ0I0QmV4TVV2NlduNk5NZ2Uwd3ZGWDhrOGtIZ2ZXOEo2ZllRcTk4RE4yeEJzX29PeXZUODJrdUtoV3J2U21OLXd0cEwwNDFfbS1TOXVtV19QTm5hR1BtZlYxRV93SkJUOE5QUTNPWktIVEdNR0h3TkNfRGVDVkhScnZpOXU1YlJEZ21ldWFEZktNSFhuUG9IS0d3WHdsV1hEbkRfdjV2eGtHbW5zQy1iQnc?oc=5",
+     "image": null,
+     "aggregator": true,
+     "published": "2026-11-07T10:16:54+00:00"
+    }
+   ]
+  },
+  {
+   "id": 20,
+   "score": 8.1,
+   "outlets": [
+    "tagesschau",
+    "Deutsche Welle",
+    "DIE ZEIT"
+   ],
+   "regions": [
+    "DE",
+    "INT"
+   ],
+   "trend": [],
+   "newest": "2026-11-07T14:41:43+00:00",
+   "articles": [
+    {
+     "source": "tagesschau",
+     "region": "DE",
+     "weight": 1.0,
+     "title": "Parlamentswahl in Neuseeland: Regierungspartei und Labour nahezu gleichauf",
+     "summary": "Neuseeland hat ein neues Parlament gewählt. Doch angesichts eines extrem knappen Wahlausgangs könnte es bei der Frage, welche Regierung das Land künftig führt, letztlich auf die kleinen Parteien ankommen.",
+     "link": "https://www.tagesschau.de/ausland/ozeanien/neuseeland-parlamentswahl-102.html",
+     "image": "https://images.tagesschau.de/image/69dd39a9-cd4a-426a-b9a6-7022abbbfe87/AAABobZ1SjM/AAABnSSvrFg/16x9-big/neuseeland-parlamentswahl-104.jpg?width=1920",
+     "aggregator": false,
+     "published": "2026-11-07T14:41:43+00:00"
+    },
+    {
+     "source": "tagesschau Ausland",
+     "region": "INT",
+     "weight": 1.0,
+     "title": "Parlamentswahl in Neuseeland: Regierungspartei und Labour nahezu gleichauf",
+     "summary": "Neuseeland hat ein neues Parlament gewählt. Doch angesichts eines extrem knappen Wahlausgangs könnte es bei der Frage, welche Regierung das Land künftig führt, letztlich auf die kleinen Parteien ankommen.",
+     "link": "https://www.tagesschau.de/ausland/ozeanien/neuseeland-parlamentswahl-102.html",
+     "image": "https://images.tagesschau.de/image/69dd39a9-cd4a-426a-b9a6-7022abbbfe87/AAABobZ1SjM/AAABnSSvrFg/16x9-big/neuseeland-parlamentswahl-104.jpg?width=1920",
+     "aggregator": false,
+     "published": "2026-11-07T14:41:43+00:00"
+    },
+    {
+     "source": "Deutsche Welle",
+     "region": "INT",
+     "weight": 0.95,
+     "title": "News kompakt: Neuseeland vor knappem Wahlausgang",
+     "summary": "Laut Hochrechnungen liegen National Party und Labour bei der neuseeländischen Parlamentswahl fast gleichauf. Die DW verurteilt das belarussische Vorgehen gegen Mitarbeiterinnen des Senders. Der DW-Nachrichtenüberblick.",
+     "link": "https://www.dw.com/de/news-kompakt-neuseeland-vor-knappem-wahlausgang/a-79883515?maca=de-rss-de-all-1119-xml-mrss",
+     "image": "https://static.dw.com/image/79883321_302.jpg",
+     "aggregator": false,
+     "published": "2026-11-07T08:09:00+00:00"
+    },
+    {
+     "source": "DIE ZEIT",
+     "region": "DE",
+     "weight": 0.6,
+     "title": "Parlamentswahl: Regierungskoalition in Neuseeland knapp unter absoluter Mehrheit",
+     "summary": "Parlamentswahl: Regierungskoalition in Neuseeland knapp unter absoluter Mehrheit DIE ZEIT Parlamentswahl in Neuseeland: Regierungspartei und Labour nahezu gleichauf tagesschau.de Parlamentswahl in Neuseeland: Kleine Partei könnte Königsmacherin werden - Politik - SZ.de SZ.de Große Parteien fast gleichauf: Wahlkrimi in Neuseeland: Kleine Partei als Königsmacherin? STERN.de Wahlen: Regierungsbündnis liegt nach Wahl in Neuseeland knapp in Führung Handelsblatt",
+     "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOeVZtdjRTaEZTRFpZYVZFQVpIY2VfNWtKbnB4VnZ6M1ZfLUVZOUd3UC0wWVFIdWVRdFJVSjVnSnJZWjFoXzFyREpwaE5STk5UdGxSSURfcGVvcFpqWExRTjNaenhCd21STFR2aVRLNzM1dHVHTlVsSmt5SUd6dmw4UzRSVW9adVYzQUpqT0h0dVExVnNSX01pNm1HcGtnQmxtVHR2WmFaZWd3bDFFQlNpRGNXNWltM0ZqZ3hZaHlqSlBXT0Examw1VXRnUVk?oc=5",
+     "image": null,
+     "aggregator": true,
+     "published": "2026-11-07T11:19:54+00:00"
+    }
+   ]
+  },
+  {
+   "id": 21,
+   "score": 7.74,
+   "outlets": [
+    "tagesschau",
+    "Deutschlandfunk"
+   ],
+   "regions": [
+    "DE"
+   ],
+   "trend": [],
+   "newest": "2026-11-07T15:24:51+00:00",
+   "articles": [
+    {
+     "source": "tagesschau",
+     "region": "DE",
+     "weight": 1.0,
+     "title": "Hubig will geleakte E-Mails zur Prüfung von AfD-Verbotsverfahren nutzen",
+     "summary": "Justizministerin Hubig wirbt dafür, ein AfD-Verbotsverfahren zu prüfen - gegebenenfalls auch mithilfe der von Hackern veröffentlichten Mails aus den Reihen der Partei. In der schwarz-roten Koalition ist ein Verbotsverfahren jedoch umstritten.",
+     "link": "https://www.tagesschau.de/inland/innenpolitik/hubig-afd-verbotsverfahren-leak-100.html",
+     "image": "https://images.tagesschau.de/image/cc62aaec-9be1-4ab8-9152-b85193c4ac4d/AAABobVW4eg/AAABnSSvrFg/16x9-big/spd-hubig-100.jpg?width=1920",
+     "aggregator": false,
+     "published": "2026-11-07T09:28:52+00:00"
+    },
+    {
+     "source": "tagesschau Inland",
+     "region": "DE",
+     "weight": 1.0,
+     "title": "Hubig will geleakte E-Mails zur Prüfung von AfD-Verbotsverfahren nutzen",
+     "summary": "Justizministerin Hubig wirbt dafür, ein AfD-Verbotsverfahren zu prüfen - gegebenenfalls auch mithilfe der von Hackern veröffentlichten Mails aus den Reihen der Partei. In der schwarz-roten Koalition ist ein Verbotsverfahren jedoch umstritten.",
+     "link": "https://www.tagesschau.de/inland/innenpolitik/hubig-afd-verbotsverfahren-leak-100.html",
+     "image": "https://images.tagesschau.de/image/cc62aaec-9be1-4ab8-9152-b85193c4ac4d/AAABobVW4eg/AAABnSSvrFg/16x9-big/spd-hubig-100.jpg?width=1920",
+     "aggregator": false,
+     "published": "2026-11-07T09:28:52+00:00"
+    },
+    {
+     "source": "Deutschlandfunk",
+     "region": "DE",
+     "weight": 0.95,
+     "title": "Bundesjustizministerin - Hubig will AfD-Leaks für Prüfung von Parteiverbot nutzen",
+     "summary": "Bundesjustizministerin Hubig will die im Internet veröffentlichten E-Mails der AfD für die Prüfung eines Verbotsverfahrens gegen die Partei nutzen.",
+     "link": "https://www.deutschlandfunk.de/hubig-will-afd-leaks-fuer-pruefung-von-parteiverbot-nutzen-100.html",
+     "image": "https://bilder.deutschlandfunk.de/94/e4/98/a5/94e498a5-e8fa-4eb5-8b26-461c3a5e5feb/justizministerin-hubig-104-1920x1920.jpg",
+     "aggregator": false,
+     "published": "2026-11-07T15:24:51+00:00"
+    }
+   ]
+  },
+  {
+   "id": 22,
+   "score": 7.74,
+   "outlets": [
+    "tagesschau",
+    "Deutschlandfunk"
+   ],
+   "regions": [
+    "DE"
+   ],
+   "trend": [],
+   "newest": "2026-11-07T15:24:51+00:00",
+   "articles": [
+    {
+     "source": "tagesschau",
+     "region": "DE",
+     "weight": 1.0,
+     "title": "Pistorius rechnet derzeit nicht mit Rückkehr zur Wehrpflicht",
+     "summary": "Die Wiedereinführung der Wehrpflicht scheint zum jetzigen Zeitpunkt offenbar nicht nötig. Verteidigungsminister Pistorius berichtet von einer positiven Entwicklung beim Bundeswehrpersonal - Spitzenvertreter der Union sehen das anders.",
+     "link": "https://www.tagesschau.de/inland/innenpolitik/bundeswehr-diskussion-wehrpflicht-100.html",
+     "image": "https://images.tagesschau.de/image/bb9ce348-9f2a-41b0-80cb-98f103d36a67/AAABnmguNt8/AAABnSSvrFg/16x9-big/pistorius-606.jpg?width=1920",
+     "aggregator": false,
+     "published": "2026-11-07T14:45:52+00:00"
+    },
+    {
+     "source": "tagesschau Inland",
+     "region": "DE",
+     "weight": 1.0,
+     "title": "Pistorius rechnet derzeit nicht mit Rückkehr zur Wehrpflicht",
+     "summary": "Die Wiedereinführung der Wehrpflicht scheint zum jetzigen Zeitpunkt offenbar nicht nötig. Verteidigungsminister Pistorius berichtet von einer positiven Entwicklung beim Bundeswehrpersonal - Spitzenvertreter der Union sehen das anders.",
+     "link": "https://www.tagesschau.de/inland/innenpolitik/bundeswehr-diskussion-wehrpflicht-100.html",
+     "image": "https://images.tagesschau.de/image/bb9ce348-9f2a-41b0-80cb-98f103d36a67/AAABnmguNt8/AAABnSSvrFg/16x9-big/pistorius-606.jpg?width=1920",
+     "aggregator": false,
+     "published": "2026-11-07T14:45:52+00:00"
+    },
+    {
+     "source": "Deutschlandfunk",
+     "region": "DE",
+     "weight": 0.95,
+     "title": "Soldatinnen und Soldaten - Pistorius sieht Personalplanung der Bundeswehr auf gutem Weg - erstmal keine Wehrpflicht nötig",
+     "summary": "Die Personalplanung der Bundeswehr ist nach den Worten von Verteidigungsminister Pistorius auf einem guten Weg. Zur Zeit ist eine Wiedereinführung der Wehrpflicht demnach nicht nötig. Pistorius sagte im Interview der Woche des Deutschlandfunks, die Vorgabe des Wehrdienstmodernisierungsgesetzes werde überschritten.",
+     "link": "https://www.deutschlandfunk.de/pistorius-sieht-personalplanung-der-bundeswehr-auf-gutem-weg-erstmal-keine-wehrpflicht-noetig-100.html",
+     "image": "https://bilder.deutschlandfunk.de/11/fc/12/a6/11fc12a6-d014-435f-bbfa-cb04448ef273/boris-pistorius-verteidigungsminister-106-1920x1920.jpg",
+     "aggregator": false,
+     "published": "2026-11-07T15:24:51+00:00"
+    }
+   ]
+  },
+  {
+   "id": 23,
+   "score": 7.74,
+   "outlets": [
+    "tagesschau",
+    "Deutschlandfunk"
+   ],
+   "regions": [
+    "DE",
+    "INT"
+   ],
+   "trend": [],
+   "newest": "2026-11-07T15:24:51+00:00",
+   "articles": [
+    {
+     "source": "tagesschau",
+     "region": "DE",
+     "weight": 1.0,
+     "title": "Schwere Schäden nach Raketenangriffen auf Kiew",
+     "summary": "Russland hat kurz vor Wintereinbruch erneut die ukrainische Strom- und Wasserversorgung angegriffen. In einigen Teilen des Landes fiel der Strom aus. Präsident Selenskyj und Kiews Bürgermeister Klitschko streiten über die Verteidigung.",
+     "link": "https://www.tagesschau.de/ausland/ukraine-angriffe-kiew-138.html",
+     "image": "https://images.tagesschau.de/image/5c28c4b2-5237-4160-9e05-4876625a031a/AAABobTGlpg/AAABnSSvrFg/16x9-big/ukraine-angriffe-216.jpg?width=1920",
+     "aggregator": false,
+     "published": "2026-11-07T12:13:38+00:00"
+    },
+    {
+     "source": "tagesschau Ausland",
+     "region": "INT",
+     "weight": 1.0,
+     "title": "Schwere Schäden nach Raketenangriffen auf Kiew",
+     "summary": "Russland hat kurz vor Wintereinbruch erneut die ukrainische Strom- und Wasserversorgung angegriffen. In einigen Teilen des Landes fiel der Strom aus. Präsident Selenskyj und Kiews Bürgermeister Klitschko streiten über die Verteidigung.",
+     "link": "https://www.tagesschau.de/ausland/ukraine-angriffe-kiew-138.html",
+     "image": "https://images.tagesschau.de/image/5c28c4b2-5237-4160-9e05-4876625a031a/AAABobTGlpg/AAABnSSvrFg/16x9-big/ukraine-angriffe-216.jpg?width=1920",
+     "aggregator": false,
+     "published": "2026-11-07T12:13:38+00:00"
+    },
+    {
+     "source": "Deutschlandfunk",
+     "region": "DE",
+     "weight": 0.95,
+     "title": "Ukraine-Krieg - Russen greifen ukrainische Energieversorung mit Raketen an",
+     "summary": "Russland hat in der Nacht erneut die Energieversorgung in der Ukraine angegriffen.",
+     "link": "https://www.deutschlandfunk.de/russen-greifen-ukrainische-energieversorung-mit-raketen-an-102.html",
+     "image": "https://bilder.deutschlandfunk.de/37/d3/78/02/37d37802-d88f-4619-9df3-6fd3d2219271/kiew-156-1920x1920.jpg",
+     "aggregator": false,
+     "published": "2026-11-07T15:24:51+00:00"
+    }
+   ]
+  },
+  {
+   "id": 24,
+   "score": 7.74,
+   "outlets": [
+    "tagesschau",
+    "Deutschlandfunk"
+   ],
+   "regions": [
+    "DE"
+   ],
+   "trend": [],
+   "newest": "2026-11-07T15:24:51+00:00",
+   "articles": [
+    {
+     "source": "tagesschau",
+     "region": "DE",
+     "weight": 1.0,
+     "title": "Erneut Hackerangriff auf Münchener Universität - TUM betroffen",
+     "summary": "Unbekannte haben Hochschulsysteme der Technischen Universität München gehackt. Sie konnten etwa Adressen und Passwörter einsehen. Es ist bereits der zweite Hackerangriff auf eine große Uni in München.",
+     "link": "https://www.tagesschau.de/inland/regional/bayern/hackerangriff-tum-100.html",
+     "image": "https://images.tagesschau.de/image/884ab4b0-42e8-4393-920d-f9faa5f64eb1/AAABobG9GPA/AAABnSSvrFg/16x9-big/br-haupteingang-der-technischen-universitaet-muenchen-100.jpg?width=1920",
+     "aggregator": false,
+     "published": "2026-11-06T19:23:12+00:00"
+    },
+    {
+     "source": "Deutschlandfunk",
+     "region": "DE",
+     "weight": 0.95,
+     "title": "Cyberkriminalität - Erneut Hackerangriff auf Uni: Persönliche Daten von Studenten und Beschäftigten der TU München betroffen",
+     "summary": "Erneut hat es einen Hackerangriff auf eine deutsche Universität gegeben.",
+     "link": "https://www.deutschlandfunk.de/erneut-hackerangriff-auf-uni-persoenliche-daten-von-studenten-und-beschaeftigten-der-tu-muenchen-bet-100.html",
+     "image": "https://bilder.deutschlandfunk.de/FI/LE/_3/5f/FILE_35ff75aafbf218677dc53c499d165d34/imago62344377h-jpg-102-512x512.jpg",
+     "aggregator": false,
+     "published": "2026-11-07T15:24:51+00:00"
+    }
+   ]
+  },
+  {
+   "id": 25,
+   "score": 7.74,
+   "outlets": [
+    "tagesschau Ausland",
+    "Deutschlandfunk"
+   ],
+   "regions": [
+    "DE",
+    "INT"
+   ],
+   "trend": [],
+   "newest": "2026-11-07T15:24:51+00:00",
+   "articles": [
+    {
+     "source": "tagesschau Ausland",
+     "region": "INT",
+     "weight": 1.0,
+     "title": "Ukraine meldet mindestens 26 Tote bei Angriff in Region Saporischschja",
+     "summary": "Bei einem russischen Angriff in der Region Saporischschja sind der Ukraine zufolge mindestens 26 Menschen getötet worden. Präsident Selenskyj warf Moskau gezieltes Bombardement vor. Der Staatschef wird heute in Berlin erwartet.",
+     "link": "https://www.tagesschau.de/ausland/ukraine-saporischschja-tote-100.html",
+     "image": "https://images.tagesschau.de/image/ac39726d-d3d0-4cc1-abba-095cd2bff56f/AAABoZ_tGwc/AAABnSSvrFg/16x9-big/ukraine-angriff-saporischschja-102.jpg?width=1920",
+     "aggregator": false,
+     "published": "2026-11-03T09:00:13+00:00"
+    },
+    {
+     "source": "Deutschlandfunk",
+     "region": "DE",
+     "weight": 0.95,
+     "title": "Provinz Taiz - Viele Tote nach Angriffen auf Markt im Jemen",
+     "summary": "Im Jemen sind bei Luftangriffen auf einen Markt in der Provinz Taiz zahlreiche Menschen getötet worden.",
+     "link": "https://www.deutschlandfunk.de/viele-tote-nach-angriffen-auf-markt-im-jemen-102.html",
+     "image": "https://bilder.deutschlandfunk.de/86/31/5f/36/86315f36-9968-4cf6-862e-280362482da3/jemen-taiz-tais-rotes-kreuz-hilfslieferung-besatzung-100-1920x1920.jpg",
+     "aggregator": false,
+     "published": "2026-11-07T15:24:51+00:00"
+    }
+   ]
+  },
+  {
+   "id": 26,
+   "score": 7.74,
+   "outlets": [
+    "tagesschau Wirtschaft",
+    "Deutschlandfunk"
+   ],
+   "regions": [
+    "DE"
+   ],
+   "trend": [],
+   "newest": "2026-11-07T15:24:51+00:00",
+   "articles": [
+    {
+     "source": "tagesschau Wirtschaft",
+     "region": "DE",
+     "weight": 1.0,
+     "title": "Supermärkte: Warum Kühlregale leicht zu hacken sind",
+     "summary": "Angefangen hat es mit Angriffen auf Kühlsysteme in französischen Supermärkten. Inzwischen sind auch deutsche Einzelhändler betroffen. Experten rechnen mit weiteren Attacken auf Kritische Infrastruktur - und Wohnzimmer. Von S. Wolff",
+     "link": "https://www.tagesschau.de/wirtschaft/verbraucher/hacker-kuehlsysteme-supermaerkte-100.html",
+     "image": "https://images.tagesschau.de/image/1a3ebc67-f846-4558-b6e1-dbc96f6cdfa1/AAABoaaLDok/AAABnSSvrFg/16x9-big/cyberangriff-supermarkt-102.jpg?width=1920",
+     "aggregator": false,
+     "published": "2026-11-05T19:11:03+00:00"
+    },
+    {
+     "source": "Deutschlandfunk",
+     "region": "DE",
+     "weight": 0.95,
+     "title": "Medienbericht - Geheimdienste schalten sich ein nach Cyberangriffen auf Kühlregale in deutschen Supermärkten",
+     "summary": "Die Cyberangriffe auf deutsche Supermärkte beschäftigen einem Medienbericht zufolge inzwischen die Geheimdienste.",
+     "link": "https://www.deutschlandfunk.de/geheimdienste-schalten-sich-ein-nach-cyberangriffen-auf-kuehlregale-in-deutschen-supermaerkten-100.html",
+     "image": "https://bilder.deutschlandfunk.de/67/f2/16/d5/67f216d5-1e2d-4b3c-bba3-b8d286320902/supermarkt-kuehlung-cyberangriff-100-1920x1920.jpg",
+     "aggregator": false,
+     "published": "2026-11-07T15:24:51+00:00"
+    }
+   ]
+  },
+  {
+   "id": 27,
+   "score": 7.59,
+   "outlets": [
+    "tagesschau Wirtschaft",
+    "Deutsche Welle",
+    "NZZ"
+   ],
+   "regions": [
+    "CH",
+    "DE",
+    "INT"
+   ],
+   "trend": [],
+   "newest": "2026-11-07T09:35:16+00:00",
+   "articles": [
+    {
+     "source": "tagesschau Wirtschaft",
+     "region": "DE",
+     "weight": 1.0,
+     "title": "Wie sich der Wahlsieg der Demokraten auf Big Tech auswirkt",
+     "summary": "Die Demokraten haben bei den Midterms in den USA Mehrheiten in beiden Kammern des Kongresses gewonnen. Für die Tech-Industrie könnte das in einigen Bereichen höhere Hürden bedeuten. Von Antje Sieb.",
+     "link": "https://www.tagesschau.de/wirtschaft/digitales/midterms-bigtech-reaktionen-100.html",
+     "image": "https://images.tagesschau.de/image/491f03ad-5345-46fe-baf6-0fc42fefc9ae/AAABoawerIU/AAABnSSvrFg/16x9-big/usa-rechenzentrum-100.jpg?width=1920",
+     "aggregator": false,
+     "published": "2026-11-05T14:04:42+00:00"
+    },
+    {
+     "source": "Deutsche Welle",
+     "region": "INT",
+     "weight": 0.95,
+     "title": "Midterms-Sieg für US-Demokraten: Wie viel Macht haben sie wirklich? Und können sich Progressive und Moderate einig werden?",
+     "summary": "Die Demokraten haben Donald Trump die Mehrheit in beiden Kammern des US-Kongresses abgenommen. Doch der Präsident bleibt mächtig – und die Demokraten sind sich längst nicht einig, wie sie ihre neue Macht nutzen sollen.",
+     "link": "https://www.dw.com/de/midterms-sieg-für-us-demokraten-wie-viel-macht-haben-sie-wirklich-und-können-sich-progressive-und-moderate-einig-werden/a-79879388?maca=de-rss-de-all-1119-xml-mrss",
+     "image": "https://static.dw.com/image/79854705_302.jpg",
+     "aggregator": false,
+     "published": "2026-11-06T17:44:00+00:00"
+    },
+    {
+     "source": "NZZ",
+     "region": "CH",
+     "weight": 0.9,
+     "title": "Das Ausmass des demokratischen Wahltriumphs wächst mit fortschreitender Auszählung – die Resultate im Überblick",
+     "summary": "Seit der Wahlnacht ist klar, dass die Demokraten in beiden Kammern des amerikanischen Kongresses die Macht übernehmen. Aber ihre Sitzgewinne werden zuletzt noch grösser sein als zunächst erwartet.",
+     "link": "https://www.nzz.ch/international/midterms-2026-die-resultate-der-us-wahlen-im-ueberblick-ld.10047365",
+     "image": "https://img-msp-prod.nzz.ch/2026/11/03/15062e02-79d8-41ed-b1a5-05cd6fb8d8cb.png?width=200&height=200&fit=bounds&quality=75&auto=webp&crop=826,826,x238,y168",
+     "aggregator": false,
+     "published": "2026-11-07T09:35:16+00:00"
+    }
+   ]
+  }
+ ]
+}
