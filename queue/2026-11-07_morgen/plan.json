@@ -1,0 +1,29 @@
+{
+  "stories": [
+    {"candidate_id": 0, "pillar": "POLITIK", "region": "DE", "kicker": "BERLIN",
+     "headline": "Aigner soll Bundespräsidentin werden", "highlight": ["Aigner"],
+     "voice": "Ilse Aigner wäre die erste Frau im höchsten Staatsamt. Nach der CSU will laut Medienberichten auch die CDU die bayerische Landtagspräsidentin nominieren.",
+     "subline": "Union und SPD hätten in der Bundesversammlung eine Mehrheit", "entities": ["Ilse Aigner", "Bundesversammlung", "Frank-Walter Steinmeier"]},
+    {"candidate_id": 2, "pillar": "WELT", "region": "INT", "kicker": "WASHINGTON",
+     "headline": "Trump: Hardliner Miller wird Stabschef", "highlight": ["Miller"],
+     "voice": "Donald Trump ersetzt nach dem Wahldebakel bei den Zwischenwahlen seine Stabschefin Susie Wiles. Nachfolger wird der Hardliner Stephen Miller, bisher ihr Stellvertreter.",
+     "subline": "Miller soll bereits ab Montag die Leitung übernehmen", "entities": ["Stephen Miller", "Susie Wiles", "Weißes Haus"]},
+    {"candidate_id": 5, "pillar": "POLITIK", "region": "DE", "kicker": "BERLIN",
+     "headline": "Hubig: AfD-Mails für Verbotsprüfung", "highlight": ["AfD-Mails"],
+     "voice": "Bundesjustizministerin Stefanie Hubig will die veröffentlichten AfD-E-Mails für die Prüfung eines Parteiverbots nutzen. Hacker hatten über vierhunderttausend Mails ins Netz gestellt.",
+     "subline": "Neu im AfD-Leak: Ministerin sieht mögliche Belege für Verbot", "entities": ["Stefanie Hubig", "AfD", "Bundesministerium der Justiz"]},
+    {"candidate_id": 8, "pillar": "POLITIK", "region": "DE", "kicker": "BUNDESWEHR",
+     "headline": "Pistorius: Wehrpflicht wohl unnötig", "highlight": ["Wehrpflicht"],
+     "voice": "Boris Pistorius rechnet nicht mit einer Rückkehr zur Wehrpflicht. Mit rund hundertneunzigtausend Soldatinnen und Soldaten habe die Bundeswehr den höchsten Stand seit dreizehn Jahren.",
+     "subline": "Personalbedarf lässt sich laut Minister ohne Zwang decken", "entities": ["Boris Pistorius", "Bundeswehr"]}
+  ],
+  "hook_text": "Aigner: Erste Bundespräsidentin?",
+  "hook_voice": "Aigner soll erste Bundespräsidentin werden – Schlagzeilen am Morgen.",
+  "youtube_title": "Ilse Aigner: Union setzt auf die erste Bundespräsidentin 🇩🇪",
+  "description_lead": "Nach der CSU will laut Medienberichten auch die CDU Bayerns Landtagspräsidentin Ilse Aigner als Nachfolgerin von Frank-Walter Steinmeier nominieren – sie wäre die erste Bundespräsidentin. Außerdem: Donald Trump ersetzt Stabschefin Susie Wiles durch Stephen Miller, Justizministerin Stefanie Hubig will die AfD-E-Mails für die Prüfung eines Parteiverbots nutzen und Boris Pistorius hält eine Rückkehr zur Wehrpflicht für unwahrscheinlich.",
+  "tags": ["Ilse Aigner", "Bundespräsidentin", "Bundespräsidentenwahl", "Frank-Walter Steinmeier", "CDU", "CSU", "Bundesversammlung", "Donald Trump", "Stephen Miller", "Susie Wiles", "Stefanie Hubig", "AfD-Verbot", "Boris Pistorius", "Wehrpflicht", "Bundeswehr"],
+  "hashtags": ["#aigner", "#bundespräsident", "#wehrpflicht"],
+  "facebook_caption_line1": "Ilse Aigner soll erste Bundespräsidentin werden – auch die CDU legt sich laut Berichten fest",
+  "facebook_question": "Wäre Ilse Aigner eine gute Wahl für das höchste Amt im Staat?",
+  "comment_question": "Ilse Aigner als erste Bundespräsidentin: gute Wahl – ja oder nein?"
+}
