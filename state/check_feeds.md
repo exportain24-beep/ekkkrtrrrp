@@ -1,12 +1,12 @@
-# check_feeds.md – 2026-11-06 10:15 UTC
+# check_feeds.md – 2026-11-07 23:27 UTC
 
-- tagesschau: ok (65)
+- tagesschau: ok (59)
 - tagesschau Inland: ok (49)
 - tagesschau Ausland: ok (70)
-- tagesschau Wirtschaft: ok (18)
-- ZDFheute: ok (196)
-- Deutsche Welle: ok (79)
-- Deutschlandfunk: ok (34)
+- tagesschau Wirtschaft: ok (25)
+- ZDFheute: ok (180)
+- Deutsche Welle: ok (76)
+- Deutschlandfunk: ok (16)
 - SPIEGEL: ok (30)
 - ZEIT ONLINE: ok (15)
 - Süddeutsche: ok (15)
@@ -14,28 +14,28 @@
 - n-tv: ok (50)
 - Handelsblatt: ok (50)
 - WirtschaftsWoche: ok (20)
-- heise online: ok (154)
+- heise online: ok (150)
 - Golem: ok (40)
-- ORF: ok (27)
+- ORF: ok (25)
 - DER STANDARD: ok (156)
-- SRF News: ok (80)
+- SRF News: ok (76)
 - NZZ: ok (16)
 - Google News DE: ok (34)
 
-21/21 feeds OK, 1228 articles, 40 Google-Trends terms
+21/21 feeds OK, 1182 articles, 40 Google-Trends terms
 
--  17.5 [DE,INT] (8) Trump trifft Kreml-Vertreter und stellt Abkommen in Aussicht
--  15.0 [AT,DE] (5) Nach Gefahrgutunfall bei Krefeld ist die A57 gesperrt
--  12.4 [AT,CH,DE,INT] (5) Was eine Niederlage Trumps bei den Midterms für die EU bedeuten würde
--  11.4 [CH,DE,INT] (4) Zwölf Tage, vierzehn Flüge - Papst Leo besucht Südamerika und kehrt heim nach Peru
--  11.0 [AT,DE] (4) Weißes Haus - US-Präsident Trump lässt Oval Office als nationales Denkmal schützen
--  10.9 [AT,CH,DE] (4) Nach Kurseinbruch in USA: Europas Börsen im Minus
--  10.7 [AT,CH,DE,INT] (4) Cristiano Ronaldo tritt aus Portugals Nationalteam zurück
--  10.6 [CH,DE,INT] (5) Frankreich: Nach den Protesten sollen jetzt Streiks folgen
--  10.1 [DE] (4) Europa League: Marseille verpasst Leverkusen den nächsten Dämpfer
--   9.9 [DE] (3) Christian Freuding wird neuer Generalinspekteur der Bundeswehr
--   9.9 [DE] (3) Investor Benko wegen Millionenbetrugs zu weiterer Haftstrafe verurteilt
--   9.7 [DE] (3) Konjunktur: Industrieproduktion in Deutschland wächst überraschend
--   9.6 [DE] (3) Kameras in Schlachthöfen: Mehr Überwachung für den Tierschutz
--   9.6 [DE] (3) Bis 2029: Harry Kane verlängert beim FC Bayern
--   9.5 [AT,CH,DE] (3) Über 3.000 Vogelspinnen in Socken entdeckt
+-  12.3 [DE,INT] (5) Papst in Uruguay: Schwierige Mission für Leo XIV.
+-  11.4 [DE] (5) Reese patzt bei Hertha-Heimkehr: Berlin gewinnt Topspiel
+-  11.1 [AT,CH,DE] (5) Midterms 2026 – US-Präsident Trump schlägt Kampfsportler als Pressesprecher vor
+-  10.7 [AT,DE] (5) Pahlavi nimmt Freiheitspreis für iranisches Volk entgegen
+-   9.6 [CH,DE] (2) Formel 1: GP Brasilien – Verregnetes Qualifying spült Norris auf die Pole – Hülkenberg 4.
+-   9.5 [AT,DE,INT] (3) Tote nach Angriff auf Flughafen in Saudi-Arabien
+-   9.4 [DE] (4) Jensen Huang: Nvidia-Chef soll Beziehung mit chinesischer Spionin gehabt haben
+-   9.4 [DE] (3) Gold im Weißen Haus: Trump macht Oval Office zum Denkmal
+-   9.2 [CH,DE,INT] (3) Bankenkrise: Anklage gegen Paraguays Ex-Präsidenten
+-   9.2 [DE] (3) Fußball-Bundesliga - Siege für Stuttgart, Dortmund, Leipzig und Bayern
+-   8.4 [DE] (3) SPD im Ruhrgebiet: Noch da, wieder da? Jedenfalls nicht weg
+-   8.2 [DE,INT] (3) tagesschau 20:00 Uhr
+-   7.8 [DE,INT] (2) Weniger Teilnehmer bei neuen Demos in Frankreich
+-   7.8 [DE] (2) Pistorius rechnet derzeit nicht mit Rückkehr zur Wehrpflicht
+-   7.8 [DE,INT] (2) Paraguay: Peña als Präsident abgesetzt und unter Hausarrest

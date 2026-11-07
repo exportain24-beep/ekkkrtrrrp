@@ -1,33 +1,32 @@
-# recent_uploads.md – 2026-11-06 10:15 UTC
+# recent_uploads.md – 2026-11-07 23:27 UTC
 
-- YT zB-adrP1DCc 2026-11-06T10:08:54Z (NOT IN STATE) AfD-Leak: Spur der Hacker führt in die USA – 420.000 E-Mails
-- YT nnYhNr0iX4Y 2026-11-06T10:04:56Z (known) DAX unter Druck: Tech-Ausverkauf erfasst Europas Börsen 📉
+- YT Eh_d3u8YqeM 2026-11-07T21:00:03Z (known) Eishockey-WM 2027 in Gefahr: Bund sagt Nein zu Russland 🏒
+- YT NHRH0zu_ZUM 2026-11-07T19:45:18Z (known) Supermarkt-Hacks: Warum sich jetzt Geheimdienste einschalten 🛒
+- YT 09zLyq7zmP0 2026-11-07T17:30:29Z (known) Hackerangriff auf Tajani: Italiens Außenminister im Darknet 🚨
+- YT dZvEIMdGt0I 2026-11-07T15:30:20Z (known) Reza Pahlavi in Frankfurt: Warum Tausende für Iran demonstrieren
+- YT bYUXHLYi7Y8 2026-11-07T11:00:08Z (known) Linke gegen eigene Abgeordnete: Muss Vanessa Emde jetzt gehen?
+- YT Uhv5-SsDUbs 2026-11-07T07:30:29Z (known) Pflegeversicherung in Not: Bund muss im November erneut zahlen 💶
+- YT bKzi-XswILY 2026-11-07T06:00:01Z (known) Ilse Aigner: Union setzt auf die erste Bundespräsidentin 🇩🇪
+- YT Y8Y6w7aLqYc 2026-11-06T21:00:21Z (known) IG Metall: Über 400.000 im Warnstreik – eskaliert es am Montag?
+- YT qQO-r5dELeo 2026-11-06T19:45:15Z (known) Eishockey-WM 2027: Bund will Heim-WM retten – aber ohne Russland
+- YT iKzSye8wIWI 2026-11-06T17:30:28Z (known) Bombendrohungen gegen Flüge: Wer legt Europas Luftverkehr lahm? ✈️
+- YT TRPYeh0jhlE 2026-11-06T15:30:03Z (known) Führerschein soll billiger werden: Bundestag beschließt Reform 🚗
+- YT nnYhNr0iX4Y 2026-11-06T11:00:07Z (known) DAX unter Druck: Tech-Ausverkauf erfasst Europas Börsen 📉
+- YT zB-adrP1DCc 2026-11-06T10:08:54Z (known) AfD-Leak: Spur der Hacker führt in die USA – 420.000 E-Mails
 - YT G1Fj-feJbpI 2026-11-03T06:00:37Z (known) SPD-Brandbrief: Über 1000 Mitglieder warnen vor Rot-Grün-Rot
 - YT nDF1-GDfTH4 2026-11-02T19:45:31Z (known) Rot-Grün-Rot in Berlin: Kommt die Koalition bis Dezember?
-- YT E5vdy87PVas 2026-11-02T15:30:17Z (known) Hackerangriff auf Bundespolitiker: Spyware auf Minister-iPhones
-- YT r5D8vDlJ7sY 2026-11-02T11:00:17Z (known) Rente mit 63: Handwerk fordert höhere Abschläge für Frührentner
-- YT M9mGPy09Em8 2026-11-02T06:00:02Z (known) Merz unter Druck: CDU-Basis sieht „Alarmstufe dunkelrot“
-- YT SRpyHVO170Q 2026-11-01T19:45:22Z (known) Steinmeier nach Xi-Treffen: China nicht bereit für Ukraine-Gipfel
-- YT cDuO3X-1UFk 2026-11-01T15:30:10Z (known) Gasspeicher verfehlen Ziel: Was das für Ihre Heizkosten heißt
-- YT Z7_4PLI5d98 2026-11-01T11:00:32Z (known) Kramp-Karrenbauer warnt vor AfD und Linken an der Macht ⚠️
-- YT yCVjywVItNg 2026-11-01T06:00:28Z (known) Krawalle nach Gen-Z-Protesten: Organisatoren distanzieren sich
-- YT Zgsl6U0EcRo 2026-10-31T19:45:05Z (known) Kanada in die EU? Von der Leyen übergeht Merz beim Gipfel 🇪🇺
-- YT nspHFzQKn0o 2026-10-31T15:30:35Z (known) Linke will Rot-Grün-Rot: Eralp wirbt um Koalition in Berlin
-- YT UNSTSPtVOS0 2026-10-31T11:00:24Z (known) China will mehr deutsche Produkte: Was Li Qiang jetzt ankündigt
-- YT TnhmMEDG630 2026-10-31T06:00:27Z (known) G20-Eklat in Atlanta: Warum Europa das Foto mit Lawrow verweigert
+- FB 1112908458124369 2026-11-07T19:33:13+0000 '🚨 Heim-WM auf der Kippe: Bundesregierung lehnt Eishockey-WM mit Russla'
+- FB 29067659146184160 2026-11-07T18:18:47+0000 '🚨 Cyberangriffe auf Supermarkt-Kühlregale: Geheimdienste schalten sich'
+- FB 1784795932603577 2026-11-07T15:58:21+0000 '🚨 Cyberangriff auf Italiens Außenminister: Private Daten von Tajani un'
+- FB 1138127358757311 2026-11-07T14:00:01+0000 '🚨 Reza Pahlavi in Frankfurt: Freiheitspreis für Irans Volk – Tausende '
+- FB 1599456431406790 2026-11-07T09:29:53+0000 '🚨 Berliner Linke fordert Vanessa Emde zum Mandatsverzicht auf\nWie soll'
+- FB 1654715066288261 2026-11-07T06:02:57+0000 '🚨 Pflegeversicherung in Not: Der Bund muss im November erneut Geld nac'
+- FB 2224611605145561 2026-11-07T04:29:21+0000 '🚨 Ilse Aigner soll erste Bundespräsidentin werden – auch die CDU legt '
+- FB 1445851947719262 2026-11-06T19:27:48+0000 '🚨 EIL: Über 400.000 Beschäftigte im Warnstreik – IG Metall droht vor V'
+- FB 2047302882632262 2026-11-06T18:14:31+0000 '🚨 Eishockey-WM 2027: Bund will Heim-WM nur ohne Russland\nSollte Deutsc'
+- FB 1086786034323577 2026-11-06T16:27:24+0000 '🚨 EIL: Serie von Bombendrohungen gegen Flüge in Europa reißt nicht ab '
+- FB 964566623002984 2026-11-06T14:00:14+0000 '🚨 Führerschein-Reform beschlossen – die Schlagzeilen am Abend\nWird der'
 - FB 1469529315389326 2026-11-06T10:08:43+0000 '🚨 AfD-Leak: Spur der Hacker führt in die USA\nSollten Hacker-Leaks über'
+- FB 1536973744929711 2026-11-06T10:05:03+0000 '🚨 DAX unter Druck – die Schlagzeilen am Mittag\nIst der Tech-Ausverkauf'
 - FB 2063607084359292 2026-11-03T04:28:47+0000 '🚨 SPD-Brandbrief: Mehr als tausend Mitglieder warnen vor Rot-Grün-Rot '
 - FB 1186829424030690 2026-11-02T18:30:35+0000 '🚨 Rot-Grün-Rot in Berlin: Linke, Grüne und SPD verhandeln über eine Ko'
-- FB 1130126239789829 2026-11-02T14:44:22+0000 '🚨 Hackerangriff auf Bundespolitiker: Digitalminister Wildberger bestät'
-- FB 1138270902472954 2026-11-02T09:29:11+0000 '🚨 Rente mit 63: Handwerkspräsident Dittrich fordert höhere Abschläge\nW'
-- FB 2213279762947564 2026-11-02T04:28:44+0000 '🚨 „Alarmstufe dunkelrot“: Kanzler Merz trifft auf eine verärgerte CDU-'
-- FB 1683201039887467 2026-11-01T18:20:54+0000 '🚨 Steinmeier nach Treffen mit Xi: China nicht bereit für einen Ukraine'
-- FB 1176137331754717 2026-11-01T13:59:27+0000 '🚨 Gasspeicher verfehlen das Winterziel – Netzagentur erwartet erheblic'
-- FB 1078145451721369 2026-11-01T09:38:48+0000 '🚨 Kramp-Karrenbauer warnt vor Regierungen von AfD und Linken\nWie bewer'
-- FB 1431447925776881 2026-11-01T04:28:55+0000 '🚨 Krawalle nach Gen-Z-Protesten: Organisatoren distanzieren sich von d'
-- FB 1480201050653151 2026-10-31T18:15:08+0000 '🚨 Kanada in die EU? Von der Leyen wirbt erneut – gegen den Wunsch von '
-- FB 1895649845093533 2026-10-31T13:58:51+0000 '🚨 Berlin: Die Linke will den Weg für Rot-Grün-Rot frei machen\nWäre Rot'
-- FB 2608647126248466 2026-10-31T09:31:09+0000 '🚨 China kündigt an: Mehr deutsche Produkte sollen importiert werden\nGl'
-- FB 1163890449301990 2026-10-31T04:29:20+0000 '🚨 Eklat beim G20-Treffen: Europäer verweigern Familienfoto mit Lawrow\n'
-- FB 2232902390909160 2026-10-30T18:18:38+0000 '🚨 Feuerpause hält: Erste Einwohner verlassen das besetzte Oleschky\nKan'
-RECOVERED 2026-11-06_extra: yt=zB-adrP1DCc fb=1469529315389326
