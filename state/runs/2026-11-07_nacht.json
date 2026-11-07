@@ -1,0 +1,36 @@
+{
+ "date": "2026-11-07",
+ "slot": "nacht",
+ "publish_at": "2026-11-07T19:45:00+00:00",
+ "title": "Supermarkt-Hacks: Warum sich jetzt Geheimdienste einschalten 🛒",
+ "duration": 48.1,
+ "stories": [
+  {
+   "headline": "Geheimdienste prüfen Supermarkt-Hacks",
+   "region": "DE",
+   "pillar": "TECHNOLOGIE"
+  },
+  {
+   "headline": "Klingbeil lässt SPD-Vorsitz offen",
+   "region": "DE",
+   "pillar": "POLITIK"
+  },
+  {
+   "headline": "Selenskyj räumt im Geheimdienst auf",
+   "region": "INT",
+   "pillar": "WELT"
+  },
+  {
+   "headline": "BSW-Streit um Constantin Schreiber",
+   "region": "DE",
+   "pillar": "POLITIK"
+  }
+ ],
+ "comment": {
+  "text": "Machen Ihnen Cyberangriffe auf Supermärkte Sorgen – ja oder nein?",
+  "done": false
+ },
+ "youtube_id": "NHRH0zu_ZUM",
+ "facebook_id": "29067659146184160",
+ "created": "2026-11-07T18:18:57.415398+00:00"
+}
