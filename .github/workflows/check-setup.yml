@@ -8,6 +8,10 @@ on:
         description: "Send a test video to Buffer as DRAFT (TikTok + X)"
         type: boolean
         default: false
+      buffer_delete:
+        description: "Buffer post ids to delete (space separated)"
+        required: false
+        default: ""
       channel_seo:
         description: "Also apply channel SEO (description, keywords, playlists, page about)"
         type: boolean
@@ -57,6 +61,10 @@ jobs:
         run: |
           sudo apt-get update -qq && sudo apt-get install -y -qq ffmpeg > /dev/null
           python -m eilblick buffer-test
+        continue-on-error: true
+      - name: Buffer delete posts
+        if: github.event.inputs.buffer_delete != ''
+        run: python -m eilblick buffer-delete ${{ github.event.inputs.buffer_delete }}
         continue-on-error: true
       - name: Channel SEO
         if: github.event.inputs.channel_seo == 'true'

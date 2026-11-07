@@ -790,6 +790,19 @@ def cmd_buffer_test() -> int:
     return 0
 
 
+def cmd_buffer_delete(args) -> int:
+    from . import upload_buffer as BU
+    lines = []
+    for pid in args.ids:
+        try:
+            lines.append(f"deleted {pid}: {BU.delete_post(pid)}")
+        except Exception as e:
+            lines.append(f"delete {pid} FAIL: {str(e)[:300]}")
+    log("\n".join(lines))
+    _report("buffer_test.md", lines)
+    return 0
+
+
 def cmd_demo(args) -> int:
     from .demo import demo_inputs
     slot, slot_time = slot_by_id(args.slot or "morgen")
@@ -814,6 +827,8 @@ def main(argv=None) -> int:
     r.add_argument("--queue", required=True)
     r.add_argument("--force", action="store_true")
     r.add_argument("--no-upload", action="store_true")
+    bd = sub.add_parser("buffer-delete")
+    bd.add_argument("ids", nargs="+")
     d = sub.add_parser("demo")
     d.add_argument("--slot")
     d.add_argument("--real-voice", action="store_true")
@@ -823,7 +838,7 @@ def main(argv=None) -> int:
     fn = {"candidates": lambda: cmd_candidates(a), "fallback": lambda: cmd_fallback(a), "validate-plan": lambda: cmd_validate(a),
           "run": lambda: cmd_run(a), "demo": lambda: cmd_demo(a), "check-feeds": cmd_check_feeds,
           "check-tokens": cmd_check_tokens, "channel-seo": cmd_channel_seo,
-          "comments-fetch": cmd_comments_fetch, "comments-post": cmd_comments_post, "recover": cmd_recover, "buffer-test": cmd_buffer_test,
+          "comments-fetch": cmd_comments_fetch, "comments-post": cmd_comments_post, "recover": cmd_recover, "buffer-test": cmd_buffer_test, "buffer-delete": lambda: cmd_buffer_delete(a),
           "post-comments": lambda: cmd_post_comments() or 0}[a.cmd]
     return fn()
 

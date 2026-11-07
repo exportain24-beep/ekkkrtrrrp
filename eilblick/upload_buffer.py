@@ -157,3 +157,19 @@ def post_video_everywhere(video, tag: str, tiktok_text: str, x_text: str, title:
         out[svc] = pid
         print(f"  Buffer {svc} ✓ post {pid} ({'draft' if draft else 'scheduled' if due_at_iso else 'now'})")
     return out
+
+
+
+def delete_post(post_id: str) -> str:
+    """Deletes a Buffer post (uses the live schema for the exact argument shape)."""
+    m = gql('query { __type(name: "Mutation") { fields { name args { name type { name kind ofType { name } } } } } }')
+    f = next(x for x in m["__type"]["fields"] if x["name"] == "deletePost")
+    arg = f["args"][0]
+    tname = arg["type"].get("name") or (arg["type"].get("ofType") or {}).get("name")
+    if arg["name"] == "input":
+        q = f"mutation($v: {tname}!) {{ deletePost(input: $v) {{ __typename }} }}"
+        var = {"v": {"id": post_id}}
+    else:
+        q = f"mutation($v: {tname}!) {{ deletePost({arg['name']}: $v) {{ __typename }} }}"
+        var = {"v": post_id}
+    return gql(q, var)["deletePost"]["__typename"]
