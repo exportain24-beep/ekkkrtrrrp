@@ -449,6 +449,17 @@ def _cmd_run(args) -> int:
                         notes.append(f"fb thumbnail: {e}")
             except Exception as e:
                 errors.append(f"Facebook: {e}")
+        from . import upload_buffer as BU
+        if BU.key():
+            try:
+                due = slot_time.astimezone(timezone.utc)
+                due_iso = due.strftime("%Y-%m-%dT%H:%M:%S.000Z") if due > datetime.now(timezone.utc) + \
+                    __import__("datetime").timedelta(minutes=10) else None
+                entry["buffer"] = BU.post_video_everywhere(
+                    video, f"media-{date}_{slot['id']}", seo.tiktok_caption(plan), seo.x_caption(plan),
+                    plan.get("hook_text") or plan["youtube_title"], due_iso)
+            except Exception as e:
+                errors.append(f"Buffer (TikTok/X): {e}")
         if not cfg["youtube"]["post_first_comment"]:
             entry["comment"]["done"] = True
         if entry.get("youtube_id") or entry.get("facebook_id"):
@@ -460,6 +471,7 @@ def _cmd_run(args) -> int:
               "\n".join(f"{i+1}. {s['headline']}" for i, s in enumerate(plan["stories"])) +
               (f"\n\nYouTube: https://youtube.com/shorts/{entry['youtube_id']}" if entry.get("youtube_id") else "") +
               (f"\n\nFacebook reel id: {entry['facebook_id']}" if entry.get("facebook_id") else "") +
+              (f"\n\nBuffer (TikTok/X): {entry['buffer']}" if entry.get("buffer") else "") +
               ("\n\nNotes: " + "; ".join(notes) if notes else "") +
               ("\n\n**Errors:** " + "; ".join(errors) if errors else ""))
     summary(report)
@@ -757,6 +769,27 @@ def editor_single(plan):
     return single_story(plan)
 
 
+def cmd_buffer_test() -> int:
+    """Renders the offline demo and sends it to Buffer as DRAFTS (never published)."""
+    from . import upload_buffer as BU
+    from .demo import demo_inputs
+    slot, slot_time = slot_by_id("morgen")
+    images.reset_tmp()
+    plan, stories, photos = demo_inputs()
+    video, tl = make_video(plan, slot, slot_time, stories, photos, offline_voice=True)
+    lines = []
+    try:
+        lines.append("PostInputMetaData fields: " + str(BU._input_fields("PostInputMetaData")))
+        res = BU.post_video_everywhere(video, "media-buffer-test", "TEST – bitte löschen", "TEST – bitte löschen",
+                                       "Test", None, draft=True)
+        lines.append(f"Buffer draft test OK: {res}")
+    except Exception as e:
+        lines.append(f"Buffer draft test FAIL: {str(e)[:400]}")
+    log("\n".join(lines))
+    _report("buffer_test.md", lines)
+    return 0
+
+
 def cmd_demo(args) -> int:
     from .demo import demo_inputs
     slot, slot_time = slot_by_id(args.slot or "morgen")
@@ -784,13 +817,13 @@ def main(argv=None) -> int:
     d = sub.add_parser("demo")
     d.add_argument("--slot")
     d.add_argument("--real-voice", action="store_true")
-    for n in ("check-feeds", "check-tokens", "post-comments", "channel-seo", "comments-fetch", "comments-post", "recover"):
+    for n in ("check-feeds", "check-tokens", "post-comments", "channel-seo", "comments-fetch", "comments-post", "recover", "buffer-test"):
         sub.add_parser(n)
     a = ap.parse_args(argv)
     fn = {"candidates": lambda: cmd_candidates(a), "fallback": lambda: cmd_fallback(a), "validate-plan": lambda: cmd_validate(a),
           "run": lambda: cmd_run(a), "demo": lambda: cmd_demo(a), "check-feeds": cmd_check_feeds,
           "check-tokens": cmd_check_tokens, "channel-seo": cmd_channel_seo,
-          "comments-fetch": cmd_comments_fetch, "comments-post": cmd_comments_post, "recover": cmd_recover,
+          "comments-fetch": cmd_comments_fetch, "comments-post": cmd_comments_post, "recover": cmd_recover, "buffer-test": cmd_buffer_test,
           "post-comments": lambda: cmd_post_comments() or 0}[a.cmd]
     return fn()
 

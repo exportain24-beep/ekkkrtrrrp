@@ -40,6 +40,7 @@ jobs:
       FB_APP_ID: ${{ secrets.FB_APP_ID }}
       FB_APP_SECRET: ${{ secrets.FB_APP_SECRET }}
       BUFFER_API_KEY: ${{ secrets.BUFFER_API_KEY }}
+      GH_TOKEN: ${{ github.token }}
       PYTHONUNBUFFERED: "1"
     steps:
       - uses: actions/checkout@v4

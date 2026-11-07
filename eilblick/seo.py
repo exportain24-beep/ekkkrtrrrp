@@ -95,3 +95,21 @@ def strip_links(text: str) -> str:
         line = re.sub(r"[–-]?\s*(mehr|alles|infos?|details)\s+(auf|unter|bei)\s*[:.]?\s*$", "", line, flags=re.I)
         out.append(re.sub(r"\s{2,}", " ", line).strip())
     return "\n".join(out)
+
+
+
+def tiktok_caption(plan: dict) -> str:
+    """TikTok: hook line + question + 4–6 hashtags, German, no links."""
+    tags = ["#nachrichten", "#deutschland", "#news", "#eilblick"] + \
+        [_hashtag(h.lstrip("#")).lower() for h in plan.get("hashtags", [])][:2]
+    lines = ["🚨 " + plan.get("facebook_caption_line1", plan["youtube_title"]),
+             plan.get("facebook_question", ""), "", " ".join(dict.fromkeys(t for t in tags if t))]
+    return strip_links("\n".join(lines))[:2100]
+
+
+def x_caption(plan: dict) -> str:
+    """X/Twitter: ≤ 280 chars, headline + 2–3 hashtags."""
+    tags = ["#Eilblick", "#Nachrichten"] + [_hashtag(h.lstrip("#")) for h in plan.get("hashtags", [])][:1]
+    head = "🚨 " + plan["youtube_title"].strip()
+    tail = "\n\n" + " ".join(t for t in tags if t)
+    return (head[: 280 - len(tail)] + tail)[:280]

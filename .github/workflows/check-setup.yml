@@ -4,6 +4,10 @@ name: Check setup (keys + news feeds)
 on:
   workflow_dispatch:
     inputs:
+      buffer_test:
+        description: "Send a test video to Buffer as DRAFT (TikTok + X)"
+        type: boolean
+        default: false
       channel_seo:
         description: "Also apply channel SEO (description, keywords, playlists, page about)"
         type: boolean
@@ -32,6 +36,7 @@ jobs:
       FB_APP_ID: ${{ secrets.FB_APP_ID }}
       FB_APP_SECRET: ${{ secrets.FB_APP_SECRET }}
       BUFFER_API_KEY: ${{ secrets.BUFFER_API_KEY }}
+      GH_TOKEN: ${{ github.token }}
     steps:
       - uses: actions/checkout@v4
       - uses: actions/setup-python@v5
@@ -46,6 +51,12 @@ jobs:
         continue-on-error: true
       - name: Recover missing publish records
         run: python -m eilblick recover
+        continue-on-error: true
+      - name: Buffer draft test
+        if: github.event.inputs.buffer_test == 'true'
+        run: |
+          sudo apt-get update -qq && sudo apt-get install -y -qq ffmpeg > /dev/null
+          python -m eilblick buffer-test
         continue-on-error: true
       - name: Channel SEO
         if: github.event.inputs.channel_seo == 'true'
