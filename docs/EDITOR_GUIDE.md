@@ -64,7 +64,10 @@ whether content matches their interests. So:
    (ad-unfriendly on YouTube/Facebook) – choose another story or a calmer angle with official/political photos.
    For war/conflict only the political level (decisions, talks, consequences for Europe).
 7. Skip anything in `already_published` unless there is a clearly new development (then say what is new).
-8. Respect the slot focus (`slot.focus`).
+8. **Popularity decides – no fixed topics (owner rule, 7 Nov 2026).** Work like a real news channel: cover the
+   most popular, most-discussed news right now (highest `score` = most outlets reporting it + Google-Trends match +
+   freshness). `slot.focus` is only a tie-breaker between equally hot stories – never pick a weaker story just
+   because it fits the focus, and never force a topic.
 9. Words: `voice` 17–24 words each, total ≤ 100 words (→ 40–50 s video). Numbers written as spoken
    ("achtundvierzig Prozent", "zwei Komma fünf Milliarden Euro").
 
@@ -122,7 +125,7 @@ Field limits: `kicker` ≤ 18 chars UPPERCASE place/area · `headline` ≤ 38 ch
 ## FOKUS format (slots fokus-geld 08:30, fokus-politik 18:30, fokus-top 22:00 – owner, 6 Nov 2026)
 **One video = one real story, 30–35 seconds.** No list of headlines, no "Die Schlagzeilen …", no intro,
 no logo outro – the last sentence flows straight back into the first second (loop).
-Pick the ONE strongest real story from candidates.json that fits `slot.focus` (verified by ≥2 outlets, only facts
+Pick the ONE most popular, most-discussed real story right now from candidates.json (highest score / most outlets / Google-Trends; `slot.focus` is only a tie-breaker – never force a topic) (verified by ≥2 outlets, only facts
 from the candidate texts; WebSearch/WebFetch only to verify). The same hard rules as above apply (no violence,
 gossip, rumours; never invent numbers; 100 % Hochdeutsch).
 

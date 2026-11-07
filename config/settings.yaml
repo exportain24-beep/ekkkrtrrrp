@@ -18,25 +18,25 @@ slots:
   - id: morgen
     time: "07:00"
     label: "am Morgen"
-    focus: "Wichtigste Nachrichten der Nacht und des Morgens: internationale Eilmeldungen der Nacht und die größte politische Schlagzeile in Deutschland."
+    focus: "Nur Tie-Breaker – immer zuerst die populärsten, meistberichteten Nachrichten. Bei Gleichstand bevorzugt: Wichtigste Nachrichten der Nacht und des Morgens: internationale Eilmeldungen der Nacht und die größte politische Schlagzeile in Deutschland."
     pillars: [POLITIK, WELT, WIRTSCHAFT, TECHNOLOGIE]
     notify_subscribers: true
   - id: mittag
     time: "12:00"
     label: "am Mittag"
-    focus: "Wirtschaft und Finanzen zuerst: DAX, Inflation, EZB, Energiepreise, Autoindustrie (VW, BMW, Mercedes), Technologie."
+    focus: "Nur Tie-Breaker – immer zuerst die populärsten, meistberichteten Nachrichten. Bei Gleichstand bevorzugt: Wirtschaft und Finanzen zuerst: DAX, Inflation, EZB, Energiepreise, Autoindustrie (VW, BMW, Mercedes), Technologie."
     pillars: [WIRTSCHAFT, TECHNOLOGIE, POLITIK, WELT]
     notify_subscribers: true
   - id: abend
     time: "16:30"
     label: "am Abend"
-    focus: "Innenpolitik (Bundestag, Bundesregierung, neue Gesetze), Energie, Alltag der Menschen in Deutschland, Österreich und der Schweiz."
+    focus: "Nur Tie-Breaker – immer zuerst die populärsten, meistberichteten Nachrichten. Bei Gleichstand bevorzugt: Innenpolitik (Bundestag, Bundesregierung, neue Gesetze), Energie, Alltag der Menschen in Deutschland, Österreich und der Schweiz."
     pillars: [POLITIK, WIRTSCHAFT, WELT, TECHNOLOGIE]
     notify_subscribers: true
   - id: nacht
     time: "20:45"
     label: "am späten Abend"
-    focus: "Geopolitik, europäische Sicherheit, NATO, EU, Welthandel und Zölle – mit Bezug zu Deutschland."
+    focus: "Nur Tie-Breaker – immer zuerst die populärsten, meistberichteten Nachrichten. Bei Gleichstand bevorzugt: Geopolitik, europäische Sicherheit, NATO, EU, Welthandel und Zölle – mit Bezug zu Deutschland."
     pillars: [WELT, POLITIK, WIRTSCHAFT, TECHNOLOGIE]
     notify_subscribers: false   # YouTube sends max ~3 notifications/day → slot 4 stays silent
 
@@ -46,19 +46,19 @@ slots:
     format: single
     time: "08:30"
     label: "Fokus Geld"
-    focus: "Der eine Wirtschafts- oder Geld-Aufreger des Tages mit direkter Wirkung auf den Geldbeutel der Menschen in Deutschland, Österreich oder der Schweiz (Preise, Heizkosten, Steuern, Löhne, Rente, Mieten, Inflation, Jobs)."
+    focus: "Nur Tie-Breaker – immer zuerst die populärsten, meistberichteten Nachrichten. Bei Gleichstand bevorzugt: Der eine Wirtschafts- oder Geld-Aufreger des Tages mit direkter Wirkung auf den Geldbeutel der Menschen in Deutschland, Österreich oder der Schweiz (Preise, Heizkosten, Steuern, Löhne, Rente, Mieten, Inflation, Jobs)."
     notify_subscribers: false
   - id: fokus-politik
     format: single
     time: "18:30"
     label: "Fokus Politik"
-    focus: "Die eine große politische oder sicherheitspolitische Enthüllung bzw. Eilmeldung des Tages aus Berlin, Wien, Bern oder Brüssel (Regierung, Kanzleramt, Hackerangriffe, Spionage, große Entscheidungen, Skandale)."
+    focus: "Nur Tie-Breaker – immer zuerst die populärsten, meistberichteten Nachrichten. Bei Gleichstand bevorzugt: Die eine große politische oder sicherheitspolitische Enthüllung bzw. Eilmeldung des Tages aus Berlin, Wien, Bern oder Brüssel (Regierung, Kanzleramt, Hackerangriffe, Spionage, große Entscheidungen, Skandale)."
     notify_subscribers: false
   - id: fokus-top
     format: single
     time: "22:00"
     label: "Fokus des Tages"
-    focus: "Die meistdiskutierte, überraschendste Meldung des Tages im DACH-Raum (jedes Ressort außer Sport-Ergebnissen und Promi-Klatsch), die für die Menschen hier spürbare Folgen hat."
+    focus: "Nur Tie-Breaker – immer zuerst die populärsten, meistberichteten Nachrichten. Bei Gleichstand bevorzugt: Die meistdiskutierte, überraschendste Meldung des Tages im DACH-Raum (jedes Ressort außer Sport-Ergebnissen und Promi-Klatsch), die für die Menschen hier spürbare Folgen hat."
     notify_subscribers: false
 
 build_window_minutes:
