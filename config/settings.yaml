@@ -40,6 +40,20 @@ slots:
     pillars: [WELT, POLITIK, WIRTSCHAFT, TECHNOLOGIE]
     notify_subscribers: false   # YouTube sends max ~3 notifications/day → slot 4 stays silent
 
+  # ---- 2 more regular headline editions (owner, 7 Nov 2026)
+  - id: vormittag
+    time: "10:00"
+    label: "am Vormittag"
+    focus: "Nur Tie-Breaker – immer zuerst die populärsten, meistberichteten Nachrichten. Bei Gleichstand bevorzugt: was seit dem Morgen neu passiert ist."
+    pillars: [POLITIK, WIRTSCHAFT, WELT, TECHNOLOGIE]
+    notify_subscribers: false
+  - id: nachmittag
+    time: "14:30"
+    label: "am Nachmittag"
+    focus: "Nur Tie-Breaker – immer zuerst die populärsten, meistberichteten Nachrichten. Bei Gleichstand bevorzugt: Entwicklungen des Tages und Folgen für den Alltag."
+    pillars: [POLITIK, WIRTSCHAFT, WELT, TECHNOLOGIE]
+    notify_subscribers: false
+
   # ---- FOKUS format (owner, 6 Nov 2026): 1 video = 1 real story, 30–35 s, shock hook in the
   #      first second, no intro/outro, ends straight into a loop. Prime-time slots.
   - id: fokus-geld
