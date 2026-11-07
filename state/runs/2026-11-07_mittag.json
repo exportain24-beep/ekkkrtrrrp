@@ -1,0 +1,36 @@
+{
+ "date": "2026-11-07",
+ "slot": "mittag",
+ "publish_at": "2026-11-07T11:00:00+00:00",
+ "title": "Linke gegen eigene Abgeordnete: Muss Vanessa Emde jetzt gehen?",
+ "duration": 49.7,
+ "stories": [
+  {
+   "headline": "Linke fordert Mandat von Emde zurück",
+   "region": "DE",
+   "pillar": "POLITIK"
+  },
+  {
+   "headline": "Papst beginnt Südamerika-Reise",
+   "region": "INT",
+   "pillar": "WELT"
+  },
+  {
+   "headline": "Hackerangriff auf TU München",
+   "region": "DE",
+   "pillar": "TECHNOLOGIE"
+  },
+  {
+   "headline": "Stadtwerke wollen Gasnetze stilllegen",
+   "region": "DE",
+   "pillar": "WIRTSCHAFT"
+  }
+ ],
+ "comment": {
+  "text": "Sollte Vanessa Emde ihr Mandat zurückgeben – ja oder nein?",
+  "done": false
+ },
+ "youtube_id": "bYUXHLYi7Y8",
+ "facebook_id": "1599456431406790",
+ "created": "2026-11-07T09:30:09.139485+00:00"
+}
