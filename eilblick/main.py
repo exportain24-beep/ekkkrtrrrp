@@ -56,10 +56,10 @@ def speed_up(seg: tts.Segment, factor: float) -> tts.Segment:
 
 
 def build_timeline(plan, slot, slot_time, intro_seg, segs, photos, stories) -> tuple[Timeline, list, list]:
-    t = 0.5
+    t = 0.05   # growth 8 Nov: voice starts at frame 0 – no silent lead-in (54 % swiped away)
     voice_spans = [(t, intro_seg.audio)]
     sfx = [("swoop", 0.0)]
-    t += intro_seg.duration + 0.3
+    t += intro_seg.duration + 0.15
     intro_end = t
     clips = []
     per = settings()["video"]["seconds_per_image"]
@@ -83,15 +83,15 @@ def build_timeline(plan, slot, slot_time, intro_seg, segs, photos, stories) -> t
         ))
         t = end
     end_start = t
-    sfx.append(("whoosh", end_start - 0.25))
-    sfx.append(("sting", end_start + 0.05))
-    total = end_start + 1.4
+    # growth 8 Nov: no logo end card – the last sentence flows straight back into the hook (loop),
+    # the retention curve showed the end card losing viewers; branding is on screen the whole time.
+    total = end_start + 0.1
     first = plan["stories"][0]
     tl = Timeline(
         total=total, intro_end=intro_end, end_start=end_start,
         hook_text=plan.get("hook_text") or first["headline"],
         hook_highlight=first.get("highlight", []),
-        date_text=german_date(slot_time), slot_label=slot["label"], clock=slot["time"],
+        date_text=german_date(slot_time), slot_label=slot.get("badge") or "DIE SCHLAGZEILEN", clock=slot["time"],
         stories=clips, ticker=[s["headline"] for s in plan["stories"]] + [settings()["channel"]["slogan"]],
     )
     return tl, voice_spans, sfx

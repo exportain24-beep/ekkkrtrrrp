@@ -230,6 +230,23 @@ def cover(img: Image.Image, w: int, h: int, zoom: float = 1.0, fx: float = 0.5, 
     return img.resize((w, h), Image.BILINEAR, box=(x0, y0, x0 + cw, y0 + ch))
 
 
+def follow_cue(fr: Image.Image, t: float, total: float, y: int = 196):
+    """Subtle subscribe cue (growth 8 Nov 2026): small pill under the top bar from 55 % to 95 % of the video."""
+    a = min(ease((t - 0.55 * total) / 0.4), 1 - ease((t - 0.95 * total) / 0.3))
+    if a <= 0.01:
+        return
+    d = ImageDraw.Draw(fr)
+    f = font("black", 30)
+    txt = "+ FOLGEN"
+    sub = "12× täglich News"
+    f2 = font("semi", 26)
+    w = f.getlength(txt) + f2.getlength(sub) + 64
+    x = 1020 - w
+    d.rounded_rectangle([x, y, x + w, y + 52], radius=26, fill=(214, 26, 32, int(235 * a)))
+    d.text((x + 22, y + 9), txt, font=f, fill=(255, 255, 255, int(255 * a)))
+    d.text((x + 34 + f.getlength(txt), y + 13), sub, font=f2, fill=(255, 235, 235, int(255 * a)))
+
+
 class PhotoCache:
     def __init__(self):
         self.full = {}
@@ -527,7 +544,7 @@ class Renderer:
         self.top_bar(fr, t, None)
         d = ImageDraw.Draw(fr)
         f = font("black", 44)
-        label = "DIE SCHLAGZEILEN"
+        label = (tl.slot_label or "DIE SCHLAGZEILEN").upper()
         lw = f.getlength(label) + 44
         d.rectangle([60, 980, 60 + lw, 1044], fill=C["red"])
         d.text((82, 986), label, font=f, fill=C["white"])
@@ -589,8 +606,6 @@ class Renderer:
         tl = self.tl
         if t < tl.intro_end:
             self.intro(fr, t)
-        elif t >= tl.end_start:
-            self.outro(fr, t)
         else:
             story = next((s for s in tl.stories if s.start <= t < s.end), tl.stories[-1])
             per = settings()["video"]["seconds_per_image"]
@@ -605,7 +620,13 @@ class Renderer:
             self.ticker(fr, t)
         for s in tl.stories:
             self.wipe(fr, t, s.start)
-        self.wipe(fr, t, tl.end_start)
+        if t >= tl.intro_end:
+            follow_cue(fr, t, tl.total)
+        # seamless loop: the hook frame fades back in during the last 0.35 s
+        if t > tl.total - 0.35 and t >= tl.intro_end:
+            hook_fr = Image.new("RGBA", (W, H), C["bg"])
+            self.intro(hook_fr, 0.0)
+            fr = Image.blend(fr, hook_fr, ease((t - (tl.total - 0.35)) / 0.35))
         return fr.convert("RGB")
 
 
@@ -867,6 +888,8 @@ class SingleRenderer:
             self.data_card(fr, beat, t)
         self.caption(fr, beat, t)
         self.sources(fr)
+        if t >= tl.hook_end:
+            follow_cue(fr, t, tl.total)
         # seamless loop: the hook words fade back in during the last 0.35 s
         if t > tl.total - 0.35:
             self.hook(fr, 1.0, alpha=ease((t - (tl.total - 0.35)) / 0.35))

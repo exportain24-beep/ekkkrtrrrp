@@ -17,6 +17,7 @@ channel:
 slots:
   - id: morgen
     time: "07:00"
+    badge: "MORGEN-BRIEFING"
     label: "am Morgen"
     focus: "Nur Tie-Breaker – immer zuerst die populärsten, meistberichteten Nachrichten. Bei Gleichstand bevorzugt: Wichtigste Nachrichten der Nacht und des Morgens: internationale Eilmeldungen der Nacht und die größte politische Schlagzeile in Deutschland."
     pillars: [POLITIK, WELT, WIRTSCHAFT, TECHNOLOGIE]
@@ -37,6 +38,7 @@ slots:
     notify_subscribers: true
   - id: nacht
     time: "20:45"
+    badge: "DER TAG IN 45 SEKUNDEN"
     label: "am späten Abend"
     focus: "Tagesrückblick „Der Tag in 45 Sekunden“: die 4 größten Nachrichten des Tages, die meistberichtete zuerst. Nur Tie-Breaker – Popularität entscheidet. Bei Gleichstand bevorzugt: Geopolitik, europäische Sicherheit, NATO, EU, Welthandel und Zölle – mit Bezug zu Deutschland."
     pillars: [WELT, POLITIK, WIRTSCHAFT, TECHNOLOGIE]
@@ -188,14 +190,14 @@ seo:
                      "Wirtschaft aktuell", "Börse DAX", "Weltnachrichten", "Österreich Nachrichten", "Schweiz Nachrichten",
                      "Kurznachrichten", "News Shorts", "Tagesnachrichten", "DACH"]
   channel_description: >-
-    Eilblick – Kompakt. Direkt. Auf den Punkt. Viermal täglich die wichtigsten Nachrichten aus Deutschland,
-    Österreich, der Schweiz und Europa in unter 50 Sekunden: Politik, Wirtschaft, Welt und Technologie.
+    Eilblick – Kompakt. Direkt. Auf den Punkt. Zwölfmal täglich die wichtigsten Nachrichten aus Deutschland,
+    Österreich, der Schweiz und Europa – meist eine Meldung pro Short, in unter einer Minute: Politik, Wirtschaft, Welt und Technologie.
     Jede Meldung beruht auf Berichten von mindestens zwei etablierten Medien wie tagesschau, ZDFheute,
     Deutschlandfunk, ORF oder SRF – mit Quellen und Bildnachweisen in jeder Beschreibung.
-    Neue Schlagzeilen täglich um 7:00, 12:00, 16:30 und 20:45 Uhr.
+    Morgen-Briefing um 7:00, „Der Tag in 45 Sekunden“ um 20:45 – dazwischen jede wichtige Meldung im FOKUS. Abonnieren und nichts verpassen.
     Alle Hintergründe auf eilblick.de. Hinweis: Die Sprecherstimme ist KI-generiert.
   playlists:
-    ALLE: {title: "Eilblick – Nachrichten heute in unter 50 Sekunden", description: "Alle Eilblick-Schlagzeilen: viermal täglich die wichtigsten Nachrichten aus Deutschland, Österreich, der Schweiz und der Welt."}
+    ALLE: {title: "Eilblick – Nachrichten heute in unter 50 Sekunden", description: "Alle Eilblick-Shorts: zwölfmal täglich die wichtigsten Nachrichten aus Deutschland, Österreich, der Schweiz und der Welt."}
     POLITIK: {title: "Politik aktuell – Bundestag, Regierung & neue Gesetze", description: "Politische Nachrichten aus Deutschland, Österreich, der Schweiz und der EU – kompakt erklärt."}
     WIRTSCHAFT: {title: "Wirtschaft & Börse aktuell – DAX, Inflation, Energiepreise", description: "Wirtschaftsnachrichten: DAX, EZB, Inflation, Autoindustrie und Energiepreise – kompakt in Kurzform."}
     WELT: {title: "Weltnachrichten – NATO, EU & Geopolitik", description: "Internationale Nachrichten mit Bedeutung für Deutschland und Europa: NATO, EU, Welthandel und Zölle."}
