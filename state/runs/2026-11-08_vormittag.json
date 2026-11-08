@@ -1,0 +1,40 @@
+{
+ "date": "2026-11-08",
+ "slot": "vormittag",
+ "publish_at": "2026-11-08T09:00:00+00:00",
+ "title": "Trump zweifelt Wahl an: Justiz soll gegen Demokraten ermitteln",
+ "duration": 49.7,
+ "stories": [
+  {
+   "headline": "Trump droht den Demokraten",
+   "region": "INT",
+   "pillar": "WELT"
+  },
+  {
+   "headline": "Wehrpflicht: Union contra Pistorius",
+   "region": "DE",
+   "pillar": "POLITIK"
+  },
+  {
+   "headline": "Aeschi will in den Bundesrat",
+   "region": "CH",
+   "pillar": "POLITIK"
+  },
+  {
+   "headline": "Aigner: Linke kritisiert Verfahren",
+   "region": "DE",
+   "pillar": "POLITIK"
+  }
+ ],
+ "comment": {
+  "text": "Sollte Trump das Wahlergebnis akzeptieren – ja oder nein?",
+  "done": false
+ },
+ "youtube_id": "_PBZ736EEvk",
+ "facebook_id": "4563350120578391",
+ "buffer": {
+  "twitter": "6af02672004e4879a7a1c3f8",
+  "tiktok": "6af02672004e4879a7a1c422"
+ },
+ "created": "2026-11-08T07:36:18.794668+00:00"
+}
