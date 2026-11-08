@@ -1,0 +1,57 @@
+{
+  "stories": [
+    {
+      "candidate_id": 9,
+      "pillar": "WELT",
+      "region": "INT",
+      "kicker": "PARAGUAY",
+      "headline": "Paraguay: Ex-Präsident in U-Haft",
+      "highlight": ["Paraguay"],
+      "voice": "Santiago Peña muss in Untersuchungshaft. Einen Tag nach seiner Amtsenthebung wurde Paraguays Ex-Präsident wegen des Skandals um die Ueno-Bank angeklagt.",
+      "subline": "Anklage wegen seiner Rolle im Bankenskandal",
+      "entities": ["Santiago Peña", "Paraguay"]
+    },
+    {
+      "candidate_id": 5,
+      "pillar": "TECHNOLOGIE",
+      "region": "EU",
+      "kicker": "ROM",
+      "headline": "Tajani prangert Hackerangriffe an",
+      "highlight": ["Tajani"],
+      "voice": "Antonio Tajani prangert die Hackerangriffe an. Mutmaßlich prorussische Hacker bieten Daten des italienischen Außenministers und seiner Familie im Darknet an, offenbar gegen Geld.",
+      "subline": "Gruppe „Noname057(16)“ bietet Daten im Darknet an",
+      "entities": ["Antonio Tajani", "Italien"]
+    },
+    {
+      "candidate_id": 22,
+      "pillar": "POLITIK",
+      "region": "CH",
+      "kicker": "EISHOCKEY",
+      "headline": "Schweiz: Kein Spiel gegen Russland",
+      "highlight": ["Russland"],
+      "voice": "Swiss Ice Hockey hat am Samstagabend entschieden: Die Schweizer U-Zwanzig-Nationalmannschaft tritt bei der WM in Kanada Ende des Jahres nicht gegen Russland an.",
+      "subline": "U20-WM in Kanada: Entscheid des Schweizer Verbands",
+      "entities": ["Swiss Ice Hockey", "Schweizer Eishockeynationalmannschaft"]
+    },
+    {
+      "candidate_id": 24,
+      "pillar": "POLITIK",
+      "region": "DE",
+      "kicker": "BERLIN",
+      "headline": "Emde will ihr Mandat behalten",
+      "highlight": ["Emde"],
+      "voice": "Vanessa Emde bleibt im Berliner Abgeordnetenhaus. Die Linke-Abgeordnete weist die Forderung ihres Landesvorstands zurück, ihr Mandat abzugeben: Sie werde es selbstverständlich weiter ausüben.",
+      "subline": "Landesvorstand der Linken hatte den Rückzug gefordert",
+      "entities": ["Vanessa Emde", "Abgeordnetenhaus Berlin", "Die Linke Berlin"]
+    }
+  ],
+  "hook_text": "Paraguay: Ex-Präsident in Haft",
+  "hook_voice": "Paraguays Ex-Präsident in Haft – die Schlagzeilen am Mittag.",
+  "youtube_title": "Paraguay: Erst abgesetzt, jetzt in U-Haft – Ex-Präsident Peña",
+  "description_lead": "Paraguays Ex-Präsident Santiago Peña muss nach seiner Amtsenthebung wegen des Skandals um die Ueno-Bank in Untersuchungshaft. Außerdem: Italiens Außenminister Antonio Tajani prangert Hackerangriffe an, Swiss Ice Hockey lässt die U20 bei der WM nicht gegen Russland antreten, und die Berliner Linke-Abgeordnete Vanessa Emde behält ihr Mandat.",
+  "tags": ["Santiago Peña", "Paraguay", "Ueno-Bank", "Antonio Tajani", "Italien", "Swiss Ice Hockey", "U20-WM", "Vanessa Emde", "Die Linke", "Abgeordnetenhaus Berlin", "Bankenskandal", "Hackerangriff", "Darknet", "Russland", "Eishockey"],
+  "hashtags": ["#paraguay", "#bankenskandal", "#eishockey"],
+  "facebook_caption_line1": "Erst abgesetzt, jetzt in Untersuchungshaft: Paraguays Ex-Präsident Peña muss wegen Bankenskandal in Haft",
+  "facebook_question": "Sollten Staatschefs bei Finanzskandalen härter zur Rechenschaft gezogen werden?",
+  "comment_question": "Bankenskandal in Paraguay: Richtig, dass ein Ex-Präsident in U-Haft muss – ja oder nein?"
+}
