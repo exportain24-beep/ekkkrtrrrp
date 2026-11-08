@@ -178,6 +178,7 @@ youtube:
   use_playlists: true
 
 facebook:
+  reply_to_comments: false   # owner rule 9 Nov 2026: never reply to Facebook comments (YouTube replies stay on)
   enabled: true
   graph_version: "v23.0"
 

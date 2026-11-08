@@ -620,11 +620,13 @@ def cmd_comments_fetch() -> int:
         inbox += YT.unanswered_comments()
     except Exception as e:
         errs.append(f"youtube: {e}")
-    try:
-        fb_ids = [r["facebook_id"] for r in state.load()["runs"] if r.get("facebook_id")][-60:]
-        inbox += FB.unanswered_comments(fb_ids)
-    except Exception as e:
-        errs.append(f"facebook: {e}")
+    # Owner rule 9 Nov 2026: never reply to Facebook comments – only YouTube comments are collected.
+    if settings().get("facebook", {}).get("reply_to_comments", False):
+        try:
+            fb_ids = [r["facebook_id"] for r in state.load()["runs"] if r.get("facebook_id")][-60:]
+            inbox += FB.unanswered_comments(fb_ids)
+        except Exception as e:
+            errs.append(f"facebook: {e}")
     titles = {r.get("youtube_id"): r.get("title") for r in state.load()["runs"]}
     titles.update({r.get("facebook_id"): r.get("title") for r in state.load()["runs"]})
     inbox = [dict(c, video_title=titles.get(c["video"], "")) for c in inbox if c["id"] not in done]
@@ -693,6 +695,8 @@ def cmd_comments_post() -> int:
     for r in replies:
         if r["id"] in done:
             continue
+        if r.get("platform") != "youtube" and not settings().get("facebook", {}).get("reply_to_comments", False):
+            continue                    # owner rule 9 Nov 2026: never reply on Facebook
         if not r.get("reply"):          # deliberately skipped (spam / abuse)
             done.append(r["id"])
             continue

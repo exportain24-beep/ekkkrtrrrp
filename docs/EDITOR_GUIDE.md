@@ -10,7 +10,8 @@ sorted by hotness (outlet count × trust, Google-Trends match, freshness, DACH b
 Output: `queue/<date>_<slot>/plan.json` (schema below). Then run
 `python -m eilblick validate-plan queue/<date>_<slot>` and fix until it prints `plan OK ✓`.
 
-## Step 0 – Answer every comment (do this first, every run)
+## Step 0 – Answer every YouTube comment (do this first, every run)
+**Owner rule 9 Nov 2026: never reply to Facebook comments.** The inbox only contains YouTube comments; never write a Facebook reply.
 1. `gh api -X POST repos/exportain24-beep/ekkkrtrrrp/actions/workflows/comments.yml/dispatches -f ref=main -f 'inputs[mode]=fetch'`,
    wait until the newest "Eilblick 3 – Comments" run is completed, `git pull --rebase`, read `state/comments_inbox.json`.
 2. If it has comments, write `state/comments_replies.json` = a list of `{"platform", "id", "reply"}` — one entry for
