@@ -1,0 +1,1707 @@
+{
+ "slot": {
+  "id": "fokus-geld",
+  "format": "single",
+  "time": "08:30",
+  "label": "Fokus Geld",
+  "focus": "Nur Tie-Breaker – immer zuerst die populärsten, meistberichteten Nachrichten. Bei Gleichstand bevorzugt: Der eine Wirtschafts- oder Geld-Aufreger des Tages mit direkter Wirkung auf den Geldbeutel der Menschen in Deutschland, Österreich oder der Schweiz (Preise, Heizkosten, Steuern, Löhne, Rente, Mieten, Inflation, Jobs).",
+  "notify_subscribers": false
+ },
+ "slot_time": "2026-11-08T08:30:00+01:00",
+ "date_text": "Sonntag, 8. November 2026",
+ "already_published": [
+  "Industrie wächst überraschend",
+  "Daimler Truck: Gewinn plus 73 Prozent",
+  "Trump kündigt Russland-Deal an",
+  "AfD-Leak: Spur führt in die USA",
+  "Freuding wird Generalinspekteur",
+  "Bundestag repariert Tabaksteuer-Panne",
+  "Benko erneut verurteilt",
+  "Führerschein soll billiger werden",
+  "EU droht TikTok mit Strafe",
+  "Härtere Strafen für K.o.-Tropfen",
+  "Mäc Geiz schließt 60 Filialen",
+  "Bombendrohungen gegen Flüge in Europa",
+  "Eishockey-WM nur ohne Russland",
+  "Leipzig: BKA fahndet mit KI-Bild",
+  "Belgiens König lehnt Rücktritt ab",
+  "Ukraine-Deal: Kreml bremst Trump",
+  "IG Metall: Über 400.000 im Warnstreik",
+  "Aigner soll Bundespräsidentin werden",
+  "Trump: Hardliner Miller wird Stabschef",
+  "Hubig: AfD-Mails für Verbotsprüfung",
+  "Pistorius: Wehrpflicht wohl unnötig",
+  "Pflegekassen brauchen Extra-Darlehen",
+  "Linke fordert Mandat von Emde zurück",
+  "Papst beginnt Südamerika-Reise",
+  "Hackerangriff auf TU München",
+  "Stadtwerke wollen Gasnetze stilllegen",
+  "Pahlavi: Freiheitspreis für Irans Volk",
+  "Aigner-Kandidatur: Merz schweigt",
+  "Pensionisten zahlen E-Card-Gebühr",
+  "Allgäu verliert letzten Gletscher",
+  "Hacker stellen Tajani-Daten ins Netz",
+  "Geheimdienste prüfen Supermarkt-Hacks",
+  "Klingbeil lässt SPD-Vorsitz offen",
+  "Selenskyj räumt im Geheimdienst auf",
+  "BSW-Streit um Constantin Schreiber",
+  "Eishockey-WM: Russland-Streit eskaliert",
+  "Eisenkot soll Israel regieren",
+  "CDU entscheidet heute über Aigner",
+  "Frankreich: 146.000 gegen Regierung",
+  "KI-Chips: Elektronik wird teurer"
+ ],
+ "candidates": [
+  {
+   "id": 0,
+   "score": 19.89,
+   "outlets": [
+    "tagesschau",
+    "ZDFheute",
+    "ORF",
+    "SRF News",
+    "SPIEGEL",
+    "Handelsblatt",
+    "DER STANDARD",
+    "WELT",
+    "n-tv"
+   ],
+   "regions": [
+    "AT",
+    "CH",
+    "DE",
+    "INT"
+   ],
+   "trend": [],
+   "newest": "2026-11-08T04:40:43+00:00",
+   "articles": [
+    {
+     "source": "tagesschau",
+     "region": "DE",
+     "weight": 1.0,
+     "title": "Netanjahu-Rivale Gadi Eisenkot soll Regierung in Israel bilden",
+     "summary": "Netanjahu-Rivale Gadi Eisenkot soll Regierung in Israel bilden",
+     "link": "https://www.tagesschau.de/video/video-1680074.html",
+     "image": "https://images.tagesschau.de/image/25a9a3b0-5ff0-4dea-8db9-23122fd2b6d8/AAABober0uM/AAABnSSvrFg/16x9-big/sendungsbild-1824128.jpg?width=1920",
+     "aggregator": false,
+     "published": "2026-11-07T20:21:01+00:00"
+    },
+    {
+     "source": "tagesschau",
+     "region": "DE",
+     "weight": 1.0,
+     "title": "Oppositionsführer Eisenkot soll Israels neue Regierung bilden",
+     "summary": "Endet die Ära Netanjahu in Israel? Staatspräsident Herzog beauftragt den Oppositionspolitiker Eisenkot mit der Regierungsbildung. In den kommenden 28 Tagen soll er versuchen, eine Koalition zu schmieden.",
+     "link": "https://www.tagesschau.de/ausland/asien/regierungsbildung-israel-eisenkot-100.html",
+     "image": "https://images.tagesschau.de/image/1468c2f0-97fc-4df3-8608-e7ff13e7a1a9/AAABobeoupM/AAABnSSvrFg/16x9-big/eisenkot-116.jpg?width=1920",
+     "aggregator": false,
+     "published": "2026-11-07T20:31:48+00:00"
+    },
+    {
+     "source": "tagesschau Ausland",
+     "region": "INT",
+     "weight": 1.0,
+     "title": "Oppositionsführer Eisenkot soll Israels neue Regierung bilden",
+     "summary": "Endet die Ära Netanjahu in Israel? Staatspräsident Herzog beauftragt den Oppositionspolitiker Eisenkot mit der Regierungsbildung. In den kommenden 28 Tagen soll er versuchen, eine Koalition zu schmieden.",
+     "link": "https://www.tagesschau.de/ausland/asien/regierungsbildung-israel-eisenkot-100.html",
+     "image": "https://images.tagesschau.de/image/1468c2f0-97fc-4df3-8608-e7ff13e7a1a9/AAABobeoupM/AAABnSSvrFg/16x9-big/eisenkot-116.jpg?width=1920",
+     "aggregator": false,
+     "published": "2026-11-07T20:31:48+00:00"
+    },
+    {
+     "source": "ZDFheute",
+     "region": "DE",
+     "weight": 1.0,
+     "title": "Herzog will Eisenkot mit Regierungsbildung beauftragen",
+     "summary": "In Israel soll Gadi Eisenkot mit der Bildung einer neuen Regierung beauftragt werden - der schärfste Rivale Benjamin Netanjahus. Das kündigte Präsident Isaac Herzog an.",
+     "link": "https://www.zdfheute.de/politik/ausland/regierungsbildung-israel-herzog-eisenkot-netanjahu-100.html",
+     "image": "https://www.zdfheute.de/assets/gadi-eisenkot-104~384x216?cb=1793255482756",
+     "aggregator": false,
+     "published": "2026-11-07T20:12:00+00:00"
+    },
+    {
+     "source": "ORF",
+     "region": "AT",
+     "weight": 0.95,
+     "title": "Eisenkot soll Regierung bilden",
+     "summary": "Israels Präsident Jizchak Herzog wird Oppositionspolitiker Gadi Eisenkot am Sonntag mit der Bildung einer Regierung beauftragen. Entsprechende Medienberichte bestätigte Herzogs Büro. Bei der Wahl Ende Oktober hatte der rechtsreligiöse Block von Benjamin Netanjahu seine Mehrheit verloren. Netanjahu rief am Samstag zur Bildung einer Regierung der nationalen Einheit auf.",
+     "link": "https://orf.at/stories/3447555/",
+     "image": null,
+     "aggregator": false,
+     "published": "2026-11-07T21:14:06+00:00"
+    },
+    {
+     "source": "SRF News",
+     "region": "CH",
+     "weight": 0.95,
+     "title": "Krieg im Nahen Osten – Israel: Gadi Eisenkot mit Regierungsbildung beauftragt",
+     "summary": "In Israel ist Gadi Eisenkot mit der Bildung einer neuen Regierung beauftragt worden.",
+     "link": "https://www.srf.ch/news/international/nahost/krieg-im-nahen-osten-israel-gadi-eisenkot-mit-regierungsbildung-beauftragt",
+     "image": "https://www.srf.ch/static/cms/images//320ws/dbf38f.webp",
+     "aggregator": false,
+     "published": "2026-11-07T20:33:17+00:00"
+    },
+    {
+     "source": "SPIEGEL",
+     "region": "DE",
+     "weight": 0.9,
+     "title": "Israel: Netanyahu-Rivale Gadi Eisenkot mit Regierungsbildung beauftragt",
+     "summary": "Der israelische Präsident Isaac Herzog will Oppositionsführer Gadi Eisenkot den Auftrag erteilen, eine neue Regierung zu formen. Störfeuer kommt vom bisherigen Premier Benjamin Netanyahu.",
+     "link": "https://www.spiegel.de/ausland/israel-netanjahu-rivale-gadi-einsenkot-mit-regierungsbildung-beauftragt-a-309f7855-3a51-4503-a6e8-2ead13f9dfe8#ref=rss",
+     "image": "https://cdn.prod.www.spiegel.de/images/84370b46-2a82-41d6-8216-3816858519bd_w520_r2.08_fpx41.98_fpy44.99.jpg",
+     "aggregator": false,
+     "published": "2026-11-07T20:04:00+00:00"
+    },
+    {
+     "source": "Handelsblatt",
+     "region": "DE",
+     "weight": 0.9,
+     "title": "Nahost: Netanjahu-Rivale Eisenkot in Israel mit Regierungsbildung beauftragt",
+     "summary": "Die jüngsten Wahlen in Israel hatten eine Patt-Situation zwischen Netanjahu und seinem Rivalen Eisenkot hervorgebracht. Nun soll der Oppositionspolitiker versuchen, eine Regierung zu bilden.",
+     "link": "https://www.handelsblatt.com/politik/international/nahost-netanjahu-rivale-eisenkot-in-israel-mit-regierungsbildung-beauftragt/100268142.html",
+     "image": "https://images.handelsblatt.com/F1zMTdje0-4X/cover/900/506/0/0/285/285/0.5/0.5/261023-modiin-oct.-23-2026-gadi-eisenkot-former-israeli-military-chief-and-leader-of-the-ce.jpg",
+     "aggregator": false,
+     "published": "2026-11-07T20:32:05+00:00"
+    }
+   ]
+  },
+  {
+   "id": 1,
+   "score": 16.1,
+   "outlets": [
+    "Deutschlandfunk",
+    "SRF News",
+    "ZEIT ONLINE",
+    "Handelsblatt",
+    "DER STANDARD",
+    "WELT",
+    "n-tv"
+   ],
+   "regions": [
+    "AT",
+    "CH",
+    "DE"
+   ],
+   "trend": [],
+   "newest": "2026-11-08T05:18:53+00:00",
+   "articles": [
+    {
+     "source": "Deutschlandfunk",
+     "region": "DE",
+     "weight": 0.95,
+     "title": "UFC - Trump will Kampfsportverbandschef Dana White als Pressesprecher",
+     "summary": "US-Präsident Trump hat dem Präsidenten des Kampfsportverbands UFC, White, den Posten des Pressesprechers im Weißen Haus angeboten.",
+     "link": "https://www.deutschlandfunk.de/trump-will-kampfsportverbandschef-dana-white-als-pressesprecher-102.html",
+     "image": "https://bilder.deutschlandfunk.de/88/0e/d3/3d/880ed33d-2c8f-4be0-b7b7-0585e3b10d3d/trump-ufc-dana-white-100-1920x1920.jpg",
+     "aggregator": false,
+     "published": "2026-11-08T05:18:53+00:00"
+    },
+    {
+     "source": "SRF News",
+     "region": "CH",
+     "weight": 0.95,
+     "title": "Midterms 2026 – US-Präsident Trump schlägt Kampfsportler als Pressesprecher vor",
+     "summary": "Der Kampfsport-Unternehmer Dana White soll als nächster Sprecher des Weissen Hauses werden. Ist das Trumps Ernst?",
+     "link": "https://www.srf.ch/news/international/midterms-2026-us-praesident-trump-schlaegt-kampfsportler-als-pressesprecher-vor",
+     "image": "https://www.srf.ch/static/cms/images//320ws/d1415c.webp",
+     "aggregator": false,
+     "published": "2026-11-07T19:44:02+00:00"
+    },
+    {
+     "source": "ZEIT ONLINE",
+     "region": "DE",
+     "weight": 0.9,
+     "title": "Dana White: Donald Trump will UFC-Chef als nächsten Regierungssprecher",
+     "summary": "Der US-Präsident hat Dana White den Posten als Sprecher seiner Regierung angeboten. Der Kampfsportunternehmer kündigte eine Reise zu Gesprächen nach Washington an.",
+     "link": "https://www.zeit.de/politik/ausland/2026-11/dana-white-donald-trump-weisses-haus-sprecher",
+     "image": "https://img.zeit.de/politik/ausland/2026-11/dana-white-donald-trump-weisses-haus-sprecher-foto-1/original__640x360",
+     "aggregator": false,
+     "published": "2026-11-08T04:23:51+00:00"
+    },
+    {
+     "source": "Handelsblatt",
+     "region": "DE",
+     "weight": 0.9,
+     "title": "Dana White: Trump will Kampfsport-Manager als Sprecher des Weißen Hauses",
+     "summary": "Donald Trump sieht in UFC-Präsident Dana White einen „gewalttätigen Kämpfer und Krieger“. Nach seinem Wunsch sollen White auch sechs UFC-Titelträger bei seinem neuen Job begleiten.",
+     "link": "https://www.handelsblatt.com/politik/international/dana-white-trump-will-kampfsport-manager-als-sprecher-des-weissen-hauses/100268144.html",
+     "image": "https://images.handelsblatt.com/LVay35zKvJdl/cover/900/506/0/0/104/104/0.5/0.5/josh-hokit-mixed-martial-artist-left-and-derrick-lewis-mixed-martial-artist-are-separated-by-da.jpg",
+     "aggregator": false,
+     "published": "2026-11-07T20:49:25+00:00"
+    },
+    {
+     "source": "DER STANDARD",
+     "region": "AT",
+     "weight": 0.85,
+     "title": "Trump will Kampfsport-Promoter Dana White Amt des Regierungssprechers angeboten haben",
+     "summary": "Der US-Präsident behauptete auf Truth Social, er habe dem UFC-Chef die Rolle im Weißen Haus angeboten. Einen offiziellen Kommentar zur Sache gibt es aus dem Weißen Haus nicht",
+     "link": "https://www.derstandard.at/story/3000000348040/trump-will-kampfsport-promoter-dana-white-amt-des-rprechers-angeboten-haben?ref=rss",
+     "image": "https://i.ds.at/d5cq4A/rs:fill:150:0/plain/lido-images/2026/11/07/4b0c482d-1db2-442f-8b68-d73bcfe5f763.jpg",
+     "aggregator": false,
+     "published": "2026-11-07T20:54:56+00:00"
+    },
+    {
+     "source": "WELT",
+     "region": "DE",
+     "weight": 0.8,
+     "title": "Trump will UFC-Chef Dana White als Sprecher des Weißen Hauses einsetzen",
+     "summary": "Ein Kampfsport-Promoter als Regierungssprecher und mehrere UFC-Champions als Mitarbeiter: Donald Trump hat auf Truth Social eine ungewöhnliche Personalidee vorgestellt. Neben US-amerikanischen Athleten nennt er auch zwei Kämpfer aus Dagestan.",
+     "link": "https://www.welt.de/politik/article6aef8d1d9ba8c65625d69f36/wir-brauchen-diese-leute-trump-will-ufc-chef-dana-white-als-sprecher-des-weissen-hauses-einsetzen.html",
+     "image": "https://images.welt.de/6aef8d1d9ba8c65625d69f36/fd619911b2a780be258b31e06b67b0a2-master/ci23x11-w1200/dpa-com-261107-935-1727873-jpg",
+     "aggregator": false,
+     "published": "2026-11-07T21:14:13+00:00"
+    },
+    {
+     "source": "n-tv",
+     "region": "DE",
+     "weight": 0.8,
+     "title": "Bietet UFC-Chef Job an: Trump will \"wilden Kämpfer und Krieger\" als neuen Pressesprecher",
+     "summary": "Ernst oder Witz? Donald Trump bietet einem Langzeitverbündeten den Job als Pressesprecher im Weißen Haus an: dem UFC-Chef Dana White. Der US-Präsident lobt ihn und seine Kämpfer mit markigen Worten.",
+     "link": "https://www.n-tv.de/politik/Trump-will-wilden-Kaempfer-und-Krieger-als-neuen-Pressesprecher-id31507616.html",
+     "image": "https://www.n-tv.de/img/31507612/1794083110/Img_4_3/250/611297717.jpg",
+     "aggregator": false,
+     "published": "2026-11-07T19:50:32+00:00"
+    }
+   ]
+  },
+  {
+   "id": 2,
+   "score": 13.9,
+   "outlets": [
+    "tagesschau",
+    "ZDFheute",
+    "SRF News",
+    "Süddeutsche",
+    "Handelsblatt",
+    "WirtschaftsWoche",
+    "DER STANDARD"
+   ],
+   "regions": [
+    "AT",
+    "CH",
+    "DE",
+    "INT"
+   ],
+   "trend": [],
+   "newest": "2026-11-07T20:25:11+00:00",
+   "articles": [
+    {
+     "source": "tagesschau",
+     "region": "DE",
+     "weight": 1.0,
+     "title": "Wofür Trumps neuer Stabschef Miller steht",
+     "summary": "Seit Freitag ist Stephen Miller neuer Stabschef von Präsident Trump. Der 41-Jährige gilt als rechter Hardliner und Kopf hinter der strikten Einwanderungspolitik. Welches Signal sendet Trump mit der Personalie an Republikaner und Demokraten?",
+     "link": "https://www.tagesschau.de/ausland/amerika/trump-stabschef-miller-100.html",
+     "image": "https://images.tagesschau.de/image/15646591-1e61-481c-b10d-8b00ab988e21/AAABobaEBY4/AAABnSSvrFg/16x9-big/stephen-miller-104.jpg?width=1920",
+     "aggregator": false,
+     "published": "2026-11-07T14:57:49+00:00"
+    },
+    {
+     "source": "tagesschau Ausland",
+     "region": "INT",
+     "weight": 1.0,
+     "title": "Wofür Trumps neuer Stabschef Miller steht",
+     "summary": "Seit Freitag ist Stephen Miller neuer Stabschef von Präsident Trump. Der 41-Jährige gilt als rechter Hardliner und Kopf hinter der strikten Einwanderungspolitik. Welches Signal sendet Trump mit der Personalie an Republikaner und Demokraten?",
+     "link": "https://www.tagesschau.de/ausland/amerika/trump-stabschef-miller-100.html",
+     "image": "https://images.tagesschau.de/image/15646591-1e61-481c-b10d-8b00ab988e21/AAABobaEBY4/AAABnSSvrFg/16x9-big/stephen-miller-104.jpg?width=1920",
+     "aggregator": false,
+     "published": "2026-11-07T14:57:49+00:00"
+    },
+    {
+     "source": "tagesschau Ausland",
+     "region": "INT",
+     "weight": 1.0,
+     "title": "Trumps neuer Stabschef Miller: \"Ein Warnschuss in Richtung des künftigen Kongresses\"",
+     "summary": "Auf Stabschefin Wiles folgt Hardliner Miller: Mit dieser Entscheidung reagiert Trump auf das Wahldebakel seiner Partei - und geht auf Konfrontationskurs zu den Demokraten. Doch auch Republikanern stößt die Personalie auf. Von C. Kühntopp.",
+     "link": "https://www.tagesschau.de/ausland/amerika/trump-miller-100.html",
+     "image": "https://images.tagesschau.de/image/9ba4af40-35be-4904-aca1-68b56c386797/AAABobQmDNQ/AAABnSSvrFg/16x9-big/trump-miller-102.jpg?width=1920",
+     "aggregator": false,
+     "published": "2026-11-07T04:19:10+00:00"
+    },
+    {
+     "source": "ZDFheute",
+     "region": "DE",
+     "weight": 1.0,
+     "title": "Donald Trumps neuer Stabschef: Wer ist Stephen Miller?",
+     "summary": "Als Stabschefin organisierte Susie Wiles Trumps Regierungsalltag. Auf sie folgt Stephen Miller, einer der umstrittensten und zugleich einflussreichsten Männer in Trumps Umfeld.",
+     "link": "https://www.zdfheute.de/politik/ausland/usa-midterms-susie-wiles-stephen-miller-trump-100.html",
+     "image": "https://www.zdfheute.de/assets/stephen-miller-102~384x216?cb=1793993619135",
+     "aggregator": false,
+     "published": "2026-11-06T21:10:00+00:00"
+    },
+    {
+     "source": "SRF News",
+     "region": "CH",
+     "weight": 0.95,
+     "title": "Neuer Chief of Staff in USA – Stabschef Stephen Miller: Ein Hardliner der Superlative",
+     "summary": "Der US-Präsident zieht nach den Midterms erste personelle Konsequenzen. Ein Versuch, Macht und Stärke zu demonstrieren.",
+     "link": "https://www.srf.ch/news/international/neuer-chief-of-staff-in-usa-stabschef-stephen-miller-ein-hardliner-der-superlative",
+     "image": "https://www.srf.ch/static/cms/images//320ws/e628e3.webp",
+     "aggregator": false,
+     "published": "2026-11-07T20:03:58+00:00"
+    },
+    {
+     "source": "Süddeutsche",
+     "region": "DE",
+     "weight": 0.9,
+     "title": "USA: Trump holt den Hardliner an seine Seite",
+     "summary": "Stephen Miller ist der neue Stabschef des US-Präsidenten. Der Aufstieg des Ideologen gilt als beunruhigende Reaktion des Regierungschefs auf das Wahldebakel.",
+     "link": "https://www.sueddeutsche.de/politik/midterms-niederlage-republikaner-einwanderung-ice-susie-wiles-demokraten-li.3575293",
+     "image": "https://www.sueddeutsche.de/2026/11/07/65c98efa-0f7f-4c17-906f-cbd056707658.jpg?rect=444%2C0%2C3556%2C2667&width=1000&fm=jpg&q=60",
+     "aggregator": false,
+     "published": "2026-11-07T05:24:29+00:00"
+    },
+    {
+     "source": "Handelsblatt",
+     "region": "DE",
+     "weight": 0.9,
+     "title": "Stephen Miller: Drei Dinge, die man zu Trumps neuem Stabschef im Weißen Haus wissen muss",
+     "summary": "Nach dem Wahldebakel der Republikaner verleiht der US-Präsident seinem loyalsten und radikalsten Weggefährten noch mehr Macht. Wer ist der Mann, der seit Jahren US-Politik prägt?",
+     "link": "https://www.handelsblatt.com/politik/international/stephen-miller-drei-dinge-die-man-zu-trumps-neuem-stabschef-im-weissen-haus-wissen-muss/100268118.html",
+     "image": "https://images.handelsblatt.com/mHDTByc1xesu/cover/900/506/132/462/0/547/0.5/0.5/stephen-miller.jpg",
+     "aggregator": false,
+     "published": "2026-11-07T20:25:11+00:00"
+    },
+    {
+     "source": "WirtschaftsWoche",
+     "region": "DE",
+     "weight": 0.85,
+     "title": "Stephen Miller: Neuer Stabschef – was über den rechten Hardliner bekannt ist",
+     "summary": "Donald Trump baut seinen Machtzirkel um und setzt auf Stephen Miller. Was Sie über den Strippenzieher der radikalen Abschiebepolitik wissen müssen.",
+     "link": "https://www.wiwo.de/politik/ausland/stephen-miller-neuer-stabschef-was-ueber-den-rechten-hardliner-bekannt-ist/100268072.html",
+     "image": "https://images.wiwo.de/XKXOqNPR6N88/cover/900/506/0/0/0/625/0.5/0.5/archiv-20.02.2025-usa-washington-stephen-miller-stellvertretender-stabschef-des-weissen-hauses.jpg",
+     "aggregator": false,
+     "published": "2026-11-07T08:48:45+00:00"
+    }
+   ]
+  },
+  {
+   "id": 3,
+   "score": 12.2,
+   "outlets": [
+    "tagesschau",
+    "ZDFheute",
+    "Deutsche Welle",
+    "Deutschlandfunk",
+    "tagesschau.de"
+   ],
+   "regions": [
+    "DE",
+    "INT"
+   ],
+   "trend": [],
+   "newest": "2026-11-08T05:18:53+00:00",
+   "articles": [
+    {
+     "source": "tagesschau",
+     "region": "DE",
+     "weight": 1.0,
+     "title": "Papst Leo XIV. beginnt Südamerika-Reise in Uruguay",
+     "summary": "Papst Leo XIV. beginnt Südamerika-Reise in Uruguay",
+     "link": "https://www.tagesschau.de/tagesschau_20_uhr/video-1680048.html",
+     "image": "https://images.tagesschau.de/image/36643549-2011-4e5f-9741-83f1624e59f6/AAABobeGDyg/AAABnSSvrFg/16x9-big/sendungsbild-1824096.jpg?width=1920",
+     "aggregator": false,
+     "published": "2026-11-07T19:39:46+00:00"
+    },
+    {
+     "source": "tagesschau",
+     "region": "DE",
+     "weight": 1.0,
+     "title": "Papst Leo XIV. besucht Uruguay, Tilmann Kleinjung, ARD Rom, zum Auftakt der Südamerika-Reise",
+     "summary": "Papst Leo XIV. besucht Uruguay, Tilmann Kleinjung, ARD Rom, zum Auftakt der Südamerika-Reise",
+     "link": "https://www.tagesschau.de/video/video-1679838.html",
+     "image": "https://images.tagesschau.de/image/50dc34e9-648f-4bb0-9d17-f47a1733a8f6/AAABobasRLg/AAABnSSvrFg/16x9-big/sendungsbild-1823960.jpg?width=1920",
+     "aggregator": false,
+     "published": "2026-11-07T15:41:48+00:00"
+    },
+    {
+     "source": "tagesschau",
+     "region": "DE",
+     "weight": 1.0,
+     "title": "Papst in Uruguay: Schwierige Mission für Leo XIV.",
+     "summary": "Zum Auftakt seiner Südamerika-Reise besucht Papst Leo XIV. Uruguay - ein Land, in dem der Glaube im Alltag kaum eine Rolle spielt. Doch im Armenviertel der Hauptstadt findet die soziale Arbeit der Kirche Anklang. Von Anne Herrberg.",
+     "link": "https://www.tagesschau.de/ausland/amerika/papst-reise-suedamerika-100.html",
+     "image": "https://images.tagesschau.de/image/c08b02e7-e2b9-49aa-9293-2aedfefde92c/AAABobeMIMM/AAABnSSvrFg/16x9-big/papst-leo-226.jpg?width=1920",
+     "aggregator": false,
+     "published": "2026-11-07T19:56:52+00:00"
+    },
+    {
+     "source": "tagesschau Ausland",
+     "region": "INT",
+     "weight": 1.0,
+     "title": "Papst in Uruguay: Schwierige Mission für Leo XIV.",
+     "summary": "Zum Auftakt seiner Südamerika-Reise besucht Papst Leo XIV. Uruguay - ein Land, in dem der Glaube im Alltag kaum eine Rolle spielt. Doch im Armenviertel der Hauptstadt findet die soziale Arbeit der Kirche Anklang. Von Anne Herrberg.",
+     "link": "https://www.tagesschau.de/ausland/amerika/papst-reise-suedamerika-100.html",
+     "image": "https://images.tagesschau.de/image/c08b02e7-e2b9-49aa-9293-2aedfefde92c/AAABobeMIMM/AAABnSSvrFg/16x9-big/papst-leo-226.jpg?width=1920",
+     "aggregator": false,
+     "published": "2026-11-07T19:56:52+00:00"
+    },
+    {
+     "source": "tagesschau Ausland",
+     "region": "INT",
+     "weight": 1.0,
+     "title": "Papst Leo XIV. beginnt Südamerika-Reise in Uruguay",
+     "summary": "Drei Länder in elf Tagen: In Uruguay beginnt Papst Leo XIV. heute seine Südamerika-Reise. Auf ihn warten auch die Heimat seines Vorgängers und ein Wiedersehen mit der eigenen Vergangenheit. Von Anne Herrberg.",
+     "link": "https://www.tagesschau.de/ausland/amerika/papst-suedamerika-104.html",
+     "image": "https://images.tagesschau.de/image/cc733b1a-41a9-4323-9020-173ca154acf1/AAABobOALEY/AAABnSSvrFg/16x9-big/leo-176.jpg?width=1920",
+     "aggregator": false,
+     "published": "2026-11-07T01:50:19+00:00"
+    },
+    {
+     "source": "ZDFheute",
+     "region": "DE",
+     "weight": 1.0,
+     "title": "Heimspiel für den Papst in Lateinamerika",
+     "summary": "Seine bisher längste Reise führt Papst Leo XIV. nach Uruguay, Argentinien und Peru. Nach seiner Krebs-OP gab es keinerlei Änderungen am ursprünglich geplanten Reiseverlauf.",
+     "link": "https://www.zdfheute.de/panorama/papst-leo-xiv-suedamerika-reise-100.html",
+     "image": "https://www.zdfheute.de/assets/papst-leo-suedamerika-100~384x216?cb=1793998334412",
+     "aggregator": false,
+     "published": "2026-11-06T22:01:00+00:00"
+    },
+    {
+     "source": "Deutsche Welle",
+     "region": "INT",
+     "weight": 0.95,
+     "title": "Reise mit Strapazen: Papst Leo XIV. ist in Südamerika zurück",
+     "summary": "Der Pontifex besucht zuerst das streng laizistische Uruguay - eine stabile Demokratie, in der die Kirche jedoch nicht besonders populär ist. Auch gesundheitlich ist die Reise für den 71-Jährigen eine Herausforderung.",
+     "link": "https://www.dw.com/de/reise-mit-strapazen-papst-leo-xiv-ist-in-südamerika-zurück/a-79885738?maca=de-rss-de-all-1119-xml-mrss",
+     "image": "https://static.dw.com/image/79885767_302.jpg",
+     "aggregator": false,
+     "published": "2026-11-07T15:09:00+00:00"
+    },
+    {
+     "source": "Deutschlandfunk",
+     "region": "DE",
+     "weight": 0.95,
+     "title": "Südamerika-Reise - Papst Leo XIV. feiert Messe in Paysandú",
+     "summary": "Papst Leo XIV. hat bei der ersten Messe während seiner Südamerika-Reise dazu aufgerufen, Brücken zu bauen.",
+     "link": "https://www.deutschlandfunk.de/papst-leo-xiv-feiert-messe-in-paysand-102.html",
+     "image": "https://bilder.deutschlandfunk.de/e6/0c/08/8a/e60c088a-821f-46ab-b222-4a167567ab5f/papst-uruguay-100-1920x1920.jpg",
+     "aggregator": false,
+     "published": "2026-11-08T05:18:53+00:00"
+    }
+   ]
+  },
+  {
+   "id": 4,
+   "score": 9.31,
+   "outlets": [
+    "ZDFheute",
+    "SPIEGEL",
+    "Süddeutsche",
+    "n-tv",
+    "sportschau.de"
+   ],
+   "regions": [
+    "DE"
+   ],
+   "trend": [],
+   "newest": "2026-11-07T22:27:00+00:00",
+   "articles": [
+    {
+     "source": "ZDFheute",
+     "region": "DE",
+     "weight": 1.0,
+     "title": "Reese patzt bei Hertha-Heimkehr: Berlin gewinnt Topspiel",
+     "summary": "Hertha BSC festigt die Tabellenführung: Auch bei der Rückkehr von Ex-Kapitän Fabian Reese unterstreicht das Team von Stefan Leitl gegen Wolfsburg seine Aufstiegsambitionen.",
+     "link": "https://www.zdfheute.de/sport/fussball-bundesliga/2-bundesliga-hertha-bsc-vfl-wolfsburg-tore-ergebnis-100.html",
+     "image": "https://www.zdfheute.de/assets/hertha-bsc-vfl-wolfsburg-102~384x216?cb=1794084664684",
+     "aggregator": false,
+     "published": "2026-11-07T22:21:00+00:00"
+    },
+    {
+     "source": "SPIEGEL",
+     "region": "DE",
+     "weight": 0.9,
+     "title": "2. Bundesliga: Hertha BSC siegt gegen VfL Wolfsburg, Pfiffe für Rückkehrer Fabian Reese",
+     "summary": "Schon nach 20 Minuten waren die Gäste in Unterzahl: Wolfsburg hat in Berlin gegen Tabellenführer Hertha verloren. Fabian Reese wurde bei jedem Ballkontakt ausgepfiffen, hätte aber beinahe ein Traumtor erzielt.",
+     "link": "https://www.spiegel.de/sport/fussball/2-bundesliga-hertha-bsc-siegt-gegen-vfl-wolfsburg-pfiffe-fuer-rueckkehrer-fabian-reese-a-6bba77d5-2806-46af-83ed-1abdca962fbd#ref=rss",
+     "image": "https://cdn.prod.www.spiegel.de/images/e2687cbc-e549-40f8-9938-8b1b2d6a1326_w520_r2.08_fpx41.34_fpy50.jpg",
+     "aggregator": false,
+     "published": "2026-11-07T21:32:00+00:00"
+    },
+    {
+     "source": "Süddeutsche",
+     "region": "DE",
+     "weight": 0.9,
+     "title": "Hertha BSC in der 2. Bundesliga: Sie singen weiter das Hundert-Punkte-Lied",
+     "summary": "Hertha BSC gewinnt gegen den VfL Wolfsburg das Zweitliga-Topspiel vor mehr als 70 000 Zuschauern im Olympiastadion. Fabian Reese spielt bei seiner Rückkehr in die Hauptstadt eine entscheidende Nebenrolle.",
+     "link": "https://www.sueddeutsche.de/sport/2-liga-hertha-wolfsburg-olympiastadion-reese-li.3576816",
+     "image": "https://www.sueddeutsche.de/2026/11/07/811c5480-8306-44a2-86df-afaec616bd87.jpg?rect=224%2C0%2C3552%2C2664&width=1000&fm=jpg&q=60",
+     "aggregator": false,
+     "published": "2026-11-07T21:51:25+00:00"
+    },
+    {
+     "source": "n-tv",
+     "region": "DE",
+     "weight": 0.8,
+     "title": "Reese patzt doppelt: Hertha BSC marschiert gegen zehn bissige Wölfe weiter",
+     "summary": "Hertha BSC marschiert in der 2. Bundesliga weiter. Gegen den VfL Wolfsburg und Ex-Kapitän Fabian Reese scheint vor der Pause in Überzahl alles klar zu sein, doch die Wölfe beißen sich nochmal zurück. Am Ende wird es ein 2:1 (2:0)-Arbeitssieg für den Tabellenführer.",
+     "link": "https://www.n-tv.de/sport/fussball/2bundesliga/Hertha-BSC-marschiert-gegen-zehn-bissige-Woelfe-weiter-id31507716.html",
+     "image": "https://www.n-tv.de/img/31507730/1794090184/Img_4_3/250/image.jpg",
+     "aggregator": false,
+     "published": "2026-11-07T21:38:24+00:00"
+    },
+    {
+     "source": "sportschau.de",
+     "region": "DE",
+     "weight": 0.6,
+     "title": "2. Fußball-Bundesliga: Hertha BSC gewinnt auch gegen Reese und den VfL Wolfsburg",
+     "summary": "2. Fußball-Bundesliga: Hertha BSC gewinnt auch gegen Reese und den VfL Wolfsburg sportschau.de Erst Adewumi, dann Zeefuik: Hertha siegt auch im Topspiel gegen Wolfsburg und bleibt ungeschlagen Kicker Erst Latte, dann zweimal zu lasch: Reeses unglückliche Berlin-Rückkehr BILD Wolfsburg unterliegt Hertha BSC 1:2 Fabian Reese und seine frustrierende Rückkehr nach Berlin Tagesspiegel „Diese Szenen werden uns lange im Kopf bleiben“ Hertha BSC",
+     "link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxNUDIxQVhQN0FvU1R6NFlXTW1IQW5JczgtaExPZXFnaVhDd3kxdlQ0dnRGSFdVVmt0X0xpSktzTWVyX1BlYmdiVHEyam5lSmR4MG1OUGE0LUJYVjI5R1hRYVFhMHQ1ZHFaUHBUSlRjUjFpamxCOHpVUUVQYUdSRG9ZUHRUc3Zrb3NSYlBuZHJESDJuWFBZVU94UGZ1NjlRMHozbVJQeF93eHZORnZEV3JMblVsbzFuMjJHaG5qRmtQeG4ySXhoR2MtRTFLVnVPMENIeEZMcjRsRUlCVEZYZDZRSERucWJTWEJKenZn?oc=5",
+     "image": null,
+     "aggregator": true,
+     "published": "2026-11-07T22:27:00+00:00"
+    }
+   ]
+  },
+  {
+   "id": 5,
+   "score": 9.3,
+   "outlets": [
+    "tagesschau Ausland",
+    "Deutschlandfunk",
+    "WELT"
+   ],
+   "regions": [
+    "DE",
+    "INT"
+   ],
+   "trend": [],
+   "newest": "2026-11-08T05:18:53+00:00",
+   "articles": [
+    {
+     "source": "tagesschau Ausland",
+     "region": "INT",
+     "weight": 1.0,
+     "title": "Tote und Verletzte: Erdbeben erschüttert Norden Tibets",
+     "summary": "Tibet wurde von einem schweren Erdbeben der Stärke 7,0 getroffen. Es gibt mindestens 16 Tote und Dutzende Verletzte, Hunderte Gebäude stürzten ein. Seitdem gab es mehrere Nachbeben.",
+     "link": "https://www.tagesschau.de/ausland/asien/tibet-erdbeben-104.html",
+     "image": "https://images.tagesschau.de/image/32f40f57-160d-49ac-ae09-139dd279c374/AAABoWeIXXs/AAABnSSvrFg/16x9-big/truemmer-haus-tibet-100.jpg?width=1920",
+     "aggregator": false,
+     "published": "2026-10-23T03:01:38+00:00"
+    },
+    {
+     "source": "Deutschlandfunk",
+     "region": "DE",
+     "weight": 0.95,
+     "title": "Asien - Erdbeben in Japan: Berichte über mindestens 22 Verletzte nach",
+     "summary": "In Zentraljapan hat es ein Erdbeben gegeben.",
+     "link": "https://www.deutschlandfunk.de/erdbeben-in-japan-berichte-ueber-mindestens-22-verletzte-nach-100.html",
+     "image": "https://bilder.deutschlandfunk.de/e1/06/7d/e2/e1067de2-6230-41ae-943b-92085b1ff504/die-nachrichten-kachel-2176-zu1224-100-768x768.jpg",
+     "aggregator": false,
+     "published": "2026-11-08T05:18:53+00:00"
+    },
+    {
+     "source": "WELT",
+     "region": "DE",
+     "weight": 0.8,
+     "title": "Japan von Erdbeben der Stärke 5,7 erschüttert – zahlreiche Verletzte",
+     "summary": "Schweres Erdbeben in Japan. Nach Angaben der japanischen Wetterbehörde hatte es eine Stärke von 5,7 auf der Richterskala. Japanische Medien berichten von zahlreichen Verletzten und mehreren Nachbeben.",
+     "link": "https://www.welt.de/vermischtes/article6aefb9aea389bc337cfc9906/mitten-in-der-nacht-japan-von-erdbeben-der-staerke-5-7-erschuettert-zahlreiche-verletzte.html",
+     "image": "https://images.welt.de/6aefb9aea389bc337cfc9906/8811cd844f6362f13f593b041f65fbd0-master/ci23x11-w1200/1794040426159-afp-d6qj6cq-jpg",
+     "aggregator": false,
+     "published": "2026-11-08T00:13:00+00:00"
+    }
+   ]
+  },
+  {
+   "id": 6,
+   "score": 9.1,
+   "outlets": [
+    "Deutschlandfunk",
+    "SPIEGEL",
+    "n-tv"
+   ],
+   "regions": [
+    "DE"
+   ],
+   "trend": [],
+   "newest": "2026-11-08T05:18:53+00:00",
+   "articles": [
+    {
+     "source": "Deutschlandfunk",
+     "region": "DE",
+     "weight": 0.95,
+     "title": "Fußball-Bundesliga - Siege für Stuttgart, Dortmund, Leipzig und Bayern",
+     "summary": "In der Fußball-Bundesliga hat der VfB Stuttgart hat den Vormarsch des SV Werder Bremen vorerst gestoppt. Vier Tage nach dem frustrierenden 0:2 in der Champions League bei Galatasaray Istanbul siegten die Schwaben 1:0 und sprangen mit nun zwölf Punkten zumindest vorübergehend auf den achten Tabellenplatz.",
+     "link": "https://www.deutschlandfunk.de/siege-fuer-stuttgart-dortmund-leipzig-und-bayern-104.html",
+     "image": "https://bilder.deutschlandfunk.de/c3/cd/e8/7c/c3cde87c-6f7f-4444-ab81-64016361cbfb/werder-bremen-stuttgart-bundesliga-100-1920x1920.jpg",
+     "aggregator": false,
+     "published": "2026-11-08T05:18:53+00:00"
+    },
+    {
+     "source": "SPIEGEL",
+     "region": "DE",
+     "weight": 0.9,
+     "title": "Bundesliga: Niclas Füllkrug bricht ZDF-Interview nach Niederlage gegen Stuttgart ab",
+     "summary": "Gerade hat Niclas Füllkrug mit Werder Bremen gegen den VfB Stuttgart verloren. Im anschließenden Interview soll er über seine Rückkehr in den DFB-Kader sprechen – hat dazu aber sehr offensichtlich sehr wenig Lust.",
+     "link": "https://www.spiegel.de/sport/fussball/bundesliga-niclas-fuellkrug-bricht-zdf-interview-nach-niederlage-gegen-stuttgart-ab-a-39f4cb91-23f0-48ce-bf75-92e16b182a1b#ref=rss",
+     "image": "https://cdn.prod.www.spiegel.de/images/e2d9e3ef-4c8f-4f18-9718-9ea4d004ebe6_w520_r2.08_fpx49_fpy39.jpg",
+     "aggregator": false,
+     "published": "2026-11-08T00:49:00+00:00"
+    },
+    {
+     "source": "SPIEGEL",
+     "region": "DE",
+     "weight": 0.9,
+     "title": "Bundesliga: Maximilian Mittelstädt schießt VfB Stuttgart zum Sieg gegen Werder Bremen",
+     "summary": "Das entscheidende Tor fiel schon nach wenigen Minuten: Der VfB Stuttgart hat Werder Bremen besiegt. Der wieder eingekaderte Nationalspieler Niclas Füllkrug blieb ohne Treffer.",
+     "link": "https://www.spiegel.de/sport/fussball/bundesliga-maximilian-mittelstaedt-schiesst-vfb-stuttgart-zum-sieg-gegen-werder-bremen-a-4952b90c-32c4-4147-802f-b7dca6682ad9#ref=rss",
+     "image": "https://cdn.prod.www.spiegel.de/images/9ffd2bcf-60cc-452a-8252-1c1750c369aa_w520_r2.08_fpx56_fpy44.jpg",
+     "aggregator": false,
+     "published": "2026-11-07T19:23:00+00:00"
+    },
+    {
+     "source": "n-tv",
+     "region": "DE",
+     "weight": 0.8,
+     "title": "Füllkrug geht leer aus: VfB Stuttgart stoppt Werders Ungeschlagen-Serie",
+     "summary": "Der VfB Stuttgart hat im Topspiel der Bundesliga mit einem 1:0 (1:0)-Erfolg über Werder Bremen die Ungeschlagen-Serie der Hanseaten gestoppt. Maximilian Mittelstädt sorgt fürs goldene Tor. DFB-Rückkehrer Niclas Füllkrug geht hingegen leer aus.",
+     "link": "https://www.n-tv.de/sport/fussball/1bundesliga/VfB-Stuttgart-stoppt-Werders-Ungeschlagen-Serie-id31507493.html",
+     "image": "https://www.n-tv.de/img/31507587/1794081356/Img_4_3/250/image.jpg",
+     "aggregator": false,
+     "published": "2026-11-07T19:26:55+00:00"
+    }
+   ]
+  },
+  {
+   "id": 7,
+   "score": 8.97,
+   "outlets": [
+    "tagesschau Inland",
+    "Süddeutsche",
+    "Handelsblatt"
+   ],
+   "regions": [
+    "DE"
+   ],
+   "trend": [],
+   "newest": "2026-11-08T04:00:13+00:00",
+   "articles": [
+    {
+     "source": "tagesschau Inland",
+     "region": "DE",
+     "weight": 1.0,
+     "title": "Ilse Aigner soll laut ARD-Informationen Bundespräsidentin werden",
+     "summary": "Sie wäre dort die erste Frau: Laut ARD-Hauptstadtstudio werden CDU und CSU Ilse Aigner als Kandidatin für das Amt der Bundespräsidentin vorschlagen. Gemeinsam mit der SPD hätten sie in der Bundesversammlung eine Mehrheit.",
+     "link": "https://www.tagesschau.de/inland/innenpolitik/cdu-csu-aigner-bundespraesidentin-100.html",
+     "image": "https://images.tagesschau.de/image/9aea46e7-124f-4c55-8c85-5a3c827109f2/AAABobF9tAA/AAABnSSvrFg/16x9-big/ilse-aigner-298.jpg?width=1920",
+     "aggregator": false,
+     "published": "2026-11-06T20:36:48+00:00"
+    },
+    {
+     "source": "Süddeutsche",
+     "region": "DE",
+     "weight": 0.9,
+     "title": "Reaktionen: „Ilse Aigner schätzen wir“",
+     "summary": "Sowohl Grüne als auch die SPD signalisieren ihre Unterstützung für die Kandidatur der CSU-Politikerin für das Amt der Bundespräsidentin. Die Linke kritisiert das Zustandekommen ihrer möglichen Aufstellung.",
+     "link": "https://www.sueddeutsche.de/politik/ilse-aigner-bundespraesidentin-gruene-spd-linke-reaktionen-li.3575672",
+     "image": "https://www.sueddeutsche.de/2026/11/06/d01dedee-18ef-49a0-96a3-f2ff05a9d079.jpg?rect=288%2C0%2C3424%2C2568&width=1000&fm=jpg&q=60",
+     "aggregator": false,
+     "published": "2026-11-06T21:43:24+00:00"
+    },
+    {
+     "source": "Handelsblatt",
+     "region": "DE",
+     "weight": 0.9,
+     "title": "Aigner vor der Nominierung: Was die Entscheidung in der P-Frage bedeutet",
+     "summary": "Die CSU hat sich schon lange auf Ilse Aigner als nächste Bundespräsidentin festgelegt. Die SPD hat ihre Unterstützung zugesichert. Jetzt fehlt noch das offizielle Votum der CDU.",
+     "link": "https://www.handelsblatt.com/politik/deutschland/aigner-vor-der-nominierung-was-die-entscheidung-in-der-p-frage-bedeutet/100268162.html",
+     "image": "https://images.handelsblatt.com/E68njxO3cAxA/cover/900/506/0/0/131/131/0.5/0.5/merz-und-soeder.jpg",
+     "aggregator": false,
+     "published": "2026-11-08T04:00:13+00:00"
+    },
+    {
+     "source": "Handelsblatt",
+     "region": "DE",
+     "weight": 0.9,
+     "title": "Bundespräsidentenwahl: Ungekürte Kandidatin Ilse Aigner - Kritik an Kanzler Merz",
+     "summary": "Während die Zustimmung zu Ilse Aigner als neue Bundespräsidentin stieg und stieg, hat der Kanzler immer weiter geschwiegen. Kritik kontert Merz mit einem Hinweis auf das vereinbarte Verfahren.",
+     "link": "https://www.handelsblatt.com/politik/deutschland/bundespraesidentenwahl-ungekuerte-kandidatin-ilse-aigner-kritik-an-kanzler-merz/100268048.html",
+     "image": "https://images.handelsblatt.com/NcEvKE-UEzPg/cover/900/506/0/0/136/135/0.5/0.5/ilse-aigner.jpg",
+     "aggregator": false,
+     "published": "2026-11-07T15:14:08+00:00"
+    },
+    {
+     "source": "Handelsblatt",
+     "region": "DE",
+     "weight": 0.9,
+     "title": "Bundespräsidentenwahl: Die „Nachbarin von nebenan“ - Besuch in Aigners Heimatort",
+     "summary": "Ilse Aigner soll als Kandidatin für das Amt des Staatsoberhaupts nominiert werden. In ihrem Heimatort ist die Freude groß. Was die Menschen dort an ihr schätzen.",
+     "link": "https://www.handelsblatt.com/politik/deutschland/bundespraesidentenwahl-die-nachbarin-von-nebenan-besuch-in-aigners-heimatort/100268104.html",
+     "image": "https://images.handelsblatt.com/Rany5vw8g8A9/cover/900/506/0/0/84/83/0.5/0.5/feldkirchen-westerham-heimat-von-ilse-aigner.jpg",
+     "aggregator": false,
+     "published": "2026-11-07T13:45:22+00:00"
+    }
+   ]
+  },
+  {
+   "id": 8,
+   "score": 8.81,
+   "outlets": [
+    "tagesschau",
+    "ZEIT ONLINE",
+    "Handelsblatt"
+   ],
+   "regions": [
+    "DE",
+    "INT"
+   ],
+   "trend": [],
+   "newest": "2026-11-08T03:32:53+00:00",
+   "articles": [
+    {
+     "source": "tagesschau",
+     "region": "DE",
+     "weight": 1.0,
+     "title": "Bankenkrise: Anklage gegen Paraguays Ex-Präsidenten",
+     "summary": "Nur einen Tag nach seiner Amtsenthebung muss sich Paraguays Ex-Präsident Peña wegen seiner Rolle im Bankenskandal vor der Justiz verantworten. Die Staatsanwaltschaft fordert Untersuchungshaft.",
+     "link": "https://www.tagesschau.de/ausland/amerika/ermittlungen-paraguay-pena-100.html",
+     "image": "https://images.tagesschau.de/image/9e147e56-f6c3-400e-b95b-a781c07ba6b5/AAABobe3Qgs/AAABnSSvrFg/16x9-big/pena-110.jpg?width=1920",
+     "aggregator": false,
+     "published": "2026-11-07T20:33:23+00:00"
+    },
+    {
+     "source": "tagesschau Ausland",
+     "region": "INT",
+     "weight": 1.0,
+     "title": "Bankenkrise: Anklage gegen Paraguays Ex-Präsidenten",
+     "summary": "Nur einen Tag nach seiner Amtsenthebung muss sich Paraguays Ex-Präsident Peña wegen seiner Rolle im Bankenskandal vor der Justiz verantworten. Die Staatsanwaltschaft fordert Untersuchungshaft.",
+     "link": "https://www.tagesschau.de/ausland/amerika/ermittlungen-paraguay-pena-100.html",
+     "image": "https://images.tagesschau.de/image/9e147e56-f6c3-400e-b95b-a781c07ba6b5/AAABobe3Qgs/AAABnSSvrFg/16x9-big/pena-110.jpg?width=1920",
+     "aggregator": false,
+     "published": "2026-11-07T20:33:23+00:00"
+    },
+    {
+     "source": "ZEIT ONLINE",
+     "region": "DE",
+     "weight": 0.9,
+     "title": "Bankenskandal in Paraguay: Paraguays abgesetzter Präsident Peña muss in Untersuchungshaft",
+     "summary": "Wegen möglicher Fluchtgefahr ist Ex-Präsident Santiago Peña in einer Kaserne untergebracht worden. Die Staatsanwaltschaft wirft ihm Untreue und Selbstbegünstigung vor.",
+     "link": "https://www.zeit.de/politik/ausland/2026-11/santiago-pena-paraguay-praesident-untersuchungshaft-bankenskandal",
+     "image": "https://img.zeit.de/politik/ausland/2026-11/santiago-pena-paraguay-praesident-untersuchungshaft-bankenskandal-foto-1/original__640x360",
+     "aggregator": false,
+     "published": "2026-11-08T03:32:53+00:00"
+    },
+    {
+     "source": "Handelsblatt",
+     "region": "DE",
+     "weight": 0.9,
+     "title": "Bankenskandal in Paraguay: Nach Amtsenthebung: Anklage gegen Paraguays Ex-Präsidenten",
+     "summary": "Nur einen Tag nach seiner Amtsenthebung muss sich Santiago Peña wegen des Bankenskandals vor der Justiz verantworten. Die Staatsanwaltschaft fordert Untersuchungshaft.",
+     "link": "https://www.handelsblatt.com/politik/international/bankenskandal-in-paraguay-nach-amtsenthebung-anklage-gegen-paraguays-ex-praesidenten/100268135.html",
+     "image": "https://images.handelsblatt.com/rVVpI31yrk4m/cover/900/506/0/0/107/106/0.5/0.5/santiago-pena.jpg",
+     "aggregator": false,
+     "published": "2026-11-07T19:00:36+00:00"
+    }
+   ]
+  },
+  {
+   "id": 9,
+   "score": 8.7,
+   "outlets": [
+    "tagesschau Ausland",
+    "ZDFheute",
+    "ORF"
+   ],
+   "regions": [
+    "AT",
+    "DE",
+    "INT"
+   ],
+   "trend": [],
+   "newest": "2026-11-08T02:18:00+00:00",
+   "articles": [
+    {
+     "source": "tagesschau Ausland",
+     "region": "INT",
+     "weight": 1.0,
+     "title": "Hunderttausende protestieren in Frankreich für bessere Lebensbedingungen",
+     "summary": "Der Ruf nach höheren Löhnen, Steuergerechtigkeit und mehr Geld für Bildung hat in Frankreich erneut Hunderttausende auf die Straßen getrieben. Der Aktionstag verlief weitgehend friedlich, es kam mancherorts dennoch zu Ausschreitungen.",
+     "link": "https://www.tagesschau.de/ausland/europa/streik-proteste-frankreich-100.html",
+     "image": "https://images.tagesschau.de/image/91b8d417-f963-4987-bdfb-b61f4d228ca8/AAABoazzJoA/AAABnSSvrFg/16x9-big/demonstranten-paris-104.jpg?width=1920",
+     "aggregator": false,
+     "published": "2026-11-05T21:18:10+00:00"
+    },
+    {
+     "source": "ZDFheute",
+     "region": "DE",
+     "weight": 1.0,
+     "title": "Frankreich: Tausende protestieren erneut gegen die Regierung",
+     "summary": "Die Proteste gegen die französische Regierung dauern an. Allerdings gingen deutlich weniger Menschen auf die Straße als noch am vergangenen Samstag.",
+     "link": "https://www.zdfheute.de/politik/ausland/frankreich-protest-bildung-kosten-festnahmen-gelbwesten-100.html",
+     "image": "https://www.zdfheute.de/assets/frankreich-protest-paris-demonstrationszug-100~384x216?cb=1794103873694",
+     "aggregator": false,
+     "published": "2026-11-08T02:18:00+00:00"
+    },
+    {
+     "source": "ORF",
+     "region": "AT",
+     "weight": 0.95,
+     "title": "Erneut Großkundgebungen in Frankreich",
+     "summary": "",
+     "link": "https://orf.at/stories/3447532/",
+     "image": null,
+     "aggregator": false,
+     "published": "2026-11-07T14:15:24+00:00"
+    }
+   ]
+  },
+  {
+   "id": 10,
+   "score": 8.61,
+   "outlets": [
+    "tagesschau Ausland",
+    "Deutsche Welle",
+    "n-tv"
+   ],
+   "regions": [
+    "DE",
+    "INT"
+   ],
+   "trend": [],
+   "newest": "2026-11-08T03:13:59+00:00",
+   "articles": [
+    {
+     "source": "tagesschau Ausland",
+     "region": "INT",
+     "weight": 1.0,
+     "title": "Trumps Stabschefin Wiles verlässt das Weiße Haus",
+     "summary": "Seit der Wahlniederlage der Republikaner bei den Midterms wird spekuliert, ob und wie US-Präsident Trump seinen Machtzirkel umbaut. Nun steht fest: Die Strippenzieherin Wiles geht, ihr Vize Miller übernimmt.",
+     "link": "https://www.tagesschau.de/ausland/amerika/trump-wiles-100.html",
+     "image": "https://images.tagesschau.de/image/1cd77871-0b49-4151-8d19-989f245b430d/AAABobKFGkk/AAABnSSvrFg/16x9-big/susie-wiles-104.jpg?width=1920",
+     "aggregator": false,
+     "published": "2026-11-06T20:20:30+00:00"
+    },
+    {
+     "source": "Deutsche Welle",
+     "region": "INT",
+     "weight": 0.95,
+     "title": "Trump setzt Stabschefin des Weißen Hauses vor die Tür",
+     "summary": "Wenige Tage nach dem verheerenden Wahldebakel seiner Republikaner macht US-Präsident Donald Trump einen politischen Hardliner zu seinem Türhüter im Oval Office. Die Opposition faucht.",
+     "link": "https://www.dw.com/de/trump-setzt-stabschefin-des-weißen-hauses-vor-die-tür/a-79883871?maca=de-rss-de-all-1119-xml-mrss",
+     "image": "https://static.dw.com/image/77602450_302.jpg",
+     "aggregator": false,
+     "published": "2026-11-07T10:24:00+00:00"
+    },
+    {
+     "source": "n-tv",
+     "region": "DE",
+     "weight": 0.8,
+     "title": "Wegen angeblicher Bedrohung: Trump verlangt Ermittlungen des Justizministeriums gegen Demokraten",
+     "summary": "Auf das Debakel seiner Republikaner bei den Midterms reagiert der US-Präsident zunächst erstaunlich gefasst. Lange währt die Phase der Konzilianz aber nicht: Auf Truth Social teilt Trump wieder aus, er wittert Erpressung und fordert Haftstrafen.",
+     "link": "https://www.n-tv.de/politik/Trump-verlangt-Ermittlungen-des-Justizministeriums-gegen-Demokraten-id31507835.html",
+     "image": "https://www.n-tv.de/img/31507864/1794109653/Img_4_3/250/image.jpg",
+     "aggregator": false,
+     "published": "2026-11-08T03:13:59+00:00"
+    }
+   ]
+  },
+  {
+   "id": 11,
+   "score": 7.91,
+   "outlets": [
+    "tagesschau Ausland",
+    "DER STANDARD"
+   ],
+   "regions": [
+    "AT",
+    "INT"
+   ],
+   "trend": [
+    "Iran meldet: Zwei Öltanker laufen auf Minen und brennen – Explosionen in der Straße von Hormus",
+    "Straße von Hormus: Zwei Öltanker offenbar in Brand geraten"
+   ],
+   "newest": "2026-11-07T21:32:39+00:00",
+   "articles": [
+    {
+     "source": "tagesschau Ausland",
+     "region": "INT",
+     "weight": 1.0,
+     "title": "USA greifen offenbar iranische Ziele in Straße von Hormus an",
+     "summary": "Kurz vor den Midterms haben die USA Medienberichten zufolge wieder Iran angegriffen. Dabei soll es sich um einzelne Angriffe auf die Insel Qeschm in der Straße von Hormus handeln. Iran meldet den Abschuss einer US-Drohne.",
+     "link": "https://www.tagesschau.de/ausland/asien/usa-iran-angriffe-126.html",
+     "image": "https://images.tagesschau.de/image/f8c6e40e-20c3-435f-8a8c-0efe6538b970/AAABl4clT0o/AAABnSSvrFg/16x9-big/hormus-105.jpg?width=1920",
+     "aggregator": false,
+     "published": "2026-11-03T05:33:48+00:00"
+    },
+    {
+     "source": "DER STANDARD",
+     "region": "AT",
+     "weight": 0.85,
+     "title": "Explosionen bei Straße von Hormus, USA bestätigt Angriff auf Schiff",
+     "summary": "Laut iranischen Medien kam es am Samstag zu Explosionen auf der Insel Qeshm und in der Hafenstadt Jask. Das US-Militär teilte mit, ein Frachtschiff lahmgelegt zu haben",
+     "link": "https://www.derstandard.at/story/3000000348043/explosionen-bei-strasse-von-hormus-usa-bestaetigt-angriff-auf-schiff?ref=rss",
+     "image": "https://i.ds.at/TKUSDg/rs:fill:150:0/plain/lido-images/2026/11/07/9c54a3e8-5f46-4248-a8c2-d45a18e5a697.jpg",
+     "aggregator": false,
+     "published": "2026-11-07T21:32:39+00:00"
+    }
+   ]
+  },
+  {
+   "id": 12,
+   "score": 7.77,
+   "outlets": [
+    "ORF",
+    "SPIEGEL",
+    "Handelsblatt"
+   ],
+   "regions": [
+    "AT",
+    "DE"
+   ],
+   "trend": [],
+   "newest": "2026-11-08T00:43:37+00:00",
+   "articles": [
+    {
+     "source": "ORF",
+     "region": "AT",
+     "weight": 0.95,
+     "title": "Trumps Kampfansage an Demokraten",
+     "summary": "Nach dem Debakel bei den Kongresszwischenwahlen hat US-Präsident Donald Trump Gesprächsbereitschaft gegenüber den siegreichen Demokraten signalisiert. Mit der Entscheidung, Stephen Miller zum neuen Stabschef im Weißen Haus zu machen, sendet Trump nun eine gänzlich andere Botschaft. Der 41-Jährige, der am Montag sein Amt antritt, gilt als Hardliner. Beobachter sehen eine Kampfansage Trumps an die Demokraten.",
+     "link": "https://orf.at/stories/3447536/",
+     "image": null,
+     "aggregator": false,
+     "published": "2026-11-07T21:14:06+00:00"
+    },
+    {
+     "source": "SPIEGEL",
+     "region": "DE",
+     "weight": 0.9,
+     "title": "Donald Trump weist Justizministerium an, unliebsame Demokraten zu untersuchen",
+     "summary": "Nach dem Wahlsieg bei den Midterms wollen demokratische Abgeordnete den US-Präsidenten stärker kontrollieren. Der hält das für »kriminell« – und droht.",
+     "link": "https://www.spiegel.de/ausland/donald-trump-weist-justizministerium-an-unliebsame-demokraten-zu-untersuchen-a-c5f98176-36ff-41ad-88a9-511276a4b746#ref=rss",
+     "image": "https://cdn.prod.www.spiegel.de/images/7aa3d16f-5931-4bc4-921c-e043b44e3dfb_w520_r2.08_fpx25_fpy47.jpg",
+     "aggregator": false,
+     "published": "2026-11-07T21:41:00+00:00"
+    },
+    {
+     "source": "Handelsblatt",
+     "region": "DE",
+     "weight": 0.9,
+     "title": "US-Präsident: Trump schürt Zweifel an Kongresswahl und droht Demokraten",
+     "summary": "Nach der krachenden Niederlage seiner Republikaner bei den Wahlen zeigte sich Donald Trump zunächst einsichtig. Doch jetzt teilt der Präsident wieder aus.",
+     "link": "https://www.handelsblatt.com/politik/international/us-praesident-trump-schuert-zweifel-an-kongresswahl-und-droht-demokraten/100268151.html",
+     "image": "https://images.handelsblatt.com/BlNztmo-zoXK/cover/900/506/0/0/107/106/0.5/0.5/us-praesident-trump.jpg",
+     "aggregator": false,
+     "published": "2026-11-08T00:43:37+00:00"
+    }
+   ]
+  },
+  {
+   "id": 13,
+   "score": 7.75,
+   "outlets": [
+    "tagesschau Ausland",
+    "Handelsblatt",
+    "DIE ZEIT"
+   ],
+   "regions": [
+    "DE",
+    "INT"
+   ],
+   "trend": [],
+   "newest": "2026-11-08T03:58:05+00:00",
+   "articles": [
+    {
+     "source": "tagesschau Ausland",
+     "region": "INT",
+     "weight": 1.0,
+     "title": "Wahl-Patt in Israel: Regierungsbildung nicht in Sicht",
+     "summary": "Das Endergebnis der Wahl in Israel bringt für keinen Parteienblock eine regierungsfähige Mehrheit. Jetzt könnten die arabischen Parteien zum Zuge kommen. Doch aus dem Netanjahu-Lager kommen neue Vorwürfe. Konkurrent Eisenkot reagiert. Von Tim Aßmann.",
+     "link": "https://www.tagesschau.de/ausland/asien/israel-wahlergebnis-korri-100.html",
+     "image": "https://images.tagesschau.de/image/4fd8cb36-680d-4b40-a806-2223e18d10b5/AAABoYzqT78/AAABnSSvrFg/16x9-big/wahlplakat-netanjahu-102.jpg?width=1920",
+     "aggregator": false,
+     "published": "2026-10-30T14:28:05+00:00"
+    },
+    {
+     "source": "Handelsblatt",
+     "region": "DE",
+     "weight": 0.9,
+     "title": "Nach der Parlamentswahl: Israels Präsident beauftragt Eisenkot mit Regierungsbildung",
+     "summary": "Dem Oppositionspolitiker Eisenkot fehlen 13 Mandate für eine eigene Regierungsmehrheit. Arabische oder ultraorthodoxe Parteien könnten ihm helfen. Doch beide Optionen bergen großes Konfliktpotenzial.",
+     "link": "https://www.handelsblatt.com/politik/international/nach-der-parlamentswahl-israels-praesident-beauftragt-eisenkot-mit-regierungsbildung/100268160.html",
+     "image": "https://images.handelsblatt.com/MhcPGSaM-9Wz/cover/900/506/0/0/107/106/0.5/0.5/izchak-herzog.jpg",
+     "aggregator": false,
+     "published": "2026-11-08T03:58:05+00:00"
+    },
+    {
+     "source": "DIE ZEIT",
+     "region": "DE",
+     "weight": 0.6,
+     "title": "Nach der Wahl: Israels Präsident beauftragt Eisenkot mit Regierungsbildung",
+     "summary": "Nach der Wahl: Israels Präsident beauftragt Eisenkot mit Regierungsbildung DIE ZEIT Eisenkot statt Netanjahu: Herzog vergibt Israels neuen Regierungsauftrag BILD Netanjahu lässt nicht locker: Eisenkot will \"nationale Notstandsregierung\" bilden n-tv.de Oppositionsführer Eisenkot soll Israels neue Regierung bilden tagesschau.de Regierungsbildung in Israel: Israels Präsident will Eisenkot mit Regierungsbildung beauftragen DIE ZEIT",
+     "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOQ05ZSk9Lam96S2V0NEtNTGFfRWUzbHNRRkNCMU5vaHE4SmxGQUZoY2tUN3EwY212NkpJTjF2SC05amp2VzBFVThJckdDbjN2US1UNFExMUhXRHlqUEhWZ1dQRnAxZlhKaHFlbmd2bjFUbUhiajhIWTNCd1ZQY3ZNOU9IaDY2MDR4RExF?oc=5",
+     "image": null,
+     "aggregator": true,
+     "published": "2026-11-07T20:25:18+00:00"
+    }
+   ]
+  },
+  {
+   "id": 14,
+   "score": 7.7,
+   "outlets": [
+    "tagesschau",
+    "Deutschlandfunk"
+   ],
+   "regions": [
+    "DE"
+   ],
+   "trend": [],
+   "newest": "2026-11-08T05:18:53+00:00",
+   "articles": [
+    {
+     "source": "tagesschau",
+     "region": "DE",
+     "weight": 1.0,
+     "title": "Pistorius rechnet derzeit nicht mit Rückkehr zur Wehrpflicht",
+     "summary": "Die Wiedereinführung der Wehrpflicht scheint zum jetzigen Zeitpunkt offenbar nicht nötig. Verteidigungsminister Pistorius berichtet von einer positiven Entwicklung beim Bundeswehrpersonal - Spitzenvertreter der Union sehen das anders.",
+     "link": "https://www.tagesschau.de/inland/innenpolitik/bundeswehr-diskussion-wehrpflicht-100.html",
+     "image": "https://images.tagesschau.de/image/bb9ce348-9f2a-41b0-80cb-98f103d36a67/AAABnmguNt8/AAABnSSvrFg/16x9-big/pistorius-606.jpg?width=1920",
+     "aggregator": false,
+     "published": "2026-11-07T14:45:52+00:00"
+    },
+    {
+     "source": "tagesschau Inland",
+     "region": "DE",
+     "weight": 1.0,
+     "title": "Pistorius rechnet derzeit nicht mit Rückkehr zur Wehrpflicht",
+     "summary": "Die Wiedereinführung der Wehrpflicht scheint zum jetzigen Zeitpunkt offenbar nicht nötig. Verteidigungsminister Pistorius berichtet von einer positiven Entwicklung beim Bundeswehrpersonal - Spitzenvertreter der Union sehen das anders.",
+     "link": "https://www.tagesschau.de/inland/innenpolitik/bundeswehr-diskussion-wehrpflicht-100.html",
+     "image": "https://images.tagesschau.de/image/bb9ce348-9f2a-41b0-80cb-98f103d36a67/AAABnmguNt8/AAABnSSvrFg/16x9-big/pistorius-606.jpg?width=1920",
+     "aggregator": false,
+     "published": "2026-11-07T14:45:52+00:00"
+    },
+    {
+     "source": "Deutschlandfunk",
+     "region": "DE",
+     "weight": 0.95,
+     "title": "Interview der Woche - Pistorius sieht Personalplanung der Bundeswehr auf gutem Weg - erstmal keine Wehrpflicht nötig",
+     "summary": "Die Personalplanung der Bundeswehr ist nach den Worten von Verteidigungsminister Pistorius auf einem guten Weg. Zur Zeit ist eine Wiedereinführung der Wehrpflicht demnach nicht nötig. Pistorius sagte im Interview der Woche des Deutschlandfunks, die Vorgabe des Wehrdienstmodernisierungsgesetzes werde überschritten.",
+     "link": "https://www.deutschlandfunk.de/pistorius-sieht-personalplanung-der-bundeswehr-auf-gutem-weg-erstmal-keine-wehrpflicht-noetig-102.html",
+     "image": "https://bilder.deutschlandfunk.de/11/fc/12/a6/11fc12a6-d014-435f-bbfa-cb04448ef273/boris-pistorius-verteidigungsminister-106-1920x1920.jpg",
+     "aggregator": false,
+     "published": "2026-11-08T05:18:53+00:00"
+    }
+   ]
+  },
+  {
+   "id": 15,
+   "score": 7.7,
+   "outlets": [
+    "tagesschau Ausland",
+    "Deutschlandfunk"
+   ],
+   "regions": [
+    "DE",
+    "INT"
+   ],
+   "trend": [],
+   "newest": "2026-11-08T05:18:53+00:00",
+   "articles": [
+    {
+     "source": "tagesschau Ausland",
+     "region": "INT",
+     "weight": 1.0,
+     "title": "Paraguay: Peña als Präsident abgesetzt und unter Hausarrest",
+     "summary": "Plötzlich ging es ganz schnell: Infolge der Bankenkrise in Paraguay hat das Parlament den bisherigen Präsidenten Peña des Amtes enthoben - kurz darauf wurde er unter Hausarrest gestellt. Ein Nachfolger ist bereits vereidigt.",
+     "link": "https://www.tagesschau.de/ausland/paraguay-amtsenthebung-100.html",
+     "image": "https://images.tagesschau.de/image/7bd1dc74-b219-499d-9b06-dc6fe94316da/AAABobNOoTQ/AAABnSSvrFg/16x9-big/pena-106.jpg?width=1920",
+     "aggregator": false,
+     "published": "2026-11-07T00:06:18+00:00"
+    },
+    {
+     "source": "Deutschlandfunk",
+     "region": "DE",
+     "weight": 0.95,
+     "title": "Skandal um Ueno-Bank - Staatsanwaltschaft in Paraguay erhebt Anklage - abgesetzter Präsident Peña in Untersuchungshaft",
+     "summary": "In Paraguay hat die Staatsanwaltschaft Anklage gegen den abgesetzten Präsidenten Peña erhoben.",
+     "link": "https://www.deutschlandfunk.de/staatsanwaltschaft-in-paraguay-erhebt-anklage-abgesetzter-praesident-pe-a-in-untersuchungshaft-102.html",
+     "image": "https://bilder.deutschlandfunk.de/b8/ef/5a/a7/b8ef5aa7-27df-49af-b039-14b70977a105/paraguay-santiago-pena-ruecktritt-praesident-100-1920x1920.jpg",
+     "aggregator": false,
+     "published": "2026-11-08T05:18:53+00:00"
+    }
+   ]
+  },
+  {
+   "id": 16,
+   "score": 7.7,
+   "outlets": [
+    "tagesschau Ausland",
+    "Deutschlandfunk"
+   ],
+   "regions": [
+    "DE",
+    "INT"
+   ],
+   "trend": [],
+   "newest": "2026-11-08T05:18:53+00:00",
+   "articles": [
+    {
+     "source": "tagesschau Ausland",
+     "region": "INT",
+     "weight": 1.0,
+     "title": "Tote nach Angriff auf Flughafen in Saudi-Arabien",
+     "summary": "Immer wieder greifen die Huthi aus dem Jemen zivile Ziele in Saudi-Arabien an. Nun werden Verletzte und zwei Todesopfer nach einer Attacke auf den Flughafen in Dammam gemeldet. Die USA kündigten an, diplomatisches Personal abzuziehen.",
+     "link": "https://www.tagesschau.de/ausland/asien/flughafen-saudi-arabien-100.html",
+     "image": "https://images.tagesschau.de/image/84661b8c-9262-4ae5-9601-43b028a06700/AAABoWIxz4Q/AAABnSSvrFg/16x9-big/flughafen-dammam-100.jpg?width=1920",
+     "aggregator": false,
+     "published": "2026-10-22T07:50:35+00:00"
+    },
+    {
+     "source": "Deutschlandfunk",
+     "region": "DE",
+     "weight": 0.95,
+     "title": "Pro-iranische Miliz - Huthis melden 27 Tote und 36 Verletzte nach Luftangriffen auf Dorf im Jemen",
+     "summary": "Die Huthi-Miliz wirft der von Saudi-Arabien geführten Militärkoalition vor, im benachbarten Jemen zahlreiche Zivilisten getötet oder verletzt zu haben.",
+     "link": "https://www.deutschlandfunk.de/huthis-melden-27-tote-und-36-verletzte-nach-luftangriffen-auf-dorf-im-jemen-104.html",
+     "image": "https://bilder.deutschlandfunk.de/NO/VA/_9/9c/NOVA_99ce0542fcefd97ec7ac3d392cb274f9/craft-13474212-asset-100-1920x1920.jpg",
+     "aggregator": false,
+     "published": "2026-11-08T05:18:53+00:00"
+    }
+   ]
+  },
+  {
+   "id": 17,
+   "score": 7.7,
+   "outlets": [
+    "ZDFheute",
+    "Deutschlandfunk"
+   ],
+   "regions": [
+    "DE"
+   ],
+   "trend": [],
+   "newest": "2026-11-08T05:18:53+00:00",
+   "articles": [
+    {
+     "source": "ZDFheute",
+     "region": "DE",
+     "weight": 1.0,
+     "title": "\"Das erste Mal in meinem Leben, dass ich demonstrieren gehe\"",
+     "summary": "In Frankreich haben rund 600.000 Menschen in zahlreichen Städten protestiert. Sie fordern unter anderem höhere Löhne sowie bessere Bedingungen an Schulen und Universitäten.",
+     "link": "https://www.zdfheute.de/video/frankreich-demonstrationen-streiks-video-100.html",
+     "image": "https://www.zdfheute.de/assets/generalstreik-frankreich-104~384x216?cb=1793902424151",
+     "aggregator": false,
+     "published": "2026-11-05T18:34:00+00:00"
+    },
+    {
+     "source": "Deutschlandfunk",
+     "region": "DE",
+     "weight": 0.95,
+     "title": "146.000 demonstrieren - Frankreich: Erneut Ausschreitungen und Gewalt bei Protesten",
+     "summary": "In mehreren französischen Städten ist es bei erneuten Protesten zu Gewalt gekommen.",
+     "link": "https://www.deutschlandfunk.de/frankreich-erneut-ausschreitungen-und-gewalt-bei-protesten-102.html",
+     "image": "https://bilder.deutschlandfunk.de/0f/7e/1c/38/0f7e1c38-b59a-4ebf-b370-6ba42543faf2/frankreich-paris-proteste-gewalt-100-1920x1920.jpg",
+     "aggregator": false,
+     "published": "2026-11-08T05:18:53+00:00"
+    }
+   ]
+  },
+  {
+   "id": 18,
+   "score": 7.5,
+   "outlets": [
+    "Handelsblatt",
+    "heise online"
+   ],
+   "regions": [
+    "DE"
+   ],
+   "trend": [
+    "Cyberattacke auf Brennerbasistunnel-Firma",
+    "Cyberattacke auf Brennerbasistunnel-Firma"
+   ],
+   "newest": "2026-11-07T17:20:00+00:00",
+   "articles": [
+    {
+     "source": "Handelsblatt",
+     "region": "DE",
+     "weight": 0.9,
+     "title": "Angriffe auf Bahnprojekte: Cyberattacke auf Brennerbasistunnel-Firma",
+     "summary": "Unbekannte Täter greifen auf Daten der österreichisch-italienischen Baugesellschaft zu. Auch ein wichtiges Tunnelprojekt zwischen Deutschland und Dänemark war zuletzt von einer IT-Attacke betroffen.",
+     "link": "https://www.handelsblatt.com/politik/deutschland/angriffe-auf-bahnprojekte-cyberattacke-auf-brennerbasistunnel-firma/100268113.html",
+     "image": "https://images.handelsblatt.com/xTexkHICpqYh/cover/900/506/0/0/107/107/0.5/0.5/brennerbasistunnel.jpg",
+     "aggregator": false,
+     "published": "2026-11-07T14:10:55+00:00"
+    },
+    {
+     "source": "heise online",
+     "region": "DE",
+     "weight": 0.85,
+     "title": "Brenner-Basistunnel: Cyberangriff auf Baufirma",
+     "summary": "Unbekannte Täter griffen auf Daten der österreichisch-italienischen Baugesellschaft zu, die aus dem Internet erreichbar waren.",
+     "link": "https://www.heise.de/news/Brenner-Basistunnel-Cyberangriff-auf-Baufirma-11516406.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
+     "image": null,
+     "aggregator": false,
+     "published": "2026-11-07T17:20:00+00:00"
+    }
+   ]
+  },
+  {
+   "id": 19,
+   "score": 7.05,
+   "outlets": [
+    "Süddeutsche",
+    "WELT",
+    "n-tv"
+   ],
+   "regions": [
+    "DE"
+   ],
+   "trend": [],
+   "newest": "2026-11-07T22:15:39+00:00",
+   "articles": [
+    {
+     "source": "Süddeutsche",
+     "region": "DE",
+     "weight": 0.9,
+     "title": "Jensen Huang: Nvidia-Chef soll Beziehung mit chinesischer Spionin gehabt haben",
+     "summary": "Peking soll eine Agentin auf Nvidia-Chef Jensen Huang angesetzt haben, berichten Medien. Das wäre auch deshalb brisant, weil Nvidia im KI-Wettrennen zwischen den USA und China zwischen den Fronten steht.",
+     "link": "https://www.sueddeutsche.de/wirtschaft/jensen-huang-nvidia-affaere-china-spionin-li.3576581",
+     "image": "https://www.sueddeutsche.de/2026/11/07/0d34f975-129e-43da-ba37-6ae2775045ff.jpg?rect=670%2C97%2C2545%2C1909&width=1000&fm=jpg&q=60",
+     "aggregator": false,
+     "published": "2026-11-07T22:15:39+00:00"
+    },
+    {
+     "source": "WELT",
+     "region": "DE",
+     "weight": 0.8,
+     "title": "Nvidia-Chef Jensen Huang soll Affäre mit mutmaßlicher chinesischer Agentin gehabt haben",
+     "summary": "Schwere Vorwürfe gegen Nvidia-Chef Jensen Huang: China soll eine mutmaßliche Agentin auf den Chef des KI-Chipherstellers angesetzt haben. US-Medien berichten von einer möglichen Affäre. Die Hintergründe könnten auch für Donald Trump heikel werden.",
+     "link": "https://www.welt.de/vermischtes/article6aef79ffde4dbfe5ae8d5690/laut-medienberichten-nvidia-chef-jensen-huang-soll-affaere-mit-mutmasslicher-chinesischer-agentin-gehabt-haben.html",
+     "image": "https://images.welt.de/6aef79ffde4dbfe5ae8d5690/87ac28266aa04e31444f8b47a52834a8-master/ci23x11-w1200/gyi-2301328017-jpg",
+     "aggregator": false,
+     "published": "2026-11-07T21:16:03+00:00"
+    },
+    {
+     "source": "n-tv",
+     "region": "DE",
+     "weight": 0.8,
+     "title": "Industriespionage durch Peking: Berichte: Nvidia-Chef führte Beziehung mit chinesischer Spionin",
+     "summary": "Die USA werfen China seit Jahren massive Wirtschaftsspionage vor. Dabei gerät offenbar auch der Nvidia-Chef ins Visier Pekings. Ein Geheimdienst soll eine Geschäftsfrau beauftragt haben, Jensen Huang auszuforschen.",
+     "link": "https://www.n-tv.de/politik/Berichte-Nvidia-Chef-fuehrte-Beziehung-mit-chinesischer-Spionin-id31507392.html",
+     "image": "https://www.n-tv.de/img/31507368/1794071268/Img_4_3/250/628022620.jpg",
+     "aggregator": false,
+     "published": "2026-11-07T17:52:21+00:00"
+    },
+    {
+     "source": "WELT",
+     "region": "DE",
+     "weight": 0.6,
+     "title": "Laut Medienberichten: Nvidia-Chef Jensen Huang soll Affäre mit mutmaßlicher chinesischer Agentin gehabt haben",
+     "summary": "Laut Medienberichten: Nvidia-Chef Jensen Huang soll Affäre mit mutmaßlicher chinesischer Agentin gehabt haben WELT Nvidia: Jen-Hsun Huang soll Affäre mit chinesischer Agentin gehabt haben Spiegel Nvidia: China-Spionin lockte Konzern-Chef in Liebesfalle BILD Trump wusste offenbar Bescheid Chef von US-Chip-Konzern Nvidia soll Beziehung mit China-Spionin gehabt haben Tagesspiegel Geheimdienstskandal: Milliarden-CEO wohl in China-Liebesfalle – \"romantische Beziehung\" T-Online",
+     "link": "https://news.google.com/rss/articles/CBMiiwJBVV95cUxNbC01cHlWeU1NbGl3M2EtTVd0QkNONUdRQnBhZDdCZmVGRklHU3RqY2ZOcHFZdDFQeF9LN1dfdkpYUTNzblMwRjVYMDJyemsxbGJwal9QWHlXeXFFZlFnUHdaZlh6MG4yeXNaOVVLemVDSDY2TlkxWVJlSUNac3hEUEVSU0t5bzYtZ1ZSWGlGeUN6MTI0Q201R0NZQWJFWm9qMlNpZmlmTHY4dTl2LU5FZE0wXzZhVkFsM2RaTXJMaWJPMnd0S1dLM1JMWUxxbXhGN0QxRDQzbUZENkNNZzJsZllXSTJJaFJ3Ull5bWNVRzBmVTh1Tk1oanF2YVkyM1FISVVhZmg0a0N3TVU?oc=5",
+     "image": null,
+     "aggregator": true,
+     "published": "2026-11-07T21:16:43+00:00"
+    }
+   ]
+  },
+  {
+   "id": 20,
+   "score": 6.91,
+   "outlets": [
+    "ORF",
+    "SPIEGEL"
+   ],
+   "regions": [
+    "AT",
+    "DE"
+   ],
+   "trend": [],
+   "newest": "2026-11-08T03:32:00+00:00",
+   "articles": [
+    {
+     "source": "ORF",
+     "region": "AT",
+     "weight": 0.95,
+     "title": "Trump bringt UFC-Boss White als Sprecher ins Spiel",
+     "summary": "",
+     "link": "https://orf.at/stories/3447551/",
+     "image": null,
+     "aggregator": false,
+     "published": "2026-11-07T19:39:59+00:00"
+    },
+    {
+     "source": "SPIEGEL",
+     "region": "DE",
+     "weight": 0.9,
+     "title": "Donald Trump bietet UFC-Chef Dana White Job als Sprecher an – der will nach Washington reisen",
+     "summary": "Der bekennende Käfigkampf-Fan Donald Trump möchte Sportveranstalter Dana White zu seinem Pressesprecher machen: »Bitte nimm den Job an!« Der UFC-Chef spielt schon mal mit der Idee.",
+     "link": "https://www.spiegel.de/ausland/trump-bietet-ufc-chef-dana-white-job-als-pressesprecher-an-a-3fcc68a9-735c-4f0e-ace7-82130710182a#ref=rss",
+     "image": "https://cdn.prod.www.spiegel.de/images/9be14bf1-b298-4375-8ecf-dfebc474c7c7_w520_r2.08_fpx52.66_fpy44.99.jpg",
+     "aggregator": false,
+     "published": "2026-11-08T03:32:00+00:00"
+    }
+   ]
+  },
+  {
+   "id": 21,
+   "score": 6.7,
+   "outlets": [
+    "Handelsblatt",
+    "WirtschaftsWoche",
+    "n-tv",
+    "n-tv.de"
+   ],
+   "regions": [
+    "DE"
+   ],
+   "trend": [],
+   "newest": "2026-11-07T15:57:11+00:00",
+   "articles": [
+    {
+     "source": "Handelsblatt",
+     "region": "DE",
+     "weight": 0.9,
+     "title": "Quartalszahlen: Berkshire meldet Gewinnrückgang, doch die Aktie profitiert",
+     "summary": "Berkshire Hathaway kaufte im dritten Quartal eigene Aktien für 9,6 Milliarden Dollar. Buffetts Nachfolger Greg Abel profitiert zudem von der KI-Angst an der Wall Street.",
+     "link": "https://www.handelsblatt.com/finanzen/maerkte/quartalszahlen-berkshire-meldet-gewinnrueckgang-doch-die-aktie-profitiert/100268115.html",
+     "image": "https://images.handelsblatt.com/TUWWunzi3jWw/cover/900/506/0/0/284/284/0.5/0.5/the-company-logo-for-the-berkshire-hathaway-inc.-is-displayed-on-a-screen-at-the-new-york-stock-exch.jpg",
+     "aggregator": false,
+     "published": "2026-11-07T15:57:11+00:00"
+    },
+    {
+     "source": "WirtschaftsWoche",
+     "region": "DE",
+     "weight": 0.85,
+     "title": "Börse: Berkshire Hathaway kauft eigene Papiere im Wert von 9,6 Milliarden Dollar zurück",
+     "summary": "Berkshire Hathaway greift wieder stärker zu und kauft eigene Aktien zurück. Unter Greg Abel kommt Bewegung in die gewaltigen Geldreserven des Konzerns.",
+     "link": "https://www.wiwo.de/finanzen/boerse/boerse-berkshire-hathaway-kauft-eigene-papiere-im-wert-von-96-milliarden-dollar-zurueck/100268116.html",
+     "image": "https://images.wiwo.de/efGWoMUztlN9/cover/900/506/0/0/230/231/0.5/0.5/file-photo-a-screen-displays-the-trading-information-for-berkshire-hathaway-inc.-as-traders-work-on.jpg",
+     "aggregator": false,
+     "published": "2026-11-07T14:37:35+00:00"
+    },
+    {
+     "source": "n-tv",
+     "region": "DE",
+     "weight": 0.8,
+     "title": "Anders als unter Buffett: Berkshire Hathaway kauft mehr eigene Aktien zurück",
+     "summary": "Berkshire Hathaway setzt verstärkt auf Aktienrückkäufe und gibt Milliarden aus den gewaltigen Cash-Reserven aus. Unter dem neuen Chef zeichnet sich damit ein Kurswechsel gegenüber seinem Vorgänger ab. Gleichzeitig schwächelt das operative Geschäft.",
+     "link": "https://www.n-tv.de/wirtschaft/Berkshire-Hathaway-kauft-mehr-eigene-Aktien-zurueck-id31507184.html",
+     "image": "https://www.n-tv.de/img/31507189/1794066818/Img_4_3/250/523186064.jpg",
+     "aggregator": false,
+     "published": "2026-11-07T15:44:35+00:00"
+    },
+    {
+     "source": "n-tv.de",
+     "region": "DE",
+     "weight": 0.6,
+     "title": "Anders als unter Buffett: Berkshire Hathaway kauft mehr eigene Aktien zurück",
+     "summary": "Anders als unter Buffett: Berkshire Hathaway kauft mehr eigene Aktien zurück n-tv.de Berkshire Hathaway-Aktie: Investmentholding verzeichnet weniger Gewinn Finanzen.net Berkshire Hathaway-Aktie vor den Quartalszahlen kaufen, verkaufen - oder ist sie fair bewertet? Morningstar Berkshire Hathaway B: EPS übertrifft Schätzungen um 4,55 $ - Umsatz besser als erwartet Investing.com Deutsch Quartalszahlen: Berkshire meldet Gewinnrückgang, doch die Aktie profitiert Handelsblatt",
+     "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPMjdUaVdrWTdFQWZpLUhrSThyWnBENkV3cVpBOXZPclN6RWFFa3ZLYkpRX1o1U3RRMzctRlhlN0hiRVNXTkpTeGpTVDRHTUJLQ1FWNEc2SmdTenVHS1VQSTVtZjVIRHptUjFiV2Q5SHhwOFU0VG5XYWJCYm1UaUI2ME1GOUNENVlxLTZuMUstYi1NV2wxWE5aU2RneDRLX2M?oc=5",
+     "image": null,
+     "aggregator": true,
+     "published": "2026-11-07T15:44:35+00:00"
+    }
+   ]
+  },
+  {
+   "id": 22,
+   "score": 6.4,
+   "outlets": [
+    "tagesschau",
+    "Handelsblatt",
+    "WELT"
+   ],
+   "regions": [
+    "DE"
+   ],
+   "trend": [],
+   "newest": "2026-11-07T18:13:54+00:00",
+   "articles": [
+    {
+     "source": "tagesschau",
+     "region": "DE",
+     "weight": 1.0,
+     "title": "Tote nach Schüssen in Krakau - Rupert Wiederwald, ARD Warschau",
+     "summary": "Tote nach Schüssen in Krakau - Rupert Wiederwald, ARD Warschau",
+     "link": "https://www.tagesschau.de/video/video-1679924.html",
+     "image": "https://images.tagesschau.de/image/17845bbe-07ad-40bf-89cf-de3b27b3b351/AAABobc3gFE/AAABnSSvrFg/16x9-big/sendungsbild-1824046.jpg?width=1920",
+     "aggregator": false,
+     "published": "2026-11-07T18:13:54+00:00"
+    },
+    {
+     "source": "Handelsblatt",
+     "region": "DE",
+     "weight": 0.9,
+     "title": "Kriminalität: Sechs Tote und mehr als fünfzehn Verletzte bei Schießerei in Krakau",
+     "summary": "Auf dem Großen Ring im polnischen Krakau fallen Schüsse aus einem Auto. Die Polizei überwältigte den mutmaßlichen Täter. Er wurde angeschossen und in ein Krankenhaus gebracht.",
+     "link": "https://www.handelsblatt.com/politik/international/kriminalitaet-sechs-tote-und-mehr-als-fuenfzehn-verletzte-bei-schiesserei-in-krakau/100268120.html",
+     "image": "https://images.handelsblatt.com/FzO0SAcaUvyr/cover/900/506/0/0/423/1/0.5/0.5/dpatopbilder-07.11.2026-polen-krakau-polizei-und-rettungskraefte-sind-auf-dem-hauptmarktplatz-im.jpg",
+     "aggregator": false,
+     "published": "2026-11-07T18:03:36+00:00"
+    },
+    {
+     "source": "WELT",
+     "region": "DE",
+     "weight": 0.8,
+     "title": "Mehrere Tote und mehr als ein Dutzend Verletzte bei Schießerei in Krakau – mutmaßlicher Täter gefasst",
+     "summary": "Im Zentrum der polnischen Stadt Krakau sind Schüsse aus einem Auto abgegeben worden. Mehrere Menschen seien getötet worden und es gebe mindestens 15 Verletzte, teilten Polizei und Feuerwehr mit.",
+     "link": "https://www.welt.de/vermischtes/video6aef577180d3a1c6aa66c5da/polen-mehrere-tote-und-mehr-als-ein-dutzend-verletzte-bei-schiesserei-in-krakau-mutmasslicher-taeter-gefasst.html",
+     "image": "https://images.welt.de/6aef577180d3a1c6aa66c5da/495972f508ae06ae42c53284232dd0cb/ci16x9-w1200/dpa-com-261107-936-140169-jpg",
+     "aggregator": false,
+     "published": "2026-11-07T16:56:20+00:00"
+    }
+   ]
+  },
+  {
+   "id": 23,
+   "score": 6.4,
+   "outlets": [
+    "tagesschau",
+    "SPIEGEL",
+    "n-tv"
+   ],
+   "regions": [
+    "DE"
+   ],
+   "trend": [],
+   "newest": "2026-11-07T16:48:00+00:00",
+   "articles": [
+    {
+     "source": "tagesschau",
+     "region": "DE",
+     "weight": 1.0,
+     "title": "Nmecha-Doppelpack bei Dortmunder 2:1-Sieg gegen Elversberg",
+     "summary": "Borussia Dortmund bleibt in der Fußball-Bundesliga ungeschlagen. Der Sieg gegen Aufsteiger SV Elversberg war aber ein hartes Stück Arbeit. Matchwinner war Felix Nmecha.",
+     "link": "https://www.sportschau.de/fussball/bundesliga/doppelpack-nmecha-dortmund-schlaegt-elversberg,spielbericht-borussia-dortmund-sv-elversberg-100.html",
+     "image": "https://images.sportschau.de/image/26c8e484-3339-426f-a9e2-68ce0e370682/AAABobbUZjE/AAABnSSvrFg/16x9-big/nmecha-166.jpg?width=1920",
+     "aggregator": false,
+     "published": "2026-11-07T16:41:57+00:00"
+    },
+    {
+     "source": "SPIEGEL",
+     "region": "DE",
+     "weight": 0.9,
+     "title": "Fußball-Bundesliga: Bayern München und Borussia Dortmund siegen im Gleichschritt",
+     "summary": "Der FC Bayern und Borussia Dortmund siegen in der Fußball-Bundesliga weiter und bleiben punktgleich an der Tabellenspitze. Einzig Manuel Neuer hatte bei den Münchnern einen gebrauchten Tag.",
+     "link": "https://www.spiegel.de/sport/fussball/fussball-bundeslig-bayern-muenchen-und-borussia-dortmund-siegen-im-gleichschritt-a-531074a9-fc8d-4845-a0e0-8f720fa47b07#ref=rss",
+     "image": "https://cdn.prod.www.spiegel.de/images/04690aff-a2c0-4e2d-9195-522fd944193b_w520_r2.08_fpx63_fpy39.jpg",
+     "aggregator": false,
+     "published": "2026-11-07T16:48:00+00:00"
+    },
+    {
+     "source": "n-tv",
+     "region": "DE",
+     "weight": 0.8,
+     "title": "RB-Schützenfest nach Blitz-Tor: Zittersieg: Nmecha-Doppelpack rettet BVB gegen Elversberg",
+     "summary": "Dank eines Doppelpacks von Felix Nmecha gegen die SV Elversberg bleibt Borussia Dortmund in der Fußball-Bundesliga am FC Bayern dran, muss aber lange zittern. RB Leipzig feiert ein Schützenfest gegen den FC Augsburg und Eintracht Frankfurt rettet einen Punkt in Unterzahl.",
+     "link": "https://www.n-tv.de/sport/fussball/Zittersieg-Nmecha-Doppelpack-rettet-BVB-gegen-Elversberg-id31507086.html",
+     "image": "https://www.n-tv.de/img/31507360/1794073418/Img_4_3/250/image.jpg",
+     "aggregator": false,
+     "published": "2026-11-07T16:35:04+00:00"
+    }
+   ]
+  },
+  {
+   "id": 24,
+   "score": 6.4,
+   "outlets": [
+    "ZDFheute",
+    "Handelsblatt",
+    "WELT"
+   ],
+   "regions": [
+    "DE"
+   ],
+   "trend": [],
+   "newest": "2026-11-07T20:27:00+00:00",
+   "articles": [
+    {
+     "source": "ZDFheute",
+     "region": "DE",
+     "weight": 1.0,
+     "title": "SPD im Ruhrgebiet: Noch da, wieder da? Jedenfalls nicht weg",
+     "summary": "Die Ruhr-SPD ist zuletzt mit harter Kritik aufgefallen - an der Bundesregierung und dem dortigen Führungspersonal. Parteichef Lars Klingbeil hat in NRW keinen leichten Stand.",
+     "link": "https://www.zdfheute.de/politik/deutschland/spd-chef-lars-klingbeil-nordrhein-westfalen-ruhrgebiet-bochum-100.html",
+     "image": "https://www.zdfheute.de/assets/spd-chef-klingbeil-ruhr-spd-100~384x216?cb=1794082627202",
+     "aggregator": false,
+     "published": "2026-11-07T20:27:00+00:00"
+    },
+    {
+     "source": "ZDFheute",
+     "region": "DE",
+     "weight": 1.0,
+     "title": "Lars Klingbeil beim SPD-Wirtschaftsforum",
+     "summary": "Vortrag und Podium mit Bundesfinanzminister Lars Klingbeil (SPD) beim Wirtschaftsforum seiner Partei",
+     "link": "https://www.phoenix.de/wirtschaftskonferenz-a-5244967.html",
+     "image": "https://www.zdfheute.de/assets/teaser-phoenix-lars-klingbeil-beim-spd-wirtschaftsforum-5245251-100~384x216?cb=1793870581955",
+     "aggregator": false,
+     "published": "2026-11-04T14:50:00+00:00"
+    },
+    {
+     "source": "Handelsblatt",
+     "region": "DE",
+     "weight": 0.9,
+     "title": "Klingbeil bei Ruhr-SPD: Klingbeil an der Basis im Ruhrgebiet - Kritik und Impulse",
+     "summary": "Die SPD im Ruhrgebiet wirft der Bundesregierung bei einem Konvent in Bochum Streit statt Lösungen vor. Parteichef Klingbeil bekommt eine To-Do-Liste mit. Er äußert sich auch vage zu seiner Zukunft.",
+     "link": "https://www.handelsblatt.com/politik/deutschland/klingbeil-bei-ruhr-spd-klingbeil-an-der-basis-im-ruhrgebiet-kritik-und-impulse/100268082.html",
+     "image": "https://images.handelsblatt.com/YcaubWOHelS-/cover/900/506/0/0/107/107/0.5/0.5/mitgliederkonvent-der-ruhr-spd-debatte-ueber-ruhr-papier.jpg",
+     "aggregator": false,
+     "published": "2026-11-07T14:39:09+00:00"
+    },
+    {
+     "source": "Handelsblatt",
+     "region": "DE",
+     "weight": 0.9,
+     "title": "Klingbeil bei Ruhr-SPD: Frage um SPD-Vorsitz - Klingbeil: Klebe nicht am Stuhl",
+     "summary": "Im Januar wählt die SPD ihre Bundesspitze neu. Bärbel Bas war im Oktober als Co-Vorsitzende zurückgetreten. Was lässt sich Parteichef und Finanzminister Lars Klingbeil entlocken?",
+     "link": "https://www.handelsblatt.com/politik/deutschland/klingbeil-bei-ruhr-spd-frage-um-spd-vorsitz-klingbeil-klebe-nicht-am-stuhl/100268108.html",
+     "image": "https://images.handelsblatt.com/TTOcb47ZxueB/cover/900/506/0/0/107/107/0.5/0.5/mitgliederkonvent-der-ruhr-spd-debatte-ueber-ruhr-papier.jpg",
+     "aggregator": false,
+     "published": "2026-11-07T14:01:58+00:00"
+    },
+    {
+     "source": "WELT",
+     "region": "DE",
+     "weight": 0.8,
+     "title": "Klingbeil unter Druck – und plötzlich ist seine Zukunft als SPD-Chef offen",
+     "summary": "Bei einer Parteiveranstaltung im Ruhrgebiet macht Lars Klingbeil Andeutungen über seine zukünftige Rolle in der SPD‑Führung. Ausgerechnet in der einstigen Herzkammer der SPD wird der Unmut über den Kurs der Partei deutlich.",
+     "link": "https://www.welt.de/politik/deutschland/plus6aec5238d913494ed7629cd0/kampf-um-den-parteivorsitz-klingbeil-unter-druck-und-ploetzlich-ist-seine-zukunft-als-spd-chef-offen.html",
+     "image": "https://images.welt.de/6aec5238d913494ed7629cd0/c24116d4bb9a5cdd55b1046c92406ca6-master/ci23x11-w1200/dpa-com-261107-936-139814-jpg",
+     "aggregator": false,
+     "published": "2026-11-07T17:26:15+00:00"
+    }
+   ]
+  },
+  {
+   "id": 25,
+   "score": 6.4,
+   "outlets": [
+    "ZDFheute",
+    "SPIEGEL",
+    "WELT"
+   ],
+   "regions": [
+    "DE"
+   ],
+   "trend": [],
+   "newest": "2026-11-07T17:47:00+00:00",
+   "articles": [
+    {
+     "source": "ZDFheute",
+     "region": "DE",
+     "weight": 1.0,
+     "title": "13-Jährige verschwunden - mehr als 140 Beamte suchen",
+     "summary": "Dutzende Polizisten suchen mit Spürhunden nach der vermissten Schülerin aus Berlin-Marzahn, es gebe Anhaltspunkte für ein Verbrechen. Seit Dienstag ist die 13-Jährige verschwunden.",
+     "link": "https://www.zdfheute.de/panorama/berlin-marzahn-schuelerin-vermisst-suche-polizei-100.html",
+     "image": "https://www.zdfheute.de/assets/suche-nach-schuelerin-100~384x216?cb=1794060472287",
+     "aggregator": false,
+     "published": "2026-11-07T17:47:00+00:00"
+    },
+    {
+     "source": "SPIEGEL",
+     "region": "DE",
+     "weight": 0.9,
+     "title": "Berlin-Marzahn: Polizei sucht vermisste 13-Jährige, sieht Anhaltspunkte für Verbrechen",
+     "summary": "In Berlin wird seit Tagen eine 13-jährige Schülerin vermisst. Zahlreiche Polizisten suchen nach dem Mädchen, teils mit Hubschraubern und Spürhunden.",
+     "link": "https://www.spiegel.de/panorama/justiz/berlin-marzahn-polizei-sucht-vermisste-13-jaehrige-sieht-anhaltspunkte-fuer-verbrechen-a-272024b7-ec2e-4830-b7f3-4553b6a1d347#ref=rss",
+     "image": "https://cdn.prod.www.spiegel.de/images/bf12d0d5-6325-4feb-9d7a-5c04516e86e3_w520_r2.08_fpx49.34_fpy50.jpg",
+     "aggregator": false,
+     "published": "2026-11-07T16:49:00+00:00"
+    },
+    {
+     "source": "WELT",
+     "region": "DE",
+     "weight": 0.8,
+     "title": "Mehr als 140 Polizisten suchen 13-jährige Lisa in Berlin",
+     "summary": "Die 13-jährige Lisa wird seit Dienstag in Berlin vermisst. Die Mordkommission hat die Ermittlungen übernommen, die Polizei schließt ein Verbrechen nicht aus.",
+     "link": "https://www.welt.de/vermischtes/video6aef57e780d3a1c6aa66c5e4/seit-dienstag-vermisst-mehr-als-140-polizisten-suchen-13-jaehrige-lisa-in-berlin.html",
+     "image": "https://images.welt.de/6aef57e780d3a1c6aa66c5e4/35f441571b2230a6853f568cd28a1f3e/ci16x9-w1200/lisa-marzahn-vermisst-1-jpg",
+     "aggregator": false,
+     "published": "2026-11-07T17:01:06+00:00"
+    }
+   ]
+  },
+  {
+   "id": 26,
+   "score": 6.34,
+   "outlets": [
+    "SPIEGEL",
+    "FAZ"
+   ],
+   "regions": [
+    "DE"
+   ],
+   "trend": [],
+   "newest": "2026-11-08T05:43:00+00:00",
+   "articles": [
+    {
+     "source": "SPIEGEL",
+     "region": "DE",
+     "weight": 0.9,
+     "title": "Wir haben Angela Merkel: Brauchen wir neben ihr überhaupt noch eine Bundespräsidentin?",
+     "summary": "Angela Merkel entwickelt sich zum freundlich stichelnden Über-Ich der Nation. Auch bei einem Abend zu Ehren des Liedermachers Wolf Biermann wirkte sie wie das ideale Staatsoberhaupt. Braucht man noch ein zweites?",
+     "link": "https://www.spiegel.de/kultur/wir-haben-angela-merkel-brauchen-wir-neben-ihr-ueberhaupt-noch-eine-bundespraesidentin-a-3be13069-5176-40a8-9050-4c6445b1350d#ref=rss",
+     "image": "https://cdn.prod.www.spiegel.de/images/7999bf23-8050-46f2-a7ad-98018085818e_w520_r2.08_fpx66.65_fpy50.jpg",
+     "aggregator": false,
+     "published": "2026-11-08T05:43:00+00:00"
+    },
+    {
+     "source": "FAZ",
+     "region": "DE",
+     "weight": 0.6,
+     "title": "Gibt es ein Menschenrecht auf Feigheit? Begegnung zwischen Angela Merkel und Wolf Biermann in Berlin",
+     "summary": "Gibt es ein Menschenrecht auf Feigheit? Begegnung zwischen Angela Merkel und Wolf Biermann in Berlin FAZ Merkels Appell beim «Ermutiger» Biermann WELT Ungefiltert wie nie - Wolf Biermanns Tagebücher - Panorama - SZ.de SZ.de Aufruf zum Schutz der Demokratie: Merkel: Biermanns Lieder sind auch heute Ermutigungen zum Handeln n-tv.de „Aufgeregt und zerrissen“: Merkel warnt bei Festival für Wolf Biermann vor Spaltung Tagesspiegel",
+     "link": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxOT3BQUVVBSkczYlFVZG5kYk5LMjFOQ0pQWmhRNElvYjNHOTU1QjF1YmpBd0VZWmt5RkU1ajZ1SEJTdjRIMzJZQU85RUVrVklPN2szdW9iMnVFLUprem96cjFxNmNEbXpsT2oyMGNac2RPZVJNNHExREZfaTRwN1BwVWpNNVdLZFpHWmRlWkVscG40b0xNTWJwaE5LblVKNmxKWEZIZDNOZ2ZKZUlpdWRmenNVbVQtWW1sLVdJaHFORjhFU2hkYzJ6VnZPRjdwdVhLZmRiMWxVNGlRQVA0RUw1cnMxYUZma3N0QkZtZ0ZIRDhod3hyamRZS2RTQQ?oc=5",
+     "image": null,
+     "aggregator": true,
+     "published": "2026-11-07T14:27:35+00:00"
+    }
+   ]
+  },
+  {
+   "id": 27,
+   "score": 6.0,
+   "outlets": [
+    "SPIEGEL",
+    "WELT",
+    "n-tv"
+   ],
+   "regions": [
+    "DE"
+   ],
+   "trend": [],
+   "newest": "2026-11-07T18:07:58+00:00",
+   "articles": [
+    {
+     "source": "SPIEGEL",
+     "region": "DE",
+     "weight": 0.9,
+     "title": "Ukraine: Wolodymyr Selenskyjs Stabschef muss Bußgeld zahlen, weil er Russisch sprach",
+     "summary": "Russisch, die Sprache des Angreifers, ist für Amtsträger in der Ukraine in offizieller Funktion verboten. Eine Ausnahme gilt auch nicht für Selenskyjs Stabschef, der in einer besonderen Situation ins Russische wechselte.",
+     "link": "https://www.spiegel.de/ausland/ukraine-wolodymyr-selenskyjs-stabschef-muss-bussgeld-zahlen-weil-er-russisch-sprach-a-f9ff6c46-dfd2-4f1f-bfb5-d444b515c107#ref=rss",
+     "image": "https://cdn.prod.www.spiegel.de/images/143cfb27-e4d1-4894-9daa-8448e76251e4_w520_r2.08_fpx51.32_fpy50.98.jpg",
+     "aggregator": false,
+     "published": "2026-11-07T17:12:00+00:00"
+    },
+    {
+     "source": "WELT",
+     "region": "DE",
+     "weight": 0.8,
+     "title": "Russisch statt Ukrainisch – Selenskyjs Stabschef Budanow muss Strafe zahlen",
+     "summary": "Bei Protesten vor einem provisorischen Militärgefängnis nahe Kiew versuchte Kyrylo Budanow, die Lage zu beruhigen. Dabei sprach der ukrainische Präsidialamtschef auch Russisch. Das hat nun finanzielle Konsequenzen.",
+     "link": "https://www.welt.de/politik/ausland/article6aef66b2a389bc337cfc9556/bei-offiziellem-termin-russisch-statt-ukrainisch-selenskyjs-stabschef-budanow-muss-strafe-zahlen.html",
+     "image": "https://images.welt.de/6aef66b2a389bc337cfc9556/50428dfc07d92adbedb8d81813713592-master/ci23x11-w1200/dpa-com-261107-935-1727499-jpg",
+     "aggregator": false,
+     "published": "2026-11-07T18:07:58+00:00"
+    },
+    {
+     "source": "n-tv",
+     "region": "DE",
+     "weight": 0.8,
+     "title": "Bußgeld für Budanow: Selenskyjs Stabschef wird bestraft - weil er Russisch spricht",
+     "summary": "Die Verwendung der russischen Sprache in offizieller Funktion ist für ukrainische Amtsträger verboten. Der Stabschef von Wolodymyr Selenskyj hält sich bei einer Protestveranstaltung nicht an das entsprechende Sprachengesetz. Dafür wird er nun zur Kasse gebeten.",
+     "link": "https://www.n-tv.de/politik/Ukraine-Krieg-Selenskyjs-Stabschef-Budanow-wird-bestraft-weil-er-Russisch-spricht-id31507216.html",
+     "image": "https://www.n-tv.de/img/31507218/1794067441/Img_4_3/250/630600850.jpg",
+     "aggregator": false,
+     "published": "2026-11-07T16:19:55+00:00"
+    }
+   ]
+  }
+ ]
+}
