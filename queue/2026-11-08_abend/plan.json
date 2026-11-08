@@ -1,0 +1,26 @@
+{
+  "format": "single",
+  "candidate_id": 2,
+  "pillar": "POLITIK",
+  "region": "DE",
+  "kicker": "BERLIN",
+  "hook_screen": "SELENSKYJ IN BERLIN!",
+  "hook_voice": "Selenskyj heute in Berlin erwartet – und Merz fordert mehr von Europa.",
+  "beats": [
+    {"voice": "Kanzler Merz sagt der Ukraine mehr Hilfe zu – und fordert: Europas Partner müssen mehr tun.", "big": "MEHR HILFE", "label": "Merz sagt der Ukraine Unterstützung zu"},
+    {"voice": "Russland greift die Energieversorgung an: Im Osten der Ukraine sind mehr als sechshunderttausend Menschen ohne Strom.", "big": "600.000", "label": "Menschen in der Ostukraine ohne Strom"},
+    {"voice": "In Kyjiw musste eine wichtige Brücke erneut gesperrt werden. Der Ukraine droht ein harter Kriegswinter.", "big": "KRIEGSWINTER", "label": "Angriffe auf Energie und Verkehr"},
+    {"voice": "Selenskyj warnt: Den Friedensplan von Donald Trump nennt er gefährlich.", "big": "TRUMP-PLAN", "label": "Selenskyj nennt Friedensplan gefährlich"}
+  ],
+  "loop_line": "Und genau mit dieser Lage im Gepäck kommt Selenskyj heute nach Berlin –",
+  "headline": "Selenskyj-Besuch: Merz fordert Europa",
+  "highlight": ["Selenskyj-Besuch"],
+  "entities": ["Wolodymyr Selenskyj", "Friedrich Merz", "Kyjiw"],
+  "youtube_title": "Selenskyj in Berlin: Merz verspricht Hilfe – und fordert Europa",
+  "description_lead": "Der ukrainische Präsident Wolodymyr Selenskyj wird heute in Berlin erwartet, Bundeskanzler Friedrich Merz sagt der Ukraine mehr Unterstützung zu und fordert mehr Engagement der europäischen Partner. Nach russischen Angriffen auf die Energieversorgung sind in der Ostukraine mehr als 600.000 Menschen ohne Strom, Selenskyj nennt Trumps Friedensplan gefährlich.",
+  "tags": ["Wolodymyr Selenskyj", "Friedrich Merz", "Ukraine", "Berlin", "Kyjiw", "Donald Trump", "Trump Friedensplan", "Bundesregierung", "Europa", "Ukraine Hilfe", "Stromausfall Ukraine", "Kriegswinter", "nachrichten", "nachrichten aktuell", "politik"],
+  "hashtags": ["#ukraine", "#merz", "#selenskyj"],
+  "facebook_caption_line1": "Selenskyj in Berlin erwartet – Merz verspricht der Ukraine mehr Hilfe und fordert mehr von Europa.",
+  "facebook_question": "Tun die europäischen Partner genug für die Ukraine?",
+  "comment_question": "Merz fordert mehr von Europas Partnern – zu Recht? Ja oder nein?"
+}
