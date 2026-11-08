@@ -1,0 +1,40 @@
+{
+ "date": "2026-11-08",
+ "slot": "nacht",
+ "publish_at": "2026-11-08T19:45:00+00:00",
+ "title": "Der Tag in 45 Sekunden: Trump lässt gegen Demokraten ermitteln",
+ "duration": 47.7,
+ "stories": [
+  {
+   "headline": "Trump droht den Demokraten",
+   "region": "INT",
+   "pillar": "WELT"
+  },
+  {
+   "headline": "Emde will Mandat behalten",
+   "region": "DE",
+   "pillar": "POLITIK"
+  },
+  {
+   "headline": "Ukraine-Gespräche: Europa dabei",
+   "region": "EU",
+   "pillar": "WELT"
+  },
+  {
+   "headline": "Aigner: Union ist sich einig",
+   "region": "DE",
+   "pillar": "POLITIK"
+  }
+ ],
+ "comment": {
+  "text": "Wird Trump das Wahlergebnis am Ende akzeptieren – ja oder nein?",
+  "done": false
+ },
+ "youtube_id": "vpynBhhUuzk",
+ "facebook_id": "2008867010558309",
+ "buffer": {
+  "twitter": "6af0bbe69214322f686c39d9",
+  "tiktok": "6af0bbe69214322f686c3a0a"
+ },
+ "created": "2026-11-08T18:13:58.976686+00:00"
+}
