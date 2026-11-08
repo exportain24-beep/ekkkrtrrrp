@@ -22,35 +22,39 @@ slots:
     pillars: [POLITIK, WELT, WIRTSCHAFT, TECHNOLOGIE]
     notify_subscribers: true
   - id: mittag
+    format: single   # growth sprint 8 Nov 2026: single story wins in the Shorts feed
     time: "12:00"
     label: "am Mittag"
-    focus: "Nur Tie-Breaker – immer zuerst die populärsten, meistberichteten Nachrichten. Bei Gleichstand bevorzugt: Wirtschaft und Finanzen zuerst: DAX, Inflation, EZB, Energiepreise, Autoindustrie (VW, BMW, Mercedes), Technologie."
+    focus: "Nur Tie-Breaker – immer zuerst die populärsten, meistberichteten Nachrichten. Bei Gleichstand bevorzugt: Der eine meistberichtete Aufreger des Mittags – bevorzugt Wirtschaft, Preise, Jobs, Technologie mit Wirkung auf die Menschen in DACH."
     pillars: [WIRTSCHAFT, TECHNOLOGIE, POLITIK, WELT]
     notify_subscribers: true
   - id: abend
+    format: single   # growth sprint 8 Nov 2026: single story wins in the Shorts feed
     time: "16:30"
     label: "am Abend"
-    focus: "Nur Tie-Breaker – immer zuerst die populärsten, meistberichteten Nachrichten. Bei Gleichstand bevorzugt: Innenpolitik (Bundestag, Bundesregierung, neue Gesetze), Energie, Alltag der Menschen in Deutschland, Österreich und der Schweiz."
+    focus: "Nur Tie-Breaker – immer zuerst die populärsten, meistberichteten Nachrichten. Bei Gleichstand bevorzugt: Die eine meistdiskutierte Nachricht des Nachmittags – bevorzugt Innenpolitik, neue Gesetze, Alltag in Deutschland, Österreich, Schweiz."
     pillars: [POLITIK, WIRTSCHAFT, WELT, TECHNOLOGIE]
     notify_subscribers: true
   - id: nacht
     time: "20:45"
     label: "am späten Abend"
-    focus: "Nur Tie-Breaker – immer zuerst die populärsten, meistberichteten Nachrichten. Bei Gleichstand bevorzugt: Geopolitik, europäische Sicherheit, NATO, EU, Welthandel und Zölle – mit Bezug zu Deutschland."
+    focus: "Tagesrückblick „Der Tag in 45 Sekunden“: die 4 größten Nachrichten des Tages, die meistberichtete zuerst. Nur Tie-Breaker – Popularität entscheidet. Bei Gleichstand bevorzugt: Geopolitik, europäische Sicherheit, NATO, EU, Welthandel und Zölle – mit Bezug zu Deutschland."
     pillars: [WELT, POLITIK, WIRTSCHAFT, TECHNOLOGIE]
     notify_subscribers: false   # YouTube sends max ~3 notifications/day → slot 4 stays silent
 
   # ---- 2 more regular headline editions (owner, 7 Nov 2026)
   - id: vormittag
+    format: single   # growth sprint 8 Nov 2026: single story wins in the Shorts feed
     time: "10:00"
     label: "am Vormittag"
-    focus: "Nur Tie-Breaker – immer zuerst die populärsten, meistberichteten Nachrichten. Bei Gleichstand bevorzugt: was seit dem Morgen neu passiert ist."
+    focus: "Nur Tie-Breaker – immer zuerst die populärsten, meistberichteten Nachrichten. Bei Gleichstand bevorzugt: Die eine Nachricht, die seit dem Morgen am stärksten hochkocht – bevorzugt neue Entwicklungen großer laufender Geschichten."
     pillars: [POLITIK, WIRTSCHAFT, WELT, TECHNOLOGIE]
     notify_subscribers: false
   - id: nachmittag
+    format: single   # growth sprint 8 Nov 2026: single story wins in the Shorts feed
     time: "14:30"
     label: "am Nachmittag"
-    focus: "Nur Tie-Breaker – immer zuerst die populärsten, meistberichteten Nachrichten. Bei Gleichstand bevorzugt: Entwicklungen des Tages und Folgen für den Alltag."
+    focus: "Nur Tie-Breaker – immer zuerst die populärsten, meistberichteten Nachrichten. Bei Gleichstand bevorzugt: Der eine größte Aufreger des Tages bis jetzt – bevorzugt Sicherheit, Bundeswehr, Skandale, Entscheidungen mit Folgen für den Alltag."
     pillars: [POLITIK, WIRTSCHAFT, WELT, TECHNOLOGIE]
     notify_subscribers: false
 
