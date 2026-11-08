@@ -1,5 +1,13 @@
-# recent_uploads.md – 2026-11-07 23:33 UTC
+# recent_uploads.md – 2026-11-08 18:01 UTC
 
+- YT ZhSmM5Hin3o 2026-11-08T17:30:28Z (known) Markus Wolf: Russlands Geheimdienst ehrt DDR-Spionagechef!
+- YT HPdlo4SyT1c 2026-11-08T16:57:10Z (known) Ukraine-Gespräche ab Dienstag: Frankreich soll Europa vertreten
+- YT YUxu7k_7M7s 2026-11-08T15:30:25Z (known) Selenskyj in Berlin: Merz verspricht Hilfe – und fordert Europa
+- YT BfSa3mtPCyw 2026-11-08T13:30:06Z (known) Ukraine: 600.000 Menschen ohne Strom – droht jetzt auch Kyjiw? ⚡
+- YT HFNlsxXifjo 2026-11-08T11:00:39Z (known) Paraguay: Erst abgesetzt, jetzt in U-Haft – Ex-Präsident Peña
+- YT _PBZ736EEvk 2026-11-08T09:00:39Z (known) Trump zweifelt Wahl an: Justiz soll gegen Demokraten ermitteln
+- YT gEgLFCLVN9s 2026-11-08T07:30:11Z (known) Dana White: Trump will den UFC-Chef als Sprecher im Weißen Haus 🥊
+- YT 8p_Yiqga4Y8 2026-11-08T06:00:27Z (known) Eisenkot soll Israel regieren: Endet jetzt die Ära Netanjahu?
 - YT Eh_d3u8YqeM 2026-11-07T21:00:03Z (known) Eishockey-WM 2027 in Gefahr: Bund sagt Nein zu Russland 🏒
 - YT NHRH0zu_ZUM 2026-11-07T19:45:18Z (known) Supermarkt-Hacks: Warum sich jetzt Geheimdienste einschalten 🛒
 - YT 09zLyq7zmP0 2026-11-07T17:30:29Z (known) Hackerangriff auf Tajani: Italiens Außenminister im Darknet 🚨
@@ -7,14 +15,13 @@
 - YT bYUXHLYi7Y8 2026-11-07T11:00:08Z (known) Linke gegen eigene Abgeordnete: Muss Vanessa Emde jetzt gehen?
 - YT Uhv5-SsDUbs 2026-11-07T07:30:29Z (known) Pflegeversicherung in Not: Bund muss im November erneut zahlen 💶
 - YT bKzi-XswILY 2026-11-07T06:00:01Z (known) Ilse Aigner: Union setzt auf die erste Bundespräsidentin 🇩🇪
-- YT Y8Y6w7aLqYc 2026-11-06T21:00:21Z (known) IG Metall: Über 400.000 im Warnstreik – eskaliert es am Montag?
-- YT qQO-r5dELeo 2026-11-06T19:45:15Z (known) Eishockey-WM 2027: Bund will Heim-WM retten – aber ohne Russland
-- YT iKzSye8wIWI 2026-11-06T17:30:28Z (known) Bombendrohungen gegen Flüge: Wer legt Europas Luftverkehr lahm? ✈️
-- YT TRPYeh0jhlE 2026-11-06T15:30:03Z (known) Führerschein soll billiger werden: Bundestag beschließt Reform 🚗
-- YT nnYhNr0iX4Y 2026-11-06T11:00:07Z (known) DAX unter Druck: Tech-Ausverkauf erfasst Europas Börsen 📉
-- YT zB-adrP1DCc 2026-11-06T10:08:54Z (known) AfD-Leak: Spur der Hacker führt in die USA – 420.000 E-Mails
-- YT G1Fj-feJbpI 2026-11-03T06:00:37Z (known) SPD-Brandbrief: Über 1000 Mitglieder warnen vor Rot-Grün-Rot
-- YT nDF1-GDfTH4 2026-11-02T19:45:31Z (known) Rot-Grün-Rot in Berlin: Kommt die Koalition bis Dezember?
+- FB 2174007663198380 2026-11-08T15:58:28+0000 '🚨 Moskau ehrt DDR-Spionagechef Markus Wolf mit einer Gedenktafel\nWie b'
+- FB 1078895545184895 2026-11-08T13:58:55+0000 '🚨 Selenskyj in Berlin erwartet – Merz verspricht der Ukraine mehr Hilf'
+- FB 1453432426203554 2026-11-08T12:02:29+0000 '🚨 Mehr als 600.000 Menschen in der Ostukraine ohne Strom – auch Kyjiw '
+- FB 3246755318858097 2026-11-08T09:28:14+0000 '🚨 Erst abgesetzt, jetzt in Untersuchungshaft: Paraguays Ex-Präsident P'
+- FB 4563350120578391 2026-11-08T07:36:06+0000 '🚨 Trump zweifelt Wahlsieg der Demokraten an und droht mit Ermittlungen'
+- FB 1485367576990585 2026-11-08T05:58:32+0000 '🚨 Trump will UFC-Chef Dana White als Sprecher des Weißen Hauses\nWie be'
+- FB 1122231820711802 2026-11-08T04:29:12+0000 '🚨 Israel: Netanjahu-Rivale Gadi Eisenkot soll die neue Regierung bilde'
 - FB 1112908458124369 2026-11-07T19:33:13+0000 '🚨 Heim-WM auf der Kippe: Bundesregierung lehnt Eishockey-WM mit Russla'
 - FB 29067659146184160 2026-11-07T18:18:47+0000 '🚨 Cyberangriffe auf Supermarkt-Kühlregale: Geheimdienste schalten sich'
 - FB 1784795932603577 2026-11-07T15:58:21+0000 '🚨 Cyberangriff auf Italiens Außenminister: Private Daten von Tajani un'
@@ -23,10 +30,3 @@
 - FB 1654715066288261 2026-11-07T06:02:57+0000 '🚨 Pflegeversicherung in Not: Der Bund muss im November erneut Geld nac'
 - FB 2224611605145561 2026-11-07T04:29:21+0000 '🚨 Ilse Aigner soll erste Bundespräsidentin werden – auch die CDU legt '
 - FB 1445851947719262 2026-11-06T19:27:48+0000 '🚨 EIL: Über 400.000 Beschäftigte im Warnstreik – IG Metall droht vor V'
-- FB 2047302882632262 2026-11-06T18:14:31+0000 '🚨 Eishockey-WM 2027: Bund will Heim-WM nur ohne Russland\nSollte Deutsc'
-- FB 1086786034323577 2026-11-06T16:27:24+0000 '🚨 EIL: Serie von Bombendrohungen gegen Flüge in Europa reißt nicht ab '
-- FB 964566623002984 2026-11-06T14:00:14+0000 '🚨 Führerschein-Reform beschlossen – die Schlagzeilen am Abend\nWird der'
-- FB 1469529315389326 2026-11-06T10:08:43+0000 '🚨 AfD-Leak: Spur der Hacker führt in die USA\nSollten Hacker-Leaks über'
-- FB 1536973744929711 2026-11-06T10:05:03+0000 '🚨 DAX unter Druck – die Schlagzeilen am Mittag\nIst der Tech-Ausverkauf'
-- FB 2063607084359292 2026-11-03T04:28:47+0000 '🚨 SPD-Brandbrief: Mehr als tausend Mitglieder warnen vor Rot-Grün-Rot '
-- FB 1186829424030690 2026-11-02T18:30:35+0000 '🚨 Rot-Grün-Rot in Berlin: Linke, Grüne und SPD verhandeln über eine Ko'

@@ -1,12 +1,12 @@
-# check_feeds.md – 2026-11-07 23:33 UTC
+# check_feeds.md – 2026-11-08 18:01 UTC
 
-- tagesschau: ok (59)
+- tagesschau: ok (63)
 - tagesschau Inland: ok (49)
 - tagesschau Ausland: ok (70)
-- tagesschau Wirtschaft: ok (25)
-- ZDFheute: ok (179)
-- Deutsche Welle: ok (76)
-- Deutschlandfunk: ok (16)
+- tagesschau Wirtschaft: ok (27)
+- ZDFheute: ok (192)
+- Deutsche Welle: ok (78)
+- Deutschlandfunk: ok (35)
 - SPIEGEL: ok (30)
 - ZEIT ONLINE: ok (15)
 - Süddeutsche: ok (15)
@@ -14,28 +14,28 @@
 - n-tv: ok (50)
 - Handelsblatt: ok (50)
 - WirtschaftsWoche: ok (20)
-- heise online: ok (150)
+- heise online: ok (153)
 - Golem: ok (40)
-- ORF: ok (25)
+- ORF: ok (23)
 - DER STANDARD: ok (156)
-- SRF News: ok (76)
+- SRF News: ok (75)
 - NZZ: ok (16)
 - Google News DE: ok (34)
 
-21/21 feeds OK, 1181 articles, 40 Google-Trends terms
+21/21 feeds OK, 1221 articles, 38 Google-Trends terms
 
--  12.3 [DE,INT] (5) Papst in Uruguay: Schwierige Mission für Leo XIV.
--  11.4 [DE] (5) Reese patzt bei Hertha-Heimkehr: Berlin gewinnt Topspiel
--  11.0 [AT,CH,DE] (5) Midterms 2026 – US-Präsident Trump schlägt Kampfsportler als Pressesprecher vor
--  10.7 [AT,DE] (5) Pahlavi nimmt Freiheitspreis für iranisches Volk entgegen
--   9.6 [CH,DE] (2) Formel 1: GP Brasilien – Verregnetes Qualifying spült Norris auf die Pole – Hülkenberg 4.
--   9.5 [AT,DE,INT] (3) Tote nach Angriff auf Flughafen in Saudi-Arabien
--   9.4 [DE] (4) Jensen Huang: Nvidia-Chef soll Beziehung mit chinesischer Spionin gehabt haben
--   9.4 [DE] (3) Gold im Weißen Haus: Trump macht Oval Office zum Denkmal
--   9.2 [CH,DE,INT] (3) Bankenkrise: Anklage gegen Paraguays Ex-Präsidenten
--   9.2 [DE] (3) Fußball-Bundesliga - Siege für Stuttgart, Dortmund, Leipzig und Bayern
--   8.4 [DE] (3) SPD im Ruhrgebiet: Noch da, wieder da? Jedenfalls nicht weg
--   7.8 [DE,INT] (2) Weniger Teilnehmer bei neuen Demos in Frankreich
--   7.8 [DE] (2) Pistorius rechnet derzeit nicht mit Rückkehr zur Wehrpflicht
--   7.8 [DE,INT] (2) Paraguay: Peña als Präsident abgesetzt und unter Hausarrest
--   7.6 [DE,INT] (2) tagesschau 20:00 Uhr
+-  12.8 [AT,CH,DE] (5) Trump sät Zweifel und droht Demokraten
+-  12.2 [CH,DE,INT] (5) Russische Luftangriffe: Erneut Hunderttausende Ukrainer ohne Strom
+-  11.5 [DE,INT] (4) Nach Schüssen in Krakau: Eine Stadt steht unter Schock
+-  10.7 [DE] (4) Manuel Neuer fällt mit Sehnenteilriss vorerst aus
+-  10.3 [DE] (4) Berliner Linken-Politikerin Emde lehnt Mandatsverzicht ab
+-   9.8 [DE,INT] (3) Mehr als 20 Verletzte nach Erdbeben in Zentraljapan
+-   9.8 [DE,INT] (3) Papst Leo XIV. setzt Südamerika-Reise fort
+-   9.7 [CH,DE,INT] (3) Auf der Flucht: Viele Tote bei Schiffsunglück vor Dschibuti
+-   9.6 [DE,INT] (3) Ukraine-Gespräche in Abu Dhabi: Europäer sind laut Frankreich "gut vertreten"
+-   9.6 [DE] (3) Medienbericht: Kaum Geld aus Sondervermögen in Bildungsinfrastruktur geflossen
+-   9.4 [AT,DE] (3) Zwischen Kairo und Assuan - Sieben Tote und 112 Verletzte bei Zugunglück in Ägypten
+-   9.4 [DE] (3) UFC - Trump will Kampfsportverbandschef Dana White als Pressesprecher
+-   9.3 [AT,DE] (3) Vermisste Schülerin aus Berlin tot aufgefunden: Mann verhaftet
+-   9.3 [DE,INT] (3) Moskau: Gedenktafel erinnert an DDR-Spionagechef Wolf
+-   9.3 [DE] (3) Das sind Ilse Aigners Stärken und Schwächen
