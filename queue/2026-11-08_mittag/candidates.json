@@ -1,0 +1,1640 @@
+{
+ "slot": {
+  "id": "mittag",
+  "time": "12:00",
+  "label": "am Mittag",
+  "focus": "Nur Tie-Breaker – immer zuerst die populärsten, meistberichteten Nachrichten. Bei Gleichstand bevorzugt: Wirtschaft und Finanzen zuerst: DAX, Inflation, EZB, Energiepreise, Autoindustrie (VW, BMW, Mercedes), Technologie.",
+  "pillars": [
+   "WIRTSCHAFT",
+   "TECHNOLOGIE",
+   "POLITIK",
+   "WELT"
+  ],
+  "notify_subscribers": true
+ },
+ "slot_time": "2026-11-08T12:00:00+01:00",
+ "date_text": "Sonntag, 8. November 2026",
+ "already_published": [
+  "Bundestag repariert Tabaksteuer-Panne",
+  "Benko erneut verurteilt",
+  "Führerschein soll billiger werden",
+  "EU droht TikTok mit Strafe",
+  "Härtere Strafen für K.o.-Tropfen",
+  "Mäc Geiz schließt 60 Filialen",
+  "Bombendrohungen gegen Flüge in Europa",
+  "Eishockey-WM nur ohne Russland",
+  "Leipzig: BKA fahndet mit KI-Bild",
+  "Belgiens König lehnt Rücktritt ab",
+  "Ukraine-Deal: Kreml bremst Trump",
+  "IG Metall: Über 400.000 im Warnstreik",
+  "Aigner soll Bundespräsidentin werden",
+  "Trump: Hardliner Miller wird Stabschef",
+  "Hubig: AfD-Mails für Verbotsprüfung",
+  "Pistorius: Wehrpflicht wohl unnötig",
+  "Pflegekassen brauchen Extra-Darlehen",
+  "Linke fordert Mandat von Emde zurück",
+  "Papst beginnt Südamerika-Reise",
+  "Hackerangriff auf TU München",
+  "Stadtwerke wollen Gasnetze stilllegen",
+  "Pahlavi: Freiheitspreis für Irans Volk",
+  "Aigner-Kandidatur: Merz schweigt",
+  "Pensionisten zahlen E-Card-Gebühr",
+  "Allgäu verliert letzten Gletscher",
+  "Hacker stellen Tajani-Daten ins Netz",
+  "Geheimdienste prüfen Supermarkt-Hacks",
+  "Klingbeil lässt SPD-Vorsitz offen",
+  "Selenskyj räumt im Geheimdienst auf",
+  "BSW-Streit um Constantin Schreiber",
+  "Eishockey-WM: Russland-Streit eskaliert",
+  "Eisenkot soll Israel regieren",
+  "CDU entscheidet heute über Aigner",
+  "Frankreich: 146.000 gegen Regierung",
+  "KI-Chips: Elektronik wird teurer",
+  "Trump will UFC-Chef als Sprecher",
+  "Trump droht den Demokraten",
+  "Wehrpflicht: Union contra Pistorius",
+  "Aeschi will in den Bundesrat",
+  "Aigner: Linke kritisiert Verfahren"
+ ],
+ "candidates": [
+  {
+   "id": 0,
+   "score": 19.42,
+   "outlets": [
+    "tagesschau",
+    "ZDFheute",
+    "Deutsche Welle",
+    "Deutschlandfunk",
+    "SRF News",
+    "Süddeutsche",
+    "Handelsblatt",
+    "DER STANDARD"
+   ],
+   "regions": [
+    "AT",
+    "CH",
+    "DE",
+    "INT"
+   ],
+   "trend": [],
+   "newest": "2026-11-08T08:51:14+00:00",
+   "articles": [
+    {
+     "source": "tagesschau",
+     "region": "DE",
+     "weight": 1.0,
+     "title": "US-Präsident Trump baut sein Team um: Stephen Miller wird neuer Stabschef im Weißen Haus",
+     "summary": "US-Präsident Trump baut sein Team um: Stephen Miller wird neuer Stabschef im Weißen Haus",
+     "link": "https://www.tagesschau.de/tagesthemen/video-1680088.html",
+     "image": "https://images.tagesschau.de/image/68573999-1f3f-4b80-b7b9-9072aec073c4/AAABobgz7Mc/AAABnSSvrFg/16x9-big/sendungsbild-1824164.jpg?width=1920",
+     "aggregator": false,
+     "published": "2026-11-07T22:49:43+00:00"
+    },
+    {
+     "source": "tagesschau",
+     "region": "DE",
+     "weight": 1.0,
+     "title": "Wofür Trumps neuer Stabschef Miller steht",
+     "summary": "Seit Freitag ist Stephen Miller neuer Stabschef von Präsident Trump. Der 41-Jährige gilt als rechter Hardliner und Kopf hinter der strikten Einwanderungspolitik. Welches Signal sendet Trump mit der Personalie an Republikaner und Demokraten?",
+     "link": "https://www.tagesschau.de/ausland/amerika/trump-stabschef-miller-100.html",
+     "image": "https://images.tagesschau.de/image/15646591-1e61-481c-b10d-8b00ab988e21/AAABobaEBY4/AAABnSSvrFg/16x9-big/stephen-miller-104.jpg?width=1920",
+     "aggregator": false,
+     "published": "2026-11-07T14:57:49+00:00"
+    },
+    {
+     "source": "tagesschau Ausland",
+     "region": "INT",
+     "weight": 1.0,
+     "title": "Wofür Trumps neuer Stabschef Miller steht",
+     "summary": "Seit Freitag ist Stephen Miller neuer Stabschef von Präsident Trump. Der 41-Jährige gilt als rechter Hardliner und Kopf hinter der strikten Einwanderungspolitik. Welches Signal sendet Trump mit der Personalie an Republikaner und Demokraten?",
+     "link": "https://www.tagesschau.de/ausland/amerika/trump-stabschef-miller-100.html",
+     "image": "https://images.tagesschau.de/image/15646591-1e61-481c-b10d-8b00ab988e21/AAABobaEBY4/AAABnSSvrFg/16x9-big/stephen-miller-104.jpg?width=1920",
+     "aggregator": false,
+     "published": "2026-11-07T14:57:49+00:00"
+    },
+    {
+     "source": "tagesschau Ausland",
+     "region": "INT",
+     "weight": 1.0,
+     "title": "Trumps neuer Stabschef Miller: \"Ein Warnschuss in Richtung des künftigen Kongresses\"",
+     "summary": "Auf Stabschefin Wiles folgt Hardliner Miller: Mit dieser Entscheidung reagiert Trump auf das Wahldebakel seiner Partei - und geht auf Konfrontationskurs zu den Demokraten. Doch auch Republikanern stößt die Personalie auf. Von C. Kühntopp.",
+     "link": "https://www.tagesschau.de/ausland/amerika/trump-miller-100.html",
+     "image": "https://images.tagesschau.de/image/9ba4af40-35be-4904-aca1-68b56c386797/AAABobQmDNQ/AAABnSSvrFg/16x9-big/trump-miller-102.jpg?width=1920",
+     "aggregator": false,
+     "published": "2026-11-07T04:19:10+00:00"
+    },
+    {
+     "source": "ZDFheute",
+     "region": "DE",
+     "weight": 1.0,
+     "title": "Gold im Weißen Haus: Trump macht Oval Office zum Denkmal",
+     "summary": "US-Präsident Trump will das Oval Office und den Kabinettsraum zu Nationaldenkmälern erklären lassen. So will er verhindern, dass seine Nachfolger die Räume baulich verändern.",
+     "link": "https://www.zdfheute.de/video/panorama-trump-oval-office-denkmalschutz-100.html",
+     "image": "https://www.zdfheute.de/assets/us-praesident-trump-oval-office-102~384x216?cb=1793971715771",
+     "aggregator": false,
+     "published": "2026-11-06T11:13:00+00:00"
+    },
+    {
+     "source": "ZDFheute",
+     "region": "DE",
+     "weight": 1.0,
+     "title": "Donald Trumps neuer Stabschef: Wer ist Stephen Miller?",
+     "summary": "Als Stabschefin organisierte Susie Wiles Trumps Regierungsalltag. Auf sie folgt Stephen Miller, einer der umstrittensten und zugleich einflussreichsten Männer in Trumps Umfeld.",
+     "link": "https://www.zdfheute.de/politik/ausland/usa-midterms-susie-wiles-stephen-miller-trump-100.html",
+     "image": "https://www.zdfheute.de/assets/stephen-miller-102~384x216?cb=1793993619135",
+     "aggregator": false,
+     "published": "2026-11-06T21:10:00+00:00"
+    },
+    {
+     "source": "Deutsche Welle",
+     "region": "INT",
+     "weight": 0.95,
+     "title": "Trump setzt Stabschefin des Weißen Hauses vor die Tür",
+     "summary": "Wenige Tage nach dem verheerenden Wahldebakel seiner Republikaner macht US-Präsident Donald Trump einen politischen Hardliner zu seinem Türhüter im Oval Office. Die Opposition faucht.",
+     "link": "https://www.dw.com/de/trump-setzt-stabschefin-des-weißen-hauses-vor-die-tür/a-79883871?maca=de-rss-de-all-1119-xml-mrss",
+     "image": "https://static.dw.com/image/77602450_302.jpg",
+     "aggregator": false,
+     "published": "2026-11-07T10:24:00+00:00"
+    },
+    {
+     "source": "Deutschlandfunk",
+     "region": "DE",
+     "weight": 0.95,
+     "title": "UFC - Trump will Kampfsportverbandschef Dana White als Pressesprecher",
+     "summary": "US-Präsident Trump hat dem Präsidenten des Kampfsportverbands UFC, White, den Posten des Pressesprechers im Weißen Haus angeboten.",
+     "link": "https://www.deutschlandfunk.de/trump-will-kampfsportverbandschef-dana-white-als-pressesprecher-102.html",
+     "image": "https://bilder.deutschlandfunk.de/88/0e/d3/3d/880ed33d-2c8f-4be0-b7b7-0585e3b10d3d/trump-ufc-dana-white-100-1920x1920.jpg",
+     "aggregator": false,
+     "published": "2026-11-08T08:51:14+00:00"
+    }
+   ]
+  },
+  {
+   "id": 1,
+   "score": 13.43,
+   "outlets": [
+    "tagesschau",
+    "ZDFheute",
+    "Deutsche Welle",
+    "Deutschlandfunk",
+    "Handelsblatt"
+   ],
+   "regions": [
+    "DE",
+    "INT"
+   ],
+   "trend": [],
+   "newest": "2026-11-08T08:52:04+00:00",
+   "articles": [
+    {
+     "source": "tagesschau",
+     "region": "DE",
+     "weight": 1.0,
+     "title": "Papst Leo XIV. beginnt Südamerika-Reise in Uruguay",
+     "summary": "Papst Leo XIV. beginnt Südamerika-Reise in Uruguay",
+     "link": "https://www.tagesschau.de/tagesschau_20_uhr/video-1680048.html",
+     "image": "https://images.tagesschau.de/image/36643549-2011-4e5f-9741-83f1624e59f6/AAABobeGDyg/AAABnSSvrFg/16x9-big/sendungsbild-1824096.jpg?width=1920",
+     "aggregator": false,
+     "published": "2026-11-07T19:39:46+00:00"
+    },
+    {
+     "source": "tagesschau",
+     "region": "DE",
+     "weight": 1.0,
+     "title": "Papst Leo XIV. setzt Südamerika-Reise fort",
+     "summary": "Zum Auftakt seiner Südamerika-Reise traf Papst Leo XIV. in Uruguay auf Armut und Gläubige in einer meist säkularen Gesellschaft. Nun geht es nach Argentinien, dessen Staatschef den Pontifex bisher eher als Kritiker kennt. Von Tilmann Kleinjung.",
+     "link": "https://www.tagesschau.de/ausland/amerika/papst-leo-suedamerika-uruguay-100.html",
+     "image": "https://images.tagesschau.de/image/e9ac4e67-04cf-4036-9e21-a991fe367bfb/AAABobpEiso/AAABnSSvrFg/16x9-big/papst-leo-228.jpg?width=1920",
+     "aggregator": false,
+     "published": "2026-11-08T08:27:56+00:00"
+    },
+    {
+     "source": "tagesschau Ausland",
+     "region": "INT",
+     "weight": 1.0,
+     "title": "Papst Leo XIV. setzt Südamerika-Reise fort",
+     "summary": "Zum Auftakt seiner Südamerika-Reise traf Papst Leo XIV. in Uruguay auf Armut und Gläubige in einer meist säkularen Gesellschaft. Nun geht es nach Argentinien, dessen Staatschef den Pontifex bisher eher als Kritiker kennt. Von Tilmann Kleinjung.",
+     "link": "https://www.tagesschau.de/ausland/amerika/papst-leo-suedamerika-uruguay-100.html",
+     "image": "https://images.tagesschau.de/image/e9ac4e67-04cf-4036-9e21-a991fe367bfb/AAABobpEiso/AAABnSSvrFg/16x9-big/papst-leo-228.jpg?width=1920",
+     "aggregator": false,
+     "published": "2026-11-08T08:27:56+00:00"
+    },
+    {
+     "source": "tagesschau Ausland",
+     "region": "INT",
+     "weight": 1.0,
+     "title": "Papst in Uruguay: Schwierige Mission für Leo XIV.",
+     "summary": "Zum Auftakt seiner Südamerika-Reise besucht Papst Leo XIV. Uruguay - ein Land, in dem der Glaube im Alltag kaum eine Rolle spielt. Doch im Armenviertel der Hauptstadt findet die soziale Arbeit der Kirche Anklang. Von Anne Herrberg.",
+     "link": "https://www.tagesschau.de/ausland/amerika/papst-reise-suedamerika-100.html",
+     "image": "https://images.tagesschau.de/image/c08b02e7-e2b9-49aa-9293-2aedfefde92c/AAABobeMIMM/AAABnSSvrFg/16x9-big/papst-leo-226.jpg?width=1920",
+     "aggregator": false,
+     "published": "2026-11-07T19:56:52+00:00"
+    },
+    {
+     "source": "tagesschau Ausland",
+     "region": "INT",
+     "weight": 1.0,
+     "title": "Papst Leo XIV. beginnt Südamerika-Reise in Uruguay",
+     "summary": "Drei Länder in elf Tagen: In Uruguay beginnt Papst Leo XIV. heute seine Südamerika-Reise. Auf ihn warten auch die Heimat seines Vorgängers und ein Wiedersehen mit der eigenen Vergangenheit. Von Anne Herrberg.",
+     "link": "https://www.tagesschau.de/ausland/amerika/papst-suedamerika-104.html",
+     "image": "https://images.tagesschau.de/image/cc733b1a-41a9-4323-9020-173ca154acf1/AAABobOALEY/AAABnSSvrFg/16x9-big/leo-176.jpg?width=1920",
+     "aggregator": false,
+     "published": "2026-11-07T01:50:19+00:00"
+    },
+    {
+     "source": "ZDFheute",
+     "region": "DE",
+     "weight": 1.0,
+     "title": "Heimspiel für den Papst in Lateinamerika",
+     "summary": "Seine bisher längste Reise führt Papst Leo XIV. nach Uruguay, Argentinien und Peru. Nach seiner Krebs-OP gab es keinerlei Änderungen am ursprünglich geplanten Reiseverlauf.",
+     "link": "https://www.zdfheute.de/panorama/papst-leo-xiv-suedamerika-reise-100.html",
+     "image": "https://www.zdfheute.de/assets/papst-leo-suedamerika-100~384x216?cb=1793998334412",
+     "aggregator": false,
+     "published": "2026-11-06T22:01:00+00:00"
+    },
+    {
+     "source": "Deutsche Welle",
+     "region": "INT",
+     "weight": 0.95,
+     "title": "Reise mit Strapazen: Papst Leo XIV. ist in Südamerika zurück",
+     "summary": "Der Pontifex besucht zuerst das streng laizistische Uruguay - eine stabile Demokratie, in der die Kirche jedoch nicht besonders populär ist. Auch gesundheitlich ist die Reise für den 71-Jährigen eine Herausforderung.",
+     "link": "https://www.dw.com/de/reise-mit-strapazen-papst-leo-xiv-ist-in-südamerika-zurück/a-79885738?maca=de-rss-de-all-1119-xml-mrss",
+     "image": "https://static.dw.com/image/79885767_302.jpg",
+     "aggregator": false,
+     "published": "2026-11-07T15:09:00+00:00"
+    },
+    {
+     "source": "Deutschlandfunk",
+     "region": "DE",
+     "weight": 0.95,
+     "title": "Südamerika-Reise - Papst Leo XIV. feiert Messe in Paysandú",
+     "summary": "Papst Leo XIV. hat bei der ersten Messe während seiner Südamerika-Reise dazu aufgerufen, Brücken zu bauen.",
+     "link": "https://www.deutschlandfunk.de/papst-leo-xiv-feiert-messe-in-paysand-102.html",
+     "image": "https://bilder.deutschlandfunk.de/e6/0c/08/8a/e60c088a-821f-46ab-b222-4a167567ab5f/papst-uruguay-100-1920x1920.jpg",
+     "aggregator": false,
+     "published": "2026-11-08T08:51:14+00:00"
+    }
+   ]
+  },
+  {
+   "id": 2,
+   "score": 12.62,
+   "outlets": [
+    "tagesschau",
+    "Deutschlandfunk",
+    "ORF"
+   ],
+   "regions": [
+    "AT",
+    "DE",
+    "INT"
+   ],
+   "trend": [
+    "erdbeben japan aktuell",
+    "Mehr als 20 Verletzte nach Erdbeben in Zentraljapan",
+    "Mitten in der Nacht: Japan von Erdbeben der Stärke 5,7 erschüttert – zahlreiche Verletzte"
+   ],
+   "newest": "2026-11-08T08:51:14+00:00",
+   "articles": [
+    {
+     "source": "tagesschau",
+     "region": "DE",
+     "weight": 1.0,
+     "title": "Mehr als 20 Verletzte nach Erdbeben in Zentraljapan",
+     "summary": "Mehrere Regionen in Japan wurden in der Nacht von einem Erdbeben der Stärke 5,7 erschüttert. Am stärksten betroffen war die Präfektur Aichi. Medien berichten über mehr als 20 Verletzte. Laut Behörden könnten weitere Beben folgen.",
+     "link": "https://www.tagesschau.de/ausland/asien/japan-erdbeben-aichi-100.html",
+     "image": "https://images.tagesschau.de/image/38870537-2e1c-48c2-93aa-6716c4c8cf86/AAABoboOjEc/AAABnSSvrFg/16x9-big/japan-erdbeben-aichi-102.jpg?width=1920",
+     "aggregator": false,
+     "published": "2026-11-08T07:27:58+00:00"
+    },
+    {
+     "source": "tagesschau Ausland",
+     "region": "INT",
+     "weight": 1.0,
+     "title": "Mehr als 20 Verletzte nach Erdbeben in Zentraljapan",
+     "summary": "Mehrere Regionen in Japan wurden in der Nacht von einem Erdbeben der Stärke 5,7 erschüttert. Am stärksten betroffen war die Präfektur Aichi. Medien berichten über mehr als 20 Verletzte. Laut Behörden könnten weitere Beben folgen.",
+     "link": "https://www.tagesschau.de/ausland/asien/japan-erdbeben-aichi-100.html",
+     "image": "https://images.tagesschau.de/image/38870537-2e1c-48c2-93aa-6716c4c8cf86/AAABoboOjEc/AAABnSSvrFg/16x9-big/japan-erdbeben-aichi-102.jpg?width=1920",
+     "aggregator": false,
+     "published": "2026-11-08T07:27:58+00:00"
+    },
+    {
+     "source": "tagesschau Ausland",
+     "region": "INT",
+     "weight": 1.0,
+     "title": "Tote und Verletzte: Erdbeben erschüttert Norden Tibets",
+     "summary": "Tibet wurde von einem schweren Erdbeben der Stärke 7,0 getroffen. Es gibt mindestens 16 Tote und Dutzende Verletzte, Hunderte Gebäude stürzten ein. Seitdem gab es mehrere Nachbeben.",
+     "link": "https://www.tagesschau.de/ausland/asien/tibet-erdbeben-104.html",
+     "image": "https://images.tagesschau.de/image/32f40f57-160d-49ac-ae09-139dd279c374/AAABoWeIXXs/AAABnSSvrFg/16x9-big/truemmer-haus-tibet-100.jpg?width=1920",
+     "aggregator": false,
+     "published": "2026-10-23T03:01:38+00:00"
+    },
+    {
+     "source": "Deutschlandfunk",
+     "region": "DE",
+     "weight": 0.95,
+     "title": "Asien - Erdbeben in Japan: Berichte über mindestens 22 Verletzte",
+     "summary": "In Zentraljapan hat es ein Erdbeben gegeben.",
+     "link": "https://www.deutschlandfunk.de/erdbeben-in-japan-berichte-ueber-mindestens-22-verletzte-100.html",
+     "image": "https://bilder.deutschlandfunk.de/e1/06/7d/e2/e1067de2-6230-41ae-943b-92085b1ff504/die-nachrichten-kachel-2176-zu1224-100-768x768.jpg",
+     "aggregator": false,
+     "published": "2026-11-08T08:51:14+00:00"
+    },
+    {
+     "source": "ORF",
+     "region": "AT",
+     "weight": 0.95,
+     "title": "Dutzende Verletzte bei Erdbeben in Japan",
+     "summary": "",
+     "link": "https://orf.at/stories/3447571/",
+     "image": null,
+     "aggregator": false,
+     "published": "2026-11-08T07:14:21+00:00"
+    }
+   ]
+  },
+  {
+   "id": 3,
+   "score": 12.04,
+   "outlets": [
+    "tagesschau",
+    "ZDFheute",
+    "Handelsblatt",
+    "NZZ",
+    "Tagesspiegel"
+   ],
+   "regions": [
+    "CH",
+    "DE"
+   ],
+   "trend": [],
+   "newest": "2026-11-08T08:54:00+00:00",
+   "articles": [
+    {
+     "source": "tagesschau",
+     "region": "DE",
+     "weight": 1.0,
+     "title": "Tote nach Schüssen in Krakau - Rupert Wiederwald, ARD Warschau",
+     "summary": "Tote nach Schüssen in Krakau - Rupert Wiederwald, ARD Warschau",
+     "link": "https://www.tagesschau.de/video/video-1679924.html",
+     "image": "https://images.tagesschau.de/image/17845bbe-07ad-40bf-89cf-de3b27b3b351/AAABobc3gFE/AAABnSSvrFg/16x9-big/sendungsbild-1824046.jpg?width=1920",
+     "aggregator": false,
+     "published": "2026-11-07T18:13:54+00:00"
+    },
+    {
+     "source": "ZDFheute",
+     "region": "DE",
+     "weight": 1.0,
+     "title": "Tödliche Schüsse in Krakau: Was bisher bekannt ist",
+     "summary": "Insgesamt neun Tote und 15 Verletzte: Nach dem schlimmsten Anschlag seit Jahrzehnten trauert Polen um die Opfer. Was bislang bekannt ist: ein Überblick.",
+     "link": "https://www.zdfheute.de/politik/ausland/polen-krakau-schuesse-schuetze-tote-verletzte-100.html",
+     "image": "https://www.zdfheute.de/assets/26-afpafp-d6rf9zr-jpgu07-11-poland-shooting-police-emergency-100~384x216?cb=1794076896004",
+     "aggregator": false,
+     "published": "2026-11-08T08:54:00+00:00"
+    },
+    {
+     "source": "Handelsblatt",
+     "region": "DE",
+     "weight": 0.9,
+     "title": "Gewaltverbrechen: Sechs Tote und mehr als fünfzehn Verletzte nach Schüssen in Krakau",
+     "summary": "Auf dem Großen Ring im polnischen Krakau fallen Schüsse aus einem Auto. Die Polizei überwältigt den mutmaßlichen Täter. Der Innenminister geht von einem rechtsextremen Hintergrund aus.",
+     "link": "https://www.handelsblatt.com/politik/international/krakau-sechs-tote-und-mehr-als-fuenfzehn-verletzte-nach-schuessen/100268120.html",
+     "image": "https://images.handelsblatt.com/UOeFZlF9BWIW/cover/900/506/0/0/80/545/0.5/0.5/08.11.2026-polen-krakau-ein-kriminaltechniker-macht-fotos-neben-dem-fahrzeug-das-angeblich-von-e.jpg",
+     "aggregator": false,
+     "published": "2026-11-08T08:36:56+00:00"
+    },
+    {
+     "source": "NZZ",
+     "region": "CH",
+     "weight": 0.9,
+     "title": "Anschlag in Krakau: Die Behörden gehen von einer politisch motivierten Gewalttat aus und finden tote Familienmitglieder im Haus des Täters",
+     "summary": "Im Zentrum der zweitgrössten Stadt Polens sind Schüsse aus einem Auto abgegeben worden. Der mutmassliche Täter wurde festgenommen, er soll laut dem Innenministerium rechtsextreme Ansichten vertreten.",
+     "link": "https://www.nzz.ch/panorama/fuenf-todesopfer-nach-schuessen-in-krakau-ld.10057354",
+     "image": "https://img-msp-prod.nzz.ch/2026/11/07/965bef25-0bcf-4ca3-8d3a-28ff30c0371a.jpg?width=200&height=200&fit=bounds&quality=75&auto=webp&crop=3592,3592,x900,y0",
+     "aggregator": false,
+     "published": "2026-11-08T08:21:52+00:00"
+    },
+    {
+     "source": "Tagesspiegel",
+     "region": "DE",
+     "weight": 0.6,
+     "title": "Schütze war von „rechtsextremen Ideologien fasziniert“ Neun Tote nach Schüssen in Krakaus Innenstadt",
+     "summary": "Schütze war von „rechtsextremen Ideologien fasziniert“ Neun Tote nach Schüssen in Krakaus Innenstadt Tagesspiegel Nach Schüssen in Krakau: Eine Stadt steht unter Schock tagesschau.de Gewalttat in Partnerregion - Betroffenheit in Thüringen über tödliche Schüsse in Krakau - Panorama - SZ.de SZ.de 9 Tote in Krakau: Angeschossener Polizist schaltete Attentäter aus BILD Nach Schüssen in Krakau: Eltern und Schwester des Schützen tot aufgefunden – ein Deutscher unter den Verletzten WELT",
+     "link": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxQbDRuMGp4OXU3SkhuVzZaZFlEcllLSFNkS3llZzc0VDEzZDVFbXlpR2NfQnVxQVRkbmlndzJMZURMOEtpRTBFcGZibi1ZcnZRdVBRR3pmeDNqUkhLMVFiRVRNY1J1VEV5clI5WTBHUktKRTNqU2FGNmlTdkhjUWNDTVMyT1pvYVIxR0pSeThhS0dqUUMyOWlnSnZ1NU5KOEs3d0ZmTmVLYi1vcG8xeGpfckZCRmg4dnZ5Sl9xUDRtUVdZS0xHeURfdEhENm5DTmY3OEpNYVh3UzhhODlHMm05NU5Pc21pRTlQSU15NktGQWxWYlFIZ1JMVA?oc=5",
+     "image": null,
+     "aggregator": true,
+     "published": "2026-11-08T07:59:28+00:00"
+    }
+   ]
+  },
+  {
+   "id": 4,
+   "score": 10.61,
+   "outlets": [
+    "ORF",
+    "SPIEGEL",
+    "Handelsblatt",
+    "n-tv"
+   ],
+   "regions": [
+    "AT",
+    "DE"
+   ],
+   "trend": [],
+   "newest": "2026-11-08T07:54:40+00:00",
+   "articles": [
+    {
+     "source": "ORF",
+     "region": "AT",
+     "weight": 0.95,
+     "title": "Trumps Kampfansage an Demokraten",
+     "summary": "Nach dem Debakel bei den Kongresszwischenwahlen hat US-Präsident Donald Trump Gesprächsbereitschaft gegenüber den siegreichen Demokraten signalisiert. Mit der Entscheidung, Stephen Miller zum neuen Stabschef im Weißen Haus zu machen, sendet Trump nun eine gänzlich andere Botschaft. Der 41-Jährige, der am Montag sein Amt antritt, gilt als Hardliner. Beobachter sehen eine Kampfansage Trumps an die Demokraten.",
+     "link": "https://orf.at/stories/3447536/",
+     "image": null,
+     "aggregator": false,
+     "published": "2026-11-07T21:14:06+00:00"
+    },
+    {
+     "source": "SPIEGEL",
+     "region": "DE",
+     "weight": 0.9,
+     "title": "Donald Trump weist Justizministerium an, unliebsame Demokraten zu untersuchen",
+     "summary": "Nach dem Wahlsieg bei den Midterms wollen demokratische Abgeordnete den US-Präsidenten stärker kontrollieren. Der hält das für »kriminell« – und droht.",
+     "link": "https://www.spiegel.de/ausland/donald-trump-weist-justizministerium-an-unliebsame-demokraten-zu-untersuchen-a-c5f98176-36ff-41ad-88a9-511276a4b746#ref=rss",
+     "image": "https://cdn.prod.www.spiegel.de/images/7aa3d16f-5931-4bc4-921c-e043b44e3dfb_w520_r2.08_fpx25_fpy47.jpg",
+     "aggregator": false,
+     "published": "2026-11-07T21:41:00+00:00"
+    },
+    {
+     "source": "Handelsblatt",
+     "region": "DE",
+     "weight": 0.9,
+     "title": "US-Präsident: Trump schürt Zweifel an Kongresswahl und droht Demokraten",
+     "summary": "Nach der krachenden Niederlage seiner Republikaner bei den Wahlen zeigte sich Donald Trump zunächst einsichtig. Doch jetzt teilt der US-Präsident wieder aus.",
+     "link": "https://www.handelsblatt.com/politik/international/us-praesident-trump-schuert-zweifel-an-kongresswahl-und-droht-demokraten/100268151.html",
+     "image": "https://images.handelsblatt.com/BlNztmo-zoXK/cover/900/506/0/0/107/106/0.5/0.5/us-praesident-trump.jpg",
+     "aggregator": false,
+     "published": "2026-11-08T07:54:40+00:00"
+    },
+    {
+     "source": "n-tv",
+     "region": "DE",
+     "weight": 0.8,
+     "title": "Wegen angeblicher Bedrohung: Trump verlangt Ermittlungen des Justizministeriums gegen Demokraten",
+     "summary": "Auf das Debakel seiner Republikaner bei den Midterms reagiert der US-Präsident zunächst erstaunlich gefasst. Lange währt die Phase der Konzilianz aber nicht: Auf Truth Social teilt Trump wieder aus, er wittert Erpressung und fordert Haftstrafen.",
+     "link": "https://www.n-tv.de/politik/Trump-verlangt-Ermittlungen-des-Justizministeriums-gegen-Demokraten-id31507835.html",
+     "image": "https://www.n-tv.de/img/31507864/1794109653/Img_4_3/250/image.jpg",
+     "aggregator": false,
+     "published": "2026-11-08T03:13:59+00:00"
+    }
+   ]
+  },
+  {
+   "id": 5,
+   "score": 10.22,
+   "outlets": [
+    "SPIEGEL",
+    "Handelsblatt",
+    "DER STANDARD"
+   ],
+   "regions": [
+    "AT",
+    "DE"
+   ],
+   "trend": [
+    "familie"
+   ],
+   "newest": "2026-11-08T07:39:08+00:00",
+   "articles": [
+    {
+     "source": "SPIEGEL",
+     "region": "DE",
+     "weight": 0.9,
+     "title": "Italien: Außenminister Antonio Tajani prangert Hacker-Angriffe an",
+     "summary": "Im Darknet sind offenbar sensible persönliche Daten des italienischen Außenministers Antonio Tajanis und seiner Familie zu finden. Dahinter soll eine prorussische Hackergruppe stecken.",
+     "link": "https://www.spiegel.de/ausland/italien-aussenminister-antonio-tajani-prangert-hacker-angriffe-an-a-cb655674-9ea2-4f6f-abf3-9d8fd660cd71#ref=rss",
+     "image": "https://cdn.prod.www.spiegel.de/images/b78038e6-9e91-4614-bafc-3cabe2769f3e_w520_r2.08_fpx50_fpy32.jpg",
+     "aggregator": false,
+     "published": "2026-11-07T23:57:00+00:00"
+    },
+    {
+     "source": "Handelsblatt",
+     "region": "DE",
+     "weight": 0.9,
+     "title": "Sensible Daten im Darknet: Italiens Außenminister prangert Hacker-Angriffe an",
+     "summary": "Persönliche Daten von Italiens Außenminister Tajani und seiner Familie landen im Darknet. Für weitere Informationen soll Geld fließen. Wer noch ins Visier der mutmaßlich prorussischen Hacker geriet.",
+     "link": "https://www.handelsblatt.com/politik/international/sensible-daten-im-darknet-italiens-aussenminister-prangert-hacker-angriffe-an/100268131.html",
+     "image": "https://images.handelsblatt.com/JZ-pqsmsp292/cover/900/506/0/0/107/106/0.5/0.5/hackerangriff-auf-italiens-aussenminister-antonio-tajani.jpg",
+     "aggregator": false,
+     "published": "2026-11-07T19:27:05+00:00"
+    },
+    {
+     "source": "DER STANDARD",
+     "region": "AT",
+     "weight": 0.85,
+     "title": "Hacker veröffentlichen vertrauliche Daten des italienischen Außenministers",
+     "summary": "Prorussiche Gruppe \"Noname057(16)\" bietet Informationen im Darknet an",
+     "link": "https://www.derstandard.at/story/3000000348053/hacker-veroeffentlichen-vertrauliche-daten-des-italienischen-aussenministers?ref=rss",
+     "image": "https://i.ds.at/Gkkkww/rs:fill:150:0/plain/lido-images/2026/01/24/fda5a0fb-143a-43e1-9841-eeb7d2cd7dab.jpg",
+     "aggregator": false,
+     "published": "2026-11-08T07:39:08+00:00"
+    }
+   ]
+  },
+  {
+   "id": 6,
+   "score": 10.21,
+   "outlets": [
+    "ZDFheute",
+    "Deutsche Welle",
+    "DER STANDARD",
+    "WELT"
+   ],
+   "regions": [
+    "AT",
+    "DE",
+    "INT"
+   ],
+   "trend": [],
+   "newest": "2026-11-08T06:24:48+00:00",
+   "articles": [
+    {
+     "source": "ZDFheute",
+     "region": "DE",
+     "weight": 1.0,
+     "title": "Donald Trump kündigt \"großes Abkommen\" mit Russland an",
+     "summary": "US-Präsident Trump kündigt nach einem Treffen mit einem russischen Unterhändler ein Abkommen zum Ukraine-Krieg an. Es könne ganz Europa betreffen. Details nennt er nicht.",
+     "link": "https://www.zdfheute.de/video/politik-trump-abkommen-ukraine-krieg-100.html",
+     "image": "https://www.zdfheute.de/assets/trump-oval-office-120~384x216?cb=1793953937283",
+     "aggregator": false,
+     "published": "2026-11-06T08:31:00+00:00"
+    },
+    {
+     "source": "Deutsche Welle",
+     "region": "INT",
+     "weight": 0.95,
+     "title": "Ukraine: Trump stellt \"sehr großes\" Abkommen mit Russland in Aussicht",
+     "summary": "Der US-Präsident hat in Washington einen Kreml-Berater empfangen. Donald Trumps anschließendes Statement dürfte für Unruhe in der Ukraine und Europa sorgen.",
+     "link": "https://www.dw.com/de/ukraine-trump-stellt-sehr-großes-abkommen-mit-russland-in-aussicht/a-79873159?maca=de-rss-de-all-1119-xml-mrss",
+     "image": "https://static.dw.com/image/79873823_302.jpg",
+     "aggregator": false,
+     "published": "2026-11-06T10:05:00+00:00"
+    },
+    {
+     "source": "DER STANDARD",
+     "region": "AT",
+     "weight": 0.85,
+     "title": "Trump ist ein Feind Europas",
+     "summary": "Der neueste angekündigte \"Deal\" mit Russland ist Grund für Alarmstimmung",
+     "link": "https://www.derstandard.at/story/3000000347829/trump-ist-ein-feind-europas?ref=rss",
+     "image": "https://i.ds.at/5QkgSg/rs:fill:150:0/plain/lido-images/2026/11/06/77398848-c0ee-483f-a19a-0a53b2c2be05.jpg",
+     "aggregator": false,
+     "published": "2026-11-07T10:00:00+00:00"
+    },
+    {
+     "source": "WELT",
+     "region": "DE",
+     "weight": 0.8,
+     "title": "„Man bombt weiter, aber man spricht eben auch“",
+     "summary": "Donald Trump hat nach einem Treffen mit Putins Gesandtem Dmitrijew ein „großes Abkommen“ zwischen den USA und Russland in Aussicht gestellt. Der Kreml dämpft die Erwartungen. Militärexperte Ralph Thiele ordnet die aktuelle Lage ein.",
+     "link": "https://www.welt.de/politik/ausland/video6af0159aa389bc337cfc9a61/ukraine-abkommen-man-bombt-weiter-aber-man-spricht-eben-auch.html",
+     "image": "https://images.welt.de/6af0159aa389bc337cfc9a61/7e5e2adb5fc68df8a4718bd79020900b/ci16x9-w1200/thiele-jpg",
+     "aggregator": false,
+     "published": "2026-11-08T06:24:48+00:00"
+    }
+   ]
+  },
+  {
+   "id": 7,
+   "score": 9.22,
+   "outlets": [
+    "Deutschlandfunk",
+    "Handelsblatt",
+    "DER STANDARD"
+   ],
+   "regions": [
+    "AT",
+    "DE"
+   ],
+   "trend": [],
+   "newest": "2026-11-08T08:51:14+00:00",
+   "articles": [
+    {
+     "source": "Deutschlandfunk",
+     "region": "DE",
+     "weight": 0.95,
+     "title": "146.000 demonstrieren - Frankreich: Erneut Ausschreitungen und Gewalt bei Protesten",
+     "summary": "In mehreren französischen Städten ist es bei erneuten Protesten zu Gewalt gekommen. Dem Innenministerium zufolge waren die Versammlungen in großen Städten wie Toulouse, Marseille, Lyon, Bordeaux oder Straßburg von Ausschreitungen und Zwischenfällen geprägt.",
+     "link": "https://www.deutschlandfunk.de/frankreich-erneut-ausschreitungen-und-gewalt-bei-protesten-102.html",
+     "image": "https://bilder.deutschlandfunk.de/0f/7e/1c/38/0f7e1c38-b59a-4ebf-b370-6ba42543faf2/frankreich-paris-proteste-gewalt-100-1920x1920.jpg",
+     "aggregator": false,
+     "published": "2026-11-08T08:51:14+00:00"
+    },
+    {
+     "source": "Handelsblatt",
+     "region": "DE",
+     "weight": 0.9,
+     "title": "Sozialproteste: 146.000 demonstrieren in Frankreich - Teilnahme geht zurück",
+     "summary": "Die Proteste in Frankreich ziehen zwar weniger Menschen an als am vergangenen Samstag, doch in mehreren Städten kommt es wieder zu Ausschreitungen. Schon am Dienstag stehen neue Aktionen an.",
+     "link": "https://www.handelsblatt.com/politik/international/sozialproteste-146000-demonstrieren-in-frankreich-teilnahme-geht-zurueck/100268129.html",
+     "image": "https://images.handelsblatt.com/M2bfquo1Dc49/cover/900/506/0/0/107/106/0.5/0.5/proteste-in-frankreich.jpg",
+     "aggregator": false,
+     "published": "2026-11-07T18:55:42+00:00"
+    },
+    {
+     "source": "DER STANDARD",
+     "region": "AT",
+     "weight": 0.85,
+     "title": "Vierter Protestsamstag in Frankreich: Mindestens 146.000 Menschen auf der Straße",
+     "summary": "Die Proteste richteten sich gegen die steigenden Preise und Ungleichheiten im Bildungssystem. In mehreren Städten kam es wieder zu Ausschreitungen",
+     "link": "https://www.derstandard.at/story/3000000348034/146000-demonstrieren-in-frankreich-teilnahme-geht-zur252ck?ref=rss",
+     "image": "https://i.ds.at/y1x_tg/rs:fill:150:0/plain/lido-images/2026/11/07/03759151-8ecd-4a36-9489-4cd7f20c7793.jpg",
+     "aggregator": false,
+     "published": "2026-11-07T19:56:06+00:00"
+    }
+   ]
+  },
+  {
+   "id": 8,
+   "score": 9.12,
+   "outlets": [
+    "Deutschlandfunk",
+    "SPIEGEL",
+    "n-tv"
+   ],
+   "regions": [
+    "DE"
+   ],
+   "trend": [],
+   "newest": "2026-11-08T08:51:14+00:00",
+   "articles": [
+    {
+     "source": "Deutschlandfunk",
+     "region": "DE",
+     "weight": 0.95,
+     "title": "Fußball-Bundesliga - Siege für Stuttgart, Dortmund, Leipzig und Bayern",
+     "summary": "In der Fußball-Bundesliga hat der VfB Stuttgart hat den Vormarsch des SV Werder Bremen vorerst gestoppt. Vier Tage nach dem frustrierenden 0:2 in der Champions League bei Galatasaray Istanbul siegten die Schwaben 1:0 und sprangen mit nun zwölf Punkten zumindest vorübergehend auf den achten Tabellenplatz.",
+     "link": "https://www.deutschlandfunk.de/siege-fuer-stuttgart-dortmund-leipzig-und-bayern-104.html",
+     "image": "https://bilder.deutschlandfunk.de/c3/cd/e8/7c/c3cde87c-6f7f-4444-ab81-64016361cbfb/werder-bremen-stuttgart-bundesliga-100-1920x1920.jpg",
+     "aggregator": false,
+     "published": "2026-11-08T08:51:14+00:00"
+    },
+    {
+     "source": "SPIEGEL",
+     "region": "DE",
+     "weight": 0.9,
+     "title": "Bundesliga: Maximilian Mittelstädt schießt VfB Stuttgart zum Sieg gegen Werder Bremen",
+     "summary": "Das entscheidende Tor fiel schon nach wenigen Minuten: Der VfB Stuttgart hat Werder Bremen besiegt. Der wieder eingekaderte Nationalspieler Niclas Füllkrug blieb ohne Treffer.",
+     "link": "https://www.spiegel.de/sport/fussball/bundesliga-maximilian-mittelstaedt-schiesst-vfb-stuttgart-zum-sieg-gegen-werder-bremen-a-4952b90c-32c4-4147-802f-b7dca6682ad9#ref=rss",
+     "image": "https://cdn.prod.www.spiegel.de/images/9ffd2bcf-60cc-452a-8252-1c1750c369aa_w520_r2.08_fpx56_fpy44.jpg",
+     "aggregator": false,
+     "published": "2026-11-07T19:23:00+00:00"
+    },
+    {
+     "source": "n-tv",
+     "region": "DE",
+     "weight": 0.8,
+     "title": "Füllkrug geht leer aus: VfB Stuttgart stoppt Werders Ungeschlagen-Serie",
+     "summary": "Der VfB Stuttgart hat im Topspiel der Bundesliga mit einem 1:0 (1:0)-Erfolg über Werder Bremen die Ungeschlagen-Serie der Hanseaten gestoppt. Maximilian Mittelstädt sorgt fürs goldene Tor. DFB-Rückkehrer Niclas Füllkrug geht hingegen leer aus.",
+     "link": "https://www.n-tv.de/sport/fussball/1bundesliga/VfB-Stuttgart-stoppt-Werders-Ungeschlagen-Serie-id31507493.html",
+     "image": "https://www.n-tv.de/img/31507587/1794081356/Img_4_3/250/image.jpg",
+     "aggregator": false,
+     "published": "2026-11-07T19:26:55+00:00"
+    }
+   ]
+  },
+  {
+   "id": 9,
+   "score": 9.1,
+   "outlets": [
+    "tagesschau",
+    "ORF",
+    "Handelsblatt"
+   ],
+   "regions": [
+    "AT",
+    "DE",
+    "INT"
+   ],
+   "trend": [],
+   "newest": "2026-11-08T07:34:33+00:00",
+   "articles": [
+    {
+     "source": "tagesschau",
+     "region": "DE",
+     "weight": 1.0,
+     "title": "Bankenkrise: Anklage gegen Paraguays Ex-Präsidenten",
+     "summary": "Nur einen Tag nach seiner Amtsenthebung muss sich Paraguays Ex-Präsident Peña wegen seiner Rolle im Bankenskandal vor der Justiz verantworten. Die Staatsanwaltschaft fordert Untersuchungshaft.",
+     "link": "https://www.tagesschau.de/ausland/amerika/ermittlungen-paraguay-pena-100.html",
+     "image": "https://images.tagesschau.de/image/9e147e56-f6c3-400e-b95b-a781c07ba6b5/AAABobe3Qgs/AAABnSSvrFg/16x9-big/pena-110.jpg?width=1920",
+     "aggregator": false,
+     "published": "2026-11-07T20:33:23+00:00"
+    },
+    {
+     "source": "tagesschau Ausland",
+     "region": "INT",
+     "weight": 1.0,
+     "title": "Bankenkrise: Anklage gegen Paraguays Ex-Präsidenten",
+     "summary": "Nur einen Tag nach seiner Amtsenthebung muss sich Paraguays Ex-Präsident Peña wegen seiner Rolle im Bankenskandal vor der Justiz verantworten. Die Staatsanwaltschaft fordert Untersuchungshaft.",
+     "link": "https://www.tagesschau.de/ausland/amerika/ermittlungen-paraguay-pena-100.html",
+     "image": "https://images.tagesschau.de/image/9e147e56-f6c3-400e-b95b-a781c07ba6b5/AAABobe3Qgs/AAABnSSvrFg/16x9-big/pena-110.jpg?width=1920",
+     "aggregator": false,
+     "published": "2026-11-07T20:33:23+00:00"
+    },
+    {
+     "source": "ORF",
+     "region": "AT",
+     "weight": 0.95,
+     "title": "Paraguays Ex-Präsident nun in Untersuchungshaft",
+     "summary": "",
+     "link": "https://orf.at/stories/3447566/",
+     "image": null,
+     "aggregator": false,
+     "published": "2026-11-08T06:21:45+00:00"
+    },
+    {
+     "source": "Handelsblatt",
+     "region": "DE",
+     "weight": 0.9,
+     "title": "Bankenskandal: Paraguays Ex-Präsident Peña muss in Untersuchungshaft",
+     "summary": "Erst verliert Santiago Peña sein Präsidentenamt, nun muss er in Haft. Die Justiz wirft ihm im Zusammenhang mit einem Bankenskandal schwere Rechtsverstöße vor.",
+     "link": "https://www.handelsblatt.com/politik/international/bankenskandal-paraguays-ex-praesident-pena-muss-in-untersuchungshaft/100268181.html",
+     "image": "https://images.handelsblatt.com/XTNIWCnBag5E/cover/900/506/553/488/811/400/0.5/0.5/paraguayaposs-former-president-santiago-pena-and-his-lawyer-ricardo-preda-sit-with-judge-humberto.jpg",
+     "aggregator": false,
+     "published": "2026-11-08T07:34:33+00:00"
+    },
+    {
+     "source": "Handelsblatt",
+     "region": "DE",
+     "weight": 0.9,
+     "title": "Bankenskandal in Paraguay: Nach Amtsenthebung: Anklage gegen Paraguays Ex-Präsidenten",
+     "summary": "Nur einen Tag nach seiner Amtsenthebung muss sich Santiago Peña wegen des Bankenskandals vor der Justiz verantworten. Die Staatsanwaltschaft fordert Untersuchungshaft.",
+     "link": "https://www.handelsblatt.com/politik/international/bankenskandal-in-paraguay-nach-amtsenthebung-anklage-gegen-paraguays-ex-praesidenten/100268135.html",
+     "image": "https://images.handelsblatt.com/rVVpI31yrk4m/cover/900/506/0/0/107/106/0.5/0.5/santiago-pena.jpg",
+     "aggregator": false,
+     "published": "2026-11-07T19:00:36+00:00"
+    }
+   ]
+  },
+  {
+   "id": 10,
+   "score": 8.91,
+   "outlets": [
+    "ZDFheute",
+    "SPIEGEL",
+    "n-tv"
+   ],
+   "regions": [
+    "DE"
+   ],
+   "trend": [],
+   "newest": "2026-11-08T07:55:00+00:00",
+   "articles": [
+    {
+     "source": "ZDFheute",
+     "region": "DE",
+     "weight": 1.0,
+     "title": "Füllkrug bricht ZDF-Interview ab: \"Nee, danke, ciao\"",
+     "summary": "Nach der Niederlage in Stuttgart will Bremens Stürmer Niclas Füllkrug nicht über die Nationalmannschaft reden - Ausschnitt aus dem Interview mit dem aktuellen sportstudio.",
+     "link": "https://www.zdfheute.de/video/fuellkrug-interview-sportstudio-102.html",
+     "image": "https://www.zdfheute.de/assets/fuellkrug-interview-sportstudio-100~384x216?cb=1794120126754",
+     "aggregator": false,
+     "published": "2026-11-08T07:55:00+00:00"
+    },
+    {
+     "source": "ZDFheute",
+     "region": "DE",
+     "weight": 1.0,
+     "title": "Füllkrug: \"Da denke ich jetzt nicht dran\"",
+     "summary": "Nach der 0:1-Niederlage gegen den VfB Stuttgart ist Werder-Stürmer Niclas Füllkrug enttäuscht und möchte nicht über die Nationalmannschaft reden.",
+     "link": "https://www.zdfheute.de/sport/video/das-aktuelle-sportstudio/fuellkrug-interview-vfb-stuttgart-werder-bremen-100.html",
+     "image": "https://www.zdfheute.de/assets/fuellkrug-ministudio-bremen-stuttgart-100~384x216?cb=1794087394636",
+     "aggregator": false,
+     "published": "2023-11-09T14:49:00+00:00"
+    },
+    {
+     "source": "SPIEGEL",
+     "region": "DE",
+     "weight": 0.9,
+     "title": "Bundesliga: Niclas Füllkrug bricht ZDF-Interview nach Niederlage gegen Stuttgart ab",
+     "summary": "Gerade hat Niclas Füllkrug mit Werder Bremen gegen den VfB Stuttgart verloren. Im anschließenden Interview soll er über seine Rückkehr in den DFB-Kader sprechen – hat dazu aber sehr offensichtlich sehr wenig Lust.",
+     "link": "https://www.spiegel.de/sport/fussball/bundesliga-niclas-fuellkrug-bricht-zdf-interview-nach-niederlage-gegen-stuttgart-ab-a-39f4cb91-23f0-48ce-bf75-92e16b182a1b#ref=rss",
+     "image": "https://cdn.prod.www.spiegel.de/images/e2d9e3ef-4c8f-4f18-9718-9ea4d004ebe6_w520_r2.08_fpx49_fpy39.jpg",
+     "aggregator": false,
+     "published": "2026-11-08T00:49:00+00:00"
+    },
+    {
+     "source": "n-tv",
+     "region": "DE",
+     "weight": 0.8,
+     "title": "\"Nee, danke, ciao\": Füllkrug bricht ZDF-Interview ab",
+     "summary": "In Stuttgart verliert Werder Bremen - und Niclas Füllkrug bleibt ohne Tor. Im \"Sportstudio\" ist ihm der Frust deutlich anzumerken. Als der Reporter auf seine DFB-Nominierung zu sprechen kommen will, lässt der Stürmer ihn einfach stehen.",
+     "link": "https://www.n-tv.de/sport/fussball/Fuellkrug-bricht-ZDF-Interview-ab-id31507779.html",
+     "image": "https://www.n-tv.de/img/31508056/1794119624/Img_4_3/250/image.jpg",
+     "aggregator": false,
+     "published": "2026-11-08T00:45:52+00:00"
+    }
+   ]
+  },
+  {
+   "id": 11,
+   "score": 8.63,
+   "outlets": [
+    "Handelsblatt",
+    "DER STANDARD",
+    "n-tv"
+   ],
+   "regions": [
+    "AT",
+    "DE"
+   ],
+   "trend": [],
+   "newest": "2026-11-08T07:59:02+00:00",
+   "articles": [
+    {
+     "source": "Handelsblatt",
+     "region": "DE",
+     "weight": 0.9,
+     "title": "Großes Parlament: Neuseeland steht nach Wahl vor wochenlangem Machtspiel",
+     "summary": "Nur ein Sitz trennt das Lager von Ministerpräsident Luxon von der Mehrheit. Doch kleinere Parteien und noch nicht ausgezählte Stimmen könnten die Regierungsbildung auf den Kopf stellen.",
+     "link": "https://www.handelsblatt.com/politik/international/grosses-parlament-neuseeland-steht-nach-wahl-vor-wochenlangem-machtspiel/100268182.html",
+     "image": "https://images.handelsblatt.com/vPN5RXulKXbX/cover/900/506/758/734/383/1081/0.5/0.5/nz-election-nz-prime-minister-and-national-party-leader-christopher-luxon-departs-a-press-conferenc.jpg",
+     "aggregator": false,
+     "published": "2026-11-08T07:59:02+00:00"
+    },
+    {
+     "source": "Handelsblatt",
+     "region": "DE",
+     "weight": 0.9,
+     "title": "Ungewöhnlich großes Parlament: Neuseeland steht nach Wahl vor wochenlangem Machtpoker",
+     "summary": "Nur ein Sitz trennt das Lager von Ministerpräsident Luxon von der Mehrheit. Doch kleinere Parteien und noch nicht ausgezählte Stimmen könnten die Regierungsbildung auf den Kopf stellen.",
+     "link": "https://www.handelsblatt.com/politik/international/ungewoehnlich-grosses-parlament-neuseeland-steht-nach-wahl-vor-wochenlangem-machtpoker/100268169.html",
+     "image": "https://images.handelsblatt.com/ZImq1SsG32O4/cover/900/506/0/0/107/106/0.5/0.5/wahl-in-neuseeland.jpg",
+     "aggregator": false,
+     "published": "2026-11-08T04:25:00+00:00"
+    },
+    {
+     "source": "DER STANDARD",
+     "region": "AT",
+     "weight": 0.85,
+     "title": "Neuseeland steht nach Wahl vor wochenlangem Machtpoker",
+     "summary": "Statt der üblichen 120 sind nun 131 Sitze im Parlament vorgesehen. Fast 400.000 Sonderstimmen müssen noch ausgezählt werden",
+     "link": "https://www.derstandard.at/story/3000000348048/neuseeland-steht-nach-wahl-vor-wochenlangem-machtpoker?ref=rss",
+     "image": "https://i.ds.at/w9G_eQ/rs:fill:150:0/plain/lido-images/2026/11/08/6018b492-04ad-4669-be24-696d42b51988.jpg",
+     "aggregator": false,
+     "published": "2026-11-08T06:40:59+00:00"
+    },
+    {
+     "source": "n-tv",
+     "region": "DE",
+     "weight": 0.8,
+     "title": "Sonderstimmen bremsen Auszählung: Neuseeland muss wochenlang auf Wahlergebnis warten",
+     "summary": "Nur ein Sitz trennt das Lager von Ministerpräsident Luxon von der Mehrheit. Doch kleinere Parteien und noch nicht ausgezählte Stimmen könnten die Regierungsbildung auf den Kopf stellen.",
+     "link": "https://www.n-tv.de/politik/Neuseeland-muss-wochenlang-auf-Wahlergebnis-warten-id31508055.html",
+     "image": "https://www.n-tv.de/img/31508080/1794121038/Img_4_3/250/collage_1920x1080.jpg",
+     "aggregator": false,
+     "published": "2026-11-08T06:04:40+00:00"
+    }
+   ]
+  },
+  {
+   "id": 12,
+   "score": 8.44,
+   "outlets": [
+    "ORF",
+    "SRF News",
+    "WELT"
+   ],
+   "regions": [
+    "AT",
+    "CH",
+    "DE"
+   ],
+   "trend": [],
+   "newest": "2026-11-08T06:30:07+00:00",
+   "articles": [
+    {
+     "source": "ORF",
+     "region": "AT",
+     "weight": 0.95,
+     "title": "Ukraine: Weitere personelle Konsequenzen bei Geheimdienst",
+     "summary": "",
+     "link": "https://orf.at/stories/3447545/",
+     "image": null,
+     "aggregator": false,
+     "published": "2026-11-07T17:19:47+00:00"
+    },
+    {
+     "source": "SRF News",
+     "region": "CH",
+     "weight": 0.95,
+     "title": "Krieg in der Ukraine – Selenski kündigt neue personelle Konsequenzen bei Geheimdienst an",
+     "summary": "Selenski hat angekündigt, weitere Beamte aus dem Geheimdienst wegen eines umfassenden Korruptionsskandals zu entlassen.",
+     "link": "https://www.srf.ch/news/international/ukraine/krieg-in-der-ukraine-selenski-kuendigt-neue-personelle-konsequenzen-bei-geheimdienst-an",
+     "image": "https://www.srf.ch/static/cms/images//320ws/c111f0.webp",
+     "aggregator": false,
+     "published": "2026-11-07T16:31:38+00:00"
+    },
+    {
+     "source": "WELT",
+     "region": "DE",
+     "weight": 0.8,
+     "title": "Selenskyj kündigt weitere Entlassungen bei Geheimdienst SBU an",
+     "summary": "Der ukrainische Präsident Selenskyj kündigt nach einem Korruptionsskandal weitere personelle Konsequenzen beim Inlandsgeheimdienst SBU an. Es habe bereits Entlassungen gegeben, weitere Personalentscheidungen würden folgen, so Selenskyj.",
+     "link": "https://www.welt.de/politik/ausland/video6af01252a389bc337cfc9a32/ukraine-selenskyj-kuendigt-weitere-entlassungen-bei-geheimdienst-sbu-an.html",
+     "image": "https://images.welt.de/6af01252a389bc337cfc9a32/4f81d7a4bb46d676acb651cf68f653c2/ci16x9-w1200/2026-11-04t170652z-756417216-rc2ggoaaq05k-rtrmadp-3-ukraine-crisis-spain-jpg",
+     "aggregator": false,
+     "published": "2026-11-08T06:30:07+00:00"
+    }
+   ]
+  },
+  {
+   "id": 13,
+   "score": 8.2,
+   "outlets": [
+    "ZDFheute",
+    "SPIEGEL",
+    "Süddeutsche",
+    "n-tv"
+   ],
+   "regions": [
+    "DE"
+   ],
+   "trend": [],
+   "newest": "2026-11-07T22:21:00+00:00",
+   "articles": [
+    {
+     "source": "ZDFheute",
+     "region": "DE",
+     "weight": 1.0,
+     "title": "Reese patzt bei Hertha-Heimkehr: Berlin gewinnt Topspiel",
+     "summary": "Hertha BSC festigt die Tabellenführung: Auch bei der Rückkehr von Ex-Kapitän Fabian Reese unterstreicht das Team von Stefan Leitl gegen Wolfsburg seine Aufstiegsambitionen.",
+     "link": "https://www.zdfheute.de/sport/fussball-bundesliga/2-bundesliga-hertha-bsc-vfl-wolfsburg-tore-ergebnis-100.html",
+     "image": "https://www.zdfheute.de/assets/hertha-bsc-vfl-wolfsburg-102~384x216?cb=1794084664684",
+     "aggregator": false,
+     "published": "2026-11-07T22:21:00+00:00"
+    },
+    {
+     "source": "SPIEGEL",
+     "region": "DE",
+     "weight": 0.9,
+     "title": "2. Bundesliga: Hertha BSC siegt gegen VfL Wolfsburg, Pfiffe für Rückkehrer Fabian Reese",
+     "summary": "Schon nach 20 Minuten waren die Gäste in Unterzahl: Wolfsburg hat in Berlin gegen Tabellenführer Hertha verloren. Fabian Reese wurde bei jedem Ballkontakt ausgepfiffen, hätte aber beinahe ein Traumtor erzielt.",
+     "link": "https://www.spiegel.de/sport/fussball/2-bundesliga-hertha-bsc-siegt-gegen-vfl-wolfsburg-pfiffe-fuer-rueckkehrer-fabian-reese-a-6bba77d5-2806-46af-83ed-1abdca962fbd#ref=rss",
+     "image": "https://cdn.prod.www.spiegel.de/images/e2687cbc-e549-40f8-9938-8b1b2d6a1326_w520_r2.08_fpx41.34_fpy50.jpg",
+     "aggregator": false,
+     "published": "2026-11-07T21:32:00+00:00"
+    },
+    {
+     "source": "Süddeutsche",
+     "region": "DE",
+     "weight": 0.9,
+     "title": "Hertha BSC in der 2. Bundesliga: Sie singen weiter das Hundert-Punkte-Lied",
+     "summary": "Hertha BSC gewinnt gegen den VfL Wolfsburg das Zweitliga-Topspiel vor mehr als 70 000 Zuschauern im Olympiastadion. Fabian Reese spielt bei seiner Rückkehr in die Hauptstadt eine entscheidende Nebenrolle.",
+     "link": "https://www.sueddeutsche.de/sport/2-liga-hertha-wolfsburg-olympiastadion-reese-li.3576816",
+     "image": "https://www.sueddeutsche.de/2026/11/07/811c5480-8306-44a2-86df-afaec616bd87.jpg?rect=224%2C0%2C3552%2C2664&width=1000&fm=jpg&q=60",
+     "aggregator": false,
+     "published": "2026-11-07T21:51:25+00:00"
+    },
+    {
+     "source": "n-tv",
+     "region": "DE",
+     "weight": 0.8,
+     "title": "Reese patzt doppelt: Hertha BSC marschiert gegen zehn bissige Wölfe weiter",
+     "summary": "Hertha BSC marschiert in der 2. Bundesliga weiter. Gegen den VfL Wolfsburg und Ex-Kapitän Fabian Reese scheint vor der Pause in Überzahl alles klar zu sein, doch die Wölfe beißen sich nochmal zurück. Am Ende wird es ein 2:1 (2:0)-Arbeitssieg für den Tabellenführer.",
+     "link": "https://www.n-tv.de/sport/fussball/2bundesliga/Hertha-BSC-marschiert-gegen-zehn-bissige-Woelfe-weiter-id31507716.html",
+     "image": "https://www.n-tv.de/img/31507730/1794090184/Img_4_3/250/image.jpg",
+     "aggregator": false,
+     "published": "2026-11-07T21:38:24+00:00"
+    }
+   ]
+  },
+  {
+   "id": 14,
+   "score": 7.83,
+   "outlets": [
+    "SRF News",
+    "DER STANDARD",
+    "Tagesspiegel"
+   ],
+   "regions": [
+    "AT",
+    "CH"
+   ],
+   "trend": [],
+   "newest": "2026-11-08T08:16:38+00:00",
+   "articles": [
+    {
+     "source": "SRF News",
+     "region": "CH",
+     "weight": 0.95,
+     "title": "Kulturnews in Kurzform – Chilenischer Regisseur Sebastián Lelio gestorben",
+     "summary": "Mit «Una mujer fantástica» gewann er einen Oscar. Nun ist der chilenische Regisseur Sebastián Lelio gestorben – mit 52.",
+     "link": "https://www.srf.ch/kultur/gesellschaft-religion/kulturnews-in-kurzform-chilenischer-regisseur-sebastian-lelio-gestorben",
+     "image": "https://www.srf.ch/static/cms/images//320ws/a3631d.webp",
+     "aggregator": false,
+     "published": "2026-11-08T08:16:38+00:00"
+    },
+    {
+     "source": "DER STANDARD",
+     "region": "AT",
+     "weight": 0.85,
+     "title": "Chilenischer Starregisseur Sebastián Lelio gestorben",
+     "summary": "Der 52-Jährige gewann 2018 den Auslandsoscar für \"Eine fantastische Frau\". Er starb in seiner Heimat Chile aus \"gesundheitlichen Gründen\"",
+     "link": "https://www.derstandard.at/story/3000000347977/chilenischer-starregisseur-sebasti225n-lelio-gestorben?ref=rss",
+     "image": "https://i.ds.at/Jcfbjw/rs:fill:150:0/plain/lido-images/2026/11/07/61da06b8-8dd3-4b08-8da6-159faf3bfc2b.jpg",
+     "aggregator": false,
+     "published": "2026-11-07T09:01:05+00:00"
+    },
+    {
+     "source": "Tagesspiegel",
+     "region": "DE",
+     "weight": 0.6,
+     "title": "Trauer um Oscar-Gewinner: Regisseur Sebastián Lelio im Alter von 52 Jahren gestorben",
+     "summary": "Trauer um Oscar-Gewinner: Regisseur Sebastián Lelio im Alter von 52 Jahren gestorben Tagesspiegel Starregisseur Sebastián Lelio mit 52 gestorben BILD Erster Auslands-Oscar für Chile - Chilenischer Oscar-Regisseur Sebastián Lelio ist gestorben Deutschlandfunk Sebastián Lelio ist tot: Chilenischer Starregisseur mit 52 Jahren gestorben Spiegel Der chilenische Regisseur und Oscar-Gewinner Sebastián Lelio ist gestorben Deutschlandfunk Kultur",
+     "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPYnlhd2JoOG1aQzFBUjlPb2VSME82QmlHVVhIV1FteHFXS25zenNPdHVtd2c3aWtldkh0NDBQT19WSWFxNGdDaElyelJuSWNlNjJiWGxPMWZKb3BqMGtFeDdvYUxBUHdQcmhMUE9wd1d1dnl5bEhFRV9JNDBySkhYNEIwc0xNTTFHQi1xbXlndFI?oc=5",
+     "image": null,
+     "aggregator": true,
+     "published": "2026-11-07T07:01:05+00:00"
+    }
+   ]
+  },
+  {
+   "id": 15,
+   "score": 7.83,
+   "outlets": [
+    "tagesschau Ausland",
+    "SPIEGEL",
+    "tagesschau.de"
+   ],
+   "regions": [
+    "DE",
+    "INT"
+   ],
+   "trend": [],
+   "newest": "2026-11-08T07:40:00+00:00",
+   "articles": [
+    {
+     "source": "tagesschau Ausland",
+     "region": "INT",
+     "weight": 1.0,
+     "title": "Parlamentswahl in Neuseeland: Regierungspartei und Labour nahezu gleichauf",
+     "summary": "Neuseeland hat ein neues Parlament gewählt. Doch angesichts eines extrem knappen Wahlausgangs könnte es bei der Frage, welche Regierung das Land künftig führt, letztlich auf die kleinen Parteien ankommen.",
+     "link": "https://www.tagesschau.de/ausland/ozeanien/neuseeland-parlamentswahl-102.html",
+     "image": "https://images.tagesschau.de/image/69dd39a9-cd4a-426a-b9a6-7022abbbfe87/AAABobZ1SjM/AAABnSSvrFg/16x9-big/neuseeland-parlamentswahl-104.jpg?width=1920",
+     "aggregator": false,
+     "published": "2026-11-07T14:41:43+00:00"
+    },
+    {
+     "source": "SPIEGEL",
+     "region": "DE",
+     "weight": 0.9,
+     "title": "Parlamentswahl in Neuseeland: Regierungspartei und Labour liegen nahezu gleichauf",
+     "summary": "In Neuseeland zeichnet sich nach der Parlamentswahl eine schwierige Regierungsbildung ab: Die konservative Regierungspartei und Labour liegen nahezu gleichauf. Noch müssen Hunderttausende Sonderstimmen ausgezählt werden.",
+     "link": "https://www.spiegel.de/ausland/parlamentswahl-in-neuseeland-regierungspartei-und-labour-liegen-nahezu-gleichauf-a-5d58b83d-0fc2-4370-9644-d5ace66c2c3e#ref=rss",
+     "image": "https://cdn.prod.www.spiegel.de/images/0d8fc49d-52f4-48ae-9f1c-ecfe9248c197_w520_r2.08_fpx50_fpy48.97.jpg",
+     "aggregator": false,
+     "published": "2026-11-08T07:40:00+00:00"
+    },
+    {
+     "source": "tagesschau.de",
+     "region": "DE",
+     "weight": 0.6,
+     "title": "Parlamentswahl in Neuseeland: Regierungspartei und Labour nahezu gleichauf",
+     "summary": "Parlamentswahl in Neuseeland: Regierungspartei und Labour nahezu gleichauf tagesschau.de Weitere Schlagzeilen und Meinungen in Google News",
+     "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPTmMtSkk2ckwtQlRmWEhZeWFOM0cxY0J3T1NEN0lWdXZCbV9MNE5GRThUeVBtRkZfLTc4TU5uQ0NrVTUzR3lHanE1QTUtb0Nhdl8xYTBRQmUzZkR1dUZ4Qjd0NXNJOHV2bUx3WTJhNllpQ3M2cHZjOVhtajMwcVIzWm53aw?oc=5",
+     "image": null,
+     "aggregator": true,
+     "published": "2026-11-07T14:41:00+00:00"
+    }
+   ]
+  },
+  {
+   "id": 16,
+   "score": 7.81,
+   "outlets": [
+    "tagesschau Inland",
+    "Süddeutsche",
+    "Handelsblatt"
+   ],
+   "regions": [
+    "DE"
+   ],
+   "trend": [],
+   "newest": "2026-11-08T04:00:13+00:00",
+   "articles": [
+    {
+     "source": "tagesschau Inland",
+     "region": "DE",
+     "weight": 1.0,
+     "title": "Ilse Aigner soll laut ARD-Informationen Bundespräsidentin werden",
+     "summary": "Sie wäre dort die erste Frau: Laut ARD-Hauptstadtstudio werden CDU und CSU Ilse Aigner als Kandidatin für das Amt der Bundespräsidentin vorschlagen. Gemeinsam mit der SPD hätten sie in der Bundesversammlung eine Mehrheit.",
+     "link": "https://www.tagesschau.de/inland/innenpolitik/cdu-csu-aigner-bundespraesidentin-100.html",
+     "image": "https://images.tagesschau.de/image/9aea46e7-124f-4c55-8c85-5a3c827109f2/AAABobF9tAA/AAABnSSvrFg/16x9-big/ilse-aigner-298.jpg?width=1920",
+     "aggregator": false,
+     "published": "2026-11-06T20:36:48+00:00"
+    },
+    {
+     "source": "Süddeutsche",
+     "region": "DE",
+     "weight": 0.9,
+     "title": "Reaktionen: „Ilse Aigner schätzen wir“",
+     "summary": "Sowohl Grüne als auch die SPD signalisieren ihre Unterstützung für die Kandidatur der CSU-Politikerin für das Amt der Bundespräsidentin. Die Linke kritisiert das Zustandekommen ihrer möglichen Aufstellung.",
+     "link": "https://www.sueddeutsche.de/politik/ilse-aigner-bundespraesidentin-gruene-spd-linke-reaktionen-li.3575672",
+     "image": "https://www.sueddeutsche.de/2026/11/06/d01dedee-18ef-49a0-96a3-f2ff05a9d079.jpg?rect=288%2C0%2C3424%2C2568&width=1000&fm=jpg&q=60",
+     "aggregator": false,
+     "published": "2026-11-06T21:43:24+00:00"
+    },
+    {
+     "source": "Handelsblatt",
+     "region": "DE",
+     "weight": 0.9,
+     "title": "Aigner vor der Nominierung: Was die Entscheidung in der P-Frage bedeutet",
+     "summary": "Die CSU hat sich schon lange auf Ilse Aigner als nächste Bundespräsidentin festgelegt. Die SPD hat ihre Unterstützung zugesichert. Jetzt fehlt noch das offizielle Votum der CDU.",
+     "link": "https://www.handelsblatt.com/politik/deutschland/aigner-vor-der-nominierung-was-die-entscheidung-in-der-p-frage-bedeutet/100268162.html",
+     "image": "https://images.handelsblatt.com/E68njxO3cAxA/cover/900/506/0/0/131/131/0.5/0.5/merz-und-soeder.jpg",
+     "aggregator": false,
+     "published": "2026-11-08T04:00:13+00:00"
+    },
+    {
+     "source": "Handelsblatt",
+     "region": "DE",
+     "weight": 0.9,
+     "title": "Bundespräsidentenwahl: Ungekürte Kandidatin Ilse Aigner - Kritik an Kanzler Merz",
+     "summary": "Während die Zustimmung zu Ilse Aigner als neue Bundespräsidentin stieg und stieg, hat der Kanzler immer weiter geschwiegen. Kritik kontert Merz mit einem Hinweis auf das vereinbarte Verfahren.",
+     "link": "https://www.handelsblatt.com/politik/deutschland/bundespraesidentenwahl-ungekuerte-kandidatin-ilse-aigner-kritik-an-kanzler-merz/100268048.html",
+     "image": "https://images.handelsblatt.com/NcEvKE-UEzPg/cover/900/506/0/0/136/135/0.5/0.5/ilse-aigner.jpg",
+     "aggregator": false,
+     "published": "2026-11-07T15:14:08+00:00"
+    },
+    {
+     "source": "Handelsblatt",
+     "region": "DE",
+     "weight": 0.9,
+     "title": "Bundespräsidentenwahl: Die „Nachbarin von nebenan“ - Besuch in Aigners Heimatort",
+     "summary": "Ilse Aigner soll als Kandidatin für das Amt des Staatsoberhaupts nominiert werden. In ihrem Heimatort ist die Freude groß. Was die Menschen dort an ihr schätzen.",
+     "link": "https://www.handelsblatt.com/politik/deutschland/bundespraesidentenwahl-die-nachbarin-von-nebenan-besuch-in-aigners-heimatort/100268104.html",
+     "image": "https://images.handelsblatt.com/Rany5vw8g8A9/cover/900/506/0/0/84/83/0.5/0.5/feldkirchen-westerham-heimat-von-ilse-aigner.jpg",
+     "aggregator": false,
+     "published": "2026-11-07T13:45:22+00:00"
+    }
+   ]
+  },
+  {
+   "id": 17,
+   "score": 7.72,
+   "outlets": [
+    "tagesschau",
+    "Deutschlandfunk"
+   ],
+   "regions": [
+    "DE",
+    "INT"
+   ],
+   "trend": [],
+   "newest": "2026-11-08T08:51:14+00:00",
+   "articles": [
+    {
+     "source": "tagesschau",
+     "region": "DE",
+     "weight": 1.0,
+     "title": "US-Militär greift Handelsschiff im Golf von Oman an",
+     "summary": "US-Militär greift Handelsschiff im Golf von Oman an",
+     "link": "https://www.tagesschau.de/video/video-1680114.html",
+     "image": "https://images.tagesschau.de/image/f25dac1b-f2fa-449c-9ef8-048d9c83dc35/AAABobmjZdk/AAABnSSvrFg/16x9-big/sendungsbild-1824232.jpg?width=1920",
+     "aggregator": false,
+     "published": "2026-11-08T05:31:02+00:00"
+    },
+    {
+     "source": "tagesschau",
+     "region": "DE",
+     "weight": 1.0,
+     "title": "US-Militär attackiert Handelsschiff im Golf von Oman",
+     "summary": "Im Golf von Oman hat das US-Militär auf ein Handelsschiff gefeuert, dass gegen die von den USA aufrecht erhaltene Seeblockade verstoßen haben soll. Iran meldet unterdessen, dass zwei Frachter in der Straße von Hormus in Brand geraten seien.",
+     "link": "https://www.tagesschau.de/ausland/asien/usa-iran-seeblockade-angriff-handelsschiff-100.html",
+     "image": "https://images.tagesschau.de/image/2ac8994a-5ea1-4474-abc0-16b6fb5d6b79/AAABnKpubcc/AAABnSSvrFg/16x9-big/strasse-von-hormus-104.jpg?width=1920",
+     "aggregator": false,
+     "published": "2026-11-08T06:01:58+00:00"
+    },
+    {
+     "source": "tagesschau Ausland",
+     "region": "INT",
+     "weight": 1.0,
+     "title": "US-Militär attackiert Handelsschiff im Golf von Oman",
+     "summary": "Im Golf von Oman hat das US-Militär auf ein Handelsschiff gefeuert, dass gegen die von den USA aufrecht erhaltene Seeblockade verstoßen haben soll. Iran meldet unterdessen, dass zwei Frachter in der Straße von Hormus in Brand geraten seien.",
+     "link": "https://www.tagesschau.de/ausland/asien/usa-iran-seeblockade-angriff-handelsschiff-100.html",
+     "image": "https://images.tagesschau.de/image/2ac8994a-5ea1-4474-abc0-16b6fb5d6b79/AAABnKpubcc/AAABnSSvrFg/16x9-big/strasse-von-hormus-104.jpg?width=1920",
+     "aggregator": false,
+     "published": "2026-11-08T06:01:58+00:00"
+    },
+    {
+     "source": "Deutschlandfunk",
+     "region": "DE",
+     "weight": 0.95,
+     "title": "Golf von Oman - US-Militär beschießt Handelsschiff",
+     "summary": "Das US-Militär hat im Golf von Oman auf ein Handelsschiff geschossen und es außer Gefecht gesetzt.",
+     "link": "https://www.deutschlandfunk.de/us-militaer-beschiesst-handelsschiff-104.html",
+     "image": "https://bilder.deutschlandfunk.de/FI/LE/_d/50/FILE_d50214fa697aaa664daf2b696fde5308/dlf-die-nachrichten-header-2000x1125px2-jpg-102-768x768.jpg",
+     "aggregator": false,
+     "published": "2026-11-08T08:51:14+00:00"
+    }
+   ]
+  },
+  {
+   "id": 18,
+   "score": 7.72,
+   "outlets": [
+    "tagesschau",
+    "Deutschlandfunk"
+   ],
+   "regions": [
+    "DE"
+   ],
+   "trend": [],
+   "newest": "2026-11-08T08:51:14+00:00",
+   "articles": [
+    {
+     "source": "tagesschau",
+     "region": "DE",
+     "weight": 1.0,
+     "title": "Pistorius rechnet derzeit nicht mit Rückkehr zur Wehrpflicht",
+     "summary": "Die Wiedereinführung der Wehrpflicht scheint zum jetzigen Zeitpunkt offenbar nicht nötig. Verteidigungsminister Pistorius berichtet von einer positiven Entwicklung beim Bundeswehrpersonal - Spitzenvertreter der Union sehen das anders.",
+     "link": "https://www.tagesschau.de/inland/innenpolitik/bundeswehr-diskussion-wehrpflicht-100.html",
+     "image": "https://images.tagesschau.de/image/bb9ce348-9f2a-41b0-80cb-98f103d36a67/AAABnmguNt8/AAABnSSvrFg/16x9-big/pistorius-606.jpg?width=1920",
+     "aggregator": false,
+     "published": "2026-11-07T14:45:52+00:00"
+    },
+    {
+     "source": "tagesschau Inland",
+     "region": "DE",
+     "weight": 1.0,
+     "title": "Pistorius rechnet derzeit nicht mit Rückkehr zur Wehrpflicht",
+     "summary": "Die Wiedereinführung der Wehrpflicht scheint zum jetzigen Zeitpunkt offenbar nicht nötig. Verteidigungsminister Pistorius berichtet von einer positiven Entwicklung beim Bundeswehrpersonal - Spitzenvertreter der Union sehen das anders.",
+     "link": "https://www.tagesschau.de/inland/innenpolitik/bundeswehr-diskussion-wehrpflicht-100.html",
+     "image": "https://images.tagesschau.de/image/bb9ce348-9f2a-41b0-80cb-98f103d36a67/AAABnmguNt8/AAABnSSvrFg/16x9-big/pistorius-606.jpg?width=1920",
+     "aggregator": false,
+     "published": "2026-11-07T14:45:52+00:00"
+    },
+    {
+     "source": "Deutschlandfunk",
+     "region": "DE",
+     "weight": 0.95,
+     "title": "Interview der Woche - Pistorius sieht Personalplanung der Bundeswehr auf gutem Weg - erstmal keine Wehrpflicht nötig",
+     "summary": "Die Personalplanung der Bundeswehr ist nach den Worten von Verteidigungsminister Pistorius auf einem guten Weg. Zur Zeit ist eine Wiedereinführung der Wehrpflicht demnach nicht nötig. Pistorius sagte im Interview der Woche des Deutschlandfunks, die Vorgabe des Wehrdienstmodernisierungsgesetzes werde überschritten.",
+     "link": "https://www.deutschlandfunk.de/pistorius-sieht-personalplanung-der-bundeswehr-auf-gutem-weg-erstmal-keine-wehrpflicht-noetig-102.html",
+     "image": "https://bilder.deutschlandfunk.de/11/fc/12/a6/11fc12a6-d014-435f-bbfa-cb04448ef273/boris-pistorius-verteidigungsminister-106-1920x1920.jpg",
+     "aggregator": false,
+     "published": "2026-11-08T08:51:14+00:00"
+    }
+   ]
+  },
+  {
+   "id": 19,
+   "score": 7.72,
+   "outlets": [
+    "tagesschau",
+    "Deutschlandfunk"
+   ],
+   "regions": [
+    "DE",
+    "INT"
+   ],
+   "trend": [],
+   "newest": "2026-11-08T08:51:14+00:00",
+   "articles": [
+    {
+     "source": "tagesschau",
+     "region": "DE",
+     "weight": 1.0,
+     "title": "Schwere Schäden nach Raketenangriffen auf Kiew",
+     "summary": "Russland hat kurz vor Wintereinbruch erneut die ukrainische Strom- und Wasserversorgung angegriffen. In einigen Teilen des Landes fiel der Strom aus. Präsident Selenskyj und Kiews Bürgermeister Klitschko streiten über die Verteidigung.",
+     "link": "https://www.tagesschau.de/ausland/ukraine-angriffe-kiew-138.html",
+     "image": "https://images.tagesschau.de/image/5c28c4b2-5237-4160-9e05-4876625a031a/AAABobTGlpg/AAABnSSvrFg/16x9-big/ukraine-angriffe-216.jpg?width=1920",
+     "aggregator": false,
+     "published": "2026-11-07T12:13:38+00:00"
+    },
+    {
+     "source": "tagesschau Ausland",
+     "region": "INT",
+     "weight": 1.0,
+     "title": "Schwere Schäden nach Raketenangriffen auf Kiew",
+     "summary": "Russland hat kurz vor Wintereinbruch erneut die ukrainische Strom- und Wasserversorgung angegriffen. In einigen Teilen des Landes fiel der Strom aus. Präsident Selenskyj und Kiews Bürgermeister Klitschko streiten über die Verteidigung.",
+     "link": "https://www.tagesschau.de/ausland/ukraine-angriffe-kiew-138.html",
+     "image": "https://images.tagesschau.de/image/5c28c4b2-5237-4160-9e05-4876625a031a/AAABobTGlpg/AAABnSSvrFg/16x9-big/ukraine-angriffe-216.jpg?width=1920",
+     "aggregator": false,
+     "published": "2026-11-07T12:13:38+00:00"
+    },
+    {
+     "source": "Deutschlandfunk",
+     "region": "DE",
+     "weight": 0.95,
+     "title": "Ukraine-Krieg - Erneut russischer Angriff auf ukrainische Energieversorgung - 600.000 Menschen ohne Strom",
+     "summary": "Nach einem erneuten russischen ⁠Angriff auf die Energieversorgung in der Ukraine ⁠sind ⁠laut den Behörden ⁠mehr als ⁠600.000 ‌Menschen im Osten des Landes ohne ​Strom.",
+     "link": "https://www.deutschlandfunk.de/erneut-russischer-angriff-auf-ukrainische-energieversorgung-600-000-menschen-ohne-strom-100.html",
+     "image": "https://bilder.deutschlandfunk.de/FI/LE/_a/ff/FILE_aff697a699e6065a48f1df4eff60df8b/dlf-die-nachrichten-header-2000x1125px-jpg-104-768x768.jpg",
+     "aggregator": false,
+     "published": "2026-11-08T08:51:14+00:00"
+    }
+   ]
+  },
+  {
+   "id": 20,
+   "score": 7.72,
+   "outlets": [
+    "tagesschau Ausland",
+    "Deutschlandfunk"
+   ],
+   "regions": [
+    "DE",
+    "INT"
+   ],
+   "trend": [],
+   "newest": "2026-11-08T08:51:14+00:00",
+   "articles": [
+    {
+     "source": "tagesschau Ausland",
+     "region": "INT",
+     "weight": 1.0,
+     "title": "Tote nach Angriff auf Flughafen in Saudi-Arabien",
+     "summary": "Immer wieder greifen die Huthi aus dem Jemen zivile Ziele in Saudi-Arabien an. Nun werden Verletzte und zwei Todesopfer nach einer Attacke auf den Flughafen in Dammam gemeldet. Die USA kündigten an, diplomatisches Personal abzuziehen.",
+     "link": "https://www.tagesschau.de/ausland/asien/flughafen-saudi-arabien-100.html",
+     "image": "https://images.tagesschau.de/image/84661b8c-9262-4ae5-9601-43b028a06700/AAABoWIxz4Q/AAABnSSvrFg/16x9-big/flughafen-dammam-100.jpg?width=1920",
+     "aggregator": false,
+     "published": "2026-10-22T07:50:35+00:00"
+    },
+    {
+     "source": "Deutschlandfunk",
+     "region": "DE",
+     "weight": 0.95,
+     "title": "Pro-iranische Miliz - Huthis melden 27 Tote und 36 Verletzte nach Luftangriffen auf Dorf im Jemen",
+     "summary": "Die Huthi-Miliz wirft der von Saudi-Arabien geführten Militärkoalition vor, im benachbarten Jemen zahlreiche Zivilisten getötet oder verletzt zu haben.",
+     "link": "https://www.deutschlandfunk.de/huthis-melden-27-tote-und-36-verletzte-nach-luftangriffen-auf-dorf-im-jemen-104.html",
+     "image": "https://bilder.deutschlandfunk.de/NO/VA/_9/9c/NOVA_99ce0542fcefd97ec7ac3d392cb274f9/craft-13474212-asset-100-1920x1920.jpg",
+     "aggregator": false,
+     "published": "2026-11-08T08:51:14+00:00"
+    }
+   ]
+  },
+  {
+   "id": 21,
+   "score": 7.65,
+   "outlets": [
+    "tagesschau",
+    "ZEIT ONLINE"
+   ],
+   "regions": [
+    "DE"
+   ],
+   "trend": [],
+   "newest": "2026-11-08T08:55:58+00:00",
+   "articles": [
+    {
+     "source": "tagesschau",
+     "region": "DE",
+     "weight": 1.0,
+     "title": "Wetter Deutschland: Wolken, Temperaturen, Wind und Aussichten",
+     "summary": "Heute viele Wolken, Hochnebel oder Nebel und daraus stellenweise etwas Regen, meist aber trocken. Hier und da Auflockerungen, am meisten Sonnenschein im Osten und Südwesten.",
+     "link": "https://www.tagesschau.de/wetter/deutschland/wettervorhersage-deutschland-100.html",
+     "image": "https://images.tagesschau.de/image/e7904a01-0786-494a-996d-b1dfd43b3049/AAABobosTWo/AAABnSSvrFg/16x9-big/teaserbild-124.jpg?width=1920",
+     "aggregator": false,
+     "published": "2026-11-08T08:00:28+00:00"
+    },
+    {
+     "source": "ZEIT ONLINE",
+     "region": "DE",
+     "weight": 0.9,
+     "title": "Wetter: Nebel, dann Regen: So wird das Wetter in der neuen Woche",
+     "summary": "",
+     "link": "https://www.zeit.de/news/2026-11/08/nebel-dann-regen-so-wird-das-wetter-in-der-neuen-woche",
+     "image": "https://img.zeit.de/news/2026-11/08/nebel-dann-regen-so-wird-das-wetter-in-der-neuen-woche-image-group/original__640x360",
+     "aggregator": false,
+     "published": "2026-11-08T08:55:58+00:00"
+    }
+   ]
+  },
+  {
+   "id": 22,
+   "score": 7.64,
+   "outlets": [
+    "SRF News",
+    "NZZ"
+   ],
+   "regions": [
+    "CH"
+   ],
+   "trend": [],
+   "newest": "2026-11-08T09:12:03+00:00",
+   "articles": [
+    {
+     "source": "SRF News",
+     "region": "CH",
+     "weight": 0.95,
+     "title": "SIHF bezieht Position – U20-Eishockeynati tritt an WM nicht gegen Russland an",
+     "summary": "An der U20-WM in Kanada Ende Jahr wird die Schweiz nicht gegen Russland antreten. Das beschloss Swiss Ice Hockey.",
+     "link": "https://www.srf.ch/sport/eishockey/eishockey-allgemein/sihf-bezieht-position-u20-eishockeynati-tritt-an-wm-nicht-gegen-russland-an",
+     "image": "https://www.srf.ch/static/cms/images//320ws/adb79d.webp",
+     "aggregator": false,
+     "published": "2026-11-07T19:25:30+00:00"
+    },
+    {
+     "source": "NZZ",
+     "region": "CH",
+     "weight": 0.9,
+     "title": "Swiss Ice Hockey positioniert sich in der Russland-Causa doch noch – und hantiert mit Gratismut",
+     "summary": "Die Schweizer U-20-Nationalmannschaft werde an der WM nicht gegen Russland antreten, schreibt der Eishockeyverband am Samstagabend. Es ist ein spätes Bekenntnis.",
+     "link": "https://www.nzz.ch/sport/eishockey/swiss-ice-hockey-reagiert-spaet-kein-duell-gegen-russland-bei-u-20-wm-ld.10057624",
+     "image": "https://img-msp-prod.nzz.ch/2026/09/17/6e853844-1ede-41b3-b03a-020d69519d5b.jpg?width=200&height=200&fit=bounds&quality=75&auto=webp&crop=3125,3125,x781,y0",
+     "aggregator": false,
+     "published": "2026-11-08T09:12:03+00:00"
+    }
+   ]
+  },
+  {
+   "id": 23,
+   "score": 7.62,
+   "outlets": [
+    "Deutsche Welle",
+    "Deutschlandfunk"
+   ],
+   "regions": [
+    "DE",
+    "INT"
+   ],
+   "trend": [],
+   "newest": "2026-11-08T08:51:14+00:00",
+   "articles": [
+    {
+     "source": "Deutsche Welle",
+     "region": "INT",
+     "weight": 0.95,
+     "title": "Bankenskandal in Paraguay: Ex-Präsident Peña muss in Untersuchungshaft",
+     "summary": "Mutmaßlicher Finanzbetrug, gefährdete öffentliche Gelder und Millionen betroffene Kunden: Der Zusammenbruch der Ueno-Bank stürzt Paraguay in eine schwere Krise. Ex-Präsident Santiago Peña muss nun in U-Haft.",
+     "link": "https://www.dw.com/de/bankenskandal-in-paraguay-ex-präsident-peña-muss-in-untersuchungshaft/a-79874532?maca=de-rss-de-all-1119-xml-mrss",
+     "image": "https://static.dw.com/image/79870876_302.jpg",
+     "aggregator": false,
+     "published": "2026-11-08T05:54:00+00:00"
+    },
+    {
+     "source": "Deutschlandfunk",
+     "region": "DE",
+     "weight": 0.95,
+     "title": "Skandal um Ueno-Bank - Staatsanwaltschaft in Paraguay erhebt Anklage - abgesetzter Präsident Peña in Untersuchungshaft",
+     "summary": "In Paraguay hat die Staatsanwaltschaft Anklage gegen den abgesetzten Präsidenten Peña erhoben.",
+     "link": "https://www.deutschlandfunk.de/staatsanwaltschaft-in-paraguay-erhebt-anklage-abgesetzter-praesident-pe-a-in-untersuchungshaft-102.html",
+     "image": "https://bilder.deutschlandfunk.de/b8/ef/5a/a7/b8ef5aa7-27df-49af-b039-14b70977a105/paraguay-santiago-pena-ruecktritt-praesident-100-1920x1920.jpg",
+     "aggregator": false,
+     "published": "2026-11-08T08:51:14+00:00"
+    }
+   ]
+  },
+  {
+   "id": 24,
+   "score": 7.51,
+   "outlets": [
+    "ZEIT ONLINE",
+    "Handelsblatt"
+   ],
+   "regions": [
+    "DE"
+   ],
+   "trend": [],
+   "newest": "2026-11-08T09:06:47+00:00",
+   "articles": [
+    {
+     "source": "ZEIT ONLINE",
+     "region": "DE",
+     "weight": 0.9,
+     "title": "Regierungsbildung in Berlin: Linke Emde weist Rückzugsforderung des Vorstands zurück",
+     "summary": "",
+     "link": "https://www.zeit.de/news/2026-11/08/linke-emde-weist-rueckzugsforderung-des-vorstands-zurueck",
+     "image": "https://img.zeit.de/news/2026-11/08/linke-emde-weist-rueckzugsforderung-des-vorstands-zurueck-image-group/original__640x360",
+     "aggregator": false,
+     "published": "2026-11-08T09:06:47+00:00"
+    },
+    {
+     "source": "Handelsblatt",
+     "region": "DE",
+     "weight": 0.9,
+     "title": "Regierungsbildung in Berlin: Linke Emde weist Rückzugsforderung des Vorstands zurück",
+     "summary": "Die Berliner Linke-Abgeordnete Vanessa Emde soll ihr Mandat im Berliner Abgeordnetenhaus zurückgeben, so fordert es der Landesvorstand. Jetzt äußert sich Emde dazu - mit einer klaren Antwort.",
+     "link": "https://www.handelsblatt.com/politik/deutschland/regierungsbildung-in-berlin-linke-emde-weist-rueckzugsforderung-des-vorstands-zurueck/100268192.html",
+     "image": "https://images.handelsblatt.com/AIhbSynajLAt/cover/900/506/0/0/126/126/0.5/0.5/vanessa-emde-will-ihr-mandat-weiter-ausueben.jpg",
+     "aggregator": false,
+     "published": "2026-11-08T09:06:47+00:00"
+    }
+   ]
+  },
+  {
+   "id": 25,
+   "score": 7.45,
+   "outlets": [
+    "ZDFheute",
+    "SPIEGEL"
+   ],
+   "regions": [
+    "DE"
+   ],
+   "trend": [],
+   "newest": "2026-11-08T08:20:00+00:00",
+   "articles": [
+    {
+     "source": "ZDFheute",
+     "region": "DE",
+     "weight": 1.0,
+     "title": "Trump will \"gewalttätigen Kämpfer\" als Pressesprecher",
+     "summary": "US-Präsident Donald Trump hätte gerne den Chef des Kampfsportverbands UFC als nächsten Pressesprecher. Dana White will es sich überlegen.",
+     "link": "https://www.zdfheute.de/politik/ausland/trump-dana-white-pressesprecher-100.html",
+     "image": "https://www.zdfheute.de/assets/dana-white-trump-100-100~384x216?cb=1794122415791",
+     "aggregator": false,
+     "published": "2026-11-08T08:20:00+00:00"
+    },
+    {
+     "source": "SPIEGEL",
+     "region": "DE",
+     "weight": 0.9,
+     "title": "Donald Trump bietet UFC-Chef Dana White Job als Sprecher an – der will nach Washington reisen",
+     "summary": "Der bekennende Käfigkampf-Fan Donald Trump möchte Sportveranstalter Dana White zu seinem Pressesprecher machen: »Bitte nimm den Job an!« Der UFC-Chef spielt schon mal mit der Idee.",
+     "link": "https://www.spiegel.de/ausland/trump-bietet-ufc-chef-dana-white-job-als-pressesprecher-an-a-3fcc68a9-735c-4f0e-ace7-82130710182a#ref=rss",
+     "image": "https://cdn.prod.www.spiegel.de/images/9be14bf1-b298-4375-8ecf-dfebc474c7c7_w520_r2.08_fpx52.66_fpy44.99.jpg",
+     "aggregator": false,
+     "published": "2026-11-08T03:32:00+00:00"
+    }
+   ]
+  },
+  {
+   "id": 26,
+   "score": 7.43,
+   "outlets": [
+    "ZDFheute",
+    "n-tv"
+   ],
+   "regions": [
+    "DE"
+   ],
+   "trend": [],
+   "newest": "2026-11-08T08:53:12+00:00",
+   "articles": [
+    {
+     "source": "ZDFheute",
+     "region": "DE",
+     "weight": 1.0,
+     "title": "Was von der Weltklimakonferenz zu erwarten ist",
+     "summary": "In Antalya beginnt am Montag die 31. UN-Klimakonferenz. Vertrauensfragen, Kritik und die größten Streitpunkte - die wichtigsten Fragen und Antworten zur COP31.",
+     "link": "https://www.zdfheute.de/politik/ausland/klimakonferenz-tuerkei-cop31-politik-klimawandel-antalya-100.html",
+     "image": "https://www.zdfheute.de/assets/klimakonferenz-cop31-haupteingang-politik-klimawandel-100~384x216?cb=1793997253767",
+     "aggregator": false,
+     "published": "2026-11-08T07:36:00+00:00"
+    },
+    {
+     "source": "n-tv",
+     "region": "DE",
+     "weight": 0.8,
+     "title": "Kohlestrom ohne Ausstiegsplan: Türken machen vor Weltklimagipfel mobil gegen \"Grube der Hölle\"",
+     "summary": "Am Montag beginnt in Antalya die 31. Weltklimakonferenz. Die Türkei möchte sich mit einer Kampagne zum Ausbau erneuerbarer Energien von ihrer besten Seite zeigen. Doch Kohle macht noch immer den größten Anteil an der Stromerzeugung aus - mehr als in jedem anderen europäischen Land.",
+     "link": "https://www.n-tv.de/politik/Tuerken-machen-vor-Weltklimagipfel-mobil-gegen-Grube-der-Hoelle-id31508042.html",
+     "image": "https://www.n-tv.de/img/31508065/1794120111/Img_4_3/250/AFP__20261105__D6KN8KE__v1__HighRes__TurkeyEnviromentClimateCoalEnergy.jpg",
+     "aggregator": false,
+     "published": "2026-11-08T08:53:12+00:00"
+    }
+   ]
+  },
+  {
+   "id": 27,
+   "score": 7.11,
+   "outlets": [
+    "DER STANDARD",
+    "Golem"
+   ],
+   "regions": [
+    "AT",
+    "DE"
+   ],
+   "trend": [],
+   "newest": "2026-11-08T09:06:34+00:00",
+   "articles": [
+    {
+     "source": "DER STANDARD",
+     "region": "AT",
+     "weight": 0.85,
+     "title": "Elektrisches Hypercar von BYD durchbricht die 500-km/h-Grenze",
+     "summary": "In Abu Dhabi stellt der Yangwang U9 Xtreme gleich zwei neue Rekorde auf",
+     "link": "https://www.derstandard.at/story/3000000348057/elektrisches-hypercar-von-byd-durchbricht-die-500-kmh-grenze?ref=rss",
+     "image": "https://i.ds.at/CCHx6Q/rs:fill:150:0/plain/lido-images/2026/11/08/c44a0ee4-85d0-44db-945d-24c31514696c.jpg",
+     "aggregator": false,
+     "published": "2026-11-08T09:06:34+00:00"
+    },
+    {
+     "source": "Golem",
+     "region": "DE",
+     "weight": 0.75,
+     "title": "Elektroauto: Yangwang U9 Xtreme durchbricht die 500-km/h-Grenze",
+     "summary": "Das elektrische Hypercar von Yangwang U9 Xtreme hat in Abu Dhabi 503,17 km/h erreicht. Die FIA hat den Wert offiziell anerkannt. ( BYD , Elektroauto )",
+     "link": "https://www.golem.de/news/elektroauto-yangwang-u9-xtreme-durchbricht-die-500-km-h-grenze-2611-214962.html",
+     "image": "https://cpx.golem.de/cpx.php?class=17&amp;aid=214962&amp;page=1&amp;ts=1794054422",
+     "aggregator": false,
+     "published": "2026-11-07T12:27:02+00:00"
+    }
+   ]
+  }
+ ]
+}
