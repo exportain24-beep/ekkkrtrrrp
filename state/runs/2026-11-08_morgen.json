@@ -1,0 +1,40 @@
+{
+ "date": "2026-11-08",
+ "slot": "morgen",
+ "publish_at": "2026-11-08T06:00:00+00:00",
+ "title": "Eisenkot soll Israel regieren: Endet jetzt die Ära Netanjahu?",
+ "duration": 48.9,
+ "stories": [
+  {
+   "headline": "Eisenkot soll Israel regieren",
+   "region": "INT",
+   "pillar": "WELT"
+  },
+  {
+   "headline": "CDU entscheidet heute über Aigner",
+   "region": "DE",
+   "pillar": "POLITIK"
+  },
+  {
+   "headline": "Frankreich: 146.000 gegen Regierung",
+   "region": "EU",
+   "pillar": "POLITIK"
+  },
+  {
+   "headline": "KI-Chips: Elektronik wird teurer",
+   "region": "DE",
+   "pillar": "WIRTSCHAFT"
+  }
+ ],
+ "comment": {
+  "text": "Schafft Gadi Eisenkot eine Regierung ohne Netanjahu – ja oder nein?",
+  "done": false
+ },
+ "youtube_id": "8p_Yiqga4Y8",
+ "facebook_id": "1122231820711802",
+ "buffer": {
+  "twitter": "6aeffaa451492b796e18569b",
+  "tiktok": "6aeffaa5562f2e6de9991ac9"
+ },
+ "created": "2026-11-08T04:29:25.390515+00:00"
+}
