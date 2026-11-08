@@ -66,3 +66,10 @@ Die neun News-Desk-Aufgaben lesen vor jeder Ausgabe `brief.md` und `learnings.md
 | Ø Views/Short (48 h) | ~500 | 1.000 | 3.000 | 10.000 |
 | Abos gesamt | 14 | 150 | 1.000 | 10.000 |
 | Abo pro 1.000 Views | 0,8 | 2 | 3 | 5 |
+
+## Entscheidungsrechte (Inhaber, 8. Nov 2026)
+Claude ist alleiniger Entscheider für Wachstum: Content-Strategie, Formate, Längen, Themen, Slot-Zeiten.
+- Täglich (Nacht-Analyse B): passt Growth rules im EDITOR_GUIDE an, sobald ≥3 Videos dasselbe zeigen.
+- Wöchentlich (Review C): darf Format, Fokus, Länge und **Uhrzeit** jedes Slots ändern und verschiebt dann die passende News-Desk-Aufgabe mit.
+- Unverhandelbar (Schutz vor Strikes/Demonetarisierung): verifizierte Fakten (≥2 Quellen), keine irreführenden Titel/Thumbnails,
+  keine Hetze/Gerüchte/Gewaltbilder, keine Herkunfts-Zuspitzung, neutrale Politik, KI-Kennzeichnung bleibt an.
