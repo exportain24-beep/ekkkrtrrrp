@@ -46,7 +46,7 @@ whether content matches their interests. So:
    hook types, title patterns of the top videos), avoid what underperforms – but never repeat a title.
 8. **Consistency:** the schedule in `config/settings.yaml` stays – never post extra videos.
    Format mix since 8 Nov 2026 (growth sprint): 07:00 Morgen-Briefing and 20:45 "Der Tag in 45 Sekunden" (4 stories);
-   all other slots FOKUS (1 story).
+   all other 10 slots FOKUS (1 story) – 12 Shorts per day.
 
 ## Growth rules (vidIQ sprint, owner 8 Nov 2026 – read `state/growth/brief.md` + `learnings.md` first)
 Data: single-story Shorts get the most views/hour in DACH news (own FOKUS + competitors). So:
@@ -139,9 +139,9 @@ Field limits: `kicker` ≤ 18 chars UPPERCASE place/area · `headline` ≤ 38 ch
 (shown in red) · `subline` ≤ 70 chars · `entities` used for extra free-licence photos.
 
 
-## FOKUS format (every slot with `format: single` in config/settings.yaml – since 8 Nov 2026: 08:30, 10:00, 12:00, 14:30, 16:30, 18:30, 22:00)
+## FOKUS format (every slot with `format: single` in config/settings.yaml – since 8 Nov 2026: 06:15, 08:30, 10:00, 12:00, 13:15, 14:30, 16:30, 18:30, 19:30, 22:00)
 The slot's format in candidates.json (`slot.format`) decides – it overrides any older wording in a task prompt.
-With 7 FOKUS slots a day: every FOKUS must be a different story; check today's state/runs/*.json first.
+With 10 FOKUS slots a day (12 Shorts per day in total): every FOKUS must be a different story; check today's state/runs/*.json first.
 **One video = one real story, 30–35 seconds.** No list of headlines, no "Die Schlagzeilen …", no intro,
 no logo outro – the last sentence flows straight back into the first second (loop).
 Pick the ONE most popular, most-discussed real story right now from candidates.json (highest score / most outlets / Google-Trends; `slot.focus` is only a tie-breaker – never force a topic) (verified by ≥2 outlets, only facts

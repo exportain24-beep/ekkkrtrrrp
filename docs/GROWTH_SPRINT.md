@@ -35,7 +35,7 @@ news 48K · **nachrichten aktuell 26K** · politik 18K · israel 17K.
 
 ## Strategie-Entscheidungen (mit Begründung)
 1. **Ein Thema schlägt vier Themen.** Alle Daten (eigene + Markt) zeigen: Einzelthema-Shorts haben die höchste Views/h.
-   → **Umgesetzt 8. Nov (Inhaber gab volle Kontrolle):** 7 FOKUS-Slots (08:30, 10:00, 12:00, 14:30, 16:30, 18:30, 22:00) +
+   → **Umgesetzt 8. Nov (Inhaber gab volle Kontrolle), 12 Shorts/Tag:** 10 FOKUS-Slots (06:15, 08:30, 10:00, 12:00, 13:15, 14:30, 16:30, 18:30, 19:30, 22:00) +
    2 Sammel-Formate: 07:00 Morgen-Briefing und 20:45 „Der Tag in 45 Sekunden“ (Tagesrückblick = Outlier-Format).
    Der Wochen-Review darf das Format je Slot datenbasiert weiter verschieben.
 2. **Titel = konkreter Aussagesatz mit Fakt** statt Erklär-Frage. „Bundeswehr-Hubschrauber können nicht schießen!“ schlägt „Was die Bundeswehr jetzt plant“.

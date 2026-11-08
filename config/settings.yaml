@@ -79,6 +79,27 @@ slots:
     focus: "Nur Tie-Breaker – immer zuerst die populärsten, meistberichteten Nachrichten. Bei Gleichstand bevorzugt: Die meistdiskutierte, überraschendste Meldung des Tages im DACH-Raum (jedes Ressort außer Sport-Ergebnissen und Promi-Klatsch), die für die Menschen hier spürbare Folgen hat."
     notify_subscribers: false
 
+  # ---- 3 more FOKUS slots (owner, 8 Nov 2026: 12 Shorts per day) – chosen for DACH Shorts peaks:
+  #      early commute, lunch break, evening prime time.
+  - id: fokus-frueh
+    format: single
+    time: "06:15"
+    label: "Fokus am Morgen"
+    focus: "Nur Tie-Breaker – immer zuerst die populärsten, meistberichteten Nachrichten. Bei Gleichstand bevorzugt: Die wichtigste Eilmeldung der Nacht, die die Menschen in Deutschland, Österreich und der Schweiz heute betrifft."
+    notify_subscribers: false
+  - id: fokus-pause
+    format: single
+    time: "13:15"
+    label: "Fokus Mittagspause"
+    focus: "Nur Tie-Breaker – immer zuerst die populärsten, meistberichteten Nachrichten. Bei Gleichstand bevorzugt: Die Nachricht, über die in der Mittagspause gesprochen wird – Alltag, Verbraucher, Verkehr, Gesundheit, Sicherheit."
+    notify_subscribers: false
+  - id: fokus-prime
+    format: single
+    time: "19:30"
+    label: "Fokus Prime Time"
+    focus: "Nur Tie-Breaker – immer zuerst die populärsten, meistberichteten Nachrichten. Bei Gleichstand bevorzugt: Die größte politische oder weltpolitische Entwicklung des Abends mit Folgen für Deutschland."
+    notify_subscribers: false
+
 build_window_minutes:
   before: 95    # a run may start up to 95 min before the slot …
   after: 45     # … or up to 45 min after it (then it publishes immediately)
