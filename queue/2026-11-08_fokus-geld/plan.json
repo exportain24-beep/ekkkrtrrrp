@@ -1,0 +1,23 @@
+{
+  "format": "single",
+  "candidate_id": 1,
+  "pillar": "WELT", "region": "INT", "kicker": "WASHINGTON",
+  "hook_screen": "UFC-BOSS ALS SPRECHER!",
+  "hook_voice": "UFC-Chef Dana White soll jetzt für Donald Trump sprechen!",
+  "beats": [
+    {"voice": "Donald Trump hat ihm auf Truth Social den Posten des Pressesprechers im Weißen Haus angeboten.", "big": "UFC", "label": "Dana White soll Trumps Sprecher werden"},
+    {"voice": "Mit ihm sollen sechs UFC-Titelträger ins Team kommen – darunter laut Berichten zwei Kämpfer aus Dagestan.", "big": "6 Champions", "label": "UFC-Kämpfer sollen White begleiten"},
+    {"voice": "White will bereits zu Gesprächen nach Washington reisen. Das Weiße Haus schweigt bislang.", "big": "Washington", "label": "White kündigt Reise zu Gesprächen an"},
+    {"voice": "Zuvor musste schon Stabschefin Susie Wiles nach dem Midterm-Debakel gehen.", "big": "Midterms", "label": "Trump baut nach Wahlschlappe um"}
+  ],
+  "loop_line": "Und genau deshalb fragen sich jetzt alle: Warum ausgerechnet ein Kampfsport-Boss?",
+  "headline": "Trump will UFC-Chef als Sprecher", "highlight": ["UFC-Chef"],
+  "entities": ["Dana White", "Donald Trump", "Weißes Haus"],
+  "youtube_title": "Dana White: Trump will den UFC-Chef als Sprecher im Weißen Haus 🥊",
+  "description_lead": "US-Präsident Donald Trump hat UFC-Chef Dana White auf Truth Social den Posten des Pressesprechers im Weißen Haus angeboten – samt sechs UFC-Champions im Team. Der Vorstoß folgt auf das Midterm-Debakel der Republikaner und den Abgang von Stabschefin Susie Wiles, Nachfolger ist Stephen Miller.",
+  "tags": ["Dana White", "Donald Trump", "UFC", "Weißes Haus", "Pressesprecher", "Susie Wiles", "Stephen Miller", "Truth Social", "Washington", "Midterms", "USA", "Republikaner", "US-Politik", "Kampfsport"],
+  "hashtags": ["#trump", "#ufc", "#usa"],
+  "facebook_caption_line1": "Trump will UFC-Chef Dana White als Sprecher des Weißen Hauses",
+  "facebook_question": "Wie bewerten Sie Trumps Idee, einen Kampfsport-Manager zum Regierungssprecher zu machen?",
+  "comment_question": "Dana White als Trumps Sprecher: ernst gemeint oder reine Show?"
+}
