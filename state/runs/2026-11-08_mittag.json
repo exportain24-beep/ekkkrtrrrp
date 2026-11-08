@@ -1,0 +1,36 @@
+{
+ "date": "2026-11-08",
+ "slot": "mittag",
+ "publish_at": "2026-11-08T11:00:00+00:00",
+ "title": "Paraguay: Erst abgesetzt, jetzt in U-Haft – Ex-Präsident Peña",
+ "duration": 49.7,
+ "stories": [
+  {
+   "headline": "Paraguay: Ex-Präsident in U-Haft",
+   "region": "INT",
+   "pillar": "WELT"
+  },
+  {
+   "headline": "Tajani prangert Hackerangriffe an",
+   "region": "EU",
+   "pillar": "TECHNOLOGIE"
+  },
+  {
+   "headline": "Schweiz: Kein Spiel gegen Russland",
+   "region": "CH",
+   "pillar": "POLITIK"
+  },
+  {
+   "headline": "Emde will ihr Mandat behalten",
+   "region": "DE",
+   "pillar": "POLITIK"
+  }
+ ],
+ "comment": {
+  "text": "Bankenskandal in Paraguay: Richtig, dass ein Ex-Präsident in U-Haft muss – ja oder nein?",
+  "done": false
+ },
+ "youtube_id": "HFNlsxXifjo",
+ "facebook_id": "3246755318858097",
+ "created": "2026-11-08T09:28:50.264866+00:00"
+}
