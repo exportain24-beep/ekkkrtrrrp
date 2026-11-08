@@ -1,0 +1,26 @@
+{
+  "format": "single",
+  "candidate_id": 15,
+  "pillar": "POLITIK",
+  "region": "DE",
+  "kicker": "MOSKAU",
+  "hook_screen": "DDR-SPION GEEHRT!",
+  "hook_voice": "Russlands Geheimdienst feiert den DDR-Spionagechef – mit einer Tafel mitten in Moskau!",
+  "beats": [
+    {"voice": "In Moskau wurde eine Gedenktafel für Markus Wolf enthüllt. Er war der frühere Chef der DDR-Auslandsspionage.", "big": "MOSKAU", "label": "Gedenktafel für Markus Wolf enthüllt"},
+    {"voice": "Hinter der Ehrung steht der heutige russische Auslandsgeheimdienst – er würdigt einen führenden Repräsentanten der DDR-Diktatur.", "big": "GEHEIMDIENST", "label": "Russlands Auslandsgeheimdienst ehrt Wolf"},
+    {"voice": "Im Westen galt Wolf lange als der legendäre „Mann ohne Gesicht“.", "big": "OHNE GESICHT", "label": "so kannte der Westen den Spionagechef"},
+    {"voice": "Zwanzig Jahre nach seinem Tod wird er nun geehrt – dabei ist die DDR seit mehr als drei Jahrzehnten Geschichte.", "big": "20 JAHRE", "label": "nach seinem Tod – jetzt die Ehrung"}
+  ],
+  "loop_line": "Und warum ehrt Moskau ausgerechnet jetzt einen deutschen Spion?",
+  "headline": "Moskau ehrt DDR-Spionagechef Wolf",
+  "highlight": ["DDR-Spionagechef"],
+  "entities": ["Markus Wolf", "Moskau", "DDR"],
+  "youtube_title": "Markus Wolf: Russlands Geheimdienst ehrt DDR-Spionagechef!",
+  "description_lead": "In Moskau erinnert jetzt eine Gedenktafel an Markus Wolf, den früheren Chef der DDR-Auslandsspionage. Der russische Auslandsgeheimdienst würdigt den „Mann ohne Gesicht“ zwanzig Jahre nach seinem Tod.",
+  "tags": ["Markus Wolf", "Moskau", "DDR", "Russland", "Geheimdienst", "DDR-Spionage", "Auslandsgeheimdienst", "Spionage", "Mann ohne Gesicht", "Stasi", "Kalter Krieg", "nachrichten", "nachrichten aktuell", "politik"],
+  "hashtags": ["#ddr", "#spionage", "#russland"],
+  "facebook_caption_line1": "Moskau ehrt DDR-Spionagechef Markus Wolf mit einer Gedenktafel",
+  "facebook_question": "Wie bewerten Sie es, dass Russlands Geheimdienst einen DDR-Spionagechef öffentlich ehrt?",
+  "comment_question": "Gedenktafel für DDR-Spionagechef Wolf in Moskau: eine Provokation gegenüber Deutschland – ja oder nein?"
+}
