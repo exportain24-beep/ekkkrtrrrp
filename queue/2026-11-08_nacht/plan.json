@@ -1,0 +1,104 @@
+{
+  "stories": [
+    {
+      "candidate_id": 0,
+      "pillar": "WELT",
+      "region": "INT",
+      "kicker": "WASHINGTON",
+      "headline": "Trump droht den Demokraten",
+      "highlight": [
+        "Trump"
+      ],
+      "voice": "Donald Trump schürt nach der Wahlniederlage seiner Republikaner Zweifel am Ergebnis. Er weist Justizminister Todd Blanche an, gegen Demokraten zu ermitteln.",
+      "subline": "Erst akzeptierte er den Sieg der Demokraten, jetzt der Gegenangriff",
+      "entities": [
+        "Donald Trump",
+        "Todd Blanche",
+        "Demokratische Partei",
+        "Weißes Haus"
+      ]
+    },
+    {
+      "candidate_id": 4,
+      "pillar": "POLITIK",
+      "region": "DE",
+      "kicker": "BERLIN",
+      "headline": "Emde will Mandat behalten",
+      "highlight": [
+        "Emde"
+      ],
+      "voice": "Vanessa Emde sagt Nein zum Rückzug. Die Berliner Linken-Abgeordnete behält ihr Mandat gegen den Willen des Landesvorstands – das belastet die Koalitionsverhandlungen.",
+      "subline": "Mögliche Partner der Linken fordern jetzt Klarheit",
+      "entities": [
+        "Vanessa Emde",
+        "Die Linke",
+        "Abgeordnetenhaus Berlin"
+      ]
+    },
+    {
+      "candidate_id": 8,
+      "pillar": "WELT",
+      "region": "EU",
+      "kicker": "ABU DHABI",
+      "headline": "Ukraine-Gespräche: Europa dabei",
+      "highlight": [
+        "Ukraine"
+      ],
+      "voice": "Abu Dhabi: Ab Dienstag wird über Frieden für die Ukraine verhandelt, Frankreich vertritt Europa. Nach russischen Angriffen sind erneut über sechshunderttausend Ukrainer ohne Strom.",
+      "subline": "Außenminister Barrot: Europa ist „gut vertreten“",
+      "entities": [
+        "Jean-Noël Barrot",
+        "Abu Dhabi",
+        "Ukraine",
+        "Atomkraftwerk Saporischschja"
+      ]
+    },
+    {
+      "candidate_id": 14,
+      "pillar": "POLITIK",
+      "region": "DE",
+      "kicker": "BUNDESPRÄSIDENT",
+      "headline": "Aigner: Union ist sich einig",
+      "highlight": [
+        "Aigner"
+      ],
+      "voice": "Ilse Aigner soll die erste Bundespräsidentin werden. Die Union ist sich jetzt einig, auch Kanzler Friedrich Merz unterstützt die CSU-Politikerin.",
+      "subline": "Bayerns Landtagspräsidentin zieht schon Bilanz auf Instagram",
+      "entities": [
+        "Ilse Aigner",
+        "Friedrich Merz",
+        "CSU",
+        "Bundespräsident"
+      ]
+    }
+  ],
+  "hook_text": "Trump droht Demokraten",
+  "hook_voice": "Trump droht Demokraten – der Tag in fünfundvierzig Sekunden.",
+  "youtube_title": "Der Tag in 45 Sekunden: Trump lässt gegen Demokraten ermitteln",
+  "description_lead": "Nach der Niederlage bei den US-Midterms schürt Donald Trump Zweifel am Wahlergebnis und lässt Justizminister Todd Blanche gegen Demokraten ermitteln. Außerdem: Vanessa Emde behält ihr Mandat in Berlin, Frankreich vertritt Europa bei den Ukraine-Gesprächen in Abu Dhabi und die Union ist sich einig über Ilse Aigner als erste Bundespräsidentin.",
+  "tags": [
+    "Donald Trump",
+    "Todd Blanche",
+    "Demokraten",
+    "US-Midterms",
+    "Vanessa Emde",
+    "Die Linke",
+    "Berlin",
+    "Abu Dhabi",
+    "Ukraine",
+    "Jean-Noël Barrot",
+    "Ilse Aigner",
+    "Friedrich Merz",
+    "Bundespräsidentin",
+    "Nachrichten aktuell",
+    "Tagesrückblick"
+  ],
+  "hashtags": [
+    "#trump",
+    "#ukraine",
+    "#aigner"
+  ],
+  "facebook_caption_line1": "Der Tag in 45 Sekunden: Trump lässt gegen Demokraten ermitteln",
+  "facebook_question": "Welche Nachricht des Tages beschäftigt Sie am meisten?",
+  "comment_question": "Wird Trump das Wahlergebnis am Ende akzeptieren – ja oder nein?"
+}
