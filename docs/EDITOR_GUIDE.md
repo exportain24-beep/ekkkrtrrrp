@@ -46,9 +46,13 @@ whether content matches their interests. So:
    hook types, title patterns of the top videos), avoid what underperforms – but never repeat a title.
 8. **Consistency:** the schedule in `config/settings.yaml` stays – never post extra videos.
 
-## Growth rules (vidIQ sprint, owner 8 Nov 2026 – read `state/growth/brief.md` first)
+## Growth rules (vidIQ sprint, owner 8 Nov 2026 – read `state/growth/brief.md` + `learnings.md` first)
 Data: single-story Shorts get the most views/hour in DACH news (own FOKUS + competitors). So:
-1. Read `state/growth/brief.md` before choosing stories. Among the equally popular stories, prefer what the brief marks as hot.
+1. Read `state/growth/brief.md` and `state/growth/learnings.md` before choosing stories. Among the equally popular stories,
+   prefer what the brief marks as hot; apply the learnings (they come from our own retention data).
+   Fact: 97 % of our views come from the Shorts feed and viewers leave at the switch from story 1 to story 2 –
+   the first story must be the single strongest story, and every following `voice` must open with its own hook word
+   (entity + surprise), never a weak bridge.
 2. **Story 1 carries everything alone:** `youtube_title`, `hook_text`, `hook_voice` and thumbnail are about story 1 only – never a list of topics.
 3. **Title = concrete statement of fact** (not an explainer question): entity first, strong verb, ≤ 60 characters,
    at most one "!" and only if fully true. E.g. `Bundeswehr-Hubschrauber können nicht schießen!`, `Söder nach Aiwangers Tod: „Ich bin schockiert“`.

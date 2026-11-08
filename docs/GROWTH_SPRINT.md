@@ -7,7 +7,15 @@ Werkzeug: vidIQ Max (6.000 Credits/Monat, Reset 8. Dez). Loop: recherchieren →
 - Eilblick: **14 Abos, 16.501 Views, 32 Videos** (Kanal seit 29. Okt). Ø ~500 Views/Short, Abo-Quote ≈ 0,08 %.
 - Beste Videos: Merz/CDU „Alarmstufe dunkelrot“ 1.533 · Gen-Z-Krawalle 1.377 · Rot-Grün-Rot Berlin 1.344 · AKK warnt vor AfD/Linke 1.266.
 - Höchste aktuelle Geschwindigkeit: **FOKUS-Einzelthema** „Hackerangriff auf Tajani“ (38 s) **50 Views/h** – Sammel-Ausgaben liegen bei 1–35 Views/h.
-- vidIQ-Konto ist **noch nicht mit dem Eilblick-Kanal verbunden** → keine Retention-/Abonnenten-Analytics. Inhaber muss den Kanal in vidIQ verbinden.
+- vidIQ ist seit 8. Nov mit dem Kanal verbunden (YouTube Analytics über `vidiq_channel_analytics`).
+
+## Eigene Analytics (29. Okt – 8. Nov, YouTube Analytics via vidIQ)
+- **97 % der Views kommen aus dem Shorts-Feed** (12.523), Suche nur 477 → Wachstum entscheidet sich an Hook + Retention, nicht an Such-SEO.
+- Publikum: DE 10.807 · AT 767 · CH 618 Views – DACH stimmt.
+- Ø Wiedergabe 26 s (≈ 54 %). Bestes Video (Merz „Alarmstufe dunkelrot“): **75,8 %**, 47 % sehen bis zum Ende.
+  Schwächstes Top-Video (AKK warnt): 38 % – **die Hälfte springt bei ~30 % der Laufzeit ab = genau beim Wechsel von Story 1 zu Story 2**.
+- Folgerung: Der Themenwechsel ist das Leck. Story 1 muss das stärkste Einzelthema sein und das Video tragen; jede weitere Story braucht
+  einen eigenen Mini-Hook im ersten Wort. Einzelthema-Format (FOKUS) passt am besten zum Feed.
 
 ## Was im DACH-News-Shorts-Markt gerade gewinnt
 | Kanal | Abos | Muster |
@@ -38,16 +46,18 @@ news 48K · **nachrichten aktuell 26K** · politik 18K · israel 17K.
 6. **Grenzen bleiben:** nur verifizierte Fakten (≥2 Quellen), keine Nationalitäten-/Herkunfts-Zuspitzung, keine Gewaltbilder, keine Opfer-Details,
    kein Clickbait, das das Video nicht einlöst. Wachstum durch Schärfe, nicht durch Hetze – das schützt Monetarisierung und Kanal.
 
-## Credit-Plan (6.000 / 30 Tage)
-- Täglicher Growth-Brief: ~6 Calls × 5 = **30 Credits/Tag → ~900/Monat**
-- Wöchentlicher Review (Konkurrenz, Outliers, Keywords, Titel-Gewinner): ~15 Calls = **75/Woche → ~300/Monat**
-- Ad-hoc (Titel-Scoring, Thumbnail-Analysen, Kanal-Analytics nach Verbindung): ~1.000
-- **Reserve: ≥ 3.500 Credits** – nie unter 1.500 fallen.
+## Automatik (eigene geplante Aufgaben, nur Analyse – veröffentlichen tun weiterhin die News-Desk-Aufgaben)
+| Aufgabe | Zeit (Berlin) | Credits | Schreibt |
+|---|---|---|---|
+| A · Growth-Brief | täglich 05:41 und 13:41 | ≤ 35 pro Lauf | `state/growth/brief.md` (heiße Themen, Gewinner-Titel, Keywords) |
+| B · Nacht-Analyse | täglich 23:17 | ≤ 45 | `state/growth/learnings.md` (Retention/Abos je eigenem Video, was wirkt) + `daily_log.md` |
+| C · Wochen-Review | sonntags 10:23 | ≤ 120 | `state/growth/weekly_<datum>.md`, darf die Growth rules im EDITOR_GUIDE datenbasiert anpassen |
 
-## Loop
-- `state/growth/brief.md` – täglich neu (Trending/Outliers DE, Gewinner-Titel, Themen-Hinweise). Der News-Desk liest ihn vor jeder Ausgabe.
-- `state/growth/weekly_<datum>.md` – Wochen-Review mit Zahlen, Learnings, Experimenten.
-- `state/performance.md` – eigene Zahlen (YouTube-API), weiterhin Pflichtlektüre.
+Die neun News-Desk-Aufgaben lesen vor jeder Ausgabe `brief.md` und `learnings.md` (siehe EDITOR_GUIDE → Growth rules).
+
+## Credit-Plan (6.000 bis Reset 8. Dez)
+- A: 2 × 35 × 30 = ~2.100 · B: 45 × 30 = ~1.350 · C: 120 × 4 = ~480 · Ad-hoc: ~500 → **~4.400 genutzt, ~1.500 Reserve**
+- Jede Aufgabe prüft zuerst `vidiq_balance`: unter 1.500 nur noch B (eigene Analytics) und C, unter 600 alles pausiert.
 
 ## KPIs (Ziel nach 30 Tagen)
 | KPI | Start | Woche 1 | Woche 2 | Woche 4 |
