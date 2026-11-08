@@ -1,0 +1,33 @@
+{
+  "stories": [
+    {"candidate_id": 0, "pillar": "WELT", "region": "INT", "kicker": "JERUSALEM",
+     "headline": "Eisenkot soll Israel regieren", "highlight": ["Eisenkot"],
+     "voice": "Gadi Eisenkot soll Israels neue Regierung bilden. Präsident Isaac Herzog erteilt dem Netanjahu-Rivalen am Sonntag den Auftrag, er hat achtundzwanzig Tage Zeit.",
+     "subline": "Netanjahu ruft zu einer Regierung der nationalen Einheit auf",
+     "entities": ["Gadi Eisenkot", "Isaac Herzog", "Benjamin Netanjahu", "Knesset"]},
+    {"candidate_id": 20, "pillar": "POLITIK", "region": "DE", "kicker": "BERLIN",
+     "headline": "CDU entscheidet heute über Aigner", "highlight": ["Aigner"],
+     "voice": "Das CDU-Präsidium berät heute Abend über die Nachfolge von Frank-Walter Steinmeier. Erwartet wird ein Ja zu Ilse Aigner, SPD und Grüne signalisieren Unterstützung.",
+     "subline": "Aigner wäre die erste Frau an der Spitze des Staates",
+     "entities": ["Ilse Aigner", "CDU", "Frank-Walter Steinmeier"]},
+    {"candidate_id": 5, "pillar": "POLITIK", "region": "EU", "kicker": "PARIS",
+     "headline": "Frankreich: 146.000 gegen Regierung", "highlight": ["Frankreich"],
+     "voice": "In Frankreich haben am Samstag erneut mindestens hundertsechsundvierzigtausend Menschen gegen die Regierung protestiert. Sie fordern höhere Löhne und mehr Steuergerechtigkeit.",
+     "subline": "Deutlich weniger Teilnehmer als bei den Protesten zuvor",
+     "entities": ["Frankreich", "Paris"]},
+    {"candidate_id": 22, "pillar": "WIRTSCHAFT", "region": "DE", "kicker": "HANDEL",
+     "headline": "KI-Chips: Elektronik wird teurer", "highlight": ["Elektronik"],
+     "voice": "Laptops und Handys sind vor Weihnachten spürbar teurer geworden. Grund sind teure Speicherchips: Die gedrosselte Produktion trifft auf den weltweiten KI-Boom.",
+     "subline": "Für Verbraucher: Laptops, Handys und Hardware kosten mehr",
+     "entities": ["Speicherchip", "Laptop", "Smartphone"]}
+  ],
+  "hook_text": "Eisenkot soll regieren",
+  "hook_voice": "Eisenkot soll Israel regieren – die Schlagzeilen am Morgen.",
+  "youtube_title": "Eisenkot soll Israel regieren: Endet jetzt die Ära Netanjahu?",
+  "description_lead": "Israels Präsident Isaac Herzog beauftragt Oppositionsführer Gadi Eisenkot, den Rivalen von Benjamin Netanjahu, mit der Regierungsbildung. Außerdem: Das CDU-Präsidium berät über Ilse Aigner als Nachfolgerin von Frank-Walter Steinmeier, in Frankreich protestieren erneut Zehntausende gegen die Regierung und teure KI-Speicherchips machen Laptops und Handys vor Weihnachten teurer.",
+  "tags": ["Gadi Eisenkot", "Benjamin Netanjahu", "Isaac Herzog", "Israel", "Regierungsbildung", "Ilse Aigner", "CDU", "Frank-Walter Steinmeier", "Bundespräsidentin", "Frankreich", "Proteste Frankreich", "KI-Chips", "Speicherchips", "Elektronik Preise", "Weihnachtsgeschäft"],
+  "hashtags": ["#israel", "#aigner", "#kichips"],
+  "facebook_caption_line1": "Israel: Netanjahu-Rivale Gadi Eisenkot soll die neue Regierung bilden",
+  "facebook_question": "Gelingt Eisenkot innerhalb von 28 Tagen eine Koalition?",
+  "comment_question": "Schafft Gadi Eisenkot eine Regierung ohne Netanjahu – ja oder nein?"
+}
