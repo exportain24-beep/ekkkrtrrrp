@@ -1,0 +1,36 @@
+{
+ "date": "2026-11-08",
+ "slot": "nachmittag",
+ "publish_at": "2026-11-08T13:30:00+00:00",
+ "title": "Ukraine: 600.000 Menschen ohne Strom – droht jetzt auch Kyjiw? ⚡",
+ "duration": 49.8,
+ "stories": [
+  {
+   "headline": "Ukraine: 600.000 ohne Strom",
+   "region": "INT",
+   "pillar": "WELT"
+  },
+  {
+   "headline": "Krakau: Justiz ermittelt wegen Terror",
+   "region": "EU",
+   "pillar": "POLITIK"
+  },
+  {
+   "headline": "Wetter: Wechselhafter Wochenstart",
+   "region": "DE",
+   "pillar": "WELT"
+  },
+  {
+   "headline": "Sondervermögen: Kaum Geld für Bildung",
+   "region": "DE",
+   "pillar": "POLITIK"
+  }
+ ],
+ "comment": {
+  "text": "Stromausfälle in der Ukraine: Sollte Deutschland beim Schutz der Energieversorgung mehr helfen – ja oder nein?",
+  "done": false
+ },
+ "youtube_id": "BfSa3mtPCyw",
+ "facebook_id": "1453432426203554",
+ "created": "2026-11-08T12:03:24.261628+00:00"
+}
