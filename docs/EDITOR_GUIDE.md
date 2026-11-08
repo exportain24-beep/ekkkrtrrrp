@@ -44,7 +44,18 @@ whether content matches their interests. So:
 6. **Engagement:** `comment_question` must be easy to answer (yes/no or A/B) to trigger comments; every comment gets a reply.
 7. **Learn from data:** read `state/performance.md` (best videos first) before writing. Repeat what works (topics,
    hook types, title patterns of the top videos), avoid what underperforms – but never repeat a title.
-8. **Consistency:** the schedule (4 per day, fixed times, ≥4 h apart) stays – never post extra videos.
+8. **Consistency:** the schedule in `config/settings.yaml` stays – never post extra videos.
+
+## Growth rules (vidIQ sprint, owner 8 Nov 2026 – read `state/growth/brief.md` first)
+Data: single-story Shorts get the most views/hour in DACH news (own FOKUS + competitors). So:
+1. Read `state/growth/brief.md` before choosing stories. Among the equally popular stories, prefer what the brief marks as hot.
+2. **Story 1 carries everything alone:** `youtube_title`, `hook_text`, `hook_voice` and thumbnail are about story 1 only – never a list of topics.
+3. **Title = concrete statement of fact** (not an explainer question): entity first, strong verb, ≤ 60 characters,
+   at most one "!" and only if fully true. E.g. `Bundeswehr-Hubschrauber können nicht schießen!`, `Söder nach Aiwangers Tod: „Ich bin schockiert“`.
+   Use `nachrichten`/`aktuell`, person names, `AfD`, `Ukraine`, `Trump` in title/tags when the story really is about them.
+4. **Serial stories:** if a story from `already_published` has a clear new development and is still hot, do the follow-up
+   and say what is new ("Wende bei …", "Jetzt bestätigt: …").
+5. Never: nationality/origin framing that the story does not need, hate, rumours, graphic content – growth through sharpness, not agitation.
 
 ## Thumbnail = first impression (the system renders it from your fields)
 - Story 1 must be the strongest story **with good photos** (it provides the thumbnail photo and the hook).
