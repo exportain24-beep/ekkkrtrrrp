@@ -63,6 +63,17 @@ Data: single-story Shorts get the most views/hour in DACH news (own FOKUS + comp
 4. **Serial stories:** if a story from `already_published` has a clear new development and is still hot, do the follow-up
    and say what is new ("Wende bei …", "Jetzt bestätigt: …").
 5. Never: nationality/origin framing that the story does not need, hate, rumours, graphic content – growth through sharpness, not agitation.
+6. **Seconds 4–12 are the main leak (8 Nov, 4 of 4 retention curves):** viewers leave right after the hook, when background starts
+   (IG Metall 1.06 → 0.39, Führerschein 1.00 → 0.50 between 10–30 % runtime). Beat order: hook (entity + surprise) →
+   sentence 2 = the most surprising concrete fact from the sources (number, name, consequence for DACH) → only then context.
+   No background/history before second 10.
+7. **Story 1 needs a well-known person or a direct DACH consequence (8 Nov, 5 videos < 100 views):** far-away or abstract
+   stories flop (Paraguay ex-president 63, Markus Wolf/DDR history 69, Supermarkt-Hacks 80, Führerschein reform 75, DAX 40).
+   Winners: known person + conflict/power question (Trump/Justiz 1,042, Linke vs. Emde 992, Aigner 975, Tajani hack 945).
+   Hacker/cyber stories only when the victim is a prominent person or institution (Tajani 945 vs. AfD-Leak 167, Supermarkt 80).
+8. **FOKUS length + loop:** 30–38 s; the last sentence leads back to the open question of the title so the Short loops.
+   Proven: "Bombendrohungen … Wer legt Europas Luftverkehr lahm?" (38 s) = 140.7 % average view percentage, end watch ratio 1.14;
+   50-s four-story editions end at 0.06–0.18. The title question must be answered (or honestly marked as open) in the video.
 
 ## Thumbnail = first impression (the system renders it from your fields)
 - Story 1 must be the strongest story **with good photos** (it provides the thumbnail photo and the hook).
