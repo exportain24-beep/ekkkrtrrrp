@@ -35,8 +35,9 @@ news 48K · **nachrichten aktuell 26K** · politik 18K · israel 17K.
 
 ## Strategie-Entscheidungen (mit Begründung)
 1. **Ein Thema schlägt vier Themen.** Alle Daten (eigene + Markt) zeigen: Einzelthema-Shorts haben die höchste Views/h.
-   → Sammel-Ausgaben bleiben (Inhaber-Vorgabe), aber: Story 1 trägt Titel, Hook und Thumbnail **allein** – Titel nennt nur Story 1.
-   Vorschlag an Inhaber: 3 der 6 Sammel-Slots in FOKUS umwandeln (Test 7 Tage) – nur nach Freigabe.
+   → **Umgesetzt 8. Nov (Inhaber gab volle Kontrolle):** 7 FOKUS-Slots (08:30, 10:00, 12:00, 14:30, 16:30, 18:30, 22:00) +
+   2 Sammel-Formate: 07:00 Morgen-Briefing und 20:45 „Der Tag in 45 Sekunden“ (Tagesrückblick = Outlier-Format).
+   Der Wochen-Review darf das Format je Slot datenbasiert weiter verschieben.
 2. **Titel = konkreter Aussagesatz mit Fakt** statt Erklär-Frage. „Bundeswehr-Hubschrauber können nicht schießen!“ schlägt „Was die Bundeswehr jetzt plant“.
    Person/Institution zuerst, starkes Verb, ≤ 60 Zeichen, max. 1 „!“, nur wenn wahr.
 3. **Serien-Storys:** Ein großes Thema mit neuen Entwicklungen wird als Fortsetzung weitergedreht („NEU:“ / „Wende bei …“) – Zuschauer kommen für die Folge zurück → Abos.
