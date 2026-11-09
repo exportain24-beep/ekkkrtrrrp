@@ -1,0 +1,68 @@
+{
+  "format": "single",
+  "candidate_id": 16,
+  "pillar": "POLITIK",
+  "region": "EU",
+  "kicker": "UKRAINE",
+  "hook_screen": "TRUMP-ANSAGE!",
+  "hook_voice": "Trump stimmt die Ukraine auf Gebietsverluste ein – und Moskau blockt Europa.",
+  "beats": [
+    {
+      "voice": "Trump sagt im US-Fernsehen: Die Ukraine werde am Ende „eine etwas andere Form“ haben.",
+      "big": "„ANDERE FORM“",
+      "label": "Trump über die Ukraine nach dem Krieg"
+    },
+    {
+      "voice": "Gemeint sind Gebietsabtretungen als Teil einer Friedenslösung. Ob er Putin oder Selenskyj mehr vertraut, lässt Trump offen.",
+      "big": "GEBIETE",
+      "label": "Zugeständnisse für einen Frieden"
+    },
+    {
+      "voice": "Abu Dhabi: Dort verhandeln am Dienstag und Mittwoch Russland, die Ukraine und die USA.",
+      "big": "DI + MI",
+      "label": "neue Verhandlungsrunde in Abu Dhabi"
+    },
+    {
+      "voice": "Frankreich will Europa vertreten. Moskau lehnt das ab – nur Gespräche mit Kyjiw und Washington.",
+      "big": "NEIN",
+      "label": "Moskau will Europa nicht am Tisch"
+    }
+  ],
+  "loop_line": "Wird über Europas Sicherheit also bald ohne Europa entschieden?",
+  "headline": "Trump: „Andere Form“ für die Ukraine",
+  "highlight": [
+    "Trump"
+  ],
+  "entities": [
+    "Donald Trump",
+    "Abu Dhabi",
+    "Wladimir Putin",
+    "Wolodymyr Selenskyj"
+  ],
+  "youtube_title": "Trump: Ukraine wird „andere Form“ haben – Moskau blockt Europa",
+  "description_lead": "US-Präsident Donald Trump stimmt die Ukraine im Interview mit „60 Minutes“ auf Gebietsverluste als Teil eines Friedens ein. Vor der Verhandlungsrunde in Abu Dhabi am Dienstag und Mittwoch lehnt Russland die von Frankreich angekündigte Teilnahme Europas ab.",
+  "tags": [
+    "Donald Trump",
+    "Ukraine",
+    "Abu Dhabi",
+    "Russland",
+    "Wladimir Putin",
+    "Selenskyj",
+    "Frankreich",
+    "Europa",
+    "Friedensgespräche",
+    "Ukraine-Krieg",
+    "Gebietsabtretungen",
+    "Friedenslösung",
+    "nachrichten",
+    "nachrichten aktuell"
+  ],
+  "hashtags": [
+    "#ukraine",
+    "#trump",
+    "#frieden"
+  ],
+  "facebook_caption_line1": "Trump: Die Ukraine wird am Ende „eine etwas andere Form“ haben – Moskau will Europa nicht am Verhandlungstisch",
+  "facebook_question": "Darf über einen Frieden in der Ukraine ohne Europa verhandelt werden?",
+  "comment_question": "Muss Europa bei den Ukraine-Gesprächen mit am Tisch sitzen – ja oder nein?"
+}
