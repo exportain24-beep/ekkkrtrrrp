@@ -9,3 +9,4 @@
 - Leck: Sekunde 4–12 (10–30 % Laufzeit) in 4/4 Kurven → Growth rules 6–8 im EDITOR_GUIDE ergänzt.
 - Frühe VPH 8. Nov: Ukraine-Gespräche 142 · Tag in 45 s 110 · Selenskyj 103 · Ukraine Strom 96 · Trump 80 · Wolf 3.
 - 2026-11-09 05:41 Brief: Credits 5.825 · Abos 16 · Views 19.536 · Videos 38 · Top: Bargeld/digitaler Euro 7.911 VPH, Mauerfall-Jahrestag
+- 2026-11-09 13:41 Brief: Credits 5.800 · Abos 16 · Views 22.144 · Videos 42 · Top: Krakau-Schüsse 8,9K VPH (22x), Generationen-Geld 7.502 VPH

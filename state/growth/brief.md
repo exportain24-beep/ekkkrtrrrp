@@ -1,36 +1,38 @@
-# Growth-Brief – Mo 9. Nov 2026, 05:41 Berlin (vidIQ, 30 Credits)
+# Growth-Brief – Mo 9. Nov 2026, 13:41 Berlin (vidIQ, 25 Credits, Rest 5.800)
 
 ## Eilblick
-- **16 Abos (+2 seit 8. Nov) · 19.536 Views (+3.035) · 38 Videos.** 1.–8. Nov: +11 Abos, +13.027 Views.
-- Beste letzte Uploads (VPH): Der Tag in 45 Sek. / Trump ermittelt 127 (1.018 Views) · Ukraine-Gespräche ab Dienstag 95 (947) ·
-  Selenskyj in Berlin 64 · Ukraine 600.000 ohne Strom 57 · Trump zweifelt Wahl an 56 (1.064) · Manuel Neuer fällt aus 44 (306 in 7 h).
-- Schwächste: Paraguay Ex-Präsident 10 · Markus Wolf 13 · Dana White 15 · Eishockey-WM 12.
-- Lektion: Tagesrückblick + Trump/Ukraine tragen; unbekannte Personen/ferne Länder bleiben unter 20 VPH → nicht auf Story-1-Plätze.
+- **16 Abos (±0 seit 05:41, +2 seit 8. Nov) · 22.144 Views (+2.608 seit 05:41) · 42 Videos (+4 heute).**
+- Heute (VPH): Nvidia-Chef Huang gesteht Affäre 78 (547 Views) · Todesschütze von Krakau tot 77 (231) · Plastiksteuer: Frei sagt Nein 34 (170) ·
+  Merz: Aigner soll Bundespräsidentin werden 23 (140) · Trump: Abschiebekurs „zu hart“ 5 (erst ~2 h) · Vodafone-Jobs: noch 0 (gerade online).
+- Gestern stabil: Tag in 45 Sek. 1.053 · Trump zweifelt Wahl an 1.069 · Ukraine-Gespräche 984 · Selenskyj 927. Schwach: Markus Wolf 151 (8 VPH).
+- Lektion: Weltbekannte Person + Skandal (Huang) und das heißeste Markt-Thema (Krakau) laufen 3× besser als die Wiederholung eines
+  bekannten Themas (Aigner 2. Aufguss 23 VPH). → Kein Thema zweimal ohne echte neue Wende.
 
 ## Heißeste DACH-Themen in Shorts (seit 8. Nov)
-1. **Bargeld-Abschaffung / digitaler Euro** – „Bargeld abgeschafft: Was würde in Deutschland passieren?“ 103K Views, **7.911 VPH**
-   (Kanal nur 3,8K Abos!) → Alltagsgeld-Thema, nur mit echtem Anlass/Fakten.
-2. **Mauerfall, 9. November (heute Jahrestag)** – ZDFinfo „DDR-Jugendliche im Westen“ 6.743 VPH · MDR „Das passierte wirklich am 9. November 1989“ 3.216 VPH.
-3. **Rente/Managerrente** – LACROIX „Ein Jahr Managerrente, 63 Jahre an der Kasse“ 77K, 6.402 VPH.
-4. **Trump** – „Trump im Amt, die Familie im Geschäft“ 7.845 VPH · newstime „Trump zu Ukraine-Krieg: »Es wird ein großes Abkommen sein«“ 2,1x.
-5. **Krakau: Todesschüsse, Justiz spricht von Terror** – Stuttgarter Zeitung 140K, 6.000 VPH, 5,2x (sachlich, keine Bilder).
-6. **Merz in der Kritik** – Vindex 70K, 4.212 VPH; Finanzfuchs Bundestag-Short 2.890 VPH → neutral: Fakten/Zitate, keine Wertung.
-7. **Jugendproteste Berlin** – stern TV 2.181 VPH (nur politische Ebene, keine Gewaltbilder).
-8. **Aiwanger-Tod, weitere Entwicklung** – AUF1 696 VPH (6,5x), ZEIT Söder-Zitat 20x → nur offizielle Angaben, keine Spekulation über Umstände.
-- Weitere: Lisa T. (13) vermisst, 140 Beamte suchen – 3.100 VPH, 6x (nur Polizeiangaben); Palästina-Flagge am Reichstag – 3 Kanäle, bis 815 VPH (neutral, nur Fakten);
-  Tagesrückblick „Nachrichten 3. November: …“ (DACHschaden) 14x Breakout.
-- Konkurrenz-Liste (7 Kanäle, inkl. ntv/ZDFheute/WELT Netzreporter): diese Woche **keine** neuen Breakouts.
+1. **Krakau-Schüsse (Terror-Ermittlung)** – eineminutenachrichten „Ein Angeschossener Polizist schaltete den Attentäter aus!“ 284,6K, **8,9K VPH, 22x** ·
+   Stuttgarter Zeitung „Todesschüsse in Krakau…“ 145,5K, 13x · Planet Deutsch 51x. Unser Short 77 VPH → Folge drehen, nur Behördenangaben, keine Bilder.
+2. **Trump** – LACROIX „Trump im Amt, die Familie im Geschäft“ 160K, 7.697 VPH.
+3. **Merz vs. AfD/Weidel (Bundestag)** – Danny Danny 145,9K, 6.512 VPH (Kanal 8K) · Vindex 3.247 VPH · Krah vs. Lucks 856 VPH → nur Zitate/Fakten, neutral.
+4. **Geld zwischen den Generationen / Rente** – „Warum hatten Boomer das Geld und wir Millenials…“ 177K, **7.502 VPH** (Kanal 994 Abos!) ·
+   LACROIX Managerrente 110,9K, 5.515 VPH.
+5. **Mauerfall/9. November** – ZDFinfo „DDR-Jugendliche im Westen“ 120,6K, 6.153 VPH · DACHschaden Georg Elser 934 VPH. Heute Jahrestag.
+6. **Bargeld/digitaler Euro** – DACHschaden „Bargeld abgeschafft…“ 118,8K, 5.646 VPH.
+7. **Steuergeld/Behörden** – „Steuergeld für die Miami-Villa“ 81,9K, 3.802 VPH · NIUS Bundesagentur für Arbeit 4.917 VPH (Meinungsformat – nur Fakten übernehmen).
+8. **Vermisste Lisa T. (13)** – Stuttgarter Zeitung 110,7K, 9,8x → nur Polizeiangaben. Jugendproteste Berlin (stern TV) 2.175 VPH – nur politische Ebene.
+- Weiter präsent: Aiwanger-Tod (ZEIT Söder-Zitat 20x, AUF1 7,8x – keine Spekulation), Tagesrückblick „Nachrichten 3. November: …“ 14x.
+- Konkurrenz-Liste (7 Kanäle): diese Woche **keine** Breakouts laut vidIQ (Einzeltreffer eineminutenachrichten oben via Keyword-Suche).
 
 ## Gewinner-Titelmuster (echte Titel)
-- „Todesschüsse in Krakau: Justiz spricht von Terror“ – Ort/Ereignis + Doppelpunkt + harter Fakt.
-- „Lisa T. weiterhin vermisst: Mehr als 140 Beamte suchen nach der 13-Jährigen“ – Name + Status + Zahl.
+- „Ein Angeschossener Polizist schaltete den Attentäter aus!“ – Held/Wende statt Tat, Aussagesatz + „!“.
 - „Bargeld abgeschafft: Was würde in Deutschland passieren?“ – Alltagsfolge für DE als Frage.
-- Muster: Schlagwort vorn, konkrete Zahl, DACH-Bezug, ≤ 60 Zeichen.
+- „Lisa T. weiterhin vermisst: Mehr als 140 Beamte suchen nach der 13-Jährigen“ – Name + Status + Zahl.
+- Muster: Schlagwort/Person vorn, konkrete Zahl oder Wende, DACH-Bezug, ≤ 60 Zeichen.
 
-## Keywords (YouTube-Suchvolumen DE)
+## Keywords (YouTube-Suchvolumen DE, Stand 05:41-Lauf)
 nachrichten 57.714 · nachrichten aktuell 26.186 · welt nachrichten 2.885
-(Tags der Top-Videos ohne Volumenangabe: digitaler Euro, Bargeld abschaffen, mauerfall, ddr)
+Tags der Top-Videos (ohne Volumen): mauerfall, ddr, digitaler Euro, Bargeld abschaffen, #aktuellenachrichten
 
-## Heute konkret
-- 06:15/08:30-FOKUS: Mauerfall-Jahrestag mit aktuellem Bezug; Krakau falls neue Fakten; Trump/Ukraine-Abkommen weiterdrehen.
-- Geld-Alltag (Bargeld/Rente) nur bei echter Nachricht. Keine Herkunfts-Zuspitzung, keine Gerüchte, Politik neutral.
+## Nachmittag/Abend konkret
+- Krakau: neue Fakten (Ermittlungen, Opfer aus AT nur offiziell) als Fortsetzung; Wende im Titel.
+- Rente/Generationen-Geld oder Bargeld nur mit echtem Anlass (Zahl, Beschluss). Mauerfall-Jahrestag in „Der Tag in 45 Sekunden“.
+- Keine Herkunfts-Zuspitzung, keine Gerüchte, keine Gewaltbilder; Politik neutral (Zitate beider Seiten).
