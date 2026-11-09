@@ -1,0 +1,1640 @@
+{
+ "slot": {
+  "id": "fokus-prime",
+  "format": "single",
+  "time": "19:30",
+  "label": "Fokus Prime Time",
+  "focus": "Nur Tie-Breaker – immer zuerst die populärsten, meistberichteten Nachrichten. Bei Gleichstand bevorzugt: Die größte politische oder weltpolitische Entwicklung des Abends mit Folgen für Deutschland.",
+  "notify_subscribers": false
+ },
+ "slot_time": "2026-11-09T19:30:00+01:00",
+ "date_text": "Montag, 9. November 2026",
+ "already_published": [
+  "Selenskyj räumt im Geheimdienst auf",
+  "BSW-Streit um Constantin Schreiber",
+  "Eishockey-WM: Russland-Streit eskaliert",
+  "Eisenkot soll Israel regieren",
+  "CDU entscheidet heute über Aigner",
+  "Frankreich: 146.000 gegen Regierung",
+  "KI-Chips: Elektronik wird teurer",
+  "Trump will UFC-Chef als Sprecher",
+  "Trump droht den Demokraten",
+  "Wehrpflicht: Union contra Pistorius",
+  "Aeschi will in den Bundesrat",
+  "Aigner: Linke kritisiert Verfahren",
+  "Paraguay: Ex-Präsident in U-Haft",
+  "Tajani prangert Hackerangriffe an",
+  "Schweiz: Kein Spiel gegen Russland",
+  "Emde will ihr Mandat behalten",
+  "Ukraine: 600.000 ohne Strom",
+  "Krakau: Justiz ermittelt wegen Terror",
+  "Wetter: Wechselhafter Wochenstart",
+  "Sondervermögen: Kaum Geld für Bildung",
+  "Selenskyj-Besuch: Merz fordert Europa",
+  "Moskau ehrt DDR-Spionagechef Wolf",
+  "Ukraine-Gespräche: Europa am Tisch",
+  "Trump droht den Demokraten",
+  "Emde will Mandat behalten",
+  "Ukraine-Gespräche: Europa dabei",
+  "Aigner: Union ist sich einig",
+  "Neuer fällt mit Sehnenteilriss aus",
+  "Nvidia-Chef unter Spionageverdacht",
+  "Merz legt sich auf Aigner fest",
+  "Hubig zerpflückt Spritpreisdeckel",
+  "Ukraine-Truppe startet erste Übung",
+  "Trump: Iran-Angriffe unwahrscheinlich",
+  "Koalition streitet über Plastiksteuer",
+  "Todesschütze von Krakau ist tot",
+  "Trump: Abschiebekurs war „zu hart“",
+  "Vodafone streicht 2.300 Stellen",
+  "Trump: „Andere Form“ für die Ukraine",
+  "Nvidia-Aktie bricht nach Affäre ein",
+  "Orbán-Bruder festgenommen"
+ ],
+ "candidates": [
+  {
+   "id": 0,
+   "score": 22.5,
+   "outlets": [
+    "tagesschau",
+    "ZDFheute",
+    "Deutsche Welle",
+    "Deutschlandfunk",
+    "ORF",
+    "SRF News",
+    "SPIEGEL",
+    "Handelsblatt",
+    "WirtschaftsWoche",
+    "DER STANDARD"
+   ],
+   "regions": [
+    "AT",
+    "CH",
+    "DE",
+    "INT"
+   ],
+   "trend": [],
+   "newest": "2026-11-09T16:35:19+00:00",
+   "articles": [
+    {
+     "source": "tagesschau",
+     "region": "DE",
+     "weight": 1.0,
+     "title": "Christoph Mestmacher, ARD Berlin, zur offiziellen Nominierung von Ilse Aigner als Bundespräsidentin",
+     "summary": "Christoph Mestmacher, ARD Berlin, zur offiziellen Nominierung von Ilse Aigner als Bundespräsidentin",
+     "link": "https://www.tagesschau.de/video/video-1680774.html",
+     "image": "https://images.tagesschau.de/image/6dab173d-1797-4632-950c-008887db2f4c/AAABocCXVvo/AAABnSSvrFg/16x9-big/sendungsbild-1824918.jpg?width=1920",
+     "aggregator": false,
+     "published": "2026-11-09T13:55:11+00:00"
+    },
+    {
+     "source": "tagesschau",
+     "region": "DE",
+     "weight": 1.0,
+     "title": "Warum Merz sich doch für Aigner als Bundespräsidentin stark macht",
+     "summary": "Lange hatte der Kanzler gezögert - nun ist es offiziell: Die CDU überlässt das höchste Staatsamt der kleinen Schwesterpartei aus Bayern. Die viel befürchtete Kritik in den eigenen Reihen ist ausgeblieben. Von Jannik Pentz.",
+     "link": "https://www.tagesschau.de/inland/innenpolitik/merz-aigner-kandidatin-bundespraesidentin-100.html",
+     "image": "https://images.tagesschau.de/image/305b59b8-9dc9-460c-9bb4-6ba0b48f1eb8/AAABocDAhaM/AAABnSSvrFg/16x9-big/merz-aigner-118.jpg?width=1920",
+     "aggregator": false,
+     "published": "2026-11-09T14:48:54+00:00"
+    },
+    {
+     "source": "tagesschau",
+     "region": "DE",
+     "weight": 1.0,
+     "title": "Aigner soll Bundespräsidentin werden: \"Meine Sprache wird klar sein und verständlich\"",
+     "summary": "Eine Bundespräsidentin \"mit Würde und Herz\": Kanzler Merz sieht Ilse Aigner als genau richtige Kandidatin. Die 61-Jährige zeigte sich bewegt von der Nominierung - und machte klar, wofür sie steht: eine Politik der Mitte.",
+     "link": "https://www.tagesschau.de/inland/innenpolitik/aigner-merz-bundespraesidentin-100.html",
+     "image": "https://images.tagesschau.de/image/5d5d22be-0a9e-4795-ba7f-4b4750b82e1d/AAABocCHU3k/AAABnSSvrFg/16x9-big/merz-aigner-114.jpg?width=1920",
+     "aggregator": false,
+     "published": "2026-11-09T14:45:20+00:00"
+    },
+    {
+     "source": "tagesschau",
+     "region": "DE",
+     "weight": 1.0,
+     "title": "\"Zum dritten Mal eine Nichtakademikerin\", Christoph Mestmacher, ARD Berlin, zu Aigner als möglicher neuer Bundespräsidentin",
+     "summary": "\"Zum dritten Mal eine Nichtakademikerin\", Christoph Mestmacher, ARD Berlin, zu Aigner als möglicher neuer Bundespräsidentin",
+     "link": "https://www.tagesschau.de/video/video-1680630.html",
+     "image": "https://images.tagesschau.de/image/4b922391-330b-475a-a24f-35ac045c695e/AAABob-Zkac/AAABnSSvrFg/16x9-big/sendungsbild-1824786.jpg?width=1920",
+     "aggregator": false,
+     "published": "2026-11-09T09:17:58+00:00"
+    },
+    {
+     "source": "tagesschau",
+     "region": "DE",
+     "weight": 1.0,
+     "title": "Aigner wird wohl Bundespräsidentin / Demokratie-Umfrage / Verschleppter Infekt",
+     "summary": "Unsere Infos heute: (00:00:07) Themenvorschau (00:01:10) Wird Ilse Aigner Bundespräsidentin? Die CSU-Politikerin Ilse Aigner hat beste Chancen, die erste Bundespräsidentin Deutschlands zu werden. Damit würde sie auf Frank-Walter Steinmeier folgen. Aktuell ist sie Landtagspräsidentin im bayrischen Parlament. Für eine Spitzenpolitikerin ist ihr beruflicher Werdegang eher ungewöhnlich. In den Nachrichten erklären wir, woher Aigner kommt und wofür sie politisch steht. (00:05:12) Zufriedenheit mit Demokratie Die ARD hat im Rahmen der Aktion „Deine Meinung zählt!“ nach der Stimmung zur Demokratie ge",
+     "link": "https://www.tagesschau.de/multimedia/podcast/15-minuten/audio-bundespraesidentin-warum-es-wohl-ilse-aigner-wird-100.html",
+     "image": "https://images.tagesschau.de/image/7be2b07b-81d2-42ae-bdcb-f17242b1d277/AAABnS3tOgs/AAABnSSvrFg/16x9-big/15-minuten-episodenbild-uli-magda-100.jpg?width=1920",
+     "aggregator": false,
+     "published": "2026-11-09T04:51:16+00:00"
+    },
+    {
+     "source": "tagesschau Inland",
+     "region": "DE",
+     "weight": 1.0,
+     "title": "Warum Merz sich doch für Aigner als Bundespräsidentin stark macht",
+     "summary": "Lange hatte der Kanzler gezögert - nun ist es offiziell: Die CDU überlässt das höchste Staatsamt der kleinen Schwesterpartei aus Bayern. Die viel befürchtete Kritik in den eigenen Reihen ist ausgeblieben. Von Jannik Pentz.",
+     "link": "https://www.tagesschau.de/inland/innenpolitik/merz-aigner-kandidatin-bundespraesidentin-100.html",
+     "image": "https://images.tagesschau.de/image/305b59b8-9dc9-460c-9bb4-6ba0b48f1eb8/AAABocDAhaM/AAABnSSvrFg/16x9-big/merz-aigner-118.jpg?width=1920",
+     "aggregator": false,
+     "published": "2026-11-09T14:48:54+00:00"
+    },
+    {
+     "source": "tagesschau Inland",
+     "region": "DE",
+     "weight": 1.0,
+     "title": "Aigner soll Bundespräsidentin werden: \"Meine Sprache wird klar sein und verständlich\"",
+     "summary": "Eine Bundespräsidentin \"mit Würde und Herz\": Kanzler Merz sieht Ilse Aigner als genau richtige Kandidatin. Die 61-Jährige zeigte sich bewegt von der Nominierung - und machte klar, wofür sie steht: eine Politik der Mitte.",
+     "link": "https://www.tagesschau.de/inland/innenpolitik/aigner-merz-bundespraesidentin-100.html",
+     "image": "https://images.tagesschau.de/image/5d5d22be-0a9e-4795-ba7f-4b4750b82e1d/AAABocCHU3k/AAABnSSvrFg/16x9-big/merz-aigner-114.jpg?width=1920",
+     "aggregator": false,
+     "published": "2026-11-09T14:45:20+00:00"
+    },
+    {
+     "source": "tagesschau Inland",
+     "region": "DE",
+     "weight": 1.0,
+     "title": "Bundespräsidenten-Wahl: Merz bricht sein Schweigen und schlägt Aigner vor",
+     "summary": "Lange hatte er darüber nachgedacht und sich zurückgehalten - am Abend sprach sich Kanzler Merz dann für Ilse Aigner als Bundespräsidentin aus. Heute wollen beide offiziell vor die Presse treten. Von Sabine Henkel.",
+     "link": "https://www.tagesschau.de/inland/innenpolitik/aigner-bundespraesidentin-100.html",
+     "image": "https://images.tagesschau.de/image/b9a1484e-0137-48fd-96c3-88255c4468fb/AAABoXhnvbQ/AAABnSSvrFg/16x9-big/merz-aigner-100.jpg?width=1920",
+     "aggregator": false,
+     "published": "2026-11-09T03:34:40+00:00"
+    }
+   ]
+  },
+  {
+   "id": 1,
+   "score": 14.89,
+   "outlets": [
+    "tagesschau",
+    "Deutschlandfunk",
+    "SPIEGEL",
+    "ZEIT ONLINE",
+    "heise online",
+    "DER STANDARD"
+   ],
+   "regions": [
+    "AT",
+    "DE"
+   ],
+   "trend": [],
+   "newest": "2026-11-09T16:52:34+00:00",
+   "articles": [
+    {
+     "source": "tagesschau",
+     "region": "DE",
+     "weight": 1.0,
+     "title": "Mobilfunkunternehmen Vodafone plant Abbau von 2.300 Stellen",
+     "summary": "Der Telekommunikationskonzern Vodafone muss sparen. In Deutschland soll nun rund jeder fünfte Job wegfallen - insgesamt 2.300 Stellen. Dafür will der Konzern stärker Künstliche Intelligenz einsetzen.",
+     "link": "https://www.tagesschau.de/wirtschaft/unternehmen/vodafone-stellenabbau-102.html",
+     "image": "https://images.tagesschau.de/image/166ca868-0a0f-4ad9-9d5c-2d220ef48fcc/AAABocCm9EM/AAABnSSvrFg/16x9-big/vodafone-duesseldorf-100.jpg?width=1920",
+     "aggregator": false,
+     "published": "2026-11-09T16:09:03+00:00"
+    },
+    {
+     "source": "Deutschlandfunk",
+     "region": "DE",
+     "weight": 0.95,
+     "title": "Mobilfunkanbieter - Vodafone will rund 2.300 Stellen streichen",
+     "summary": "Der Netzbetreiber Vodafone will in Deutschland in den kommenden zwei Jahren rund 2.300 Stellen abbauen oder verlagern. Demnach ist fast jeder fünfte Arbeitsplatz von den Einschnitten betroffen. Das Unternehmen begründete die Entscheidung unter anderem mit einem erheblichen Kundenschwund.",
+     "link": "https://www.deutschlandfunk.de/vodafone-will-rund-2-300-stellen-streichen-100.html",
+     "image": "https://bilder.deutschlandfunk.de/FI/LE/_a/f0/FILE_af0ea3b2e592324a443d1aa0d4e6cc07/vodafone-jpg-102-1280x1280.jpg",
+     "aggregator": false,
+     "published": "2026-11-09T16:35:19+00:00"
+    },
+    {
+     "source": "SPIEGEL",
+     "region": "DE",
+     "weight": 0.9,
+     "title": "Vodafone streicht jede fünfte Stelle in Deutschland und setzt vermehrt auf KI",
+     "summary": "Vodafone verlor zuletzt Marktanteile, nun legt der Konzern ein Sparprogramm auf. Zahlreiche Jobs sollen wegfallen oder verlagert werden. Aufgaben sollen stattdessen an KI ausgelagert werden.",
+     "link": "https://www.spiegel.de/wirtschaft/unternehmen/vodafone-streicht-jede-fuenfte-stelle-setzt-vermehrt-auf-ki-a-9315dbd7-1f5b-4b54-bcba-94003a64bb91#ref=rss",
+     "image": "https://cdn.prod.www.spiegel.de/images/5e9c6d8b-a936-4283-a87b-b74595983aab_w520_r2.08_fpx61.3_fpy49.99.jpg",
+     "aggregator": false,
+     "published": "2026-11-09T11:42:00+00:00"
+    },
+    {
+     "source": "ZEIT ONLINE",
+     "region": "DE",
+     "weight": 0.9,
+     "title": "Stellenabbau: Vodafone Deutschland streicht fast jede fünfte Stelle",
+     "summary": "Innerhalb der nächsten zwei Jahre will Vodafone Deutschland 2.300 Stellen abbauen. Das Unternehmen begründet das mit einem angespannten Markt und hohem Konstendruck.",
+     "link": "https://www.zeit.de/wirtschaft/2026-11/vodafone-stellenabbau-arbeitsplaetze-kuenstliche-intelligenz",
+     "image": "https://img.zeit.de/wirtschaft/2026-11/vodafone-stellenabbau-arbeitsplaetze-kuenstliche-intelligenz-foto-1/original__640x360",
+     "aggregator": false,
+     "published": "2026-11-09T16:52:34+00:00"
+    },
+    {
+     "source": "heise online",
+     "region": "DE",
+     "weight": 0.85,
+     "title": "Vodafone baut in Deutschland rund 2300 Stellen ab",
+     "summary": "Vodafone streicht fast jeden fünften Arbeitsplatz in Deutschland. Der Konzern begründet den Einschnitt mit einem Markt, der sich grundlegend verändert.",
+     "link": "https://www.heise.de/news/Vodafone-baut-in-Deutschland-rund-2300-Stellen-ab-11517302.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
+     "image": null,
+     "aggregator": false,
+     "published": "2026-11-09T11:17:00+00:00"
+    },
+    {
+     "source": "DER STANDARD",
+     "region": "AT",
+     "weight": 0.85,
+     "title": "Vodafone baut in Deutschland rund 2300 Stellen ab",
+     "summary": "Fast jeder fünfte Arbeitsplatz ist betroffen. Grund sei unter anderem der verstärkte Einsatz von KI",
+     "link": "https://www.derstandard.at/story/3000000348215/vodafone-baut-in-deutschland-rund-2300-stellen-ab?ref=rss",
+     "image": "https://i.ds.at/VROsnw/rs:fill:150:0/plain/lido-images/2026/11/09/3986d237-e80b-4c82-982d-cf55933c9ded.jpg",
+     "aggregator": false,
+     "published": "2026-11-09T10:37:09+00:00"
+    }
+   ]
+  },
+  {
+   "id": 2,
+   "score": 13.7,
+   "outlets": [
+    "tagesschau",
+    "Deutsche Welle",
+    "SRF News",
+    "Süddeutsche",
+    "n-tv",
+    "taz.de"
+   ],
+   "regions": [
+    "CH",
+    "DE",
+    "INT"
+   ],
+   "trend": [],
+   "newest": "2026-11-09T16:35:49+00:00",
+   "articles": [
+    {
+     "source": "tagesschau",
+     "region": "DE",
+     "weight": 1.0,
+     "title": "Ukraine-Gespräche in Abu Dhabi: EU kündigt Teilnahme an",
+     "summary": "Ab Dienstag soll in Abu Dhabi über einen möglichen Frieden in der Ukraine verhandelt werden. Auch Vertreter Europas haben sich dazu angekündigt. Moskau will lieber nur mit den USA reden.",
+     "link": "https://www.tagesschau.de/ausland/europa/ukraine-verhandlungen-abu-dhabi-100.html",
+     "image": "https://images.tagesschau.de/image/bcbfacd2-b7ac-4314-9d86-ec6d822e9492/AAABobwG94w/AAABnSSvrFg/16x9-big/abu-dhabi-103.jpg?width=1920",
+     "aggregator": false,
+     "published": "2026-11-09T13:52:00+00:00"
+    },
+    {
+     "source": "tagesschau Ausland",
+     "region": "INT",
+     "weight": 1.0,
+     "title": "Ukraine-Gespräche in Abu Dhabi: EU kündigt Teilnahme an",
+     "summary": "Ab Dienstag soll in Abu Dhabi über einen möglichen Frieden in der Ukraine verhandelt werden. Auch Vertreter Europas haben sich dazu angekündigt. Moskau will lieber nur mit den USA reden.",
+     "link": "https://www.tagesschau.de/ausland/europa/ukraine-verhandlungen-abu-dhabi-100.html",
+     "image": "https://images.tagesschau.de/image/bcbfacd2-b7ac-4314-9d86-ec6d822e9492/AAABobwG94w/AAABnSSvrFg/16x9-big/abu-dhabi-103.jpg?width=1920",
+     "aggregator": false,
+     "published": "2026-11-09T13:52:00+00:00"
+    },
+    {
+     "source": "Deutsche Welle",
+     "region": "INT",
+     "weight": 0.95,
+     "title": "Russland lehnt Europas Teilnahme an Ukraine-Gesprächen ab",
+     "summary": "Frankreich kündigt an, Vertreter zu den Verhandlungen in Abu Dhabi zu schicken. Moskau sieht dagegen nur Gespräche mit der Ukraine und den USA vor. Im Mittelpunkt stehen Sicherheitsgarantien und ein mögliches Kriegsende.",
+     "link": "https://www.dw.com/de/russland-lehnt-europas-teilnahme-an-ukraine-gesprächen-ab/a-79897668?maca=de-rss-de-all-1119-xml-mrss",
+     "image": "https://static.dw.com/image/76011845_302.jpg",
+     "aggregator": false,
+     "published": "2026-11-09T11:02:00+00:00"
+    },
+    {
+     "source": "SRF News",
+     "region": "CH",
+     "weight": 0.95,
+     "title": "Krieg in der Ukraine – EU meldet Teilnahme an Friedensgesprächen – Kreml dementiert",
+     "summary": "Die EU meldet ihre Teilnahme an den Gesprächen in Abu Dhabi. Kremlsprecher Peskow hält am trilateralen Format fest.",
+     "link": "https://www.srf.ch/news/international/ukraine/krieg-in-der-ukraine-eu-meldet-teilnahme-an-friedensgespraechen-kreml-dementiert",
+     "image": "https://www.srf.ch/static/cms/images//320ws/3ca35a.webp",
+     "aggregator": false,
+     "published": "2026-11-09T12:49:23+00:00"
+    },
+    {
+     "source": "Süddeutsche",
+     "region": "DE",
+     "weight": 0.9,
+     "title": "G-7-Außenminister in Paris: Europa pocht auf Mitsprache bei Ukraine-Verhandlungen",
+     "summary": "Die G-7-Außenminister treffen sich in Paris, während in Abu Dhabi Friedensgespräche zwischen den USA, Russland und der Ukraine beginnen sollen. Die Europäer wollen dort mitverhandeln, doch der Kreml blockt.",
+     "link": "https://www.sueddeutsche.de/politik/ukraine-verhandlungen-g7-aussenminister-paris-abu-dhabi-europa-li.3577457",
+     "image": "https://www.sueddeutsche.de/2026/11/09/aef995db-5e46-441f-81c8-11a1ec24ae13.jpg?rect=195%2C0%2C3111%2C2333&width=1000&fm=jpg&q=60",
+     "aggregator": false,
+     "published": "2026-11-09T13:55:02+00:00"
+    },
+    {
+     "source": "n-tv",
+     "region": "DE",
+     "weight": 0.8,
+     "title": "Ukraine-Gespräche am Golf: Kushner für direkte Gespräche zwischen Europa und Russland",
+     "summary": "Während Russen, Ukrainer und Amerikaner in Abu Dhabi verhandeln, sitzen die Europäer nicht am Tisch. Trumps Schwiegersohn Kushner verlangt nun eine eigene Verhandlungsspur zwischen Brüssel und Moskau. Dabei sollte es um \"umfassendere Sicherheitsvereinbarungen\" gehen.",
+     "link": "https://www.n-tv.de/politik/Kushner-fuer-direkte-Gespraeche-zwischen-Europa-und-Russland-id31513127.html",
+     "image": "https://www.n-tv.de/img/31513140/1794242793/Img_4_3/250/617421622.jpg",
+     "aggregator": false,
+     "published": "2026-11-09T16:35:49+00:00"
+    },
+    {
+     "source": "taz.de",
+     "region": "DE",
+     "weight": 0.6,
+     "title": "Trilaterales Treffen in Abu Dhabi: Europäer mit am Tisch? Von wegen!",
+     "summary": "Trilaterales Treffen in Abu Dhabi: Europäer mit am Tisch? Von wegen! taz.de Ukraine-Gespräche in Abu Dhabi: EU kündigt Teilnahme an tagesschau.de Trumps Denkfehler bei Ukraine-Gesprächen: Putin will die Kapitulation, nicht Frieden Tagesspiegel Schwere Angriffe: Ukraine und Russland attackieren sich vor Verhandlungen in Abu Dhabi Spiegel Keine «Verhandlungsshow»: Wadephul warnt Russland - Panorama - SZ.de SZ.de",
+     "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE11TTVoakMtRkVGOWxYS0RTN1cySTFGNkowTmF2d3FneW5nZzIwVFM1clUyM0JOQU1FeFBNeVU5ZmFRVXZqQl9FZXdtZFYwSW11Vlp1M0I3T2lsenRRQmRVNnZqcklxMUx1dUE?oc=5",
+     "image": null,
+     "aggregator": true,
+     "published": "2026-11-09T13:47:27+00:00"
+    }
+   ]
+  },
+  {
+   "id": 3,
+   "score": 13.2,
+   "outlets": [
+    "tagesschau",
+    "Deutschlandfunk",
+    "Süddeutsche",
+    "Handelsblatt",
+    "NZZ"
+   ],
+   "regions": [
+    "CH",
+    "DE",
+    "INT"
+   ],
+   "trend": [],
+   "newest": "2026-11-09T16:35:19+00:00",
+   "articles": [
+    {
+     "source": "tagesschau",
+     "region": "DE",
+     "weight": 1.0,
+     "title": "Papst Leo XIV. fordert in Argentinien mehr Rücksicht auf Schwache",
+     "summary": "Zu Beginn seines Argentinienbesuchs hat Papst Leo XIV. Kritik an der \"Kettensägen-Politik\" von Präsident Milei geübt und zu mehr Rücksicht aufgerufen. Seit fast vier Jahrzehnten war kein Papst mehr in dem südamerikanischen Land zu Gast.",
+     "link": "https://www.tagesschau.de/ausland/amerika/papst-in-argentinien-100.html",
+     "image": "https://images.tagesschau.de/image/1f30676a-63bb-4057-a135-fb0db6a3cdc5/AAABob7H93o/AAABnSSvrFg/16x9-big/papst-1178.jpg?width=1920",
+     "aggregator": false,
+     "published": "2026-11-09T00:43:39+00:00"
+    },
+    {
+     "source": "tagesschau Ausland",
+     "region": "INT",
+     "weight": 1.0,
+     "title": "Papst Leo XIV. fordert in Argentinien mehr Rücksicht auf Schwache",
+     "summary": "Zu Beginn seines Argentinienbesuchs hat Papst Leo XIV. Kritik an der \"Kettensägen-Politik\" von Präsident Milei geübt und zu mehr Rücksicht aufgerufen. Seit fast vier Jahrzehnten war kein Papst mehr in dem südamerikanischen Land zu Gast.",
+     "link": "https://www.tagesschau.de/ausland/amerika/papst-in-argentinien-100.html",
+     "image": "https://images.tagesschau.de/image/1f30676a-63bb-4057-a135-fb0db6a3cdc5/AAABob7H93o/AAABnSSvrFg/16x9-big/papst-1178.jpg?width=1920",
+     "aggregator": false,
+     "published": "2026-11-09T00:43:39+00:00"
+    },
+    {
+     "source": "tagesschau Ausland",
+     "region": "INT",
+     "weight": 1.0,
+     "title": "Papst Leo XIV. setzt Südamerika-Reise fort",
+     "summary": "Zum Auftakt seiner Südamerika-Reise traf Papst Leo XIV. in Uruguay auf Armut und Gläubige in einer meist säkularen Gesellschaft. Nun geht es nach Argentinien, dessen Staatschef den Pontifex bisher eher als Kritiker kennt. Von Tilmann Kleinjung.",
+     "link": "https://www.tagesschau.de/ausland/amerika/papst-leo-suedamerika-uruguay-100.html",
+     "image": "https://images.tagesschau.de/image/569e6360-4542-49fc-a185-0871ac39e241/AAABobqGs5o/AAABnSSvrFg/16x9-big/papst-uruguay-100.jpg?width=1920",
+     "aggregator": false,
+     "published": "2026-11-08T08:27:56+00:00"
+    },
+    {
+     "source": "tagesschau Ausland",
+     "region": "INT",
+     "weight": 1.0,
+     "title": "Papst in Uruguay: Schwierige Mission für Leo XIV.",
+     "summary": "Zum Auftakt seiner Südamerika-Reise besucht Papst Leo XIV. Uruguay - ein Land, in dem der Glaube im Alltag kaum eine Rolle spielt. Doch im Armenviertel der Hauptstadt findet die soziale Arbeit der Kirche Anklang. Von Anne Herrberg.",
+     "link": "https://www.tagesschau.de/ausland/amerika/papst-reise-suedamerika-100.html",
+     "image": "https://images.tagesschau.de/image/c08b02e7-e2b9-49aa-9293-2aedfefde92c/AAABobeMIMM/AAABnSSvrFg/16x9-big/papst-leo-226.jpg?width=1920",
+     "aggregator": false,
+     "published": "2026-11-07T19:56:52+00:00"
+    },
+    {
+     "source": "Deutschlandfunk",
+     "region": "DE",
+     "weight": 0.95,
+     "title": "Buenos Aires - Papst mahnt Argentiniens Präsident Milei zu sozialer Verantwortung",
+     "summary": "Zu Beginn seines Besuchs in Argentinien hat Papst Leo Kritik an der Politik von Präsident Milei geübt.",
+     "link": "https://www.deutschlandfunk.de/papst-mahnt-argentiniens-praesident-milei-zu-sozialer-verantwortung-100.html",
+     "image": "https://bilder.deutschlandfunk.de/07/39/6f/fd/07396ffd-b55b-41dd-88b7-208e168bf64d/papst-leo-milei-100-1920x1920.jpg",
+     "aggregator": false,
+     "published": "2026-11-09T16:35:19+00:00"
+    },
+    {
+     "source": "Süddeutsche",
+     "region": "DE",
+     "weight": 0.9,
+     "title": "Der Papst in Argentinien: „Olé, olé, Leo, Leo“",
+     "summary": "Auf seiner ersten Lateinamerika-Reise ist der Papst in Argentinien angekommen. Zu seiner ersten Messe sollen mehr als zwei Millionen Menschen gekommen sein. Von Staatspräsident Milei trennen Leo XIV. jedoch Welten.",
+     "link": "https://www.sueddeutsche.de/politik/papst-leo-besuch-argentinien-milei-li.3577052",
+     "image": "https://www.sueddeutsche.de/2026/11/09/0c1f6c87-3d0d-4e1a-bd30-7cf27bb1e163.jpg?rect=402%2C108%2C2772%2C2079&width=1000&fm=jpg&q=60",
+     "aggregator": false,
+     "published": "2026-11-09T12:45:00+00:00"
+    },
+    {
+     "source": "Handelsblatt",
+     "region": "DE",
+     "weight": 0.9,
+     "title": "Kritik an Präsident Milei: Papst mahnt in Argentinien zu mehr Rücksicht",
+     "summary": "Über zwei Millionen auf den Straßen: Die Heimat seines Vorgängers rollt Leo den roten Teppich aus. Aber Leo findet auch kritische Worte - nicht nur, was den Umgang mit Armen und Behinderten angeht.",
+     "link": "https://www.handelsblatt.com/politik/international/kritik-an-praesident-milei-papst-mahnt-in-argentinien-zu-mehr-ruecksicht/100268302.html",
+     "image": "https://images.handelsblatt.com/e-5mtN9dH073/cover/900/506/0/0/107/106/0.5/0.5/papst-leo-xiv-in-argentinien.jpg",
+     "aggregator": false,
+     "published": "2026-11-09T15:35:45+00:00"
+    },
+    {
+     "source": "NZZ",
+     "region": "CH",
+     "weight": 0.9,
+     "title": "Der Papst in Buenos Aires: Leo XIV. kritisiert Javier Mileis soziale Kettensäge",
+     "summary": "Die Wirtschaft müsse den Menschen dienen und nicht umgekehrt, mahnt Papst Leo zu Beginn seiner dreitägigen Argentinien-Reise. Auch in Sachen Umgangston findet er deutliche Worte.",
+     "link": "https://www.nzz.ch/international/papst-in-argentinien-leo-xiv-kritisiert-mileis-sparpolitik-ld.10058762",
+     "image": "https://img-msp-prod.nzz.ch/2026/11/08/a49236a5-0dd0-4003-b566-21c998ca8f49.jpg?width=200&height=200&fit=bounds&quality=75&auto=webp&crop=3496,3496,x874,y0",
+     "aggregator": false,
+     "published": "2026-11-09T16:22:54+00:00"
+    }
+   ]
+  },
+  {
+   "id": 4,
+   "score": 12.0,
+   "outlets": [
+    "tagesschau",
+    "Deutschlandfunk",
+    "SRF News",
+    "DER STANDARD",
+    "tagesschau.de"
+   ],
+   "regions": [
+    "AT",
+    "CH",
+    "DE",
+    "INT"
+   ],
+   "trend": [],
+   "newest": "2026-11-09T16:35:19+00:00",
+   "articles": [
+    {
+     "source": "tagesschau",
+     "region": "DE",
+     "weight": 1.0,
+     "title": "Trump bezeichnet Sprecher-Angebot an Dana White als \"Scherz\"",
+     "summary": "US-Präsident Trump ist weiter auf der Suche nach einem Pressesprecher. Mit dem Boss der Kampfsportliga UFC hatte er einen ungewöhnlichen Kandidaten genannt - jetzt spricht er von einem \"Scherz\".",
+     "link": "https://www.tagesschau.de/ausland/amerika/usa-trump-pressesprecher-dana-white-100.html",
+     "image": "https://images.tagesschau.de/image/1f508e69-acc6-4d7b-a273-fb2285126233/AAABob-mde8/AAABnSSvrFg/16x9-big/white-trump-100.jpg?width=1920",
+     "aggregator": false,
+     "published": "2026-11-09T10:41:19+00:00"
+    },
+    {
+     "source": "tagesschau Ausland",
+     "region": "INT",
+     "weight": 1.0,
+     "title": "Trump bezeichnet Sprecher-Angebot an Dana White als \"Scherz\"",
+     "summary": "US-Präsident Trump ist weiter auf der Suche nach einem Pressesprecher. Mit dem Boss der Kampfsportliga UFC hatte er einen ungewöhnlichen Kandidaten genannt - jetzt spricht er von einem \"Scherz\".",
+     "link": "https://www.tagesschau.de/ausland/amerika/usa-trump-pressesprecher-dana-white-100.html",
+     "image": "https://images.tagesschau.de/image/1f508e69-acc6-4d7b-a273-fb2285126233/AAABob-mde8/AAABnSSvrFg/16x9-big/white-trump-100.jpg?width=1920",
+     "aggregator": false,
+     "published": "2026-11-09T10:41:19+00:00"
+    },
+    {
+     "source": "Deutschlandfunk",
+     "region": "DE",
+     "weight": 0.95,
+     "title": "UFC - Trump: Vorschlag für Kampfsportchef als neuen Pressesprecher war ein Scherz",
+     "summary": "US-Präsident Trump hat sein Angebot, den Präsidenten des Kampfsportverbandes UFC, Dana White, zum neuen Pressesprecher des Weißen Hauses zu machen, als Scherz bezeichnet.",
+     "link": "https://www.deutschlandfunk.de/trump-vorschlag-fuer-kampfsportchef-als-neuen-pressesprecher-war-ein-scherz-100.html",
+     "image": "https://bilder.deutschlandfunk.de/88/0e/d3/3d/880ed33d-2c8f-4be0-b7b7-0585e3b10d3d/trump-ufc-dana-white-100-1920x1920.jpg",
+     "aggregator": false,
+     "published": "2026-11-09T16:35:19+00:00"
+    },
+    {
+     "source": "SRF News",
+     "region": "CH",
+     "weight": 0.95,
+     "title": "Midterms 2026 – Trump bei CBS: Abschiebepolitik war «zu hart»",
+     "summary": "Nach der Wahlschlappe der Republikaner bezeichnet US-Präsident Trump bei CBS die Abschiebepolitik als «zu hart».",
+     "link": "https://www.srf.ch/news/international/midterms-2026-trump-bei-cbs-abschiebepolitik-war-zu-hart",
+     "image": "https://www.srf.ch/static/cms/images//320ws/091c37.webp",
+     "aggregator": false,
+     "published": "2026-11-09T02:23:04+00:00"
+    },
+    {
+     "source": "DER STANDARD",
+     "region": "AT",
+     "weight": 0.85,
+     "title": "Trump: Angebot des Pressesprecher-Postens an Kampfsportler war Scherz",
+     "summary": "US-Präsident Donald Trump behauptete auf seinem Onlinedienst Truth Social, er habe dem UFC-Chef Dana White die Rolle im Weißen Haus angeboten",
+     "link": "https://www.derstandard.at/story/3000000348121/trump-angebot-des-pressesprecher-postens-an-kampfsportler-war-scherz?ref=rss",
+     "image": "https://i.ds.at/pVtvIg/rs:fill:150:0/plain/lido-images/2026/11/09/1b8c28b7-b50b-4b7d-80b7-5a0208917118.jpg",
+     "aggregator": false,
+     "published": "2026-11-09T05:17:13+00:00"
+    },
+    {
+     "source": "tagesschau.de",
+     "region": "DE",
+     "weight": 0.6,
+     "title": "Trump bezeichnet Sprecher-Angebot an Dana White als \"Scherz\"",
+     "summary": "Trump bezeichnet Sprecher-Angebot an Dana White als \"Scherz\" tagesschau.de UFC-Boss als Pressesprecher: Dana White: Trumps Personal-Vorschlag war ein Scherz n-tv.de Donald Trump: Dana White wird doch nicht Pressesprecher BILD (S+) Donald Trump: UFC-Chef Dana White und seine politische Rolle für den US-Präsidenten Spiegel Folge 10: Annika Brockschmidt über Trumps neuen Sprecher: UFC-Chef ist gewalttätig RTL+",
+     "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPYWlyaXRFSUZwclVjZENSQV9XeWx1OG9YQkZHdllBZUZrQ1gxNmNrand3M0t0b24xeEVxLXhNLWdUWlpfNGY4Nm54cnlvNW1LMTBOSHdVQ183eVJZRTZFQ1ZDaVJyeDJRMTNnc3ZFLTZkNWNHbGdsS0Y0OTBSSkd0MXhzcVIyYThNdlJDbG9Yaw?oc=5",
+     "image": null,
+     "aggregator": true,
+     "published": "2026-11-09T10:41:00+00:00"
+    }
+   ]
+  },
+  {
+   "id": 5,
+   "score": 11.6,
+   "outlets": [
+    "tagesschau",
+    "ZDFheute",
+    "Deutschlandfunk",
+    "Handelsblatt"
+   ],
+   "regions": [
+    "DE"
+   ],
+   "trend": [],
+   "newest": "2026-11-09T16:35:19+00:00",
+   "articles": [
+    {
+     "source": "tagesschau",
+     "region": "DE",
+     "weight": 1.0,
+     "title": "Auftakt der Weltklimakonferenz COP31 im türkischen Antalya",
+     "summary": "Auftakt der Weltklimakonferenz COP31 im türkischen Antalya",
+     "link": "https://www.tagesschau.de/video/video-1680848.html",
+     "image": "https://images.tagesschau.de/image/f5c0b074-5741-42c7-b8f5-ae3e32ae5c58/AAABocEkduw/AAABnSSvrFg/16x9-big/sendungsbild-1824998.jpg?width=1920",
+     "aggregator": false,
+     "published": "2026-11-09T16:33:27+00:00"
+    },
+    {
+     "source": "ZDFheute",
+     "region": "DE",
+     "weight": 1.0,
+     "title": "COP31 startet: Kanzler fehlt, Geld fehlt",
+     "summary": "Kein Kanzler in Antalya: Merz sagt der Weltklimakonferenz ab und erklärt kaum, warum. Die Absage passt ins Bild einer Regierung, die beim Klimaschutz auf die Bremse tritt.",
+     "link": "https://www.zdfheute.de/politik/deutschland/merz-weltklimakonferenz-absage-100.html",
+     "image": "https://www.zdfheute.de/assets/friedrich-merz-978~384x216?cb=1794138721439",
+     "aggregator": false,
+     "published": "2026-11-08T13:19:00+00:00"
+    },
+    {
+     "source": "Deutschlandfunk",
+     "region": "DE",
+     "weight": 0.95,
+     "title": "Türkei - Weltklimakonferenz COP31 in Antalya eröffnet",
+     "summary": "Im türkischen Antalya hat die Weltklimakonferenz begonnen. Knapp zwei Wochen beraten Delegierte aus rund 200 Staaten über die weiteren Schritte zur Eindämmung der Klimakrise. Für Deutschland nimmt Umweltminister Schneider teil. Der türkische COP-Präsident Kurum warb zum Auftakt für ein ambitioniertes Ergebnis.",
+     "link": "https://www.deutschlandfunk.de/weltklimakonferenz-cop31-in-antalya-eroeffnet-100.html",
+     "image": "https://bilder.deutschlandfunk.de/c0/16/ca/5a/c016ca5a-7e17-4ba9-a22c-c96bf2357791/tuerkei-antalya-weltklimakonferenz-cop31-murat-kurum-100-1920x1920.jpg",
+     "aggregator": false,
+     "published": "2026-11-09T16:35:19+00:00"
+    },
+    {
+     "source": "Handelsblatt",
+     "region": "DE",
+     "weight": 0.9,
+     "title": "Klimagipfel: COP31 in Antalya hat begonnen – Die Klimakonferenz in Bildern",
+     "summary": "Mehr Hitzewellen, Dürren, Waldbrände und Überschwemmungen als je zuvor – Die Weltklimakonferenz beginnt im Schatten der Klimakrise. Wird das Ruder dennoch rumgerissen?",
+     "link": "https://www.handelsblatt.com/politik/international/klimagipfel-cop31-in-antalya-hat-begonnen-die-klimakonferenz-in-bildern/100268432.html",
+     "image": "https://images.handelsblatt.com/QJl4-FlRp8IY/cover/900/506/0/0/119/454/0.5/0.5/president-of-cop31-murat-kurum-of-turkey-delivers-a-speech-during-the-opening-ceremony-of-the-un-cli.jpg",
+     "aggregator": false,
+     "published": "2026-11-09T16:05:42+00:00"
+    }
+   ]
+  },
+  {
+   "id": 6,
+   "score": 10.97,
+   "outlets": [
+    "ZDFheute",
+    "Süddeutsche",
+    "DER STANDARD",
+    "n-tv",
+    "sportschau.de"
+   ],
+   "regions": [
+    "AT",
+    "DE"
+   ],
+   "trend": [],
+   "newest": "2026-11-09T14:42:32+00:00",
+   "articles": [
+    {
+     "source": "ZDFheute",
+     "region": "DE",
+     "weight": 1.0,
+     "title": "Bröckelt die Unterstützung für Musiala beim FC Bayern?",
+     "summary": "Jamal Musiala kämpft seit über einem Jahr mit gesundheitlichen Problemen. Aussagen von Bayerns Ehrenpräsident Uli Hoeneß erhöhen nun den Druck auf den Nationalspieler.",
+     "link": "https://www.zdfheute.de/sport/fussball-bundesliga/bundesliga-bayern-muenchen-musiala-comeback-hoeness-100.html",
+     "image": "https://www.zdfheute.de/assets/jamal-musiala-170~384x216?cb=1794219358084",
+     "aggregator": false,
+     "published": "2026-11-09T11:21:00+00:00"
+    },
+    {
+     "source": "Süddeutsche",
+     "region": "DE",
+     "weight": 0.9,
+     "title": "FC Bayern und Jamal Musiala: Hoeneß spricht nur aus, worüber sie sich beim FC Bayern sorgen",
+     "summary": "Der Ehrenpräsident stellt öffentlich infrage, ob Jamal Musiala wieder der Alte wird. Das ist aber weder Spekulation noch Fatalismus.",
+     "link": "https://www.sueddeutsche.de/sport/musiala-hoeness-aussagen-br-li.3577358",
+     "image": "https://www.sueddeutsche.de/2026/11/09/6a5f0cdf-6d86-4ab0-88e8-d80f6ddb82eb.jpg?rect=79%2C0%2C2777%2C2083&width=1000&fm=jpg&q=60",
+     "aggregator": false,
+     "published": "2026-11-09T14:42:32+00:00"
+    },
+    {
+     "source": "DER STANDARD",
+     "region": "AT",
+     "weight": 0.85,
+     "title": "Bayern-Star Jamal Musiala zwischen Comeback und \"Dilemma\"",
+     "summary": "Kritische Aussagen von Uli Hoeneß sorgen für Aufsehen: Der Bayern-Patron stellt die Leistungsfähigkeit des Hoffnungsträgers infrage",
+     "link": "https://www.derstandard.at/story/3000000348246/bayern-star-jamal-musiala-zwischen-comeback-und-dilemma?ref=rss",
+     "image": "https://i.ds.at/wmKjiQ/rs:fill:150:0/plain/lido-images/2026/11/09/045a4b35-1aa8-408c-aa6e-ec992ecf5401.jpg",
+     "aggregator": false,
+     "published": "2026-11-09T12:11:46+00:00"
+    },
+    {
+     "source": "n-tv",
+     "region": "DE",
+     "weight": 0.8,
+     "title": "Dilemma um Musiala: Heikle Hoeneß-Äußerungen spalten den FC Bayern München",
+     "summary": "Die überraschenden Äußerungen des Ehrenpräsidenten des FC Bayern München, Uli Hoeneß, rund um das schwierige Thema Jamal Musiala haben am Wochenende für Furore gesorgt und die Fans des FC Bayern in ihren Meinungen gespalten.",
+     "link": "https://www.n-tv.de/sport/fussball/redelings_nachspielzeit/Heikle-Hoeness-Aeusserungen-spalten-den-FC-Bayern-Muenchen-id31511595.html",
+     "image": "https://www.n-tv.de/img/31511636/1794228132/Img_4_3/250/imago1083396097h.jpg",
+     "aggregator": false,
+     "published": "2026-11-09T13:28:33+00:00"
+    },
+    {
+     "source": "sportschau.de",
+     "region": "DE",
+     "weight": 0.6,
+     "title": "BR24 Sport: Beierlorzer über Hoeneß: \"Hilft weder Musiala noch dem Verein\"",
+     "summary": "BR24 Sport: Beierlorzer über Hoeneß: \"Hilft weder Musiala noch dem Verein\" sportschau.de FC Bayern: DAS steckt hinter den Aussagen von Uli Hoeneß zu Jamal Musiala BILD Kommentar zu Musiala: Hoeneß spricht nur aus, worüber sie sich beim FC Bayern sorgen - Sport - SZ.de SZ.de Bayerns Crux: Immer wieder Hoeneß-Worte mit Nebenwirkungen WELT Beierlorzer über Hoeneß: \"Hilft weder Musiala noch dem Verein\" BR",
+     "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNUmRmUDNQNXJOT0RsZHItekVnWDhaWjFxVHp2dEpvU2wxZWdjSHhqczJNbTluY0dZNUYwTVhudUxKZUJybmRTdHdrZV9Pd1hWajZQcjEwMVhSek1nSGVxNVgyOWwwalhnb29tNEtxM2k0REViU2dDSVUyNmYyMHJUWWJmbWJ1ZFkwY0oxaHNpdWw4TTB6eHROd2RCNlM1cjV2TnItcjk5V19YTFR3Y2RNVA?oc=5",
+     "image": null,
+     "aggregator": true,
+     "published": "2026-11-09T10:26:24+00:00"
+    }
+   ]
+  },
+  {
+   "id": 7,
+   "score": 9.87,
+   "outlets": [
+    "SPIEGEL",
+    "WELT"
+   ],
+   "regions": [
+    "DE"
+   ],
+   "trend": [
+    "karwendel",
+    "21-Jährige stirbt auf Bergtour am Karwendel",
+    "Bergunfall: 21-jährige Frau aus Mecklenburg-Vorpommern stirbt am Karwendel"
+   ],
+   "newest": "2026-11-09T15:19:07+00:00",
+   "articles": [
+    {
+     "source": "SPIEGEL",
+     "region": "DE",
+     "weight": 0.9,
+     "title": "Garmisch-Partenkirchen: 21 Jahre alte Wanderin stirbt bei Sturz im Karwendel",
+     "summary": "Ein Ehepaar war im Landkreis Garmisch-Partenkirchen wandern. Oberhalb von 1900 Metern rutschte die Frau laut Polizei aus und stürzte über steiles Felsgelände ab.",
+     "link": "https://www.spiegel.de/sport/garmisch-partenkirchen-21-jahre-alte-wanderin-stirbt-bei-sturz-im-karwendel-a-80df204e-a056-4ff8-ac2f-ad4c95b70751#ref=rss",
+     "image": "https://cdn.prod.www.spiegel.de/images/79948272-8930-47ee-b5c6-39fc5c3a78ec_w520_r2.08_fpx68.69_fpy55.jpg",
+     "aggregator": false,
+     "published": "2026-11-09T15:06:00+00:00"
+    },
+    {
+     "source": "WELT",
+     "region": "DE",
+     "weight": 0.8,
+     "title": "21-jährige Frau aus Mecklenburg-Vorpommern stirbt am Karwendel",
+     "summary": "An der Westlichen Karwendelspitze ist eine 21-jährige Frau aus Mecklenburg-Vorpommern tödlich verunglückt. Sie rutschte in winterlichen Verhältnissen aus und stürzte 120 Höhenmeter ab.",
+     "link": "https://www.welt.de/vermischtes/article6af1e06d79e1656222c37c2b/bergunfall-21-jaehrige-frau-aus-mecklenburg-vorpommern-stirbt-am-karwendel.html",
+     "image": "https://images.welt.de/6af1e06d79e1656222c37c2b/8e22983d213e5d8d8328539ee9c1d808-master/ci23x11-w1200/dpa-com-261109-935-1731703-jpg",
+     "aggregator": false,
+     "published": "2026-11-09T15:19:07+00:00"
+    }
+   ]
+  },
+  {
+   "id": 8,
+   "score": 9.8,
+   "outlets": [
+    "tagesschau",
+    "ZDFheute",
+    "Deutschlandfunk"
+   ],
+   "regions": [
+    "DE",
+    "INT"
+   ],
+   "trend": [],
+   "newest": "2026-11-09T16:35:19+00:00",
+   "articles": [
+    {
+     "source": "tagesschau",
+     "region": "DE",
+     "weight": 1.0,
+     "title": "Russland: Letzte unabhängige Zeitung Nowaja Gaseta stellt Arbeit ein",
+     "summary": "Sie galt als die letzte regierungskritische Stimme in Russland - bis heute. Nun hat die Zeitung Nowaja Gaseta ihren Betrieb eingestellt. Der Druck des Kreml wurde zu groß. Mitbegründer Muratow fand dazu klare Worte.",
+     "link": "https://www.tagesschau.de/ausland/europa/russland-zeitung-nowaja-gaseta-102.html",
+     "image": "https://images.tagesschau.de/image/646ac516-10c7-4ac0-840d-2fc3db6db38f/AAABocEp2f0/AAABnSSvrFg/16x9-big/nowaja-gaseta-114.jpg?width=1920",
+     "aggregator": false,
+     "published": "2026-11-09T16:35:08+00:00"
+    },
+    {
+     "source": "tagesschau Ausland",
+     "region": "INT",
+     "weight": 1.0,
+     "title": "Russland: Letzte unabhängige Zeitung Nowaja Gaseta stellt Arbeit ein",
+     "summary": "Sie galt als die letzte regierungskritische Stimme in Russland - bis heute. Nun hat die Zeitung Nowaja Gaseta ihren Betrieb eingestellt. Der Druck des Kreml wurde zu groß. Mitbegründer Muratow fand dazu klare Worte.",
+     "link": "https://www.tagesschau.de/ausland/europa/russland-zeitung-nowaja-gaseta-102.html",
+     "image": "https://images.tagesschau.de/image/646ac516-10c7-4ac0-840d-2fc3db6db38f/AAABocEp2f0/AAABnSSvrFg/16x9-big/nowaja-gaseta-114.jpg?width=1920",
+     "aggregator": false,
+     "published": "2026-11-09T16:35:08+00:00"
+    },
+    {
+     "source": "ZDFheute",
+     "region": "DE",
+     "weight": 1.0,
+     "title": "Kremlkritische Zeitung stellt ihre Arbeit ein",
+     "summary": "Sie war eine der letzten, wenn nicht die letzte liberale Zeitung in Russland. Doch aufgrund zunehmender Repressionen stellt die \"Nowaja Gaseta\" ihre Arbeit ein.",
+     "link": "https://www.zdfheute.de/politik/ausland/russland-pressefreiheit-presse-nowaja-gaseta-opposition-100.html",
+     "image": "https://www.zdfheute.de/assets/dmitri-muratow-nowaja-gaseta-100~384x216?cb=1648479056732",
+     "aggregator": false,
+     "published": "2026-11-09T05:57:00+00:00"
+    },
+    {
+     "source": "Deutschlandfunk",
+     "region": "DE",
+     "weight": 0.95,
+     "title": "Russland - \"Nowaja Gaseta\" stellt heute ihren Betrieb ein",
+     "summary": "In Russland stellt die unabhängige Zeitung \"Nowaja Gaseta\" heute ihren Betrieb ein. Chefredakteur Sokolow hatte den Schritt vor einigen Tagen angekündigt und auf Repressalien der russischen Behörden und Geheimdienste verwiesen.",
+     "link": "https://www.deutschlandfunk.de/nowaja-gaseta-stellt-heute-ihren-betrieb-ein-102.html",
+     "image": "https://bilder.deutschlandfunk.de/a5/fb/6a/1b/a5fb6a1b-25e4-48cd-ad14-3ff96f31562b/novaya-gazeta-zeitung-lizenz-entzug-russland-medien-dokumente-unabhaengig-100-1920x1920.jpg",
+     "aggregator": false,
+     "published": "2026-11-09T16:35:19+00:00"
+    }
+   ]
+  },
+  {
+   "id": 9,
+   "score": 9.5,
+   "outlets": [
+    "ORF",
+    "SRF News",
+    "SPIEGEL"
+   ],
+   "regions": [
+    "AT",
+    "CH",
+    "DE"
+   ],
+   "trend": [],
+   "newest": "2026-11-09T16:36:29+00:00",
+   "articles": [
+    {
+     "source": "ORF",
+     "region": "AT",
+     "weight": 0.95,
+     "title": "Bericht: Bruder von Orban festgenommen",
+     "summary": "",
+     "link": "https://orf.at/stories/3447687/",
+     "image": null,
+     "aggregator": false,
+     "published": "2026-11-09T10:58:06+00:00"
+    },
+    {
+     "source": "SRF News",
+     "region": "CH",
+     "weight": 0.95,
+     "title": "Ungarn – Verdacht auf Menschenhandel: Bruder von Viktor Orban festgenommen",
+     "summary": "In Ungarn gerät die Familie von Ex-Premier Viktor Orban ins Visier der Justiz: Sein Bruder Áron wurde festgenommen.",
+     "link": "https://www.srf.ch/news/international/ungarn-verdacht-auf-menschenhandel-bruder-von-viktor-orban-festgenommen",
+     "image": "https://www.srf.ch/static/cms/images//320ws/4feca0f.webp",
+     "aggregator": false,
+     "published": "2026-11-09T16:36:29+00:00"
+    },
+    {
+     "source": "SPIEGEL",
+     "region": "DE",
+     "weight": 0.9,
+     "title": "Ungarn: Bruder von Viktor Orbán offenbar festgenommen",
+     "summary": "Aron Orbán soll in Menschenhandel verwickelt sein, er wurde Berichten zufolge in Ungarn festgenommen. Sein Bruder, der ehemalige Regierungschef Viktor Orbán, spricht von einer »Hexenjagd«.",
+     "link": "https://www.spiegel.de/ausland/ungarn-bruder-von-viktor-orban-offenbar-festgenommen-a-31b6c582-38fc-469f-8225-41bd2cf0e4ba#ref=rss",
+     "image": "https://cdn.prod.www.spiegel.de/images/67c1b68d-51bb-419d-b511-d8151bbd7651_w520_r2.08_fpx49.9_fpy44.87.jpg",
+     "aggregator": false,
+     "published": "2026-11-09T15:17:00+00:00"
+    }
+   ]
+  },
+  {
+   "id": 10,
+   "score": 9.27,
+   "outlets": [
+    "tagesschau",
+    "NZZ",
+    "WELT"
+   ],
+   "regions": [
+    "CH",
+    "DE",
+    "INT"
+   ],
+   "trend": [],
+   "newest": "2026-11-09T16:30:41+00:00",
+   "articles": [
+    {
+     "source": "tagesschau",
+     "region": "DE",
+     "weight": 1.0,
+     "title": "Frankreich erhöht Mindestlohn um 1,6 Prozent",
+     "summary": "Die Regierung in Paris will angesichts der anhaltenden Proteste offenbar ein Zeichen setzen: Die für Januar geplante Erhöhung des Mindestlohns wird nun vorgezogen. Ab Dezember soll es netto 24 Euro mehr geben pro Monat.",
+     "link": "https://www.tagesschau.de/ausland/europa/frankreich-erhoehung-mindestlohn-100.html",
+     "image": "https://images.tagesschau.de/image/9882f426-7cbf-4bbd-a5ca-33544a91c72a/AAABocDe8qY/AAABnSSvrFg/16x9-big/frankreich-demo-marseille-100.jpg?width=1920",
+     "aggregator": false,
+     "published": "2026-11-09T16:25:22+00:00"
+    },
+    {
+     "source": "tagesschau Ausland",
+     "region": "INT",
+     "weight": 1.0,
+     "title": "Frankreich erhöht Mindestlohn um 1,6 Prozent",
+     "summary": "Die Regierung in Paris will angesichts der anhaltenden Proteste offenbar ein Zeichen setzen: Die für Januar geplante Erhöhung des Mindestlohns wird nun vorgezogen. Ab Dezember soll es netto 24 Euro mehr geben pro Monat.",
+     "link": "https://www.tagesschau.de/ausland/europa/frankreich-erhoehung-mindestlohn-100.html",
+     "image": "https://images.tagesschau.de/image/9882f426-7cbf-4bbd-a5ca-33544a91c72a/AAABocDe8qY/AAABnSSvrFg/16x9-big/frankreich-demo-marseille-100.jpg?width=1920",
+     "aggregator": false,
+     "published": "2026-11-09T16:25:22+00:00"
+    },
+    {
+     "source": "NZZ",
+     "region": "CH",
+     "weight": 0.9,
+     "title": "DIE NEUESTEN ENTWICKLUNGEN - Proteste in Frankreich: Frankreich erhöht den Mindestlohn",
+     "summary": "Seit Wochen gehen Schüler, Lehrpersonen und Gewerkschaften auf die Strasse – und lösen eine landesweite Bewegung aus, die zu Krawallen und Gewalt führt. Die neusten Entwicklungen.",
+     "link": "https://www.nzz.ch/international/neue-schuelerproteste-in-frankreich-droht-eine-ausweitung-der-ausschreitungen-ld.10026904",
+     "image": "https://img-msp-prod.nzz.ch/2026/11/07/a50ef86b-27a5-475d-a6da-651521e9954f.jpg?width=200&height=200&fit=bounds&quality=75&auto=webp&crop=4128,4127,x142,y1",
+     "aggregator": false,
+     "published": "2026-11-09T13:23:31+00:00"
+    },
+    {
+     "source": "WELT",
+     "region": "DE",
+     "weight": 0.8,
+     "title": "Frankreich erhöht Mindestlohn nach Protesten – Gewerkschaften bleiben unzufrieden",
+     "summary": "Nur 24 Euro mehr im Monat: Frankreichs Regierung reagiert auf die Proteste mit einer Mindestlohnerhöhung. Die Gewerkschaften fordern ein Vielfaches und bereiten weitere Aktionen vor. Schon in den kommenden Tagen könnten neue Streiks das Land treffen.",
+     "link": "https://www.welt.de/politik/ausland/article6af1f27479e1656222c37e2e/rund-24-euro-mehr-frankreich-erhoeht-mindestlohn-nach-protesten-gewerkschaften-bleiben-unzufrieden.html",
+     "image": "https://images.welt.de/6af1f27479e1656222c37e2e/a8a096c3e19a4e7fef3292b877f8dc80-master/ci23x11-w1200/dpa-com-261109-935-1731427-jpg",
+     "aggregator": false,
+     "published": "2026-11-09T16:30:41+00:00"
+    }
+   ]
+  },
+  {
+   "id": 11,
+   "score": 9.25,
+   "outlets": [
+    "ORF",
+    "SRF News",
+    "n-tv"
+   ],
+   "regions": [
+    "AT",
+    "CH",
+    "DE"
+   ],
+   "trend": [],
+   "newest": "2026-11-09T16:26:46+00:00",
+   "articles": [
+    {
+     "source": "ORF",
+     "region": "AT",
+     "weight": 0.95,
+     "title": "Trump schürt erneut Zweifel an Sieg der Demokraten",
+     "summary": "",
+     "link": "https://orf.at/stories/3447719/",
+     "image": null,
+     "aggregator": false,
+     "published": "2026-11-09T16:26:46+00:00"
+    },
+    {
+     "source": "SRF News",
+     "region": "CH",
+     "weight": 0.95,
+     "title": "Blaue Welle in den USA – Die Warnung im Sieg der Demokraten",
+     "summary": "Die Republikaner verloren, weil Trumps Siegeskoalition von 2024 zerbrach. Eine Warnung für die Demokraten für 2028.",
+     "link": "https://www.srf.ch/news/international/usa/blaue-welle-in-den-usa-die-warnung-im-sieg-der-demokraten",
+     "image": "https://www.srf.ch/static/cms/images//320ws/715e66.webp",
+     "aggregator": false,
+     "published": "2026-11-05T04:50:47+00:00"
+    },
+    {
+     "source": "n-tv",
+     "region": "DE",
+     "weight": 0.8,
+     "title": "Mehr Befugnisse nach Wahlsieg: Demokraten wollen Trump-Familie wegen Korruption an den Kragen",
+     "summary": "Berichte legen nahe, dass die Familie von US-Präsident Trump enorm von Aufträgen seiner Regierung profitiert. Nach dem Sieg bei den Zwischenwahlen haben die Demokraten nun bald den Vorsitz über wichtige Aufsichtsausschüsse im Kongress. Sie nehmen nicht nur die Trump-Söhne ins Visier.",
+     "link": "https://www.n-tv.de/politik/Demokraten-wollen-Trump-Familie-wegen-Korruption-an-den-Kragen-id31512579.html",
+     "image": "https://www.n-tv.de/img/31512752/1794238494/Img_4_3/250/AP25020716933133.jpg",
+     "aggregator": false,
+     "published": "2026-11-09T15:14:53+00:00"
+    }
+   ]
+  },
+  {
+   "id": 12,
+   "score": 9.19,
+   "outlets": [
+    "tagesschau",
+    "ZDFheute",
+    "DER STANDARD"
+   ],
+   "regions": [
+    "AT",
+    "DE",
+    "INT"
+   ],
+   "trend": [],
+   "newest": "2026-11-09T15:22:10+00:00",
+   "articles": [
+    {
+     "source": "tagesschau",
+     "region": "DE",
+     "weight": 1.0,
+     "title": "Todesschütze von Krakau ist tot",
+     "summary": "Die tödlichen Schüsse in Krakau haben Entsetzen ausgelöst, aber auch viele Fragen aufgeworfen. Vor allem nach dem Motiv des Täters. Er kann nicht mehr vernommen werden. Der 24-Jährige starb im Krankenhaus.",
+     "link": "https://www.tagesschau.de/ausland/europa/krakau-todesschuetze-tot-100.html",
+     "image": "https://images.tagesschau.de/image/b37f455e-5f09-4bb8-b717-e2ef584c52c1/AAABob8GgTA/AAABnSSvrFg/16x9-big/krakau-178.jpg?width=1920",
+     "aggregator": false,
+     "published": "2026-11-09T07:06:15+00:00"
+    },
+    {
+     "source": "tagesschau Ausland",
+     "region": "INT",
+     "weight": 1.0,
+     "title": "Todesschütze von Krakau ist tot",
+     "summary": "Die tödlichen Schüsse in Krakau haben Entsetzen ausgelöst, aber auch viele Fragen aufgeworfen. Vor allem nach dem Motiv des Täters. Er kann nicht mehr vernommen werden. Der 24-Jährige starb im Krankenhaus.",
+     "link": "https://www.tagesschau.de/ausland/europa/krakau-todesschuetze-tot-100.html",
+     "image": "https://images.tagesschau.de/image/b37f455e-5f09-4bb8-b717-e2ef584c52c1/AAABob8GgTA/AAABnSSvrFg/16x9-big/krakau-178.jpg?width=1920",
+     "aggregator": false,
+     "published": "2026-11-09T07:06:15+00:00"
+    },
+    {
+     "source": "tagesschau Ausland",
+     "region": "INT",
+     "weight": 1.0,
+     "title": "Familienmitglieder des Schützen ebenfalls getötet",
+     "summary": "Landesweit gilt in Polen nach den tödlichen Schüssen auf Passanten auf einem Marktplatz in Krakau Staatstrauer. Das Motiv des Schützen bleibt unklar. Er steht im Verdacht, auch seine Eltern und Schwester getötet zu haben.",
+     "link": "https://www.tagesschau.de/ausland/europa/krakau-schuesse-trauer-100.html",
+     "image": "https://images.tagesschau.de/image/9abd0f70-e013-42c1-89d5-8710c5472b62/AAABobqYEFU/AAABnSSvrFg/16x9-big/polen-krakau-100.jpg?width=1920",
+     "aggregator": false,
+     "published": "2026-11-08T09:58:10+00:00"
+    },
+    {
+     "source": "ZDFheute",
+     "region": "DE",
+     "weight": 1.0,
+     "title": "Todesschütze von Krakau ist tot",
+     "summary": "Die tödlichen Schüsse in Krakau haben viele Fragen aufgeworfen. Um alle zu beantworten, müsste zunächst derjenige vor dem Tod gerettet werden, der anderen Menschen das Leben nahm.",
+     "link": "https://www.zdfheute.de/politik/ausland/anschlag-krakau-taeter-zustand-100.html",
+     "image": "https://www.zdfheute.de/assets/anschlag-krakau-kerzen-100~384x216?cb=1794198359651",
+     "aggregator": false,
+     "published": "2026-11-09T07:15:00+00:00"
+    },
+    {
+     "source": "DER STANDARD",
+     "region": "AT",
+     "weight": 0.85,
+     "title": "Fake News, Lügen, Vorwürfe: Der Anschlag von Krakau wurde rasch zum Politikum",
+     "summary": "Zu den Motiven des Täters gibt es noch viele offene Fragen. Die politische Instrumentalisierung ließ aber nicht lange auf sich warten – und das in einem ohnehin aufgeheizten Klima",
+     "link": "https://www.derstandard.at/story/3000000348240/fake-news-luegen-vorwuerfe-der-anschlag-von-krakau-wurde-rasch-zum-politikum?ref=rss",
+     "image": "https://i.ds.at/O3eZZw/rs:fill:150:0/plain/lido-images/2026/11/09/51729dc8-74b1-4295-8e91-aba2ef2fe2f6.jpg",
+     "aggregator": false,
+     "published": "2026-11-09T15:22:10+00:00"
+    }
+   ]
+  },
+  {
+   "id": 13,
+   "score": 8.88,
+   "outlets": [
+    "ZDFheute",
+    "SPIEGEL",
+    "DER STANDARD"
+   ],
+   "regions": [
+    "AT",
+    "DE"
+   ],
+   "trend": [],
+   "newest": "2026-11-09T15:02:00+00:00",
+   "articles": [
+    {
+     "source": "ZDFheute",
+     "region": "DE",
+     "weight": 1.0,
+     "title": "Zehntausende Flüchtlingszelte überflutet",
+     "summary": "Im Gazastreifen sind durch heftige Regenfälle Zehntausende Notzelte von geflüchteten Palästinensern überschwemmt worden.",
+     "link": "https://www.zdfheute.de/video/gaza-fluechtlingslager-ueberflutet-video-100.html",
+     "image": "https://www.zdfheute.de/assets/gaza-ueberflutetes-fluechtlingslager-100~384x216?cb=1794069647625",
+     "aggregator": false,
+     "published": "2026-11-07T18:30:55+00:00"
+    },
+    {
+     "source": "ZDFheute",
+     "region": "DE",
+     "weight": 1.0,
+     "title": "Tausende Notzelte unbewohnbar, Hunderte Familien obdachlos",
+     "summary": "Heftige Regenfälle haben Gebiete in Gaza überschwemmt. Tausende Notunterkünfte sind unbewohnbar geworden, Hunderte Familien dadurch obdachlos. Für humanitäre Hilfe fehlt das Geld.",
+     "link": "https://www.zdfheute.de/politik/ausland/gaza-regenzeit-notunterkuenfte-ueberschwemmt-100.html",
+     "image": "https://www.zdfheute.de/assets/ueberschwemmung-gaza-100~384x216?cb=1794066756922",
+     "aggregator": false,
+     "published": "2026-11-07T17:12:00+00:00"
+    },
+    {
+     "source": "SPIEGEL",
+     "region": "DE",
+     "weight": 0.9,
+     "title": "Gaza: Erdrutsch begräbt Zelte – Gesundheitsbehörde meldet vier Tote",
+     "summary": "Heftige Regenfälle haben den Gazastreifen ereilt, Tausende Zelte sind unbewohnbar. An einem Flüchtlingslager ist nun ein Sandhügel abgerutscht. Mehrere Menschen starben, darunter auch Kinder.",
+     "link": "https://www.spiegel.de/ausland/gaza-erdrutsch-begraebt-zelte-gesundheitsbehoerde-meldet-vier-tote-in-gaza-a-42acd596-7e4c-41b1-a753-c788e5b2c5fe#ref=rss",
+     "image": "https://cdn.prod.www.spiegel.de/images/26ddbadc-f6d9-4621-9e65-26efa0f4b190_w520_r2.08_fpx34.45_fpy49.86.jpg",
+     "aggregator": false,
+     "published": "2026-11-09T15:02:00+00:00"
+    },
+    {
+     "source": "DER STANDARD",
+     "region": "AT",
+     "weight": 0.85,
+     "title": "Fünf Tote bei heftigen Regenfällen im Gazastreifen gemeldet",
+     "summary": "Seit Samstag gibt es in dem Palästinensergebiet heftige Regenfälle, zehntausende Zelte wurden überschwemmt. Zwei Frauen und drei Kinder sind den Behörden zufolge gestorben",
+     "link": "https://www.derstandard.at/story/3000000348146/fuenf-tote-bei-heftigen-regenfaellen-im-gazastreifen-gemeldet?ref=rss",
+     "image": "https://i.ds.at/FhzRpA/rs:fill:150:0/plain/lido-images/2026/11/09/df544a25-0128-4ca3-8db3-fa9a004c6c2a.jpg",
+     "aggregator": false,
+     "published": "2026-11-09T08:28:50+00:00"
+    }
+   ]
+  },
+  {
+   "id": 14,
+   "score": 7.8,
+   "outlets": [
+    "tagesschau",
+    "Deutschlandfunk"
+   ],
+   "regions": [
+    "DE"
+   ],
+   "trend": [],
+   "newest": "2026-11-09T16:35:19+00:00",
+   "articles": [
+    {
+     "source": "tagesschau",
+     "region": "DE",
+     "weight": 1.0,
+     "title": "Schneider fordert Alternative zur Plastiksteuer",
+     "summary": "\"Die Plastiksteuer machen wir nicht.\" Die Ansage von Unionsfraktionschef Frei war klar und deutlich - doch mit den Einnahmen daraus wird schon geplant. Umweltminister Schneider sieht jetzt die Union in der Pflicht.",
+     "link": "https://www.tagesschau.de/inland/innenpolitik/diskussion-plastiksteuer-100.html",
+     "image": "https://images.tagesschau.de/image/aefcdb76-f04a-4cd8-8ecc-a0e2ec954b03/AAABoQx7WsM/AAABnSSvrFg/16x9-big/gemuese-plastik-101.jpg?width=1920",
+     "aggregator": false,
+     "published": "2026-11-09T09:03:50+00:00"
+    },
+    {
+     "source": "tagesschau Inland",
+     "region": "DE",
+     "weight": 1.0,
+     "title": "Schneider fordert Alternative zur Plastiksteuer",
+     "summary": "\"Die Plastiksteuer machen wir nicht.\" Die Ansage von Unionsfraktionschef Frei war klar und deutlich - doch mit den Einnahmen daraus wird schon geplant. Umweltminister Schneider sieht jetzt die Union in der Pflicht.",
+     "link": "https://www.tagesschau.de/inland/innenpolitik/diskussion-plastiksteuer-100.html",
+     "image": "https://images.tagesschau.de/image/aefcdb76-f04a-4cd8-8ecc-a0e2ec954b03/AAABoQx7WsM/AAABnSSvrFg/16x9-big/gemuese-plastik-101.jpg?width=1920",
+     "aggregator": false,
+     "published": "2026-11-09T09:03:50+00:00"
+    },
+    {
+     "source": "Deutschlandfunk",
+     "region": "DE",
+     "weight": 0.95,
+     "title": "Haushaltsplanungen - Unionsfraktionsvorsitzender Frei: Koalition wird Plastiksteuer nicht umsetzen",
+     "summary": "Die schwarz-rote Koalition wird die geplante Plastiksteuer nach den Worten von Unionsfraktionschef Frei nicht umsetzen.",
+     "link": "https://www.deutschlandfunk.de/unionsfraktionsvorsitzender-frei-koalition-wird-plastiksteuer-nicht-umsetzen-104.html",
+     "image": "https://bilder.deutschlandfunk.de/75/48/b3/4f/7548b34f-6e53-4261-96a5-4d31bd0fa0e5/plastik-114-1920x1920.jpg",
+     "aggregator": false,
+     "published": "2026-11-09T16:35:19+00:00"
+    }
+   ]
+  },
+  {
+   "id": 15,
+   "score": 7.8,
+   "outlets": [
+    "tagesschau",
+    "Deutschlandfunk"
+   ],
+   "regions": [
+    "DE"
+   ],
+   "trend": [],
+   "newest": "2026-11-09T16:35:19+00:00",
+   "articles": [
+    {
+     "source": "tagesschau",
+     "region": "DE",
+     "weight": 1.0,
+     "title": "Wetter Deutschland: Wolken, Temperaturen, Wind und Aussichten",
+     "summary": "Am Dienstag vom Südwesten bis in den Süden Regen. Sonst teils dichte Wolken oder Nebel, teils Sonnenschein. Schauer vor allem an den Küsten, am Vormittag auch noch in Brandenburg und Ostsachsen.",
+     "link": "https://www.tagesschau.de/wetter/deutschland/wettervorhersage-deutschland-100.html",
+     "image": "https://images.tagesschau.de/image/e7904a01-0786-494a-996d-b1dfd43b3049/AAABocAcOVU/AAABnSSvrFg/16x9-big/teaserbild-124.jpg?width=1920",
+     "aggregator": false,
+     "published": "2026-11-09T11:40:37+00:00"
+    },
+    {
+     "source": "Deutschlandfunk",
+     "region": "DE",
+     "weight": 0.95,
+     "title": "Wetter - In der Nacht im Süden und Südwesten Regen, +7 bis -2 Grad",
+     "summary": "Das Wetter: In der Nacht im Südwesten und Süden Regen, der ich langsam nordwärts ausweitet. Sonst zunächst teils klar, später oft dichter Nebel oder Hochnebel. Tiefstwerte plus 7 bis minus 2 Grad. Morgen teils wolkig, teils neblig trüb. Im Südwesten und an den Küsten regnerisch. 5 bis 12 Grad.",
+     "link": "https://www.deutschlandfunk.de/in-der-nacht-im-sueden-und-suedwesten-regen-7-bis-2-grad-100.html",
+     "image": "https://bilder.deutschlandfunk.de/e5/f6/55/84/e5f65584-6dc2-4dce-979d-729a024cd599/wetter-grafik-nachrichten-100-768x768.jpg",
+     "aggregator": false,
+     "published": "2026-11-09T16:35:19+00:00"
+    }
+   ]
+  },
+  {
+   "id": 16,
+   "score": 7.8,
+   "outlets": [
+    "ZDFheute",
+    "Deutschlandfunk"
+   ],
+   "regions": [
+    "DE"
+   ],
+   "trend": [],
+   "newest": "2026-11-09T16:35:19+00:00",
+   "articles": [
+    {
+     "source": "ZDFheute",
+     "region": "DE",
+     "weight": 1.0,
+     "title": "\"Nie wieder\": Steinmeier mahnt zu Kampf gegen Antisemitismus",
+     "summary": "Im November 1938 ermordeten die Nationalsozialisten hunderte Juden und brannten Gebäude nieder. Bundespräsident Steinmeier sieht heute wieder eine bedenkliche Entwicklung.",
+     "link": "https://www.zdfheute.de/politik/deutschland/steinmeier-kz-buchenwald-gedenken-nationalsozialismus-100.html",
+     "image": "https://www.zdfheute.de/assets/bundespraesident-frank-walter-steinmeier-buchenwald-weimar-100~384x216?cb=1794235446267",
+     "aggregator": false,
+     "published": "2026-11-09T15:45:00+00:00"
+    },
+    {
+     "source": "Deutschlandfunk",
+     "region": "DE",
+     "weight": 0.95,
+     "title": "Antisemitismus - Steinmeier geißelt Judenhass und ruft zu Zivilcourage auf",
+     "summary": "Bundespräsident Steinmeier hat zu einem entschiedenen Kampf gegen Antisemitismus aufgerufen. Man müsse sich dem Judenhass entgegenstellen - ganz gleich, ob er von den politischen Rändern rechts und links, aus der Mitte der Gesellschaft oder vom Islamismus ausgehe.",
+     "link": "https://www.deutschlandfunk.de/steinmeier-geisselt-judenhass-und-ruft-zu-zivilcourage-auf-102.html",
+     "image": "https://bilder.deutschlandfunk.de/9d/2c/bf/73/9d2cbf73-d8a0-472d-8238-886bf29f0bfd/steinmeierbuchenwald-100-1920x1920.jpg",
+     "aggregator": false,
+     "published": "2026-11-09T16:35:19+00:00"
+    }
+   ]
+  },
+  {
+   "id": 17,
+   "score": 7.7,
+   "outlets": [
+    "Deutschlandfunk",
+    "ORF"
+   ],
+   "regions": [
+    "AT",
+    "DE"
+   ],
+   "trend": [],
+   "newest": "2026-11-09T16:35:19+00:00",
+   "articles": [
+    {
+     "source": "Deutschlandfunk",
+     "region": "DE",
+     "weight": 0.95,
+     "title": "Ukraine-Krieg - US-Vermittler Kushner benennt Proritäten bei Ukraine-Verhandlungen in Abu Dhabi - EU-Kommission bestätigt Teilnahme der Europäer",
+     "summary": "Der US-Vermittler Kushner hat Prioritäten für die neuen Verhandlungen über ein Ende des Ukraine-Kriegs in Abu Dhabi genannt.",
+     "link": "https://www.deutschlandfunk.de/us-vermittler-kushner-benennt-proritaeten-bei-ukraine-verhandlungen-in-abu-dhabi-eu-kommission-besta-100.html",
+     "image": "https://bilder.deutschlandfunk.de/NO/VA/_d/fa/NOVA_dfab533ef5411d7707d6d2c866bd6fd9/craft-13060064-asset-100-1920x1920.jpg",
+     "aggregator": false,
+     "published": "2026-11-09T16:35:19+00:00"
+    },
+    {
+     "source": "ORF",
+     "region": "AT",
+     "weight": 0.95,
+     "title": "Heftige Angriffe vor Verhandlungen in Abu Dhabi",
+     "summary": "",
+     "link": "https://orf.at/stories/3447689/",
+     "image": null,
+     "aggregator": false,
+     "published": "2026-11-09T11:05:25+00:00"
+    }
+   ]
+  },
+  {
+   "id": 18,
+   "score": 7.7,
+   "outlets": [
+    "SRF News",
+    "NZZ"
+   ],
+   "regions": [
+    "CH"
+   ],
+   "trend": [],
+   "newest": "2026-11-09T16:53:04+00:00",
+   "articles": [
+    {
+     "source": "SRF News",
+     "region": "CH",
+     "weight": 0.95,
+     "title": "Grosse Flammen aus Fenster – Feuer in Zürcher Bundesasylzentrum ausgebrochen",
+     "summary": "Im Bundesasylzentrum an der Zürcher Pfingstweidstrasse ist ein Feuer ausgebrochen – die Feuerwehr ist vor Ort.",
+     "link": "https://www.srf.ch/news/schweiz/grosse-flammen-aus-fenster-feuer-in-zuercher-bundesasylzentrum-ausgebrochen",
+     "image": "https://www.srf.ch/static/cms/images//320ws/a76025e.webp",
+     "aggregator": false,
+     "published": "2026-11-09T16:53:04+00:00"
+    },
+    {
+     "source": "NZZ",
+     "region": "CH",
+     "weight": 0.9,
+     "title": "Feuer im Bundesasylzentrum in Zürich ausgebrochen",
+     "summary": "Die Feuerwehr und Sanitäter stehen im Einsatz. Flammen dringen aus einem Fenster des Gebäudes.",
+     "link": "https://www.nzz.ch/zuerich/zuerich-brand-im-bundesasylzentrum-ld.10058950",
+     "image": "https://img-msp-prod.nzz.ch/2026/10/31/6e1e0614-301b-4032-9c48-7a09c9d9a18c.jpg?width=200&height=200&fit=bounds&quality=75&auto=webp&crop=5369,5369,x1342,y0",
+     "aggregator": false,
+     "published": "2026-11-09T16:29:09+00:00"
+    }
+   ]
+  },
+  {
+   "id": 19,
+   "score": 7.66,
+   "outlets": [
+    "SRF News",
+    "ZEIT ONLINE"
+   ],
+   "regions": [
+    "CH",
+    "DE"
+   ],
+   "trend": [],
+   "newest": "2026-11-09T16:46:11+00:00",
+   "articles": [
+    {
+     "source": "SRF News",
+     "region": "CH",
+     "weight": 0.95,
+     "title": "Krieg im Nahen Osten – Frankreich: Iran hinter Cyberangriffen auf Kühlanlagen",
+     "summary": "Laut Frankreichs Aussenminister Barrot stehen die iranischen Revolutionsgarden hinter den Cyberangriffen.",
+     "link": "https://www.srf.ch/news/international/nahost/krieg-im-nahen-osten-frankreich-iran-hinter-cyberangriffen-auf-kuehlanlagen",
+     "image": "https://www.srf.ch/static/cms/images//320ws/02f738.webp",
+     "aggregator": false,
+     "published": "2026-11-09T16:46:11+00:00"
+    },
+    {
+     "source": "ZEIT ONLINE",
+     "region": "DE",
+     "weight": 0.9,
+     "title": "Cyberangriffe: Frankreich sieht Iran hinter Angriffen auf Supermarkt-Kühlsysteme",
+     "summary": "Mitte Oktober fielen in Frankreich die Kühlanlagen zahlreicher Supermärkte aus. Nach Angaben der Regierung handelte es sich dabei um einen Sabotageangriff des Iran.",
+     "link": "https://www.zeit.de/politik/ausland/2026-11/frankreich-sieht-iran-hinter-angriffen-auf-supermarkt-kuehlsysteme",
+     "image": "https://img.zeit.de/administratives/eilmeldung/fallback-bild/original__640x360",
+     "aggregator": false,
+     "published": "2026-11-09T16:23:28+00:00"
+    }
+   ]
+  },
+  {
+   "id": 20,
+   "score": 7.63,
+   "outlets": [
+    "ZDFheute",
+    "SPIEGEL"
+   ],
+   "regions": [
+    "DE"
+   ],
+   "trend": [],
+   "newest": "2026-11-09T16:23:00+00:00",
+   "articles": [
+    {
+     "source": "ZDFheute",
+     "region": "DE",
+     "weight": 1.0,
+     "title": "Merz stellt Aigner als Präsidentschaftskandidatin vor",
+     "summary": "Kanzler Merz lobt Ilse Aigner als Frau mit Herz und Charisma. Die Kandidatin für die Bundespräsidentschaft selbst reagiert mit Demut - und einer kleinen Spitze Richtung Kanzler.",
+     "link": "https://www.zdfheute.de/politik/aigner-merz-soeder-bundespraesidentin-100.html",
+     "image": "https://www.zdfheute.de/assets/merz-aigner-pressekonferenz-statement-tn-clean-100~384x216?cb=1794226869662",
+     "aggregator": false,
+     "published": "2026-11-09T12:33:00+00:00"
+    },
+    {
+     "source": "ZDFheute",
+     "region": "DE",
+     "weight": 1.0,
+     "title": "Der Auftritt von Merz und Aigner im Video",
+     "summary": "Ilse Aigner soll die erste Frau an der Spitze Deutschlands werden – zumindest, wenn es nach den Regierungsparteien geht. Das Statement von Kanzler Merz und Ilse Aigner bei ZDFheute live.",
+     "link": "https://www.zdfheute.de/video/zdfheute-live/merz-aigner-pressekonferenz-video-100.html",
+     "image": "https://www.zdfheute.de/assets/merz-aigner-pressekonferenz-tn-clean-100~384x216?cb=1794212299655",
+     "aggregator": false,
+     "published": "2026-11-09T11:55:00+00:00"
+    },
+    {
+     "source": "SPIEGEL",
+     "region": "DE",
+     "weight": 0.9,
+     "title": "Ilse Aigner gibt sich präsidial. Aber den kleinen Seitenhieb kann sie sich nicht verkneifen",
+     "summary": "Friedrich Merz stellt Ilse Aigner als seine Kandidatin für das Bundespräsidentenamt vor. Markus Söder erinnert daran, dass Aigner seine Idee war. Und Aigner selbst? Gibt vage Hinweise auf das, was sie vorhat.",
+     "link": "https://www.spiegel.de/politik/deutschland/ilse-aigner-gibt-sich-praesidial-aber-den-kleinen-seitenhieb-kann-sie-sich-nicht-verkneifen-a-d2733892-c533-4ec3-b7f9-89ff28124617#ref=rss",
+     "image": "https://cdn.prod.www.spiegel.de/images/8827ce12-c7ae-4e62-af89-ee67a73ab8fc_w520_r2.08_fpx33.34_fpy50.jpg",
+     "aggregator": false,
+     "published": "2026-11-09T16:23:00+00:00"
+    }
+   ]
+  },
+  {
+   "id": 21,
+   "score": 7.6,
+   "outlets": [
+    "Deutschlandfunk",
+    "Handelsblatt"
+   ],
+   "regions": [
+    "DE"
+   ],
+   "trend": [],
+   "newest": "2026-11-09T16:35:19+00:00",
+   "articles": [
+    {
+     "source": "Deutschlandfunk",
+     "region": "DE",
+     "weight": 0.95,
+     "title": "\"Koalition der Willigen\" - Militärmanöver zur Vorbereitung von Ukraine-Schutztruppe hat begonnen - Kritik aus Russland",
+     "summary": "Das Militärmanöver mehrerer europäischer Länder zur Unterstützung der Ukraine ist in Russland auf Kritik gestoßen.",
+     "link": "https://www.deutschlandfunk.de/militaermanoever-zur-vorbereitung-von-ukraine-schutztruppe-hat-begonnen-kritik-aus-russland-100.html",
+     "image": "https://bilder.deutschlandfunk.de/ba/0d/76/0c/ba0d760c-be87-457b-8be0-0a80f500039d/soldaten-springerstiefel-armee-100-1920x1920.jpg",
+     "aggregator": false,
+     "published": "2026-11-09T16:35:19+00:00"
+    },
+    {
+     "source": "Handelsblatt",
+     "region": "DE",
+     "weight": 0.9,
+     "title": "Verteidigung: „Koalition der Willigen“ probt für Ukraine-Unterstützung – Tusk warnt vor Russlands „wahren Absichten“",
+     "summary": "In Polen trainieren Soldatinnen und Soldaten aus elf Ländern, um die Ukraine nach einem Waffenstillstand unterstützen zu können. Polens Premier Tusk warnt vor einer russischen Bedrohung auch für Europa.",
+     "link": "https://www.handelsblatt.com/politik/international/verteidigung-koalition-der-willigen-probt-fuer-ukraine-unterstuetzungsmission/100267358.html",
+     "image": "https://images.handelsblatt.com/inHzhZoOnKUK/cover/900/506/0/0/372/371/0.5/0.5/a400m-als-tankflugzeug.jpg",
+     "aggregator": false,
+     "published": "2026-11-09T15:22:29+00:00"
+    }
+   ]
+  },
+  {
+   "id": 22,
+   "score": 7.57,
+   "outlets": [
+    "SRF News",
+    "NZZ"
+   ],
+   "regions": [
+    "CH"
+   ],
+   "trend": [],
+   "newest": "2026-11-09T16:30:00+00:00",
+   "articles": [
+    {
+     "source": "SRF News",
+     "region": "CH",
+     "weight": 0.95,
+     "title": "Der Captain ist verletzt – Doch kein Comeback: Xhaka fehlt der Nati erneut",
+     "summary": "Die Nati muss in der Nations League erneut auf Granit Xhaka verzichten. Der Captain verletzte sich am Wochenende.",
+     "link": "https://www.srf.ch/sport/fussball/nations-league/der-captain-ist-verletzt-doch-kein-comeback-xhaka-fehlt-der-nati-erneut",
+     "image": "https://www.srf.ch/static/cms/images//320ws/4dce9d.webp",
+     "aggregator": false,
+     "published": "2026-11-09T12:19:52+00:00"
+    },
+    {
+     "source": "NZZ",
+     "region": "CH",
+     "weight": 0.9,
+     "title": "Die Rückkehr von Granit Xhaka verzögert sich – der Captain fehlt dem Schweizer Nationalteam wegen einer Wadenverletzung",
+     "summary": "Auch Miro Muheim muss verletzungsbedingt Forfait geben. Entwarnung gibt es dafür bei Johan Manzambi, dem zurzeit besten Schweizer Fussballer.",
+     "link": "https://www.nzz.ch/sport/granit-xhaka-faellt-fuer-die-naechsten-laenderspiele-aus-ld.10058715",
+     "image": "https://img-msp-prod.nzz.ch/2026/07/07/925da8e7-f53b-4437-ae51-9052de5376ed.jpg?width=200&height=200&fit=bounds&quality=75&auto=webp&crop=1453,1453,x326,y0",
+     "aggregator": false,
+     "published": "2026-11-09T16:30:00+00:00"
+    }
+   ]
+  },
+  {
+   "id": 23,
+   "score": 7.5,
+   "outlets": [
+    "tagesschau",
+    "WELT"
+   ],
+   "regions": [
+    "DE"
+   ],
+   "trend": [],
+   "newest": "2026-11-09T16:36:11+00:00",
+   "articles": [
+    {
+     "source": "tagesschau",
+     "region": "DE",
+     "weight": 1.0,
+     "title": "CSU-Politikerin Aigner soll Nachfolgerin von Bundespräsident Steinmeier werden",
+     "summary": "CSU-Politikerin Aigner soll Nachfolgerin von Bundespräsident Steinmeier werden",
+     "link": "https://www.tagesschau.de/video/video-1680846.html",
+     "image": "https://images.tagesschau.de/image/d975a43f-52f3-4f67-a57a-0406849234ca/AAABocEjAOc/AAABnSSvrFg/16x9-big/sendungsbild-1824996.jpg?width=1920",
+     "aggregator": false,
+     "published": "2026-11-09T16:36:11+00:00"
+    },
+    {
+     "source": "tagesschau Inland",
+     "region": "DE",
+     "weight": 1.0,
+     "title": "Bundespräsidenten-Nachfolge: Unterstützung für Aigner nimmt zu",
+     "summary": "Wen nominiert die Union für die Nachfolge des scheidenden Bundespräsidenten Steinmeier? Kommende Woche soll eine Entscheidung fallen. Immer mehr Politiker sprechen sich für die bayerische Landtagspräsidentin Aigner aus.",
+     "link": "https://www.tagesschau.de/inland/innenpolitik/unterstuetzung-fuer-aigner-nimmt-zu-100.html",
+     "image": "https://images.tagesschau.de/image/aa519bf3-08ff-4af4-9fab-1b764f888093/AAABoasBuiI/AAABnSSvrFg/16x9-big/ilse-aigner-290.jpg?width=1920",
+     "aggregator": false,
+     "published": "2026-11-05T10:44:48+00:00"
+    },
+    {
+     "source": "WELT",
+     "region": "DE",
+     "weight": 0.8,
+     "title": "Die Frau für den nächsten Ruck",
+     "summary": "Frank-Walter Steinmeier hat das Amt des Bundespräsidenten in die Bedeutungslosigkeit geführt. Nun bietet sich für Ilse Aigner die Chance zum Neustart. Als Handwerkerin weiß sie, was die Bürger beschäftigt.",
+     "link": "https://www.welt.de/debatte/plus6af18b91a389bc337cfcae10/ilse-aigner-die-frau-fuer-den-naechsten-ruck.html",
+     "image": "https://images.welt.de/6af18b91a389bc337cfcae10/2107c852e77563f2490ae010b2b0325c/ci23x11-w1200/dwosb-neue-autoren-fuhst-tuerk-jpg",
+     "aggregator": false,
+     "published": "2026-11-09T13:53:46+00:00"
+    }
+   ]
+  },
+  {
+   "id": 24,
+   "score": 7.28,
+   "outlets": [
+    "ORF",
+    "heise online"
+   ],
+   "regions": [
+    "AT",
+    "DE"
+   ],
+   "trend": [],
+   "newest": "2026-11-09T15:56:00+00:00",
+   "articles": [
+    {
+     "source": "ORF",
+     "region": "AT",
+     "weight": 0.95,
+     "title": "EU-Förderbank: Zehn Milliarden für Europas Tech-Unternehmen",
+     "summary": "",
+     "link": "https://orf.at/stories/3447709/",
+     "image": null,
+     "aggregator": false,
+     "published": "2026-11-09T15:26:33+00:00"
+    },
+    {
+     "source": "heise online",
+     "region": "DE",
+     "weight": 0.85,
+     "title": "EU-Förderbank: Zehn Milliarden Euro für Europas Tech-Unternehmen",
+     "summary": "Milliardeninvestitionen sollen Europas Tech-Firmen wachsen lassen. Dafür tun sich private Investoren mit EU-Institutionen und Mitgliedsländern zusammen.",
+     "link": "https://www.heise.de/news/EU-Foerderbank-Zehn-Milliarden-Euro-fuer-Europas-Tech-Unternehmen-11517852.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
+     "image": null,
+     "aggregator": false,
+     "published": "2026-11-09T15:56:00+00:00"
+    }
+   ]
+  },
+  {
+   "id": 25,
+   "score": 7.26,
+   "outlets": [
+    "Handelsblatt",
+    "WirtschaftsWoche"
+   ],
+   "regions": [
+    "DE"
+   ],
+   "trend": [],
+   "newest": "2026-11-09T16:10:18+00:00",
+   "articles": [
+    {
+     "source": "Handelsblatt",
+     "region": "DE",
+     "weight": 0.9,
+     "title": "Fondsanbieter: Bafin zieht bei Deutsche-Finance-Fondstochter die Notbremse",
+     "summary": "Die Finanzaufsicht setzt einen Sondergesandten als Geschäftsführer der Deutsche Finance Investment GmbH ein. Sie will die bis zu 50.000 Anleger der Publikumsfonds schützen.",
+     "link": "https://www.handelsblatt.com/finanzen/banken-versicherungen/fondsanbieter-bafin-zieht-bei-deutsche-finance-fondstochter-die-notbremse/100268489.html",
+     "image": "https://images.handelsblatt.com/kERppGD8Iq3P/cover/900/506/0/0/271/271/0.5/0.5/germany-bavaria-munich-cityscape-with-bmw-headquarter-near-olympic-park-at-night-drone-photograp.jpg",
+     "aggregator": false,
+     "published": "2026-11-09T16:10:18+00:00"
+    },
+    {
+     "source": "WirtschaftsWoche",
+     "region": "DE",
+     "weight": 0.85,
+     "title": "Deutsche Finance Group: Bafin setzt Sonderbeauftragten als Chef bei Investmenttochter ein",
+     "summary": "Durch fehlgeschlagene Investments in US-Immobilien gerät die Deutsche Finance Group in die Krise. Auch die Anlagen berufsständischer Versorgungswerke sind bedroht.",
+     "link": "https://www.wiwo.de/finanzen/vorsorge/deutsche-finance-group-bafin-setzt-sonderbeauftragten-als-chef-bei-investmenttochter-ein/100264330.html",
+     "image": "https://images.wiwo.de/tQbL6k3B2Fdp/cover/900/506/0/0/543/543/0.5/0.5/bafin---sitz-der-bundesanstalt-far-finanzdienstleistungsaufsicht-in-bonn-deutschland-in-der-grau.jpg",
+     "aggregator": false,
+     "published": "2026-11-09T16:05:00+00:00"
+    }
+   ]
+  },
+  {
+   "id": 26,
+   "score": 6.98,
+   "outlets": [
+    "SRF News",
+    "n-tv"
+   ],
+   "regions": [
+    "CH",
+    "DE"
+   ],
+   "trend": [],
+   "newest": "2026-11-09T15:20:42+00:00",
+   "articles": [
+    {
+     "source": "SRF News",
+     "region": "CH",
+     "weight": 0.95,
+     "title": "«Au Vieux Chalet» in Lens – Konkurs bei Betreibern der Brandbar von Crans-Montana",
+     "summary": "Das Lokal «Au Vieux Chalet» des Wirtepaars in Lens, einer Nachbargemeinde des Walliser Ferienorts, ist pleite.",
+     "link": "https://www.srf.ch/news/schweiz/au-vieux-chalet-in-lens-konkurs-bei-betreibern-der-brandbar-von-crans-montana",
+     "image": "https://www.srf.ch/static/cms/images//320ws/137176.webp",
+     "aggregator": false,
+     "published": "2026-11-09T15:03:20+00:00"
+    },
+    {
+     "source": "n-tv",
+     "region": "DE",
+     "weight": 0.8,
+     "title": "Von Restaurant in Lens: Betreiber von Schweizer Unglücks-Bar müssen Konkurs anmelden",
+     "summary": "Nach dem tödlichen Bar-Brand in Crans-Montana zum Jahreswechsel ermitteln die Behörden gegen die Betreiber wegen möglicher Fahrlässigkeit. Neben der Bar werden zwei Restaurants durch Behörden geschlossen. Für eines davon kommt es jetzt noch dicker.",
+     "link": "https://www.n-tv.de/panorama/Betreiber-von-Schweizer-Ungluecks-Bar-muessen-Konkurs-anmelden-id31512701.html",
+     "image": "https://www.n-tv.de/img/31512699/1794237724/Img_4_3/250/567832793.jpg",
+     "aggregator": false,
+     "published": "2026-11-09T15:20:42+00:00"
+    }
+   ]
+  },
+  {
+   "id": 27,
+   "score": 6.86,
+   "outlets": [
+    "Deutsche Welle",
+    "Süddeutsche"
+   ],
+   "regions": [
+    "DE",
+    "INT"
+   ],
+   "trend": [],
+   "newest": "2026-11-09T14:22:17+00:00",
+   "articles": [
+    {
+     "source": "Deutsche Welle",
+     "region": "INT",
+     "weight": 0.95,
+     "title": "Erstes Manöver der Ukraine-Koalition beginnt in Polen - News kompakt: Das Wichtigste kurz gefasst",
+     "summary": "Die Verbündeten der Ukraine bauen eine Truppe auf, um einen möglichen Waffenstillstand mit Russland abzusichern. Der Todesschütze von Krakau ist gestorben. Der DW-Nachrichtenüberblick",
+     "link": "https://www.dw.com/de/erstes-manöver-der-ukraine-koalition-beginnt-in-polen-news-kompakt-das-wichtigste-kurz-gefasst/a-79895616?maca=de-rss-de-all-1119-xml-mrss",
+     "image": "https://static.dw.com/image/77950709_302.jpg",
+     "aggregator": false,
+     "published": "2026-11-09T08:00:00+00:00"
+    },
+    {
+     "source": "Süddeutsche",
+     "region": "DE",
+     "weight": 0.9,
+     "title": "Krieg in der Ukraine: Erstes Manöver der Ukraine-Koalition beginnt in Polen – Bundeswehr beteiligt",
+     "summary": "Rund 2800 Soldaten aus Frankreich, Großbritannien, Deutschland und anderen Ländern testen zwei Wochen lang, wie nach Kriegsende ein dauerhafter Frieden gesichert werden kann.",
+     "link": "https://www.sueddeutsche.de/politik/ukraine-krieg-newsblog-manoever-polen-koalition-der-willigen-bundeswehr-li.3571967",
+     "image": "https://www.sueddeutsche.de/2026/11/09/8ec69ca2-e3e5-485d-84e8-61e81899d8e6.jpg?rect=219%2C0%2C3557%2C2668&width=1000&fm=jpg&q=60",
+     "aggregator": false,
+     "published": "2026-11-09T14:22:17+00:00"
+    }
+   ]
+  }
+ ]
+}
