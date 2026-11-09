@@ -1,0 +1,2033 @@
+{
+ "slot": {
+  "id": "vormittag",
+  "format": "single",
+  "time": "10:00",
+  "label": "am Vormittag",
+  "focus": "Nur Tie-Breaker – immer zuerst die populärsten, meistberichteten Nachrichten. Bei Gleichstand bevorzugt: Die eine Nachricht, die seit dem Morgen am stärksten hochkocht – bevorzugt neue Entwicklungen großer laufender Geschichten.",
+  "pillars": [
+   "POLITIK",
+   "WIRTSCHAFT",
+   "WELT",
+   "TECHNOLOGIE"
+  ],
+  "notify_subscribers": false
+ },
+ "slot_time": "2026-11-09T10:00:00+01:00",
+ "date_text": "Montag, 9. November 2026",
+ "already_published": [
+  "Aigner-Kandidatur: Merz schweigt",
+  "Pensionisten zahlen E-Card-Gebühr",
+  "Allgäu verliert letzten Gletscher",
+  "Hacker stellen Tajani-Daten ins Netz",
+  "Geheimdienste prüfen Supermarkt-Hacks",
+  "Klingbeil lässt SPD-Vorsitz offen",
+  "Selenskyj räumt im Geheimdienst auf",
+  "BSW-Streit um Constantin Schreiber",
+  "Eishockey-WM: Russland-Streit eskaliert",
+  "Eisenkot soll Israel regieren",
+  "CDU entscheidet heute über Aigner",
+  "Frankreich: 146.000 gegen Regierung",
+  "KI-Chips: Elektronik wird teurer",
+  "Trump will UFC-Chef als Sprecher",
+  "Trump droht den Demokraten",
+  "Wehrpflicht: Union contra Pistorius",
+  "Aeschi will in den Bundesrat",
+  "Aigner: Linke kritisiert Verfahren",
+  "Paraguay: Ex-Präsident in U-Haft",
+  "Tajani prangert Hackerangriffe an",
+  "Schweiz: Kein Spiel gegen Russland",
+  "Emde will ihr Mandat behalten",
+  "Ukraine: 600.000 ohne Strom",
+  "Krakau: Justiz ermittelt wegen Terror",
+  "Wetter: Wechselhafter Wochenstart",
+  "Sondervermögen: Kaum Geld für Bildung",
+  "Selenskyj-Besuch: Merz fordert Europa",
+  "Moskau ehrt DDR-Spionagechef Wolf",
+  "Ukraine-Gespräche: Europa am Tisch",
+  "Trump droht den Demokraten",
+  "Emde will Mandat behalten",
+  "Ukraine-Gespräche: Europa dabei",
+  "Aigner: Union ist sich einig",
+  "Neuer fällt mit Sehnenteilriss aus",
+  "Nvidia-Chef unter Spionageverdacht",
+  "Merz legt sich auf Aigner fest",
+  "Hubig zerpflückt Spritpreisdeckel",
+  "Ukraine-Truppe startet erste Übung",
+  "Trump: Iran-Angriffe unwahrscheinlich",
+  "Koalition streitet über Plastiksteuer"
+ ],
+ "candidates": [
+  {
+   "id": 0,
+   "score": 25.84,
+   "outlets": [
+    "tagesschau",
+    "ZDFheute",
+    "Deutschlandfunk",
+    "SRF News",
+    "SPIEGEL",
+    "ZEIT ONLINE",
+    "Handelsblatt",
+    "WirtschaftsWoche",
+    "heise online",
+    "WELT",
+    "n-tv",
+    "Golem",
+    "tagesschau.de"
+   ],
+   "regions": [
+    "CH",
+    "DE",
+    "INT"
+   ],
+   "trend": [],
+   "newest": "2026-11-09T07:18:15+00:00",
+   "articles": [
+    {
+     "source": "tagesschau",
+     "region": "DE",
+     "weight": 1.0,
+     "title": "Untersuchung gegen Nvidia-Chef Huang wegen möglicher Spionin aus China",
+     "summary": "Der KI-Chip-Gigant Nvidia hat nach Berichten über einen Spionageverdacht eine Untersuchung gegen seinen Gründer und Konzernchef Jensen Huang eingeleitet. Er soll eine Affäre mit einer mutmaßlichen chinesischen Spionin gehabt haben.",
+     "link": "https://www.tagesschau.de/ausland/amerika/nvidia-spionage-pruefung-100.html",
+     "image": "https://images.tagesschau.de/image/34f93b54-ef67-4531-97e6-4a40dc5724cc/AAABob68p7E/AAABnSSvrFg/16x9-big/nvidia-184.jpg?width=1920",
+     "aggregator": false,
+     "published": "2026-11-09T03:32:51+00:00"
+    },
+    {
+     "source": "tagesschau Ausland",
+     "region": "INT",
+     "weight": 1.0,
+     "title": "Untersuchung gegen Nvidia-Chef Huang wegen möglicher Spionin aus China",
+     "summary": "Der KI-Chip-Gigant Nvidia hat nach Berichten über einen Spionageverdacht eine Untersuchung gegen seinen Gründer und Konzernchef Jensen Huang eingeleitet. Er soll eine Affäre mit einer mutmaßlichen chinesischen Spionin gehabt haben.",
+     "link": "https://www.tagesschau.de/ausland/amerika/nvidia-spionage-pruefung-100.html",
+     "image": "https://images.tagesschau.de/image/34f93b54-ef67-4531-97e6-4a40dc5724cc/AAABob68p7E/AAABnSSvrFg/16x9-big/nvidia-184.jpg?width=1920",
+     "aggregator": false,
+     "published": "2026-11-09T03:32:51+00:00"
+    },
+    {
+     "source": "tagesschau Wirtschaft",
+     "region": "DE",
+     "weight": 1.0,
+     "title": "Untersuchung gegen Nvidia-Chef Huang wegen möglicher Spionin aus China",
+     "summary": "Der KI-Chip-Gigant Nvidia hat nach Berichten über einen Spionageverdacht eine Untersuchung gegen seinen Gründer und Konzernchef Jensen Huang eingeleitet. Er soll eine Affäre mit einer mutmaßlichen chinesischen Spionin gehabt haben.",
+     "link": "https://www.tagesschau.de/ausland/amerika/nvidia-spionage-pruefung-100.html",
+     "image": "https://images.tagesschau.de/image/34f93b54-ef67-4531-97e6-4a40dc5724cc/AAABob68p7E/AAABnSSvrFg/16x9-big/nvidia-184.jpg?width=1920",
+     "aggregator": false,
+     "published": "2026-11-09T03:32:51+00:00"
+    },
+    {
+     "source": "ZDFheute",
+     "region": "DE",
+     "weight": 1.0,
+     "title": "Nvidia-Chef Huang räumt Affäre mit mutmaßlicher Spionin ein",
+     "summary": "Nvidia-Chef Huang soll laut Berichten ins Visier einer mutmaßlichen Spionin geraten sein. Huang gestand, eine Affäre mit ihr gehabt zu haben: \"Ich war meiner Frau untreu.\"",
+     "link": "https://www.zdfheute.de/wirtschaft/unternehmen/huang-nvidia-chef-spionage-china-100.html",
+     "image": "https://www.zdfheute.de/assets/jensen-huang-102~384x216?cb=1794170112757",
+     "aggregator": false,
+     "published": "2026-11-08T21:07:00+00:00"
+    },
+    {
+     "source": "Deutschlandfunk",
+     "region": "DE",
+     "weight": 0.95,
+     "title": "Chip-Hersteller - Nvidia startet Untersuchung zu möglicher Spionage bei Firmenchef Huang",
+     "summary": "Der US-Chip-Hersteller Nvidia hat eine Untersuchung zu Berichten eingeleitet, nach denen Firmenchef Huang zum Ziel ausländischer Spionageaktivitäten geworden ist.",
+     "link": "https://www.deutschlandfunk.de/nvidia-startet-untersuchung-zu-moeglicher-spionage-bei-firmenchef-huang-104.html",
+     "image": "https://bilder.deutschlandfunk.de/49/6d/1b/4e/496d1b4e-a47c-4535-9f2d-8e0514004d02/nvidia-jensen-huang-100-1920x1920.jpg",
+     "aggregator": false,
+     "published": "2026-11-09T07:18:15+00:00"
+    },
+    {
+     "source": "SRF News",
+     "region": "CH",
+     "weight": 0.95,
+     "title": "Tückische Liebschaft – Nvidia-Chef hatte Affäre mit möglicher chinesischer Spionin",
+     "summary": "Chef Jensen Huang hatte eine Affäre. US-Behörden vermuten, dass die Frau vom chinesischen Geheimdienst angeworben wurde.",
+     "link": "https://www.srf.ch/news/international/tueckische-liebschaft-nvidia-chef-hatte-affaere-mit-moeglicher-chinesischer-spionin",
+     "image": "https://www.srf.ch/static/cms/images//320ws/79c868.webp",
+     "aggregator": false,
+     "published": "2026-11-09T05:22:19+00:00"
+    },
+    {
+     "source": "SPIEGEL",
+     "region": "DE",
+     "weight": 0.9,
+     "title": "Nvidia-Chef Jensen Huang entschuldigt sich für Affäre mit mutmaßlicher Spionin",
+     "summary": "»Ich war meiner Frau untreu«: Nvidia-Chef Huang hat einen Seitensprung zugegeben, der Konzern leitet eine Untersuchung ein. Seine Geliebte arbeitete offenbar für Chinas Geheimdienst. US-Außenminister Rubio soll vor ihr gewarnt haben.",
+     "link": "https://www.spiegel.de/ausland/nvidia-chef-jensen-huang-entschuldigt-sich-fuer-affaere-mit-mutmasslicher-spionin-a-66db6061-9340-44ba-9c9d-75726df75e3b#ref=rss",
+     "image": "https://cdn.prod.www.spiegel.de/images/30764e20-cba6-4fd0-9884-b159796ceb8f_w520_r2.08_fpx35.9_fpy44.99.jpg",
+     "aggregator": false,
+     "published": "2026-11-08T20:50:00+00:00"
+    },
+    {
+     "source": "ZEIT ONLINE",
+     "region": "DE",
+     "weight": 0.9,
+     "title": "Untersuchung gegen Nvidia-Chef Huang wegen Affäre mit mutmaßlicher Spionin aus China",
+     "summary": "Der KI-Chip-Gigant Nvidia hat nach Berichten über einen Spionageverdacht eine Untersuchung gegen seinen Konzernchef Jensen Huang eingeleitet.",
+     "link": "https://www.zeit.de/video/2026-11/untersuchung-gegen-nvidia-chef-huang-wegen-affaere-mit-mutmasslicher-spionin-aus-china",
+     "image": "https://img.zeit.de/video/2026-11/6408124109112-still/original__640x360",
+     "aggregator": false,
+     "published": "2026-11-09T06:54:47+00:00"
+    }
+   ]
+  },
+  {
+   "id": 1,
+   "score": 16.78,
+   "outlets": [
+    "tagesschau Ausland",
+    "Deutsche Welle",
+    "ORF",
+    "SPIEGEL",
+    "Süddeutsche",
+    "NZZ",
+    "n-tv"
+   ],
+   "regions": [
+    "AT",
+    "CH",
+    "DE",
+    "INT"
+   ],
+   "trend": [],
+   "newest": "2026-11-09T07:25:32+00:00",
+   "articles": [
+    {
+     "source": "tagesschau Ausland",
+     "region": "INT",
+     "weight": 1.0,
+     "title": "Nach Schüssen in Krakau: Eine Stadt steht unter Schock",
+     "summary": "Ein Mann schießt in Krakau aus seinem Auto, er tötet sechs Menschen und verletzt viele weitere. Nach der Tat steht Polens zweitgrößte Stadt unter Schock. Ermittler suchen Antworten auf die bohrende Frage: Warum? Von Palina Milling.",
+     "link": "https://www.tagesschau.de/ausland/europa/polen-krakau-schuesse-102.html",
+     "image": "https://images.tagesschau.de/image/68961771-7cd2-466f-9fc6-f5e1ef891cff/AAABobi2DQI/AAABnSSvrFg/16x9-big/krakau-trauer-100.jpg?width=1920",
+     "aggregator": false,
+     "published": "2026-11-08T01:50:38+00:00"
+    },
+    {
+     "source": "tagesschau Ausland",
+     "region": "INT",
+     "weight": 1.0,
+     "title": "Polen: Mindestens sechs Tote nach Schüssen in Krakau",
+     "summary": "Bei Schüssen in der polnischen Stadt Krakau sind laut Polizei mindestens sechs Menschen getötet und 16 Personen verletzt worden. Der mutmaßliche Täter konnte demnach gefasst werden. In seinem Wohnhaus wurden weitere Tote entdeckt.",
+     "link": "https://www.tagesschau.de/ausland/europa/schuesse-krakau-100.html",
+     "image": "https://images.tagesschau.de/image/bee3ba3a-f8f6-43d9-a494-b75bb2b72fe1/AAABobanF1k/AAABnSSvrFg/16x9-big/einsatzkraefte-historisches-stadtzentrum-100.jpg?width=1920",
+     "aggregator": false,
+     "published": "2026-11-07T21:51:26+00:00"
+    },
+    {
+     "source": "Deutsche Welle",
+     "region": "INT",
+     "weight": 0.95,
+     "title": "Polen: Schütze feuert in Krakau aus Auto - mehrere Tote",
+     "summary": "Im Zentrum der polnischen Stadt Krakau eröffnet ein Mann das Feuer auf Passanten. Die Polizei spricht derzeit von sechs Todesopfern und mindestens 15 Verletzten. Vieles ist noch unklar.",
+     "link": "https://www.dw.com/de/polen-schütze-feuert-in-krakau-aus-auto-mehrere-tote/a-79887202?maca=de-rss-de-all-1119-xml-mrss",
+     "image": "https://static.dw.com/image/79887089_302.jpg",
+     "aggregator": false,
+     "published": "2026-11-07T18:00:00+00:00"
+    },
+    {
+     "source": "ORF",
+     "region": "AT",
+     "weight": 0.95,
+     "title": "Schütze von Krakau ist tot",
+     "summary": "Jener Mann, der am Samstag im polnischen Krakau sechs Menschen getötet und 15 weitere verletzt hatte, ist Polizeiangaben zufolge gestorben. Er erlag Montagfrüh im Krankenhaus seinen Verletzungen, teilte die Polizei in sozialen Netzwerken mit. Bei dem mutmaßlich rechtsextrem motivierten Anschlag kam auch eine Niederösterreicherin ums Leben, ihr Mann wurde verletzt. Die Staatsanwaltschaft kündigte Terrorermittlungen an.",
+     "link": "https://orf.at/stories/3447656/",
+     "image": null,
+     "aggregator": false,
+     "published": "2026-11-09T07:25:32+00:00"
+    },
+    {
+     "source": "ORF",
+     "region": "AT",
+     "weight": 0.95,
+     "title": "Terrorermittlungen nach Anschlag in Krakau",
+     "summary": "Bei dem mutmaßlich rechtsextrem motivierten Anschlag in Krakau mit sechs Toten und 15 Verletzten am Samstag ist eine Niederösterreicherin ums Leben gekommen. Auch ihr Mann wurde durch die Schüsse des Attentäters verletzt. Die heimische Politik zeigte sich bestürzt. Am Sonntag leitete die polnische Staatsanwaltschaft Terrorermittlungen ein. Der Attentäter sei Montagfrüh seinen Verletzungen erlegen, teilte die polnische Polizei mit.",
+     "link": "https://orf.at/stories/3447628/",
+     "image": null,
+     "aggregator": false,
+     "published": "2026-11-08T19:32:06+00:00"
+    },
+    {
+     "source": "SPIEGEL",
+     "region": "DE",
+     "weight": 0.9,
+     "title": "Polen, Ostrowiec Świętokrzyski: Anwohner berichten über den Todesschützen von Krakau",
+     "summary": "Wie haben die Menschen in seinem Heimatort den Todesschützen von Krakau erlebt? Und wie reagieren sie nun auf die Tat? SPIEGEL-Reporterin Patricia Friedek war in Ostrowiec Świętokrzyski unterwegs.",
+     "link": "https://www.spiegel.de/ausland/polen-ostrowiec-swietokrzyski-anwohner-berichten-ueber-den-todesschuetzen-von-krakau-a-ccb2bd06-6ffa-463b-a972-99a9bb64861e#ref=rss",
+     "image": "https://cdn.prod.www.spiegel.de/images/44c700f8-3f94-48de-931f-477ebd13ccde_w520_r2.08_fpx50_fpy65.21.png",
+     "aggregator": false,
+     "published": "2026-11-08T17:31:00+00:00"
+    },
+    {
+     "source": "Süddeutsche",
+     "region": "DE",
+     "weight": 0.9,
+     "title": "Anschlag in Krakau: Der Tag, an dem Polen seine Sicherheit verlor",
+     "summary": "Sechs Menschen sterben, als am Samstag ein Mann in Krakau aus seinem Auto heraus wahllos in die Menge schießt. Ermittler vermuten ein politisches Motiv – der Täter soll von rechtsextremen Ideologien fasziniert gewesen sein.",
+     "link": "https://www.sueddeutsche.de/panorama/polen-krakau-anschlag-li.3576940",
+     "image": "https://www.sueddeutsche.de/2026/11/08/dc98fb11-be34-4e64-98ad-fdc4ec7f8212.jpg?rect=222%2C0%2C3556%2C2667&width=1000&fm=jpg&q=60",
+     "aggregator": false,
+     "published": "2026-11-08T13:57:22+00:00"
+    },
+    {
+     "source": "NZZ",
+     "region": "CH",
+     "weight": 0.9,
+     "title": "Anschlag in Krakau: Die Staatsanwaltschaft stuft die Gewalttat als Terror ein. Der Täter ist tot",
+     "summary": "Polen trauert und steht unter Schock: Im Zentrum der zweitgrössten Stadt Polens hat ein junger Pole wahllos sechs Passanten erschossen. Er tötete zuvor seine Familie und soll laut dem Innenministerium rechtsextreme Ansichten vertreten.",
+     "link": "https://www.nzz.ch/panorama/fuenf-todesopfer-nach-schuessen-in-krakau-ld.10057354",
+     "image": "https://img-msp-prod.nzz.ch/2026/11/08/10a7afe1-d477-45bf-a04a-58c4d01dfa60.jpg?width=200&height=200&fit=bounds&quality=75&auto=webp&crop=2070,2070,x1649,y213",
+     "aggregator": false,
+     "published": "2026-11-09T06:22:08+00:00"
+    }
+   ]
+  },
+  {
+   "id": 2,
+   "score": 15.54,
+   "outlets": [
+    "tagesschau",
+    "Deutschlandfunk",
+    "ORF",
+    "SPIEGEL",
+    "Handelsblatt",
+    "n-tv"
+   ],
+   "regions": [
+    "AT",
+    "DE",
+    "INT"
+   ],
+   "trend": [],
+   "newest": "2026-11-09T07:18:15+00:00",
+   "articles": [
+    {
+     "source": "tagesschau",
+     "region": "DE",
+     "weight": 1.0,
+     "title": "Papst Leo XIV. fordert in Argentinien mehr Rücksicht auf Schwache",
+     "summary": "Zu Beginn seines Argentinienbesuchs hat Papst Leo XIV. Kritik an der \"Kettensägen-Politik\" von Präsident Milei geübt und zu mehr Rücksicht aufgerufen. Seit fast vier Jahrzehnten war kein Papst mehr in dem südamerikanischen Land zu Gast.",
+     "link": "https://www.tagesschau.de/ausland/amerika/papst-in-argentinien-100.html",
+     "image": "https://images.tagesschau.de/image/1f30676a-63bb-4057-a135-fb0db6a3cdc5/AAABob7H93o/AAABnSSvrFg/16x9-big/papst-1178.jpg?width=1920",
+     "aggregator": false,
+     "published": "2026-11-09T00:43:39+00:00"
+    },
+    {
+     "source": "tagesschau Ausland",
+     "region": "INT",
+     "weight": 1.0,
+     "title": "Papst Leo XIV. fordert in Argentinien mehr Rücksicht auf Schwache",
+     "summary": "Zu Beginn seines Argentinienbesuchs hat Papst Leo XIV. Kritik an der \"Kettensägen-Politik\" von Präsident Milei geübt und zu mehr Rücksicht aufgerufen. Seit fast vier Jahrzehnten war kein Papst mehr in dem südamerikanischen Land zu Gast.",
+     "link": "https://www.tagesschau.de/ausland/amerika/papst-in-argentinien-100.html",
+     "image": "https://images.tagesschau.de/image/1f30676a-63bb-4057-a135-fb0db6a3cdc5/AAABob7H93o/AAABnSSvrFg/16x9-big/papst-1178.jpg?width=1920",
+     "aggregator": false,
+     "published": "2026-11-09T00:43:39+00:00"
+    },
+    {
+     "source": "tagesschau Ausland",
+     "region": "INT",
+     "weight": 1.0,
+     "title": "Papst Leo XIV. setzt Südamerika-Reise fort",
+     "summary": "Zum Auftakt seiner Südamerika-Reise traf Papst Leo XIV. in Uruguay auf Armut und Gläubige in einer meist säkularen Gesellschaft. Nun geht es nach Argentinien, dessen Staatschef den Pontifex bisher eher als Kritiker kennt. Von Tilmann Kleinjung.",
+     "link": "https://www.tagesschau.de/ausland/amerika/papst-leo-suedamerika-uruguay-100.html",
+     "image": "https://images.tagesschau.de/image/569e6360-4542-49fc-a185-0871ac39e241/AAABobqGs5o/AAABnSSvrFg/16x9-big/papst-uruguay-100.jpg?width=1920",
+     "aggregator": false,
+     "published": "2026-11-08T08:27:56+00:00"
+    },
+    {
+     "source": "tagesschau Ausland",
+     "region": "INT",
+     "weight": 1.0,
+     "title": "Papst in Uruguay: Schwierige Mission für Leo XIV.",
+     "summary": "Zum Auftakt seiner Südamerika-Reise besucht Papst Leo XIV. Uruguay - ein Land, in dem der Glaube im Alltag kaum eine Rolle spielt. Doch im Armenviertel der Hauptstadt findet die soziale Arbeit der Kirche Anklang. Von Anne Herrberg.",
+     "link": "https://www.tagesschau.de/ausland/amerika/papst-reise-suedamerika-100.html",
+     "image": "https://images.tagesschau.de/image/c08b02e7-e2b9-49aa-9293-2aedfefde92c/AAABobeMIMM/AAABnSSvrFg/16x9-big/papst-leo-226.jpg?width=1920",
+     "aggregator": false,
+     "published": "2026-11-07T19:56:52+00:00"
+    },
+    {
+     "source": "Deutschlandfunk",
+     "region": "DE",
+     "weight": 0.95,
+     "title": "Buenos Aires - Papst mahnt Argentiniens Präsident Milei zu sozialer Verantwortung",
+     "summary": "Zu Beginn seines Besuchs in Argentinien hat Papst Leo Kritik an der Politik von Präsident Milei geübt.",
+     "link": "https://www.deutschlandfunk.de/papst-mahnt-argentiniens-praesident-milei-zu-sozialer-verantwortung-100.html",
+     "image": "https://bilder.deutschlandfunk.de/07/39/6f/fd/07396ffd-b55b-41dd-88b7-208e168bf64d/papst-leo-milei-100-1920x1920.jpg",
+     "aggregator": false,
+     "published": "2026-11-09T07:18:15+00:00"
+    },
+    {
+     "source": "ORF",
+     "region": "AT",
+     "weight": 0.95,
+     "title": "Papst Leo XIV. in Argentinien von Milei empfangen",
+     "summary": "",
+     "link": "https://orf.at/stories/3447642/",
+     "image": null,
+     "aggregator": false,
+     "published": "2026-11-08T21:24:10+00:00"
+    },
+    {
+     "source": "SPIEGEL",
+     "region": "DE",
+     "weight": 0.9,
+     "title": "Papst Leo in Südamerika: Kritik an Mileis Sparpolitik in Argentinien",
+     "summary": "Als erster Papst seit fast 40 Jahren reist Leo XIV. nach Argentinien. Für die Wirtschaftspolitik von Präsident Javier Milei bringt er offenbar wenig Verständnis mit.",
+     "link": "https://www.spiegel.de/ausland/papst-leo-in-suedamerika-kritik-an-mileis-sparpolitik-in-argentinien-a-8ab5667d-ab9c-42f1-afec-4cc0464d238c#ref=rss",
+     "image": "https://cdn.prod.www.spiegel.de/images/a24d3a0e-cc4b-42f5-8f26-ddfcf2946d1f_w520_r2.08_fpx47.33_fpy44.98.jpg",
+     "aggregator": false,
+     "published": "2026-11-09T03:24:00+00:00"
+    },
+    {
+     "source": "Handelsblatt",
+     "region": "DE",
+     "weight": 0.9,
+     "title": "Kritik an Präsident Milei: Papst mahnt in Argentinien mehr Rücksicht auf Schwache an",
+     "summary": "Nach der Wahl zum Papst kehrte Franziskus nie mehr in seine Heimat Argentinien zurück. Jetzt rollt Präsident Milei dessen Nachfolger den roten Teppich aus. Aber Leo XIV. findet auch kritische Worte.",
+     "link": "https://www.handelsblatt.com/politik/international/kritik-an-praesident-milei-papst-mahnt-in-argentinien-mehr-ruecksicht-auf-schwache-an/100268302.html",
+     "image": "https://images.handelsblatt.com/3weiQGFINRyg/cover/900/506/0/0/107/106/0.5/0.5/papst-leo-xiv-auf-suedamerika-reise.jpg",
+     "aggregator": false,
+     "published": "2026-11-09T05:37:03+00:00"
+    }
+   ]
+  },
+  {
+   "id": 3,
+   "score": 14.3,
+   "outlets": [
+    "tagesschau",
+    "Deutsche Welle",
+    "ORF",
+    "Süddeutsche",
+    "Handelsblatt",
+    "n-tv",
+    "tagesschau.de"
+   ],
+   "regions": [
+    "AT",
+    "DE",
+    "INT"
+   ],
+   "trend": [],
+   "newest": "2026-11-09T03:34:40+00:00",
+   "articles": [
+    {
+     "source": "tagesschau",
+     "region": "DE",
+     "weight": 1.0,
+     "title": "Bundespräsidenten-Wahl: Merz bricht sein Schweigen und schlägt Aigner vor",
+     "summary": "Lange hatte er darüber nachgedacht und sich zurückgehalten - am Abend sprach sich Kanzler Merz dann für Ilse Aigner als Bundespräsidentin aus. Heute wollen beide offiziell vor die Presse treten. Von Sabine Henkel.",
+     "link": "https://www.tagesschau.de/inland/innenpolitik/aigner-bundespraesidentin-100.html",
+     "image": "https://images.tagesschau.de/image/b9a1484e-0137-48fd-96c3-88255c4468fb/AAABoXhnvbQ/AAABnSSvrFg/16x9-big/merz-aigner-100.jpg?width=1920",
+     "aggregator": false,
+     "published": "2026-11-09T03:34:40+00:00"
+    },
+    {
+     "source": "tagesschau",
+     "region": "DE",
+     "weight": 1.0,
+     "title": "Kanzler Merz will Aigner als Bundespräsidentin vorschlagen",
+     "summary": "Bislang hatte sich Kanzler Merz in der Frage zur Bundespräsidenten-Nachfolge zurückgehalten. Jetzt machte er es offiziell: Der CDU-Chef will am Montag Ilse Aigner dafür vorschlagen - als erste Frau in diesem Amt.",
+     "link": "https://www.tagesschau.de/inland/innenpolitik/aigner-bundespraesidentin-merz-100.html",
+     "image": "https://images.tagesschau.de/image/6da58f42-1c07-49a0-b569-a2efe0a6b4c1/AAABobzD-w8/AAABnSSvrFg/16x9-big/aigner-merz-102.jpg?width=1920",
+     "aggregator": false,
+     "published": "2026-11-08T20:05:22+00:00"
+    },
+    {
+     "source": "tagesschau Inland",
+     "region": "DE",
+     "weight": 1.0,
+     "title": "Bundespräsidenten-Wahl: Merz bricht sein Schweigen und schlägt Aigner vor",
+     "summary": "Lange hatte er darüber nachgedacht und sich zurückgehalten - am Abend sprach sich Kanzler Merz dann für Ilse Aigner als Bundespräsidentin aus. Heute wollen beide offiziell vor die Presse treten. Von Sabine Henkel.",
+     "link": "https://www.tagesschau.de/inland/innenpolitik/aigner-bundespraesidentin-100.html",
+     "image": "https://images.tagesschau.de/image/b9a1484e-0137-48fd-96c3-88255c4468fb/AAABoXhnvbQ/AAABnSSvrFg/16x9-big/merz-aigner-100.jpg?width=1920",
+     "aggregator": false,
+     "published": "2026-11-09T03:34:40+00:00"
+    },
+    {
+     "source": "tagesschau Inland",
+     "region": "DE",
+     "weight": 1.0,
+     "title": "Kanzler Merz will Aigner als Bundespräsidentin vorschlagen",
+     "summary": "Bislang hatte sich Kanzler Merz in der Frage zur Bundespräsidenten-Nachfolge zurückgehalten. Jetzt machte er es offiziell: Der CDU-Chef will am Montag Ilse Aigner dafür vorschlagen - als erste Frau in diesem Amt.",
+     "link": "https://www.tagesschau.de/inland/innenpolitik/aigner-bundespraesidentin-merz-100.html",
+     "image": "https://images.tagesschau.de/image/6da58f42-1c07-49a0-b569-a2efe0a6b4c1/AAABobzD-w8/AAABnSSvrFg/16x9-big/aigner-merz-102.jpg?width=1920",
+     "aggregator": false,
+     "published": "2026-11-08T20:05:22+00:00"
+    },
+    {
+     "source": "Deutsche Welle",
+     "region": "INT",
+     "weight": 0.95,
+     "title": "Die CSU-Politikerin Ilse Aigner ist als erste Bundespräsidentin nun Favoritin",
+     "summary": "Sie wäre die erste Bundespräsidentin, auch die erste CSU-Politikerin im höchsten deutschen Staatsamt. Ilse Aigner ist nun bis zur Wahl in der Bundesversammlung am 30. Januar die Kandidatin und Favoritin.",
+     "link": "https://www.dw.com/de/die-csu-politikerin-ilse-aigner-ist-als-erste-bundespräsidentin-nun-favoritin/a-79873744?maca=de-rss-de-all-1119-xml-mrss",
+     "image": "https://static.dw.com/image/79873014_302.jpg",
+     "aggregator": false,
+     "published": "2026-11-08T19:34:00+00:00"
+    },
+    {
+     "source": "ORF",
+     "region": "AT",
+     "weight": 0.95,
+     "title": "D: Merz wird Aigner als Bundespräsidentin vorschlagen",
+     "summary": "",
+     "link": "https://orf.at/stories/3447632/",
+     "image": null,
+     "aggregator": false,
+     "published": "2026-11-08T19:27:35+00:00"
+    },
+    {
+     "source": "Süddeutsche",
+     "region": "DE",
+     "weight": 0.9,
+     "title": "Steinmeier-Nachfolge: Merz schlägt Aigner als Bundespräsidentin vor",
+     "summary": "Bei einem Abendessen mit dem CDU-Präsidium empfiehlt der Kanzler die bayerische Landtagspräsidentin. An diesem Montag soll es bereits einen gemeinsamen Auftritt der beiden geben.",
+     "link": "https://www.sueddeutsche.de/politik/bundespraesidentin-ilse-aigner-friedrich-merz-cdu-csu-praesidium-li.3576988",
+     "image": "https://www.sueddeutsche.de/2026/11/03/b31896bb-ae50-47c5-8907-dd1c51d344f7.jpg?rect=0%2C0%2C3953%2C2965&width=1000&fm=jpg&q=60",
+     "aggregator": false,
+     "published": "2026-11-08T19:21:11+00:00"
+    },
+    {
+     "source": "Handelsblatt",
+     "region": "DE",
+     "weight": 0.9,
+     "title": "Bundespräsidentin: Erste Frau im Amt – Merz schlägt Aigner als Bundespräsidentin vor",
+     "summary": "Nach langem Hin und Her und unter großem Druck hat sich nun auch CDU-Chef Friedrich Merz festgelegt: Die CSU-Politikerin Ilse Aigner soll das höchste Staatsamt bekleiden.",
+     "link": "https://www.handelsblatt.com/politik/deutschland/bundespraesidentin-erste-frau-im-amt-merz-schlaegt-aigner-als-bundespraesidentin-vor/100268202.html",
+     "image": "https://images.handelsblatt.com/Kpo9HxhvBour/cover/900/506/0/0/313/312/0.5/0.5/urnnewsmldpa.com20090101261105-935-1723797.jpg",
+     "aggregator": false,
+     "published": "2026-11-08T19:33:14+00:00"
+    }
+   ]
+  },
+  {
+   "id": 4,
+   "score": 14.02,
+   "outlets": [
+    "tagesschau",
+    "ZDFheute",
+    "SRF News",
+    "ZEIT ONLINE",
+    "Süddeutsche",
+    "n-tv.de"
+   ],
+   "regions": [
+    "CH",
+    "DE",
+    "INT"
+   ],
+   "trend": [],
+   "newest": "2026-11-09T07:15:00+00:00",
+   "articles": [
+    {
+     "source": "tagesschau",
+     "region": "DE",
+     "weight": 1.0,
+     "title": "Todesschütze von Krakau ist tot",
+     "summary": "Die tödlichen Schüsse in Krakau haben Entsetzen ausgelöst, aber auch viele Fragen aufgeworfen. Vor allem nach dem Motiv des Täters. Er kann nicht mehr vernommen werden. Der 24-Jährige starb im Krankenhaus.",
+     "link": "https://www.tagesschau.de/ausland/europa/krakau-todesschuetze-tot-100.html",
+     "image": "https://images.tagesschau.de/image/b37f455e-5f09-4bb8-b717-e2ef584c52c1/AAABob8GgTA/AAABnSSvrFg/16x9-big/krakau-178.jpg?width=1920",
+     "aggregator": false,
+     "published": "2026-11-09T07:06:15+00:00"
+    },
+    {
+     "source": "tagesschau Ausland",
+     "region": "INT",
+     "weight": 1.0,
+     "title": "Todesschütze von Krakau ist tot",
+     "summary": "Die tödlichen Schüsse in Krakau haben Entsetzen ausgelöst, aber auch viele Fragen aufgeworfen. Vor allem nach dem Motiv des Täters. Er kann nicht mehr vernommen werden. Der 24-Jährige starb im Krankenhaus.",
+     "link": "https://www.tagesschau.de/ausland/europa/krakau-todesschuetze-tot-100.html",
+     "image": "https://images.tagesschau.de/image/b37f455e-5f09-4bb8-b717-e2ef584c52c1/AAABob8GgTA/AAABnSSvrFg/16x9-big/krakau-178.jpg?width=1920",
+     "aggregator": false,
+     "published": "2026-11-09T07:06:15+00:00"
+    },
+    {
+     "source": "tagesschau Ausland",
+     "region": "INT",
+     "weight": 1.0,
+     "title": "Familienmitglieder des Schützen ebenfalls getötet",
+     "summary": "Landesweit gilt in Polen nach den tödlichen Schüssen auf Passanten auf einem Marktplatz in Krakau Staatstrauer. Das Motiv des Schützen bleibt unklar. Er steht im Verdacht, auch seine Eltern und Schwester getötet zu haben.",
+     "link": "https://www.tagesschau.de/ausland/europa/krakau-schuesse-trauer-100.html",
+     "image": "https://images.tagesschau.de/image/9abd0f70-e013-42c1-89d5-8710c5472b62/AAABobqYEFU/AAABnSSvrFg/16x9-big/polen-krakau-100.jpg?width=1920",
+     "aggregator": false,
+     "published": "2026-11-08T09:58:10+00:00"
+    },
+    {
+     "source": "ZDFheute",
+     "region": "DE",
+     "weight": 1.0,
+     "title": "Todesschütze von Krakau ist tot",
+     "summary": "Die tödlichen Schüsse in Krakau haben viele Fragen aufgeworfen. Um alle zu beantworten, müsste zunächst derjenige vor dem Tod gerettet werden, der anderen Menschen das Leben nahm.",
+     "link": "https://www.zdfheute.de/politik/ausland/anschlag-krakau-taeter-zustand-100.html",
+     "image": "https://www.zdfheute.de/assets/anschlag-krakau-kerzen-100~384x216?cb=1794198359651",
+     "aggregator": false,
+     "published": "2026-11-09T07:15:00+00:00"
+    },
+    {
+     "source": "SRF News",
+     "region": "CH",
+     "weight": 0.95,
+     "title": "Polen – Tödlicher Angriff in Krakau – Schütze ist tot",
+     "summary": "Nach den Schüssen im polnischen Krakau geht die Polizei von einem Einzeltäter aus. Er ist seinen Verletzungen erlegen.",
+     "link": "https://www.srf.ch/news/international/polen-toedlicher-angriff-in-krakau-schuetze-ist-tot",
+     "image": "https://www.srf.ch/static/cms/images//320ws/688c79.webp",
+     "aggregator": false,
+     "published": "2026-11-09T06:18:50+00:00"
+    },
+    {
+     "source": "ZEIT ONLINE",
+     "region": "DE",
+     "weight": 0.9,
+     "title": "Gewaltverbrechen in Polen: Polizei: Todesschütze von Krakau ist tot",
+     "summary": "",
+     "link": "https://www.zeit.de/news/2026-11/09/polizei-todesschuetze-von-krakau-ist-tot",
+     "image": "https://img.zeit.de/news/2026-11/09/polizei-todesschuetze-von-krakau-ist-tot-image-group/original__640x360",
+     "aggregator": false,
+     "published": "2026-11-09T06:57:32+00:00"
+    },
+    {
+     "source": "Süddeutsche",
+     "region": "DE",
+     "weight": 0.9,
+     "title": "Gewaltverbrechen in Polen: Polizei: Todesschütze von Krakau ist tot",
+     "summary": "Der Mann, der am Samstag aus einem mutmaßlich rechtsextremen Motiv sechs Menschen erschoss, ist laut Polizei im Krankenhaus seinen Verletzungen erlegen.",
+     "link": "https://www.sueddeutsche.de/politik/krakau-anschlag-taeter-tot-li.3577335",
+     "image": "https://www.sueddeutsche.de/2026/11/09/ef233b6a-0dd5-42d8-b911-ec9caf755dc3.jpg?rect=716%2C59%2C2533%2C1900&width=1000&fm=jpg&q=60",
+     "aggregator": false,
+     "published": "2026-11-09T06:11:48+00:00"
+    },
+    {
+     "source": "n-tv.de",
+     "region": "DE",
+     "weight": 0.6,
+     "title": "Breaking News: Todesschütze von Krakau ist tot",
+     "summary": "Breaking News: Todesschütze von Krakau ist tot n-tv.de Weitere Schlagzeilen und Meinungen in Google News",
+     "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNanYtUzNjaFBaNXREcW5UVEp0eFI0enV5QmhSYkhlT2t3eXVJLVNsTG5TOHJYWDhtelpxRmFFT09pZDBqMTEtaGUycGxDMk1xVkZIcjRwcjNOQjdLOXo3S0JNTmhrT0ZUWUFfQXhXZE1aUGFZNDJfVVAyLXZHelh3OW85c2RXTzBsUDJVU1d0Y1ZQZ1VqMXNB?oc=5",
+     "image": null,
+     "aggregator": true,
+     "published": "2026-11-09T06:04:54+00:00"
+    }
+   ]
+  },
+  {
+   "id": 5,
+   "score": 13.44,
+   "outlets": [
+    "tagesschau Inland",
+    "ZDFheute",
+    "Deutschlandfunk",
+    "SPIEGEL",
+    "Süddeutsche"
+   ],
+   "regions": [
+    "DE"
+   ],
+   "trend": [],
+   "newest": "2026-11-09T07:18:15+00:00",
+   "articles": [
+    {
+     "source": "tagesschau Inland",
+     "region": "DE",
+     "weight": 1.0,
+     "title": "Politologin über Aigner: \"Sie hat viel politische Erfahrung\"",
+     "summary": "Bayerns Landtagspräsidentin Ilse Aigner wird Unionskandidatin für die Wahl zur Bundespräsidentin. Genug Erfahrung habe sie, sagt die Politologin Münch in den tagesthemen. Diese werde auch dringend gebraucht.",
+     "link": "https://www.tagesschau.de/inland/innenpolitik/aigner-bundespraesidentin-interview-tt-100.html",
+     "image": "https://images.tagesschau.de/image/890830ce-f3e2-4cc6-9c60-48f856b24345/AAABobKrX_4/AAABnSSvrFg/16x9-big/aigner-140.jpg?width=1920",
+     "aggregator": false,
+     "published": "2026-11-06T20:54:46+00:00"
+    },
+    {
+     "source": "ZDFheute",
+     "region": "DE",
+     "weight": 1.0,
+     "title": "Aigner als Bundespräsidentin? Für Kiesewetter \"gute Wahl\"",
+     "summary": "Roderich Kiesewetter (CDU) rechnet mit Ilse Aigner als Bundespräsidentin. Bei \"Markus Lanz\" fordert er von Bundeskanzler Merz eine klare Festlegung auf Bayerns Landtagspräsidentin.",
+     "link": "https://www.zdfheute.de/video/politik-roderich-kiesewetter-bundespraesidentin-ilse-aigner-lanz-video-100.html",
+     "image": "https://www.zdfheute.de/assets/roderich-kiesewetter-markus-lanz-100~384x216?cb=1793954391703",
+     "aggregator": false,
+     "published": "2026-11-06T09:02:00+00:00"
+    },
+    {
+     "source": "Deutschlandfunk",
+     "region": "DE",
+     "weight": 0.95,
+     "title": "Als Bundespräsidentin vorgeschlagen - Wer ist Ilse Aigner?",
+     "summary": "Ilse Aigner war Gemeinderätin in Oberbayern, saß im Landtag sowie im Bundestag und führte als Landtagspräsidentin die Geschäfte des bayerischen Parlaments. Jetzt könnte sie als erste Bundespräsidentin ins Schloss Bellevue einziehen.",
+     "link": "https://www.deutschlandfunk.de/wer-ist-ilse-aigner-102.html",
+     "image": "https://bilder.deutschlandfunk.de/a5/9b/2e/59/a59b2e59-5398-40d9-9e74-1fd411a435a6/ilse-aigner-csu-bundespraesidentin-100-1920x1920.jpg",
+     "aggregator": false,
+     "published": "2026-11-09T07:18:15+00:00"
+    },
+    {
+     "source": "SPIEGEL",
+     "region": "DE",
+     "weight": 0.9,
+     "title": "Ilse Aigner: Im CDU-Präsidium dürfte Friedrich Merz ihre Nominierung als Bundespräsidentin verkünden",
+     "summary": "Ilse Aigner soll Bundespräsidentin werden, die Nominierung trifft in der CDU auf viel Zuspruch. Doch das Verfahren irritiert manche. Nun werden Details bekannt, inklusive Wanderungen und gemeinsamer Freunde mit dem Kanzler.",
+     "link": "https://www.spiegel.de/politik/deutschland/ilse-aigner-im-cdu-praesidium-duerfte-kanzler-friedrich-merz-ihre-nominierung-als-bundespraesidentin-verkuenden-a-16d83dfb-440a-4514-a5d5-c14d660df44d#ref=rss",
+     "image": "https://cdn.prod.www.spiegel.de/images/96fc6eec-1941-42a5-a806-e2c7e54be32e_w520_r2.08_fpx54_fpy42.jpg",
+     "aggregator": false,
+     "published": "2026-11-08T18:21:00+00:00"
+    },
+    {
+     "source": "Süddeutsche",
+     "region": "DE",
+     "weight": 0.9,
+     "title": "Bundespräsidenten-Wahl: Die Personalie Aigner stößt auf breite Zustimmung",
+     "summary": "Die Wahl der bayerischen Landtagspräsidentin zur neuen Bundespräsidentin gilt als sicher. CSU-Chef Markus Söder erhofft sich davon mehr Einfluss Bayerns in Berlin.",
+     "link": "https://www.sueddeutsche.de/politik/ilse-aigner-bundespraesidentin-csu-friedrich-merz-markus-soeder-li.3576942",
+     "image": "https://www.sueddeutsche.de/2026/11/08/3bc3f9cc-387b-47e0-95f5-69fc888d28ac.jpg?rect=0%2C0%2C3932%2C2949&width=1000&fm=jpg&q=60",
+     "aggregator": false,
+     "published": "2026-11-08T13:39:15+00:00"
+    }
+   ]
+  },
+  {
+   "id": 6,
+   "score": 13.24,
+   "outlets": [
+    "tagesschau Inland",
+    "ZDFheute",
+    "Deutschlandfunk",
+    "Handelsblatt",
+    "WELT"
+   ],
+   "regions": [
+    "DE"
+   ],
+   "trend": [],
+   "newest": "2026-11-09T07:18:15+00:00",
+   "articles": [
+    {
+     "source": "tagesschau Inland",
+     "region": "DE",
+     "weight": 1.0,
+     "title": "Ilse Aigner soll laut ARD-Informationen Bundespräsidentin werden",
+     "summary": "Sie wäre dort die erste Frau: Laut ARD-Hauptstadtstudio werden CDU und CSU Ilse Aigner als Kandidatin für das Amt der Bundespräsidentin vorschlagen. Gemeinsam mit der SPD hätten sie in der Bundesversammlung eine Mehrheit.",
+     "link": "https://www.tagesschau.de/inland/innenpolitik/cdu-csu-aigner-bundespraesidentin-100.html",
+     "image": "https://images.tagesschau.de/image/9aea46e7-124f-4c55-8c85-5a3c827109f2/AAABobF9tAA/AAABnSSvrFg/16x9-big/ilse-aigner-298.jpg?width=1920",
+     "aggregator": false,
+     "published": "2026-11-06T20:36:48+00:00"
+    },
+    {
+     "source": "ZDFheute",
+     "region": "DE",
+     "weight": 1.0,
+     "title": "Merz bekennt sich zu Aigner als Kandidatin",
+     "summary": "Friedrich Merz hat angekündigt, Ilse Aigner als Bundespräsidentin vorzuschlagen. Das erklärte er dem CDU-Präsidium. Nie zuvor hat die Union für das Amt ein CSU-Mitglied nominiert.",
+     "link": "https://www.zdfheute.de/politik/aigner-merz-bundespraesidentin-zeitplan-100.html",
+     "image": "https://www.zdfheute.de/assets/ilse-aigner-friedrich-merz-csu-parteitag-100~384x216?cb=1794158771526",
+     "aggregator": false,
+     "published": "2026-11-08T19:34:00+00:00"
+    },
+    {
+     "source": "Deutschlandfunk",
+     "region": "DE",
+     "weight": 0.95,
+     "title": "Treffen der CDU-Gremien - Merz will Aigner als Kandidatin für das Amt der Bundespräsidentin vorstellen",
+     "summary": "Bundeskanzler Merz will heute den Führungsgremien der CDU die bayerische Landtagspräsidentin Aigner als Kandidatin für das Amt der Bundespräsidentin vorschlagen. Die 61-jährige CSU-Politikerin soll sich am Vormittag im CDU-Präsidium und -Bundesvorstand vorstellen und anschließend mit Merz vor die Presse treten.",
+     "link": "https://www.deutschlandfunk.de/merz-will-aigner-als-kandidatin-fuer-das-amt-der-bundespraesidentin-vorstellen-100.html",
+     "image": "https://bilder.deutschlandfunk.de/a9/2a/2a/f0/a92a2af0-60a3-4ab1-bfce-4b0e8599e8bd/merz-aigner-100-1920x1920.jpg",
+     "aggregator": false,
+     "published": "2026-11-09T07:18:15+00:00"
+    },
+    {
+     "source": "Handelsblatt",
+     "region": "DE",
+     "weight": 0.9,
+     "title": "Kommentar: Eine Bundespräsidentin war mehr als überfällig",
+     "summary": "Nach zwölf männlichen Bundespräsidenten soll mit Ilse Aigner erstmals eine Frau in Bellevue einziehen – endlich! Einen Orden verdient der Kanzler dafür aber nicht.",
+     "link": "https://www.handelsblatt.com/meinung/kommentare/kommentar-eine-bundespraesidentin-war-mehr-als-ueberfaellig/100267838.html",
+     "image": "https://images.handelsblatt.com/hNzzw4NhgO7V/cover/900/506/0/0/0/224/0.5/0.5/germany-politics-parties-csu.jpg",
+     "aggregator": false,
+     "published": "2026-11-09T02:57:40+00:00"
+    },
+    {
+     "source": "Handelsblatt",
+     "region": "DE",
+     "weight": 0.9,
+     "title": "Bundespräsidentenwahl: Was die Kandidatur Aigners bedeutet",
+     "summary": "Die CSU hat sich schon lange auf Ilse Aigner als nächste Bundespräsidentin festgelegt. Die SPD hat ihre Unterstützung zugesichert. Jetzt fehlt noch das offizielle Votum der CDU.",
+     "link": "https://www.handelsblatt.com/politik/deutschland/bundespraesidentenwahl-was-die-kandidatur-aigners-bedeutet/100268162.html",
+     "image": "https://images.handelsblatt.com/E68njxO3cAxA/cover/900/506/0/0/131/131/0.5/0.5/merz-und-soeder.jpg",
+     "aggregator": false,
+     "published": "2026-11-08T20:40:58+00:00"
+    },
+    {
+     "source": "Handelsblatt",
+     "region": "DE",
+     "weight": 0.9,
+     "title": "Deep Read: Die „Soulsister“ vom Starnberger See wird wohl Bundespräsidentin",
+     "summary": "CDU und CSU nominieren Ilse Aigner für das höchste Staatsamt. SPD und Grüne dürften zustimmen. Gründe für ihre Beliebtheit finden sich in ihrem Heimatort, in München – und in Berlin.",
+     "link": "https://www.handelsblatt.com/politik/deutschland/ilse-aigner-die-soulsister-vom-starnberger-see/100267577.html",
+     "image": "https://images.handelsblatt.com/B34-kEOp3-Sr/cover/900/506/0/0/0/0/0.5/0.5/ilse-aigner-empfehlung-vom-parteichef.jpg",
+     "aggregator": false,
+     "published": "2026-11-08T19:40:01+00:00"
+    },
+    {
+     "source": "Handelsblatt",
+     "region": "DE",
+     "weight": 0.9,
+     "title": "Kandidatur für Staatsspitze: Merz: Aigner soll Bundespräsidentin werden",
+     "summary": "Dass Ilse Aigner Kandidatin der Union für die Bundespräsidentenwahl werden soll, galt bereits als ausgemachte Sache. Es fehlte aber noch das offizielle Ja des Kanzlers. Jetzt ist es da.",
+     "link": "https://www.handelsblatt.com/politik/deutschland/kandidatur-fuer-staatsspitze-merz-aigner-soll-bundespraesidentin-werden/100268262.html",
+     "image": "https://images.handelsblatt.com/2LP0O1iLr98H/cover/900/506/0/0/107/106/0.5/0.5/cdu-praesidium-beraet-ueber-kandidatur-bei-bundespraesidentenwahl.jpg",
+     "aggregator": false,
+     "published": "2026-11-08T19:36:11+00:00"
+    },
+    {
+     "source": "WELT",
+     "region": "DE",
+     "weight": 0.8,
+     "title": "Ilse Aigner soll Bundespräsidentin werden – Linke schimpft über „parteipolitischen Wanderpokal“",
+     "summary": "Alle Zeichen stehen auf Ilse Aigner (CSU) als Bundespräsidentin. Bundeskanzler und CDU-Chef Friedrich Merz geht auf den Vorschlag der Schwesterpartei CSU ein und will die Präsidentin des bayerischen Landtags als Kandidatin für das höchste Staatsamt nominieren.",
+     "link": "https://www.welt.de/politik/deutschland/video6af1559680d3a1c6aa66dce5/merz-folgt-soeders-vorschlag-ilse-aigner-soll-bundespraesidentin-werden-linke-schimpft-ueber-parteipolitischen-wanderpokal.html",
+     "image": "https://images.welt.de/6af1559680d3a1c6aa66dce5/e11020bf4c302d0a3caf960b9b0e781f/ci16x9-w1200/dpa-com-261108-99-214463-jpg",
+     "aggregator": false,
+     "published": "2026-11-09T05:32:58+00:00"
+    }
+   ]
+  },
+  {
+   "id": 7,
+   "score": 13.04,
+   "outlets": [
+    "Deutschlandfunk",
+    "ORF",
+    "SRF News",
+    "Handelsblatt",
+    "n-tv"
+   ],
+   "regions": [
+    "AT",
+    "CH",
+    "DE"
+   ],
+   "trend": [],
+   "newest": "2026-11-09T07:18:15+00:00",
+   "articles": [
+    {
+     "source": "Deutschlandfunk",
+     "region": "DE",
+     "weight": 0.95,
+     "title": "Mittlerer Osten - Trump rechnet aktuell nicht mit neuen Angriffen auf Iran",
+     "summary": "US-Präsident Trump rechnet derzeit nicht mit neuen Angriffen auf den Iran.",
+     "link": "https://www.deutschlandfunk.de/trump-rechnet-aktuell-nicht-mit-neuen-angriffen-auf-iran-106.html",
+     "image": "https://bilder.deutschlandfunk.de/d7/c4/78/16/d7c47816-207e-43fd-921d-b08f9707d643/donald-trump-262-1920x1920.jpg",
+     "aggregator": false,
+     "published": "2026-11-09T07:18:15+00:00"
+    },
+    {
+     "source": "ORF",
+     "region": "AT",
+     "weight": 0.95,
+     "title": "Trump: Neue Angriffe im Iran bei Gesprächen unwahrscheinlich",
+     "summary": "",
+     "link": "https://orf.at/stories/3447629/",
+     "image": null,
+     "aggregator": false,
+     "published": "2026-11-08T19:11:19+00:00"
+    },
+    {
+     "source": "SRF News",
+     "region": "CH",
+     "weight": 0.95,
+     "title": "Krieg im Nahen Osten – Rubio sieht keine Fortschritte in Iran-Gesprächen",
+     "summary": "Während sich Trump zuversichtlich gibt, sieht Aussenminister Rubio keine Fortschritte in den Gesprächen mit dem Iran.",
+     "link": "https://www.srf.ch/news/international/nahost/krieg-im-nahen-osten-rubio-sieht-keine-fortschritte-in-iran-gespraechen",
+     "image": "https://www.srf.ch/static/cms/images//320ws/78c06e.webp",
+     "aggregator": false,
+     "published": "2026-11-09T04:42:07+00:00"
+    },
+    {
+     "source": "Handelsblatt",
+     "region": "DE",
+     "weight": 0.9,
+     "title": "Iran-Krieg: Trump: Neue Angriffe im Iran bei Gesprächen unwahrscheinlich",
+     "summary": "In den vergangenen Wochen wurde spekuliert, Donald Trump könnte nach der US-Kongresswahl neue Angriffe im Iran anordnen. Der Präsident sagt nun, er glaube nicht, dass dies nötig sein werde.",
+     "link": "https://www.handelsblatt.com/politik/international/iran-krieg-trump-neue-angriffe-im-iran-bei-gespraechen-unwahrscheinlich/100268257.html",
+     "image": "https://images.handelsblatt.com/X3ALFVUxJhN2/cover/900/506/0/0/107/106/0.5/0.5/us-praesident-trump.jpg",
+     "aggregator": false,
+     "published": "2026-11-08T18:58:06+00:00"
+    },
+    {
+     "source": "n-tv",
+     "region": "DE",
+     "weight": 0.8,
+     "title": "Einigung statt Eskalation?: Trump hält neue Angriffe auf den Iran für \"höchst unwahrscheinlich\"",
+     "summary": "Im Iran-Konflikt setzt US-Präsident Trump offenbar auf eine diplomatische Lösung. Weitere Militärschläge hält er vorerst für unwahrscheinlich. Sollte Teheran nicht einlenken, seien erneute Angriffe allerdings weiterhin eine Option.",
+     "link": "https://www.n-tv.de/politik/Trump-haelt-neue-Angriffe-auf-den-Iran-fuer-hoechst-unwahrscheinlich-id31509594.html",
+     "image": "https://www.n-tv.de/img/31509546/1794170036/Img_4_3/250/image.jpg",
+     "aggregator": false,
+     "published": "2026-11-08T19:53:26+00:00"
+    }
+   ]
+  },
+  {
+   "id": 8,
+   "score": 11.14,
+   "outlets": [
+    "tagesschau",
+    "Deutschlandfunk",
+    "DER STANDARD",
+    "WELT"
+   ],
+   "regions": [
+    "AT",
+    "DE",
+    "INT"
+   ],
+   "trend": [],
+   "newest": "2026-11-09T07:18:15+00:00",
+   "articles": [
+    {
+     "source": "tagesschau",
+     "region": "DE",
+     "weight": 1.0,
+     "title": "Mindestens 21 Tote nach Bootsunglück vor Senegal gemeldet",
+     "summary": "Vor der Küste Senegals ist ein Boot gekentert. Die Behörden bestätigten mehr als 20 Tote, mit weiteren wird gerechnet. Zahlreiche Menschen versuchen jedes Jahr, über die gefährliche Atlantikroute aus Westafrika in die EU zu gelangen.",
+     "link": "https://www.tagesschau.de/ausland/afrika/viele-tote-bootsunglueck-senegal-100.html",
+     "image": "https://images.tagesschau.de/image/62711c63-5a09-4b65-b89b-2c34777ffd48/AAABldrvzgs/AAABnSSvrFg/16x9-big/karte-senegal-100.jpg?width=1920",
+     "aggregator": false,
+     "published": "2026-11-09T00:32:33+00:00"
+    },
+    {
+     "source": "tagesschau Ausland",
+     "region": "INT",
+     "weight": 1.0,
+     "title": "Mindestens 21 Tote nach Bootsunglück vor Senegal gemeldet",
+     "summary": "Vor der Küste Senegals ist ein Boot gekentert. Die Behörden bestätigten mehr als 20 Tote, mit weiteren wird gerechnet. Zahlreiche Menschen versuchen jedes Jahr, über die gefährliche Atlantikroute aus Westafrika in die EU zu gelangen.",
+     "link": "https://www.tagesschau.de/ausland/afrika/viele-tote-bootsunglueck-senegal-100.html",
+     "image": "https://images.tagesschau.de/image/62711c63-5a09-4b65-b89b-2c34777ffd48/AAABldrvzgs/AAABnSSvrFg/16x9-big/karte-senegal-100.jpg?width=1920",
+     "aggregator": false,
+     "published": "2026-11-09T00:32:33+00:00"
+    },
+    {
+     "source": "Deutschlandfunk",
+     "region": "DE",
+     "weight": 0.95,
+     "title": "Migration - Mindestens 34 Migranten bei Bootsunglück vor der Küste des Senegal gestorben",
+     "summary": "Nach dem Bootsunglück vor der Küste des Senegal ist die Zahl der bestätigten Todesopfer auf 34 gestiegen.",
+     "link": "https://www.deutschlandfunk.de/mindestens-34-migranten-bei-bootsunglueck-vor-der-kueste-des-senegal-gestorben-100.html",
+     "image": "https://bilder.deutschlandfunk.de/e1/06/7d/e2/e1067de2-6230-41ae-943b-92085b1ff504/die-nachrichten-kachel-2176-zu1224-100-768x768.jpg",
+     "aggregator": false,
+     "published": "2026-11-09T07:18:15+00:00"
+    },
+    {
+     "source": "DER STANDARD",
+     "region": "AT",
+     "weight": 0.85,
+     "title": "Mindestens 34 Tote bei Bootsunglück vor der Küste des Senegal",
+     "summary": "Einige Menschen werden noch vermisst und die Zahl der Todesopfer dürfte weiter steigen",
+     "link": "https://www.derstandard.at/story/3000000348122/mindestens-34-tote-bei-bootsungl252ck-vor-der-k252ste-des-senegal?ref=rss",
+     "image": "https://i.ds.at/kJVeww/rs:fill:150:0/plain/lido-images/2026/11/09/90d3d03f-cf6c-4e0f-a7c9-d66fc6c90352.jpg",
+     "aggregator": false,
+     "published": "2026-11-09T05:12:06+00:00"
+    },
+    {
+     "source": "WELT",
+     "region": "DE",
+     "weight": 0.8,
+     "title": "Mindestens sieben Tote bei Zugunglück in Ägypten",
+     "summary": "Bei einem Zugunglück in Ägypten sind nach offiziellen Angaben mindestens sieben Menschen getötet und 112 weitere verletzt worden. Bei dem Unfall in Giseh seien mehrere Waggons eines Passagierzugs entgleist, teilte das Gesundheitsministerium mit.",
+     "link": "https://www.welt.de/vermischtes/video6af1682280d3a1c6aa66de04/giseh-mindestens-sieben-tote-bei-zugunglueck-in-aegypten.html",
+     "image": "https://images.welt.de/6af1682280d3a1c6aa66de04/26b3f9e03a39f8ce8fe960935c23b977/ci16x9-w1200/dpa-com-261108-99-214973-jpg",
+     "aggregator": false,
+     "published": "2026-11-09T06:38:38+00:00"
+    }
+   ]
+  },
+  {
+   "id": 9,
+   "score": 10.62,
+   "outlets": [
+    "SRF News",
+    "Handelsblatt",
+    "DER STANDARD",
+    "n-tv"
+   ],
+   "regions": [
+    "AT",
+    "CH",
+    "DE"
+   ],
+   "trend": [],
+   "newest": "2026-11-09T06:20:33+00:00",
+   "articles": [
+    {
+     "source": "SRF News",
+     "region": "CH",
+     "weight": 0.95,
+     "title": "Krieg in der Ukraine – Trump: Ukraine wird «etwas andere Form» haben",
+     "summary": "In einem Interview mit «60 Minutes» sieht Trump territoriale Zugeständnisse der Ukraine als Teil einer Friedenslösung.",
+     "link": "https://www.srf.ch/news/international/ukraine/krieg-in-der-ukraine-trump-ukraine-wird-etwas-andere-form-haben",
+     "image": "https://www.srf.ch/static/cms/images//320ws/a52a46.webp",
+     "aggregator": false,
+     "published": "2026-11-09T04:50:05+00:00"
+    },
+    {
+     "source": "Handelsblatt",
+     "region": "DE",
+     "weight": 0.9,
+     "title": "Russischer Angriffskrieg: Trump: Ukraine wird „etwas andere Form“ haben",
+     "summary": "Der Krieg in der Ukraine werde bald enden, sagt Präsident Donald Trump abermals. Diesmal äußert er sich auch zu möglichen Gebietsabtretungen des angegriffenen Landes.",
+     "link": "https://www.handelsblatt.com/politik/international/russischer-angriffskrieg-trump-ukraine-wird-etwas-andere-form-haben/100268317.html",
+     "image": "https://images.handelsblatt.com/FVigRWTrS6Vt/cover/900/506/0/0/107/106/0.5/0.5/us-praesident-trump.jpg",
+     "aggregator": false,
+     "published": "2026-11-09T04:13:10+00:00"
+    },
+    {
+     "source": "DER STANDARD",
+     "region": "AT",
+     "weight": 0.85,
+     "title": "Trump: Ukraine wird \"am Ende etwas andere Form\" haben",
+     "summary": "Der US-Präsident stimmt in einem Interview die Ukraine auf territoriale Verluste als Folge eines Abkommens für ein Ende des Kriegs ein",
+     "link": "https://www.derstandard.at/jetzt/livebericht/3000000348119/600000-menschen-in-der-ostukraine-nach-russischen-angriffen-ohne-strom?ref=rss",
+     "image": "https://i.ds.at/UFNHIg/rs:fill:150:0/plain/lido-images/2026/11/09/7470934b-dbe5-4792-8ef7-e3eadb9ff009.jpg",
+     "aggregator": false,
+     "published": "2026-11-09T06:20:33+00:00"
+    },
+    {
+     "source": "n-tv",
+     "region": "DE",
+     "weight": 0.8,
+     "title": "\"Russland respektlos behandelt\": Trump: Ukraine wird bei Kriegsende etwas andere Form haben",
+     "summary": "Wladimir Putins Einfluss auf Donald Trump wird in einem aktuellen Interview erneut deutlich. Gegenüber der Ukraine findet Trump kritische Worte. Ob der US-Präsident seinem russischen oder ukrainischen Amtskollegen mehr vertraut, will er nicht beantworten.",
+     "link": "https://www.n-tv.de/politik/Trump-Ukraine-wird-bei-Kriegsende-etwas-andere-Form-haben-id31510026.html",
+     "image": "https://www.n-tv.de/img/31510077/1794205453/Img_4_3/250/631926643.jpg",
+     "aggregator": false,
+     "published": "2026-11-09T05:56:57+00:00"
+    }
+   ]
+  },
+  {
+   "id": 10,
+   "score": 9.83,
+   "outlets": [
+    "tagesschau",
+    "ZDFheute",
+    "n-tv",
+    "DIE ZEIT"
+   ],
+   "regions": [
+    "DE"
+   ],
+   "trend": [],
+   "newest": "2026-11-09T06:22:53+00:00",
+   "articles": [
+    {
+     "source": "tagesschau",
+     "region": "DE",
+     "weight": 1.0,
+     "title": "Ein Tor, aber keine Punkte für Schalke 04 gegen Hoffenheim",
+     "summary": "Mal wieder ein Tor, aber kein Punkt: Der FC Schalke 04 hängt nach einer Niederlage bei der TSG Hoffenheim im Tabellenkeller der Fußball-Bundesliga fest und beklagt weitere Verletzte.",
+     "link": "https://www.sportschau.de/fussball/bundesliga/ein-tor-aber-keine-punkte-fuer-fc-schalke-04,spielbericht-tsg-hoffenheim-schalke-04-100.html",
+     "image": "https://images.sportschau.de/image/5b08b927-70c1-4944-8392-965a99d8ce6d/AAABobzUlrE/AAABnSSvrFg/16x9-big/hoffenheim-schalke-170.jpg?width=1920",
+     "aggregator": false,
+     "published": "2026-11-08T23:00:00+00:00"
+    },
+    {
+     "source": "ZDFheute",
+     "region": "DE",
+     "weight": 1.0,
+     "title": "Schalkes gebrauchter Abend in Hoffenheim",
+     "summary": "Schalke erlebt in Hoffenheim einen unglücklichen Abend. Neben der Niederlage müssen auch noch Keeper Lorius Karius und Robin Gosens nach einem Zusammenprall ausgewechselt werden.",
+     "link": "https://www.zdfheute.de/sport/fussball-bundesliga/video/tsg-hoffenheim-fc-schalke-04-saison-2026-27-100.html",
+     "image": "https://www.zdfheute.de/assets/hoffenheim-schalke-116~384x216?cb=1794178766022",
+     "aggregator": false,
+     "published": "2026-11-08T23:00:00+00:00"
+    },
+    {
+     "source": "n-tv",
+     "region": "DE",
+     "weight": 0.8,
+     "title": "Böser Crash : \"Schaut schlimm aus\": Schalke macht sich große Sorgen um zwei Stars",
+     "summary": "Fußball-Bundesligist FC Schalke 04 verliert nicht nur bei der TSG Hoffenheim, sondern bangt auch um Schlussmann Loris Karius und Verteidiger Robin Gosens. Der Trainer sorgt sich um die beiden Leistungsträger.",
+     "link": "https://www.n-tv.de/sport/fussball/Schaut-schlimm-aus-Schalke-macht-sich-grosse-Sorgen-um-zwei-Stars-id31510009.html",
+     "image": "https://www.n-tv.de/img/31510020/1794204281/Img_4_3/250/image.jpg",
+     "aggregator": false,
+     "published": "2026-11-09T06:22:53+00:00"
+    },
+    {
+     "source": "n-tv",
+     "region": "DE",
+     "weight": 0.8,
+     "title": "Schlimmer Zusammenprall: Verzweifelter FC Schalke 04 verliert Spiel, Gosens und Karius",
+     "summary": "Was für ein bitterer Abend für den FC Schalke 04. Bei der TSG Hoffenheim verliert die Mannschaft von Trainer Miron Muslic nach starker Leistung knapp. Große Sorgen gibt es um zwei Topspieler.",
+     "link": "https://www.n-tv.de/sport/fussball/Verzweifelter-FC-Schalke-04-verliert-Spiel-Gosens-und-Karius-id31509565.html",
+     "image": "https://www.n-tv.de/img/31509649/1794174571/Img_4_3/250/imago1085738149h.jpg",
+     "aggregator": false,
+     "published": "2026-11-08T20:29:12+00:00"
+    },
+    {
+     "source": "DIE ZEIT",
+     "region": "DE",
+     "weight": 0.6,
+     "title": "Fußball-Bundesliga: Nach Crash zwischen Karius und Gosens: Schalke sorgt sich",
+     "summary": "Fußball-Bundesliga: Nach Crash zwischen Karius und Gosens: Schalke sorgt sich DIE ZEIT Ein Tor, aber keine Punkte für Schalke 04 gegen Hoffenheim sportschau.de \"Schaut schlimm aus\": Schalke macht sich große Sorgen um zwei Stars n-tv.de Karius patzt bei Schalke-Niederlage gegen Hoffenheim BILD Hoffenheim gewinnt Heimspiel gegen Schalke – zwei Spieler verletzt vom Platz T-Online",
+     "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNOUxVU25YUUVZZTBfbWhibUF6NjBuWlJmVTBTR21vemtiTndmempBWWdzS21PMGVvNGUtXzY3T3AtODRPNG9icXE0WWY4MmZ4MFdkV3VhVXZybUQ0YlRmYXlBUHRCYjIyZ2hLbzJFY2pkTzFObWZmQWN1cm1fOUdseXJONnJFWWFDUkFzRXZVSjBaLUx1elpF?oc=5",
+     "image": null,
+     "aggregator": true,
+     "published": "2026-11-09T04:00:32+00:00"
+    }
+   ]
+  },
+  {
+   "id": 11,
+   "score": 9.74,
+   "outlets": [
+    "tagesschau",
+    "Deutschlandfunk",
+    "ORF"
+   ],
+   "regions": [
+    "AT",
+    "DE"
+   ],
+   "trend": [],
+   "newest": "2026-11-09T07:18:15+00:00",
+   "articles": [
+    {
+     "source": "tagesschau",
+     "region": "DE",
+     "weight": 1.0,
+     "title": "31. Klimakonferenz der UN startet - Guterres fordert mehr Einsatz",
+     "summary": "Im türkischen Antalya beginnt die 31. Klimakonferenz der Vereinten Nationen. Zwei Wochen lang beraten Vertreter von fast 200 Ländern über Maßnahmen gegen die Erderwärmung. UN-Generalsekretär Guterres verweist auf die Dringlichkeit.",
+     "link": "https://www.tagesschau.de/wissen/klima/cop-in-antalya-beginnt-100.html",
+     "image": "https://images.tagesschau.de/image/1a118cb5-f408-4cf0-8d4d-79c6d60dbaaf/AAABob5TYAg/AAABnSSvrFg/16x9-big/cop-134.jpg?width=1920",
+     "aggregator": false,
+     "published": "2026-11-09T03:59:05+00:00"
+    },
+    {
+     "source": "Deutschlandfunk",
+     "region": "DE",
+     "weight": 0.95,
+     "title": "Türkei - Weltklimakonferenz in Antalya beginnt",
+     "summary": "Im türkischen Antalya beginnt heute die Weltklimakonferenz. Knapp zwei Wochen beraten Delegierte aus rund 200 Staaten über die weiteren Schritte zur Eindämmung der Klimakrise. Für Deutschland nimmt Umweltminister Schneider teil.",
+     "link": "https://www.deutschlandfunk.de/weltklimakonferenz-in-antalya-beginnt-100.html",
+     "image": "https://bilder.deutschlandfunk.de/c5/5f/42/74/c55f4274-5fca-43f0-84ad-d64b99663601/cop31-klimakonferenz-antalya-100-1920x1920.jpg",
+     "aggregator": false,
+     "published": "2026-11-09T07:18:15+00:00"
+    },
+    {
+     "source": "ORF",
+     "region": "AT",
+     "weight": 0.95,
+     "title": "Positive Signale vor Klimakonferenz",
+     "summary": "Am Montag beginnt im türkischen Antalya die 31. UNO-Weltklimakonferenz (COP31). Unter dem Motto „Dialog. Konsens. Handeln“ will man einmal mehr in die Umsetzung konkreter Klimamaßnahmen kommen. Die weltpolitische Lage mag Grund zu Zweifel geben – aber auch zu Hoffnung.",
+     "link": "https://orf.at/stories/3446966/",
+     "image": null,
+     "aggregator": false,
+     "published": "2026-11-09T05:03:37+00:00"
+    },
+    {
+     "source": "ORF",
+     "region": "AT",
+     "weight": 0.95,
+     "title": "UNO-Klimagipfel in Antalya startet",
+     "summary": "",
+     "link": "https://orf.at/stories/3447635/",
+     "image": null,
+     "aggregator": false,
+     "published": "2026-11-08T20:35:51+00:00"
+    }
+   ]
+  },
+  {
+   "id": 12,
+   "score": 9.74,
+   "outlets": [
+    "tagesschau",
+    "Deutsche Welle",
+    "Deutschlandfunk"
+   ],
+   "regions": [
+    "DE",
+    "INT"
+   ],
+   "trend": [],
+   "newest": "2026-11-09T07:18:15+00:00",
+   "articles": [
+    {
+     "source": "tagesschau",
+     "region": "DE",
+     "weight": 1.0,
+     "title": "Russische Luftangriffe: Erneut Hunderttausende Ukrainer ohne Strom",
+     "summary": "Erneut hat Russland die ukrainische Energieversorgung schwer getroffen. In der Region Dnipropetrowsk haben 600.000 Menschen keinen Strom. Das besetzte Atomkraftwerk Saporischschja muss mit Notstromaggregaten gekühlt werden.",
+     "link": "https://www.tagesschau.de/ausland/europa/ukraine-stromausfall-120.html",
+     "image": "https://images.tagesschau.de/image/191b788d-eaa3-44e0-8d43-2c000d71fd4a/AAABobrngk4/AAABnSSvrFg/16x9-big/stadt-stromausfall-100.jpg?width=1920",
+     "aggregator": false,
+     "published": "2026-11-08T12:05:57+00:00"
+    },
+    {
+     "source": "tagesschau Ausland",
+     "region": "INT",
+     "weight": 1.0,
+     "title": "Russische Luftangriffe: Erneut Hunderttausende Ukrainer ohne Strom",
+     "summary": "Erneut hat Russland die ukrainische Energieversorgung schwer getroffen. In der Region Dnipropetrowsk haben 600.000 Menschen keinen Strom. Das besetzte Atomkraftwerk Saporischschja muss mit Notstromaggregaten gekühlt werden.",
+     "link": "https://www.tagesschau.de/ausland/europa/ukraine-stromausfall-120.html",
+     "image": "https://images.tagesschau.de/image/191b788d-eaa3-44e0-8d43-2c000d71fd4a/AAABobrngk4/AAABnSSvrFg/16x9-big/stadt-stromausfall-100.jpg?width=1920",
+     "aggregator": false,
+     "published": "2026-11-08T12:05:57+00:00"
+    },
+    {
+     "source": "Deutsche Welle",
+     "region": "INT",
+     "weight": 0.95,
+     "title": "Ukraine: AKW Saporischschja wieder vom Strom abgetrennt",
+     "summary": "Das von russischen Einheiten kontrollierte ukrainische Atomkraftwerk Saporischschja muss abermals mit Notstromaggregaten versorgt werden. Die Gründe hierfür sind noch nicht bekannt.",
+     "link": "https://www.dw.com/de/ukraine-akw-saporischschja-wieder-vom-strom-abgetrennt/a-79890404?maca=de-rss-de-all-1119-xml-mrss",
+     "image": "https://static.dw.com/image/65845532_302.jpg",
+     "aggregator": false,
+     "published": "2026-11-08T13:20:00+00:00"
+    },
+    {
+     "source": "Deutschlandfunk",
+     "region": "DE",
+     "weight": 0.95,
+     "title": "Ukraine-Krieg - Russische Drohnenangriffe auf ukrainische Städte",
+     "summary": "Russland hat am Abend mehrere ukrainische Städte mit Drohnen angegriffen.",
+     "link": "https://www.deutschlandfunk.de/russische-drohnenangriffe-auf-ukrainische-staedte-104.html",
+     "image": "https://bilder.deutschlandfunk.de/e8/f3/c5/df/e8f3c5df-d691-4e75-b744-aa0d96bbbba6/sloviansk-ukraine-drohnenangriffe-100-1920x1920.jpg",
+     "aggregator": false,
+     "published": "2026-11-09T07:18:15+00:00"
+    }
+   ]
+  },
+  {
+   "id": 13,
+   "score": 9.67,
+   "outlets": [
+    "Deutschlandfunk",
+    "WELT",
+    "n-tv",
+    "DIE ZEIT"
+   ],
+   "regions": [
+    "DE"
+   ],
+   "trend": [],
+   "newest": "2026-11-09T07:24:05+00:00",
+   "articles": [
+    {
+     "source": "Deutschlandfunk",
+     "region": "DE",
+     "weight": 0.95,
+     "title": "\"Totes Recht\" - Justizministerin Hubig kritisiert Gesetzentwurf von Wirtschaftsministerin Reiche für Spritpreisdeckel",
+     "summary": "Im Streit um den geplanten Kraftstoffpreisdeckel hat Justizministerin Hubig den Gesetzentwurf von Wirtschaftsministerin Reiche kritisiert und Nachbesserungen gefordert.",
+     "link": "https://www.deutschlandfunk.de/justizministerin-hubig-kritisiert-gesetzentwurf-von-wirtschaftsministerin-reiche-fuer-spritpreisdeck-100.html",
+     "image": "https://bilder.deutschlandfunk.de/6f/69/6b/64/6f696b64-3752-46c3-b817-dd0f86bc5a04/bundesjustizministerin-stefanie-hubig-spd-verbraucherschutz-digitale-gewalt-100-1920x1920.jpg",
+     "aggregator": false,
+     "published": "2026-11-09T07:18:15+00:00"
+    },
+    {
+     "source": "WELT",
+     "region": "DE",
+     "weight": 0.8,
+     "title": "„Totes Recht“ – Hubig kritisiert Reiches Gesetzentwurf für Spritpreisdeckel",
+     "summary": "Bundesjustizministerin Stefanie Hubig (SPD) fordert von Wirtschaftsministerin Katherina Reiche (CDU) Nachbesserungen beim Spritpreisdeckel: „Wenn der Spritpreisdeckel so ausgestaltet wird wie vorgeschlagen, dann bleibt er totes Recht.“",
+     "link": "https://www.welt.de/politik/deutschland/video6af173ec80d3a1c6aa66debe/hohe-benzinpreise-totes-recht-hubig-kritisiert-reiches-gesetzentwurf-fuer-spritpreisdeckel.html",
+     "image": "https://images.welt.de/6af173ec80d3a1c6aa66debe/966e014a972ddd9e2405da53220711d7/ci16x9-w1200/dpa-com-261102-936-135683-jpg",
+     "aggregator": false,
+     "published": "2026-11-09T07:24:05+00:00"
+    },
+    {
+     "source": "WELT",
+     "region": "DE",
+     "weight": 0.8,
+     "title": "„Totes Recht“ – Hubig kritisiert Reiches Gesetzentwurf für Spritpreisdeckel",
+     "summary": "Justizministerin Stefanie Hubig fordert einen wirksameren Spritpreisdeckel. Nach den Plänen des Wirtschaftsministeriums ist das Instrument an die Auslandspreise gekoppelt.",
+     "link": "https://www.welt.de/wirtschaft/article6af1631180d3a1c6aa66dda1/hohe-benzinpreise-totes-recht-hubig-kritisiert-reiches-gesetzentwurf-fuer-spritpreisdeckel.html",
+     "image": "https://images.welt.de/6af1631180d3a1c6aa66dda1/2a6134b6b8a53a57b294858b69696e8c/ci23x11-w1200/dpa-com-261102-936-135683-jpg",
+     "aggregator": false,
+     "published": "2026-11-09T06:48:00+00:00"
+    },
+    {
+     "source": "n-tv",
+     "region": "DE",
+     "weight": 0.8,
+     "title": "\"Totes Recht\": Hubig: Reiches Spritpreisdeckel wirkt nicht",
+     "summary": "Ein Spritpreisdeckel soll Verbraucher an der Zapfsäule entlasten. Wirtschaftsministerin Reiche plant allerdings hohe Hürden, bevor das Instrument in Kraft treten kann. Das Gesetz könnte zum Papiertiger werden, fürchtet Verbraucherschutzministerin Hubig.",
+     "link": "https://www.n-tv.de/politik/Hubig-Reiches-Spritpreisdeckel-wirkt-nicht-id31509826.html",
+     "image": "https://www.n-tv.de/img/31509827/1794192752/Img_4_3/250/image.jpg",
+     "aggregator": false,
+     "published": "2026-11-09T02:00:31+00:00"
+    },
+    {
+     "source": "DIE ZEIT",
+     "region": "DE",
+     "weight": 0.6,
+     "title": "Spritpreisdeckel: Hubig kritisiert Pläne von Reiche für Spritpreisdeckel",
+     "summary": "Spritpreisdeckel: Hubig kritisiert Pläne von Reiche für Spritpreisdeckel DIE ZEIT Benzin & Diesel: Spritpreisdeckel entzweit Schwarz-Rot – Reiche warnt vor Versorgungsengpässen WELT Folgen des Kriegs in Nahost: Preisdeckel, Übergewinnsteuer oder nur mehr Transparenz? taz.de \"Totes Recht\" - Justizministerin Hubig kritisiert Gesetzentwurf von Wirtschaftsministerin Reiche für Spritpreisdeckel Deutschlandfunk „Totes Recht“ – Hubig kritisiert Reiches Gesetzentwurf für Spritpreisdeckel WELT",
+     "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQaDJ4TDRFV3hSLVFQTHFRUlNKSGMyMld3VFh4MVlKOGNvRWN3bFNGOWFqQ0FieVNuM0RiS3ZGVkc4bmpiZGZtZkJKWlNmUFdSMWt6amlaV0c3U25IWkh5UTRnWUE1akNDS0hQcEpBUEV5aWZkU00zSXljektFOGhEWkQxZThpc28xNWtISGRkWWthWW5PMy1xdm5LSQ?oc=5",
+     "image": null,
+     "aggregator": true,
+     "published": "2026-11-09T02:29:18+00:00"
+    }
+   ]
+  },
+  {
+   "id": 14,
+   "score": 9.54,
+   "outlets": [
+    "tagesschau",
+    "Deutschlandfunk",
+    "DER STANDARD"
+   ],
+   "regions": [
+    "AT",
+    "DE",
+    "INT"
+   ],
+   "trend": [],
+   "newest": "2026-11-09T07:18:15+00:00",
+   "articles": [
+    {
+     "source": "tagesschau",
+     "region": "DE",
+     "weight": 1.0,
+     "title": "Ukraine-Gespräche in Abu Dhabi: Europäer sind laut Frankreich \"gut vertreten\"",
+     "summary": "Ab Dienstag soll in Abu Dhabi über einen möglichen Frieden in der Ukraine verhandelt werden. Laut dem französischen Außenminister Barrot ist auch Europa vertreten: Frankreich werde an den Gesprächen mit den Russen teilnehmen.",
+     "link": "https://www.tagesschau.de/ausland/europa/ukraine-verhandlungen-abu-dhabi-100.html",
+     "image": "https://images.tagesschau.de/image/bcbfacd2-b7ac-4314-9d86-ec6d822e9492/AAABobwG94w/AAABnSSvrFg/16x9-big/abu-dhabi-103.jpg?width=1920",
+     "aggregator": false,
+     "published": "2026-11-08T16:33:42+00:00"
+    },
+    {
+     "source": "tagesschau Ausland",
+     "region": "INT",
+     "weight": 1.0,
+     "title": "Ukraine-Gespräche in Abu Dhabi: Europäer sind laut Frankreich \"gut vertreten\"",
+     "summary": "Ab Dienstag soll in Abu Dhabi über einen möglichen Frieden in der Ukraine verhandelt werden. Laut dem französischen Außenminister Barrot ist auch Europa vertreten: Frankreich werde an den Gesprächen mit den Russen teilnehmen.",
+     "link": "https://www.tagesschau.de/ausland/europa/ukraine-verhandlungen-abu-dhabi-100.html",
+     "image": "https://images.tagesschau.de/image/bcbfacd2-b7ac-4314-9d86-ec6d822e9492/AAABobwG94w/AAABnSSvrFg/16x9-big/abu-dhabi-103.jpg?width=1920",
+     "aggregator": false,
+     "published": "2026-11-08T16:33:42+00:00"
+    },
+    {
+     "source": "Deutschlandfunk",
+     "region": "DE",
+     "weight": 0.95,
+     "title": "Interview - Frankreichs Außenminister Barrot: \"Europa soll durch französische Vertreter bei anstehenden Ukraine-Gesprächen repräsentiert werden\"",
+     "summary": "An den Verhandlungen zwischen Russland und der Ukraine unter US-amerikanischer Vermittlung sollen auch Vertreter Europas teilnehmen. Das sagte Frankreichs Außenminister Barrot in einem Interview mit dem Sender RTL.",
+     "link": "https://www.deutschlandfunk.de/frankreichs-aussenminister-barrot-europa-soll-durch-franzoesische-vertreter-bei-anstehenden-ukraine--102.html",
+     "image": "https://bilder.deutschlandfunk.de/6c/6f/a2/f0/6c6fa2f0-31a2-4e29-815d-d5958c79dbc2/frankreich-aussenminister-noel-barrot-russland-wahlkampf-einmischung-100-1920x1920.jpg",
+     "aggregator": false,
+     "published": "2026-11-09T07:18:15+00:00"
+    },
+    {
+     "source": "DER STANDARD",
+     "region": "AT",
+     "weight": 0.85,
+     "title": "Friedensverhandlungen in Abu Dhabi: Nächste Runde, altes Spiel?",
+     "summary": "Am Dienstag und Mittwoch treffen sich erneut Vertreter Russlands, der Ukraine und der USA zu einer Verhandlungsrunde. Auch Europäer sind mit dabei",
+     "link": "https://www.derstandard.at/story/3000000348050/friedensverhandlungen-in-abu-dhabi-naechste-runde-altes-spiel?ref=rss",
+     "image": "https://i.ds.at/gsEiIA/rs:fill:150:0/plain/lido-images/2026/11/08/1546907f-dcfe-4150-8f88-ff0622dd4f56.jpg",
+     "aggregator": false,
+     "published": "2026-11-09T04:00:00+00:00"
+    }
+   ]
+  },
+  {
+   "id": 15,
+   "score": 9.51,
+   "outlets": [
+    "tagesschau Ausland",
+    "ZDFheute",
+    "Handelsblatt"
+   ],
+   "regions": [
+    "DE",
+    "INT"
+   ],
+   "trend": [],
+   "newest": "2026-11-09T06:37:00+00:00",
+   "articles": [
+    {
+     "source": "tagesschau Ausland",
+     "region": "INT",
+     "weight": 1.0,
+     "title": "Wofür Trumps neuer Stabschef Miller steht",
+     "summary": "Seit Freitag ist Stephen Miller neuer Stabschef von Präsident Trump. Der 41-Jährige gilt als rechter Hardliner und Kopf hinter der strikten Einwanderungspolitik. Welches Signal sendet Trump mit der Personalie an Republikaner und Demokraten?",
+     "link": "https://www.tagesschau.de/ausland/amerika/trump-stabschef-miller-100.html",
+     "image": "https://images.tagesschau.de/image/15646591-1e61-481c-b10d-8b00ab988e21/AAABobaEBY4/AAABnSSvrFg/16x9-big/stephen-miller-104.jpg?width=1920",
+     "aggregator": false,
+     "published": "2026-11-07T14:57:49+00:00"
+    },
+    {
+     "source": "ZDFheute",
+     "region": "DE",
+     "weight": 1.0,
+     "title": "Trump bezeichnet eigenen Abschiebekurs als \"zu hart\"",
+     "summary": "US-Präsident Donald Trump hat eingeräumt, dass seine Abschiebepolitik zu hart gewesen sei. Gleichzeitig gilt sein neuer Stabschef Stephen Miller als Hardliner bei Migration.",
+     "link": "https://www.zdfheute.de/politik/ausland/usa-trump-midterms-abschiebungen-einwanderung-ice-100.html",
+     "image": "https://www.zdfheute.de/assets/ice-usa-abschiebungen-migration-100~384x216?cb=1794197610164",
+     "aggregator": false,
+     "published": "2026-11-09T06:28:00+00:00"
+    },
+    {
+     "source": "Handelsblatt",
+     "region": "DE",
+     "weight": 0.9,
+     "title": "Stephen Miller: Drei Dinge, die man zu Trumps neuem Stabschef wissen muss",
+     "summary": "Nach der Wahlniederlage der Republikaner verleiht der US-Präsident seinem loyalsten und radikalsten Weggefährten noch mehr Macht. Wer ist der Mann, der seit Jahren US-Politik prägt?",
+     "link": "https://www.handelsblatt.com/politik/international/stephen-miller-drei-dinge-die-man-zu-trumps-neuem-stabschef-wissen-muss-01/100268118.html",
+     "image": "https://images.handelsblatt.com/mHDTByc1xesu/cover/900/506/132/462/0/547/0.5/0.5/stephen-miller.jpg",
+     "aggregator": false,
+     "published": "2026-11-09T06:37:00+00:00"
+    }
+   ]
+  },
+  {
+   "id": 16,
+   "score": 9.44,
+   "outlets": [
+    "Deutschlandfunk",
+    "ORF",
+    "DER STANDARD"
+   ],
+   "regions": [
+    "AT",
+    "DE"
+   ],
+   "trend": [],
+   "newest": "2026-11-09T07:18:15+00:00",
+   "articles": [
+    {
+     "source": "Deutschlandfunk",
+     "region": "DE",
+     "weight": 0.95,
+     "title": "TV-Interview - Trump: Abschiebepolitik war \"zu hart\"",
+     "summary": "Nach der Wahlniederlage der Republikaner bei der Kongresswahl hat US-Präsident Trump die Massenabschiebungen seiner Regierung in Frage gestellt.",
+     "link": "https://www.deutschlandfunk.de/trump-abschiebepolitik-war-zu-hart-100.html",
+     "image": "https://bilder.deutschlandfunk.de/15/16/96/97/15169697-2178-45bf-a7b5-0ceb0d0df1a0/donald-trump-us-praesident-110-1920x1920.jpg",
+     "aggregator": false,
+     "published": "2026-11-09T07:18:15+00:00"
+    },
+    {
+     "source": "ORF",
+     "region": "AT",
+     "weight": 0.95,
+     "title": "Trump bezeichnet eigene Abschiebepolitik als „zu hart“",
+     "summary": "",
+     "link": "https://orf.at/stories/3447651/",
+     "image": null,
+     "aggregator": false,
+     "published": "2026-11-09T05:48:47+00:00"
+    },
+    {
+     "source": "DER STANDARD",
+     "region": "AT",
+     "weight": 0.85,
+     "title": "Trump über Abschiebepolitik: Könnte \"zu hart\" gewesen sein",
+     "summary": "Die US-Regierung steht wegen ihres harten Vorgehens gegen Migranten seit Monaten in der Kritik",
+     "link": "https://www.derstandard.at/story/3000000348127/trump-252ber-abschiebepolitik-k246nnte-zu-hart-gewesen-sein?ref=rss",
+     "image": "https://i.ds.at/RwbOHA/rs:fill:150:0/plain/lido-images/2026/11/09/61adfc82-f24e-441b-9370-51cd2a995216.jpg",
+     "aggregator": false,
+     "published": "2026-11-09T05:46:53+00:00"
+    }
+   ]
+  },
+  {
+   "id": 17,
+   "score": 9.35,
+   "outlets": [
+    "ORF",
+    "ZEIT ONLINE",
+    "Handelsblatt"
+   ],
+   "regions": [
+    "AT",
+    "DE"
+   ],
+   "trend": [],
+   "newest": "2026-11-09T07:01:26+00:00",
+   "articles": [
+    {
+     "source": "ORF",
+     "region": "AT",
+     "weight": 0.95,
+     "title": "China setzt einige Zusatzzölle gegen USA weiter aus",
+     "summary": "",
+     "link": "https://orf.at/stories/3447649/",
+     "image": null,
+     "aggregator": false,
+     "published": "2026-11-09T05:30:32+00:00"
+    },
+    {
+     "source": "ZEIT ONLINE",
+     "region": "DE",
+     "weight": 0.9,
+     "title": "Handelsstreit zwischen den USA und China: China setzt manche Zusatzzölle gegen USA weiter aus",
+     "summary": "Die chinesische Regierung hat die Aussetzung einiger US-Zölle um zwei Monate verlängert. Die Entscheidung folgte nach einem Treffen der Staatsoberhäupter.",
+     "link": "https://www.zeit.de/wirtschaft/2026-11/china-usa-zoelle-gegentoelle-handelsstreit-xi-jinping-donald-trump-gxe",
+     "image": "https://img.zeit.de/wirtschaft/2026-11/china-usa-zoelle-gegentoelle-handelsstreit-xi-jinping-donald-trump-gxe-foto-1/original__640x360",
+     "aggregator": false,
+     "published": "2026-11-09T07:01:26+00:00"
+    },
+    {
+     "source": "Handelsblatt",
+     "region": "DE",
+     "weight": 0.9,
+     "title": "Zollstreit: China setzt einige Zusatzzölle gegen USA weiter aus",
+     "summary": "Im Frühjahr 2025 hatte Peking Zusatzzölle auf US-amerikanische Waren verhängt – nachdem Trump seinerseits den Handelsstreit neu entfacht hatte. Nun scheint sich die Lage etwas zu entspannen.",
+     "link": "https://www.handelsblatt.com/politik/international/zollstreit-china-setzt-einige-zusatzzoelle-gegen-usa-weiter-aus/100268330.html",
+     "image": "https://images.handelsblatt.com/ogPrlcEOKqEi/cover/900/506/0/0/107/107/0.5/0.5/flaggen-von-usa-und-china.jpeg",
+     "aggregator": false,
+     "published": "2026-11-09T05:58:32+00:00"
+    },
+    {
+     "source": "Handelsblatt",
+     "region": "DE",
+     "weight": 0.9,
+     "title": "Handelsstreit: China setzt einige Zusatzzölle gegen USA weiter aus",
+     "summary": "China und die USA stecken seit längerem in einem Handelsstreit. Kurz vor Ablauf einer Frist kommt die Regierung in Peking den Amerikanern entgegen. Und das nur wenige Tage vor einem wichtigen Treffen.",
+     "link": "https://www.handelsblatt.com/politik/deutschland/handelsstreit-china-setzt-einige-zusatzzoelle-gegen-usa-weiter-aus/100268320.html",
+     "image": "https://images.handelsblatt.com/u8aAa6hgfRVE/cover/900/506/0/0/107/106/0.5/0.5/xi-und-trump.jpg",
+     "aggregator": false,
+     "published": "2026-11-09T04:53:51+00:00"
+    }
+   ]
+  },
+  {
+   "id": 18,
+   "score": 9.34,
+   "outlets": [
+    "Deutschlandfunk",
+    "SPIEGEL",
+    "DER STANDARD"
+   ],
+   "regions": [
+    "AT",
+    "DE"
+   ],
+   "trend": [],
+   "newest": "2026-11-09T07:18:15+00:00",
+   "articles": [
+    {
+     "source": "Deutschlandfunk",
+     "region": "DE",
+     "weight": 0.95,
+     "title": "China - Mindestens 14 Tote bei Hochhausbrand in Millionenstadt Taiyuan",
+     "summary": "In der Stadt Taiyuan im Norden Chinas sind beim Brand eines Hochhauses mindestens 14 Menschen ums Leben gekommen.",
+     "link": "https://www.deutschlandfunk.de/mindestens-14-tote-bei-hochhausbrand-in-millionenstadt-taiyuan-100.html",
+     "image": "https://bilder.deutschlandfunk.de/e2/87/e9/34/e287e934-5057-4425-bdf6-c2d2a649bf96/hochhausbrand-taiyuan-100-1920x1920.jpg",
+     "aggregator": false,
+     "published": "2026-11-09T07:18:15+00:00"
+    },
+    {
+     "source": "Deutschlandfunk",
+     "region": "DE",
+     "weight": 0.95,
+     "title": "Zwischen Kairo und Assuan - Sieben Tote und 112 Verletzte bei Zugunglück in Ägypten",
+     "summary": "Bei einem Zugunglück in Ägypten sind mindestens sieben Menschen ums Leben gekommen.",
+     "link": "https://www.deutschlandfunk.de/sieben-tote-und-112-verletzte-bei-zugunglueck-in-aegypten-104.html",
+     "image": "https://bilder.deutschlandfunk.de/4e/0f/96/ee/4e0f96ee-08e7-4425-adad-34d7d54e8b00/kairo-gizeh-pyramiden-aegypten-100-1920x1920.jpg",
+     "aggregator": false,
+     "published": "2026-11-09T07:18:15+00:00"
+    },
+    {
+     "source": "SPIEGEL",
+     "region": "DE",
+     "weight": 0.9,
+     "title": "China: Mindestens 14 Menschen sterben bei Hochhausbrand",
+     "summary": "In einem Gebäude der nordchinesischen Millionenstadt Taiyuan ist am Wochenende ein Feuer ausgebrochen. Der Brand kostete mindestens 14 Menschen das Leben, Dutzende weitere wurden verletzt.",
+     "link": "https://www.spiegel.de/panorama/china-mindestens-14-menschen-sterben-bei-hochhausbrand-a-0ce6ace7-59ca-4f66-b185-984c69de998b#ref=rss",
+     "image": "https://cdn.prod.www.spiegel.de/images/0bbc9eef-fe80-4a22-998f-b8708421411d_w520_r2.08_fpx33.74_fpy44.98.jpg",
+     "aggregator": false,
+     "published": "2026-11-09T06:19:00+00:00"
+    },
+    {
+     "source": "DER STANDARD",
+     "region": "AT",
+     "weight": 0.85,
+     "title": "Mindestens 14 Tote nach Hochhausbrand in China",
+     "summary": "38 Menschen wurden in Krankenhäuser gebracht",
+     "link": "https://www.derstandard.at/story/3000000348124/mindestens-14-tote-nach-hochhausbrand-in-china?ref=rss",
+     "image": "https://i.ds.at/hheYXQ/rs:fill:150:0/plain/lido-images/2026/11/09/f960532a-9734-413c-8cc7-1ddf2a27f1e1.jpg",
+     "aggregator": false,
+     "published": "2026-11-09T05:27:27+00:00"
+    }
+   ]
+  },
+  {
+   "id": 19,
+   "score": 9.24,
+   "outlets": [
+    "Deutschlandfunk",
+    "SPIEGEL",
+    "WELT"
+   ],
+   "regions": [
+    "DE"
+   ],
+   "trend": [],
+   "newest": "2026-11-09T07:18:15+00:00",
+   "articles": [
+    {
+     "source": "Deutschlandfunk",
+     "region": "DE",
+     "weight": 0.95,
+     "title": "Polen - Polizei: Attentäter von Krakau ist tot",
+     "summary": "Der Täter des Schusswaffenangriffs in der polnischen Stadt Krakau ist nach Angaben der Polizei tot.Demnach erlag der 24-Jährige im Krankenhaus seinen Verletzungen. Der Mann hatte am Samstag auf dem historischen Marktplatz der Stadt das Feuer auf Passanten eröffnet. Sechs Menschen starben.",
+     "link": "https://www.deutschlandfunk.de/polizei-attentaeter-von-krakau-ist-tot-100.html",
+     "image": "https://bilder.deutschlandfunk.de/2d/4b/f5/c1/2d4bf5c1-0324-4a55-a802-688ced26253c/krakau-halbmast-100-1920x1920.jpg",
+     "aggregator": false,
+     "published": "2026-11-09T07:18:15+00:00"
+    },
+    {
+     "source": "SPIEGEL",
+     "region": "DE",
+     "weight": 0.9,
+     "title": "Polen: Todesschütze von Krakau ist tot",
+     "summary": "Am Samstag erschoss ein 24-Jähriger im Zentrum von Krakau mehrere Menschen. Beim nachfolgenden Polizeieinsatz wurde er selbst getroffen. Nun ist der Mann seinen Verletzungen erlegen.",
+     "link": "https://www.spiegel.de/ausland/polen-todesschuetze-von-krakau-ist-tot-a-96a6c452-58ed-43d9-a789-4eacf0edef28#ref=rss",
+     "image": "https://cdn.prod.www.spiegel.de/images/93c229c3-f7c9-475f-9e64-084ee7a6bfe6_w520_r2.08_fpx68.62_fpy54.85.jpg",
+     "aggregator": false,
+     "published": "2026-11-09T06:14:00+00:00"
+    },
+    {
+     "source": "WELT",
+     "region": "DE",
+     "weight": 0.8,
+     "title": "Attentäter von Krakau ist tot",
+     "summary": "Der Täter der Schusswaffenattacke von Krakau ist nach Angaben der Polizei tot. Er sei am Montagmorgen im Krankenhaus seinen Verletzungen erlegen. Reporter Julian Stähle berichtet.",
+     "link": "https://www.welt.de/politik/ausland/video6af1632e80d3a1c6aa66dda8/anschlag-in-polen-attentaeter-von-krakau-ist-tot.html",
+     "image": "https://images.welt.de/6af1632e80d3a1c6aa66dda8/2cf842eb960346d359152142ac51594f/ci16x9-w1200/dpa-com-261108-99-209452-jpg",
+     "aggregator": false,
+     "published": "2026-11-09T06:18:15+00:00"
+    },
+    {
+     "source": "WELT",
+     "region": "DE",
+     "weight": 0.8,
+     "title": "Attentäter von Krakau ist tot",
+     "summary": "Der Attentäter von Krakau ist nach seiner Festnahme im Krankenhaus gestorben. Der 24-Jährige erschoss auf dem Marktplatz sechs Menschen. Zuvor soll er drei Angehörige getötet haben.",
+     "link": "https://www.welt.de/politik/ausland/article6af1625aa389bc337cfcab34/anschlag-in-polen-attentaeter-von-krakau-ist-tot.html",
+     "image": "https://images.welt.de/6af1625aa389bc337cfcab34/814d53fedd617a8f8ce2cba4d05a86c9/ci23x11-w1200/dpa-com-261108-99-209452-jpg",
+     "aggregator": false,
+     "published": "2026-11-09T06:05:35+00:00"
+    }
+   ]
+  },
+  {
+   "id": 20,
+   "score": 8.98,
+   "outlets": [
+    "tagesschau",
+    "ZDFheute",
+    "WELT"
+   ],
+   "regions": [
+    "DE"
+   ],
+   "trend": [],
+   "newest": "2026-11-09T05:36:27+00:00",
+   "articles": [
+    {
+     "source": "tagesschau",
+     "region": "DE",
+     "weight": 1.0,
+     "title": "Berliner Linken-Politikerin Emde lehnt Mandatsverzicht ab",
+     "summary": "Die Berliner Linken-Abgeordnete Emde hat der Forderung des Parteivorstands, ihr Mandat niederzulegen, eine klare Absage erteilt. Auch von ihrer umstrittenen Haltung zu Israel scheint die Politikerin nicht abzurücken.",
+     "link": "https://www.tagesschau.de/inland/regional/berlin/berlin-linke-emde-ablehnung-mandatsverzicht-100.html",
+     "image": "https://images.tagesschau.de/image/6ecdf46a-cf24-4550-810d-9e72c1a23c14/AAABobuoxN0/AAABnSSvrFg/16x9-big/rbb-630259816-100.jpg?width=1920",
+     "aggregator": false,
+     "published": "2026-11-08T14:50:57+00:00"
+    },
+    {
+     "source": "ZDFheute",
+     "region": "DE",
+     "weight": 1.0,
+     "title": "Linken-Abgeordnete Emde weist Rückzugsforderung zurück",
+     "summary": "Die Berliner Linken-Abgeordnete Emde steht wegen israelfeindlicher Äußerungen in der Kritik. Ihr Parteivorstand forderte die Rückgabe ihres Mandats. Das lehnt Emde jetzt ab.",
+     "link": "https://www.zdfheute.de/politik/deutschland/emde-linke-ablehnung-mandatsverzicht-100.html",
+     "image": "https://www.zdfheute.de/assets/vanessa-emde-108~384x216?cb=1794144574917",
+     "aggregator": false,
+     "published": "2026-11-08T14:41:00+00:00"
+    },
+    {
+     "source": "WELT",
+     "region": "DE",
+     "weight": 0.8,
+     "title": "„Selbstverständlich werde ich mein Mandat weiter ausüben!“ – Emde reagiert auf Rückzugsforderung",
+     "summary": "Die umstrittene Berliner Linke-Politikerin Vanessa Emde weigert sich, der Aufforderung ihres Parteivorstands zum Mandatsverzicht zu folgen.",
+     "link": "https://www.welt.de/politik/deutschland/video6af155ff80d3a1c6aa66dcf7/die-linke-selbstverstaendlich-werde-ich-mein-mandat-weiter-ausueben-emde-reagiert-auf-rueckzugsforderung.html",
+     "image": "https://images.welt.de/6af155ff80d3a1c6aa66dcf7/2695620f13ce3c982ee4ce50ff76c56d/ci16x9-w1200/dpa-com-261108-935-1728742-jpg",
+     "aggregator": false,
+     "published": "2026-11-09T05:36:27+00:00"
+    }
+   ]
+  },
+  {
+   "id": 21,
+   "score": 8.97,
+   "outlets": [
+    "SPIEGEL",
+    "Handelsblatt",
+    "DER STANDARD"
+   ],
+   "regions": [
+    "AT",
+    "DE"
+   ],
+   "trend": [],
+   "newest": "2026-11-09T06:29:00+00:00",
+   "articles": [
+    {
+     "source": "SPIEGEL",
+     "region": "DE",
+     "weight": 0.9,
+     "title": "Rauchen: EU will Freimenge für Zigaretten deutlich senken",
+     "summary": "Wer im EU-Ausland Zigaretten kauft, soll statt bislang vier Stangen künftig nur noch eine mit nach Hause nehmen dürfen. Auch die Freimenge für Liquids für E-Zigaretten sinkt. Länder können aber Ausnahmen erlauben.",
+     "link": "https://www.spiegel.de/wirtschaft/service/rauchen-eu-will-freimenge-fuer-zigaretten-deutlich-senken-a-a440bf00-987f-4d1c-b522-8eb62af4dbd5#ref=rss",
+     "image": "https://cdn.prod.www.spiegel.de/images/5e127e05-d321-4b4d-81f6-c9792a107c22_w520_r2.08_fpx67.89_fpy44.97.jpg",
+     "aggregator": false,
+     "published": "2026-11-09T06:11:00+00:00"
+    },
+    {
+     "source": "Handelsblatt",
+     "region": "DE",
+     "weight": 0.9,
+     "title": "Tabakwaren: Zigaretten-Freimenge aus EU-Ausland könnte deutlich sinken",
+     "summary": "Rauchen ist schlecht für die Gesundheit - und eine teure Sache. Daher kauft mancher Raucher kurz hinter der Grenze ein. Künftig soll er aber weniger Kippen mitbringen dürfen als jetzt.",
+     "link": "https://www.handelsblatt.com/politik/deutschland/tabakwaren-zigaretten-freimenge-aus-eu-ausland-koennte-deutlich-sinken/100268307.html",
+     "image": "https://images.handelsblatt.com/VnyW1zPeDVKq/cover/900/506/0/0/103/103/0.5/0.5/zigaretten.jpg",
+     "aggregator": false,
+     "published": "2026-11-09T03:30:06+00:00"
+    },
+    {
+     "source": "DER STANDARD",
+     "region": "AT",
+     "weight": 0.85,
+     "title": "Zigaretten-Freimenge aus EU-Ausland könnte deutlich sinken",
+     "summary": "Innerhalb der EU dürfen bislang vier Stangen Zigaretten zollfrei über Grenzen gebracht werden. Mehrere Mitgliedstaaten schlagen vor, künftig nur noch eine zuzulassen",
+     "link": "https://www.derstandard.at/story/3000000348130/zigaretten-freimenge-aus-eu-ausland-koennte-deutlich-sinken?ref=rss",
+     "image": "https://i.ds.at/qT29Qg/rs:fill:150:0/plain/lido-images/2026/11/09/139974c8-49ae-429f-b8a4-b1a32b18f4a5.jpg",
+     "aggregator": false,
+     "published": "2026-11-09T06:29:00+00:00"
+    }
+   ]
+  },
+  {
+   "id": 22,
+   "score": 8.93,
+   "outlets": [
+    "ORF",
+    "SPIEGEL",
+    "n-tv"
+   ],
+   "regions": [
+    "AT",
+    "DE"
+   ],
+   "trend": [],
+   "newest": "2026-11-09T06:23:00+00:00",
+   "articles": [
+    {
+     "source": "ORF",
+     "region": "AT",
+     "weight": 0.95,
+     "title": "Demokraten kündigen Untersuchungen an",
+     "summary": "Nach ihrem deutlichen Sieg bei den US-Zwischenwahlen planen die Demokraten weitreichende parlamentarische Untersuchungen gegen das Umfeld von Präsident Donald Trump. Im Fokus stünden dabei der Technologiemilliardär Elon Musk, der neue Stabschef im Weißen Haus, Stephen Miller, sowie mehrere Großunternehmen, kündigten führende Vertreter der Partei am Sonntag an.",
+     "link": "https://orf.at/stories/3447636/",
+     "image": null,
+     "aggregator": false,
+     "published": "2026-11-08T21:21:15+00:00"
+    },
+    {
+     "source": "SPIEGEL",
+     "region": "DE",
+     "weight": 0.9,
+     "title": "USA: Demokraten kündigen Untersuchungen und Verfahren gegen Trumps Umfeld an",
+     "summary": "Seit ihrem Erdrutschsieg bei den Midterms sind die Demokraten im Aufwind. Sie wollen nun gegen Donald Trumps Familie, Unterstützer und Regierungsmitglieder vorgehen. Einzelne Republikaner signalisieren Unterstützung.",
+     "link": "https://www.spiegel.de/ausland/usa-demokraten-kuendigen-untersuchungen-und-verfahren-gegen-trumps-umfeld-an-a-2f634d62-b723-44b1-beb0-041740b8a447#ref=rss",
+     "image": "https://cdn.prod.www.spiegel.de/images/69827518-b93d-4579-bc9d-7b2ddbfdf34d_w520_r2.08_fpx65.34_fpy49.98.jpg",
+     "aggregator": false,
+     "published": "2026-11-09T06:23:00+00:00"
+    },
+    {
+     "source": "n-tv",
+     "region": "DE",
+     "weight": 0.8,
+     "title": "Hegseth droht Impeachment: Demokraten nehmen Trump-Vertraute ins Visier",
+     "summary": "Die Demokraten möchten nach ihrem umfassenden Sieg bei den Midterms Untersuchungen gegen Trumps-Umfeld einleiten. Elon Musk und der neue Stabschef Stephen Miller stehen ganz oben auf ihrer Liste. Auf Pentagon-Chef Hegseth könnte zudem ein Amtsenthebungsverfahren zukommen.",
+     "link": "https://www.n-tv.de/politik/Demokraten-nehmen-Trump-Vertraute-ins-Visier-id31509542.html",
+     "image": "https://www.n-tv.de/img/31509536/1794167729/Img_4_3/250/2026-11-08T162358Z_1082963590_RC29TMA2YY43_RTRMADP_3_USA-CONGRESS-DEMOCRATS.jpg",
+     "aggregator": false,
+     "published": "2026-11-08T19:45:56+00:00"
+    }
+   ]
+  },
+  {
+   "id": 23,
+   "score": 8.81,
+   "outlets": [
+    "tagesschau Inland",
+    "ZDFheute",
+    "NZZ"
+   ],
+   "regions": [
+    "CH",
+    "DE"
+   ],
+   "trend": [],
+   "newest": "2026-11-09T04:30:00+00:00",
+   "articles": [
+    {
+     "source": "tagesschau Inland",
+     "region": "DE",
+     "weight": 1.0,
+     "title": "Was Aiwangers Tod für Bayerns Koalition bedeutet",
+     "summary": "Mit Hubert Aiwanger verlieren die Freien Wähler ihr Zentrum und ihre Anziehungskraft. Das könnte die politischen Verhältnisse in Bayern nachhaltig verändern. Noch sind sie Regierungspartner der CSU. Von J. Wengert.",
+     "link": "https://www.tagesschau.de/inland/innenpolitik/aiwanger-soeder-analyse-100.html",
+     "image": "https://images.tagesschau.de/image/3f0f9936-ad9c-43b6-9b64-8a657fea245e/AAABoa435AM/AAABnSSvrFg/16x9-big/aiwanger-soeder-112.jpg?width=1920",
+     "aggregator": false,
+     "published": "2026-11-06T09:30:52+00:00"
+    },
+    {
+     "source": "tagesschau Inland",
+     "region": "DE",
+     "weight": 1.0,
+     "title": "Freie Wähler beraten nach Aiwangers Tod über weiteres Vorgehen",
+     "summary": "Nach dem plötzlichen Tod von Hubert Aiwanger ist die Bestürzung über Bayerns Grenzen hinaus groß. Die Freien Wähler müssen sich jetzt neu aufstellen - denn Aiwanger war die zentrale Figur seiner Partei.",
+     "link": "https://www.tagesschau.de/inland/freie-waehler-beraten-naechste-schritte-nach-aiwangers-tod-100.html",
+     "image": "https://images.tagesschau.de/image/5cdacbc5-bc6b-47f3-8f71-fd283e85ad69/AAABoavM7qM/AAABnSSvrFg/16x9-big/freie-waehler-109.jpg?width=1920",
+     "aggregator": false,
+     "published": "2026-11-05T12:38:28+00:00"
+    },
+    {
+     "source": "tagesschau Inland",
+     "region": "DE",
+     "weight": 1.0,
+     "title": "Reaktionen auf Tod Aiwangers: Söder spricht von \"absoluter Tragödie\"",
+     "summary": "Der unerwartete Tod von Hubert Aiwanger hat Bestürzung ausgelöst. Der Chef der Freien Wähler war leblos in einem Hotel aufgefunden worden. Bayerns Ministerpräsident Söder sprach von einer \"absoluten Tragödie\". Er würdigte Aiwanger als \"starken Bayern\".",
+     "link": "https://www.tagesschau.de/inland/innenpolitik/aiwanger-gestorben-reaktionen-100.html",
+     "image": "https://images.tagesschau.de/image/9526788b-a593-416f-9d83-7c024e337cc0/AAABoapntBI/AAABnSSvrFg/16x9-big/hubert-aiwanger-204.jpg?width=1920",
+     "aggregator": false,
+     "published": "2026-11-05T10:21:40+00:00"
+    },
+    {
+     "source": "tagesschau Inland",
+     "region": "DE",
+     "weight": 1.0,
+     "title": "Bayerns Wirtschaftsminister Hubert Aiwanger ist tot",
+     "summary": "Bayerns Wirtschaftsminister und Vize-Ministerpräsident Hubert Aiwanger ist tot, wie das ARD-Hauptstadtstudio aus Regierungskreisen erfuhr. Der Freie-Wähler-Chef starb demnach im Alter von 55 Jahren in einem Berliner Hotel.",
+     "link": "https://www.tagesschau.de/inland/innenpolitik/hubert-aiwanger-tot-100.html",
+     "image": "https://images.tagesschau.de/image/330f6630-9913-4ebc-a661-85f4840220a5/AAABoahdBeA/AAABnSSvrFg/16x9-big/hubert-aiwanger-202.jpg?width=1920",
+     "aggregator": false,
+     "published": "2026-11-04T23:35:58+00:00"
+    },
+    {
+     "source": "ZDFheute",
+     "region": "DE",
+     "weight": 1.0,
+     "title": "Freie Wähler nach Tod von Hubert Aiwanger: \"Nichts was begonnen wurde, wird stoppen\"",
+     "summary": "Pressekonferenz der Freien Wähler zum Tod Hubert Aiwangers in phoenix vor ort am 06.11.2026",
+     "link": "https://www.phoenix.de/php/mediaplayer/vod_embed.php?cmsid=5245881",
+     "image": "https://www.zdfheute.de/assets/teaser-phoenix-freie-waehler-nach-tod-von-hubert-aiwanger-nichts-was-begonnen-wurde-wird-stoppen-5245881-100~384x216?cb=1793990569160",
+     "aggregator": false,
+     "published": "2026-11-06T15:00:00+00:00"
+    },
+    {
+     "source": "NZZ",
+     "region": "CH",
+     "weight": 0.9,
+     "title": "DER ANDERE BLICK - Nach Aiwangers Tod: Sollte sich Söder den Grünen annähern, verliert er den letzten Rest seiner Glaubwürdigkeit",
+     "summary": "Die starke Position der Freien Wähler könnte bröckeln. Damit muss sich der CSU-Chef nach neuen politischen Partnern in Bayern umschauen. Doch er hat nur noch schlechte Optionen.",
+     "link": "https://www.nzz.ch/der-andere-blick/nach-aiwangers-tod-sollte-sich-soeder-den-gruenen-annaehern-verliert-er-den-letzten-rest-seiner-glaubwuerdigkeit-ld.10055086",
+     "image": "https://img-msp-prod.nzz.ch/2026/10/23/205c4659-8400-4bd3-9016-f2d7c296a9ad.jpg?width=200&height=200&fit=bounds&quality=75&auto=webp&crop=3790,3790,x948,y0",
+     "aggregator": false,
+     "published": "2026-11-09T04:30:00+00:00"
+    }
+   ]
+  },
+  {
+   "id": 24,
+   "score": 8.49,
+   "outlets": [
+    "ZDFheute",
+    "WELT",
+    "Golem"
+   ],
+   "regions": [
+    "DE"
+   ],
+   "trend": [],
+   "newest": "2026-11-09T05:39:15+00:00",
+   "articles": [
+    {
+     "source": "ZDFheute",
+     "region": "DE",
+     "weight": 1.0,
+     "title": "Carsten Schneider zur kommenden UN-Klimakonferenz",
+     "summary": "Pressekonferenz u.a. mit Umweltminister Carsten Schneider (SPD) vor Beginn der UN-Klimakonferenz COP31",
+     "link": "https://www.phoenix.de/un-klimakonferenz-a-5245475.html",
+     "image": "https://www.zdfheute.de/assets/teaser-phoenix-carsten-schneider-zur-kommenden-un-klimakonferenz-5245858-100~384x216?cb=1794153168028",
+     "aggregator": false,
+     "published": "2026-11-06T14:51:00+00:00"
+    },
+    {
+     "source": "WELT",
+     "region": "DE",
+     "weight": 0.8,
+     "title": "Carsten Schneider wirbt für E-Auto-Umstieg – und fährt privat 13 Jahre alten Diesel",
+     "summary": "Umweltminister Carsten Schneider (SPD) fährt privat einen 13 Jahre alten Diesel. In der „FAZ“ begründet er das mit dem Alter des Wagens: Solange dieser noch fahre, brauche er keinen Neuwagen. Beim nächsten Kauf wolle er auf ein Elektroauto umsteigen.",
+     "link": "https://www.welt.de/vermischtes/video6af1565880d3a1c6aa66dd03/umweltminister-carsten-schneider-wirbt-fuer-e-auto-umstieg-und-faehrt-privat-13-jahre-alten-diesel.html",
+     "image": "https://images.welt.de/6af1565880d3a1c6aa66dd03/95a4bea9b4000ddc4577302148f51949/ci16x9-w1200/dpa-com-261106-936-138770-jpg",
+     "aggregator": false,
+     "published": "2026-11-09T05:39:15+00:00"
+    },
+    {
+     "source": "Golem",
+     "region": "DE",
+     "weight": 0.75,
+     "title": "Privatfahrzeug: Umweltminister Carsten Schneider fährt 13 Jahre alten Diesel",
+     "summary": "Bei der Energiewende setzt Schneider auf bezahlbare Alternativen statt moralischer Appelle - auch privat. ( Elektroauto , Auto )",
+     "link": "https://www.golem.de/news/privatfahrzeug-umweltminister-carsten-schneider-faehrt-13-jahre-alten-diesel-2611-214971.html",
+     "image": "https://cpx.golem.de/cpx.php?class=17&amp;aid=214971&amp;page=1&amp;ts=1794147421",
+     "aggregator": false,
+     "published": "2026-11-08T14:17:01+00:00"
+    }
+   ]
+  },
+  {
+   "id": 25,
+   "score": 7.84,
+   "outlets": [
+    "tagesschau",
+    "Deutschlandfunk"
+   ],
+   "regions": [
+    "DE",
+    "INT"
+   ],
+   "trend": [],
+   "newest": "2026-11-09T07:18:15+00:00",
+   "articles": [
+    {
+     "source": "tagesschau",
+     "region": "DE",
+     "weight": 1.0,
+     "title": "Zehntausende Menschen demonstrieren in Amsterdam gegen Israels Vorgehen im Gazastreifen",
+     "summary": "Zehntausende Menschen demonstrieren in Amsterdam gegen Israels Vorgehen im Gazastreifen",
+     "link": "https://www.tagesschau.de/tagesschau_20_uhr/video-1680464.html",
+     "image": "https://images.tagesschau.de/image/1c9176fc-0090-4e96-ae2a-cfbc971c901b/AAABobyc7H0/AAABnSSvrFg/16x9-big/sendungsbild-1824540.jpg?width=1920",
+     "aggregator": false,
+     "published": "2026-11-08T19:22:51+00:00"
+    },
+    {
+     "source": "tagesschau",
+     "region": "DE",
+     "weight": 1.0,
+     "title": "Amsterdam: Zehntausende demonstrieren gegen Israels Gaza-Politik",
+     "summary": "Amsterdam ist erneut Schauplatz einer Großdemonstration gegen das israelische Vorgehen im Gazastreifen geworden. Der Protest verlief laut Polizei friedlich. Ministerpräsident Jetten war dieses Mal nicht dabei.",
+     "link": "https://www.tagesschau.de/ausland/europa/demonstration-amsterdam-israel-100.html",
+     "image": "https://images.tagesschau.de/image/cac8f4e0-8a53-49fc-a135-8f57f56a06a6/AAABobwcTQk/AAABnSSvrFg/16x9-big/demonstration-amsterdam-102.jpg?width=1920",
+     "aggregator": false,
+     "published": "2026-11-08T17:02:14+00:00"
+    },
+    {
+     "source": "tagesschau Ausland",
+     "region": "INT",
+     "weight": 1.0,
+     "title": "Amsterdam: Zehntausende demonstrieren gegen Israels Gaza-Politik",
+     "summary": "Amsterdam ist erneut Schauplatz einer Großdemonstration gegen das israelische Vorgehen im Gazastreifen geworden. Der Protest verlief laut Polizei friedlich. Ministerpräsident Jetten war dieses Mal nicht dabei.",
+     "link": "https://www.tagesschau.de/ausland/europa/demonstration-amsterdam-israel-100.html",
+     "image": "https://images.tagesschau.de/image/cac8f4e0-8a53-49fc-a135-8f57f56a06a6/AAABobwcTQk/AAABnSSvrFg/16x9-big/demonstration-amsterdam-102.jpg?width=1920",
+     "aggregator": false,
+     "published": "2026-11-08T17:02:14+00:00"
+    },
+    {
+     "source": "Deutschlandfunk",
+     "region": "DE",
+     "weight": 0.95,
+     "title": "Niederlande - Mehr als 200.000 Menschen protestieren in Amsterdam gegen Israels Vorgehen im Gazastreifen",
+     "summary": "In Amsterdam hat es Proteste gegen Israels Vorgehen im Gazastreifen gegeben.",
+     "link": "https://www.deutschlandfunk.de/mehr-als-200-000-menschen-protestieren-in-amsterdam-gegen-israels-vorgehen-im-gazastreifen-102.html",
+     "image": "https://bilder.deutschlandfunk.de/e6/d0/45/f3/e6d045f3-331b-4dea-aff0-7c2d5f669c31/amsterdam-red-line-demo-100-1920x1920.jpg",
+     "aggregator": false,
+     "published": "2026-11-09T07:18:15+00:00"
+    }
+   ]
+  },
+  {
+   "id": 26,
+   "score": 7.84,
+   "outlets": [
+    "ZDFheute",
+    "Deutschlandfunk"
+   ],
+   "regions": [
+    "DE"
+   ],
+   "trend": [],
+   "newest": "2026-11-09T07:18:15+00:00",
+   "articles": [
+    {
+     "source": "ZDFheute",
+     "region": "DE",
+     "weight": 1.0,
+     "title": "Leverkusen gewinnt hitzige Partie in Köln",
+     "summary": "Bayer Leverkusens Abwärtstrend ist vorerst gestoppt. Die Werkself gewinnt die hitzige Begegnung beim 1. FC Köln, in der viel geschubst, gefoult und auch geschauspielert wird.",
+     "link": "https://www.zdfheute.de/sport/fussball-bundesliga/video/1-fc-koeln-bayer-leverkusen-saison-2026-27-100.html",
+     "image": "https://www.zdfheute.de/assets/fc-koeln-bayer-leverkusen-102~384x216?cb=1794164236176",
+     "aggregator": false,
+     "published": "2026-11-08T23:00:00+00:00"
+    },
+    {
+     "source": "Deutschlandfunk",
+     "region": "DE",
+     "weight": 0.95,
+     "title": "Fußball-Bundesliga - Siege für Leverkusen, Freiburg und Hoffenheim",
+     "summary": "In der Fußball-Bundesliga hat der 1. FC Köln mit 1:2 gegen Bayer Leverkusen verloren. Die Leverkusener gingen durch ein Tor von Aleix García in der 7. Minute früh in Führung, konnten diese aber erst gegen Ende der Partie in der 85. Minute durch den Treffer von Patrik Schick ausbauen.",
+     "link": "https://www.deutschlandfunk.de/siege-fuer-leverkusen-freiburg-und-hoffenheim-106.html",
+     "image": "https://bilder.deutschlandfunk.de/03/82/71/05/03827105-b4e5-4349-b8e1-29d980080efc/bundesliga-koeln-leverkusen-100-1920x1920.jpg",
+     "aggregator": false,
+     "published": "2026-11-09T07:18:15+00:00"
+    }
+   ]
+  },
+  {
+   "id": 27,
+   "score": 7.64,
+   "outlets": [
+    "tagesschau",
+    "ZEIT ONLINE"
+   ],
+   "regions": [
+    "DE"
+   ],
+   "trend": [],
+   "newest": "2026-11-09T07:00:53+00:00",
+   "articles": [
+    {
+     "source": "tagesschau",
+     "region": "DE",
+     "weight": 1.0,
+     "title": "Nach den Schüssen in Polen: Was über den Täter bekannt ist",
+     "summary": "Nach den Schüssen in Polen: Was über den Täter bekannt ist",
+     "link": "https://www.tagesschau.de/tagesthemen/video-1680510.html",
+     "image": "https://images.tagesschau.de/image/35263517-3a37-4300-a883-eb81108522ad/AAABob0pKnk/AAABnSSvrFg/16x9-big/sendungsbild-1824600.jpg?width=1920",
+     "aggregator": false,
+     "published": "2026-11-08T21:55:56+00:00"
+    },
+    {
+     "source": "ZEIT ONLINE",
+     "region": "DE",
+     "weight": 0.9,
+     "title": "Polen: Was über die Schüsse in Kraków bekannt ist",
+     "summary": "In der Innenstadt von Kraków hat ein Mann sechs Menschen erschossen. Der Schütze wurde angeschossen und starb später im Krankenhaus. Was wir bisher wissen und was nicht.",
+     "link": "https://www.zeit.de/gesellschaft/zeitgeschehen/2026-11/schuesse-krakau-polen-tote-verletzte",
+     "image": "https://img.zeit.de/gesellschaft/zeitgeschehen/2026-11/schuetze-nach-krakauer-schusswaffenangriff-gestorben-bild/original__640x360",
+     "aggregator": false,
+     "published": "2026-11-09T07:00:53+00:00"
+    }
+   ]
+  }
+ ]
+}
