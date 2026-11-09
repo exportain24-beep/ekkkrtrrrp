@@ -1,0 +1,67 @@
+{
+  "format": "single",
+  "candidate_id": 5,
+  "pillar": "WIRTSCHAFT",
+  "region": "DE",
+  "kicker": "DÜSSELDORF",
+  "hook_screen": "JEDER 5. JOB WEG!",
+  "hook_voice": "Vodafone streicht in Deutschland fast jeden fünften Arbeitsplatz!",
+  "beats": [
+    {
+      "voice": "Rund zweitausenddreihundert Stellen fallen weg – das hat der Konzern mit Sitz in Düsseldorf am Montag mitgeteilt.",
+      "big": "2.300",
+      "label": "Stellen fallen bei Vodafone weg"
+    },
+    {
+      "voice": "Beim Sparen soll auch Künstliche Intelligenz helfen – dazu kommen einfachere Strukturen im Konzern.",
+      "big": "KI",
+      "label": "soll beim Sparen helfen"
+    },
+    {
+      "voice": "Der Grund: Vodafone verliert seit Jahren Marktanteile. Der Markt verändere sich grundlegend, so der Konzern.",
+      "big": "SEIT JAHREN",
+      "label": "verliert Vodafone Marktanteile"
+    },
+    {
+      "voice": "Für die Beschäftigten heißt das: Im umkämpften Telekommunikationsmarkt fällt fast jeder fünfte Job bei Vodafone weg.",
+      "big": "1 VON 5",
+      "label": "Jobs in Deutschland betroffen"
+    }
+  ],
+  "loop_line": "Und wie viele dieser Jobs übernimmt am Ende die KI?",
+  "headline": "Vodafone streicht 2.300 Stellen",
+  "highlight": [
+    "Vodafone"
+  ],
+  "entities": [
+    "Vodafone",
+    "Düsseldorf",
+    "Künstliche Intelligenz"
+  ],
+  "youtube_title": "Vodafone streicht fast jeden fünften Job – auch wegen KI",
+  "description_lead": "Vodafone baut in Deutschland rund 2.300 Stellen ab – fast jeder fünfte Arbeitsplatz ist betroffen. Der Konzern mit Sitz in Düsseldorf verliert seit Jahren Marktanteile und setzt beim Sparen auch auf Künstliche Intelligenz.",
+  "tags": [
+    "Vodafone",
+    "Vodafone Deutschland",
+    "Düsseldorf",
+    "Stellenabbau",
+    "Jobabbau",
+    "Künstliche Intelligenz",
+    "KI",
+    "Arbeitsplätze",
+    "Telekommunikation",
+    "Mobilfunk",
+    "Wirtschaft",
+    "nachrichten",
+    "nachrichten aktuell",
+    "Deutschland"
+  ],
+  "hashtags": [
+    "#vodafone",
+    "#stellenabbau",
+    "#ki"
+  ],
+  "facebook_caption_line1": "Vodafone streicht rund 2.300 Stellen in Deutschland – auch KI soll beim Sparen helfen",
+  "facebook_question": "Wie sehr verändert Künstliche Intelligenz Ihrer Meinung nach unsere Arbeitswelt?",
+  "comment_question": "Ersetzt KI bald mehr Jobs, als sie schafft – ja oder nein?"
+}
