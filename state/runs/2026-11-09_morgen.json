@@ -1,0 +1,40 @@
+{
+ "date": "2026-11-09",
+ "slot": "morgen",
+ "publish_at": "2026-11-09T06:00:00+00:00",
+ "title": "Merz bricht sein Schweigen: Aigner soll Bundespräsidentin werden",
+ "duration": 49.0,
+ "stories": [
+  {
+   "headline": "Merz legt sich auf Aigner fest",
+   "region": "DE",
+   "pillar": "POLITIK"
+  },
+  {
+   "headline": "Hubig zerpflückt Spritpreisdeckel",
+   "region": "DE",
+   "pillar": "WIRTSCHAFT"
+  },
+  {
+   "headline": "Ukraine-Truppe startet erste Übung",
+   "region": "EU",
+   "pillar": "POLITIK"
+  },
+  {
+   "headline": "Trump: Iran-Angriffe unwahrscheinlich",
+   "region": "INT",
+   "pillar": "WELT"
+  }
+ ],
+ "comment": {
+  "text": "Wäre Ilse Aigner eine gute Bundespräsidentin – ja oder nein?",
+  "done": false
+ },
+ "youtube_id": "oETvsH47LdY",
+ "facebook_id": "1805457157363173",
+ "buffer": {
+  "twitter": "6af14c53e44ddbb57c307003",
+  "tiktok": "6af14c54cac9d7525f6a29a7"
+ },
+ "created": "2026-11-09T04:30:12.305030+00:00"
+}
