@@ -1,0 +1,40 @@
+{
+ "date": "2026-11-09",
+ "slot": "nacht",
+ "publish_at": "2026-11-09T19:45:00+00:00",
+ "title": "Der Tag in 45 Sekunden: Nvidia-Chef und die mutmaßliche Spionin",
+ "duration": 48.6,
+ "stories": [
+  {
+   "headline": "Nvidia-Chef gesteht Affäre",
+   "region": "INT",
+   "pillar": "TECHNOLOGIE"
+  },
+  {
+   "headline": "Paris: Iran hinter Kühltruhen-Hack",
+   "region": "EU",
+   "pillar": "WELT"
+  },
+  {
+   "headline": "Vodafone: Jeder fünfte Job fällt weg",
+   "region": "DE",
+   "pillar": "WIRTSCHAFT"
+  },
+  {
+   "headline": "Abu Dhabi: Kreml blockt die EU ab",
+   "region": "EU",
+   "pillar": "WELT"
+  }
+ ],
+ "comment": {
+  "text": "Sollte Jensen Huang Nvidia-Chef bleiben – ja oder nein?",
+  "done": false
+ },
+ "youtube_id": "KNz-_s8G_BM",
+ "facebook_id": "2638245529948770",
+ "buffer": {
+  "twitter": "6af20f3429d3f56e69182b97",
+  "tiktok": "6af20f34a16d1f1c1e90afd2"
+ },
+ "created": "2026-11-09T18:21:41.069759+00:00"
+}
