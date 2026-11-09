@@ -10,3 +10,12 @@
 - Frühe VPH 8. Nov: Ukraine-Gespräche 142 · Tag in 45 s 110 · Selenskyj 103 · Ukraine Strom 96 · Trump 80 · Wolf 3.
 - 2026-11-09 05:41 Brief: Credits 5.825 · Abos 16 · Views 19.536 · Videos 38 · Top: Bargeld/digitaler Euro 7.911 VPH, Mauerfall-Jahrestag
 - 2026-11-09 13:41 Brief: Credits 5.800 · Abos 16 · Views 22.144 · Videos 42 · Top: Krakau-Schüsse 8,9K VPH (22x), Generationen-Geld 7.502 VPH
+
+## 2026-11-09 (vidIQ: 9 Calls, 45 Credits, Rest ≈ 5.755)
+- YT-Analytics bis 7. Nov: 7. Nov 3.955 Views / 1.515 engaged / +1 Abo / −0 · 6. Nov 1.365 / +2 · 14 Tage: +13 Abos, 0 verloren.
+- 8. Nov (öffentliche Zähler, 10 Videos): ≈ 7.300 Views – Selenskyj 1.094, Trump/Justiz 1.082, Tag in 45 s 1.073, Ukraine-Gespräche 1.029; Wolf 168.
+- Traffic 2.–9. Nov: Shorts-Feed 9.759 (93 %), Suche 484, andere YT-Seiten 159, Kanal 21, Abo-Feed 14.
+- FOKUS vs. 4er (> 24 h, 6.–8. Nov): Ø Views 562 vs. 650 · Ø-Wiedergabe 66,3 % vs. 39,9 % · Abos/1.000 0,47 vs. 0,33.
+- Slots: 07:30 (400/328/242) und 21:00 (258/423/450) am schwächsten; 06:00, 09:00, 18:30 > 1.000 → Growth rules 9–11 ergänzt.
+- Retention-Kurven: 5 Abrufe leer (Zeitraum 8.–9. Nov, Analytics-Verzug ~2 Tage) – nächstes Mal Videos ≥ 3 Tage alt, startDate = Upload-Tag.
+- Frühe VPH 9. Nov: Trump „andere Form“ 53 · Kushner 40 · Huang 40 · Krakau 34 · Orbán-Bruder 0,25 · Vodafone 2,3.

@@ -1,31 +1,33 @@
-# Learnings aus eigenen Daten (YouTube Analytics via vidIQ) – Stand 8. Nov 2026, 23 Uhr
+# Learnings aus eigenen Daten (YouTube Analytics via vidIQ) – Stand 9. Nov 2026, 23 Uhr
 
-## Neu 8. Nov (Nacht-Analyse; YT-Analytics reicht nur bis 6. Nov, Views 7./8. Nov = öffentliche Zähler)
-1. **Das Leck liegt bei Sekunde 4–12, nicht erst beim Themenwechsel.** In allen 4 gemessenen Kurven fällt die Zuschauerquote
-   zwischen 10 % und 30 % Laufzeit am stärksten: IG Metall 1,06 → 0,39 · Führerschein 1,00 → 0,50 · Gen-Z 1,03 → 0,63 ·
-   Bombendrohungen 2,03 → 1,47. → Satz 2 muss sofort den überraschendsten konkreten Fakt (Zahl, Name, Folge für DACH) liefern.
-   Kein Hintergrund/Kontext vor Sekunde 10.
-2. **Loop-Ende funktioniert – aber nur bei kurzem FOKUS mit offener Frage.** „Bombendrohungen gegen Flüge: Wer legt Europas
-   Luftverkehr lahm?“ (38 s): Ø-Wiedergabe **140,7 %** (53 s), Start-Watch-Ratio 2,11, Ende noch 1,14 → Leute schauen 2×.
-   4er-Ausgaben (50 s) enden bei 0,06–0,18. → FOKUS 30–38 s, letzter Satz führt zurück zur Titel-Frage.
-3. **FOKUS vs. Sammel (Videos > 24 h, 6./7. Nov):** FOKUS Ø 478 Views (5 Videos) vs. Sammel Ø 422 (8 Videos);
-   Ø-Wiedergabe FOKUS 87 % (2 mit Daten: 140,7 / 33,7) vs. Sammel 35,9 % (4); Abos/1.000 Views FOKUS 2,1 vs. Sammel 1,3.
-   → FOKUS bleibt Hauptformat, aber nur mit starkem Thema – das Thema schlägt das Format.
-4. **Ferne/abstrakte Themen floppen sicher (< 100 Views):** Paraguay-Ex-Präsident 63 · Markus Wolf/DDR-Spion 69 ·
-   Supermarkt-Hacks 80 · Führerschein-Reform 75 · DAX-Ausverkauf 40. → Kein Story-1-Platz ohne bekannte Person oder direkte DACH-Folge.
-5. **Gewinner 6.–8. Nov:** Trump/Justiz gegen Demokraten 1.042 · Linke vs. Vanessa Emde 992 · Aigner Bundespräsidentin 975 ·
-   Tajani-Hack 945. Muster: **bekannte Person + Konflikt/Machtfrage** im ersten Wort.
-6. **Hacker nur mit prominentem Opfer:** Tajani 945 vs. Supermarkt-Hacks 80, AfD-Leak 167, Spyware Minister 476.
-7. **Frühe Signale 8. Nov (< 24 h, noch nicht bewertet):** Ukraine-Gespräche 142 Views/h, Selenskyj in Berlin 103,
-   Tag in 45 Sekunden 110, Ukraine ohne Strom 96 – Ukraine/Europa am Verhandlungstisch läuft. Dana White 22/h, Wolf 3/h schwach.
-8. **Slots:** 22:00-FOKUS bisher am schwächsten (IG Metall 233, Eishockey 337); 12:00 und 18:30 tragen. Noch zu wenig Daten
-   für eine Slot-Änderung – Wochen-Review entscheidet.
-9. Traffic 1.–8. Nov: Shorts-Feed 10.381 von 11.022 Views (94 %), Suche 422 → Hook + Retention bleiben der Hebel.
+## Neu 9. Nov (Nacht-Analyse; YT-Analytics reicht bis 7. Nov, 8./9. Nov = öffentliche Zähler, bewertet nur > 24 h)
+1. **Das Thema schlägt das Format.** 22 Videos 6.–8. Nov: 4er-Ausgaben Ø 650 Views (Median 721, 12 Videos) vs. FOKUS Ø 562
+   (Median 437, 10 Videos). FOKUS hält dafür besser: Ø-Wiedergabe 66,3 % vs. 39,9 % (Analytics, 5 vs. 7 Videos).
+   → Ein FOKUS-Slot braucht ein Thema, das auch Story 1 einer 4er-Ausgabe wäre. Schwaches Einzelthema = verschenkter Slot.
+2. **07:30 und 21:00 sind die schwächsten Slots (je 3 von 3 Videos):** 07:30 fokus-geld 400 / 328 / 242 ·
+   21:00 fokus-top 258 / 423 / 450 – gegen 06:00 (1.035 / 820), 09:00 (1.082), 18:30 (1.029).
+   → Dort nur bekannte Person + Konflikt, keine Wirtschafts-/Nischen-Themen. Slot-Verschiebung entscheidet der Wochen-Review.
+3. **Wirtschaft ohne Promi floppt (≥ 5 Videos):** Plastiksteuer 242 · Pflegeversicherung 400 · Führerschein 75 · DAX 40 ·
+   Vodafone-Jobabbau 23 (früh). Ausnahme mit Person + Skandal: Nvidia-Chef Huang gesteht Affäre 681 (bester Wert 9. Nov).
+4. **Abos sind das Problem, nicht Views:** 0,47 Abos/1.000 Views (FOKUS) vs. 0,33 (4er) – Ziel 2. In 14 Tagen nur 13 Abos,
+   0 verloren; Shares fast überall 0. Abo-Videos: Merz „Alarmstufe dunkelrot“ +2 (78,9 %), Bombendrohungen +1 (117,5 %).
+   → Abos kommen nur bei > 75 % Wiedergabe. Retention bleibt Hebel Nr. 1.
+5. **Loop > 100 % nur 1 von 5 FOKUS:** Bombendrohungen „Wer legt …?“ 117,5 % · Eishockey 73,5 % · Pflege 56,1 % ·
+   IG Metall 43,8 % · Tajani 40,6 % (957 Views, aber nur 27 % engaged). Der Loop braucht eine offene Titel-Frage,
+   die der letzte Satz aufgreift – Aussagetitel loopen nicht.
+6. **Folgen nur mit echter Wende:** Merz legt sich auf Aigner fest 327 (Original 1.035) · Nvidia-Aktie bricht ein 65
+   (Original 681, am selben Tag). Ausnahme: „Tag in 45 s“ mit Trump/Justiz 1.073. → Fortsetzung frühestens am Folgetag
+   und nur mit neuem harten Fakt.
+7. **Gewinner 8. Nov (> 24 h):** Selenskyj in Berlin 1.094 (FOKUS) · Trump/Justiz 1.082 · Tag in 45 s 1.073 ·
+   Ukraine-Gespräche 1.029 (FOKUS) · Ukraine ohne Strom 927. Ukraine/Europa + Trump tragen weiter.
+   Verlierer: Markus Wolf 168 · Paraguay 297 · Dana White 328.
+8. **Frühe Signale 9. Nov (< 24 h, nicht bewertet):** Trump „andere Form“ Ukraine 53 VPH · Kushner 40 VPH · Krakau 34 VPH ·
+   Orbán-Bruder/Menschenhandel nur 1 View in 5 h (mögliche Verbreitungs-Bremse durch Reizwort – beobachten).
+9. Traffic 2.–9. Nov: Shorts-Feed 9.759 von 10.446 Views (93 %), Suche 484, Abo-Feed 14 (134 % Wiedergabe).
 
-## Ältere Learnings (29. Okt – 7. Nov)
-- Bestes Video: „Merz unter Druck: CDU-Basis sieht ‚Alarmstufe dunkelrot‘“ – 75,8 % Ø-Wiedergabe, 47 % bis zum Ende.
-  Warum: bekannte Person + dramatisches Zitat + Bedrohung der Macht.
-- Sammel-Ausgaben verlieren zusätzlich beim Wechsel zu Story 2 (~30–40 % Laufzeit; Gen-Z 0,57 → 0,47).
-  → Story 1 = stärkstes Thema, Story 2–4 jeweils mit eigenem Hook-Wort beginnen.
-- Gute Themen: Machtkämpfe in Parteien (CDU, Linke, SPD), Koalitionen, Heizkosten/Gasspeicher (1.215, 53 %).
-- Abos: 0–4 pro Tag; Abos kommen von Videos mit hoher Retention – Retention zuerst, dann Abos.
+## Ältere Learnings (29. Okt – 8. Nov)
+- Leck bei Sekunde 4–12 (4 von 4 Kurven): Satz 2 = überraschendster konkreter Fakt, kein Hintergrund vor Sekunde 10.
+- Ferne/abstrakte Themen < 100 Views (Paraguay, Wolf, Supermarkt-Hacks, Führerschein, DAX).
+- Gewinner-Muster: bekannte Person + Konflikt/Machtfrage im ersten Wort (Merz, Trump, Emde, Aigner, Tajani).
+- Hacker nur mit prominentem Opfer (Tajani 945 vs. Supermarkt 80, AfD-Leak 167).
+- Sammel-Ausgaben verlieren beim Wechsel zu Story 2 (~30–40 % Laufzeit) → jede Story mit eigenem Hook-Wort.

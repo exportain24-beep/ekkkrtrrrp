@@ -74,6 +74,15 @@ Data: single-story Shorts get the most views/hour in DACH news (own FOKUS + comp
 8. **FOKUS length + loop:** 30–38 s; the last sentence leads back to the open question of the title so the Short loops.
    Proven: "Bombendrohungen … Wer legt Europas Luftverkehr lahm?" (38 s) = 140.7 % average view percentage, end watch ratio 1.14;
    50-s four-story editions end at 0.06–0.18. The title question must be answered (or honestly marked as open) in the video.
+   Only 1 of 5 FOKUS reached > 100 % (9 Nov) – statement titles do not loop; the loop needs a real open question in the title.
+9. **The topic beats the format (9 Nov, 22 videos):** 4-story editions averaged 650 views vs. 562 for FOKUS, while FOKUS held
+   66 % vs. 40 % average view percentage. A FOKUS slot needs a story that would also be story 1 of a 4-story edition –
+   never fill it with a niche story. Economy/policy stories without a well-known person flop (Plastiksteuer 242,
+   Pflegeversicherung 400, Führerschein 75, DAX 40); with person + scandal they work (Nvidia-Chef Huang 681).
+10. **Weak slots 07:30 and 21:00 (3 of 3 videos each: 400/328/242 and 258/423/450):** give them a well-known person +
+   conflict story from DE/EU, not an economy niche topic.
+11. **Follow-ups only with a hard new fact and not on the same day:** Merz/Aigner follow-up 327 vs. original 1,035;
+   Nvidia share follow-up 65 vs. original 681 the same day.
 
 ## Thumbnail = first impression (the system renders it from your fields)
 - Story 1 must be the strongest story **with good photos** (it provides the thumbnail photo and the hook).
