@@ -1,0 +1,26 @@
+{
+  "format": "single",
+  "candidate_id": 0,
+  "pillar": "WIRTSCHAFT",
+  "region": "INT",
+  "kicker": "NVIDIA",
+  "hook_screen": "NVIDIA-BEBEN!",
+  "hook_voice": "Spionage-Verdacht beim KI-Riesen Nvidia – jetzt bricht die Aktie ein!",
+  "beats": [
+    {"voice": "Brisant: Laut Süddeutscher Zeitung kannte Präsident Trump den Verdacht gegen Nvidia-Chef Jensen Huang schon seit Monaten.", "big": "TRUMP", "label": "kannte den Verdacht laut SZ seit Monaten"},
+    {"voice": "Hinter der mutmaßlichen Spionin soll Chinas Geheimdienst MSS stecken – laut SPIEGEL um ein Vielfaches größer als die CIA.", "big": "MSS", "label": "Chinas Geheimdienst soll dahinterstecken"},
+    {"voice": "Huang hat die Affäre zugegeben. Nvidia ermittelt jetzt gegen den eigenen Chef.", "big": "UNTERSUCHUNG", "label": "Konzern prüft die Affäre seines Chefs"},
+    {"voice": "Für Anleger ein Schlag: Die Affäre trifft die gesamte KI-Branche zu einem äußerst ungünstigen Zeitpunkt.", "big": "KI-BRANCHE", "label": "Aktie bricht ein – ganze Branche nervös"}
+  ],
+  "loop_line": "Nur eine Affäre – oder Spionage beim KI-Riesen Nvidia?",
+  "headline": "Nvidia-Aktie bricht nach Affäre ein",
+  "highlight": ["Nvidia-Aktie"],
+  "entities": ["Jensen Huang", "Nvidia", "Donald Trump"],
+  "youtube_title": "Nvidia-Aktie bricht ein: Trump kannte den Spionage-Verdacht",
+  "description_lead": "Nach der Affäre von Nvidia-Chef Jensen Huang mit einer mutmaßlichen chinesischen Spionin bricht die Nvidia-Aktie ein, der Konzern ermittelt gegen den eigenen Chef. Laut Süddeutscher Zeitung kannte US-Präsident Donald Trump den Verdacht seit Monaten – hinter der Frau soll Chinas Geheimdienst MSS stecken.",
+  "tags": ["Nvidia", "Jensen Huang", "Nvidia Aktie", "Donald Trump", "Trump", "China", "Spionage", "MSS", "Geheimdienst", "KI", "Künstliche Intelligenz", "Aktien", "Börse", "nachrichten", "nachrichten aktuell"],
+  "hashtags": ["#nvidia", "#spionage", "#trump"],
+  "facebook_caption_line1": "Nvidia-Affäre: Aktie bricht ein – Trump kannte den Verdacht laut SZ seit Monaten",
+  "facebook_question": "Muss die US-Regierung bei Spionage-Verdacht gegen Konzernchefs schneller handeln?",
+  "comment_question": "Hätte Trump früher handeln müssen – ja oder nein?"
+}
