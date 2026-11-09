@@ -1,0 +1,26 @@
+{
+  "format": "single",
+  "candidate_id": 4,
+  "pillar": "WELT",
+  "region": "INT",
+  "kicker": "WASHINGTON",
+  "hook_screen": "TRUMPS KEHRTWENDE!",
+  "hook_voice": "Erst gratuliert, jetzt zweifelt Trump den Sieg der Demokraten an!",
+  "beats": [
+    {"voice": "Trump hatte den Demokraten nach den Zwischenwahlen zunächst gratuliert und versprochen, das Ergebnis zu akzeptieren.", "big": "Glückwunsch", "label": "erst gratuliert Trump den Demokraten"},
+    {"voice": "Jetzt wechselt er zurück in den Angriffsmodus: Schuld seien die Wahlmaschinen. Beweise legt er keine vor.", "big": "0 Beweise", "label": "für den Vorwurf gegen Wahlmaschinen"},
+    {"voice": "Dabei war ihr Sieg so eindeutig, dass selbst Trump am Wahlabend nicht daran rüttelte.", "big": "Midterms", "label": "deutlicher Sieg der Demokraten"},
+    {"voice": "Bald führen die Demokraten Aufsichtsausschüsse im Kongress – und nehmen die Trump-Familie wegen Korruptionsvorwürfen ins Visier.", "big": "Kongress", "label": "Demokraten wollen Trump-Familie prüfen"}
+  ],
+  "loop_line": "Akzeptiert Trump die Niederlage also – oder beginnt der Kampf erst jetzt?",
+  "headline": "Trump zweifelt an Midterm-Ergebnis",
+  "highlight": ["Trump"],
+  "entities": ["Donald Trump", "Kongress", "Weißes Haus"],
+  "youtube_title": "Trumps Kehrtwende: Jetzt sollen die Wahlmaschinen schuld sein",
+  "description_lead": "US-Präsident Donald Trump hatte den Demokraten nach den Midterms gratuliert – jetzt zweifelt er das Ergebnis an und macht ohne Beweise die Wahlmaschinen verantwortlich. Die Demokraten übernehmen bald wichtige Aufsichtsausschüsse im Kongress und wollen Korruptionsvorwürfe gegen die Trump-Familie prüfen.",
+  "tags": ["Donald Trump", "Trump", "Midterms 2026", "Demokraten", "Republikaner", "US-Kongress", "USA", "Zwischenwahlen", "Wahlmaschinen", "Trump-Familie", "Korruption", "US-Politik", "nachrichten", "aktuell"],
+  "hashtags": ["#trump", "#midterms", "#usa"],
+  "facebook_caption_line1": "Kehrtwende: Trump zweifelt den Midterm-Sieg der Demokraten jetzt doch an",
+  "facebook_question": "Wie bewerten Sie Trumps neue Zweifel am Wahlergebnis?",
+  "comment_question": "Wird Trump das Midterm-Ergebnis am Ende akzeptieren – ja oder nein?"
+}
