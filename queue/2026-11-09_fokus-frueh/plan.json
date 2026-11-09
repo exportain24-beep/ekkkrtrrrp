@@ -1,0 +1,25 @@
+{
+  "format": "single",
+  "candidate_id": 0,
+  "pillar": "TECHNOLOGIE",
+  "region": "INT",
+  "kicker": "USA",
+  "hook_screen": "SPIONAGE-VERDACHT!",
+  "hook_voice": "Nvidia-Chef Jensen Huang unter Spionageverdacht – sein Konzern leitet eine Untersuchung ein!",
+  "beats": [
+    {"voice": "Huang räumt eine Affäre ein: „Ich war meiner Frau untreu.“ Die Frau soll eine chinesische Spionin gewesen sein.", "big": "AFFÄRE", "label": "Huang gesteht Seitensprung"},
+    {"voice": "US-Behörden vermuten laut Medienberichten, dass sie vom chinesischen Geheimdienst angeworben wurde. Laut SPIEGEL soll US-Außenminister Rubio vor ihr gewarnt haben.", "big": "GEHEIMDIENST", "label": "China soll die Frau angeworben haben"},
+    {"voice": "Nvidia ist das Gesicht des KI-Booms. Für den Chip-Riesen beginnt womöglich die schwerste Woche seiner Geschichte.", "big": "KI-RIESE", "label": "Affäre birgt politischen Zündstoff"}
+  ],
+  "loop_line": "Wer war die Frau an Huangs Seite – wirklich eine Spionin?",
+  "headline": "Nvidia-Chef unter Spionageverdacht",
+  "highlight": ["Nvidia-Chef"],
+  "entities": ["Jensen Huang", "Nvidia", "Marco Rubio"],
+  "youtube_title": "Nvidia-Chef Huang gesteht Affäre – mit mutmaßlicher Spionin!",
+  "description_lead": "Nvidia-Chef Jensen Huang räumt eine Affäre mit einer Frau ein, die laut Medienberichten für den chinesischen Geheimdienst gearbeitet haben soll. Nvidia hat eine Untersuchung eingeleitet – laut SPIEGEL soll US-Außenminister Rubio vor der Frau gewarnt haben.",
+  "tags": ["Jensen Huang", "Nvidia", "Nvidia-Chef", "Marco Rubio", "China", "USA", "Spionage", "Spionin", "Geheimdienst", "KI", "Künstliche Intelligenz", "Chips", "nachrichten", "nachrichten aktuell", "wirtschaft"],
+  "hashtags": ["#nvidia", "#spionage", "#ki"],
+  "facebook_caption_line1": "Spionageverdacht: Nvidia-Chef Jensen Huang gesteht Affäre mit mutmaßlicher chinesischer Spionin",
+  "facebook_question": "Wie gefährlich ist chinesische Spionage für westliche Technologiekonzerne?",
+  "comment_question": "Sollte Jensen Huang Nvidia-Chef bleiben – ja oder nein?"
+}
