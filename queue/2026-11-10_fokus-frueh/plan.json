@@ -1,0 +1,68 @@
+{
+  "format": "single",
+  "candidate_id": 1,
+  "pillar": "POLITIK",
+  "region": "INT",
+  "kicker": "WASHINGTON",
+  "hook_screen": "HEGSETH WACKELT!",
+  "hook_voice": "Hegseth droht die Amtsenthebung – angestoßen aus Trumps eigener Partei!",
+  "beats": [
+    {
+      "voice": "Thomas Massie, scheidender republikanischer Abgeordneter, hat ein Amtsenthebungsverfahren gegen US-Verteidigungsminister Pete Hegseth angestoßen.",
+      "big": "MASSIE",
+      "label": "Republikaner beantragt Amtsenthebung"
+    },
+    {
+      "voice": "Iran ist der Kern des Vorwurfs: Hegseth soll ohne Legitimation Angriffe befehligt haben. Der Antrag nennt auch Einsätze im Jemen und in Venezuela.",
+      "big": "IRAN",
+      "label": "Angriffe ohne Legitimation – laut Antrag"
+    },
+    {
+      "voice": "Rückhalt schwindet: Wegen des Iran-Kriegs verliert Hegseth auch bei den Republikanern an Unterstützung.",
+      "big": "RÜCKHALT",
+      "label": "schwindet auch in der eigenen Partei"
+    },
+    {
+      "voice": "Trump selbst zweifelt die Ergebnisse der verlorenen Zwischenwahlen nun doch an.",
+      "big": "MIDTERMS",
+      "label": "zweifelt die Wahlergebnisse an"
+    }
+  ],
+  "loop_line": "Ob der Antrag eine Mehrheit findet, ist offen – muss Hegseth jetzt gehen?",
+  "headline": "Amtsenthebung gegen Hegseth beantragt",
+  "highlight": [
+    "Hegseth"
+  ],
+  "entities": [
+    "Pete Hegseth",
+    "Thomas Massie",
+    "Pentagon",
+    "Donald Trump"
+  ],
+  "youtube_title": "Hegseth vor dem Aus? Republikaner will Trumps Minister stürzen",
+  "description_lead": "Der republikanische Abgeordnete Thomas Massie hat ein Amtsenthebungsverfahren gegen US-Verteidigungsminister Pete Hegseth angestoßen – wegen Angriffen gegen Iran ohne Legitimation sowie Einsätzen im Jemen und in Venezuela. Nach den verlorenen Zwischenwahlen schwindet Hegseths Rückhalt, während Donald Trump die Wahlergebnisse anzweifelt.",
+  "tags": [
+    "Pete Hegseth",
+    "Thomas Massie",
+    "Donald Trump",
+    "Pentagon",
+    "US-Verteidigungsminister",
+    "Amtsenthebungsverfahren",
+    "Republikaner",
+    "Iran",
+    "Zwischenwahlen",
+    "Midterms",
+    "USA",
+    "Kriegsminister",
+    "nachrichten",
+    "nachrichten aktuell"
+  ],
+  "hashtags": [
+    "#hegseth",
+    "#trump",
+    "#usa"
+  ],
+  "facebook_caption_line1": "Amtsenthebung beantragt: Republikaner Massie will Pentagon-Chef Hegseth stürzen",
+  "facebook_question": "Wie bewerten Sie den Vorstoß gegen den US-Verteidigungsminister?",
+  "comment_question": "Muss Hegseth gehen – ja oder nein?"
+}
