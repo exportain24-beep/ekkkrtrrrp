@@ -115,6 +115,21 @@ Data: single-story Shorts get the most views/hour in DACH news (own FOKUS + comp
 18. **Facebook ist ein eigener Markt:** `state/performance.md` zeigt FB plays/likes/comments. FB-Ausreißer
    (Eishockey-WM 7.684 Plays, Orbán-Bruder 3.691 – auf YouTube 460 bzw. 32) zeigen: FB belohnt Sport-Politik und
    Osteuropa/Skandal stärker. `facebook_caption_line1` darf deshalb einen eigenen, FB-tauglichen Aufhänger haben (gleiche Fakten).
+19. **Name first, never hide it (10 Nov night, 19 videos, validator checks the first word):** engaged/views (viewed vs swiped)
+   was 46 % for the 4-story editions – all 9 hooks open with the proper name ("Trump zweifelt Wahl an …" 53 %, "Eisenkot soll
+   Israel regieren" 50 %) – but only 28 % for FOKUS, whose hooks opened with an article or a riddle and often hid the name:
+   "Hacker stellen Daten eines EU-Außenministers ins Darknet" (Tajani unnamed) 27 %, "Die Pflegeversicherung …" 19 %,
+   "Die Eishockey-WM …" 28 %, "Russlands Geheimdienst feiert den DDR-Spionagechef" (Wolf unnamed) 36 %,
+   "Erst gratuliert, jetzt zweifelt Trump …" 20 views. So `hook_voice` = Name + Verb + Fakt, ≤ 8 words:
+   ✓ „Tajanis private Daten liegen im Darknet.“ ✓ „Merz droht Brüssel mit Haushaltsblockade.“ ✗ „Die EU …“ ✗ „Erst …, jetzt …“.
+20. **Sentence 2 = news, not the old state (3 of 3 retention cliffs at seconds 4–12):** Tajani 1.04 → 0.52 at 12–27 % runtime,
+   Aigner 1.07 → 0.66 at 9–17 %, Supermarkt 0.92 → 0.65 at 18–24 %. The "Trumps Kehrtwende" beat 1 retold what happened before
+   ("Trump hatte … zunächst gratuliert") – that is the swipe moment. Beat 1 gives the newest hard fact with a number/name;
+   money stories put the euro figure for the viewer into beat 1 (Klingbeil/Steuerklasse III without a net-pay example: 2 views in 5 h).
+21. **Facebook dies before 10 UTC (13 videos):** posts published before 10:00 UTC got a median of 5 FB plays (1–41), posts from
+   11:00 UTC on mostly 200–480. Russia/Eastern-Europe, sport-politics and scandal stories – our FB winners (Eishockey-WM 7,684,
+   Orbán 3,691) – belong in the slots from 12:00 Berlin; morning slots get German federal politics with Merz/Union, which
+   wins on YouTube (Merz/EU 840 YT at 07:30 UTC, 3 of 3 Merz Shorts ≥ 684 YT).
 
 ## Thumbnail = first impression (the system renders it from your fields)
 - Story 1 must be the strongest story **with good photos** (it provides the thumbnail photo and the hook).

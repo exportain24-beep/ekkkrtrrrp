@@ -44,6 +44,12 @@ def validate_single(plan: dict, n_candidates: int) -> list[str]:
     hv = plan.get("hook_voice", "")
     if not hv or len(hv.split()) > 8:
         errs.append("hook_voice: the shock itself, max 8 words (spoken within ~1.5 s)")
+    # growth 10 Nov night: hooks opening with the proper name held 46 % engaged vs 28 % for article/teaser openers
+    _first = (hv.split() or [""])[0].strip("„“\"'.,:;!?–-").lower()
+    if _first in ("die", "der", "das", "den", "dem", "ein", "eine", "einer", "neue", "neuer", "neues", "erst",
+                  "jetzt", "heute", "plötzlich", "warum", "wer", "was", "wie", "so", "es", "hier"):
+        errs.append("hook_voice: the first word must be the person/place/institution (or a number) – not an article or teaser "
+                    "(e.g. 'Merz droht Brüssel …', not 'Die EU …' / 'Erst …'); never hide the name")
     beats = plan.get("beats") or []
     if not (3 <= len(beats) <= 4):
         errs.append("beats: 3–4 needed")

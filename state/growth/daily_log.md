@@ -21,3 +21,13 @@
 - Frühe VPH 9. Nov: Trump „andere Form“ 53 · Kushner 40 · Huang 40 · Krakau 34 · Orbán-Bruder 0,25 · Vodafone 2,3.
 - 2026-11-10 05:41 Brief: Credits 5.720 · Abos 17 · Views 26.997 · Videos 50 · Top: Füllkrug-ZDF-Abbruch 15,1K VPH (15x), Krakau 8,9K VPH, Lisa (13) tot 3K VPH
 - 2026-11-10 13:41 Brief: Credits 5.690 · Abos 17 · Views 29.381 · Videos 54 · Top: Füllkrug-ZDF 16,6K VPH (25x), Lisa/ntv 12,2K VPH (17x); eigenes Top Merz/EU 72 VPH; Milliardärssteuer 0 Views
+
+## 2026-11-10 (vidIQ: 9 Calls, 45 Credits, Rest ≈ 5.590)
+- YT-Analytics bis 8. Nov: 8. Nov 7.721 Views / 3.260 engaged (42 %) / +3 Abos / −0 – Rekordtag · 7. Nov 3.955 / 1.515 (38 %).
+- Öffentliche Zähler: Uploads 9. Nov 4.902 Views (12 Videos, Ø 408) · Uploads 10. Nov ≈ 2.075 (11 Videos, Ø 189, < 24 h).
+- Beste: Merz droht EU 840 (60 VPH, 16 Likes, 13 Komm.) · Fall Fabian 463 (58 VPH) · 9. Nov: Trump/Ukraine 998, Kushner 893, Huang 822.
+- Schlechteste: Klingbeil/Steuerklasse 2 (5 h) · Trump-Wahlmaschinen 20 · FBI/Nvidia 31 · Milliardärssteuer 28 · Iran-Kühlregale 48 (Wiederholungen).
+- Engaged/Views: 4er Ø 46 % (9) vs. FOKUS Ø 28 % (10) – Name als erstes Hook-Wort → Growth rule 19 + Validator-Check erstes Wort.
+- Retention-Klippen Sek. 4–12 in 3/3 Kurven (Tajani, Aigner, Supermarkt); Eishockey ohne Klippe (Ende 0,45) → rule 20.
+- FB: Uploads 9. Nov ≈ 4.815 Plays (Orbán 3.691) · 10. Nov ≈ 759 · Posts vor 10 UTC Median 5 Plays (13 Videos) → rule 21.
+- vidIQ-Watch „Trumps Kehrtwende“: Hook startet mit „Erst gratuliert“, Satz 2 = alte Lage, nur 4 Fotos; Deutsch/Hochdeutsch fehlerfrei.

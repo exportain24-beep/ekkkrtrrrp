@@ -1,33 +1,47 @@
-# Learnings aus eigenen Daten (YouTube Analytics via vidIQ) – Stand 9. Nov 2026, 23 Uhr
+# Learnings aus eigenen Daten (YouTube Analytics + FB-Plays) – Stand 10. Nov 2026, 23 Uhr (Nacht-Analyse)
+Datenlage: YT-Analytics reicht bis 8. Nov (Verzug ~2 Tage); 9./10. Nov = öffentliche Zähler. Ziel: jeder Short ≥ 5.000 Views.
 
-## Neu 9. Nov (Nacht-Analyse; YT-Analytics reicht bis 7. Nov, 8./9. Nov = öffentliche Zähler, bewertet nur > 24 h)
-1. **Das Thema schlägt das Format.** 22 Videos 6.–8. Nov: 4er-Ausgaben Ø 650 Views (Median 721, 12 Videos) vs. FOKUS Ø 562
-   (Median 437, 10 Videos). FOKUS hält dafür besser: Ø-Wiedergabe 66,3 % vs. 39,9 % (Analytics, 5 vs. 7 Videos).
-   → Ein FOKUS-Slot braucht ein Thema, das auch Story 1 einer 4er-Ausgabe wäre. Schwaches Einzelthema = verschenkter Slot.
-2. **07:30 und 21:00 sind die schwächsten Slots (je 3 von 3 Videos):** 07:30 fokus-geld 400 / 328 / 242 ·
-   21:00 fokus-top 258 / 423 / 450 – gegen 06:00 (1.035 / 820), 09:00 (1.082), 18:30 (1.029).
-   → Dort nur bekannte Person + Konflikt, keine Wirtschafts-/Nischen-Themen. Slot-Verschiebung entscheidet der Wochen-Review.
-3. **Wirtschaft ohne Promi floppt (≥ 5 Videos):** Plastiksteuer 242 · Pflegeversicherung 400 · Führerschein 75 · DAX 40 ·
-   Vodafone-Jobabbau 23 (früh). Ausnahme mit Person + Skandal: Nvidia-Chef Huang gesteht Affäre 681 (bester Wert 9. Nov).
-4. **Abos sind das Problem, nicht Views:** 0,47 Abos/1.000 Views (FOKUS) vs. 0,33 (4er) – Ziel 2. In 14 Tagen nur 13 Abos,
-   0 verloren; Shares fast überall 0. Abo-Videos: Merz „Alarmstufe dunkelrot“ +2 (78,9 %), Bombendrohungen +1 (117,5 %).
-   → Abos kommen nur bei > 75 % Wiedergabe. Retention bleibt Hebel Nr. 1.
-5. **Loop > 100 % nur 1 von 5 FOKUS:** Bombendrohungen „Wer legt …?“ 117,5 % · Eishockey 73,5 % · Pflege 56,1 % ·
-   IG Metall 43,8 % · Tajani 40,6 % (957 Views, aber nur 27 % engaged). Der Loop braucht eine offene Titel-Frage,
-   die der letzte Satz aufgreift – Aussagetitel loopen nicht.
-6. **Folgen nur mit echter Wende:** Merz legt sich auf Aigner fest 327 (Original 1.035) · Nvidia-Aktie bricht ein 65
-   (Original 681, am selben Tag). Ausnahme: „Tag in 45 s“ mit Trump/Justiz 1.073. → Fortsetzung frühestens am Folgetag
-   und nur mit neuem harten Fakt.
-7. **Gewinner 8. Nov (> 24 h):** Selenskyj in Berlin 1.094 (FOKUS) · Trump/Justiz 1.082 · Tag in 45 s 1.073 ·
-   Ukraine-Gespräche 1.029 (FOKUS) · Ukraine ohne Strom 927. Ukraine/Europa + Trump tragen weiter.
-   Verlierer: Markus Wolf 168 · Paraguay 297 · Dana White 328.
-8. **Frühe Signale 9. Nov (< 24 h, nicht bewertet):** Trump „andere Form“ Ukraine 53 VPH · Kushner 40 VPH · Krakau 34 VPH ·
-   Orbán-Bruder/Menschenhandel nur 1 View in 5 h (mögliche Verbreitungs-Bremse durch Reizwort – beobachten).
-9. Traffic 2.–9. Nov: Shorts-Feed 9.759 von 10.446 Views (93 %), Suche 484, Abo-Feed 14 (134 % Wiedergabe).
+## YouTube
+1. **Der Einstieg ist das Hauptproblem – FOKUS-Hooks verlieren mehr als die 4er-Ausgaben.** Engaged/Views (Proxy „angesehen
+   statt weggewischt“, Ziel ≥ 60 %): 4er-Ausgaben Ø 46 % (9 Videos, 39–53 %) vs. FOKUS Ø 28 % (10 Videos, 17–39 %).
+   Alle 9 4er-Hooks beginnen mit dem Eigennamen („Trump zweifelt Wahl an …“ 53 %, „Paraguays Ex-Präsident …“ 52 %,
+   „Reza Pahlavi in Frankfurt“ 51 %, „Eisenkot soll …“ 50 %). Die FOKUS-Hooks versteckten den Namen oder starteten mit
+   Artikel/Rätsel: „Hacker stellen Daten eines EU-Außenministers …“ (Tajani ungenannt) 27 % · „Die Pflegeversicherung …“ 19 % ·
+   „Die Eishockey-WM …“ 28 % · „Russlands Geheimdienst feiert den DDR-Spionagechef“ (Wolf ungenannt) 36 % ·
+   „Erst gratuliert, jetzt zweifelt Trump …“ 20 Views. → Erstes Wort = Name (Person/Ort/Institution), nie „Die/Der/Neue/
+   Erst/Jetzt“, Name nie verrätseln, max. 8 Wörter. Validator prüft das erste Wort ab 11. Nov.
+2. **Satz 2 bringt zu oft Hintergrund statt Neuigkeit.** Kurven (≥ 3 Tage alt): Tajani hält 1,04 bis 12 %, dann Klippe auf 0,52
+   bei 27 % (Sek. 5–10), Ende 0,10 · Aigner 1,07 → 0,66 zwischen 9 und 17 % (Sek. 4–8) · Supermarkt 0,92 → 0,65 bei 18–24 %.
+   3 von 3 Klippen liegen in Sek. 4–12. Gegenbeispiel Eishockey-WM: sanfter Abfall 1,42 → 0,84, Ende 0,45, 70 % Ø.
+   vidIQ-Watch „Trumps Kehrtwende“ (20 Views): Hook beginnt mit „Erst gratuliert …“, Satz 2 erzählt die alte Lage nach
+   („Trump hatte … zunächst gratuliert“) = Wiederholung statt neuer Fakt; nur 4 Fotos, wirkt wie Diashow; Deutsch fehlerfrei.
+3. **Merz trägt (3 von 3):** Selenskyj/Merz 1.407 · Merz droht EU mit Haushaltsblockade 840 in 15 h (60 VPH, 16 Likes,
+   13 Kommentare = bestes Engagement des Kanals) · Merz/Aigner 684. Deutsche Bundespolitik mit Merz = sicherster Slot.
+4. **Wiederholung bestätigt sich als Killer (10. Nov):** Abu-Dhabi-Gespräche 136 (3. Ukraine-Gespräch in 3 Tagen) ·
+   Iran/Supermarkt-Hacks 48 (Thema floppte schon am 7. Nov mit 95) · FBI/Nvidia 31 (5. Nvidia-Video) · Trump-Wahlmaschinen 20
+   (4. Trump am 9. Nov). Die Wiederholungssperre im Validator (seit 11. Nov) bleibt die wichtigste Regel.
+5. **DE-Justiz/Gesellschaft funktioniert:** Fall Fabian 463 in 9 h (58 VPH, 9 Likes) · Krakau-Schütze 508 · Schlesinger-Prozess 172.
+   USA ohne Trump-Bezug und Ausland-Wirtschaft floppen: Hegseth 100 · Milliardärssteuer Kalifornien 28 · Vodafone 38.
+6. **Klingbeil/Steuerklasse III nur 2 Views in 5 h** trotz DACH-Relevanz: Hook 13 Wörter, „laut Ministeriumskreisen“
+   (Amtsdeutsch), kein Zahlenbeispiel fürs Netto. → Geld-Themen brauchen eine konkrete Euro-Zahl im Satz 2.
+7. Tagesbilanz YT (Analytics): 8. Nov 7.721 Views / 3.260 engaged (42 %) / +3 Abos – bester Tag; 7. Nov 3.955 / 1.515 (38 %).
+   Öffentliche Zähler: Uploads 9. Nov 12 Videos = 4.902 Views (Ø 408) · Uploads 10. Nov 11 Videos = ≈ 2.075 (Ø 189, < 24 h).
+8. Loop: Bombendrohungen 105,5 % Ø-Wiedergabe, aber nur 26 % engaged – Loop rettet nichts, wenn der Einstieg nicht hält.
 
-## Ältere Learnings (29. Okt – 8. Nov)
-- Leck bei Sekunde 4–12 (4 von 4 Kurven): Satz 2 = überraschendster konkreter Fakt, kein Hintergrund vor Sekunde 10.
-- Ferne/abstrakte Themen < 100 Views (Paraguay, Wolf, Supermarkt-Hacks, Führerschein, DAX).
-- Gewinner-Muster: bekannte Person + Konflikt/Machtfrage im ersten Wort (Merz, Trump, Emde, Aigner, Tajani).
-- Hacker nur mit prominentem Opfer (Tajani 945 vs. Supermarkt 80, AfD-Leak 167).
-- Sammel-Ausgaben verlieren beim Wechsel zu Story 2 (~30–40 % Laufzeit) → jede Story mit eigenem Hook-Wort.
+## Facebook
+9. **Vormittags-Posts sterben auf FB (13 Videos):** Veröffentlichung vor 10 Uhr UTC (Slots fokus-frueh, morgen, fokus-geld,
+   vormittag) = Median 5 Plays (1–41, einziger Ausreißer Eisenkot 450). Ab 11 Uhr UTC (mittag bis abend, 16 Videos) meist
+   200–480 Plays. → Die stärksten FB-Themen (Osteuropa/Russland, Sport-Politik) in Slots ab 12:00 Berlin legen.
+10. **FB-Gewinner ≠ YT-Gewinner:** Eishockey-WM/Russland 7.684 FB vs. 460 YT · Orbán-Bruder 3.691 FB vs. 34 YT ·
+    Abschiebekurs Trump 441 FB vs. 246 YT · Markus Wolf/Moskau 393 FB vs. 180 YT. Umgekehrt: Trump/Justiz 1.092 YT vs. 7 FB,
+    Aigner 1.073 YT vs. 12 FB, Merz/EU 840 YT vs. 5 FB (alle vormittags gepostet – Slot-Effekt aus Regel 9 überlagert).
+11. FB belohnt Russland/Osteuropa + Skandal + Sport-Politik; YT belohnt DE-Bundespolitik mit bekannter Person.
+    Tagesbilanz FB: Uploads 9. Nov ≈ 4.815 Plays (Orbán 3.691) · Uploads 10. Nov ≈ 759 Plays (Nmecha 254, Fabian 248).
+
+## Ältere Learnings (6.–9. Nov), weiterhin gültig
+- Ein Thema / eine Hauptperson höchstens 1× pro 24 h; Folgen nur mit hartem neuem Fakt und nicht am selben Tag.
+- Wirtschaft ohne Promi floppt (Plastiksteuer 329, Pflege 403, Führerschein 77, DAX 38); mit Person + Skandal ok (Huang 822).
+- Ferne/abstrakte Themen < 200 Views (Paraguay, Wolf, Supermarkt-Hacks, Führerschein, DAX).
+- Abos nur bei > 75 % Wiedergabe (Merz „Alarmstufe dunkelrot“ +2, Tag in 45 s Trump +2); 14 Tage ≈ +15 Abos, 0 verloren.
+- Traffic: ~93 % Shorts-Feed, Suche ~5 % → Hook + Retention entscheiden, nicht SEO.
+- Gewinner-Muster: bekannte Person + Konflikt/Machtfrage im ersten Wort (Merz, Trump, Emde, Aigner, Selenskyj).
