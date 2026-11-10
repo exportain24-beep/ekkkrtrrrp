@@ -1,0 +1,26 @@
+{
+  "format": "single",
+  "candidate_id": 13,
+  "pillar": "POLITIK",
+  "region": "EU",
+  "kicker": "BRÜSSEL",
+  "hook_screen": "MERZ DROHT EU!",
+  "hook_voice": "Merz droht der EU offen mit einer Blockade des Haushalts!",
+  "beats": [
+    {"voice": "Bundeskanzler Friedrich Merz verschärft den Ton gegenüber den europäischen Partnern – und stellt den EU-Haushalt infrage.", "big": "BLOCKADE", "label": "Merz droht beim EU-Haushalt"},
+    {"voice": "Milliarden fehlen: Bei der Finanzierung der Ukraine klafft eine Lücke in Milliardenhöhe.", "big": "MILLIARDEN", "label": "Lücke bei der Ukraine-Finanzierung"},
+    {"voice": "Alle EU-Staaten sollen nach dem Willen des Kanzlers mithelfen, diese Lücke zu schließen.", "big": "ALLE STAATEN", "label": "EU-Staaten sollen mitzahlen"},
+    {"voice": "Russland führt seit über vier Jahren Krieg gegen die Ukraine. Wer die Hilfe bezahlt, wird nun zur Machtfrage in Europa.", "big": "4+ JAHRE", "label": "Krieg Russlands gegen die Ukraine"}
+  ],
+  "loop_line": "Geben die EU-Partner jetzt nach – oder blockiert Merz wirklich den Haushalt?",
+  "headline": "Merz droht mit EU-Haushaltsblockade",
+  "highlight": ["Merz"],
+  "entities": ["Friedrich Merz", "Europäische Union", "Ukraine", "Brüssel"],
+  "youtube_title": "Merz droht EU mit Haushalts-Blockade: Zahlen jetzt alle?",
+  "description_lead": "Bundeskanzler Friedrich Merz droht mit einer Blockade des EU-Haushalts und fordert, dass sich alle EU-Staaten an der Ukraine-Hilfe beteiligen. Bei der Finanzierung der Ukraine fehlen Milliarden – Merz verschärft damit den Ton gegenüber den europäischen Partnern.",
+  "tags": ["Friedrich Merz", "Merz", "EU-Haushalt", "Europäische Union", "Ukraine", "Ukraine-Hilfe", "Brüssel", "Bundeskanzler", "Russland", "EU-Staaten", "Finanzierung", "Haushaltsblockade", "nachrichten", "nachrichten aktuell"],
+  "hashtags": ["#merz", "#eu", "#ukraine"],
+  "facebook_caption_line1": "Merz droht mit Blockade des EU-Haushalts – alle EU-Staaten sollen für die Ukraine zahlen",
+  "facebook_question": "Wie bewerten Sie die Drohung des Kanzlers gegenüber den EU-Partnern?",
+  "comment_question": "Richtig, dass Merz mit einer EU-Blockade droht – ja oder nein?"
+}
