@@ -620,8 +620,6 @@ class Renderer:
             self.ticker(fr, t)
         for s in tl.stories:
             self.wipe(fr, t, s.start)
-        if t >= tl.intro_end:
-            follow_cue(fr, t, tl.total)
         # seamless loop: the hook frame fades back in during the last 0.35 s
         if t > tl.total - 0.35 and t >= tl.intro_end:
             hook_fr = Image.new("RGBA", (W, H), C["bg"])
@@ -888,8 +886,6 @@ class SingleRenderer:
             self.data_card(fr, beat, t)
         self.caption(fr, beat, t)
         self.sources(fr)
-        if t >= tl.hook_end:
-            follow_cue(fr, t, tl.total)
         # seamless loop: the hook words fade back in during the last 0.35 s
         if t > tl.total - 0.35:
             self.hook(fr, 1.0, alpha=ease((t - (tl.total - 0.35)) / 0.35))

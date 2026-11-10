@@ -31,7 +31,7 @@ Output: `queue/<date>_<slot>/plan.json` (schema below). Then run
 Both platforms test each video on a small seed audience first and only widen reach if those viewers
 watch instead of swiping, watch to the end, and interact. Meta additionally ranks originality and asks viewers
 whether content matches their interests. So:
-1. **First 1–2 seconds decide everything (viewed vs. swiped away).** `hook_voice` (max 9 words) is spoken first:
+1. **First 1–2 seconds decide everything (viewed vs. swiped away).** `hook_voice` (max 8 words, spoken within ~1.5 s) is spoken first:
    the strongest keyword/number + why it matters, e.g. "Inflation sinkt auf zwei Komma acht Prozent – die Schlagzeilen."
    No greeting, no channel intro before the news.
 2. **Retention / completion:** every sentence must carry new information; no filler words; strongest story first,
@@ -46,10 +46,10 @@ whether content matches their interests. So:
 7. **Learn from data:** read `state/performance.md` (best videos first) before writing. Repeat what works (topics,
    hook types, title patterns of the top videos), avoid what underperforms – but never repeat a title.
 8. **Consistency:** the schedule in `config/settings.yaml` stays – never post extra videos.
-   Format mix since 8 Nov 2026 (growth sprint): 07:00 Morgen-Briefing and 20:45 "Der Tag in 45 Sekunden" (4 stories);
-   all other 10 slots FOKUS (1 story) – 12 Shorts per day.
+   Since 11 Nov 2026: **8 Shorts per day** – 07:00 Morgen-Briefing (4 stories) and 7 FOKUS slots (06:15, 10:00, 12:00,
+   14:30, 16:30, 18:30, 19:30). 12/day halved the reach per video (9–10 Nov); fewer, stronger, never repeated.
 
-## Growth rules (vidIQ sprint, owner 8 Nov 2026 – read `state/growth/brief.md` + `learnings.md` first)
+## Growth rules (vidIQ sprint, owner 8 Nov 2026 – read `state/growth/brief.md`, `learnings.md` and `docs/SHORTS_PLAYBOOK.md` first)
 Data: single-story Shorts get the most views/hour in DACH news (own FOKUS + competitors). So:
 1. Read `state/growth/brief.md` and `state/growth/learnings.md` before choosing stories. Among the equally popular stories,
    prefer what the brief marks as hot; apply the learnings (they come from our own retention data).
@@ -83,6 +83,20 @@ Data: single-story Shorts get the most views/hour in DACH news (own FOKUS + comp
    conflict story from DE/EU, not an economy niche topic.
 11. **Follow-ups only with a hard new fact and not on the same day:** Merz/Aigner follow-up 327 vs. original 1,035;
    Nvidia share follow-up 65 vs. original 681 the same day.
+
+12. **REPETITION KILLS REACH (11 Nov, hard rule, enforced by validate-plan):** on 9–10 Nov the same person/story ran 3–4 times
+   (Nvidia/Huang 4×, Trump 4×, Ukraine talks 3×) – the repeats got 3–40 views and the average per video fell from 773 to 134.
+   YouTube reads near-duplicate Shorts as repetitious content and stops seeding the channel. So: **one story / one main person
+   at most once per 24 h across all slots.** The validator blocks a plan whose lead story shares ≥ 2 key words with any video of
+   the last 24 h. Only a hard, sourced new fact may override it: set `"new_development": "<the new fact>"` (and it must be the
+   strongest story of the moment). When in doubt pick the next-hottest *different* story – the candidate list has 28.
+13. **First 1.5 seconds (VVSA 45 % viewed vs. 55 % swiped – benchmark ≥ 70 %):** `hook_voice` max 8 words; the first word is
+   the person/number; `hook_screen` / `hook_text` must be readable in one glance (2–4 words). No date, no "Eilblick", no greeting.
+14. **No subscribe CTA, no end card:** asking for subscriptions lowers end retention and does not raise subs on Shorts; the loop
+   back into the hook is the ending. (The "+ FOLGEN" overlay was removed on 11 Nov.)
+15. **Topic spread across the day:** the 8 videos should cover at least 5 different topics (e.g. Bundespolitik, Ukraine/Europa,
+   USA, Wirtschaft/Geld with a known person, Gesellschaft/Justiz, Sport only if it is the day's talk). Viewers who swipe
+   through our Shorts tab must see variety, not the same face.
 
 ## Thumbnail = first impression (the system renders it from your fields)
 - Story 1 must be the strongest story **with good photos** (it provides the thumbnail photo and the hook).
@@ -118,7 +132,7 @@ Re-read your draft as the final editor ("Schlussredakteur"):
 
 ## SEO rules (German audience, triple layer: voice · on-screen text · metadata)
 - The main keyword of story 1 must appear in: the first spoken words, `hook_text`, and the start of `youtube_title`.
-- `youtube_title`: 55–65 characters, `Entity: curious fact` pattern, max 1 emoji, no hashtags, unique every time.
+- `youtube_title`: **max 60 characters, the keyword within the first 40** (Shorts show ~40), `Entity: curious fact` pattern, max 1 emoji, no hashtags, unique every time.
   Examples: `VW-Krise eskaliert: Schließen jetzt 3 Werke in Deutschland? 🚨`, `Rentenpaket beschlossen: Was sich ab Januar ändert`.
 - `description_lead`: 2 sentences containing the key entities of all stories (people search for names).
 - `tags`: 12–15 – first the concrete names/institutions/places of the stories (e.g. "Friedrich Merz", "Bundestag",
@@ -160,9 +174,9 @@ Field limits: `kicker` ≤ 18 chars UPPERCASE place/area · `headline` ≤ 38 ch
 (shown in red) · `subline` ≤ 70 chars · `entities` used for extra free-licence photos.
 
 
-## FOKUS format (every slot with `format: single` in config/settings.yaml – since 8 Nov 2026: 06:15, 08:30, 10:00, 12:00, 13:15, 14:30, 16:30, 18:30, 19:30, 22:00)
+## FOKUS format (every slot with `format: single` in config/settings.yaml – since 11 Nov 2026: 06:15, 10:00, 12:00, 14:30, 16:30, 18:30, 19:30)
 The slot's format in candidates.json (`slot.format`) decides – it overrides any older wording in a task prompt.
-With 10 FOKUS slots a day (12 Shorts per day in total): every FOKUS must be a different story; check today's state/runs/*.json first.
+With 7 FOKUS slots a day (8 Shorts per day in total): every FOKUS must be a different story; check the last 24 h of state/runs/*.json first.
 **One video = one real story, 30–35 seconds.** No list of headlines, no "Die Schlagzeilen …", no intro,
 no logo outro – the last sentence flows straight back into the first second (loop).
 Pick the ONE most popular, most-discussed real story right now from candidates.json (highest score / most outlets / Google-Trends; `slot.focus` is only a tie-breaker – never force a topic) (verified by ≥2 outlets, only facts

@@ -41,8 +41,8 @@ def validate_single(plan: dict, n_candidates: int) -> list[str]:
     if not hs or len(hs) > 24:
         errs.append("hook_screen: 1–3 shocking words, max 24 chars (e.g. HEIZKOSTEN-SCHOCK!)")
     hv = plan.get("hook_voice", "")
-    if not hv or len(hv.split()) > 12:
-        errs.append("hook_voice: the shock itself, max 12 words")
+    if not hv or len(hv.split()) > 8:
+        errs.append("hook_voice: the shock itself, max 8 words (spoken within ~1.5 s)")
     beats = plan.get("beats") or []
     if not (3 <= len(beats) <= 4):
         errs.append("beats: 3–4 needed")
@@ -77,7 +77,10 @@ def validate_single(plan: dict, n_candidates: int) -> list[str]:
 
 def validate(plan: dict, n_candidates: int) -> list[str]:
     if is_single(plan):
-        return validate_single(plan, n_candidates)
+        errs = validate_single(plan, n_candidates)
+        if len(plan.get("youtube_title", "")) > 60:
+            errs.append("youtube_title too long: max 60 characters, keyword within the first 40 (Shorts truncate ~40)")
+        return errs + repeat_errors(plan)
     cfg = settings()["editorial"]
     wmin, wmax = cfg["words_per_story"]
     errs = []
@@ -115,18 +118,69 @@ def validate(plan: dict, n_candidates: int) -> list[str]:
     for f in REQUIRED:
         if not plan.get(f):
             errs.append(f"missing field: {f}")
-    if len(plan.get("youtube_title", "")) > 95:
-        errs.append("youtube_title too long (max ~65 recommended, hard 95)")
+    if len(plan.get("youtube_title", "")) > 60:
+        errs.append("youtube_title too long: max 60 characters, keyword within the first 40 (Shorts truncate ~40)")
     import re
     for f in ("facebook_caption_line1", "facebook_question"):
         if re.search(r"https?://|www\.|\b[\w-]+\.(de|com|net|org|at|ch)\b", plan.get(f, ""), re.I):
             errs.append(f"{f}: no website/link allowed in Facebook captions")
     hv = plan.get("hook_voice", "")
-    if hv and len(hv.split()) > 9:
-        errs.append("hook_voice: max 9 words (must be spoken within ~2 seconds)")
+    if hv and len(hv.split()) > 8:
+        errs.append("hook_voice: max 8 words (must be spoken within ~1.5 seconds)")
     if not (8 <= len(plan.get("tags", [])) <= 20):
         errs.append("tags: give 12–15")
     return errs
+
+
+# ---- growth 11 Nov 2026: repetition guard -------------------------------------------------
+# Data 9–10 Nov: when the same person/story ran several times within a day (Nvidia 4×, Trump 4×),
+# those repeats got 3–40 views and the whole channel's per-video reach halved. YouTube treats
+# near-duplicate Shorts as repetitious content. So: one story / main person at most once per 24 h.
+_STOP = set("""aber alle allen auch beim bereits damit dann dass dem den denn der des die dies diese dieser doch
+durch eine einem einen einer eines etwa gegen hier heute ihre jetzt kann keine mehr muss nach neue neuen noch
+nicht oder ohne schon sein seine sich sind soll sollen sowie über unter viel vom von vor wann warum was weil
+weiter wenn werden wieder will wird wurde zwei drei vier fünf ersten soll droht deutschland europa welt
+woche jahr jahre millionen milliarden prozent haben gibt macht gemacht erste erster reichen sagt sagen
+kommt zeigt fordert warnt plant""".split())
+
+
+def _tokens(text: str) -> set:
+    import re
+    out = set()
+    for w in re.findall(r"[A-Za-zÄÖÜäöüß][\wÄÖÜäöüß-]+", text or ""):
+        for part in [w] + w.split("-"):
+            p = part.lower().strip("-")
+            if len(p) >= 4 and p not in _STOP:
+                out.add(p)
+                if p.endswith("s") and len(p) > 5:
+                    out.add(p[:-1])   # genitive: Trumps → trump
+    return out
+
+
+def repeat_errors(plan: dict, hours: int = 24) -> list[str]:
+    """Error if the plan's (lead) story shares ≥2 key words with any video published in the last `hours`."""
+    if (plan.get("new_development") or "").strip():
+        return []   # explicitly declared hard new fact (must be named in the plan)
+    from datetime import datetime, timedelta, timezone
+    from . import state
+    if is_single(plan):
+        mine = " ".join([plan.get("youtube_title", ""), plan.get("headline", ""), plan.get("hook_screen", "")])
+    else:
+        st = (plan.get("stories") or [{}])[0]
+        mine = " ".join([plan.get("youtube_title", ""), st.get("headline", "")])
+    mt = _tokens(mine)
+    cutoff = (datetime.now(timezone.utc) - timedelta(hours=hours)).isoformat()
+    errs = []
+    for r in state.load()["runs"]:
+        if r.get("created", "") < cutoff or r.get("title", "") == plan.get("youtube_title", ""):
+            continue
+        theirs = " ".join([r.get("title", "")] + [x.get("headline", "") for x in (r.get("stories") or [])[:1]])
+        common = mt & _tokens(theirs)
+        if len(common) >= 2:
+            errs.append(f"repeat: shares {sorted(common)} with '{r.get('title', '')}' ({r.get('date')} {r.get('slot')}) "
+                        f"– pick a different story (max once per 24 h) or, only for a hard new fact, set "
+                        f"\"new_development\" to that fact")
+    return errs[:2]
 
 
 def load_plan(path: Path) -> dict:

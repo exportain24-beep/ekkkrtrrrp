@@ -73,3 +73,17 @@ Claude ist alleiniger Entscheider für Wachstum: Content-Strategie, Formate, Lä
 - Wöchentlich (Review C): darf Format, Fokus, Länge und **Uhrzeit** jedes Slots ändern und verschiebt dann die passende News-Desk-Aufgabe mit.
 - Unverhandelbar (Schutz vor Strikes/Demonetarisierung): verifizierte Fakten (≥2 Quellen), keine irreführenden Titel/Thumbnails,
   keine Hetze/Gerüchte/Gewaltbilder, keine Herkunfts-Zuspitzung, neutrale Politik, KI-Kennzeichnung bleibt an.
+
+## Diagnose 11. Nov 2026: Reichweiten-Einbruch nach 12 Shorts/Tag
+| Tag | Videos | Ø Views | Videos < 50 Views |
+|---|---|---|---|
+| 7. Nov | 7 | 666 | 0 |
+| 8. Nov | 10 | 773 | 0 |
+| 9. Nov | 12 | 387 | 4 |
+| 10. Nov | 9 (Stand 18 UTC) | 134 | 5 |
+Ursachen: (1) dieselben Personen/Themen mehrfach am Tag (Nvidia 4×, Trump 4×, Ukraine-Gespräche 3×, Tagesrückblick
+wiederholt den Tag) → Wiederholungen bekamen 3–40 Views; (2) 12/Tag verteilt die Testbudgets auf zu viele schwache Shorts;
+(3) Abo-Overlay ab 9. Nov (CTA = Anti-Pattern). VVSA nur 45 % (Ziel ≥ 70 %).
+Maßnahmen (11. Nov): 8 Shorts/Tag (06:15, 07:00, 10:00, 12:00, 14:30, 16:30, 18:30, 19:30), Wiederholungssperre im
+Validator (≥ 2 gemeinsame Schlüsselwörter mit einem Video der letzten 24 h = blockiert), Hook ≤ 8 Wörter, Titel ≤ 60 Zeichen,
+Abo-Overlay entfernt, Tagesrückblick gestrichen. Playbook: docs/SHORTS_PLAYBOOK.md.

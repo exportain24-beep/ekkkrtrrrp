@@ -15,6 +15,8 @@ channel:
 # Each run starts ~80 min before the slot, builds the Short, and uploads it
 # as *scheduled* so it goes live exactly on time (GitHub cron delays don't matter).
 slots:
+  # growth 11 Nov 2026: 8 Shorts/day (12/day halved reach per video and produced 3–40-view repeats on 9–10 Nov).
+  # Removed: fokus-geld 08:30, fokus-pause 13:15, nacht 20:45 (recap = repetition), fokus-top 22:00 – weakest slots.
   - id: morgen
     time: "07:00"
     badge: "MORGEN-BRIEFING"
@@ -36,13 +38,6 @@ slots:
     focus: "Nur Tie-Breaker – immer zuerst die populärsten, meistberichteten Nachrichten. Bei Gleichstand bevorzugt: Die eine meistdiskutierte Nachricht des Nachmittags – bevorzugt Innenpolitik, neue Gesetze, Alltag in Deutschland, Österreich, Schweiz."
     pillars: [POLITIK, WIRTSCHAFT, WELT, TECHNOLOGIE]
     notify_subscribers: true
-  - id: nacht
-    time: "20:45"
-    badge: "DER TAG IN 45 SEKUNDEN"
-    label: "am späten Abend"
-    focus: "Tagesrückblick „Der Tag in 45 Sekunden“: die 4 größten Nachrichten des Tages, die meistberichtete zuerst. Nur Tie-Breaker – Popularität entscheidet. Bei Gleichstand bevorzugt: Geopolitik, europäische Sicherheit, NATO, EU, Welthandel und Zölle – mit Bezug zu Deutschland."
-    pillars: [WELT, POLITIK, WIRTSCHAFT, TECHNOLOGIE]
-    notify_subscribers: false   # YouTube sends max ~3 notifications/day → slot 4 stays silent
 
   # ---- 2 more regular headline editions (owner, 7 Nov 2026)
   - id: vormittag
@@ -62,23 +57,11 @@ slots:
 
   # ---- FOKUS format (owner, 6 Nov 2026): 1 video = 1 real story, 30–35 s, shock hook in the
   #      first second, no intro/outro, ends straight into a loop. Prime-time slots.
-  - id: fokus-geld
-    format: single
-    time: "08:30"
-    label: "Fokus Geld"
-    focus: "Nur Tie-Breaker – immer zuerst die populärsten, meistberichteten Nachrichten. Bei Gleichstand bevorzugt: Der eine Wirtschafts- oder Geld-Aufreger des Tages mit direkter Wirkung auf den Geldbeutel der Menschen in Deutschland, Österreich oder der Schweiz (Preise, Heizkosten, Steuern, Löhne, Rente, Mieten, Inflation, Jobs)."
-    notify_subscribers: false
   - id: fokus-politik
     format: single
     time: "18:30"
     label: "Fokus Politik"
     focus: "Nur Tie-Breaker – immer zuerst die populärsten, meistberichteten Nachrichten. Bei Gleichstand bevorzugt: Die eine große politische oder sicherheitspolitische Enthüllung bzw. Eilmeldung des Tages aus Berlin, Wien, Bern oder Brüssel (Regierung, Kanzleramt, Hackerangriffe, Spionage, große Entscheidungen, Skandale)."
-    notify_subscribers: false
-  - id: fokus-top
-    format: single
-    time: "22:00"
-    label: "Fokus des Tages"
-    focus: "Nur Tie-Breaker – immer zuerst die populärsten, meistberichteten Nachrichten. Bei Gleichstand bevorzugt: Die meistdiskutierte, überraschendste Meldung des Tages im DACH-Raum (jedes Ressort außer Sport-Ergebnissen und Promi-Klatsch), die für die Menschen hier spürbare Folgen hat."
     notify_subscribers: false
 
   # ---- 3 more FOKUS slots (owner, 8 Nov 2026: 12 Shorts per day) – chosen for DACH Shorts peaks:
@@ -88,12 +71,6 @@ slots:
     time: "06:15"
     label: "Fokus am Morgen"
     focus: "Nur Tie-Breaker – immer zuerst die populärsten, meistberichteten Nachrichten. Bei Gleichstand bevorzugt: Die wichtigste Eilmeldung der Nacht, die die Menschen in Deutschland, Österreich und der Schweiz heute betrifft."
-    notify_subscribers: false
-  - id: fokus-pause
-    format: single
-    time: "13:15"
-    label: "Fokus Mittagspause"
-    focus: "Nur Tie-Breaker – immer zuerst die populärsten, meistberichteten Nachrichten. Bei Gleichstand bevorzugt: Die Nachricht, über die in der Mittagspause gesprochen wird – Alltag, Verbraucher, Verkehr, Gesundheit, Sicherheit."
     notify_subscribers: false
   - id: fokus-prime
     format: single
@@ -191,14 +168,14 @@ seo:
                      "Wirtschaft aktuell", "Börse DAX", "Weltnachrichten", "Österreich Nachrichten", "Schweiz Nachrichten",
                      "Kurznachrichten", "News Shorts", "Tagesnachrichten", "DACH"]
   channel_description: >-
-    Eilblick – Kompakt. Direkt. Auf den Punkt. Zwölfmal täglich die wichtigsten Nachrichten aus Deutschland,
+    Eilblick – Kompakt. Direkt. Auf den Punkt. Achtmal täglich die wichtigsten Nachrichten aus Deutschland,
     Österreich, der Schweiz und Europa – meist eine Meldung pro Short, in unter einer Minute: Politik, Wirtschaft, Welt und Technologie.
     Jede Meldung beruht auf Berichten von mindestens zwei etablierten Medien wie tagesschau, ZDFheute,
     Deutschlandfunk, ORF oder SRF – mit Quellen und Bildnachweisen in jeder Beschreibung.
-    Morgen-Briefing um 7:00, „Der Tag in 45 Sekunden“ um 20:45 – dazwischen jede wichtige Meldung im FOKUS. Abonnieren und nichts verpassen.
+    Morgen-Briefing um 7:00, danach jede wichtige Meldung im FOKUS – bis 19:30 Uhr. Abonnieren und nichts verpassen.
     Alle Hintergründe auf eilblick.de. Hinweis: Die Sprecherstimme ist KI-generiert.
   playlists:
-    ALLE: {title: "Eilblick – Nachrichten heute in unter 50 Sekunden", description: "Alle Eilblick-Shorts: zwölfmal täglich die wichtigsten Nachrichten aus Deutschland, Österreich, der Schweiz und der Welt."}
+    ALLE: {title: "Eilblick – Nachrichten heute in unter 50 Sekunden", description: "Alle Eilblick-Shorts: achtmal täglich die wichtigsten Nachrichten aus Deutschland, Österreich, der Schweiz und der Welt."}
     POLITIK: {title: "Politik aktuell – Bundestag, Regierung & neue Gesetze", description: "Politische Nachrichten aus Deutschland, Österreich, der Schweiz und der EU – kompakt erklärt."}
     WIRTSCHAFT: {title: "Wirtschaft & Börse aktuell – DAX, Inflation, Energiepreise", description: "Wirtschaftsnachrichten: DAX, EZB, Inflation, Autoindustrie und Energiepreise – kompakt in Kurzform."}
     WELT: {title: "Weltnachrichten – NATO, EU & Geopolitik", description: "Internationale Nachrichten mit Bedeutung für Deutschland und Europa: NATO, EU, Welthandel und Zölle."}
