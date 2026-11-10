@@ -1,40 +1,41 @@
-# Growth-Brief – Di 10. Nov 2026, 05:41 Berlin (vidIQ, 35 Credits, Rest 5.720)
+# Growth-Brief – Di 10. Nov 2026, 13:41 Berlin (vidIQ, 30 Credits, Rest 5.690)
 
 ## Eilblick
-- **17 Abos (+1 seit 9. Nov 13:41) · 26.997 Views (+4.853) · 50 Videos (+8).** Seit 3. Nov: +9 Abos, +15.189 Views.
-- 9. Nov (VPH, öffentliche Zähler): **Kushner: Europa soll mit Moskau verhandeln 73,8 (738)** · Trump: Ukraine „andere Form“ 48,8 (732) ·
-  Huang gesteht Affäre 32,3 (744) · Krakau-Todesschütze 24,8 (472) · Aigner 22,0 (483) · Nvidia-Aktie 18 (234).
-- Schwach: Tag in 45 Sek. (19:45) **0 Views nach ~9 h** · Trump Wahlmaschinen (21:00) 8 · Orbán-Bruder 19 · Vodafone 29 · Plastiksteuer 257.
-- Lektion: Ukraine/Europa + Trump trägt wieder (Top 2), Wirtschaft ohne Promi bleibt unten. Tag-in-45-s mit 0 Views ist ein Ausreißer
-  (8. Nov: 1.073) → Upload/Sichtbarkeit prüfen. 21:00 erneut schwächster Slot.
+- **17 Abos (±0 seit 05:41) · 29.381 Views (+2.384) · 54 Videos (+4).** Seit 3. Nov: +9 Abos, +17.573 Views.
+- Heute (VPH): **Merz droht EU mit Haushalts-Blockade 72,4 (362, 07:30)** · Schlesinger vor Gericht 40,7 (122) · Hegseth 8,9 (62) ·
+  FBI/Nvidia-Affäre 3,7 (22) · **Milliardärssteuer gekippt 0 Views nach ~1,7 h** · Nmecha 7 (frisch).
+- Gestern stark: Trump „andere Form“ 834 · Kushner 797 · Huang-Affäre 774. Schwach: Tag in 45 Sek. 9. Nov **1 View**, Wahlmaschinen 17, Orbán-Bruder 23.
+- Lektion: Merz + EU-Konflikt holt im 07:30-Slot (bisher schwächster) den besten VPH des Tages → Person + Machtkonflikt schlägt den Slot.
+  Zweites Video mit 0–1 View (Tag in 45 Sek. + Milliardärssteuer) → Sichtbarkeit/Upload-Status im Studio prüfen lassen.
+  Nvidia-Folge 3 (FBI) 3,7 VPH bestätigt: Folgen ohne neue Person/Wende ziehen nicht.
 
 ## Heißeste DACH-Themen in Shorts (seit 9. Nov)
-1. **Lisa (13) aus Berlin tot aufgefunden** – ZDFheute 86,8K, 3K VPH · BZ 28,1K, 1,5K VPH, 9,1x · ZEIT 22,2K, 662 VPH (Tatverdächtiger schwer verletzt).
-   → Nur Polizei-/Staatsanwaltschaftsangaben, keine Opfer-Details, keine Spekulation.
-2. **Krakau-Anschlag** – eineminutenachrichten „Ein Angeschossener Polizist schaltete den Attentäter aus!“ 318,9K, 8,9K VPH, 22x ·
-   OE24 „Vor Anschlag brachte Krakau-Schütze seine Familie um“ 49,7K, 3,2K VPH, 18x · Stuttgarter Zeitung 155,5K, 13x.
-3. **Füllkrug bricht ZDF-Interview ab** – ZDFheute „„Nee danke, ciao“…“ 516K, **15,1K VPH, 15x** (einziger Breakout der Konkurrenzliste).
-4. **Bundestag/Merz vs. AfD** – AfD-Fraktion Maack-Rede 401K, 37,4K VPH · Finanzfuchs „Merz wird aus dem Bundestag geworfen“ 185,7K, 10,6K VPH
-   (Parteikanal/Meinung – nur nachprüfbare Fakten, neutral, beide Seiten).
-5. **Flagge vor dem Reichstag heruntergerissen** – eineminutenachrichten 63,1K, 4,1K VPH + 20,1K, 1,4K VPH · Dynamike 14K, 1,1K VPH.
-   → Nur Tat + Polizeireaktion, keine Herkunfts-/Gruppen-Zuspitzung.
-6. **Geld der Generationen / Rente** – „Warum hatten unsere Eltern gespartes Geld und wir nicht?“ 119,3K, 6,9K VPH (Kanal 1,6K Abos) ·
-   Krall zur Rente 49,9K, 3,2K VPH. „Ab 01.1.2027“ (OOPS) 377K, 18,3K VPH – Stichtags-Änderungen ziehen.
-7. **Trump nach Midterms** – Stuttgarter Zeitung „Trump rückt rechten Hardliner ins Zentrum…“ 44,2K, 1,2K VPH · newstime Ukraine-Abkommen 807 VPH.
-8. **Aiwanger-Tod** weiter: ZEIT Söder-Zitat 221,7K, 18x · AUF1 114,2K, 7,8x → keine Umstands-Spekulation.
-- Weitere: Gen-Z-Stuttgart „Das ist unsere Stadt!“ 4,1K VPH · NATO vs. Russland 1,1K VPH · Tagesrückblick „Nachrichten 3. November: …“ 14x.
+1. **Fall Lisa (13), Berlin** – ntv „„Reiner Zufall“: Wie die Polizei die getötete Lisa fand“ 301,8K, **12,2K VPH, 17x** ·
+   installODD 157,9K, 4,4K VPH, 18x · BZ 29,9K, 6,3x · ZEIT 23,9K, 6,5x. → Nur Behördenangaben, keine Opfer-Details/Spekulation.
+2. **Füllkrug bricht ZDF-Interview ab** – ZDFheute 599,8K, **16,6K VPH, 25x** (einziger Breakout der Konkurrenzliste).
+3. **Bundestag: AfD vs. Linke/Merz** – AfD-Fraktion Maack-Rede 668,1K, 36,2K VPH · Finanzfuchs „Merz wird aus dem Bundestag geworfen“ 267,3K, 10,5K VPH ·
+   KPolitik „Esken fordert Parteiverbot … Chrupalla“ 33,8K, 2K VPH (1,5K Abos). Parteikanäle/Meinung → nur Fakten, beide Seiten.
+4. **Krakau-Anschlag** – eineminutenachrichten „Ein Angeschossener Polizist schaltete den Attentäter aus!“ 321,7K, 8,9K VPH, 22x ·
+   OE24 50,3K, 18x · Stuttgarter Zeitung „Justiz spricht von Terror“ 156,2K, 13x.
+5. **Stichtag 2027 / Rente / Geld** – OOPS „Ab 01.1.2027“ 397,7K, 15,5K VPH · „Warum hatten unsere Eltern gespartes Geld und wir nicht?“ 144,5K, 5,7K VPH ·
+   Krall „„Kinder kriegen die Leute immer“: Krall zur Rente“ 114,6K, 4,4K VPH.
+6. **Flagge vor dem Reichstag heruntergerissen** – eineminutenachrichten 70,5K, 3K VPH + 21,1K, 1K VPH · Dynamike 15,5K. → Nur Tat + Polizei, keine Gruppen-Zuspitzung.
+7. **Aigner als Bundespräsidentin** – ZDFheute „Wer ist Ilse Aigner?“ 29,5K, 1,5K VPH (wir: 546 + 1.057 – Thema trägt).
+8. **Trump/USA** – newstime „Es wird ein großes Abkommen sein“ 807 VPH · Stuttgarter Zeitung Hardliner 46K, 2,7x.
+- Weitere: Merz-Kritik „Die fünf größten Lügen von Friedrich Merz“ 76,7K, 4,2K VPH (Meinung) · Gen-Z-Stuttgart 3,9K VPH · NATO vs. Russland 1,5K VPH ·
+  Unglücke: Hubschrauber Everest 38x, Kleinflugzeug A2 14x, Salpetersäure Krefeld 159K · BMW-Gewinn −⅓ (NIUS 23,2K).
 
 ## Gewinner-Titelmuster (echte Titel)
-- „„Nee danke, ciao“: Füllkrug bricht ZDF-Interview ab“ – O-Ton-Zitat vorn + Name + Handlung.
-- „Vermisste Berliner Schülerin Lisa ist tot“ – Status-Wende in einem Satz, ≤ 45 Zeichen.
-- „Warum hatten unsere Eltern gespartes Geld und wir nicht?“ – Alltags-Frage mit „wir“, Generationen-Vergleich.
-- Muster: Zitat oder Name zuerst, eine harte Wende/Zahl, kein Hintergrund im Titel. Hashtag #aktuellenachrichten bei eineminutenachrichten.
+- „„Nee danke, ciao“: Füllkrug bricht ZDF-Interview ab“ – O-Ton vorn + Name + Handlung.
+- „„Reiner Zufall“: Wie die Polizei die getötete Lisa fand“ – Zitat + Wie-Frage = Neugier ohne Spekulation.
+- „„Kinder kriegen die Leute immer“: Krall zur Rente“ – Zitat + Name + Alltagsthema.
+- Muster heute: **3 von 3 Top-Titeln beginnen mit einem Zitat in „…“**. Kurz (≤ 50 Zeichen), Name direkt nach dem Zitat.
 
-## Keywords (YouTube-Suchvolumen DE, heute)
-nachrichten 57.750 · nachrichten aktuell 28.837 (+2.651 ggü. 9. Nov) · welt nachrichten 2.885
-Tags der Top-Videos (ohne Volumen): Bundestag, AfD, CDU, Friedrich Merz, Aktuelle Nachrichten, Eilmeldung, Rente
+## Keywords (YouTube-Suchvolumen DE, Stand 05:41 – Mittagslauf ohne Keyword-Abruf)
+nachrichten 57.750 · nachrichten aktuell 28.837 · welt nachrichten 2.885
+Tags der Top-Videos: Bundestag, AfD, CDU, Friedrich Merz, Aktuelle Nachrichten, Eilmeldung, Rente, Aigner
 
-## Heute konkret
-- Morgens: Lisa-Fall (nur Behörden) oder Krakau-Folge mit neuem Ermittlungsfakt; Ukraine-Gespräche (Di-Start) als FOKUS.
-- Füllkrug-Interview als leichter Feed-Treffer (Zitat im Titel). Rente/Generationen-Geld nur mit konkretem Anlass oder Stichtag 2027.
-- Keine Herkunfts-Zuspitzung, keine Gerüchte, keine Gewaltbilder; Politik neutral (Zitate beider Seiten).
+## Nachmittag/Abend konkret
+- Zitat-Titel testen (echtes O-Ton-Zitat vorn). Füllkrug als leichter Feed-Treffer; Merz/EU-Haushalt weiterdrehen nur mit neuer Reaktion.
+- Rente/Geld nur mit Stichtag (2027) oder bekannter Person. Lisa/Krakau nur mit neuem Behördenfakt.
+- Keine Herkunfts-Zuspitzung, keine Gerüchte, keine Gewaltbilder; Politik neutral (beide Seiten).
