@@ -19,3 +19,4 @@
 - Slots: 07:30 (400/328/242) und 21:00 (258/423/450) am schwächsten; 06:00, 09:00, 18:30 > 1.000 → Growth rules 9–11 ergänzt.
 - Retention-Kurven: 5 Abrufe leer (Zeitraum 8.–9. Nov, Analytics-Verzug ~2 Tage) – nächstes Mal Videos ≥ 3 Tage alt, startDate = Upload-Tag.
 - Frühe VPH 9. Nov: Trump „andere Form“ 53 · Kushner 40 · Huang 40 · Krakau 34 · Orbán-Bruder 0,25 · Vodafone 2,3.
+- 2026-11-10 05:41 Brief: Credits 5.720 · Abos 17 · Views 26.997 · Videos 50 · Top: Füllkrug-ZDF-Abbruch 15,1K VPH (15x), Krakau 8,9K VPH, Lisa (13) tot 3K VPH
