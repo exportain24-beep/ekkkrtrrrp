@@ -1,0 +1,26 @@
+{
+  "format": "single",
+  "candidate_id": 3,
+  "pillar": "WELT",
+  "region": "DE",
+  "kicker": "BORUSSIA DORTMUND",
+  "hook_screen": "JUBEL-ZOFF BEIM BVB!",
+  "hook_voice": "Felix Nmecha verteidigt seinen Torjubel, jetzt will der DFB mit ihm reden!",
+  "beats": [
+    {"voice": "Eine imaginäre Krone im Gras: Diese Geste wird dem evangelikalen Netzwerk „Ballers in God“ zugerechnet.", "big": "KRONE", "label": "Nmechas Geste nach seinen Toren"},
+    {"voice": "Dem Netzwerk werden queerfeindliche Inhalte vorgeworfen. Die Fanabteilung von Borussia Dortmund kritisiert den Jubel scharf.", "big": "BVB-FANS", "label": "Fanabteilung kritisiert den Jubel"},
+    {"voice": "Der Nationalspieler spricht von „einigen Missverständnissen“ und distanziert sich von Diskriminierung.", "big": "NMECHA", "label": "„Einige Missverständnisse“"},
+    {"voice": "Ausgestanden ist es nicht: Der BVB kündigt Gespräche an, ebenso DFB-Sportchef Rudi Völler. Auch Jürgen Klopp sprach bereits mit ihm.", "big": "VÖLLER", "label": "DFB kündigt Gespräch an"}
+  ],
+  "loop_line": "Die große Frage bleibt: Muss Felix Nmecha seinen Kronen-Jubel jetzt aufgeben?",
+  "headline": "Nmecha verteidigt umstrittenen Torjubel",
+  "highlight": ["Nmecha"],
+  "entities": ["Felix Nmecha", "Borussia Dortmund", "Rudi Völler", "Jürgen Klopp", "DFB"],
+  "youtube_title": "Nmechas Kronen-Jubel: Muss der BVB-Star jetzt damit aufhören?",
+  "description_lead": "BVB-Profi und Nationalspieler Felix Nmecha verteidigt seinen umstrittenen Torjubel, der dem evangelikalen Netzwerk „Ballers in God“ zugerechnet wird – er spricht von Missverständnissen. Borussia Dortmund und DFB-Sportchef Rudi Völler kündigen Gespräche an, auch Jürgen Klopp hat mit ihm gesprochen.",
+  "tags": ["Felix Nmecha", "Nmecha", "Borussia Dortmund", "BVB", "Rudi Völler", "Jürgen Klopp", "DFB", "Ballers in God", "Nmecha Torjubel", "Torjubel", "Bundesliga", "Nationalmannschaft", "Fußball", "nachrichten", "nachrichten aktuell"],
+  "hashtags": ["#nmecha", "#bvb", "#bundesliga"],
+  "facebook_caption_line1": "Ärger um Torjubel: BVB-Star Felix Nmecha spricht von Missverständnissen",
+  "facebook_question": "Wie sollten Vereine mit religiösen Gesten ihrer Spieler umgehen?",
+  "comment_question": "Sollte Nmecha auf seinen Kronen-Jubel verzichten – ja oder nein?"
+}
