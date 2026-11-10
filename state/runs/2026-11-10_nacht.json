@@ -1,0 +1,40 @@
+{
+ "date": "2026-11-10",
+ "slot": "nacht",
+ "publish_at": "2026-11-10T19:45:00+00:00",
+ "title": "Der Tag in 45 Sekunden: Erste Einigung bei Ukraine-Gesprächen?",
+ "duration": 47.2,
+ "stories": [
+  {
+   "headline": "Ukraine-Gespräche: Erste Einigung?",
+   "region": "EU",
+   "pillar": "WELT"
+  },
+  {
+   "headline": "Steuerklassen III und V vor dem Aus",
+   "region": "DE",
+   "pillar": "WIRTSCHAFT"
+  },
+  {
+   "headline": "Nvidia-Affäre: Jetzt warnt Deutschland",
+   "region": "INT",
+   "pillar": "TECHNOLOGIE"
+  },
+  {
+   "headline": "Aigner sagt der AfD ab",
+   "region": "DE",
+   "pillar": "POLITIK"
+  }
+ ],
+ "comment": {
+  "text": "Bringen die Gespräche in Abu Dhabi den Frieden näher – ja oder nein?",
+  "done": false
+ },
+ "youtube_id": "Fb4hGpvbY9A",
+ "facebook_id": "3534019633443597",
+ "buffer": {
+  "twitter": "6af35f48341cea4af6281584",
+  "tiktok": "6af35f4994964d984f0b0827"
+ },
+ "created": "2026-11-10T18:15:37.710587+00:00"
+}
