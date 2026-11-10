@@ -1,0 +1,2029 @@
+{
+ "slot": {
+  "id": "nacht",
+  "time": "20:45",
+  "badge": "DER TAG IN 45 SEKUNDEN",
+  "label": "am späten Abend",
+  "focus": "Tagesrückblick „Der Tag in 45 Sekunden“: die 4 größten Nachrichten des Tages, die meistberichtete zuerst. Nur Tie-Breaker – Popularität entscheidet. Bei Gleichstand bevorzugt: Geopolitik, europäische Sicherheit, NATO, EU, Welthandel und Zölle – mit Bezug zu Deutschland.",
+  "pillars": [
+   "WELT",
+   "POLITIK",
+   "WIRTSCHAFT",
+   "TECHNOLOGIE"
+  ],
+  "notify_subscribers": false
+ },
+ "slot_time": "2026-11-10T20:45:00+01:00",
+ "date_text": "Dienstag, 10. November 2026",
+ "already_published": [
+  "Trump droht den Demokraten",
+  "Emde will Mandat behalten",
+  "Ukraine-Gespräche: Europa dabei",
+  "Aigner: Union ist sich einig",
+  "Neuer fällt mit Sehnenteilriss aus",
+  "Nvidia-Chef unter Spionageverdacht",
+  "Merz legt sich auf Aigner fest",
+  "Hubig zerpflückt Spritpreisdeckel",
+  "Ukraine-Truppe startet erste Übung",
+  "Trump: Iran-Angriffe unwahrscheinlich",
+  "Koalition streitet über Plastiksteuer",
+  "Todesschütze von Krakau ist tot",
+  "Trump: Abschiebekurs war „zu hart“",
+  "Vodafone streicht 2.300 Stellen",
+  "Trump: „Andere Form“ für die Ukraine",
+  "Nvidia-Aktie bricht nach Affäre ein",
+  "Orbán-Bruder festgenommen",
+  "Kushner: Europa soll mit Moskau reden",
+  "Nvidia-Chef gesteht Affäre",
+  "Paris: Iran hinter Kühltruhen-Hack",
+  "Vodafone: Jeder fünfte Job fällt weg",
+  "Abu Dhabi: Kreml blockt die EU ab",
+  "Trump zweifelt an Midterm-Ergebnis",
+  "Amtsenthebung gegen Hegseth beantragt",
+  "FBI ermittelt in Nvidia-Affäre",
+  "Bund kauft Panzerbauer-Anteil",
+  "Preisdeckel für Ticketbörsen",
+  "Aigner offiziell nominiert",
+  "Merz droht mit EU-Haushaltsblockade",
+  "Schlesinger-Prozess beginnt in Berlin",
+  "Kalifornien kippt Milliardärssteuer",
+  "Nmecha verteidigt umstrittenen Torjubel",
+  "Lebenslang im Fall Fabian",
+  "Ukraine-Gespräche ohne Europa?",
+  "Klingbeil will Steuerklasse III kippen",
+  "Iran unter Verdacht: Kühlregal-Hacks"
+ ],
+ "candidates": [
+  {
+   "id": 0,
+   "score": 22.08,
+   "outlets": [
+    "tagesschau",
+    "ZDFheute",
+    "Deutsche Welle",
+    "Deutschlandfunk",
+    "SRF News",
+    "Handelsblatt",
+    "WirtschaftsWoche",
+    "heise online",
+    "DER STANDARD",
+    "Golem"
+   ],
+   "regions": [
+    "AT",
+    "CH",
+    "DE",
+    "INT"
+   ],
+   "trend": [],
+   "newest": "2026-11-10T18:05:59+00:00",
+   "articles": [
+    {
+     "source": "tagesschau",
+     "region": "DE",
+     "weight": 1.0,
+     "title": "Affäre von Nvidia-Chef Huang: Darum geht es beim Spionage-Verdacht",
+     "summary": "Der US-Chipkonzern Nvidia ermittelt gegen seinen Chef Jensen Huang wegen einer Affäre mit einer mutmaßlichen chinesischen Spionin. Welche Vorwürfe konkret im Raum stehen - und welche Folgen sie haben könnten.",
+     "link": "https://www.tagesschau.de/wirtschaft/unternehmen/faq-nvidia-spionage-100.html",
+     "image": "https://images.tagesschau.de/image/9d4d98a9-ed98-4d6a-9f9c-bd1d9782eb0d/AAABocCr9uU/AAABnSSvrFg/16x9-big/nvidia-logo-102.jpg?width=1920",
+     "aggregator": false,
+     "published": "2026-11-09T13:58:03+00:00"
+    },
+    {
+     "source": "tagesschau Wirtschaft",
+     "region": "DE",
+     "weight": 1.0,
+     "title": "Affäre von Nvidia-Chef Huang: Darum geht es beim Spionage-Verdacht",
+     "summary": "Der US-Chipkonzern Nvidia ermittelt gegen seinen Chef Jensen Huang wegen einer Affäre mit einer mutmaßlichen chinesischen Spionin. Welche Vorwürfe konkret im Raum stehen - und welche Folgen sie haben könnten.",
+     "link": "https://www.tagesschau.de/wirtschaft/unternehmen/faq-nvidia-spionage-100.html",
+     "image": "https://images.tagesschau.de/image/9d4d98a9-ed98-4d6a-9f9c-bd1d9782eb0d/AAABocCr9uU/AAABnSSvrFg/16x9-big/nvidia-logo-102.jpg?width=1920",
+     "aggregator": false,
+     "published": "2026-11-09T13:58:03+00:00"
+    },
+    {
+     "source": "tagesschau Wirtschaft",
+     "region": "DE",
+     "weight": 1.0,
+     "title": "Untersuchung gegen Nvidia-Chef Huang wegen möglicher Spionin aus China",
+     "summary": "Der KI-Chip-Gigant Nvidia hat nach Berichten über einen Spionageverdacht eine Untersuchung gegen seinen Gründer und Konzernchef Jensen Huang eingeleitet. Er soll eine Affäre mit einer mutmaßlichen chinesischen Spionin gehabt haben.",
+     "link": "https://www.tagesschau.de/wirtschaft/unternehmen/nvidia-spionage-pruefung-100.html",
+     "image": "https://images.tagesschau.de/image/34f93b54-ef67-4531-97e6-4a40dc5724cc/AAABob68p7E/AAABnSSvrFg/16x9-big/nvidia-184.jpg?width=1920",
+     "aggregator": false,
+     "published": "2026-11-09T03:32:51+00:00"
+    },
+    {
+     "source": "ZDFheute",
+     "region": "DE",
+     "weight": 1.0,
+     "title": "Affäre von Nvidia-Chef: FBI ermittelt",
+     "summary": "Wegen der Affäre von Nvidia-Chef Jensen Huang mit einer möglichen chinesischen Spionin ermittelt laut US-Präsident Donald Trump nun auch das FBI.",
+     "link": "https://www.zdfheute.de/video/wirtschaft-nvidia-fbi-100.html",
+     "image": "https://www.zdfheute.de/assets/huang-archiv-100~384x216?cb=1794316422266",
+     "aggregator": false,
+     "published": "2026-11-10T15:45:00+00:00"
+    },
+    {
+     "source": "ZDFheute",
+     "region": "DE",
+     "weight": 1.0,
+     "title": "Nvidia-Chef Huang räumt Affäre mit mutmaßlicher Spionin ein",
+     "summary": "Nvidia-Chef Huang soll laut Berichten ins Visier einer mutmaßlichen Spionin geraten sein. Huang gestand, eine Affäre mit ihr gehabt zu haben: \"Ich war meiner Frau untreu.\"",
+     "link": "https://www.zdfheute.de/wirtschaft/unternehmen/huang-nvidia-chef-spionage-china-100.html",
+     "image": "https://www.zdfheute.de/assets/jensen-huang-102~384x216?cb=1794170112757",
+     "aggregator": false,
+     "published": "2026-11-08T21:07:00+00:00"
+    },
+    {
+     "source": "Deutsche Welle",
+     "region": "INT",
+     "weight": 0.95,
+     "title": "Die Affäre des Nvidia-Chefs und die Folgen",
+     "summary": "Nvidia-Chef Jensen Huang hat sich für eine Affäre mit einer Frau entschuldigt, die nach Einschätzung der USA für China spioniert hat. Wie weitreichend sind die Folgen für das wertvollste Unternehmen der Welt?",
+     "link": "https://www.dw.com/de/die-affäre-des-nvidia-chefs-und-die-folgen/a-79900932?maca=de-rss-de-all-1119-xml-mrss",
+     "image": "https://static.dw.com/image/75070893_302.jpg",
+     "aggregator": false,
+     "published": "2026-11-09T16:24:00+00:00"
+    },
+    {
+     "source": "Deutsche Welle",
+     "region": "INT",
+     "weight": 0.95,
+     "title": "Nvidia-Chef Huang wegen Spionageverdachts unter Druck",
+     "summary": "Eine außereheliche Beziehung bringt den Chef des KI-Chipgiganten Nvidia in Bedrängnis. Die Frau soll für China spioniert haben. Der Konzern untersucht die Vorwürfe, während US-Präsident Trump Huang den Rücken stärkt.",
+     "link": "https://www.dw.com/de/nvidia-chef-huang-wegen-spionageverdachts-unter-druck/a-79895905?maca=de-rss-de-all-1119-xml-mrss",
+     "image": "https://static.dw.com/image/79708793_302.jpg",
+     "aggregator": false,
+     "published": "2026-11-09T08:34:00+00:00"
+    },
+    {
+     "source": "Deutschlandfunk",
+     "region": "DE",
+     "weight": 0.95,
+     "title": "Mögliche Spionageaffäre - Trump: FBI ermittelt im Zusammenhang mit Nvidia-Chef Huang",
+     "summary": "Die US-Bundespolizei FBI hat Ermittlungen im Zusammenhang mit einer möglichen Spionageaffäre um den Chef des Nvidia-Konzerns, Huang, aufgenommen. Präsident Trump sagte vor Journalisten im Weißen Haus, das FBI prüfe den Fall. Der Nvidia-Chef bestreite, von den Machenschaften der angeblichen Spionin gewusst zu haben, und er glaube ihm das, meinte Trump.",
+     "link": "https://www.deutschlandfunk.de/trump-fbi-ermittelt-im-zusammenhang-mit-nvidia-chef-huang-100.html",
+     "image": "https://bilder.deutschlandfunk.de/49/6d/1b/4e/496d1b4e-a47c-4535-9f2d-8e0514004d02/nvidia-jensen-huang-100-1920x1920.jpg",
+     "aggregator": false,
+     "published": "2026-11-10T18:05:59+00:00"
+    }
+   ]
+  },
+  {
+   "id": 1,
+   "score": 18.61,
+   "outlets": [
+    "tagesschau",
+    "ZDFheute",
+    "Deutsche Welle",
+    "ORF",
+    "SRF News",
+    "DER STANDARD",
+    "WELT",
+    "n-tv",
+    "DIE ZEIT"
+   ],
+   "regions": [
+    "AT",
+    "CH",
+    "DE",
+    "INT"
+   ],
+   "trend": [],
+   "newest": "2026-11-10T16:23:00+00:00",
+   "articles": [
+    {
+     "source": "tagesschau",
+     "region": "DE",
+     "weight": 1.0,
+     "title": "Warum sitzt Deutschland in Abu Dhabi nicht am Verhandlungstisch?",
+     "summary": "Derzeit treffen sich in Abu Dhabi Vertreter der Ukraine, Russlands und der USA, um Gespräche über ein Ende des Krieges wieder aufzunehmen. Europa scheint im Abseits, obwohl Deutschland der größte Unterstützer der Ukraine ist. Von N. Markwald.",
+     "link": "https://www.tagesschau.de/inland/innenpolitik/deutschland-rolle-ukraine-gespraeche-100.html",
+     "image": "https://images.tagesschau.de/image/59c612e1-678f-4aed-bbfb-7469096f2544/AAABocTEhrw/AAABnSSvrFg/16x9-big/merz-selenskyj-144.jpg?width=1920",
+     "aggregator": false,
+     "published": "2026-11-10T14:15:52+00:00"
+    },
+    {
+     "source": "tagesschau",
+     "region": "DE",
+     "weight": 1.0,
+     "title": "Was von den Ukraine-Gesprächen in Abu Dhabi zu erwarten ist",
+     "summary": "Unterhändler Russlands und der Ukraine haben ihre Gespräche unter US-Vermittlung in Abu Dhabi aufgenommen. Was wollen die Kriegsparteien? Welche Interessen haben die USA? Und welche Rolle haben die Europäer?",
+     "link": "https://www.tagesschau.de/ausland/asien/ukraine-verhandlungen-abu-dhabi-104.html",
+     "image": "https://images.tagesschau.de/image/ea68d182-14d2-497c-8a94-dcfe3ee5c799/AAABocSYVQ0/AAABnSSvrFg/16x9-big/abudhabi-104.jpg?width=1920",
+     "aggregator": false,
+     "published": "2026-11-10T10:48:43+00:00"
+    },
+    {
+     "source": "tagesschau",
+     "region": "DE",
+     "weight": 1.0,
+     "title": "Gespräche in Abu Dhabi: Gedämpfte Erwartungen der Ukraine",
+     "summary": "Heute beginnen trilaterale Verhandlungen in Abu Dhabi. Können die Gespräche mit den USA und Russland einen echten Frieden bringen - oder führen sie zu einer Schwächung der Ukraine? Die Erwartungen in der Ukraine sind gering. Von F. Kellermann.",
+     "link": "https://www.tagesschau.de/ausland/europa/ukraine-erwartungen-gespraeche-100.html",
+     "image": "https://images.tagesschau.de/image/359f2fcf-a8ed-44fb-99fc-36c901fb94da/AAABocLfjcw/AAABnSSvrFg/16x9-big/ukraine-kiew-flagge-100.jpg?width=1920",
+     "aggregator": false,
+     "published": "2026-11-10T01:13:48+00:00"
+    },
+    {
+     "source": "tagesschau",
+     "region": "DE",
+     "weight": 1.0,
+     "title": "Verhandlungen in Abu Dhabi über Ende des Ukraine-Krieges haben begonnen",
+     "summary": "In Abu Dhabi haben die Gespräche über ein Ende des Krieges in der Ukraine begonnen. Zuletzt hatte US-Präsident Trump eine \"große Übereinkunft\" versprochen. Aber was meinte er damit? Und was hieße das für Europa? Von Carsten Kühntopp.",
+     "link": "https://www.tagesschau.de/ausland/amerika/dreiergespraeche-usa-russland-ukraine-100.html",
+     "image": "https://images.tagesschau.de/image/5b75b2a0-6a74-45d1-b50a-1bcb869c8f44/AAABocTyvy0/AAABnSSvrFg/16x9-big/trump-putin-256.jpg?width=1920",
+     "aggregator": false,
+     "published": "2026-11-10T08:18:50+00:00"
+    },
+    {
+     "source": "tagesschau Inland",
+     "region": "DE",
+     "weight": 1.0,
+     "title": "Warum sitzt Deutschland in Abu Dhabi nicht am Verhandlungstisch?",
+     "summary": "Derzeit treffen sich in Abu Dhabi Vertreter der Ukraine, Russlands und der USA, um Gespräche über ein Ende des Krieges wieder aufzunehmen. Europa scheint im Abseits, obwohl Deutschland der größte Unterstützer der Ukraine ist. Von N. Markwald.",
+     "link": "https://www.tagesschau.de/inland/innenpolitik/deutschland-rolle-ukraine-gespraeche-100.html",
+     "image": "https://images.tagesschau.de/image/59c612e1-678f-4aed-bbfb-7469096f2544/AAABocTEhrw/AAABnSSvrFg/16x9-big/merz-selenskyj-144.jpg?width=1920",
+     "aggregator": false,
+     "published": "2026-11-10T14:15:52+00:00"
+    },
+    {
+     "source": "tagesschau Ausland",
+     "region": "INT",
+     "weight": 1.0,
+     "title": "Verhandlungen in Abu Dhabi über Ende des Ukraine-Krieges haben begonnen",
+     "summary": "In Abu Dhabi haben die Gespräche über ein Ende des Krieges in der Ukraine begonnen. Zuletzt hatte US-Präsident Trump eine \"große Übereinkunft\" versprochen. Aber was meinte er damit? Und was hieße das für Europa? Von Carsten Kühntopp.",
+     "link": "https://www.tagesschau.de/ausland/amerika/dreiergespraeche-usa-russland-ukraine-100.html",
+     "image": "https://images.tagesschau.de/image/5b75b2a0-6a74-45d1-b50a-1bcb869c8f44/AAABocTyvy0/AAABnSSvrFg/16x9-big/trump-putin-256.jpg?width=1920",
+     "aggregator": false,
+     "published": "2026-11-10T08:18:50+00:00"
+    },
+    {
+     "source": "tagesschau Ausland",
+     "region": "INT",
+     "weight": 1.0,
+     "title": "Gespräche in Abu Dhabi: Gedämpfte Erwartungen der Ukraine",
+     "summary": "Heute beginnen trilaterale Verhandlungen in Abu Dhabi. Können die Gespräche mit den USA und Russland einen echten Frieden bringen - oder führen sie zu einer Schwächung der Ukraine? Die Erwartungen in der Ukraine sind gering. Von F. Kellermann.",
+     "link": "https://www.tagesschau.de/ausland/europa/ukraine-erwartungen-gespraeche-100.html",
+     "image": "https://images.tagesschau.de/image/359f2fcf-a8ed-44fb-99fc-36c901fb94da/AAABocLfjcw/AAABnSSvrFg/16x9-big/ukraine-kiew-flagge-100.jpg?width=1920",
+     "aggregator": false,
+     "published": "2026-11-10T01:13:48+00:00"
+    },
+    {
+     "source": "tagesschau Ausland",
+     "region": "INT",
+     "weight": 1.0,
+     "title": "Ukraine-Gespräche in Abu Dhabi: EU kündigt Teilnahme an",
+     "summary": "Ab Dienstag soll in Abu Dhabi über einen möglichen Frieden in der Ukraine verhandelt werden. Auch Vertreter Europas haben sich dazu angekündigt. Moskau will lieber nur mit den USA reden.",
+     "link": "https://www.tagesschau.de/ausland/europa/ukraine-verhandlungen-abu-dhabi-100.html",
+     "image": "https://images.tagesschau.de/image/bcbfacd2-b7ac-4314-9d86-ec6d822e9492/AAABobwG94w/AAABnSSvrFg/16x9-big/abu-dhabi-103.jpg?width=1920",
+     "aggregator": false,
+     "published": "2026-11-09T13:52:00+00:00"
+    }
+   ]
+  },
+  {
+   "id": 2,
+   "score": 15.07,
+   "outlets": [
+    "ZDFheute",
+    "SPIEGEL",
+    "ZEIT ONLINE",
+    "Handelsblatt",
+    "WELT",
+    "n-tv",
+    "n-tv.de"
+   ],
+   "regions": [
+    "DE"
+   ],
+   "trend": [],
+   "newest": "2026-11-10T17:45:38+00:00",
+   "articles": [
+    {
+     "source": "ZDFheute",
+     "region": "DE",
+     "weight": 1.0,
+     "title": "Berliner Linke will Vanessa Emde aus Fraktion ausschließen",
+     "summary": "Die Linke will den Fraktionsausschluss der Abgeordneten Vanessa Emde beantragen. Ihr wird vorgeworfen, das Existenzrecht Israels anzuzweifeln.",
+     "link": "https://www.zdfheute.de/politik/deutschland/linke-ausschluss-vanessa-emde-abgeordnete-100.html",
+     "image": "https://www.zdfheute.de/assets/vanessa-emde-die-linke-102~384x216?cb=1794322475287",
+     "aggregator": false,
+     "published": "2026-11-10T17:10:00+00:00"
+    },
+    {
+     "source": "SPIEGEL",
+     "region": "DE",
+     "weight": 0.9,
+     "title": "Vanessa Emde: Umstrittene Linken-Abgeordnete soll Fraktion in Berlin verlassen",
+     "summary": "Gregor Gysi hat ihr Judenhass vorgeworfen: Vanessa Emde soll aus der Fraktion der Linken im Berliner Abgeordnetenhaus ausgeschlossen werden. Die Entscheidung fällt frühestens in zwei Wochen.",
+     "link": "https://www.spiegel.de/politik/vanessa-emde-umstrittene-linke-abgeordnete-soll-fraktion-in-berlin-verlassen-a-a75c900e-5aae-4a40-af0a-5c45bd86c0be#ref=rss",
+     "image": "https://cdn.prod.www.spiegel.de/images/d73ca1d9-d537-4efb-89d5-72079ab6956a_w520_r2.08_fpx54.57_fpy49.98.jpg",
+     "aggregator": false,
+     "published": "2026-11-10T16:54:00+00:00"
+    },
+    {
+     "source": "ZEIT ONLINE",
+     "region": "DE",
+     "weight": 0.9,
+     "title": "Regierungsbildung in Berlin: Berliner Linke-Führungsriege will Emde aus Fraktion werfen",
+     "summary": "",
+     "link": "https://www.zeit.de/news/2026-11/10/berliner-linke-abgeordnete-emde-soll-fraktion-verlassen",
+     "image": "https://img.zeit.de/news/2026-11/10/berliner-linke-abgeordnete-emde-soll-fraktion-verlassen-image-group/original__640x360",
+     "aggregator": false,
+     "published": "2026-11-10T17:45:38+00:00"
+    },
+    {
+     "source": "ZEIT ONLINE",
+     "region": "DE",
+     "weight": 0.9,
+     "title": "Berliner Abgeordnetenhaus: Berliner Linke will Vanessa Emde aus Fraktion ausschließen",
+     "summary": "Die Spitze der Berliner Linken will einen Antrag erarbeiten, um Vanessa Emde aus der Fraktion auszuschließen. Es gehe darum, weiteren Schaden von der Fraktion abzuwenden.",
+     "link": "https://www.zeit.de/politik/deutschland/2026-11/berliner-linke-will-vanessa-emde-aus-fraktion-ausschliessen",
+     "image": "https://img.zeit.de/politik/deutschland/2026-11/berliner-linke-will-vanessa-emde-aus-fraktion-ausschliessen-berlin-bild/original__640x360",
+     "aggregator": false,
+     "published": "2026-11-10T17:35:52+00:00"
+    },
+    {
+     "source": "Handelsblatt",
+     "region": "DE",
+     "weight": 0.9,
+     "title": "Regierungsbildung in Berlin: Berliner Linke-Führungsriege will Emde aus Fraktion werfen",
+     "summary": "Die Linke-Abgeordnete Vanessa Emde macht ihr eigenes Ding, Partei- und Fraktionsspitze sehen keine gemeinsame Arbeitsgrundlage mehr mit ihr. Nun soll in dem länger schwelenden Streit eine Lösung her.",
+     "link": "https://www.handelsblatt.com/politik/deutschland/regierungsbildung-in-berlin-berliner-linke-fuehrungsriege-will-emde-aus-fraktion-werfen/100268871.html",
+     "image": "https://images.handelsblatt.com/XF3eT6bQZLz4/cover/900/506/0/0/106/106/0.5/0.5/vanessa-emde.jpg",
+     "aggregator": false,
+     "published": "2026-11-10T17:45:38+00:00"
+    },
+    {
+     "source": "WELT",
+     "region": "DE",
+     "weight": 0.8,
+     "title": "Vanessa Emde soll aus der Fraktion ausgeschlossen werden",
+     "summary": "Die Berliner Linke will Vanessa Emde aus der Fraktion ausschließen. Trotz ihres Rückhalts in Teilen der Partei zeigt sich die Fraktionsführung zuversichtlich, die nötige Zweidrittelmehrheit zu erreichen.",
+     "link": "https://www.welt.de/politik/deutschland/video6af3513242c2bfde5b99346d/berliner-linke-vanessa-emde-soll-aus-der-fraktion-ausgeschlossen-werden.html",
+     "image": "https://images.welt.de/6af3513242c2bfde5b99346d/76c31d84f7d567278994b6dedd79bef8/ci16x9-w1200/dpa-com-261110-935-1734513-jpg",
+     "aggregator": false,
+     "published": "2026-11-10T17:21:44+00:00"
+    },
+    {
+     "source": "WELT",
+     "region": "DE",
+     "weight": 0.8,
+     "title": "„Vertrauen zerstört“ – Berliner Linke-Abgeordnete Emde soll Fraktion verlassen",
+     "summary": "Die Berliner Linksfraktion bereitet den Ausschluss von Abgeordneter Vanessa Emde vor. Ihre antiisraelischen Äußerungen belasten die geplante Koalition mit Grünen und SPD.",
+     "link": "https://www.welt.de/politik/article6af3490dd7afd5ab8c0528fc/israelfeindliche-aeusserungen-vertrauen-zerstoert-berliner-linke-abgeordnete-emde-soll-fraktion-verlassen.html",
+     "image": "https://images.welt.de/6af3490dd7afd5ab8c0528fc/50001ce0c187d90304159caed5560d63/ci23x11-w1200/dpa-com-261110-935-1732967-jpg",
+     "aggregator": false,
+     "published": "2026-11-10T16:42:45+00:00"
+    },
+    {
+     "source": "n-tv",
+     "region": "DE",
+     "weight": 0.8,
+     "title": "Zweidrittelmehrheit nötig: Berliner Linke will umstrittene Abgeordnete Emde aus Fraktion ausschließen",
+     "summary": "Der Vorstand der Berliner Linksfraktion plant den Ausschluss von Vanessa Emde. Die Abgeordnete steht wegen ihrer Haltung zu Israel in der Kritik. Doch ob die nötige Mehrheit zustimmt, ist offen.",
+     "link": "https://www.n-tv.de/politik/Berliner-Linke-will-umstrittene-Abgeordnete-Emde-aus-Fraktion-ausschliessen-id31518654.html",
+     "image": "https://www.n-tv.de/img/31518692/1794333252/Img_4_3/250/630579445.jpg",
+     "aggregator": false,
+     "published": "2026-11-10T16:43:40+00:00"
+    }
+   ]
+  },
+  {
+   "id": 3,
+   "score": 14.98,
+   "outlets": [
+    "tagesschau",
+    "Deutschlandfunk",
+    "ORF",
+    "SPIEGEL",
+    "Handelsblatt",
+    "n-tv"
+   ],
+   "regions": [
+    "AT",
+    "DE"
+   ],
+   "trend": [],
+   "newest": "2026-11-10T18:05:59+00:00",
+   "articles": [
+    {
+     "source": "tagesschau",
+     "region": "DE",
+     "weight": 1.0,
+     "title": "Mecklenburg-Vorpommern: Rot-Rot-Grün einigt sich auf Koalitionsvertrag",
+     "summary": "Nach rund sechs Wochen Sondierungen und Verhandlungen haben sich SPD, Linke und Grüne auf ihren Koalitionsvertrag verständigt. Rot-Rot-Grün will Mecklenburg-Vorpommern vor allem wirtschaftlich voranbringen.",
+     "link": "https://www.tagesschau.de/inland/regional/mecklenburgvorpommern/rot-rot-gruen-in-mv-setzt-auf-zusammenhalt-zuversicht-und-zukunft,mvlandtag-114.html",
+     "image": "https://images.ndr.de/image/92524801-6913-444b-a216-bc06f74c4603/AAABocZTIz4/AAABnSSvrFg/16x9-big/mvfoto-9710.jpg?width=1920",
+     "aggregator": false,
+     "published": "2026-11-10T16:38:19+00:00"
+    },
+    {
+     "source": "Deutschlandfunk",
+     "region": "DE",
+     "weight": 0.95,
+     "title": "Rot-Rot-Grün - Koalitionsverhandlungen in Mecklenburg-Vorpommern abgeschlossen",
+     "summary": "SPD, Linke und Grüne in Mecklenburg-Vorpommern haben ihren Koalitionsvertrag vorgestellt. Ministerpräsidentin und SPD-Landeschefin Schwesig sagte in Schwerin, hinter den Parteien lägen intensive Verhandlungen. Freitag und Samstag sollen Parteitage von SPD, Linken und Grünen über den Koalitionsvertrag abstimmen.",
+     "link": "https://www.deutschlandfunk.de/koalitionsverhandlungen-in-mecklenburg-vorpommern-abgeschlossen-100.html",
+     "image": "https://bilder.deutschlandfunk.de/77/b8/9c/7c/77b89c7c-f2d8-4448-9f9a-fbf924ecdb9b/mecklenburg-vorpommern-koalition-100-1920x1920.jpg",
+     "aggregator": false,
+     "published": "2026-11-10T18:05:59+00:00"
+    },
+    {
+     "source": "ORF",
+     "region": "AT",
+     "weight": 0.95,
+     "title": "Mecklenburg-Vorpommern: Einigung auf Koalitionsvertrag",
+     "summary": "",
+     "link": "https://orf.at/stories/3447809/",
+     "image": null,
+     "aggregator": false,
+     "published": "2026-11-10T15:09:31+00:00"
+    },
+    {
+     "source": "SPIEGEL",
+     "region": "DE",
+     "weight": 0.9,
+     "title": "Mecklenburg-Vorpommern: Rot-Rot-Grün schließt Koalitionsverhandlungen ab",
+     "summary": "Zügig haben SPD, Grüne und Linke in Mecklenburg-Vorpommern ihre Koalitionsverhandlungen abgeschlossen. Die Zustimmung der Parteibasen gilt als Formsache. Ministerpräsidentin Schwesig steht kurz vor der Wiederwahl.",
+     "link": "https://www.spiegel.de/politik/deutschland/mecklenburg-vorpommern-rot-rot-gruen-schliesst-koalitionsverhandlungen-ab-a-25444914-e5c5-4fe6-8f6f-68203c6d49aa#ref=rss",
+     "image": "https://cdn.prod.www.spiegel.de/images/91d77cfa-33e1-49bd-b462-b57da3094a95_w520_r2.08_fpx32.25_fpy50.jpg",
+     "aggregator": false,
+     "published": "2026-11-10T14:27:00+00:00"
+    },
+    {
+     "source": "Handelsblatt",
+     "region": "DE",
+     "weight": 0.9,
+     "title": "Regierungsbildung: Rot-Rot-Grün einigt sich in Mecklenburg-Vorpommern auf Koalitionsvertrag",
+     "summary": "Nach vier Wochen haben sich SPD, Linke und Grüne in Mecklenburg-Vorpommern auf einen Koalitionsvertrag geeinigt und damit die Basis für eine neue Regierung gelegt. Was steht drin?",
+     "link": "https://www.handelsblatt.com/politik/deutschland/regierungsbildung-rot-rot-gruen-einigt-sich-in-schwerin-auf-koalitionsvertrag/100268836.html",
+     "image": "https://images.handelsblatt.com/4zfZd2TOFtRl/cover/900/506/0/0/873/150/0.5/0.5/04.11.2026-mecklenburg-vorpommern-schwerin-manuela-schwesig-spd-ministerpraesidentin-von-meckle.jpg",
+     "aggregator": false,
+     "published": "2026-11-10T14:31:09+00:00"
+    },
+    {
+     "source": "Handelsblatt",
+     "region": "DE",
+     "weight": 0.9,
+     "title": "Regierungsbildung in MV: Rot-Rot-Grün einigt sich im Nordosten auf Koalitionsvertrag",
+     "summary": "Es ist vollbracht: Nach vier Wochen haben sich SPD, Linke und Grüne in MV auf einen Koalitionsvertrag verständigt und damit die Basis für eine neue Regierung gelegt. Was steht drin und was steht an?",
+     "link": "https://www.handelsblatt.com/politik/deutschland/regierungsbildung-in-mv-rot-rot-gruen-einigt-sich-im-nordosten-auf-koalitionsvertrag/100268822.html",
+     "image": "https://images.handelsblatt.com/0O9P8uR99CxL/cover/900/506/0/0/85/84/0.5/0.5/koalitionsverhandlungen-in-mecklenburg-vorpommern-abgeschlossen.jpg",
+     "aggregator": false,
+     "published": "2026-11-10T14:15:52+00:00"
+    },
+    {
+     "source": "n-tv",
+     "region": "DE",
+     "weight": 0.8,
+     "title": "Rot-Rot-Grün in MV auf dem Weg: Schwesig einigt sich mit Linken und Grünen auf Koalitionsvertrag",
+     "summary": "Vier Wochen lang verhandeln SPD, Linke und Grüne in Mecklenburg-Vorpommern über eine gemeinsame Regierung. Nun steht das Koalitionsprogramm. Schon kommende Woche soll die Wiederwahl Schwesigs als Regierungschefin folgen.",
+     "link": "https://www.n-tv.de/politik/Schwesig-einigt-sich-mit-Linken-und-Gruenen-auf-Koalitionsvertrag-id31517692.html",
+     "image": "https://www.n-tv.de/img/31517722/1794323653/Img_4_3/250/632230126.jpg",
+     "aggregator": false,
+     "published": "2026-11-10T15:33:33+00:00"
+    }
+   ]
+  },
+  {
+   "id": 4,
+   "score": 14.5,
+   "outlets": [
+    "tagesschau",
+    "Deutsche Welle",
+    "SPIEGEL",
+    "Handelsblatt",
+    "DER STANDARD",
+    "n-tv"
+   ],
+   "regions": [
+    "AT",
+    "DE",
+    "INT"
+   ],
+   "trend": [],
+   "newest": "2026-11-10T17:15:00+00:00",
+   "articles": [
+    {
+     "source": "tagesschau",
+     "region": "DE",
+     "weight": 1.0,
+     "title": "S. Diettrich, ARD Moskau, V. Golod, ARD Kiew, zum Ukraine-Gipfel in Abu Dhabi",
+     "summary": "S. Diettrich, ARD Moskau, V. Golod, ARD Kiew, zum Ukraine-Gipfel in Abu Dhabi",
+     "link": "https://www.tagesschau.de/video/video-1681278.html",
+     "image": "https://images.tagesschau.de/image/08e7294c-a994-41f2-8b4c-824167a0bcff/AAABocTN_Rc/AAABnSSvrFg/16x9-big/sendungsbild-1825314.jpg?width=1920",
+     "aggregator": false,
+     "published": "2026-11-10T09:33:24+00:00"
+    },
+    {
+     "source": "Deutsche Welle",
+     "region": "INT",
+     "weight": 0.95,
+     "title": "Diplomaten und Geheimdienstler: Wer vertritt Russland in Abu Dhabi?",
+     "summary": "Moskau hat Diplomaten und Militärs nach Abu Dhabi geschickt. Sie führen dort Verhandlungen mit Vertretern Kyjiws und Washingtons über ein Ende des Ukraine-Krieges. Was ist über die russischen Unterhändler bekannt?",
+     "link": "https://www.dw.com/de/diplomaten-und-geheimdienstler-wer-vertritt-russland-in-abu-dhabi/a-79908948?maca=de-rss-de-all-1119-xml-mrss",
+     "image": "https://static.dw.com/image/79687159_302.jpg",
+     "aggregator": false,
+     "published": "2026-11-10T16:14:00+00:00"
+    },
+    {
+     "source": "Deutsche Welle",
+     "region": "INT",
+     "weight": 0.95,
+     "title": "Russland lehnt Europas Teilnahme an Ukraine-Gesprächen ab",
+     "summary": "Frankreich kündigt an, Vertreter zu den Verhandlungen in Abu Dhabi zu schicken. Moskau sieht dagegen nur Gespräche mit der Ukraine und den USA vor. Im Mittelpunkt stehen Sicherheitsgarantien und ein mögliches Kriegsende.",
+     "link": "https://www.dw.com/de/russland-lehnt-europas-teilnahme-an-ukraine-gesprächen-ab/a-79897668?maca=de-rss-de-all-1119-xml-mrss",
+     "image": "https://static.dw.com/image/76011845_302.jpg",
+     "aggregator": false,
+     "published": "2026-11-09T11:02:00+00:00"
+    },
+    {
+     "source": "SPIEGEL",
+     "region": "DE",
+     "weight": 0.9,
+     "title": "Ukraine – Friedensgespräche in Abu Dhabi: Bisher glaubt nur Donald Trump an den großen Deal zwischen Russland, Ukraine und Europa",
+     "summary": "Nach neun Monaten Pause verhandeln Russland und die Ukraine wieder unter Vermittlung der USA. Moskau und Washington reden von einer neuen Sicherheitsarchitektur. Was ist realistisch?",
+     "link": "https://www.spiegel.de/ausland/ukraine-friedensgespraeche-in-abu-dhabi-bisher-glaubt-nur-donald-trump-an-den-grossen-deal-zwischen-russland-ukraine-und-europa-a-904ecc1a-9c94-493a-9f1f-5ea1a9bbdca3#ref=rss",
+     "image": "https://cdn.prod.www.spiegel.de/images/0fdfe20d-74ed-47df-8e0c-6a8e77ee946d_w520_r2.08_fpx33.3_fpy50.jpg",
+     "aggregator": false,
+     "published": "2026-11-10T17:15:00+00:00"
+    },
+    {
+     "source": "Handelsblatt",
+     "region": "DE",
+     "weight": 0.9,
+     "title": "Friedensgespräche: Russland und Ukraine kehren nach acht Monaten an den Verhandlungstisch zurück",
+     "summary": "Ziel der zweitägigen Gespräche in Abu Dhabi ist es laut den Verhandlungsführern aus Moskau und Kiew, einen dauerhaften Frieden zu erreichen. Das trilaterale Treffen wurde von den USA vermittelt.",
+     "link": "https://www.handelsblatt.com/video/politik/friedensgespraeche-russland-und-ukraine-kehren-nach-acht-monaten-an-den-verhandlungstisch-zurueck/100268788.html",
+     "image": null,
+     "aggregator": false,
+     "published": "2026-11-10T15:42:00+00:00"
+    },
+    {
+     "source": "DER STANDARD",
+     "region": "AT",
+     "weight": 0.85,
+     "title": "Trump will in Abu Dhabi die Karten Europas neu mischen – und könnte Putin den Joker überlassen",
+     "summary": "Bisher setzt sich Moskau mit seiner Weigerung, die Europäer in die Gespräche über die Ukraine einzubeziehen, durch. Dabei ist der Kontinent von dem, was besprochen wird, massiv betroffen",
+     "link": "https://www.derstandard.at/story/3000000348363/trump-will-in-abu-dhabi-die-karten-europas-neu-mischen-und-koennte-putin-den-joker-ueberlassen?ref=rss",
+     "image": "https://i.ds.at/2YnhFg/rs:fill:150:0/plain/lido-images/2026/11/10/684bc981-8b6a-4183-a782-4eafc035201b.jpg",
+     "aggregator": false,
+     "published": "2026-11-10T12:18:00+00:00"
+    },
+    {
+     "source": "n-tv",
+     "region": "DE",
+     "weight": 0.8,
+     "title": "Verhandlungen in Abu Dhabi: Moskau und Kiew einigen sich offenbar auf Gefangenenaustausch",
+     "summary": "Erstmals seit acht Monaten verhandeln die Ukraine und Russland wieder miteinander. Unter US-Vermittlung geht es dabei um Sicherheitsgarantien und den Austausch von Gefangenen. Medienberichten zufolge gibt es bereits eine erste Einigung.",
+     "link": "https://www.n-tv.de/politik/Moskau-und-Kiew-einigen-sich-offenbar-auf-Gefangenenaustausch-id31518303.html",
+     "image": "https://www.n-tv.de/img/31518487/1794330490/Img_4_3/250/632217037.jpg",
+     "aggregator": false,
+     "published": "2026-11-10T16:24:27+00:00"
+    }
+   ]
+  },
+  {
+   "id": 5,
+   "score": 14.38,
+   "outlets": [
+    "Deutschlandfunk",
+    "SPIEGEL",
+    "Handelsblatt",
+    "WirtschaftsWoche",
+    "WELT",
+    "n-tv"
+   ],
+   "regions": [
+    "DE"
+   ],
+   "trend": [],
+   "newest": "2026-11-10T18:05:59+00:00",
+   "articles": [
+    {
+     "source": "Deutschlandfunk",
+     "region": "DE",
+     "weight": 0.95,
+     "title": "Bundesfinanzministerium - Klingbeil will Steuerklassen III und V offenbar abschaffen",
+     "summary": "Bundesfinanzminister Klingbeil plant die Steuerklassen III und V offenbar abzuschaffen. Die häufig von Ehepaaren in Kombination gewählten Modelle sollen auf das automatisierte Faktorverfahren von Steuerklasse IV umgestellt werden, wie es aus Ministeriumskreisen heißt.",
+     "link": "https://www.deutschlandfunk.de/klingbeil-will-steuerklassen-iii-und-v-offenbar-abschaffen-100.html",
+     "image": "https://bilder.deutschlandfunk.de/ad/7b/c1/eb/ad7bc1eb-ca7f-41c3-baad-e94f9333a052/antrag-steuerklassenwechsel-100-1920x1920.jpg",
+     "aggregator": false,
+     "published": "2026-11-10T18:05:59+00:00"
+    },
+    {
+     "source": "SPIEGEL",
+     "region": "DE",
+     "weight": 0.9,
+     "title": "Finanzminister Lars Klingbeil plant Abschaffung von Steuerklassen III und V",
+     "summary": "Das Bundesfinanzministerium plant Veränderungen bei der Steuer, die noch bis Ende des Jahres in Kraft treten sollen. Einer der Vorstöße: Die Steuerklassen III und V sollen in das automatisierte Faktorverfahren überführt werden.",
+     "link": "https://www.spiegel.de/wirtschaft/finanzminister-lars-klingbeil-plant-abschaffung-von-steuerklassen-iii-und-v-a-4022a7cf-5aac-4d8e-a708-de7811a7c183#ref=rss",
+     "image": "https://cdn.prod.www.spiegel.de/images/751dacc8-96f5-457b-a28f-036ef233d990_w520_r2.08_fpx44.91_fpy44.99.jpg",
+     "aggregator": false,
+     "published": "2026-11-10T15:46:00+00:00"
+    },
+    {
+     "source": "Handelsblatt",
+     "region": "DE",
+     "weight": 0.9,
+     "title": "Steuern: So teilen Ehepartner ihren Splitting-Vorteil fair auf",
+     "summary": "Bundesfinanzminister Klingbeil will die Steuerklassen III und V abschaffen. Schon heute können Eheleute ihren Steuerrabatt, fair aufteilen – sogar ohne die Steuerklasse zu wechseln.",
+     "link": "https://www.handelsblatt.com/finanzen/steuern-recht/steuern/steuererklaerung-2025-so-teilen-ehepartner-ihren-splitting-vorteil-fair-auf/100105917.html",
+     "image": "https://images.handelsblatt.com/qgQlMddFWCk8/cover/900/506/0/0/140/140/0.5/0.5/steuer-dossier-2025ehegattensplitting.png",
+     "aggregator": false,
+     "published": "2026-11-10T17:00:00+00:00"
+    },
+    {
+     "source": "Handelsblatt",
+     "region": "DE",
+     "weight": 0.9,
+     "title": "Steuern: Klingbeil will Steuerklassen III und V abschaffen",
+     "summary": "Der Finanzminister will die Steuererklärung vereinfachen. Im Fokus: Steuerklassen, die viele Paare nutzen. Welche finanziellen Folgen hätte das?",
+     "link": "https://www.handelsblatt.com/politik/deutschland/steuern-klingbeil-will-steuerklassen-iii-und-v-abschaffen/100268862.html",
+     "image": "https://images.handelsblatt.com/df3qLkAg3aGQ/cover/900/506/0/0/107/107/0.5/0.5/steuerbescheid.jpg",
+     "aggregator": false,
+     "published": "2026-11-10T16:28:30+00:00"
+    },
+    {
+     "source": "WirtschaftsWoche",
+     "region": "DE",
+     "weight": 0.85,
+     "title": "Steuern: Klingbeil will Steuerklassen III und V abschaffen",
+     "summary": "Der Finanzminister will die Steuererklärung vereinfachen. Im Fokus: Steuerklassen, die viele Paare nutzen. Welche finanziellen Folgen hätte das?",
+     "link": "https://www.wiwo.de/politik/deutschland/steuern-klingbeil-will-steuerklassen-iii-und-v-abschaffen/100268859.html",
+     "image": "https://images.wiwo.de/WcLElJXcCTej/cover/900/506/0/0/107/107/0.5/0.5/steuerbescheid.jpg",
+     "aggregator": false,
+     "published": "2026-11-10T15:37:01+00:00"
+    },
+    {
+     "source": "WELT",
+     "region": "DE",
+     "weight": 0.8,
+     "title": "Steuerklassen III und V weg – weniger Netto für Millionen Ehepaare",
+     "summary": "Finanzminister Lars Klingbeil will die Steuerklassen III und V abschaffen und durch das Faktorverfahren ersetzen. Millionen Ehepaare hätten dadurch zunächst weniger Geld im Monat zur Verfügung.",
+     "link": "https://www.welt.de/wirtschaft/plus6af30a0642c2bfde5b9929d5/klingbeils-heikler-plan-steuerklassen-iii-und-v-weg-weniger-netto-fuer-millionen-ehepaare.html",
+     "image": "https://images.welt.de/6af30a0642c2bfde5b9929d5/b6c57d130aa606c0fb11452674ecac3b/ci23x11-w1200/gettyimages-2200125278-jpg",
+     "aggregator": false,
+     "published": "2026-11-10T15:57:37+00:00"
+    },
+    {
+     "source": "n-tv",
+     "region": "DE",
+     "weight": 0.8,
+     "title": "Sorge um Ehegattensplitting: Was, wenn die Steuerklassen III und V abgeschafft werden?",
+     "summary": "Finanzminister Klingbeil möchte eine Reform bei den Steuerklassen. Dieser würde die bei Eheleuten beliebte Kombination III und V zum Opfer fallen. Was das bedeutet und was zu tun ist, lesen Sie hier.",
+     "link": "https://www.n-tv.de/ratgeber/Was-wenn-die-Steuerklassen-III-und-V-abgeschafft-werden-id31518389.html",
+     "image": "https://www.n-tv.de/img/3060185/1601457741/Img_4_3/250/image.jpg",
+     "aggregator": false,
+     "published": "2026-11-10T16:31:34+00:00"
+    },
+    {
+     "source": "n-tv",
+     "region": "DE",
+     "weight": 0.8,
+     "title": "Bei Ehepaaren beliebt: Klingbeil will Steuerklassen III und V abschaffen",
+     "summary": "Finanzminister Klingbeil plant eine Reform, die Millionen Ehepaare betreffen könnte. Demnach soll sich die monatliche Lohnsteuer künftig automatisch am Einkommensverhältnis beider Partner orientieren. Die bisherige Kombination der Steuerklassen III und V würde damit wegfallen.",
+     "link": "https://www.n-tv.de/politik/Klingbeil-will-Steuerklassen-III-und-V-abschaffen-id31517517.html",
+     "image": "https://www.n-tv.de/img/31517523/1794322299/Img_4_3/250/586259792.jpg",
+     "aggregator": false,
+     "published": "2026-11-10T14:36:36+00:00"
+    }
+   ]
+  },
+  {
+   "id": 6,
+   "score": 13.68,
+   "outlets": [
+    "tagesschau",
+    "ZDFheute",
+    "Deutschlandfunk",
+    "ORF",
+    "SRF News"
+   ],
+   "regions": [
+    "AT",
+    "CH",
+    "DE",
+    "INT"
+   ],
+   "trend": [],
+   "newest": "2026-11-10T18:05:59+00:00",
+   "articles": [
+    {
+     "source": "tagesschau",
+     "region": "DE",
+     "weight": 1.0,
+     "title": "Mehrere Tote bei Massenunfällen auf bulgarischer Autobahn",
+     "summary": "Dichter Nebel, nasse Straßen: Auf einer Autobahn in Bulgarien sind mindestens zwölf Menschen bei Auffahrunfällen gestorben. Zahlreiche Rettungskräfte sind im Einsatz. EU-Kommissionschefin von der Leyen musste ihren Besuch in dem Land verkürzen.",
+     "link": "https://www.tagesschau.de/ausland/europa/bulgarien-tote-auffahrunfall-100.html",
+     "image": "https://images.tagesschau.de/image/a8e38b59-c9c0-4ca8-a40e-40fafe97544d/AAABocXKowI/AAABnSSvrFg/16x9-big/bulgarien-268.jpg?width=1920",
+     "aggregator": false,
+     "published": "2026-11-10T14:09:14+00:00"
+    },
+    {
+     "source": "tagesschau Ausland",
+     "region": "INT",
+     "weight": 1.0,
+     "title": "Mehrere Tote bei Massenunfällen auf bulgarischer Autobahn",
+     "summary": "Dichter Nebel, nasse Straßen: Auf einer Autobahn in Bulgarien sind mindestens zwölf Menschen bei Auffahrunfällen gestorben. Zahlreiche Rettungskräfte sind im Einsatz. EU-Kommissionschefin von der Leyen musste ihren Besuch in dem Land verkürzen.",
+     "link": "https://www.tagesschau.de/ausland/europa/bulgarien-tote-auffahrunfall-100.html",
+     "image": "https://images.tagesschau.de/image/a8e38b59-c9c0-4ca8-a40e-40fafe97544d/AAABocXKowI/AAABnSSvrFg/16x9-big/bulgarien-268.jpg?width=1920",
+     "aggregator": false,
+     "published": "2026-11-10T14:09:14+00:00"
+    },
+    {
+     "source": "ZDFheute",
+     "region": "DE",
+     "weight": 1.0,
+     "title": "Tote nach Massencrash in Bulgarien",
+     "summary": "Dichter Nebel hat auf einer Autobahn in Bulgarien offenbar schwere Auffahrunfälle ausgelöst. Mindestens elf Menschen starben, zahlreiche weitere wurden teils schwer verletzt.",
+     "link": "https://www.zdfheute.de/video/bulgarien-unfall-verkehr-100.html",
+     "image": "https://www.zdfheute.de/assets/bulgaria-transport-accident-100~384x216?cb=1794318083443",
+     "aggregator": false,
+     "published": "2026-11-10T15:52:00+00:00"
+    },
+    {
+     "source": "Deutschlandfunk",
+     "region": "DE",
+     "weight": 0.95,
+     "title": "Bulgarien - Zwölf Tote und 48 Verletzte bei Massenkarambolage auf Autobahn",
+     "summary": "Bei einer Massenkarambolage im Südosten Bulgariens sind mindestens zwölf Menschen ums Leben gekommen.",
+     "link": "https://www.deutschlandfunk.de/zwoelf-tote-und-48-verletzte-bei-massenkarambolage-auf-autobahn-102.html",
+     "image": "https://bilder.deutschlandfunk.de/00/a9/c4/df/00a9c4df-3751-4b9d-a029-b56e26e0f21d/bulgarien-trakia-autobahn-massenkarambolage-autos-lkw-100-1280x1280.jpg",
+     "aggregator": false,
+     "published": "2026-11-10T18:05:59+00:00"
+    },
+    {
+     "source": "ORF",
+     "region": "AT",
+     "weight": 0.95,
+     "title": "Zahlreiche Tote bei Massenkarambolage in Bulgarien",
+     "summary": "",
+     "link": "https://orf.at/stories/3447783/",
+     "image": null,
+     "aggregator": false,
+     "published": "2026-11-10T10:48:07+00:00"
+    },
+    {
+     "source": "SRF News",
+     "region": "CH",
+     "weight": 0.95,
+     "title": "Schwerer Unfall in Bulgarien – Nebelchaos: 50 Fahrzeuge kollidieren auf Autobahn – 12 Tote",
+     "summary": "Dichter Nebel löste auf Bulgariens Autobahn mehrere Auffahrunfälle aus: Mindestens zwölf Menschen starben.",
+     "link": "https://www.srf.ch/news/international/schwerer-unfall-in-bulgarien-nebelchaos-50-fahrzeuge-kollidieren-auf-autobahn-12-tote",
+     "image": "https://www.srf.ch/static/cms/images//320ws/3f95534.webp",
+     "aggregator": false,
+     "published": "2026-11-10T13:56:15+00:00"
+    }
+   ]
+  },
+  {
+   "id": 7,
+   "score": 12.98,
+   "outlets": [
+    "ZDFheute",
+    "Deutsche Welle",
+    "Deutschlandfunk",
+    "WELT",
+    "n-tv"
+   ],
+   "regions": [
+    "DE",
+    "INT"
+   ],
+   "trend": [],
+   "newest": "2026-11-10T18:05:59+00:00",
+   "articles": [
+    {
+     "source": "ZDFheute",
+     "region": "DE",
+     "weight": 1.0,
+     "title": "Wegen dieser Geste gibt es Kritik an BVB-Star Nmecha",
+     "summary": "Wegen seines Torjubels hagelt es für BVB-Mittelfeldmotor Felix Nmecha Kritik. Seine Geste wird einem umstrittenen evangelikalischen Netzwerk von Fußballspielern zugeordnet.",
+     "link": "https://www.zdfheute.de/sport/video/nmecha-kritik-torjubel-geste-100.html",
+     "image": "https://www.zdfheute.de/assets/nmecha-geste-torjubel-kritik-100~384x216?cb=1794298522233",
+     "aggregator": false,
+     "published": "2026-11-10T08:21:00+00:00"
+    },
+    {
+     "source": "Deutsche Welle",
+     "region": "INT",
+     "weight": 0.95,
+     "title": "Felix Nmecha: BVB-Fans fordern Distanzierung von religiösem Netzwerk",
+     "summary": "Borussia Dortmunds Felix Nmecha zeigt erneut seinen Jubel, der der konservativ-religiösen Bewegung \"Ballers in God\" zugerechnet wird. Das sorgt für Diskussionen und Kritik auch aus Reihen der BVB-Fans.",
+     "link": "https://www.dw.com/de/felix-nmecha-bvb-fans-fordern-distanzierung-von-religiösem-netzwerk/a-79897268?maca=de-rss-de-all-1119-xml-mrss",
+     "image": "https://static.dw.com/image/79897252_302.jpg",
+     "aggregator": false,
+     "published": "2026-11-09T11:02:00+00:00"
+    },
+    {
+     "source": "Deutschlandfunk",
+     "region": "DE",
+     "weight": 0.95,
+     "title": "Bericht - BVB fordert Nmecha zu Torjubel-Verzicht auf",
+     "summary": "Fußball-Profi Felix Nmecha soll künftig im Trikot von Borussia Dortmund auf seinen umstrittenen Torjubel verzichten. Wie der WDR berichtet, habe Vereinspräsident Watzke dies am Montagabend bei der Mitgliederversammlung der Fan- und Förderabteilung des BVB angekündigt.",
+     "link": "https://www.deutschlandfunk.de/bvb-fordert-nmecha-zu-torjubel-verzicht-auf-102.html",
+     "image": "https://bilder.deutschlandfunk.de/46/ad/0e/df/46ad0edf-25dc-49f1-94d1-702bc0f22f58/fussball-bundesliga-borussia-dortmund-felix-nmecha-jubel-krone-100-1920x1920.jpg",
+     "aggregator": false,
+     "published": "2026-11-10T18:05:59+00:00"
+    },
+    {
+     "source": "WELT",
+     "region": "DE",
+     "weight": 0.8,
+     "title": "BVB will Nmecha den umstrittenen Torjubel verbieten",
+     "summary": "Felix Nmecha steht für seinen Torjubel und die damit verbundene Nähe zu einem umstrittenen religiösen Netzwerk in der Kritik. Laut einem Medienbericht will der BVB seinen Mittelfeldspieler auffordern, diesen Jubel zu unterlassen.",
+     "link": "https://www.welt.de/sport/fussball/bundesliga/article6af3328942c2bfde5b99312c/ballers-in-god-bvb-will-nmecha-den-umstrittenen-torjubel-verbieten.html",
+     "image": "https://images.welt.de/6af3328942c2bfde5b99312c/cd0025ad412966f48364961548be9044-master/ci23x11-w1200/2026-11-07t155724z-1168753868-up1emb718bmla-rtrmadp-3-soccer-germany-bvb-elv-jpg",
+     "aggregator": false,
+     "published": "2026-11-10T15:41:25+00:00"
+    },
+    {
+     "source": "n-tv",
+     "region": "DE",
+     "weight": 0.8,
+     "title": "Folgen für \"Ballers in God\"?: BVB fordert Nmecha zu Verzicht des Kronen-Jubels auf",
+     "summary": "Der umstrittene Kronen-Jubel von Felix Nmecha beschäftigt auch seinen Klub Borussia Dortmund. Berichten zufolge soll der BVB den Nationalspieler auffordern, die Geste zu unterlassen.",
+     "link": "https://www.n-tv.de/sport/fussball/BVB-fordert-Nmecha-zu-Verzicht-des-Kronen-Jubels-auf-id31517492.html",
+     "image": "https://www.n-tv.de/img/31517502/1794326790/Img_4_3/250/image.jpg",
+     "aggregator": false,
+     "published": "2026-11-10T16:55:00+00:00"
+    }
+   ]
+  },
+  {
+   "id": 8,
+   "score": 11.48,
+   "outlets": [
+    "tagesschau",
+    "ZDFheute",
+    "Deutschlandfunk",
+    "WELT"
+   ],
+   "regions": [
+    "DE"
+   ],
+   "trend": [],
+   "newest": "2026-11-10T18:05:59+00:00",
+   "articles": [
+    {
+     "source": "tagesschau",
+     "region": "DE",
+     "weight": 1.0,
+     "title": "Aigner stellt sich Fraktionen vor - nicht bei AfD und Linken",
+     "summary": "Nach ihrer Kür zur Unions-Kandidatin für das Bundespräsidentenamt stellt sich Aigner heute in Berlin den Bundestagsfraktionen von Union, SPD und Grünen vor. Eine Einladung der AfD schlug sie aus. Die Linke lud Aigner bislang nicht ein.",
+     "link": "https://www.tagesschau.de/inland/innenpolitik/aigner-vorstellung-bundestagsfraktionen-100.html",
+     "image": "https://images.tagesschau.de/image/f3d020e0-362d-4ea6-aad7-fab6cd684d60/AAABocTyaFs/AAABnSSvrFg/16x9-big/aigner-160.jpg?width=1920",
+     "aggregator": false,
+     "published": "2026-11-10T12:40:11+00:00"
+    },
+    {
+     "source": "tagesschau Inland",
+     "region": "DE",
+     "weight": 1.0,
+     "title": "Aigner stellt sich Fraktionen vor - nicht bei AfD und Linken",
+     "summary": "Nach ihrer Kür zur Unions-Kandidatin für das Bundespräsidentenamt stellt sich Aigner heute in Berlin den Bundestagsfraktionen von Union, SPD und Grünen vor. Eine Einladung der AfD schlug sie aus. Die Linke lud Aigner bislang nicht ein.",
+     "link": "https://www.tagesschau.de/inland/innenpolitik/aigner-vorstellung-bundestagsfraktionen-100.html",
+     "image": "https://images.tagesschau.de/image/f3d020e0-362d-4ea6-aad7-fab6cd684d60/AAABocTyaFs/AAABnSSvrFg/16x9-big/aigner-160.jpg?width=1920",
+     "aggregator": false,
+     "published": "2026-11-10T12:40:11+00:00"
+    },
+    {
+     "source": "ZDFheute",
+     "region": "DE",
+     "weight": 1.0,
+     "title": "Will Aigner wirklich Brücken bauen?",
+     "summary": "Als \"überparteilich\" haben verschiedene Politiker von Union und SPD Ilse Aigner (CSU) bezeichnet. Doch ist das wirklich so? Mit AfD und Linken spricht sie vorerst nicht.",
+     "link": "https://www.zdfheute.de/politik/deutschland/aigner-bundespraesidentin-linke-afd-100.html",
+     "image": "https://www.zdfheute.de/assets/aid-image-74390122-hires-100~384x216?cb=1794318548898",
+     "aggregator": false,
+     "published": "2026-11-10T17:20:00+00:00"
+    },
+    {
+     "source": "Deutschlandfunk",
+     "region": "DE",
+     "weight": 0.95,
+     "title": "Vorstellung bei Fraktionen - Aigner will als Bundespräsidentin Brücken bauen - keine Termine bei AfD und Linken",
+     "summary": "Die Unionskandidatin für das Amt der Bundespräsidentin, Aigner, hat sich bei mehreren Bundestagsfraktionen vorgestellt. Vor der CDU/CSU-Fraktion bekräftigte die bayerische Landtagspräsidentin ihren Anspruch, Brücken zu bauen und auf Menschen zuzugehen. Sollte sie in das Amt gewählt werden, sehe sie sich als Vorreiterin.",
+     "link": "https://www.deutschlandfunk.de/aigner-will-als-bundespraesidentin-bruecken-bauen-keine-termine-bei-afd-und-linken-100.html",
+     "image": "https://bilder.deutschlandfunk.de/e9/8a/54/d0/e98a54d0-55e5-4f4f-8368-3b88d367f48f/aigner-bundestag-100-1920x1920.jpg",
+     "aggregator": false,
+     "published": "2026-11-10T18:05:59+00:00"
+    },
+    {
+     "source": "WELT",
+     "region": "DE",
+     "weight": 0.8,
+     "title": "Union setzt auf breite Mehrheit für Aigner – AfD wirft ihr fehlende Überparteilichkeit vor",
+     "summary": "Bundeskanzler Merz und CSU-Chef Söder begrüßen den Rückhalt von SPD und Grünen für Ilse Aigners Kandidatur. Die AfD reagiert mit Unverständnis auf eine Absage der Kandidatin.",
+     "link": "https://www.welt.de/politik/article6af34296b9cef129a20e1680/bundespraesidentenwahl-union-setzt-auf-breite-mehrheit-fuer-aigner-afd-wirft-ihr-fehlende-ueberparteilichkeit-vor.html",
+     "image": "https://images.welt.de/6af34296b9cef129a20e1680/34cc26df36a053a99200a9be3051be5f-master/ci23x11-w1200/dpa-com-261110-935-1734399-jpg",
+     "aggregator": false,
+     "published": "2026-11-10T17:43:33+00:00"
+    }
+   ]
+  },
+  {
+   "id": 9,
+   "score": 11.48,
+   "outlets": [
+    "tagesschau Ausland",
+    "Deutsche Welle",
+    "Deutschlandfunk",
+    "heise online"
+   ],
+   "regions": [
+    "DE",
+    "INT"
+   ],
+   "trend": [],
+   "newest": "2026-11-10T18:05:59+00:00",
+   "articles": [
+    {
+     "source": "tagesschau Ausland",
+     "region": "INT",
+     "weight": 1.0,
+     "title": "Frankreich macht Iran für Cyberangriffe auf Supermarkt-Kühltruhen verantwortlich",
+     "summary": "In mehreren Ländern Europas hatte es zuletzt Cyberangriffe auf Supermarkt-Kühlanlagen gegeben - als möglicher Urheber galt Russland. Der französische Außenminister machte nun Iran für die Vorfälle in Frankreich verantwortlich.",
+     "link": "https://www.tagesschau.de/ausland/europa/kuehlanlagen-cyberangriffe-100.html",
+     "image": "https://images.tagesschau.de/image/f526d0b5-6aea-4321-bb81-fdf915d039f4/AAABocFH_aQ/AAABnSSvrFg/16x9-big/kuehlanlagen-frankreich-100.jpg?width=1920",
+     "aggregator": false,
+     "published": "2026-11-09T17:51:23+00:00"
+    },
+    {
+     "source": "Deutsche Welle",
+     "region": "INT",
+     "weight": 0.95,
+     "title": "News kompakt: Ukraine-Gespräche starten in Abu Dhabi",
+     "summary": "Nach mehr als acht Monaten verhandeln Russland und die Ukraine wieder direkt miteinander. Frankreich macht den Iran für Cyberangriffe auf Kühlanlagen verantwortlich. Der DW-Nachrichtenüberblick.",
+     "link": "https://www.dw.com/de/news-kompakt-ukraine-gespräche-starten-in-abu-dhabi/a-79906107?maca=de-rss-de-all-1119-xml-mrss",
+     "image": "https://static.dw.com/image/79902138_302.jpg",
+     "aggregator": false,
+     "published": "2026-11-10T08:01:00+00:00"
+    },
+    {
+     "source": "Deutschlandfunk",
+     "region": "DE",
+     "weight": 0.95,
+     "title": "Supermärkte - Frankreich macht iranische Revolutionsgarden für Cyberangriffe auf Kühlsysteme verantwortlich",
+     "summary": "Frankreich macht die iranischen Revolutionsgarden für die Cyberangriffe auf Supermarkt-Kühlsysteme verantwortlich. Der französische Außenminister Barrot teilte mit, zu diesem Ergebnis seien Untersuchungen staatlicher Behörden gekommen.",
+     "link": "https://www.deutschlandfunk.de/frankreich-macht-iranische-revolutionsgarden-fuer-cyberangriffe-auf-kuehlsysteme-verantwortlich-106.html",
+     "image": "https://bilder.deutschlandfunk.de/09/e9/64/58/09e96458-6ffc-425f-86b0-636a168a80ca/hackerangriff-supermaerkte-100-1920x1920.jpg",
+     "aggregator": false,
+     "published": "2026-11-10T18:05:59+00:00"
+    },
+    {
+     "source": "heise online",
+     "region": "DE",
+     "weight": 0.85,
+     "title": "Frankreich: Iran steckt hinter Cyberangriffen auf Kühlsysteme",
+     "summary": "Für die Sabotage von Kühlsystemen in mehreren europäischen Ländern ist nach Erkenntnissen der französischen Regierung der Iran verantwortlich.",
+     "link": "https://www.heise.de/news/Frankreich-Iran-steckt-hinter-Cyberangriffen-auf-Kuehlsysteme-11517966.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
+     "image": null,
+     "aggregator": false,
+     "published": "2026-11-09T17:19:00+00:00"
+    }
+   ]
+  },
+  {
+   "id": 10,
+   "score": 11.38,
+   "outlets": [
+    "ZDFheute",
+    "Deutschlandfunk",
+    "ZEIT ONLINE",
+    "DER STANDARD"
+   ],
+   "regions": [
+    "AT",
+    "DE"
+   ],
+   "trend": [],
+   "newest": "2026-11-10T18:05:59+00:00",
+   "articles": [
+    {
+     "source": "ZDFheute",
+     "region": "DE",
+     "weight": 1.0,
+     "title": "Hegseth nennt drohende Amtsenthebung eine \"Farce\"",
+     "summary": "In einer seltenen Pressekonferenz hat sich US-Verteidigungsminister Pete Hegseth gegen sein Amtsenthebungsverfahren gewehrt. Es handele sich um einen \"Schauprozess\".",
+     "link": "https://www.zdfheute.de/politik/ausland/hegseth-usa-amtsenthebung-pressekonferenz-100.html",
+     "image": "https://www.zdfheute.de/assets/pete-hegseth-134~384x216?cb=1794320399460",
+     "aggregator": false,
+     "published": "2026-11-10T15:00:00+00:00"
+    },
+    {
+     "source": "Deutschlandfunk",
+     "region": "DE",
+     "weight": 0.95,
+     "title": "USA - Verteidigungsminister Hegseth nennt drohendes Amtsenthebungsverfahren eine Farce",
+     "summary": "US-Verteidigungsminister Hegseth hat das ihm möglicherweise drohende Amtsenthebungsverfahren als Farce kritisiert.",
+     "link": "https://www.deutschlandfunk.de/verteidigungsminister-hegseth-nennt-drohendes-amtsenthebungsverfahren-eine-farce-100.html",
+     "image": "https://bilder.deutschlandfunk.de/19/9e/7a/3c/199e7a3c-88e2-4852-879f-3931d0728670/verteidigungsminister-pete-hegseth-100-1920x1920.jpg",
+     "aggregator": false,
+     "published": "2026-11-10T18:05:59+00:00"
+    },
+    {
+     "source": "Deutschlandfunk",
+     "region": "DE",
+     "weight": 0.95,
+     "title": "USA - Republikanischer Abgeordneter stellt Antrag auf Amtsenthebung von Verteidigungsminister Hegseth",
+     "summary": "US-Verteidigungsminister Hegseth muss sich möglicherweise einem Amtsenthebungsverfahren stellen.",
+     "link": "https://www.deutschlandfunk.de/republikanischer-abgeordneter-stellt-antrag-auf-amtsenthebung-von-verteidigungsminister-hegseth-120.html",
+     "image": "https://bilder.deutschlandfunk.de/19/9e/7a/3c/199e7a3c-88e2-4852-879f-3931d0728670/verteidigungsminister-pete-hegseth-100-1920x1920.jpg",
+     "aggregator": false,
+     "published": "2026-11-10T18:05:59+00:00"
+    },
+    {
+     "source": "ZEIT ONLINE",
+     "region": "DE",
+     "weight": 0.9,
+     "title": "Pete Hegseth: Der Moment der Entscheidung",
+     "summary": "US-Verteidigungsminister Hegseth droht ein Amtsenthebungsverfahren. Aber es sind nicht die Demokraten, die es vorantreiben. Spaltet sich jetzt die Republikanische Partei?",
+     "link": "https://www.zeit.de/politik/ausland/2026-11/pete-hegseth-amtsenthebungsverfahren-republikaner-usa",
+     "image": "https://img.zeit.de/politik/ausland/2026-11/pete-hegseth-amtsenthebungsverfahren-republikaner-usa-bild-01/original__640x360",
+     "aggregator": false,
+     "published": "2026-11-10T16:51:22+00:00"
+    },
+    {
+     "source": "DER STANDARD",
+     "region": "AT",
+     "weight": 0.85,
+     "title": "Pete Hegseth ist zu Recht im Fadenkreuz des US-Kongresses",
+     "summary": "Der US-Verteidigungsminister antwortet auf sein Amtsenthebungsverfahren mit Gegenangriffen und Beleidigungen. Er muss hoffen, dass ihm das Zeit kauft – seine Probleme löst es nicht",
+     "link": "https://www.derstandard.at/story/3000000348601/pete-hegseth-ist-zu-recht-im-fadenkreuz-des-us-kongresses?ref=rss",
+     "image": "https://i.ds.at/nwxV3g/rs:fill:150:0/plain/lido-images/2026/11/10/68970ca9-baf2-4224-b7e7-1326967d522e.jpg",
+     "aggregator": false,
+     "published": "2026-11-10T17:47:00+00:00"
+    }
+   ]
+  },
+  {
+   "id": 11,
+   "score": 11.28,
+   "outlets": [
+    "Deutschlandfunk",
+    "ORF",
+    "ZEIT ONLINE",
+    "DER STANDARD"
+   ],
+   "regions": [
+    "AT",
+    "DE"
+   ],
+   "trend": [],
+   "newest": "2026-11-10T18:05:59+00:00",
+   "articles": [
+    {
+     "source": "Deutschlandfunk",
+     "region": "DE",
+     "weight": 0.95,
+     "title": "Cyberangriffe - Iran weist Vorwürfe Frankreichs zurück, für Hackerangriffe auf Kühlsysteme verantwortlich zu sein",
+     "summary": "Der Iran hat den Vorwurf der französischen Regierung zurückgewiesen, für die jüngsten Cyberangriffe auf Kühlsysteme von Supermarktketten verantwortlich zu sein.",
+     "link": "https://www.deutschlandfunk.de/iran-weist-vorwuerfe-frankreichs-zurueck-fuer-hackerangriffe-auf-kuehlsysteme-verantwortlich-zu-sein-100.html",
+     "image": "https://bilder.deutschlandfunk.de/09/e9/64/58/09e96458-6ffc-425f-86b0-636a168a80ca/hackerangriff-supermaerkte-100-1920x1920.jpg",
+     "aggregator": false,
+     "published": "2026-11-10T18:05:59+00:00"
+    },
+    {
+     "source": "ORF",
+     "region": "AT",
+     "weight": 0.95,
+     "title": "Kühlsystem-Hack: Iran weist Verantwortung zurück",
+     "summary": "",
+     "link": "https://orf.at/stories/3447805/",
+     "image": null,
+     "aggregator": false,
+     "published": "2026-11-10T14:23:11+00:00"
+    },
+    {
+     "source": "ZEIT ONLINE",
+     "region": "DE",
+     "weight": 0.9,
+     "title": "Cyberangriffe auf Kühlsysteme: Iran weist Verantwortung für Hackerangriffe in Frankreich zurück",
+     "summary": "Der Iran will nicht für die Sabotage von Kühlsystemen in Frankreich verantwortlich sein. Die Vorwürfe nennt das Außenministerium »lächerlich«.",
+     "link": "https://www.zeit.de/politik/ausland/2026-11/cyberangriffe-frankreich-iran-revolutionsgarden-supermarkt-sabotage",
+     "image": "https://img.zeit.de/politik/ausland/2026-11/cyberangriffe-frankreich-iran-revolutionsgarden-supermarkt-sabotage-foto-1/original__640x360",
+     "aggregator": false,
+     "published": "2026-11-10T18:05:45+00:00"
+    },
+    {
+     "source": "DER STANDARD",
+     "region": "AT",
+     "weight": 0.85,
+     "title": "Iran weist Verantwortung für Cyberangriffe auf Kühlanlagen zurück",
+     "summary": "Die französische Regierung hatte dem Iran vorgeworfen, für die jüngsten Cyberangriffe auf Kühlsysteme von Supermarktketten verantwortlich zu sein",
+     "link": "https://www.derstandard.at/story/3000000348584/iran-weist-verantwortung-fuer-cyberangriffe-auf-kuehlanlagen-zurueck?ref=rss",
+     "image": "https://i.ds.at/bPFoDg/rs:fill:150:0/plain/lido-images/2026/11/10/1866390d-14c0-483c-a03b-e540d6bd2ac2.jpg",
+     "aggregator": false,
+     "published": "2026-11-10T14:26:57+00:00"
+    }
+   ]
+  },
+  {
+   "id": 12,
+   "score": 11.04,
+   "outlets": [
+    "ZDFheute",
+    "SPIEGEL",
+    "NZZ",
+    "WirtschaftsWoche"
+   ],
+   "regions": [
+    "CH",
+    "DE"
+   ],
+   "trend": [],
+   "newest": "2026-11-10T17:21:45+00:00",
+   "articles": [
+    {
+     "source": "ZDFheute",
+     "region": "DE",
+     "weight": 1.0,
+     "title": "Verfassungsschutz warnt Manager vor \"Honigfallen\"",
+     "summary": "Nach dem möglichen Spionagefall bei Nvidia warnt der Verfassungsschutz: Auch in Deutschland könnten Manager von ausländischen Geheimdiensten geködert werden.",
+     "link": "https://www.zdfheute.de/politik/deutschland/verfassungsschutz-warnung-spione-manager-100.html",
+     "image": "https://www.zdfheute.de/assets/honigfallen-wirtschaftsspionage-100~384x216?cb=1794301666934",
+     "aggregator": false,
+     "published": "2026-11-10T09:22:00+00:00"
+    },
+    {
+     "source": "SPIEGEL",
+     "region": "DE",
+     "weight": 0.9,
+     "title": "News des Tages: Warnung vor Honigfallen, Prozess gegen Gina H., Stromsteuersenkung",
+     "summary": "Der Verfassungsschutz warnt vor sogenannten Honigfallen. Das Urteil im Fall des getöteten Fabian ist gefallen. Und die Union hat einen Plan zur Senkung der Stromsteuer. Das ist die Lage am Dienstagabend.",
+     "link": "https://www.spiegel.de/politik/deutschland/news-des-tages-warnung-vor-honigfallen-prozess-gegen-gina-h-stromsteuersenkung-a-d6f8f89c-e73c-4942-a45b-9f6731d01299#ref=rss",
+     "image": "https://cdn.prod.www.spiegel.de/images/31b9e1e5-c168-4d3a-a5ce-aee67f98f83f_w520_r2.08_fpx72_fpy48.jpg",
+     "aggregator": false,
+     "published": "2026-11-10T17:00:00+00:00"
+    },
+    {
+     "source": "NZZ",
+     "region": "CH",
+     "weight": 0.9,
+     "title": "Nvidia ist überall: Wirtschaftsspionage greift um sich – aber Schweizer Firmen schlafen",
+     "summary": "Industriespionage nimmt zu, immer öfter mischen Geheimdienste mit. Manche Unternehmen in der Schweiz gelten als «gefundenes Fressen», warnt eine Expertin.",
+     "link": "https://www.nzz.ch/wirtschaft/nvidia-affaere-spionage-trifft-auch-unternehmen-aus-der-schweiz-und-deutschland-ld.10058600",
+     "image": "https://img-msp-prod.nzz.ch/2026/11/04/e2d574c1-8d1e-4d2e-afb7-7f711e305d02.jpg?width=200&height=200&fit=bounds&quality=75&auto=webp&crop=5325,5325,x332,y0",
+     "aggregator": false,
+     "published": "2026-11-10T17:21:45+00:00"
+    },
+    {
+     "source": "WirtschaftsWoche",
+     "region": "DE",
+     "weight": 0.85,
+     "title": "Wirtschaftsspionage: Honigfallen und fingierte Lebensläufe – wie sich Firmen schützen können",
+     "summary": "Der mögliche Spionageskandal bei Nvidia zeigt, wie wichtig Vorsorgemaßnahmen sind. Ein Sicherheitsexperte gibt Tipps, wie sich Unternehmen schützen können.",
+     "link": "https://www.wiwo.de/erfolg/management/nvidia-chef-jensen-huang-so-koennen-sich-unternehmen-vor-spionage-schuetzen/100268484.html",
+     "image": "https://images.wiwo.de/bIYnfdoliAiR/cover/900/506/0/0/72/421/0.5/0.5/nvidia-ceo-jensen-huang-listens-as-president-donald-trump-speaks-during-an-event-at-the-u.s.-institu.jpg",
+     "aggregator": false,
+     "published": "2026-11-10T16:45:00+00:00"
+    }
+   ]
+  },
+  {
+   "id": 13,
+   "score": 10.98,
+   "outlets": [
+    "Deutschlandfunk",
+    "Süddeutsche",
+    "DER STANDARD",
+    "n-tv"
+   ],
+   "regions": [
+    "AT",
+    "DE"
+   ],
+   "trend": [],
+   "newest": "2026-11-10T18:05:59+00:00",
+   "articles": [
+    {
+     "source": "Deutschlandfunk",
+     "region": "DE",
+     "weight": 0.95,
+     "title": "Sachsen-Anhalt - Linken-Fraktionschefin von Angern tritt bei Ministerpräsidentenwahl gegen AfD-Politiker Siegmund an",
+     "summary": "Die Linke hat für die im Dezember geplante Ministerpräsidentenwahl in Sachsen-Anhalt eine eigene Kandidatin aufgestellt. Die Landtagsfraktion in Magdeburg beschloss einstimmig, dass ihre Vorsitzende von Angern gegen den AfD-Politiker Siegmund antritt.",
+     "link": "https://www.deutschlandfunk.de/linken-fraktionschefin-von-angern-tritt-bei-ministerpraesidentenwahl-gegen-afd-politiker-siegmund-an-102.html",
+     "image": "https://bilder.deutschlandfunk.de/27/8e/f9/a4/278ef9a4-f17e-4128-a6a4-45876a53b6db/landtag-sachsen-anhalt-magdeburg-100-1920x1920.jpg",
+     "aggregator": false,
+     "published": "2026-11-10T18:05:59+00:00"
+    },
+    {
+     "source": "Süddeutsche",
+     "region": "DE",
+     "weight": 0.9,
+     "title": "Linke in Sachsen-Anhalt: „Wir sind nicht das Kaninchen vor der Schlange“",
+     "summary": "Die Linke schickt ihre Fraktionschefin gegen die AfD in die Ministerpräsidentenwahl. Aussicht auf Erfolg hat Eva von Angern nicht. Doch in der AfD wächst die Erkenntnis: Regieren könnte schwieriger werden als gedacht.",
+     "link": "https://www.sueddeutsche.de/politik/sachsen-anhalt-regierungsbildung-linke-afd-cdu-li.3577532",
+     "image": "https://www.sueddeutsche.de/2026/11/10/2217b723-e38b-434e-8e9f-c9e745db4a2f.jpg?rect=1181%2C411%2C2344%2C1758&width=1000&fm=jpg&q=60",
+     "aggregator": false,
+     "published": "2026-11-10T13:38:36+00:00"
+    },
+    {
+     "source": "DER STANDARD",
+     "region": "AT",
+     "weight": 0.85,
+     "title": "AfD-Mann Siegmund bekommt bei Wahl zum Ministerpräsidenten linke Konkurrenz",
+     "summary": "Im Dezember will sich Ulrich Siegmund in Sachsen-Anhalt zum ersten AfD-Ministerpräsidenten wählen lassen. Die Linke Eva von Angern wird gegen ihn antreten",
+     "link": "https://www.derstandard.at/story/3000000348546/afd-mann-siegmund-bekommt-bei-wahl-zum-ministerpraesidenten-linke-konkurrenz?ref=rss",
+     "image": "https://i.ds.at/hZbj0A/rs:fill:150:0/plain/lido-images/2026/11/10/6ef754a2-67e2-44c5-befd-41527261623c.jpg",
+     "aggregator": false,
+     "published": "2026-11-10T13:33:03+00:00"
+    },
+    {
+     "source": "n-tv",
+     "region": "DE",
+     "weight": 0.8,
+     "title": "Alternative zur AfD: Linke stellt Kandidatin zur Ministerpräsidentenwahl in Sachsen-Anhalt auf",
+     "summary": "Bei der für Dezember geplanten Ministerpräsidentenwahl in Sachsen-Anhalt könnte mit Ulrich Siegmund erstmals ein AfD-Politiker an die Spitze einer Landesregierung geraten. Das will eine Partei verhindern: Die Linke stellt eine eigene Kandidatin zur Wahl auf.",
+     "link": "https://www.n-tv.de/politik/Fraktionschefin-Eva-von-Angern-tritt-bei-Wahl-des-Ministerpraesidenten-in-Sachsen-Anhalt-gegen-AfD-Politiker-Ulrich-Siegmund-an-id31517886.html",
+     "image": "https://www.n-tv.de/img/31517930/1794325394/Img_4_3/250/632224312.jpg",
+     "aggregator": false,
+     "published": "2026-11-10T15:41:38+00:00"
+    }
+   ]
+  },
+  {
+   "id": 14,
+   "score": 10.35,
+   "outlets": [
+    "tagesschau",
+    "ZDFheute",
+    "Süddeutsche",
+    "Spiegel"
+   ],
+   "regions": [
+    "DE"
+   ],
+   "trend": [],
+   "newest": "2026-11-10T17:59:21+00:00",
+   "articles": [
+    {
+     "source": "tagesschau",
+     "region": "DE",
+     "weight": 1.0,
+     "title": "Angeklagte im Fall Fabian zu lebenslanger Haft verurteilt",
+     "summary": "Im Mordprozess um den achtjährigen Fabian aus Güstrow hat das Landgericht Rostock sein Urteil verkündet. Die Angeklagte wurde schuldig gesprochen und zu lebenslanger Haft verurteilt.",
+     "link": "https://www.tagesschau.de/inland/regional/mecklenburgvorpommern/urteil-im-mordfall-fabian-gina-h-zu-lebenslanger-haft-verurteilt,aktuellmv-438.html",
+     "image": "https://images.ndr.de/image/b09b74de-f3d9-4bc5-a224-aff98d54e86f/AAABocYrAGU/AAABnSSvrFg/16x9-big/screenshot-258436.jpg?width=1920",
+     "aggregator": false,
+     "published": "2026-11-10T17:59:21+00:00"
+    },
+    {
+     "source": "ZDFheute",
+     "region": "DE",
+     "weight": 1.0,
+     "title": "Mord an Fabian: Angeklagte zu lebenslanger Haft verurteilt",
+     "summary": "Im Fall Fabian ist das Urteil verkündet worden: Die Angeklagte Gina H. wurde wegen Mordes zu lebenslanger Haft verurteilt.",
+     "link": "https://www.zdfheute.de/panorama/kriminalitaet/lebenslange-haft-prozess-mord-fabian-100.html",
+     "image": "https://www.zdfheute.de/assets/mordprozess-im-fall-fabian-100~384x216?cb=1794310958993",
+     "aggregator": false,
+     "published": "2026-11-10T11:37:34+00:00"
+    },
+    {
+     "source": "Süddeutsche",
+     "region": "DE",
+     "weight": 0.9,
+     "title": "Urteil im „Fabian-Prozess“: „Sie wollten, dass Fabian stirbt, der Junge war für Sie nur ein Objekt“",
+     "summary": "Der Richter spricht Gina H. direkt an, als er sie für den Mord an dem achtjährigen Fabian zu lebenslanger Haft verurteilt. Ihr Motiv: die obsessive Beziehung zu dessen Vater. Fabians Mutter kämpft im Saal mit den Tränen.",
+     "link": "https://www.sueddeutsche.de/panorama/fabian-prozess-urteil-gina-h-guestrow-mord-urteil-li.3575410",
+     "image": "https://www.sueddeutsche.de/2026/11/10/fff55b7b-8e5e-4bce-86bf-abaa92ae151c.jpg?rect=1068%2C573%2C2664%2C1998&width=1000&fm=jpg&q=60",
+     "aggregator": false,
+     "published": "2026-11-10T15:21:56+00:00"
+    },
+    {
+     "source": "Spiegel",
+     "region": "DE",
+     "weight": 0.6,
+     "title": "Fall Fabian/Rostock: Gina H. zu lebenslanger Haft verurteilt",
+     "summary": "Fall Fabian/Rostock: Gina H. zu lebenslanger Haft verurteilt Spiegel Das verstörende Bild der Gina H. – wer ist die Frau hinter der Akte? n-tv.de Mit deutlichen Worten an Gina H. räumt der Richter jeden Zweifel aus WEB.DE Der Fall Fabian - Hinter der Akte - Film online anschauen RTL+ Fall Fabian: So bewertet ein Profiler das Urteil gegen Gina H. ZDFheute",
+     "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNcjVCSmQwQVlXaXU4QUcxaGFPUjZ5VmFscWlaTzVuSEtoeFBkdXlfei1sQ3BEa19fTDlWcTZSODF1RW5kTzJ2UUlpOFVDTEtzaVZnaEtlVjllemtKZTY3andyUnRrZzk2WUtBdGR3YVh2am5aTlhNZXV2bHZWUExkRW5jQWlTSzl5clRjN1ZjSExrU1ZHNTNqTXFKcllPQzkwbGotZHZvcVhObGtubTRwVExQeFBjMWNLeVc3eVJBeFR1VEFSVUxaTjA4NXg0QzByN1E?oc=5",
+     "image": null,
+     "aggregator": true,
+     "published": "2026-11-10T11:37:00+00:00"
+    }
+   ]
+  },
+  {
+   "id": 15,
+   "score": 9.88,
+   "outlets": [
+    "tagesschau",
+    "ZDFheute",
+    "Deutschlandfunk"
+   ],
+   "regions": [
+    "DE"
+   ],
+   "trend": [],
+   "newest": "2026-11-10T18:05:59+00:00",
+   "articles": [
+    {
+     "source": "tagesschau",
+     "region": "DE",
+     "weight": 1.0,
+     "title": "Sportvereine in Deutschland haben so viele Mitglieder wie noch nie",
+     "summary": "Die deutschen Sportvereine haben so viele Mitglieder wie noch nie. In allen Bundesländern sind die Zahlen nach oben gegangen. Fußball bleibt unangefochten an der Spitze - andere Sportarten haben Mitglieder verloren.",
+     "link": "https://www.tagesschau.de/inland/gesellschaft/sportvereine-mitglieder-102.html",
+     "image": "https://images.tagesschau.de/image/0a4f6fc5-5495-462b-9aca-e579b5609692/AAABocSOYyc/AAABnSSvrFg/16x9-big/fussballplatz-118.jpg?width=1920",
+     "aggregator": false,
+     "published": "2026-11-10T09:05:59+00:00"
+    },
+    {
+     "source": "tagesschau Inland",
+     "region": "DE",
+     "weight": 1.0,
+     "title": "Sportvereine in Deutschland haben so viele Mitglieder wie noch nie",
+     "summary": "Die deutschen Sportvereine haben so viele Mitglieder wie noch nie. In allen Bundesländern sind die Zahlen nach oben gegangen. Fußball bleibt unangefochten an der Spitze - andere Sportarten haben Mitglieder verloren.",
+     "link": "https://www.tagesschau.de/inland/gesellschaft/sportvereine-mitglieder-102.html",
+     "image": "https://images.tagesschau.de/image/0a4f6fc5-5495-462b-9aca-e579b5609692/AAABocSOYyc/AAABnSSvrFg/16x9-big/fussballplatz-118.jpg?width=1920",
+     "aggregator": false,
+     "published": "2026-11-10T09:05:59+00:00"
+    },
+    {
+     "source": "ZDFheute",
+     "region": "DE",
+     "weight": 1.0,
+     "title": "Deutsche Sportvereine haben so viele Mitglieder wie nie",
+     "summary": "Es ist der dritte Rekord in Folge. 2026 sind erstmals mehr als 30 Millionen Mitglieder in deutschen Sportvereinen registriert. Kleine Sportarten stechen beim Wachstum hervor.",
+     "link": "https://www.zdfheute.de/panorama/sport-vereine-deutschland-mitglieder-rekord-100.html",
+     "image": "https://www.zdfheute.de/assets/volleyball-sportvereine-symbolbild-100~384x216?cb=1794328780769",
+     "aggregator": false,
+     "published": "2026-11-10T09:30:00+00:00"
+    },
+    {
+     "source": "Deutschlandfunk",
+     "region": "DE",
+     "weight": 0.95,
+     "title": "Rekord - Sportvereine haben über 30 Millionen Mitglieder",
+     "summary": "Die Zahl der Mitglieder in den deutschen Sportvereinen ist auf eine Rekordhöhe gestiegen.",
+     "link": "https://www.deutschlandfunk.de/sportvereine-haben-ueber-30-millionen-mitglieder-102.html",
+     "image": "https://bilder.deutschlandfunk.de/75/de/66/35/75de6635-de1b-4396-a7f0-957e7ae8b2e5/dosb-logo-schild-100-1920x1920.jpg",
+     "aggregator": false,
+     "published": "2026-11-10T18:05:59+00:00"
+    }
+   ]
+  },
+  {
+   "id": 16,
+   "score": 9.68,
+   "outlets": [
+    "tagesschau",
+    "Deutschlandfunk",
+    "Süddeutsche"
+   ],
+   "regions": [
+    "DE"
+   ],
+   "trend": [],
+   "newest": "2026-11-10T18:05:59+00:00",
+   "articles": [
+    {
+     "source": "tagesschau",
+     "region": "DE",
+     "weight": 1.0,
+     "title": "Strafprozess gegen ehemalige rbb-Intendantin Schlesinger beginnt",
+     "summary": "Hat sich Patricia Schlesinger in ihrer Zeit als Intendantin des rbb strafbar gemacht? Heute wird gegen sie und drei weitere Angeklagte der Prozess eröffnet. Das Gericht geht von 56 Verhandlungstagen aus.",
+     "link": "https://www.tagesschau.de/inland/regional/brandenburg/rbb-strafprozess-gegen-ehemalige-rbb-intendantin-schlesinger-beginnt-102.html",
+     "image": "https://images.tagesschau.de/image/5a866191-2a35-42f0-b899-8614ed5ace3b/AAABocU-fVw/AAABnSSvrFg/16x9-big/rbb-schlesinger-prozess-102.jpg?width=1920",
+     "aggregator": false,
+     "published": "2026-11-10T11:35:39+00:00"
+    },
+    {
+     "source": "Deutschlandfunk",
+     "region": "DE",
+     "weight": 0.95,
+     "title": "Berliner Landgericht - Prozess gegen frührere RBB-Intendantin Schlesinger begonnen",
+     "summary": "Am Berliner Landgericht hat der Prozess gegen die frühere RBB-Intendantin Schlesinger und drei weitere Angeklagte begonnen. Die Generalstaatsanwaltschaft wirft ihnen Untreue vor. Laut Anklage sollen sie dem Rundfunk Berlin-Brandenburg zwischen Januar 2018 und Juli 2022 einen finanziellen Schaden von 1,7 Millionen Euro verursacht haben.",
+     "link": "https://www.deutschlandfunk.de/prozess-gegen-fruehrere-rbb-intendantin-schlesinger-begonnen-100.html",
+     "image": "https://bilder.deutschlandfunk.de/7a/5a/dc/64/7a5adc64-ea05-4d53-b26b-f58de65cebd8/patricia-schlesinger-114-1920x1920.jpg",
+     "aggregator": false,
+     "published": "2026-11-10T18:05:59+00:00"
+    },
+    {
+     "source": "Süddeutsche",
+     "region": "DE",
+     "weight": 0.9,
+     "title": "Öffentlich-Rechtliche: Strafsache RBB",
+     "summary": "Das Landgericht Berlin untersucht Untreue-Vorwürfe gegen Ex-Intendantin Patricia Schlesinger und weitere Angeklagte. Die wehren sich. Szenen der Wahrheitssuche in einem gigantischen öffentlich-rechtlichen Skandal.",
+     "link": "https://www.sueddeutsche.de/medien/patricia-schlesinger-untreue-rbb-skandal-verhandlung-li.3574069",
+     "image": "https://www.sueddeutsche.de/2026/11/10/6340f164-665b-413a-bee4-558a5b3fb266.jpg?rect=468%2C91%2C3048%2C2286&width=1000&fm=jpg&q=60",
+     "aggregator": false,
+     "published": "2026-11-10T14:38:02+00:00"
+    }
+   ]
+  },
+  {
+   "id": 17,
+   "score": 9.48,
+   "outlets": [
+    "tagesschau",
+    "Deutschlandfunk",
+    "n-tv"
+   ],
+   "regions": [
+    "DE"
+   ],
+   "trend": [],
+   "newest": "2026-11-10T18:05:59+00:00",
+   "articles": [
+    {
+     "source": "tagesschau",
+     "region": "DE",
+     "weight": 1.0,
+     "title": "Gesetz gegen überhöhte Preise: Deckel für Ticketbörsen in der Planung",
+     "summary": "Extreme Preisaufschläge beim Weiterverkauf von Tickets - das möchte Justiz- und Verbraucherschutzministerin Hubig in Zukunft unterbinden. Dafür ist ein Gesetz nun in der internen Abstimmung.",
+     "link": "https://www.tagesschau.de/inland/innenpolitik/ticket-weiterverkauf-beschraenkung-100.html",
+     "image": "https://images.tagesschau.de/image/37a2c120-98ef-4700-a86a-026375756216/AAABocRdGv4/AAABnSSvrFg/16x9-big/konzertkarten-102.jpg?width=1920",
+     "aggregator": false,
+     "published": "2026-11-10T04:10:12+00:00"
+    },
+    {
+     "source": "tagesschau Inland",
+     "region": "DE",
+     "weight": 1.0,
+     "title": "Gesetz gegen überhöhte Preise: Deckel für Ticketbörsen in der Planung",
+     "summary": "Extreme Preisaufschläge beim Weiterverkauf von Tickets - das möchte Justiz- und Verbraucherschutzministerin Hubig in Zukunft unterbinden. Dafür ist ein Gesetz nun in der internen Abstimmung.",
+     "link": "https://www.tagesschau.de/inland/innenpolitik/ticket-weiterverkauf-beschraenkung-100.html",
+     "image": "https://images.tagesschau.de/image/37a2c120-98ef-4700-a86a-026375756216/AAABocRdGv4/AAABnSSvrFg/16x9-big/konzertkarten-102.jpg?width=1920",
+     "aggregator": false,
+     "published": "2026-11-10T04:10:12+00:00"
+    },
+    {
+     "source": "Deutschlandfunk",
+     "region": "DE",
+     "weight": 0.95,
+     "title": "Ticketbörsen - Bundesjustizministerin Hubig will gesetzlichen Preisdeckel einführen",
+     "summary": "Bundesjustizministerin Hubig hat angesichts der Preise auf dem Ticket-Zweitmarkt angekündigt, dass Preisaufschläge künftig begrenzt werden.",
+     "link": "https://www.deutschlandfunk.de/bundesjustizministerin-hubig-will-gesetzlichen-preisdeckel-einfuehren-100.html",
+     "image": "https://bilder.deutschlandfunk.de/5e/7a/a9/77/5e7aa977-83c0-4c4c-a01c-5bb7fe1128c6/viagogo-ticket-zweitmarkt-100-1920x1920.jpg",
+     "aggregator": false,
+     "published": "2026-11-10T18:05:59+00:00"
+    },
+    {
+     "source": "n-tv",
+     "region": "DE",
+     "weight": 0.8,
+     "title": "\"Abzocke beenden\": Preisdeckel für Ticketbörsen soll vor nächstem Sommer kommen",
+     "summary": "Preise für den Wiederverkauf von Konzerttickets sollen durch ein Gesetz des Justizministeriums gedeckelt werden. Ministerin Hubig möchte damit gegen den Wucher auf Zweitplattformen vorgehen.",
+     "link": "https://www.n-tv.de/wirtschaft/Justizministerin-Hubig-Preisdeckel-fuer-Ticketboersen-bis-naechsten-Sommer-id31517791.html",
+     "image": "https://www.n-tv.de/img/31517677/1794324325/Img_4_3/250/601408838.jpg",
+     "aggregator": false,
+     "published": "2026-11-10T15:31:33+00:00"
+    }
+   ]
+  },
+  {
+   "id": 18,
+   "score": 9.37,
+   "outlets": [
+    "tagesschau",
+    "ZDFheute",
+    "NZZ"
+   ],
+   "regions": [
+    "CH",
+    "DE",
+    "INT"
+   ],
+   "trend": [],
+   "newest": "2026-11-10T16:51:08+00:00",
+   "articles": [
+    {
+     "source": "tagesschau",
+     "region": "DE",
+     "weight": 1.0,
+     "title": "Wadephul warnt Iran vor hybriden Angriffen",
+     "summary": "Frankreich sieht Iran hinter den Cyberangriffen auf Kühlanlagen - doch das Land dementiert. Die deutschen Behörden haben sich noch nicht festgelegt, Außenminister Wadephul warnte Teheran nun aber vor hybriden Attacken.",
+     "link": "https://www.tagesschau.de/ausland/wadephul-iran-102.html",
+     "image": "https://images.tagesschau.de/image/79f7f894-6702-41bc-884f-319d4495e6dd/AAABocZKB68/AAABnSSvrFg/16x9-big/wadephul-436.jpg?width=1920",
+     "aggregator": false,
+     "published": "2026-11-10T16:51:08+00:00"
+    },
+    {
+     "source": "tagesschau Ausland",
+     "region": "INT",
+     "weight": 1.0,
+     "title": "Wadephul warnt Iran vor hybriden Angriffen",
+     "summary": "Frankreich sieht Iran hinter den Cyberangriffen auf Kühlanlagen - doch das Land dementiert. Die deutschen Behörden haben sich noch nicht festgelegt, Außenminister Wadephul warnte Teheran nun aber vor hybriden Attacken.",
+     "link": "https://www.tagesschau.de/ausland/wadephul-iran-102.html",
+     "image": "https://images.tagesschau.de/image/79f7f894-6702-41bc-884f-319d4495e6dd/AAABocZKB68/AAABnSSvrFg/16x9-big/wadephul-436.jpg?width=1920",
+     "aggregator": false,
+     "published": "2026-11-10T16:51:08+00:00"
+    },
+    {
+     "source": "ZDFheute",
+     "region": "DE",
+     "weight": 1.0,
+     "title": "Paris: Iran für Kühlanlagen-Cyberangriffe verantwortlich",
+     "summary": "Nach Cyberangriffen auf Kühlanlagen hat Frankreichs Innenminister die iranischen Revolutionsgarden dafür verantwortlich gemacht.",
+     "link": "https://www.zdfheute.de/politik/ausland/frankreich-kuehlsysteme-attacken-iran-revolutionsgarden-100.html",
+     "image": "https://www.zdfheute.de/assets/frankreich-supermarkt-kuehlung-cyberangriff-100~384x216?cb=1794243000790",
+     "aggregator": false,
+     "published": "2026-11-09T16:44:00+00:00"
+    },
+    {
+     "source": "NZZ",
+     "region": "CH",
+     "weight": 0.9,
+     "title": "Frankreich macht Iran für Cyberangriff auf Supermärkte verantwortlich und droht mit scharfen Massnahmen",
+     "summary": "Hinter dem Angriff auf die Kühlsysteme von rund 700 Standorten soll eine Cyberwarfare-Einheit der Islamischen Revolutionswächter stehen. Aussenminister Barrot kündigt europäische Sanktionen gegen Iran an.",
+     "link": "https://www.nzz.ch/international/cyberattacke-auf-supermaerkte-paris-droht-iran-mit-harter-antwort-ld.10059822",
+     "image": "https://img-msp-prod.nzz.ch/2026/11/03/6aef3a14-3d12-45b5-b649-162a84bf67f5.jpg?width=200&height=200&fit=bounds&quality=75&auto=webp&crop=3992,3992,x1004,y0",
+     "aggregator": false,
+     "published": "2026-11-10T16:00:00+00:00"
+    }
+   ]
+  },
+  {
+   "id": 19,
+   "score": 9.28,
+   "outlets": [
+    "Deutschlandfunk",
+    "heise online",
+    "DER STANDARD"
+   ],
+   "regions": [
+    "AT",
+    "DE"
+   ],
+   "trend": [],
+   "newest": "2026-11-10T18:05:59+00:00",
+   "articles": [
+    {
+     "source": "Deutschlandfunk",
+     "region": "DE",
+     "weight": 0.95,
+     "title": "Regulierung - Nach Hackerangriff durch OpenAI-Agenten: Australien will Regeln für Tech-Konzerne verschärfen",
+     "summary": "Nach einem Sicherheitsvorfall mit Künstlicher Intelligenz des US-Konzerns OpenAI verschärft Australien ⁠die Regeln ⁠für Technologiekonzerne.",
+     "link": "https://www.deutschlandfunk.de/nach-hackerangriff-durch-openai-agenten-australien-will-regeln-fuer-tech-konzerne-verschaerfen-100.html",
+     "image": "https://bilder.deutschlandfunk.de/ac/f7/06/1e/acf7061e-9c18-485e-b9aa-b624fee3eefe/australien-premier-albanese-100-1920x1920.jpg",
+     "aggregator": false,
+     "published": "2026-11-10T18:05:59+00:00"
+    },
+    {
+     "source": "heise online",
+     "region": "DE",
+     "weight": 0.85,
+     "title": "Australien verschärft KI-Regularien nach OpenAI-Angriffen",
+     "summary": "Nach einem Vorfall mit einem OpenAI-Agenten verschärft Australien die Sicherheitsvorschriften für KI-Entwickler. Melden von Vorfällen wird Pflicht.",
+     "link": "https://www.heise.de/news/Australien-verschaerft-KI-Regularien-nach-OpenAI-Angriffen-11518320.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
+     "image": null,
+     "aggregator": false,
+     "published": "2026-11-10T09:03:00+00:00"
+    },
+    {
+     "source": "DER STANDARD",
+     "region": "AT",
+     "weight": 0.85,
+     "title": "Australien will nach Hackerangriff durch KI-Agenten Regeln für Tech-Konzerne verschärfen",
+     "summary": "Ein KI-Agent von OpenAI hatte das australische Gesundheitssystem angegriffen. Unternehmen sollen Verstöße künftig melden. Zudem sind Änderungen im Strafrecht geplant",
+     "link": "https://www.derstandard.at/story/3000000348356/australien-will-regeln-f252r-tech-konzerne-versch228rfen?ref=rss",
+     "image": "https://i.ds.at/srE7Bg/rs:fill:150:0/plain/lido-images/2026/11/10/e0dc89c8-1559-400f-b606-8664e21b60ed.jpg",
+     "aggregator": false,
+     "published": "2026-11-10T06:39:34+00:00"
+    }
+   ]
+  },
+  {
+   "id": 20,
+   "score": 8.98,
+   "outlets": [
+    "tagesschau Inland",
+    "ZDFheute",
+    "SPIEGEL"
+   ],
+   "regions": [
+    "DE"
+   ],
+   "trend": [],
+   "newest": "2026-11-10T15:42:00+00:00",
+   "articles": [
+    {
+     "source": "tagesschau Inland",
+     "region": "DE",
+     "weight": 1.0,
+     "title": "Merz verteidigt Ablauf der Nominierung von Aigner",
+     "summary": "199 Tage hat es gedauert, bis sich Kanzler Merz hinter Aigner als Kandidatin zur Bundespräsidentin stellte. Im tagesthemen-Interview verteidigt er den Prozess, der \"störungsfrei\" und \"harmonisch\" abgelaufen sei. Aigner sei die Richtige für das Amt.",
+     "link": "https://www.tagesschau.de/inland/innenpolitik/merz-aigner-bundespraesidentin-100.html",
+     "image": "https://images.tagesschau.de/image/959a7fee-357f-4092-a4e7-843f1ce6ebbe/AAABocRXSAg/AAABnSSvrFg/16x9-big/sendungsbild-1825142.jpg?width=1920",
+     "aggregator": false,
+     "published": "2026-11-09T21:27:31+00:00"
+    },
+    {
+     "source": "tagesschau Inland",
+     "region": "DE",
+     "weight": 1.0,
+     "title": "Warum Merz sich doch für Aigner als Bundespräsidentin stark macht",
+     "summary": "Lange hatte der Kanzler gezögert - nun ist es offiziell: Die CDU überlässt das höchste Staatsamt der kleinen Schwesterpartei aus Bayern. Die viel befürchtete Kritik in den eigenen Reihen ist ausgeblieben. Von Jannik Pentz.",
+     "link": "https://www.tagesschau.de/inland/innenpolitik/merz-aigner-kandidatin-bundespraesidentin-100.html",
+     "image": "https://images.tagesschau.de/image/305b59b8-9dc9-460c-9bb4-6ba0b48f1eb8/AAABocDAhaM/AAABnSSvrFg/16x9-big/merz-aigner-118.jpg?width=1920",
+     "aggregator": false,
+     "published": "2026-11-09T14:48:54+00:00"
+    },
+    {
+     "source": "tagesschau Inland",
+     "region": "DE",
+     "weight": 1.0,
+     "title": "Aigner soll Bundespräsidentin werden: \"Meine Sprache wird klar sein und verständlich\"",
+     "summary": "Eine Bundespräsidentin \"mit Würde und Herz\": Kanzler Merz sieht Ilse Aigner als genau richtige Kandidatin. Die 61-Jährige zeigte sich bewegt von der Nominierung - und machte klar, wofür sie steht: eine Politik der Mitte.",
+     "link": "https://www.tagesschau.de/inland/innenpolitik/aigner-merz-bundespraesidentin-100.html",
+     "image": "https://images.tagesschau.de/image/5d5d22be-0a9e-4795-ba7f-4b4750b82e1d/AAABocCHU3k/AAABnSSvrFg/16x9-big/merz-aigner-114.jpg?width=1920",
+     "aggregator": false,
+     "published": "2026-11-09T14:45:20+00:00"
+    },
+    {
+     "source": "tagesschau Inland",
+     "region": "DE",
+     "weight": 1.0,
+     "title": "Bundespräsidenten-Wahl: Merz bricht sein Schweigen und schlägt Aigner vor",
+     "summary": "Lange hatte er darüber nachgedacht und sich zurückgehalten - am Abend sprach sich Kanzler Merz dann für Ilse Aigner als Bundespräsidentin aus. Heute wollen beide offiziell vor die Presse treten. Von Sabine Henkel.",
+     "link": "https://www.tagesschau.de/inland/innenpolitik/aigner-bundespraesidentin-100.html",
+     "image": "https://images.tagesschau.de/image/b9a1484e-0137-48fd-96c3-88255c4468fb/AAABoXhnvbQ/AAABnSSvrFg/16x9-big/merz-aigner-100.jpg?width=1920",
+     "aggregator": false,
+     "published": "2026-11-09T03:34:40+00:00"
+    },
+    {
+     "source": "tagesschau Inland",
+     "region": "DE",
+     "weight": 1.0,
+     "title": "Kanzler Merz will Aigner als Bundespräsidentin vorschlagen",
+     "summary": "Bislang hatte sich Kanzler Merz in der Frage zur Bundespräsidenten-Nachfolge zurückgehalten. Jetzt machte er es offiziell: Der CDU-Chef will am Montag Ilse Aigner dafür vorschlagen - als erste Frau in diesem Amt.",
+     "link": "https://www.tagesschau.de/inland/innenpolitik/aigner-bundespraesidentin-merz-100.html",
+     "image": "https://images.tagesschau.de/image/6da58f42-1c07-49a0-b569-a2efe0a6b4c1/AAABobzD-w8/AAABnSSvrFg/16x9-big/aigner-merz-102.jpg?width=1920",
+     "aggregator": false,
+     "published": "2026-11-08T20:05:22+00:00"
+    },
+    {
+     "source": "ZDFheute",
+     "region": "DE",
+     "weight": 1.0,
+     "title": "Merz: Aigner-Nominierung nicht \"holprig\"",
+     "summary": "Bundeskanzler Friedrich Merz (CDU) hat Kritik am Verfahren zur Nominierung von Ilse Aigner als Bundespräsidentin zurückgewiesen. Der Prozess sei \"alles andere als holprig\" gewesen.",
+     "link": "https://www.zdfheute.de/video/cdu-merz-aigner-nominierung-video-100.html",
+     "image": "https://www.zdfheute.de/assets/friedrich-merz-zdf-100~384x216?cb=1794263813940",
+     "aggregator": false,
+     "published": "2026-11-09T21:55:42+00:00"
+    },
+    {
+     "source": "ZDFheute",
+     "region": "DE",
+     "weight": 1.0,
+     "title": "Ilse Aigner will \"Nähe zu den Menschen...mit Herz und Verstand\"",
+     "summary": "Pressekonferenz mit Bundeskanzler Friedrich Merz (CDU) und Ilse Aigner (CSU) zu ihrer Nominierung für das Amt der Bundespräsidentin",
+     "link": "https://www.phoenix.de/steinmeiers-nachfolge-a-5246374.html",
+     "image": "https://www.zdfheute.de/assets/teaser-phoenix-ilse-aigner-will-naehe-zu-den-menschenmit-herz-und-verstand-5246437-100~384x216?cb=1794230569769",
+     "aggregator": false,
+     "published": "2026-11-09T12:11:00+00:00"
+    },
+    {
+     "source": "SPIEGEL",
+     "region": "DE",
+     "weight": 0.9,
+     "title": "Ilse Aigner sieht sich als »kleines Novum« – Unionskollegen loben sie als Brückenbauerin",
+     "summary": "Ilse Aigner wird wohl Deutschlands erste Bundespräsidentin. In Berlin trat sie mit Kanzler Merz und Bayerns Ministerpräsident Söder vor die Presse. Im Vordergrund: Aigners Herz.",
+     "link": "https://www.spiegel.de/politik/ilse-aigner-sieht-sich-als-kleines-novum-unionskollegen-loben-sie-als-brueckenbauerin-a-bdd9aa17-e774-4b67-8217-97acf2b603e2#ref=rss",
+     "image": "https://cdn.prod.www.spiegel.de/images/c5617864-8638-4864-9fb4-8efb8c8d2d72_w520_r2.08_fpx39.98_fpy49.99.jpg",
+     "aggregator": false,
+     "published": "2026-11-10T15:42:00+00:00"
+    }
+   ]
+  },
+  {
+   "id": 21,
+   "score": 8.66,
+   "outlets": [
+    "ORF",
+    "Handelsblatt",
+    "WirtschaftsWoche"
+   ],
+   "regions": [
+    "AT",
+    "DE"
+   ],
+   "trend": [],
+   "newest": "2026-11-10T15:55:57+00:00",
+   "articles": [
+    {
+     "source": "ORF",
+     "region": "AT",
+     "weight": 0.95,
+     "title": "E-Mail-Panne: Anthropic hofft bei Börsengang auf 70 Mrd. Dollar",
+     "summary": "",
+     "link": "https://orf.at/stories/3447771/",
+     "image": null,
+     "aggregator": false,
+     "published": "2026-11-10T09:58:15+00:00"
+    },
+    {
+     "source": "Handelsblatt",
+     "region": "DE",
+     "weight": 0.9,
+     "title": "Künstliche Intelligenz: KI-Firma Anthropic plant Börsengang mit Billionen-Bewertung",
+     "summary": "Beim Börsengang plant Anthropic einen Bruttoerlös von bis zu 64,4 Milliarden Dollar – etwas weniger als SpaceX bei seinem Rekorddebüt. Welche Bewertung der KI-Anbieter dennoch anpeilt.",
+     "link": "https://www.handelsblatt.com/technik/it-internet/kuenstliche-intelligenz-ki-firma-anthropic-plant-boersengang-mit-billionen-bewertung/100268807.html",
+     "image": "https://images.handelsblatt.com/p4qvCcnJ5TOq/cover/900/506/0/0/107/106/0.5/0.5/anthropic-ki-assistent-claude.jpg",
+     "aggregator": false,
+     "published": "2026-11-10T14:21:53+00:00"
+    },
+    {
+     "source": "WirtschaftsWoche",
+     "region": "DE",
+     "weight": 0.85,
+     "title": "Künstliche Intelligenz: Anthropic peilt Börsenbewertung von einer Billion Dollar an",
+     "summary": "Anthropic strebt mit seinem Börsengang eine Milliardenbewertung an. Doch Zweifel am KI-Boom könnten die Nachfrage bremsen.",
+     "link": "https://www.wiwo.de/unternehmen/it/anthropic-ipo-boersengang-soll-64-milliarden-us-dollar-bringen/100268790.html",
+     "image": "https://images.wiwo.de/Y84c3DDpxEDU/cover/900/506/0/0/261/262/0.5/0.5/file-photo-an-anthropic-logo-is-displayed-at-moscone-center-during-the-dreamforce-2026-technology-s.jpg",
+     "aggregator": false,
+     "published": "2026-11-10T15:55:57+00:00"
+    }
+   ]
+  },
+  {
+   "id": 22,
+   "score": 8.48,
+   "outlets": [
+    "tagesschau Wirtschaft",
+    "Deutschlandfunk",
+    "DIE ZEIT"
+   ],
+   "regions": [
+    "DE"
+   ],
+   "trend": [],
+   "newest": "2026-11-10T18:05:59+00:00",
+   "articles": [
+    {
+     "source": "tagesschau Wirtschaft",
+     "region": "DE",
+     "weight": 1.0,
+     "title": "KI-Boom: Deutscher Chipkonzern Infineon will weiter zweistellig wachsen",
+     "summary": "Der boomende Ausbau der KI-Infrastruktur, aber auch ein besseres Autogeschäft haben Infineon einen Rekordumsatz beschert. Der deutsche Chipkonzern sieht noch kein Ende des Booms.",
+     "link": "https://www.tagesschau.de/wirtschaft/finanzen/marktbericht-infineon-ki-100.html",
+     "image": "https://images.tagesschau.de/image/c779112a-9dfe-409a-945d-d9beee37cde2/AAABocU-0Eg/AAABnSSvrFg/16x9-big/infineon-138.jpg?width=1920",
+     "aggregator": false,
+     "published": "2026-11-10T13:33:44+00:00"
+    },
+    {
+     "source": "Deutschlandfunk",
+     "region": "DE",
+     "weight": 0.95,
+     "title": "Dax-Konzern - Milliardengeschäft Rechenzentren: Gewinnsprung dank des KI-Booms bei Chiphersteller Infineon",
+     "summary": "Der deutsche Chipkonzern Infineon hat im abgelaufenen Geschäftsjahr einen Rekordumsatz erzielt.",
+     "link": "https://www.deutschlandfunk.de/milliardengeschaeft-rechenzentren-gewinnsprung-dank-des-ki-booms-bei-chiphersteller-infineon-100.html",
+     "image": "https://bilder.deutschlandfunk.de/eb/ce/d7/6b/ebced76b-c4a6-48e1-8206-63151e041346/infineon-logo-100-1920x1920.jpg",
+     "aggregator": false,
+     "published": "2026-11-10T18:05:59+00:00"
+    },
+    {
+     "source": "DIE ZEIT",
+     "region": "DE",
+     "weight": 0.6,
+     "title": "Infineon: Chiphersteller Infineon schließt Geschäftsjahr mit Gewinnzuwachs",
+     "summary": "Infineon: Chiphersteller Infineon schließt Geschäftsjahr mit Gewinnzuwachs DIE ZEIT KI-Boom: Deutscher Chipkonzern Infineon will weiter zweistellig wachsen tagesschau.de DZ Bank belässt Infineon auf 'Kaufen' - Fairer Wert 77 Euro - boerse.de boerse.de Infineon-Aktie: Es geht wieder stark bergauf WELT Infineon Kaufen (DZ BANK) 10.11.2026 | Analyse Finanzen.net",
+     "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPbHRYZ1BSOUI0eW00enRIXzFCbFBsMW5PNU9RRHdISE1zLUh1TDhlRE1xS3FmUk9NbVFyeThIcDBGSHpaanVkWmVKakROX2tiMlU0eUdwcVJmRlIxLWtFOHlXWGJSRDh3d3VEX2s1S2V3M29oN2d1TFV0NndKeVV6U2hJOG9HMXpMWVItX2VaZE5QZFh4YzB0cmVIMWJyRVA5eXc?oc=5",
+     "image": null,
+     "aggregator": true,
+     "published": "2026-11-10T11:30:21+00:00"
+    }
+   ]
+  },
+  {
+   "id": 23,
+   "score": 8.48,
+   "outlets": [
+    "tagesschau",
+    "ZDFheute"
+   ],
+   "regions": [
+    "DE"
+   ],
+   "trend": [
+    "real madrid – paris fc",
+    "Pronostic Real Madrid (F) - Paris FC (F) – Ligue des champions féminine (10/11)",
+    "L'entraîneuse du Paris FC Sandrine Soubeyrand avant le déplacement sur le terrain du Real Madrid : « On va jouer autrement, avec d'autres qualités »"
+   ],
+   "newest": "2026-11-10T10:35:28+00:00",
+   "articles": [
+    {
+     "source": "tagesschau",
+     "region": "DE",
+     "weight": 1.0,
+     "title": "Champions League: Gwinn freut sich auf die Pfiffe im Pariser Prinzenpark",
+     "summary": "Die FC Bayern Frauen stehen gegen Paris Saint-Germain vor einem richtungsweisenden Spiel. Nach dem enttäuschenden Unentschieden gegen Real Madrid müssen die Münchnerinnen dringend punkten.",
+     "link": "https://www.sportschau.de/regional/br/br-fcb-frauen-gwinn-freut-sich-auf-die-pfiffe-im-prinzenpark-102.html",
+     "image": "https://images.sportschau.de/image/3d75708a-fa94-4e8c-b576-ef821211ff1b/AAABocVqn9U/AAABnSSvrFg/16x9-big/br-giulia-gwinn-vom-fc-bayern-muenchen-102.jpg?width=1920",
+     "aggregator": false,
+     "published": "2026-11-10T10:35:28+00:00"
+    },
+    {
+     "source": "ZDFheute",
+     "region": "DE",
+     "weight": 1.0,
+     "title": "Warum das Spiel bei PSG für die Bayern-Frauen so wichtig ist",
+     "summary": "Die Fußballerinnen des FC Bayern gastieren in der Champions League in Paris. Nur mit einem Sieg wahren sie die Restchance auf den Sprung unter die besten vier.",
+     "link": "https://www.zdfheute.de/sport/fussball-champions-league-frauen-paris-saint-germain-bayern-muenchen-102.html",
+     "image": "https://www.zdfheute.de/assets/franziska-kett-102~384x216?cb=1794305121350",
+     "aggregator": false,
+     "published": "2026-11-10T05:54:00+00:00"
+    }
+   ]
+  },
+  {
+   "id": 24,
+   "score": 8.19,
+   "outlets": [
+    "SPIEGEL",
+    "Süddeutsche",
+    "n-tv"
+   ],
+   "regions": [
+    "DE"
+   ],
+   "trend": [],
+   "newest": "2026-11-10T15:06:32+00:00",
+   "articles": [
+    {
+     "source": "SPIEGEL",
+     "region": "DE",
+     "weight": 0.9,
+     "title": "Anthropic: KI-Firma peilt Billionenbewertung beim Börsengang an",
+     "summary": "Das KI-Unternehmen Anthropic steuert auf einen der größten Börsengänge der Geschichte zu. Von der einst anvisierten Bewertung von zwei Billionen Dollar ist Konzernchef Dario Amodei aber abgerückt.",
+     "link": "https://www.spiegel.de/wirtschaft/unternehmen/anthropic-ki-firma-peilt-billionenbewertung-beim-boersengang-an-a-01ee7304-2fb0-45da-a9c9-1afec33f201f#ref=rss",
+     "image": "https://cdn.prod.www.spiegel.de/images/87b659c9-5a5a-40cd-8328-281922d96017_w520_r2.08_fpx64.69_fpy55.jpg",
+     "aggregator": false,
+     "published": "2026-11-10T14:01:00+00:00"
+    },
+    {
+     "source": "Süddeutsche",
+     "region": "DE",
+     "weight": 0.9,
+     "title": "Künstliche Intelligenz: Anthropic plant Billionenbewertung beim Börsengang",
+     "summary": "Das KI-Unternehmen strebt eine Bewertung von einer Billion US-Dollar an, geplant waren mal bis zu zwei Billionen. Grund für den Abschlag: die jüngsten Turbulenzen in der KI-Branche.",
+     "link": "https://www.sueddeutsche.de/wirtschaft/anthropic-ipo-boersengang-billion-ki-li.3578418",
+     "image": "https://www.sueddeutsche.de/2026/06/18/43689ed8-b359-4d31-a318-92c525a567d2.jpg?rect=444%2C0%2C3556%2C2667&width=1000&fm=jpg&q=60",
+     "aggregator": false,
+     "published": "2026-11-10T14:56:57+00:00"
+    },
+    {
+     "source": "n-tv",
+     "region": "DE",
+     "weight": 0.8,
+     "title": "Einnahmen in Milliardenhöhe: Anthropic strebt Börsengang mit Billionen-Bewertung an",
+     "summary": "Der geplante Börsengang von Anthropic wird zum Belastungstest für die KI-Branche. Derzeit peilt das US-Unternehmen eine Bewertung von bis zu einer Billion US-Dollar an. Ursprünglich war von einer doppelt so hohen Summe die Rede - doch die Eurphorie ist gedämpft.",
+     "link": "https://www.n-tv.de/wirtschaft/Anthropic-strebt-Boersengang-mit-Billionen-Bewertung-an-id31517693.html",
+     "image": "https://www.n-tv.de/img/31517704/1794323534/Img_4_3/250/630791506.jpg",
+     "aggregator": false,
+     "published": "2026-11-10T15:06:32+00:00"
+    }
+   ]
+  },
+  {
+   "id": 25,
+   "score": 7.88,
+   "outlets": [
+    "tagesschau",
+    "Deutschlandfunk"
+   ],
+   "regions": [
+    "DE"
+   ],
+   "trend": [],
+   "newest": "2026-11-10T18:05:59+00:00",
+   "articles": [
+    {
+     "source": "tagesschau",
+     "region": "DE",
+     "weight": 1.0,
+     "title": "Maschinenbauer \"fassungslos\" über Bundesregierung",
+     "summary": "Die Koalition ringt um Reformen. Viel zu zögerlich, findet der Maschinenbauverband VDMA. Er wirft der Bundesregierung vor, mit internem Streit und Reformstau den Industriestandort Deutschland zu gefährden.",
+     "link": "https://www.tagesschau.de/wirtschaft/maschinenbaugipfel-100.html",
+     "image": "https://images.tagesschau.de/image/8e76ebdc-f667-4cb8-9ffa-dfe0bccaa925/AAABocYhY0M/AAABnSSvrFg/16x9-big/vdma-maschinenbau-100.jpg?width=1920",
+     "aggregator": false,
+     "published": "2026-11-10T15:43:59+00:00"
+    },
+    {
+     "source": "Deutschlandfunk",
+     "region": "DE",
+     "weight": 0.95,
+     "title": "Maschinenbau-Gipfel in Berlin - VDMA \"fassungslos\" über Bundesregierung",
+     "summary": "Der Maschinenbauverband VDMA hat die Politik und das Auftreten der Bundesregierung kritisiert.",
+     "link": "https://www.deutschlandfunk.de/vdma-fassungslos-ueber-bundesregierung-100.html",
+     "image": "https://bilder.deutschlandfunk.de/6a/95/8f/4d/6a958f4d-9ee7-4704-81d3-ebcbe487be43/vdma-maschinenbau-kawlath-100-1920x1920.jpg",
+     "aggregator": false,
+     "published": "2026-11-10T18:05:59+00:00"
+    }
+   ]
+  },
+  {
+   "id": 26,
+   "score": 7.88,
+   "outlets": [
+    "tagesschau",
+    "Deutschlandfunk"
+   ],
+   "regions": [
+    "DE"
+   ],
+   "trend": [],
+   "newest": "2026-11-10T18:05:59+00:00",
+   "articles": [
+    {
+     "source": "tagesschau",
+     "region": "DE",
+     "weight": 1.0,
+     "title": "Bund will offenbar E-Auto-Prämie um 917 Millionen Euro aufstocken",
+     "summary": "Sie soll Menschen mit niedrigem oder mittlerem Einkommen den Umstieg erleichtern: Und tatsächlich ist die E-Auto-Prämie des Bundes ein voller Erfolg. Daher soll sie im kommenden Jahr noch mal um mehr als 900 Millionen aufgestockt werden.",
+     "link": "https://www.tagesschau.de/wirtschaft/verbraucher/e-autos-kaufpraemie-bundesregierung-100.html",
+     "image": "https://images.tagesschau.de/image/4dff9a40-3471-4629-b0de-da49482a151a/AAABocT1uGk/AAABnSSvrFg/16x9-big/e-auto-256.jpg?width=1920",
+     "aggregator": false,
+     "published": "2026-11-10T12:11:01+00:00"
+    },
+    {
+     "source": "tagesschau Wirtschaft",
+     "region": "DE",
+     "weight": 1.0,
+     "title": "Bund will offenbar E-Auto-Prämie um 917 Millionen Euro aufstocken",
+     "summary": "Sie soll Menschen mit niedrigem oder mittlerem Einkommen den Umstieg erleichtern: Und tatsächlich ist die E-Auto-Prämie des Bundes ein voller Erfolg. Daher soll sie im kommenden Jahr noch mal um mehr als 900 Millionen aufgestockt werden.",
+     "link": "https://www.tagesschau.de/wirtschaft/verbraucher/e-autos-kaufpraemie-bundesregierung-100.html",
+     "image": "https://images.tagesschau.de/image/4dff9a40-3471-4629-b0de-da49482a151a/AAABocT1uGk/AAABnSSvrFg/16x9-big/e-auto-256.jpg?width=1920",
+     "aggregator": false,
+     "published": "2026-11-10T12:11:01+00:00"
+    },
+    {
+     "source": "Deutschlandfunk",
+     "region": "DE",
+     "weight": 0.95,
+     "title": "Hohe Nachfrage - Bund will E-Auto-Kaufprämie für 2027 offenbar verdoppeln",
+     "summary": "Die Bundesregierung will die E-Auto-Prämie für 2027 offenbar aufstocken. Das geht aus der Bereinigungsvorlage des Bundesfinanzministeriums für die abschließenden Haushaltsberatungen hervor.",
+     "link": "https://www.deutschlandfunk.de/bund-will-e-auto-kaufpraemie-fuer-2027-offenbar-verdoppeln-100.html",
+     "image": "https://bilder.deutschlandfunk.de/23/11/33/c6/231133c6-5729-4ed6-bffa-7bc45ad4d1c8/e-autos-als-speicher-100-1920x1920.jpg",
+     "aggregator": false,
+     "published": "2026-11-10T18:05:59+00:00"
+    }
+   ]
+  },
+  {
+   "id": 27,
+   "score": 7.88,
+   "outlets": [
+    "tagesschau",
+    "Deutschlandfunk"
+   ],
+   "regions": [
+    "DE",
+    "INT"
+   ],
+   "trend": [],
+   "newest": "2026-11-10T18:05:59+00:00",
+   "articles": [
+    {
+     "source": "tagesschau",
+     "region": "DE",
+     "weight": 1.0,
+     "title": "Kalifornier lehnen Milliardärssteuer ab",
+     "summary": "Die Wähler in Kalifornien haben per Volksentscheid gegen eine einmalige Sonderabgabe durch die etwa 250 Milliardäre im US-Bundesstaat gestimmt. Die Superreichen hatten Millionen US-Dollar in Werbespots gegen die Reichensteuer gesteckt.",
+     "link": "https://www.tagesschau.de/ausland/amerika/kalifornien-milliardaerssteuer-abgelehnt-100.html",
+     "image": "https://images.tagesschau.de/image/9fee6096-0744-4526-b4f0-a2e4e49a9c73/AAABocQ8JzY/AAABnSSvrFg/16x9-big/t-shirt-reichensteuer-100.jpg?width=1920",
+     "aggregator": false,
+     "published": "2026-11-10T07:15:02+00:00"
+    },
+    {
+     "source": "tagesschau Ausland",
+     "region": "INT",
+     "weight": 1.0,
+     "title": "Kalifornier lehnen Milliardärssteuer ab",
+     "summary": "Die Wähler in Kalifornien haben per Volksentscheid gegen eine einmalige Sonderabgabe durch die etwa 250 Milliardäre im US-Bundesstaat gestimmt. Die Superreichen hatten Millionen US-Dollar in Werbespots gegen die Reichensteuer gesteckt.",
+     "link": "https://www.tagesschau.de/ausland/amerika/kalifornien-milliardaerssteuer-abgelehnt-100.html",
+     "image": "https://images.tagesschau.de/image/9fee6096-0744-4526-b4f0-a2e4e49a9c73/AAABocQ8JzY/AAABnSSvrFg/16x9-big/t-shirt-reichensteuer-100.jpg?width=1920",
+     "aggregator": false,
+     "published": "2026-11-10T07:15:02+00:00"
+    },
+    {
+     "source": "tagesschau Wirtschaft",
+     "region": "DE",
+     "weight": 1.0,
+     "title": "Kalifornier lehnen Milliardärssteuer ab",
+     "summary": "Die Wähler in Kalifornien haben per Volksentscheid gegen eine einmalige Sonderabgabe durch die etwa 250 Milliardäre im US-Bundesstaat gestimmt. Die Superreichen hatten Millionen US-Dollar in Werbespots gegen die Reichensteuer gesteckt.",
+     "link": "https://www.tagesschau.de/ausland/amerika/kalifornien-milliardaerssteuer-abgelehnt-100.html",
+     "image": "https://images.tagesschau.de/image/9fee6096-0744-4526-b4f0-a2e4e49a9c73/AAABocQ8JzY/AAABnSSvrFg/16x9-big/t-shirt-reichensteuer-100.jpg?width=1920",
+     "aggregator": false,
+     "published": "2026-11-10T07:15:02+00:00"
+    },
+    {
+     "source": "Deutschlandfunk",
+     "region": "DE",
+     "weight": 0.95,
+     "title": "USA - Kaliforniens Wähler lehnen Milliardärssteuer ab",
+     "summary": "Die Wähler im US-Bundesstaat Kalifornien haben eine Sondersteuer für Milliardäre abgelehnt. Vorgesehen war eine einmalige Abgabe von fünf Prozent auf Vermögen von mehr als einer Milliarde Dollar. Mit den Einnahmen sollten vor allem Kürzungen im staatlichen Gesundheitswesen ausgeglichen werden.",
+     "link": "https://www.deutschlandfunk.de/kaliforniens-waehler-lehnen-milliardaerssteuer-ab-102.html",
+     "image": "https://bilder.deutschlandfunk.de/58/20/c7/ce/5820c7ce-a562-48bd-89b2-4ebc0ec32476/google-gruender-brin-100-1920x1920.jpg",
+     "aggregator": false,
+     "published": "2026-11-10T18:05:59+00:00"
+    }
+   ]
+  }
+ ]
+}
