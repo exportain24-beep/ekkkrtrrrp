@@ -108,11 +108,11 @@ voice:
   model_id: "eleven_multilingual_v2"
   output_format: "mp3_44100_128"
   settings:
-    stability: 0.55
+    stability: 0.45      # growth 11 Nov: more lively, news-urgent delivery (was 0.55 = flat)
     similarity_boost: 0.80
-    style: 0.18
+    style: 0.30          # was 0.18
     use_speaker_boost: true
-    speed: 1.04
+    speed: 1.07          # was 1.04 – faster news pace
 
 # ---------- Audio mix (dB) ----------
 audio:
@@ -139,6 +139,7 @@ video:
     white: "#FFFFFF"
     grey: "#A9A9B2"
   images_per_story: [2, 4]
+  images_per_story_single: [5, 8]   # FOKUS: a new picture every ~3 s without obvious repeats
   seconds_per_image: 2.8     # "3-second rule": visual change every 2.5–3 s
   min_image_width: 640
 

@@ -98,6 +98,24 @@ Data: single-story Shorts get the most views/hour in DACH news (own FOKUS + comp
    USA, Wirtschaft/Geld with a known person, Gesellschaft/Justiz, Sport only if it is the day's talk). Viewers who swipe
    through our Shorts tab must see variety, not the same face.
 
+16. **Sprache & Stil – so klingt ein guter Nachrichtensprecher (11 Nov, validator checks part of it):**
+   - Gesprochenes Deutsch, nicht Pressemitteilung: kurze Hauptsätze (max 22 Wörter, Ziel 8–14), aktive Verben, Subjekt zuerst.
+     ✗ „Merz verschärft den Ton gegenüber den europäischen Partnern“ → ✓ „Merz droht Brüssel: Ohne Geld kein Haushalt.“
+   - Kein Amts-/Papierdeutsch: nicht „im Rahmen“, „seitens“, „hinsichtlich“, „in Milliardenhöhe“, „laut Ministeriumskreisen“
+     (→ „laut Finanzministerium“ / „wie das Ministerium bestätigt“), keine Substantivketten auf -ung/-heit/-keit.
+   - Konkret statt vage: „Milliarden fehlen“ ✗ → die Zahl aus den Quellen ✓. Mindestens ein `big` mit echter Zahl.
+   - Satz 2 wiederholt NIE den Hook – er bringt den überraschendsten neuen Fakt.
+   - Direkte Ansprache, wo es passt: „Für Sie heißt das …“, „Ihr Netto …“ (Sie-Form, seriös).
+   - Zahlen so schreiben, wie sie gesprochen werden („zwei Komma fünf Milliarden Euro“), Namen beim ersten Mal mit Funktion
+     („Finanzminister Lars Klingbeil“), danach nur Nachname. Korrekte Ämter (Bundeskanzler Merz).
+   - Laut lesen: Wenn ein Satz beim Vorlesen holpert, umbauen. Keine Schachtelsätze, keine Klammern, keine Abkürzungen,
+     die man nicht spricht (ca., u. a., z. B.).
+17. **Bilder (11 Nov):** `entities` = 2–4 Personen/Orte/Institutionen der Geschichte (für 5–8 verschiedene Fotos). Keine
+   TV-Standbilder mit Moderatoren; das System filtert sie. Ein Foto einer Person, die in der Geschichte nicht vorkommt, ist ein Fehler.
+18. **Facebook ist ein eigener Markt:** `state/performance.md` zeigt FB plays/likes/comments. FB-Ausreißer
+   (Eishockey-WM 7.684 Plays, Orbán-Bruder 3.691 – auf YouTube 460 bzw. 32) zeigen: FB belohnt Sport-Politik und
+   Osteuropa/Skandal stärker. `facebook_caption_line1` darf deshalb einen eigenen, FB-tauglichen Aufhänger haben (gleiche Fakten).
+
 ## Thumbnail = first impression (the system renders it from your fields)
 - Story 1 must be the strongest story **with good photos** (it provides the thumbnail photo and the hook).
 - `hook_text`: 2–4 words, the keyword first, a concrete fact that creates curiosity but is true

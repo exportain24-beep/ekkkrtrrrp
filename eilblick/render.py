@@ -765,8 +765,12 @@ class SingleRenderer:
             fr.paste(C["bg"][:3], (0, 0, W, H))
             fr.alpha_composite(grid_layer())
             return
-        zoom = 1.06 + 0.08 * loc if i % 2 == 0 else 1.14 - 0.08 * loc
-        img = cover(self.pc.get(ph), W, H, zoom, 0.5 + (0.06 * (loc - 0.5) if i % 3 else 0), 0.38)
+        n = max(1, len(self.tl.photos))
+        cyc = i // n          # growth 11 Nov: a repeated photo returns as a different, tighter crop
+        base = 1.06 + min(0.36, 0.18 * cyc)
+        zoom = base + 0.08 * loc if i % 2 == 0 else base + 0.08 - 0.08 * loc
+        fx = (0.5, 0.32, 0.68)[cyc % 3] + (0.06 * (loc - 0.5) if i % 3 else 0)
+        img = cover(self.pc.get(ph), W, H, zoom, fx, 0.36 if cyc % 2 == 0 else 0.30)
         fr.paste(img, (0, 0))
         per = settings()["video"]["seconds_per_image"]
         if loc * per > per - 0.18 and len(self.tl.photos) > 1:      # quick flash cut to next photo

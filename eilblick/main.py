@@ -669,12 +669,23 @@ def performance_report() -> None:
             fbv = m.get("blue_reels_play_count") or m.get("fb_reels_total_plays") or m.get("total_video_views") or ""
         except Exception:
             pass
-        rows.append((int(st.get("viewCount", 0) or 0), r, st, fbv))
+        fbl = fbc = ""
+        try:   # growth 11 Nov: Facebook engagement per reel (likes / comments) for the night analysis
+            js2 = requests.get(f"{FB._g()}/{r['facebook_id']}",
+                               params=dict(FB._auth(FB.page_token()),
+                                           fields="likes.summary(true).limit(0),comments.summary(true).limit(0)"),
+                               timeout=20).json()
+            fbl = ((js2.get("likes") or {}).get("summary") or {}).get("total_count", "")
+            fbc = ((js2.get("comments") or {}).get("summary") or {}).get("total_count", "")
+        except Exception:
+            pass
+        rows.append((int(st.get("viewCount", 0) or 0), r, st, fbv, fbl, fbc))
     rows.sort(key=lambda x: -x[0])
-    lines = ["| YT views | likes | comments | FB plays | slot | title | story 1 |", "|---|---|---|---|---|---|---|"]
-    for v, r, st, fbv in rows:
-        lines.append(f"| {v} | {st.get('likeCount', '')} | {st.get('commentCount', '')} | {fbv} | {r['date']} {r['slot']} "
-                     f"| {r.get('title', '')} | {(r.get('stories') or [{}])[0].get('headline', '')} |")
+    lines = ["| YT views | YT likes | YT comments | FB plays | FB likes | FB comments | slot | title | story 1 |",
+             "|---|---|---|---|---|---|---|---|---|"]
+    for v, r, st, fbv, fbl, fbc in rows:
+        lines.append(f"| {v} | {st.get('likeCount', '')} | {st.get('commentCount', '')} | {fbv} | {fbl} | {fbc} | "
+                     f"{r['date']} {r['slot']} | {r.get('title', '')} | {(r.get('stories') or [{}])[0].get('headline', '')} |")
     (state.STATE_DIR / "performance.md").write_text(
         f"# Performance (best first) – {datetime.now(timezone.utc):%Y-%m-%d %H:%M} UTC\n\n" + "\n".join(lines) + "\n",
         encoding="utf-8")

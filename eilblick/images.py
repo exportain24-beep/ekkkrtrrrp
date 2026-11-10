@@ -23,7 +23,8 @@ from PIL import Image, ImageOps
 from .config import HEADERS, TMP, settings
 from .feeds import Story
 
-BAD_URL = re.compile(r"logo|placeholder|default|fallback|sprite|icon|avatar|blank|pixel|share-image-generic|og-image\.png", re.I)
+BAD_URL = re.compile(r"logo|placeholder|default|fallback|sprite|icon|avatar|blank|pixel|share-image-generic|og-image\.png"
+                     r"|sendungsbild|screenshot|standbild|livestream|tvbild|videostill", re.I)   # no TV stills (reuse risk)
 
 
 @dataclass
@@ -151,6 +152,9 @@ def _download(url: str, dest: Path, min_w: int) -> tuple[Image.Image, int] | Non
 def collect(stories: list[Story], plan_stories: list[dict]) -> list[list[Photo]]:
     vcfg = settings()["video"]
     lo, hi = vcfg["images_per_story"]
+    single = len(plan_stories) == 1
+    if single:   # growth 11 Nov: a 35-s FOKUS needs 5–8 different pictures (no slideshow of 2 photos)
+        lo, hi = vcfg.get("images_per_story_single", [5, 8])
     result: list[list[Photo]] = []
     for k, (story, ps) in enumerate(zip(stories, plan_stories)):
         folder = TMP / f"story_{k+1}"
@@ -160,7 +164,7 @@ def collect(stories: list[Story], plan_stories: list[dict]) -> list[list[Photo]]
             if a.aggregator:
                 continue
             credit = _domain(a.link)
-            for u in page_images(a.link)[:2]:
+            for u in page_images(a.link)[:3 if single else 2]:
                 cand.append((u, credit))
             if a.image:
                 cand.append((a.image, credit))
@@ -170,7 +174,7 @@ def collect(stories: list[Story], plan_stories: list[dict]) -> list[list[Photo]]
         for url, credit in cand:
             if len(photos) >= hi:
                 break
-            if used_credit.get(credit, 0) >= 2:   # spread across outlets
+            if used_credit.get(credit, 0) >= (3 if single else 2):   # spread across outlets
                 continue
             dest = folder / f"img_{len(photos)+1}.jpg"
             got = _download(url, dest, vcfg["min_image_width"])
@@ -183,8 +187,8 @@ def collect(stories: list[Story], plan_stories: list[dict]) -> list[list[Photo]]
             hashes.append(h)
             used_credit[credit] = used_credit.get(credit, 0) + 1
             photos.append(Photo(dest, credit, *img.size))
-        if len(photos) < lo:
-            for ent in (ps.get("entities") or [])[:2]:
+        if len(photos) < hi:   # fill up with free-licensed photos of the people/places named in the story
+            for ent in (ps.get("entities") or [])[:3]:
                 for url, credit in commons_images(ent, n=hi - len(photos)):
                     if len(photos) >= hi:
                         break

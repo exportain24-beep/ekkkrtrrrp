@@ -3,6 +3,7 @@ desk) writes. The full editorial brief lives in docs/EDITOR_GUIDE.md."""
 from __future__ import annotations
 
 import json
+import re
 from pathlib import Path
 
 from .config import settings
@@ -72,7 +73,30 @@ def validate_single(plan: dict, n_candidates: int) -> list[str]:
     for f in ("facebook_caption_line1", "facebook_question"):
         if re.search(r"https?://|www\.|\b[\w-]+\.(de|com|net|org|at|ch)\b", plan.get(f, ""), re.I):
             errs.append(f"{f}: no website/link allowed in Facebook captions")
+    errs += style_errors([hv] + [b.get("voice", "") for b in beats] + [ll])
+    if beats and len(_tokens(hv) & _tokens(beats[0].get("voice", ""))) >= 3:
+        errs.append("beat 1 repeats the hook – sentence 2 must bring the most surprising NEW fact (seconds 3–8 are the leak)")
+    if beats and not any(re.search(r"\d", b.get("big", "")) for b in beats):
+        errs.append("beats: at least one 'big' must be a concrete number from the sources (e.g. '2,5 MRD €', '600.000') – vague words like MILLIARDEN don't hold viewers")
+    if len(plan.get("entities") or []) < 2:
+        errs.append("entities: give 2–4 people/places/institutions of the story (used to find 5–8 different photos)")
     return errs
+
+
+# ---- growth 11 Nov 2026: spoken German must sound like a good news anchor, not like a press release ----
+def style_errors(sentences_src: list[str]) -> list[str]:
+    import re as _re
+    errs = []
+    text = " ".join(x for x in sentences_src if x)
+    for sent in _re.split(r"(?<=[.!?])\s+", text):
+        n = len(sent.split())
+        if n > 22:
+            errs.append(f"Satz zu lang ({n} Wörter, max 22 – gesprochen kurz und klar): '{sent[:60]}…'")
+    for bad in ("gegenüber den", "im Rahmen", "seitens", "diesbezüglich", "hinsichtlich", "bezüglich",
+                "laut Ministeriumskreisen", "in Milliardenhöhe", "zur Machtfrage"):
+        if bad.lower() in text.lower():
+            errs.append(f"Amtsdeutsch/Papierdeutsch vermeiden: '{bad}' – sag es so, wie ein Mensch es erzählt")
+    return errs[:3]
 
 
 def validate(plan: dict, n_candidates: int) -> list[str]:
@@ -129,7 +153,8 @@ def validate(plan: dict, n_candidates: int) -> list[str]:
         errs.append("hook_voice: max 8 words (must be spoken within ~1.5 seconds)")
     if not (8 <= len(plan.get("tags", [])) <= 20):
         errs.append("tags: give 12–15")
-    return errs
+    errs += style_errors([plan.get("hook_voice", "")] + [x.get("voice", "") for x in st])
+    return errs + repeat_errors(plan)
 
 
 # ---- growth 11 Nov 2026: repetition guard -------------------------------------------------
