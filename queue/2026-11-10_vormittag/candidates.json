@@ -1,0 +1,1791 @@
+{
+ "slot": {
+  "id": "vormittag",
+  "format": "single",
+  "time": "10:00",
+  "label": "am Vormittag",
+  "focus": "Nur Tie-Breaker – immer zuerst die populärsten, meistberichteten Nachrichten. Bei Gleichstand bevorzugt: Die eine Nachricht, die seit dem Morgen am stärksten hochkocht – bevorzugt neue Entwicklungen großer laufender Geschichten.",
+  "pillars": [
+   "POLITIK",
+   "WIRTSCHAFT",
+   "WELT",
+   "TECHNOLOGIE"
+  ],
+  "notify_subscribers": false
+ },
+ "slot_time": "2026-11-10T10:00:00+01:00",
+ "date_text": "Dienstag, 10. November 2026",
+ "already_published": [
+  "Paraguay: Ex-Präsident in U-Haft",
+  "Tajani prangert Hackerangriffe an",
+  "Schweiz: Kein Spiel gegen Russland",
+  "Emde will ihr Mandat behalten",
+  "Ukraine: 600.000 ohne Strom",
+  "Krakau: Justiz ermittelt wegen Terror",
+  "Wetter: Wechselhafter Wochenstart",
+  "Sondervermögen: Kaum Geld für Bildung",
+  "Selenskyj-Besuch: Merz fordert Europa",
+  "Moskau ehrt DDR-Spionagechef Wolf",
+  "Ukraine-Gespräche: Europa am Tisch",
+  "Trump droht den Demokraten",
+  "Emde will Mandat behalten",
+  "Ukraine-Gespräche: Europa dabei",
+  "Aigner: Union ist sich einig",
+  "Neuer fällt mit Sehnenteilriss aus",
+  "Nvidia-Chef unter Spionageverdacht",
+  "Merz legt sich auf Aigner fest",
+  "Hubig zerpflückt Spritpreisdeckel",
+  "Ukraine-Truppe startet erste Übung",
+  "Trump: Iran-Angriffe unwahrscheinlich",
+  "Koalition streitet über Plastiksteuer",
+  "Todesschütze von Krakau ist tot",
+  "Trump: Abschiebekurs war „zu hart“",
+  "Vodafone streicht 2.300 Stellen",
+  "Trump: „Andere Form“ für die Ukraine",
+  "Nvidia-Aktie bricht nach Affäre ein",
+  "Orbán-Bruder festgenommen",
+  "Kushner: Europa soll mit Moskau reden",
+  "Nvidia-Chef gesteht Affäre",
+  "Paris: Iran hinter Kühltruhen-Hack",
+  "Vodafone: Jeder fünfte Job fällt weg",
+  "Abu Dhabi: Kreml blockt die EU ab",
+  "Trump zweifelt an Midterm-Ergebnis",
+  "Amtsenthebung gegen Hegseth beantragt",
+  "FBI ermittelt in Nvidia-Affäre",
+  "Bund kauft Panzerbauer-Anteil",
+  "Preisdeckel für Ticketbörsen",
+  "Aigner offiziell nominiert",
+  "Merz droht mit EU-Haushaltsblockade"
+ ],
+ "candidates": [
+  {
+   "id": 0,
+   "score": 26.82,
+   "outlets": [
+    "tagesschau",
+    "Deutsche Welle",
+    "ORF",
+    "SRF News",
+    "SPIEGEL",
+    "Handelsblatt",
+    "NZZ",
+    "WirtschaftsWoche",
+    "heise online",
+    "DER STANDARD",
+    "WELT",
+    "n-tv",
+    "Golem"
+   ],
+   "regions": [
+    "AT",
+    "CH",
+    "DE",
+    "INT"
+   ],
+   "trend": [],
+   "newest": "2026-11-10T07:13:00+00:00",
+   "articles": [
+    {
+     "source": "tagesschau",
+     "region": "DE",
+     "weight": 1.0,
+     "title": "Affäre von Nvidia-Chef Huang: Darum geht es beim Spionage-Verdacht",
+     "summary": "Der US-Chipkonzern Nvidia ermittelt gegen seinen Chef Jensen Huang wegen einer Affäre mit einer mutmaßlichen chinesischen Spionin. Welche Vorwürfe konkret im Raum stehen - und welche Folgen sie haben könnten.",
+     "link": "https://www.tagesschau.de/wirtschaft/unternehmen/faq-nvidia-spionage-100.html",
+     "image": "https://images.tagesschau.de/image/9d4d98a9-ed98-4d6a-9f9c-bd1d9782eb0d/AAABocCr9uU/AAABnSSvrFg/16x9-big/nvidia-logo-102.jpg?width=1920",
+     "aggregator": false,
+     "published": "2026-11-09T13:58:03+00:00"
+    },
+    {
+     "source": "tagesschau",
+     "region": "DE",
+     "weight": 1.0,
+     "title": "Untersuchung gegen Nvidia-Chef Huang wegen möglicher Spionin aus China",
+     "summary": "Der KI-Chip-Gigant Nvidia hat nach Berichten über einen Spionageverdacht eine Untersuchung gegen seinen Gründer und Konzernchef Jensen Huang eingeleitet. Er soll eine Affäre mit einer mutmaßlichen chinesischen Spionin gehabt haben.",
+     "link": "https://www.tagesschau.de/wirtschaft/unternehmen/nvidia-spionage-pruefung-100.html",
+     "image": "https://images.tagesschau.de/image/34f93b54-ef67-4531-97e6-4a40dc5724cc/AAABob68p7E/AAABnSSvrFg/16x9-big/nvidia-184.jpg?width=1920",
+     "aggregator": false,
+     "published": "2026-11-09T03:32:51+00:00"
+    },
+    {
+     "source": "tagesschau Wirtschaft",
+     "region": "DE",
+     "weight": 1.0,
+     "title": "Affäre von Nvidia-Chef Huang: Darum geht es beim Spionage-Verdacht",
+     "summary": "Der US-Chipkonzern Nvidia ermittelt gegen seinen Chef Jensen Huang wegen einer Affäre mit einer mutmaßlichen chinesischen Spionin. Welche Vorwürfe konkret im Raum stehen - und welche Folgen sie haben könnten.",
+     "link": "https://www.tagesschau.de/wirtschaft/unternehmen/faq-nvidia-spionage-100.html",
+     "image": "https://images.tagesschau.de/image/9d4d98a9-ed98-4d6a-9f9c-bd1d9782eb0d/AAABocCr9uU/AAABnSSvrFg/16x9-big/nvidia-logo-102.jpg?width=1920",
+     "aggregator": false,
+     "published": "2026-11-09T13:58:03+00:00"
+    },
+    {
+     "source": "tagesschau Wirtschaft",
+     "region": "DE",
+     "weight": 1.0,
+     "title": "Untersuchung gegen Nvidia-Chef Huang wegen möglicher Spionin aus China",
+     "summary": "Der KI-Chip-Gigant Nvidia hat nach Berichten über einen Spionageverdacht eine Untersuchung gegen seinen Gründer und Konzernchef Jensen Huang eingeleitet. Er soll eine Affäre mit einer mutmaßlichen chinesischen Spionin gehabt haben.",
+     "link": "https://www.tagesschau.de/wirtschaft/unternehmen/nvidia-spionage-pruefung-100.html",
+     "image": "https://images.tagesschau.de/image/34f93b54-ef67-4531-97e6-4a40dc5724cc/AAABob68p7E/AAABnSSvrFg/16x9-big/nvidia-184.jpg?width=1920",
+     "aggregator": false,
+     "published": "2026-11-09T03:32:51+00:00"
+    },
+    {
+     "source": "Deutsche Welle",
+     "region": "INT",
+     "weight": 0.95,
+     "title": "Die Affäre des Nvidia-Chefs und die Folgen",
+     "summary": "Nvidia-Chef Jensen Huang hat sich für eine Affäre mit einer Frau entschuldigt, die nach Einschätzung der USA für China spioniert hat. Wie weitreichend sind die Folgen für das wertvollste Unternehmen der Welt?",
+     "link": "https://www.dw.com/de/die-affäre-des-nvidia-chefs-und-die-folgen/a-79900932?maca=de-rss-de-all-1119-xml-mrss",
+     "image": "https://static.dw.com/image/75070893_302.jpg",
+     "aggregator": false,
+     "published": "2026-11-09T16:24:00+00:00"
+    },
+    {
+     "source": "Deutsche Welle",
+     "region": "INT",
+     "weight": 0.95,
+     "title": "Nvidia-Chef Huang wegen Spionageverdachts unter Druck",
+     "summary": "Eine außereheliche Beziehung bringt den Chef des KI-Chipgiganten Nvidia in Bedrängnis. Die Frau soll für China spioniert haben. Der Konzern untersucht die Vorwürfe, während US-Präsident Trump Huang den Rücken stärkt.",
+     "link": "https://www.dw.com/de/nvidia-chef-huang-wegen-spionageverdachts-unter-druck/a-79895905?maca=de-rss-de-all-1119-xml-mrss",
+     "image": "https://static.dw.com/image/79708793_302.jpg",
+     "aggregator": false,
+     "published": "2026-11-09T08:34:00+00:00"
+    },
+    {
+     "source": "ORF",
+     "region": "AT",
+     "weight": 0.95,
+     "title": "Trump: FBI ermittelt bei Affäre des Nvidia-Chefs",
+     "summary": "",
+     "link": "https://orf.at/stories/3447744/",
+     "image": null,
+     "aggregator": false,
+     "published": "2026-11-09T23:37:35+00:00"
+    },
+    {
+     "source": "ORF",
+     "region": "AT",
+     "weight": 0.95,
+     "title": "Affäre um Nvidia-Chef lässt Aktie fallen",
+     "summary": "Wegen einer Affäre mit einer mutmaßlichen chinesischen Spionin steht der Gründer und Firmenchef des US-Chipkonzerns Nvidia schwer unter Druck. Jensen Huang gestand eine außereheliche Beziehung ein und entschuldigte sich bei seiner Familie und seinen Angestellten. Laut US-Präsident Donald Trump ermittelt das FBI in dem Fall. Der Aktienkurs von Nvidia gab Montag um gut vier Prozent nach.",
+     "link": "https://orf.at/stories/3447708/",
+     "image": null,
+     "aggregator": false,
+     "published": "2026-11-09T22:14:54+00:00"
+    }
+   ]
+  },
+  {
+   "id": 1,
+   "score": 13.67,
+   "outlets": [
+    "Deutschlandfunk",
+    "ORF",
+    "SPIEGEL",
+    "ZEIT ONLINE",
+    "DER STANDARD"
+   ],
+   "regions": [
+    "AT",
+    "DE"
+   ],
+   "trend": [],
+   "newest": "2026-11-10T07:22:31+00:00",
+   "articles": [
+    {
+     "source": "Deutschlandfunk",
+     "region": "DE",
+     "weight": 0.95,
+     "title": "Literatur - Booker Prize geht an John Harrison",
+     "summary": "Der britische Schriftsteller John Harrison erhält den renommierten Booker Prize für seinen Roman \"The End of Everything\".",
+     "link": "https://www.deutschlandfunk.de/booker-prize-geht-an-john-harrison-102.html",
+     "image": "https://bilder.deutschlandfunk.de/94/c9/ea/10/94c9ea10-7698-4dac-bcb5-c816a1c45588/booker-100-1920x1920.jpg",
+     "aggregator": false,
+     "published": "2026-11-10T07:19:41+00:00"
+    },
+    {
+     "source": "ORF",
+     "region": "AT",
+     "weight": 0.95,
+     "title": "Booker-Literaturpreis geht an M. John Harrison",
+     "summary": "",
+     "link": "https://orf.at/stories/3447743/",
+     "image": null,
+     "aggregator": false,
+     "published": "2026-11-09T23:15:42+00:00"
+    },
+    {
+     "source": "SPIEGEL",
+     "region": "DE",
+     "weight": 0.9,
+     "title": "Booker-Prize 2026: M. John Harrison gewinnt mit »The End of Everything«",
+     "summary": "Er beschreibt eine nicht allzu ferne Zukunft, in der eine rätselhafte Präsenz namens »iGhetti« Großbritannien angegriffen hat: M. John Harrison bekommt für seinen Roman den prestigeträchtigen Booker-Preis – und stellt einen Rekord auf.",
+     "link": "https://www.spiegel.de/kultur/literatur/booker-prize-2026-m-john-harrison-gewinnt-mit-the-end-of-everything-a-567ec0d9-94d9-41dd-b0f9-0d59bf068b6b#ref=rss",
+     "image": "https://cdn.prod.www.spiegel.de/images/5c26b9af-0573-4c47-a402-42c842e20adc_w520_r2.08_fpx53_fpy40.jpg",
+     "aggregator": false,
+     "published": "2026-11-10T02:37:00+00:00"
+    },
+    {
+     "source": "ZEIT ONLINE",
+     "region": "DE",
+     "weight": 0.9,
+     "title": "Renommierter Buchpreis: Booker-Literaturpreis geht an 81-jährigen M. John Harrison",
+     "summary": "",
+     "link": "https://www.zeit.de/news/2026-11/10/booker-literaturpreis-geht-an-81-jaehrigen-m-john-harrison",
+     "image": "https://img.zeit.de/news/2026-11/10/booker-literaturpreis-geht-an-81-jaehrigen-m-john-harrison-image-group/original__640x360",
+     "aggregator": false,
+     "published": "2026-11-10T07:10:14+00:00"
+    },
+    {
+     "source": "DER STANDARD",
+     "region": "AT",
+     "weight": 0.85,
+     "title": "Booker-Preis 2026 geht an Autor M. John Harrison",
+     "summary": "Der 81‑Jährige wird für seinen dystopischen Roman \"The End of Everything\" ausgezeichnet. Er ist der bisher älteste Gewinner des renommierten Preises",
+     "link": "https://www.derstandard.at/story/3000000348362/booker-literaturpreis-geht-an-81-j228hrigen-m-john-harrison?ref=rss",
+     "image": "https://i.ds.at/iadqzg/rs:fill:150:0/plain/lido-images/2026/11/10/428cf38c-ae96-4692-82b9-62c2aaf326c3.jpg",
+     "aggregator": false,
+     "published": "2026-11-10T07:22:31+00:00"
+    },
+    {
+     "source": "Spiegel",
+     "region": "DE",
+     "weight": 0.6,
+     "title": "Booker-Prize 2026: M. John Harrison gewinnt mit »The End of Everything",
+     "summary": "Booker-Prize 2026: M. John Harrison gewinnt mit »The End of Everything Spiegel Weitere Schlagzeilen und Meinungen in Google News",
+     "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQR1dPUW1ITDBWVE1hR1JFU0VFcUo5NlRhQVUxS1FXT1ZvS0JYRklrUVRqbFRBUWFWS3JjVEs5VzBPM2h5bXZDakhwc285Si04SUVTLXFVNDhnUE5EU1pwZW9qOV82b2ZfQmhqaFZhZGx4SmNSanhxYnRtaFRaa1Q4bDhnVXE5dEptaE82bzRQQ1V6VmRtMUNOVjNaRHRuUWdMUkZFcC1lazZVZm92V3BZaEJwbXliV2hzR3VQNjZaRmhzMHpIY2RpaWxOSW5GSzJYM1V4cUlHeWM5bGJSdFFn?oc=5",
+     "image": null,
+     "aggregator": true,
+     "published": "2026-11-10T02:37:00+00:00"
+    }
+   ]
+  },
+  {
+   "id": 2,
+   "score": 13.25,
+   "outlets": [
+    "Deutschlandfunk",
+    "ORF",
+    "DER STANDARD",
+    "WELT",
+    "n-tv",
+    "Spiegel"
+   ],
+   "regions": [
+    "AT",
+    "DE"
+   ],
+   "trend": [],
+   "newest": "2026-11-10T07:19:41+00:00",
+   "articles": [
+    {
+     "source": "Deutschlandfunk",
+     "region": "DE",
+     "weight": 0.95,
+     "title": "USA - Republikanischer Abgeordneter stellt Antrag auf Amtsenthebung von Verteidigungsminister Hegseth",
+     "summary": "US-Verteidigungsminister Hegseth muss sich möglicherweise einem Amtsenthebungsverfahren stellen.",
+     "link": "https://www.deutschlandfunk.de/republikanischer-abgeordneter-stellt-antrag-auf-amtsenthebung-von-verteidigungsminister-hegseth-120.html",
+     "image": "https://bilder.deutschlandfunk.de/19/9e/7a/3c/199e7a3c-88e2-4852-879f-3931d0728670/verteidigungsminister-pete-hegseth-100-1920x1920.jpg",
+     "aggregator": false,
+     "published": "2026-11-10T07:19:41+00:00"
+    },
+    {
+     "source": "ORF",
+     "region": "AT",
+     "weight": 0.95,
+     "title": "Antrag auf Amtsenthebungsverfahren gegen Hegseth",
+     "summary": "",
+     "link": "https://orf.at/stories/3447736/",
+     "image": null,
+     "aggregator": false,
+     "published": "2026-11-09T19:54:05+00:00"
+    },
+    {
+     "source": "DER STANDARD",
+     "region": "AT",
+     "weight": 0.85,
+     "title": "Wegen Iran-Krieg: Amtsenthebungsverfahren gegen Verteidigungsminister Hegseth eingeleitet",
+     "summary": "Der Trump-kritische republikanische Kongressabgeordnete Thomas Massie brachte das Verfahren auf den Weg. Bereits am Mittwoch könnte das Repräsentantenhaus abstimmen",
+     "link": "https://www.derstandard.at/story/3000000348337/wamtsenthebungsverfahren-gegen-pentagonchef-hegseth-eingeleitet?ref=rss",
+     "image": "https://i.ds.at/VOHQuw/rs:fill:150:0/plain/lido-images/2026/11/09/b1d01b5f-b875-41fe-be55-cb52be5fba8f.jpg",
+     "aggregator": false,
+     "published": "2026-11-09T19:47:37+00:00"
+    },
+    {
+     "source": "WELT",
+     "region": "DE",
+     "weight": 0.8,
+     "title": "„Möglichkeit, ihn vorab aus dem Amt zu jagen“ – Hegseth droht Amtsenthebungsverfahren",
+     "summary": "Der republikanische US-Abgeordnete Thomas Massie hat ein Amtsenthebungsverfahren gegen Verteidigungsminister Pete Hegseth auf ⁠den Weg gebracht. „Er hatte eine offene Rechnung“, berichtet Korrespondent Michael Wüllenweber.",
+     "link": "https://www.welt.de/politik/ausland/video6af2b849d0fb1ac9ce0ed588/us-verteidigungsminister-moeglichkeit-ihn-vorab-aus-dem-amt-zu-jagen-hegseth-droht-amtsenthebungsverfahren.html",
+     "image": "https://images.welt.de/6af2b849d0fb1ac9ce0ed588/73daf433de677c8185daa45aa449c0ea/ci16x9-w1200/1794252662143-afp-d6yb263-jpg",
+     "aggregator": false,
+     "published": "2026-11-10T06:32:43+00:00"
+    },
+    {
+     "source": "WELT",
+     "region": "DE",
+     "weight": 0.8,
+     "title": "Amtsenthebungsverfahren gegen Pentagonchef Hegseth eingeleitet",
+     "summary": "Der republikanische Abgeordnete Thomas Massie hat im US-Repräsentantenhaus einen Antrag auf Amtsenthebung von Verteidigungsminister Pete Hegseth eingereicht.",
+     "link": "https://www.welt.de/politik/ausland/video6af2a6f9e39746b7b04be106/us-regierung-amtsenthebungsverfahren-gegen-pentagonchef-hegseth-eingeleitet.html",
+     "image": "https://images.welt.de/6af2a6f9e39746b7b04be106/483ef7bebb7b72d0b46bca16826cb3dd/ci16x9-w1200/2026-11-06t012423z-2134909001-rc20ioap7pl7-rtrmadp-3-usa-trump-hegseth-jpg",
+     "aggregator": false,
+     "published": "2026-11-10T05:13:05+00:00"
+    },
+    {
+     "source": "n-tv",
+     "region": "DE",
+     "weight": 0.8,
+     "title": "Antrag auf Amtsenthebung: Muss \"Kriegsminister\" Hegseth jetzt um seinen Posten bangen?",
+     "summary": "Für die Demokraten ist Verteidigungsminister Hegseth schon immer ein rotes Tuch. Wegen des Iran-Kriegs verliert der Pentagon-Chef aber auch bei den Republikanern an Rückhalt. Seine Gegner sehen jetzt die Chance, ihn loszuwerden. Kann das klappen?",
+     "link": "https://www.n-tv.de/politik/Muss-Kriegsminister-Hegseth-jetzt-um-seinen-Posten-bangen-id31514340.html",
+     "image": "https://www.n-tv.de/img/31514342/1794284407/Img_4_3/250/626957056.jpg",
+     "aggregator": false,
+     "published": "2026-11-10T03:25:14+00:00"
+    },
+    {
+     "source": "Spiegel",
+     "region": "DE",
+     "weight": 0.6,
+     "title": "Pete Hegseth: Republikanischer Abgeordneter Thomas Massie stößt Amtsenthebungsverfahren an",
+     "summary": "Pete Hegseth: Republikanischer Abgeordneter Thomas Massie stößt Amtsenthebungsverfahren an Spiegel (S+) Antrag auf Impeachment-Einleitung: Jetzt kommt es zum Showdown über Pete Hegseths Zukunft Spiegel PK, Abstimmung, Vetorecht: Der Fahrplan im Fall Hegseth FOCUS online Antrag auf Amtsenthebung: Teile der Republikaner wollen Hegseth loswerden taz.de Pete Hegseth: Droht dem US-Verteidigungsminister die Amtsenthebung? - Politik - SZ.de SZ.de",
+     "link": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxNZ2FvZ0hHMnlCa2RBc3NIUFIydnh4RlpWTlJYVjFDX1AzUUFrQ25kODdwcEVOTEpwZ1N5S2I0cTNtVFh1Tkd4YkRyTzRFN1p3YnBKYjhhbFBPX0U3YXBPTTNpalpDVVNWdkFUVVdlUjkwSmx2QV9adzZQZktLcXhpdENwa0dxYmgtS0ZwX1ZPa2hvODlBRHZFQzlXZHJ4cUhnWVd6R3RIM1Z1RGlKMzlrdW1LVE1FUlppUUdrbUl0THdTclhKcy1DODZBa2RMMGd2dkpITGlCZkpxelEwRF9ka0o1YzlpdGtfQ2pBcERsV2ctNlE?oc=5",
+     "image": null,
+     "aggregator": true,
+     "published": "2026-11-09T20:15:00+00:00"
+    }
+   ]
+  },
+  {
+   "id": 3,
+   "score": 12.55,
+   "outlets": [
+    "Deutschlandfunk",
+    "SPIEGEL",
+    "DER STANDARD",
+    "WELT",
+    "n-tv"
+   ],
+   "regions": [
+    "AT",
+    "DE"
+   ],
+   "trend": [],
+   "newest": "2026-11-10T07:19:41+00:00",
+   "articles": [
+    {
+     "source": "Deutschlandfunk",
+     "region": "DE",
+     "weight": 0.95,
+     "title": "Polizei - Razzia gegen Schusswaffenkriminalität in Berlin - auch \"Hells Angels\"-Vereinsheim durchsucht",
+     "summary": "Die Berliner Polizei ist mit einer Razzia gegen Schusswaffenkriminalität vorgegangen.",
+     "link": "https://www.deutschlandfunk.de/razzia-gegen-schusswaffenkriminalitaet-in-berlin-auch-hells-angels-vereinsheim-durchsucht-100.html",
+     "image": "https://bilder.deutschlandfunk.de/37/27/3b/22/37273b22-e62a-4011-9e6c-711d08bfb762/berlin-razzia-schusswaffenkriminalitaet-100-768x768.jpg",
+     "aggregator": false,
+     "published": "2026-11-10T07:19:41+00:00"
+    },
+    {
+     "source": "SPIEGEL",
+     "region": "DE",
+     "weight": 0.9,
+     "title": "Kriminalität in Berlin: Großrazzia wegen Schusswaffen in Berlin – Durchsuchung auch bei »Hells Angels«",
+     "summary": "In Berlin erpressen Banden Geschäftsinhaber und setzen dabei auch Schusswaffen ein. Das LKA meldet nun Durchsuchungen bei mutmaßlichen Waffenbesitzern, auch im Vereinsheim der Hells Angels.",
+     "link": "https://www.spiegel.de/panorama/kriminalitaet-in-berlin-grossrazzia-wegen-schusswaffen-in-berlin-durchsuchung-auch-bei-hells-angels-a-1de682ec-606f-4393-afba-f357f2d6e8ab#ref=rss",
+     "image": "https://cdn.prod.www.spiegel.de/images/f10966d4-0eb9-4fe2-acc2-a6ecba332985_w520_r2.08_fpx37.47_fpy50.jpg",
+     "aggregator": false,
+     "published": "2026-11-10T01:02:00+00:00"
+    },
+    {
+     "source": "DER STANDARD",
+     "region": "AT",
+     "weight": 0.85,
+     "title": "Durchsuchung bei \"Hells Angels\": Großeinsatz in Berlin",
+     "summary": "300 Einsatzkräfte der Polizei sind beteiligt. Laut einem Polizeisprecher geht es um Schusswaffenkriminalität",
+     "link": "https://www.derstandard.at/story/3000000348339/durchsuchung-bei-hells-angels-grosseinsatz-in-berlin?ref=rss",
+     "image": "https://i.ds.at/oTC-mw/rs:fill:150:0/plain/lido-images/2026/11/09/ba177e91-d29d-4791-b8f2-d2ab04103825.jpg",
+     "aggregator": false,
+     "published": "2026-11-09T21:03:59+00:00"
+    },
+    {
+     "source": "WELT",
+     "region": "DE",
+     "weight": 0.8,
+     "title": "Großrazzia in Berlin – SEK und GSG 9 gehen gegen „Hells Angels“ vor",
+     "summary": "Die Polizei-Sondereinheit „Ferrum“ will die steigende Schusswaffenkriminalität in Berlin und Brandenburg bekämpfen. Nun gab es Durchsuchungen.",
+     "link": "https://www.welt.de/vermischtes/kriminalitaet/article6af2b52fd0fb1ac9ce0ed53d/grossrazzia-in-berlin-sek-und-gsg-9-gehen-gegen-hells-angels-vor.html",
+     "image": "https://images.welt.de/6af2b52fd0fb1ac9ce0ed53d/6ac049f5963b2f99e7763bbf39a59a54-master/ci23x11-w1200/dpa-com-261109-936-142063-jpg",
+     "aggregator": false,
+     "published": "2026-11-10T06:38:46+00:00"
+    },
+    {
+     "source": "n-tv",
+     "region": "DE",
+     "weight": 0.8,
+     "title": "Berlin: Schusswaffen-Großrazzia: SEK stürmt Vereinsheim der \"Hells Angels\"",
+     "summary": "In der Hauptstadt wird immer öfter scharf geschossen. Vor einem Jahr gründet das LKA deshalb die Sondereinheit \"Ferrum\". Die rückt am Abend zusammen mit der GSG 9 und Einsatzhundertschaften zu einer Großrazzia aus. Die \"Hells Angels\" werden bei einer Grillparty überrascht.",
+     "link": "https://www.n-tv.de/panorama/SEK-stuermt-Vereinsheim-der-Hells-Angels-id31514153.html",
+     "image": "https://www.n-tv.de/img/31514159/1794269728/Img_4_3/250/image.jpg",
+     "aggregator": false,
+     "published": "2026-11-09T23:19:50+00:00"
+    }
+   ]
+  },
+  {
+   "id": 4,
+   "score": 11.45,
+   "outlets": [
+    "tagesschau",
+    "Deutschlandfunk",
+    "Tagesspiegel"
+   ],
+   "regions": [
+    "DE"
+   ],
+   "trend": [
+    "patricia schlesinger",
+    "Strafprozess gegen ehemalige rbb-Intendantin Schlesinger beginnt",
+    "(S+) Patricia Schlesinger: Der vielleicht größte ARD-Skandal wird ab jetzt vor Gericht verhandelt"
+   ],
+   "newest": "2026-11-10T07:19:41+00:00",
+   "articles": [
+    {
+     "source": "tagesschau",
+     "region": "DE",
+     "weight": 1.0,
+     "title": "Strafprozess gegen ehemalige rbb-Intendantin Schlesinger beginnt",
+     "summary": "Hat sich Patricia Schlesinger in ihrer Zeit als Intendantin des rbb strafbar gemacht? Heute wird gegen sie und drei weitere Angeklagte der Prozess eröffnet. Das Gericht geht von 56 Verhandlungstagen aus.",
+     "link": "https://www.tagesschau.de/inland/regional/brandenburg/rbb-strafprozess-gegen-ehemalige-rbb-intendantin-schlesinger-beginnt-102.html",
+     "image": "https://images.tagesschau.de/image/120ac294-fc32-42f0-ae46-dc9e50f2a4e3/AAABocPXvl8/AAABnSSvrFg/16x9-big/rbb-630982654-100.jpg?width=1920",
+     "aggregator": false,
+     "published": "2026-11-10T06:42:49+00:00"
+    },
+    {
+     "source": "Deutschlandfunk",
+     "region": "DE",
+     "weight": 0.95,
+     "title": "Berliner Landgericht - Prozess gegen frührere RBB-Intendantin Schlesinger beginnt",
+     "summary": "Am Berliner Landgericht beginnt heute der Strafprozess gegen die frühere RBB-Intendantin Schlesinger und drei weitere Angeklagte.",
+     "link": "https://www.deutschlandfunk.de/prozess-gegen-fruehrere-rbb-intendantin-schlesinger-beginnt-100.html",
+     "image": "https://bilder.deutschlandfunk.de/7a/5a/dc/64/7a5adc64-ea05-4d53-b26b-f58de65cebd8/patricia-schlesinger-114-1920x1920.jpg",
+     "aggregator": false,
+     "published": "2026-11-10T07:19:41+00:00"
+    },
+    {
+     "source": "Tagesspiegel",
+     "region": "DE",
+     "weight": 0.6,
+     "title": "Die Akte Patricia Schlesinger Eine Investigativjournalistin, die an der „Arroganz der Macht“ scheiterte",
+     "summary": "Die Akte Patricia Schlesinger Eine Investigativjournalistin, die an der „Arroganz der Macht“ scheiterte Tagesspiegel Strafprozess gegen ehemalige rbb-Intendantin Schlesinger beginnt rbb24.de (S+) Patricia Schlesinger: Der vielleicht größte ARD-Skandal wird ab jetzt vor Gericht verhandelt Spiegel Rundfunk Berlin-Brandenburg: Landgericht Berlin verhandelt gegen Ex-Intendantin Schlesinger radioeins Patricia Schlesinger vor Gericht: Diese fünf Köpfe prägen die Woche FAZ",
+     "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxNNVJfaDJGRVM2SlF5dGFhbW1GWFdDbDZPaGpQZFFjRGdsR3h1RVNPSXNGT05qeFFpMUl5MlFTTHE1bWo3bXhVVUV1b3hwS1NsNUo0dVdscHJhbzVicnpIWHI1cndkaHl4MFZyVTVlNnhqcU5WaWpEVmZVdVJYXzNyVDBMaVBGR25Nc3FjOEZMTkxVdFdzdTZST1lkNjdmSUxHVHc1bG5YOGpoS1R1ejBzYVRtdFJJbDhPbWVGY0NGQThPdHdWLVJmaDEzZFlVLVZ6QnplTlY4NGpVTmFyYmJzcnZXTQ?oc=5",
+     "image": null,
+     "aggregator": true,
+     "published": "2026-11-10T06:43:52+00:00"
+    }
+   ]
+  },
+  {
+   "id": 5,
+   "score": 11.35,
+   "outlets": [
+    "tagesschau",
+    "Deutschlandfunk",
+    "NZZ",
+    "WirtschaftsWoche"
+   ],
+   "regions": [
+    "CH",
+    "DE"
+   ],
+   "trend": [],
+   "newest": "2026-11-10T07:19:41+00:00",
+   "articles": [
+    {
+     "source": "tagesschau",
+     "region": "DE",
+     "weight": 1.0,
+     "title": "Chef des Chipherstellers Nvidia in mögliche Spionageaffäre verwickelt",
+     "summary": "Chef des Chipherstellers Nvidia in mögliche Spionageaffäre verwickelt",
+     "link": "https://www.tagesschau.de/tagesschau_20_uhr/video-1681016.html",
+     "image": "https://images.tagesschau.de/image/2168fb03-6c1a-4386-9488-42a8ec09a57d/AAABocHZmEk/AAABnSSvrFg/16x9-big/sendungsbild-1825082.jpg?width=1920",
+     "aggregator": false,
+     "published": "2026-11-09T19:47:06+00:00"
+    },
+    {
+     "source": "Deutschlandfunk",
+     "region": "DE",
+     "weight": 0.95,
+     "title": "Mögliche Spionageaffäre - Trump: FBI ermittelt im Zusammenhang mit Nvidia-Chef Huang",
+     "summary": "Die US-Bundespolizei FBI hat Ermittlungen im Zusammenhang mit einer möglichen Spionageaffäre um den Chef des Nvidia-Konzerns, Huang, aufgenommen. Präsident Trump sagte vor Journalisten im Weißen Haus, das FBI prüfe den Fall. Der Nvidia-Chef bestreite, von den Machenschaften der angeblichen Spionin gewusst zu haben, und er glaube ihm das, meinte Trump.",
+     "link": "https://www.deutschlandfunk.de/trump-fbi-ermittelt-im-zusammenhang-mit-nvidia-chef-huang-100.html",
+     "image": "https://bilder.deutschlandfunk.de/49/6d/1b/4e/496d1b4e-a47c-4535-9f2d-8e0514004d02/nvidia-jensen-huang-100-1920x1920.jpg",
+     "aggregator": false,
+     "published": "2026-11-10T07:19:41+00:00"
+    },
+    {
+     "source": "NZZ",
+     "region": "CH",
+     "weight": 0.9,
+     "title": "DIE NEUESTEN ENTWICKLUNGEN - Spionageaffäre bei Nvidia: FBI ermittelt laut Trump +++ Aktionäre verklagen das Unternehmen und Chef Huang",
+     "summary": "Der Nvidia-Chef Jensen Huang hatte mutmasslich eine Affäre mit einer chinesischen Spionin. Das Chip-Unternehmen leitet eine Untersuchung ein. Die neusten Entwicklungen",
+     "link": "https://www.nzz.ch/wirtschaft/spionageaffaere-bei-nvidia-der-kurs-des-chip-unternehmens-bricht-ein-ld.10058640",
+     "image": "https://img-msp-prod.nzz.ch/2026/11/08/29548df6-42ba-463e-ba0b-d7d14aecb6b7.jpg?width=200&height=200&fit=bounds&quality=75&auto=webp&crop=5305,5305,x1327,y0",
+     "aggregator": false,
+     "published": "2026-11-10T07:00:54+00:00"
+    },
+    {
+     "source": "WirtschaftsWoche",
+     "region": "DE",
+     "weight": 0.85,
+     "title": "Nvidia-CEO Jensen Huang: Warum Jensen Huang trotz Spionageaffäre bei Nvidia unersetzlich ist",
+     "summary": "Nvidia-Chef Jensen Huang ist KI-Superstar und Mikromanager in Extremform. Das macht die Organisation einer möglichen Nachfolge so schwer – und unabhängig von den Folgen der Spitzelaffäre dringend notwendig.",
+     "link": "https://www.wiwo.de/unternehmen/it/nvidia-chef-jensen-huang-warum-eine-nachfolge-so-schwer-ist/100268623.html",
+     "image": "https://images.wiwo.de/NSlMUu52XRA9/cover/900/506/0/0/120/256/0.5/0.5/nvidia-ceo-jensen-huang-speaks-during-his-keynote-at-the-nvidia-gtc-conference-focused-on-advances.jpg",
+     "aggregator": false,
+     "published": "2026-11-10T06:51:43+00:00"
+    }
+   ]
+  },
+  {
+   "id": 6,
+   "score": 11.25,
+   "outlets": [
+    "tagesschau Wirtschaft",
+    "Deutschlandfunk",
+    "heise online",
+    "DER STANDARD"
+   ],
+   "regions": [
+    "AT",
+    "DE"
+   ],
+   "trend": [],
+   "newest": "2026-11-10T07:19:41+00:00",
+   "articles": [
+    {
+     "source": "tagesschau Wirtschaft",
+     "region": "DE",
+     "weight": 1.0,
+     "title": "Mobilfunkunternehmen Vodafone plant Abbau von 2.300 Stellen",
+     "summary": "Der Telekommunikationskonzern Vodafone muss sparen. In Deutschland soll nun rund jeder fünfte Job wegfallen - insgesamt 2.300 Stellen. Dafür will der Konzern stärker Künstliche Intelligenz einsetzen.",
+     "link": "https://www.tagesschau.de/wirtschaft/unternehmen/vodafone-stellenabbau-102.html",
+     "image": "https://images.tagesschau.de/image/166ca868-0a0f-4ad9-9d5c-2d220ef48fcc/AAABocCm9EM/AAABnSSvrFg/16x9-big/vodafone-duesseldorf-100.jpg?width=1920",
+     "aggregator": false,
+     "published": "2026-11-09T16:09:03+00:00"
+    },
+    {
+     "source": "Deutschlandfunk",
+     "region": "DE",
+     "weight": 0.95,
+     "title": "Mobilfunkanbieter - Vodafone will rund 2.300 Stellen streichen",
+     "summary": "Der Netzbetreiber Vodafone will in Deutschland in den kommenden zwei Jahren rund 2.300 Stellen abbauen oder verlagern. Demnach ist fast jeder fünfte Arbeitsplatz von den Einschnitten betroffen. Das Unternehmen begründete die Entscheidung unter anderem mit einem erheblichen Kundenschwund.",
+     "link": "https://www.deutschlandfunk.de/vodafone-will-rund-2-300-stellen-streichen-106.html",
+     "image": "https://bilder.deutschlandfunk.de/FI/LE/_a/f0/FILE_af0ea3b2e592324a443d1aa0d4e6cc07/vodafone-jpg-102-1280x1280.jpg",
+     "aggregator": false,
+     "published": "2026-11-10T07:19:41+00:00"
+    },
+    {
+     "source": "heise online",
+     "region": "DE",
+     "weight": 0.85,
+     "title": "Vodafone baut in Deutschland rund 2300 Stellen ab",
+     "summary": "Vodafone streicht fast jeden fünften Arbeitsplatz in Deutschland. Der Konzern begründet den Einschnitt mit einem Markt, der sich grundlegend verändert.",
+     "link": "https://www.heise.de/news/Vodafone-baut-in-Deutschland-rund-2300-Stellen-ab-11517302.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
+     "image": null,
+     "aggregator": false,
+     "published": "2026-11-09T11:17:00+00:00"
+    },
+    {
+     "source": "DER STANDARD",
+     "region": "AT",
+     "weight": 0.85,
+     "title": "Vodafone baut in Deutschland rund 2300 Stellen ab",
+     "summary": "Fast jeder fünfte Arbeitsplatz ist betroffen. Grund sei unter anderem der verstärkte Einsatz von KI",
+     "link": "https://www.derstandard.at/story/3000000348215/vodafone-baut-in-deutschland-rund-2300-stellen-ab?ref=rss",
+     "image": "https://i.ds.at/VROsnw/rs:fill:150:0/plain/lido-images/2026/11/09/3986d237-e80b-4c82-982d-cf55933c9ded.jpg",
+     "aggregator": false,
+     "published": "2026-11-09T10:37:09+00:00"
+    }
+   ]
+  },
+  {
+   "id": 7,
+   "score": 11.24,
+   "outlets": [
+    "tagesschau",
+    "SPIEGEL",
+    "ZEIT ONLINE",
+    "Handelsblatt"
+   ],
+   "regions": [
+    "DE",
+    "INT"
+   ],
+   "trend": [],
+   "newest": "2026-11-10T06:59:41+00:00",
+   "articles": [
+    {
+     "source": "tagesschau",
+     "region": "DE",
+     "weight": 1.0,
+     "title": "Republikaner Massie will Hegseth des Amtes entheben",
+     "summary": "Nach dem Wahldebakel der Republikaner sehen Gegner von US-Verteidigungsminister Hegseth eine neue Gelegenheit, ihn loszuwerden. Ob es tatsächlich zur Amtsenthebung kommt, ist aber fraglich. Präsident Trump stellte sich hinter seinen Minister.",
+     "link": "https://www.tagesschau.de/ausland/amerika/usa-amtsenthebungsverfahren-hegseth-100.html",
+     "image": "https://images.tagesschau.de/image/85834255-e228-40b1-8a1d-6641c23f17fb/AAABocIR93A/AAABnSSvrFg/16x9-big/hegseth-186.jpg?width=1920",
+     "aggregator": false,
+     "published": "2026-11-10T06:12:18+00:00"
+    },
+    {
+     "source": "tagesschau Ausland",
+     "region": "INT",
+     "weight": 1.0,
+     "title": "Republikaner Massie will Hegseth des Amtes entheben",
+     "summary": "Nach dem Wahldebakel der Republikaner sehen Gegner von US-Verteidigungsminister Hegseth eine neue Gelegenheit, ihn loszuwerden. Ob es tatsächlich zur Amtsenthebung kommt, ist aber fraglich. Präsident Trump stellte sich hinter seinen Minister.",
+     "link": "https://www.tagesschau.de/ausland/amerika/usa-amtsenthebungsverfahren-hegseth-100.html",
+     "image": "https://images.tagesschau.de/image/85834255-e228-40b1-8a1d-6641c23f17fb/AAABocIR93A/AAABnSSvrFg/16x9-big/hegseth-186.jpg?width=1920",
+     "aggregator": false,
+     "published": "2026-11-10T06:12:18+00:00"
+    },
+    {
+     "source": "SPIEGEL",
+     "region": "DE",
+     "weight": 0.9,
+     "title": "Pete Hegseth: Republikanischer Abgeordneter Thomas Massie stößt Amtsenthebungsverfahren an",
+     "summary": "Der republikanische Abgeordnete Thomas Massie hat ein Amtsenthebungsverfahren gegen US-Verteidigungsminister Pete Hegseth angestoßen, unter anderem, weil der ohne Legitimation Angriffe gegen Iran befehligt habe.",
+     "link": "https://www.spiegel.de/ausland/pete-hegseth-republikanischer-abgeordneter-thomas-massie-stoesst-amtsenthebungsverfahren-an-a-c60d0cb0-f5c7-470d-9c3d-6d68fb73d3e9#ref=rss",
+     "image": "https://cdn.prod.www.spiegel.de/images/8581eabc-159d-4f81-ab4c-edfb3544ee83_w520_r2.08_fpx67.33_fpy45.jpg",
+     "aggregator": false,
+     "published": "2026-11-09T20:15:00+00:00"
+    },
+    {
+     "source": "ZEIT ONLINE",
+     "region": "DE",
+     "weight": 0.9,
+     "title": "Republikaner leitet Amtsenthebung gegen US-Verteidigungsminister ein",
+     "summary": "Der republikanische US-Abgeordnete Thomas Massie hat am Montag ein Amtsenthebungsverfahren gegen den US-Verteidigungsminister Pete Hegseth auf den Weg gebracht.",
+     "link": "https://www.zeit.de/video/2026-11/republikaner-leitet-amtsenthebung-gegen-us-verteidigungsminister-ein",
+     "image": "https://img.zeit.de/video/2026-11/6408171873112-still/original__640x360",
+     "aggregator": false,
+     "published": "2026-11-10T06:59:41+00:00"
+    },
+    {
+     "source": "Handelsblatt",
+     "region": "DE",
+     "weight": 0.9,
+     "title": "Verfahren beantragt: Wird Pentagon-Chef Hegseth nun wirklich des Amtes enthoben?",
+     "summary": "Nach dem Wahldebakel der Republikaner sehen Gegner von US-Verteidigungsminister Hegseth eine neue Gelegenheit, ihn loszuwerden. Ob es tatsächlich zur Amtsenthebung kommt, ist aber fraglich.",
+     "link": "https://www.handelsblatt.com/politik/international/verfahren-beantragt-wird-pentagon-chef-hegseth-nun-wirklich-des-amtes-enthoben/100268581.html",
+     "image": "https://images.handelsblatt.com/rmkRVYFV7XJh/cover/900/506/0/0/107/106/0.5/0.5/us-verteidigungsminister-pete-hegseth.jpg",
+     "aggregator": false,
+     "published": "2026-11-10T06:46:08+00:00"
+    }
+   ]
+  },
+  {
+   "id": 8,
+   "score": 11.15,
+   "outlets": [
+    "Deutschlandfunk",
+    "ZEIT ONLINE",
+    "Handelsblatt",
+    "DER STANDARD"
+   ],
+   "regions": [
+    "AT",
+    "DE"
+   ],
+   "trend": [],
+   "newest": "2026-11-10T07:19:41+00:00",
+   "articles": [
+    {
+     "source": "Deutschlandfunk",
+     "region": "DE",
+     "weight": 0.95,
+     "title": "Regulierung - Nach Hackerangriff durch OpenAI-Agenten: Australien will Regeln für Tech-Konzerne verschärfen",
+     "summary": "Nach einem Sicherheitsvorfall mit Künstlicher Intelligenz des US-Konzerns OpenAI verschärft Australien ⁠die Regeln ⁠für Technologiekonzerne.",
+     "link": "https://www.deutschlandfunk.de/nach-hackerangriff-durch-openai-agenten-australien-will-regeln-fuer-tech-konzerne-verschaerfen-100.html",
+     "image": "https://bilder.deutschlandfunk.de/ac/f7/06/1e/acf7061e-9c18-485e-b9aa-b624fee3eefe/australien-premier-albanese-100-1920x1920.jpg",
+     "aggregator": false,
+     "published": "2026-11-10T07:19:41+00:00"
+    },
+    {
+     "source": "ZEIT ONLINE",
+     "region": "DE",
+     "weight": 0.9,
+     "title": "Künstliche Intelligenz: Australien will Regeln für KI-Unternehmen verschärfen",
+     "summary": "Nach einem KI-Sicherheitsvorfall hat der australische Premierminister Anthony Albanese verbindliche Sicherheitsanforderungen angekündigt. Dazu gehört eine Meldepflicht.",
+     "link": "https://www.zeit.de/politik/ausland/2026-11/australien-ki-regulierung-openai-anthony-albanese-gxe",
+     "image": "https://img.zeit.de/politik/ausland/2026-11/australien-ki-regulierung-openai-anthony-albanese-gxe-foto-1/original__640x360",
+     "aggregator": false,
+     "published": "2026-11-10T05:45:45+00:00"
+    },
+    {
+     "source": "Handelsblatt",
+     "region": "DE",
+     "weight": 0.9,
+     "title": "KI-Regulierung: Australien will Regeln für Tech-Konzerne verschärfen",
+     "summary": "Nach einem Hackerangriff durch KI auf das australische Gesundheitssystem will die Regierung die Aufsicht verschärfen. Geplant sind eine Meldepflicht für Sicherheitsverstöße und eine neue Aufsichtsbehörde.",
+     "link": "https://www.handelsblatt.com/technik/ki/ki-regulierung-australien-will-regeln-fuer-tech-konzerne-verschaerfen/100268601.html",
+     "image": "https://images.handelsblatt.com/FnvZ2xi2Kh0t/cover/900/506/0/0/156/157/0.5/0.5/10.11.2026-australien-canberra-premierminister-anthony-albanese-spricht-waehrend-einer-pressekonfe.jpg",
+     "aggregator": false,
+     "published": "2026-11-10T03:56:16+00:00"
+    },
+    {
+     "source": "DER STANDARD",
+     "region": "AT",
+     "weight": 0.85,
+     "title": "Australien will nach Hackerangriff durch KI-Agenten Regeln für Tech-Konzerne verschärfen",
+     "summary": "Ein KI-Agent von OpenAI hatte das australische Gesundheitssystem angegriffen. Unternehmen sollen Verstöße künftig melden. Zudem sind Änderungen im Strafrecht geplant",
+     "link": "https://www.derstandard.at/story/3000000348356/australien-will-regeln-f252r-tech-konzerne-versch228rfen?ref=rss",
+     "image": "https://i.ds.at/srE7Bg/rs:fill:150:0/plain/lido-images/2026/11/10/e0dc89c8-1559-400f-b606-8664e21b60ed.jpg",
+     "aggregator": false,
+     "published": "2026-11-10T06:39:34+00:00"
+    }
+   ]
+  },
+  {
+   "id": 9,
+   "score": 10.61,
+   "outlets": [
+    "ORF",
+    "SPIEGEL",
+    "DER STANDARD",
+    "n-tv"
+   ],
+   "regions": [
+    "AT",
+    "DE"
+   ],
+   "trend": [],
+   "newest": "2026-11-10T06:17:44+00:00",
+   "articles": [
+    {
+     "source": "ORF",
+     "region": "AT",
+     "weight": 0.95,
+     "title": "Trump: Iran-Krieg militärisch „effektiv vorüber“",
+     "summary": "",
+     "link": "https://orf.at/stories/3447751/",
+     "image": null,
+     "aggregator": false,
+     "published": "2026-11-10T05:35:40+00:00"
+    },
+    {
+     "source": "SPIEGEL",
+     "region": "DE",
+     "weight": 0.9,
+     "title": "Irankrieg laut Donald Trump »effektiv vorüber« – Teheran spricht von »Fake News«",
+     "summary": "US-Präsident Donald Trump behauptet, der Irankrieg sei praktisch vorbei, die Seeblockade Irans erfolge auf Wunsch der Anrainerstaaten. Der Chef des iranischen Sicherheitsrats widerspricht vehement.",
+     "link": "https://www.spiegel.de/ausland/irankrieg-laut-donald-trump-effektiv-vorueber-teheran-spricht-von-fake-news-a-f83d28b2-502c-4353-a9df-50ffe4ee8278#ref=rss",
+     "image": "https://cdn.prod.www.spiegel.de/images/3d0a9672-4826-4ea4-8cad-cc32fc9c8637_w520_r2.08_fpx66_fpy45.jpg",
+     "aggregator": false,
+     "published": "2026-11-10T05:41:00+00:00"
+    },
+    {
+     "source": "DER STANDARD",
+     "region": "AT",
+     "weight": 0.85,
+     "title": "Trump: Irankrieg ist militärisch \"effektiv vorüber\"",
+     "summary": "Die Seeblockade gegen den Iran wird laut dem US-Präsidenten aufrechterhalten. Weitere Angriffe auf das Land sind ihm zufolge aber nicht geplant",
+     "link": "https://www.derstandard.at/story/3000000348350/trump-iran-krieg-ist-milit228risch-effektiv-vor252ber?ref=rss",
+     "image": "https://i.ds.at/1dASNw/rs:fill:150:0/plain/lido-images/2026/11/10/2955ccb8-20cf-4426-8f41-f7d57bd0542b.jpg",
+     "aggregator": false,
+     "published": "2026-11-10T06:17:44+00:00"
+    },
+    {
+     "source": "n-tv",
+     "region": "DE",
+     "weight": 0.8,
+     "title": "Seeblockade bleibt: Trump: Iran-Krieg ist militärisch \"effektiv vorüber\"",
+     "summary": "Vor den Zwischenwahlen war damit gerechnet worden, dass die USA ihre Angriffe auf den Iran wieder aufnehmen würden. Davon rückt Präsident Trump jetzt aber ab. Das liegt wohl nicht nur an der Kriegsmüdigkeit seiner Wählerschaft, sondern auch an den US-Verbündeten in der Region.",
+     "link": "https://www.n-tv.de/politik/Trump-Iran-Krieg-ist-militaerisch-effektiv-vorueber-id31514380.html",
+     "image": "https://www.n-tv.de/img/31514381/1794287303/Img_4_3/250/631946860.jpg",
+     "aggregator": false,
+     "published": "2026-11-10T04:13:09+00:00"
+    }
+   ]
+  },
+  {
+   "id": 10,
+   "score": 10.59,
+   "outlets": [
+    "ZEIT ONLINE",
+    "Süddeutsche",
+    "WELT",
+    "n-tv"
+   ],
+   "regions": [
+    "DE"
+   ],
+   "trend": [],
+   "newest": "2026-11-10T06:49:19+00:00",
+   "articles": [
+    {
+     "source": "ZEIT ONLINE",
+     "region": "DE",
+     "weight": 0.9,
+     "title": "Krieg gegen die Ukraine: Vertreter der Ukraine und Russlands verhandeln in Abu Dhabi",
+     "summary": "Erstmals seit acht Monaten verhandeln Russland und die Ukraine unter US-Vermittlung über ein Kriegsende. Merz will beim EU-Gipfel über Ukrainehilfe sprechen. Das Liveblog",
+     "link": "https://www.zeit.de/politik/ausland/ukraine-krieg-news-liveblog",
+     "image": "https://img.zeit.de/politik/ausland/2026-11/ukraine-krieg-kiew-bild/original__640x360",
+     "aggregator": false,
+     "published": "2026-11-10T05:45:41+00:00"
+    },
+    {
+     "source": "Süddeutsche",
+     "region": "DE",
+     "weight": 0.9,
+     "title": "Krieg in der Ukraine: Ukraine-Verhandlungen in Abu Dhabi starten",
+     "summary": "Moskau und Kiew verhandeln unter US-Vermittlung, ein Durchbruch wird nicht erwartet. Ukrainische Schlüsselfragen sind Sicherheitsgarantien, eine Waffenruhe im Schwarzen Meer und das Ende der Angriffe auf Energieanlagen.",
+     "link": "https://www.sueddeutsche.de/politik/ukraine-krieg-newsblog-verhandlungen-kiew-moskau-usa-abu-dhabi-li.3571967",
+     "image": "https://www.sueddeutsche.de/2026/11/10/1fa1a2b2-0a1e-439a-ac0a-07fe0ba9c4cc.jpg?rect=722%2C157%2C2752%2C2064&width=1000&fm=jpg&q=60",
+     "aggregator": false,
+     "published": "2026-11-10T06:49:19+00:00"
+    },
+    {
+     "source": "WELT",
+     "region": "DE",
+     "weight": 0.8,
+     "title": "„Die zentrale Hürde ist die Territorialfrage“ – Russland und Ukraine verhandeln unter US-Vermittlung",
+     "summary": "Erstmals seit acht Monaten verhandeln Russland und die Ukraine unter US-Vermittlung in den Vereinigten Arabischen Emiraten wieder über ein Ende des Krieges. „Die russischen Forderungen scheinen noch die alten zu sein“, so Korrespondent Christoph Wanner.",
+     "link": "https://www.welt.de/politik/ausland/video6af2a681d0fb1ac9ce0ed487/abu-dhabi-die-zentrale-huerde-ist-die-territorialfrage-russland-und-ukraine-verhandeln-unter-us-vermittlung.html",
+     "image": "https://images.welt.de/6af2a681d0fb1ac9ce0ed487/28cfadc8654aaaf15def0375becd15b1/ci16x9-w1200/wanner-png",
+     "aggregator": false,
+     "published": "2026-11-10T06:02:10+00:00"
+    },
+    {
+     "source": "n-tv",
+     "region": "DE",
+     "weight": 0.8,
+     "title": "Europa sitzt nur im Nebenzimmer: Neue Runde, alte Streitpunkte: Ukraine-Gespräche starten am Golf",
+     "summary": "Mehr als acht Monate herrschte Funkstille, nun verhandeln die Delegationen aus Washington, Moskau und Kiew in Abu Dhabi über ein Ende des Blutvergießens in der Ukraine. Trump schürt Hoffnungen auf ein baldiges Abkommen. Doch Beobachter dämpfen die Erwartungen deutlich.",
+     "link": "https://www.n-tv.de/politik/Neue-Runde-alte-Streitpunkte-Ukraine-Gespraeche-starten-am-Golf-id31513999.html",
+     "image": "https://www.n-tv.de/img/31514085/1794295795/Img_4_3/250/631065772.jpg",
+     "aggregator": false,
+     "published": "2026-11-10T05:01:22+00:00"
+    }
+   ]
+  },
+  {
+   "id": 11,
+   "score": 10.53,
+   "outlets": [
+    "Deutsche Welle",
+    "SRF News",
+    "SPIEGEL",
+    "DER STANDARD"
+   ],
+   "regions": [
+    "AT",
+    "CH",
+    "DE",
+    "INT"
+   ],
+   "trend": [],
+   "newest": "2026-11-10T05:08:32+00:00",
+   "articles": [
+    {
+     "source": "Deutsche Welle",
+     "region": "INT",
+     "weight": 0.95,
+     "title": "Ukraine: Trump stellt \"sehr großes\" Abkommen mit Russland in Aussicht",
+     "summary": "Der US-Präsident hat in Washington einen Kreml-Berater empfangen. Donald Trumps anschließendes Statement dürfte für Unruhe in der Ukraine und Europa sorgen.",
+     "link": "https://www.dw.com/de/ukraine-trump-stellt-sehr-großes-abkommen-mit-russland-in-aussicht/a-79873159?maca=de-rss-de-all-1119-xml-mrss",
+     "image": "https://static.dw.com/image/79873823_302.jpg",
+     "aggregator": false,
+     "published": "2026-11-06T10:05:00+00:00"
+    },
+    {
+     "source": "SRF News",
+     "region": "CH",
+     "weight": 0.95,
+     "title": "Krieg in der Ukraine – Trump sieht Bereitschaft zum Ende des Ukraine-Kriegs",
+     "summary": "US-Präsident Donald Trump erklärt, Russland und die Ukraine seien beide des Kämpfens müde.",
+     "link": "https://www.srf.ch/news/international/ukraine/krieg-in-der-ukraine-trump-sieht-bereitschaft-zum-ende-des-ukraine-kriegs",
+     "image": "https://www.srf.ch/static/cms/images//320ws/055754.webp",
+     "aggregator": false,
+     "published": "2026-11-10T05:08:32+00:00"
+    },
+    {
+     "source": "SPIEGEL",
+     "region": "DE",
+     "weight": 0.9,
+     "title": "Marco Rubio: Nach Trumps Wahlniederlage bleibt sein Außenminister vage",
+     "summary": "Ein Satz von Donald Trump, dass die Ukraine nach einem Abkommen mit Russland eine »etwas andere Form« haben werde, alarmiert die Europäer. Außenminister Wadephul hat jetzt mit seinem US-Amtskollegen Rubio gesprochen.",
+     "link": "https://www.spiegel.de/politik/deutschland/marco-rubio-nach-trumps-wahlniederlage-bleibt-sein-aussenminister-vage-a-ec3ef6e5-4d2a-4b0d-a054-e164ca0975b1#ref=rss",
+     "image": "https://cdn.prod.www.spiegel.de/images/661fc172-1c71-469f-b742-7b11fcba295c_w520_r2.08_fpx66.67_fpy50.jpg",
+     "aggregator": false,
+     "published": "2026-11-09T20:13:00+00:00"
+    },
+    {
+     "source": "DER STANDARD",
+     "region": "AT",
+     "weight": 0.85,
+     "title": "Ungustl in Unruhe",
+     "summary": "Ein häufig vorzufindender Menschentypus im Umfeld der lahmen Ente Donald Trump",
+     "link": "https://www.derstandard.at/story/3000000347711/ungustl-in-unruhe?ref=rss",
+     "image": "https://i.ds.at/v-GK9Q/rs:fill:150:0/plain/lido-images/2026/11/05/1ec9f20f-7b0b-4681-870f-2d411cecefcb.jpg",
+     "aggregator": false,
+     "published": "2026-11-08T11:40:33+00:00"
+    }
+   ]
+  },
+  {
+   "id": 12,
+   "score": 9.98,
+   "outlets": [
+    "tagesschau",
+    "SRF News",
+    "n-tv",
+    "DIE ZEIT"
+   ],
+   "regions": [
+    "CH",
+    "DE"
+   ],
+   "trend": [],
+   "newest": "2026-11-10T07:06:01+00:00",
+   "articles": [
+    {
+     "source": "tagesschau",
+     "region": "DE",
+     "weight": 1.0,
+     "title": "Forschungsbericht: Fossile CO2-Emissionen gehen leicht zurück",
+     "summary": "Die UN-Klimakonferenz sucht nach Wegen aus den fossilen Energieträgern. Aktuelle Zahlen zeigen: Die fossilen CO2-Emissionen gehen leicht zurück. Doch Experten warnen, dies könne nur ein vorübergehender Effekt sein. Von Simon Plentinger.",
+     "link": "https://www.tagesschau.de/wissen/klima/emissionen-klimawandel-global-carbon-budget-100.html",
+     "image": "https://images.tagesschau.de/image/09fb1fb6-5c90-4644-866b-94e3adccf2f8/AAABld2mR9Y/AAABnSSvrFg/16x9-big/strom-klima-100.jpg?width=1920",
+     "aggregator": false,
+     "published": "2026-11-10T04:01:04+00:00"
+    },
+    {
+     "source": "tagesschau Wirtschaft",
+     "region": "DE",
+     "weight": 1.0,
+     "title": "Forschungsbericht: Fossile CO2-Emissionen gehen leicht zurück",
+     "summary": "Die UN-Klimakonferenz sucht nach Wegen aus den fossilen Energieträgern. Aktuelle Zahlen zeigen: Die fossilen CO2-Emissionen gehen leicht zurück. Doch Experten warnen, dies könne nur ein vorübergehender Effekt sein. Von Simon Plentinger.",
+     "link": "https://www.tagesschau.de/wissen/klima/emissionen-klimawandel-global-carbon-budget-100.html",
+     "image": "https://images.tagesschau.de/image/09fb1fb6-5c90-4644-866b-94e3adccf2f8/AAABld2mR9Y/AAABnSSvrFg/16x9-big/strom-klima-100.jpg?width=1920",
+     "aggregator": false,
+     "published": "2026-11-10T04:01:04+00:00"
+    },
+    {
+     "source": "SRF News",
+     "region": "CH",
+     "weight": 0.95,
+     "title": "Ist das die Klimawende? – Wegen Irankrieg – Ausstoss fossiler Treibhausgase sinkt",
+     "summary": "Nach dem Rekordjahr 2025 gehen die Emissionen aus der Verbrennung von Öl und Gas 2026 um 0.4 Prozent zurück.",
+     "link": "https://www.srf.ch/news/international/ist-das-die-klimawende-wegen-irankrieg-ausstoss-fossiler-treibhausgase-sinkt",
+     "image": "https://www.srf.ch/static/cms/images//320ws/227bc9e.webp",
+     "aggregator": false,
+     "published": "2026-11-10T04:58:46+00:00"
+    },
+    {
+     "source": "n-tv",
+     "region": "DE",
+     "weight": 0.8,
+     "title": "Trotz Rückgang beim Öl: Weltweite CO2-Emissionen steigen weiter",
+     "summary": "Es ist mutmaßlich eine Folge des Iran-Krieges: Die CO2-Emissionen durch fossile Brennstoffe gehen in diesem Jahr zurück. Trotzdem gibt es für Forscher keinen Grund zum Jubeln.",
+     "link": "https://www.n-tv.de/politik/Weltweite-CO2-Emissionen-steigen-weiter-id31514621.html",
+     "image": "https://www.n-tv.de/img/31514681/1794296090/Img_4_3/250/630477679.jpg",
+     "aggregator": false,
+     "published": "2026-11-10T07:06:01+00:00"
+    },
+    {
+     "source": "DIE ZEIT",
+     "region": "DE",
+     "weight": 0.6,
+     "title": "Klimawandel: Weltweite CO₂-Emissionen steigen trotz Rückgangs beim Öl",
+     "summary": "Klimawandel: Weltweite CO₂-Emissionen steigen trotz Rückgangs beim Öl DIE ZEIT Forschungsbericht: Fossile CO2-Emissionen gehen leicht zurück tagesschau.de Trotz Rückgang beim Öl: Weltweite CO2-Emissionen steigen weiter n-tv.de Weltweite CO₂-Emissionen aus fossilen Brennstoffen sinken leicht Spiegel Global Carbon Budget: Emissionen aus Öl und Erdgas leicht gesunken SZ.de",
+     "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOTEFWbktzMTNwTUg3eV9tMDdWa2lQbVFaTE11dHJRQ19PVGRxQTJtZmdJVWJ4eWhaQW9iR3FtNmpDcGo0Tmw0dXRyQzRtQWc5aVU5OVVIOWFqREQ2SHdVczNyR0Y3RmNxQVFTeU9rMEFKZ2NEa1l5eW4xczI4YXctRHI4QXdNNGJlYVhEQWtZQ1plMi1iV3dUQ1I2TQ?oc=5",
+     "image": null,
+     "aggregator": true,
+     "published": "2026-11-10T02:30:59+00:00"
+    }
+   ]
+  },
+  {
+   "id": 13,
+   "score": 9.75,
+   "outlets": [
+    "tagesschau",
+    "Deutschlandfunk",
+    "ORF"
+   ],
+   "regions": [
+    "AT",
+    "DE",
+    "INT"
+   ],
+   "trend": [],
+   "newest": "2026-11-10T07:19:41+00:00",
+   "articles": [
+    {
+     "source": "tagesschau",
+     "region": "DE",
+     "weight": 1.0,
+     "title": "Kalifornier lehnen Milliardärssteuer ab",
+     "summary": "Die Wähler in Kalifornien haben per Volksentscheid gegen eine einmalige Sonderabgabe durch die etwa 250 Milliardäre im US-Bundesstaat gestimmt. Die Superreichen hatten Millionen US-Dollar in Werbespots gegen die Reichensteuer gesteckt.",
+     "link": "https://www.tagesschau.de/ausland/amerika/kalifornien-milliardaerssteuer-abgelehnt-100.html",
+     "image": "https://images.tagesschau.de/image/9fee6096-0744-4526-b4f0-a2e4e49a9c73/AAABocQ8JzY/AAABnSSvrFg/16x9-big/t-shirt-reichensteuer-100.jpg?width=1920",
+     "aggregator": false,
+     "published": "2026-11-10T07:15:02+00:00"
+    },
+    {
+     "source": "tagesschau Ausland",
+     "region": "INT",
+     "weight": 1.0,
+     "title": "Kalifornier lehnen Milliardärssteuer ab",
+     "summary": "Die Wähler in Kalifornien haben per Volksentscheid gegen eine einmalige Sonderabgabe durch die etwa 250 Milliardäre im US-Bundesstaat gestimmt. Die Superreichen hatten Millionen US-Dollar in Werbespots gegen die Reichensteuer gesteckt.",
+     "link": "https://www.tagesschau.de/ausland/amerika/kalifornien-milliardaerssteuer-abgelehnt-100.html",
+     "image": "https://images.tagesschau.de/image/9fee6096-0744-4526-b4f0-a2e4e49a9c73/AAABocQ8JzY/AAABnSSvrFg/16x9-big/t-shirt-reichensteuer-100.jpg?width=1920",
+     "aggregator": false,
+     "published": "2026-11-10T07:15:02+00:00"
+    },
+    {
+     "source": "tagesschau Wirtschaft",
+     "region": "DE",
+     "weight": 1.0,
+     "title": "Kalifornier lehnen Milliardärssteuer ab",
+     "summary": "Die Wähler in Kalifornien haben per Volksentscheid gegen eine einmalige Sonderabgabe durch die etwa 250 Milliardäre im US-Bundesstaat gestimmt. Die Superreichen hatten Millionen US-Dollar in Werbespots gegen die Reichensteuer gesteckt.",
+     "link": "https://www.tagesschau.de/ausland/amerika/kalifornien-milliardaerssteuer-abgelehnt-100.html",
+     "image": "https://images.tagesschau.de/image/9fee6096-0744-4526-b4f0-a2e4e49a9c73/AAABocQ8JzY/AAABnSSvrFg/16x9-big/t-shirt-reichensteuer-100.jpg?width=1920",
+     "aggregator": false,
+     "published": "2026-11-10T07:15:02+00:00"
+    },
+    {
+     "source": "Deutschlandfunk",
+     "region": "DE",
+     "weight": 0.95,
+     "title": "USA - Kaliforniens Wähler lehnen Milliardärssteuer ab",
+     "summary": "Die Wähler im US-Bundesstaat Kalifornien haben eine Sondersteuer für Milliardäre abgelehnt. Vorgesehen war eine einmalige Abgabe von fünf Prozent auf Vermögen von mehr als einer Milliarde Dollar. Mit den Einnahmen sollten vor allem Kürzungen im staatlichen Gesundheitswesen ausgeglichen werden.",
+     "link": "https://www.deutschlandfunk.de/kaliforniens-waehler-lehnen-milliardaerssteuer-ab-102.html",
+     "image": "https://bilder.deutschlandfunk.de/58/20/c7/ce/5820c7ce-a562-48bd-89b2-4ebc0ec32476/google-gruender-brin-100-1920x1920.jpg",
+     "aggregator": false,
+     "published": "2026-11-10T07:19:41+00:00"
+    },
+    {
+     "source": "ORF",
+     "region": "AT",
+     "weight": 0.95,
+     "title": "Kalifornier lehnen Milliardärssteuer ab",
+     "summary": "",
+     "link": "https://orf.at/stories/3447747/",
+     "image": null,
+     "aggregator": false,
+     "published": "2026-11-10T05:10:03+00:00"
+    }
+   ]
+  },
+  {
+   "id": 14,
+   "score": 9.55,
+   "outlets": [
+    "tagesschau",
+    "Deutschlandfunk",
+    "DER STANDARD"
+   ],
+   "regions": [
+    "AT",
+    "DE",
+    "INT"
+   ],
+   "trend": [],
+   "newest": "2026-11-10T07:19:41+00:00",
+   "articles": [
+    {
+     "source": "tagesschau",
+     "region": "DE",
+     "weight": 1.0,
+     "title": "Frankreich macht Iran für Cyberangriffe auf Supermarkt-Kühltruhen verantwortlich",
+     "summary": "In mehreren Ländern Europas hatte es zuletzt Cyberangriffe auf Supermarkt-Kühlanlagen gegeben - als möglicher Urheber galt Russland. Der französische Außenminister machte nun Iran für die Vorfälle in Frankreich verantwortlich.",
+     "link": "https://www.tagesschau.de/ausland/europa/kuehlanlagen-cyberangriffe-100.html",
+     "image": "https://images.tagesschau.de/image/f526d0b5-6aea-4321-bb81-fdf915d039f4/AAABocFH_aQ/AAABnSSvrFg/16x9-big/kuehlanlagen-frankreich-100.jpg?width=1920",
+     "aggregator": false,
+     "published": "2026-11-09T17:51:23+00:00"
+    },
+    {
+     "source": "tagesschau Ausland",
+     "region": "INT",
+     "weight": 1.0,
+     "title": "Frankreich macht Iran für Cyberangriffe auf Supermarkt-Kühltruhen verantwortlich",
+     "summary": "In mehreren Ländern Europas hatte es zuletzt Cyberangriffe auf Supermarkt-Kühlanlagen gegeben - als möglicher Urheber galt Russland. Der französische Außenminister machte nun Iran für die Vorfälle in Frankreich verantwortlich.",
+     "link": "https://www.tagesschau.de/ausland/europa/kuehlanlagen-cyberangriffe-100.html",
+     "image": "https://images.tagesschau.de/image/f526d0b5-6aea-4321-bb81-fdf915d039f4/AAABocFH_aQ/AAABnSSvrFg/16x9-big/kuehlanlagen-frankreich-100.jpg?width=1920",
+     "aggregator": false,
+     "published": "2026-11-09T17:51:23+00:00"
+    },
+    {
+     "source": "Deutschlandfunk",
+     "region": "DE",
+     "weight": 0.95,
+     "title": "Supermärkte - Frankreich macht iranische Revolutionsgarden für Cyberangriffe auf Kühlsysteme verantwortlich",
+     "summary": "Frankreich macht die iranischen Revolutionsgarden für die Cyberangriffe auf Supermarkt-Kühlsysteme verantwortlich. Der französische Außenminister Barrot teilte mit, zu diesem Ergebnis seien Untersuchungen staatlicher Behörden gekommen.",
+     "link": "https://www.deutschlandfunk.de/frankreich-macht-iranische-revolutionsgarden-fuer-cyberangriffe-auf-kuehlsysteme-verantwortlich-106.html",
+     "image": "https://bilder.deutschlandfunk.de/09/e9/64/58/09e96458-6ffc-425f-86b0-636a168a80ca/hackerangriff-supermaerkte-100-1920x1920.jpg",
+     "aggregator": false,
+     "published": "2026-11-10T07:19:41+00:00"
+    },
+    {
+     "source": "DER STANDARD",
+     "region": "AT",
+     "weight": 0.85,
+     "title": "Frankreich macht Iran für Cyberangriffe auf Kühlanlagen verantwortlich",
+     "summary": "Eine Spezialeinheit der iranischen Revolutionsgarden soll hinter den Attacken stecken. Der iranische Botschafter wurde einbestellt, EU-Sanktionen angekündigt",
+     "link": "https://www.derstandard.at/story/3000000348330/paris-wirft-iran-cyberangriffe-auf-k252hlanlagen-vor?ref=rss",
+     "image": "https://i.ds.at/Z5WUew/rs:fill:150:0/plain/lido-images/2026/11/09/e13ca5de-d1d1-4920-9cf2-ae9ec67413ac.jpg",
+     "aggregator": false,
+     "published": "2026-11-09T17:11:16+00:00"
+    }
+   ]
+  },
+  {
+   "id": 15,
+   "score": 9.25,
+   "outlets": [
+    "Deutschlandfunk",
+    "NZZ",
+    "WELT"
+   ],
+   "regions": [
+    "CH",
+    "DE"
+   ],
+   "trend": [],
+   "newest": "2026-11-10T07:19:41+00:00",
+   "articles": [
+    {
+     "source": "Deutschlandfunk",
+     "region": "DE",
+     "weight": 0.95,
+     "title": "Russischer Angriffskrieg - Bundeskanzler Merz fordert Beteiligung aller EU-Staaten bei Ukraine-Hilfe",
+     "summary": "Bundeskanzler Merz hat die EU-Staaten aufgefordert, sich an der Schließung der Milliarden-Lücke bei der Ukraine-Finanzierung zu beteiligen.",
+     "link": "https://www.deutschlandfunk.de/bundeskanzler-merz-fordert-beteiligung-aller-eu-staaten-bei-ukraine-hilfe-100.html",
+     "image": "https://bilder.deutschlandfunk.de/88/00/d4/08/8800d408-39fe-4c94-8c37-f580ab6324bf/merz-206-1920x1920.jpg",
+     "aggregator": false,
+     "published": "2026-11-10T07:19:41+00:00"
+    },
+    {
+     "source": "NZZ",
+     "region": "CH",
+     "weight": 0.9,
+     "title": "LIVE-TICKER - Krieg in der Ukraine: Merz fordert Beteiligung aller EU-Staaten an Ukraine-Hilfe",
+     "summary": "Seit über vier Jahren führt Russland Krieg gegen die Ukraine. Die wichtigsten Entwicklungen im Überblick.",
+     "link": "https://www.nzz.ch/international/krieg-in-der-ukraine-die-neusten-entwicklungen-im-liveticker-ld.10021245",
+     "image": "https://img-msp-prod.nzz.ch/2026/11/10/69710860-7755-4618-9ce1-ba6f1253cf05.jpg?width=200&height=200&fit=bounds&quality=75&auto=webp&crop=3205,3205,x801,y0",
+     "aggregator": false,
+     "published": "2026-11-10T05:02:29+00:00"
+    },
+    {
+     "source": "WELT",
+     "region": "DE",
+     "weight": 0.8,
+     "title": "Merz droht mit Blockade des EU-Haushalts und fordert Ukraine-Hilfen von allen Mitgliedstaaten",
+     "summary": "Bundeskanzler Friedrich Merz verschärft den Ton gegenüber seinen europäischen Partnern.",
+     "link": "https://www.welt.de/politik/ausland/video6af2a744e39746b7b04be10b/finanzierung-fuer-kiew-merz-droht-mit-blockade-des-eu-haushalts-und-fordert-ukraine-hilfen-von-allen-mitgliedstaaten.html",
+     "image": "https://images.welt.de/6af2a744e39746b7b04be10b/465748f4ea95f0dce40bfb9c3dba67e2/ci16x9-w1200/dpa-com-261103-935-1718355-jpg",
+     "aggregator": false,
+     "published": "2026-11-10T05:20:41+00:00"
+    }
+   ]
+  },
+  {
+   "id": 16,
+   "score": 9.25,
+   "outlets": [
+    "Deutschlandfunk",
+    "SPIEGEL",
+    "WELT"
+   ],
+   "regions": [
+    "DE"
+   ],
+   "trend": [],
+   "newest": "2026-11-10T07:19:41+00:00",
+   "articles": [
+    {
+     "source": "Deutschlandfunk",
+     "region": "DE",
+     "weight": 0.95,
+     "title": "Kandidatur als Bundespräsidentin - Aigner stellt sich im Bundestag vor",
+     "summary": "Die Unionskandidatin für das Amt der Bundespräsidentin, Aigner, stellt sich am Nachmittag den Bundestagsfraktionen vor. Geplant sind Besuche bei CDU/CSU, SPD und den Grünen. Ein Besuch bei der AfD ist nach Angaben von Aigners Stabschef Markuse nicht vorgesehen.",
+     "link": "https://www.deutschlandfunk.de/aigner-stellt-sich-im-bundestag-vor-102.html",
+     "image": "https://bilder.deutschlandfunk.de/NO/VA/_0/d5/NOVA_0d5b59c583d7cc2e17ab680751d8b300/craft-13534051-asset-100-1920x1920.jpg",
+     "aggregator": false,
+     "published": "2026-11-10T07:19:41+00:00"
+    },
+    {
+     "source": "SPIEGEL",
+     "region": "DE",
+     "weight": 0.9,
+     "title": "Ilse Aigner lehnt Vorstellung bei AfD-Fraktion im Bundestag ab",
+     "summary": "Als Kandidatin der »starken Mitte« will Ilse Aigner Bundespräsidentin werden. Jetzt wurde bekannt, bei welchen Bundestagsfraktionen sie persönlich vorstellig wird und bei welchen nicht.",
+     "link": "https://www.spiegel.de/politik/deutschland/ilse-aigner-lehnt-vorstellung-bei-afd-fraktion-im-bundestag-ab-a-b3348100-992e-4c5b-8e85-6f6223d43650#ref=rss",
+     "image": "https://cdn.prod.www.spiegel.de/images/4cdc9460-ae11-4e4b-b38e-9fadb91d68fe_w520_r2.08_fpx40.66_fpy51.jpg",
+     "aggregator": false,
+     "published": "2026-11-09T19:53:00+00:00"
+    },
+    {
+     "source": "WELT",
+     "region": "DE",
+     "weight": 0.8,
+     "title": "Unionskandidatin Aigner stellt sich im Bundestag vor – „Besuch der AfD-Fraktion erübrigt sich“",
+     "summary": "Einen Tag nach ihrer Nominierung stellt sich die Unionskandidatin für die Bundespräsidentenwahl, Ilse Aigner, im Bundestag vor.",
+     "link": "https://www.welt.de/politik/deutschland/video6af2aac9d0fb1ac9ce0ed4b7/kandidatin-fuer-die-bundespraesidentenwahl-unionskandidatin-aigner-stellt-sich-im-bundestag-vor-besuch-der-afd-fraktion-eruebrigt-sich.html",
+     "image": "https://images.welt.de/6af2aac9d0fb1ac9ce0ed4b7/a497a9cd75bc926e170d0120dcbec9b9/ci16x9-w1200/1794226962371-afp-d6wg8uj-jpg",
+     "aggregator": false,
+     "published": "2026-11-10T05:28:01+00:00"
+    }
+   ]
+  },
+  {
+   "id": 17,
+   "score": 8.93,
+   "outlets": [
+    "Handelsblatt",
+    "WirtschaftsWoche",
+    "WELT"
+   ],
+   "regions": [
+    "DE"
+   ],
+   "trend": [],
+   "newest": "2026-11-10T06:56:38+00:00",
+   "articles": [
+    {
+     "source": "Handelsblatt",
+     "region": "DE",
+     "weight": 0.9,
+     "title": "Automobilindustrie: Fehlende Teile – BMW lässt Schichten ausfallen",
+     "summary": "Insgesamt sollen drei Werke betroffen sein, heißt es aus Kreisen. Es geht dabei nur um einzelne Schichten – jede davon dürfte aber hunderte Autos betreffen.",
+     "link": "https://www.handelsblatt.com/mobilitaet/motor/automobilindustrie-fehlende-teile-bmw-laesst-schichten-ausfallen/100268597.html",
+     "image": "https://images.handelsblatt.com/6ZUVTQ6T2nKu/cover/900/506/0/0/301/301/0.5/0.5/archiv-24.10.2025-sachsen-leipzig-verschiedene-bmw-rollen-vom-band-im-bmw-group-werk-leipzig..jpg",
+     "aggregator": false,
+     "published": "2026-11-10T03:23:06+00:00"
+    },
+    {
+     "source": "Handelsblatt",
+     "region": "DE",
+     "weight": 0.9,
+     "title": "Automobilindustrie: Fehlende Teile: BMW lässt Schichten ausfallen",
+     "summary": "Insgesamt sollen drei Werke betroffen sein, heißt es aus Kreisen. Es geht dabei nur um einzelne Schichten - jede davon dürfte aber hunderte Autos betreffen.",
+     "link": "https://www.handelsblatt.com/politik/deutschland/automobilindustrie-fehlende-teile-bmw-laesst-schichten-ausfallen/100268589.html",
+     "image": "https://images.handelsblatt.com/CvTONlrUUFMm/cover/900/506/0/0/107/106/0.5/0.5/bmw-werk-in-leipzig.jpg",
+     "aggregator": false,
+     "published": "2026-11-10T03:00:14+00:00"
+    },
+    {
+     "source": "WirtschaftsWoche",
+     "region": "DE",
+     "weight": 0.85,
+     "title": "Automobilindustrie: Fehlende Teile – BMW lässt Schichten ausfallen",
+     "summary": "Insgesamt sollen drei Werke betroffen sein, heißt es aus Kreisen. Es geht dabei nur um einzelne Schichten – jede davon dürfte aber hunderte Autos betreffen.",
+     "link": "https://www.wiwo.de/unternehmen/auto/automobilindustrie-fehlende-teile-bmw-laesst-schichten-ausfallen/100268630.html",
+     "image": "https://images.wiwo.de/tydWpC7oGeP7/cover/900/506/0/0/301/301/0.5/0.5/archiv-24.10.2025-sachsen-leipzig-verschiedene-bmw-rollen-vom-band-im-bmw-group-werk-leipzig..jpg",
+     "aggregator": false,
+     "published": "2026-11-10T06:15:02+00:00"
+    },
+    {
+     "source": "WELT",
+     "region": "DE",
+     "weight": 0.8,
+     "title": "BMW lässt Schichten in drei Werken ausfallen",
+     "summary": "Beim Autobauer stehen die Bänder still. Wichtige Komponenten können offenbar nicht geliefert werden. Welche Bauteile betroffen sind, wollte der Autobauer nicht mitteilen.",
+     "link": "https://www.welt.de/wirtschaft/article6af2b9570caaf73de09f9798/bmw-laesst-schichten-in-drei-werken-ausfallen.html",
+     "image": "https://images.welt.de/6af2b9570caaf73de09f9798/2b798fa5697bce6c7969aba94da3d5f1-master/ci23x11-w1200/dpa-com-261110-935-1732502-jpg",
+     "aggregator": false,
+     "published": "2026-11-10T06:56:38+00:00"
+    }
+   ]
+  },
+  {
+   "id": 18,
+   "score": 8.75,
+   "outlets": [
+    "Handelsblatt",
+    "WirtschaftsWoche"
+   ],
+   "regions": [
+    "DE"
+   ],
+   "trend": [
+    "Chips und Halbleiter - Gewinnsprung bei Infineon - Milliardengeschäft Datencenter - Bayern - SZ.de"
+   ],
+   "newest": "2026-11-10T06:42:55+00:00",
+   "articles": [
+    {
+     "source": "Handelsblatt",
+     "region": "DE",
+     "weight": 0.9,
+     "title": "Chips und Halbleiter: Gewinnsprung bei Infineon - Milliardengeschäft Datencenter",
+     "summary": "Beim Umsatz übertrifft Infineon selbst das bisherige Rekordjahr 2023. Für 2027 erhöht der Halbleiterkonzern seine Erwartungen für Datencenter deutlich.",
+     "link": "https://www.handelsblatt.com/technik/it-internet/chips-und-halbleiter-gewinnsprung-bei-infineon-milliardengeschaeft-datencenter/100268637.html",
+     "image": "https://images.handelsblatt.com/bCtH1evmB2ot/cover/900/506/0/0/156/156/0.5/0.5/infineon-technologies-ag.jpg",
+     "aggregator": false,
+     "published": "2026-11-10T06:36:01+00:00"
+    },
+    {
+     "source": "WirtschaftsWoche",
+     "region": "DE",
+     "weight": 0.85,
+     "title": "Chips und Halbleiter: Gewinnsprung bei Infineon – Milliardengeschäft Datencenter",
+     "summary": "Beim Umsatz übertrifft Infineon selbst das bisherige Rekordjahr 2023. Für 2027 erhöht der Halbleiterkonzern seine Erwartungen für Datencenter deutlich.",
+     "link": "https://www.wiwo.de/unternehmen/it/chips-und-halbleiter-gewinnsprung-bei-infineon-milliardengeschaeft-datencenter/100268635.html",
+     "image": "https://images.wiwo.de/CHM5B18fJ7Xp/cover/900/506/0/0/457/457/0.5/0.5/archiv-12.11.2025-bayern-neubiberg-ein-waver-mit-dem-infineon-logo-ist-zu-beginn-der-praesentati.jpg",
+     "aggregator": false,
+     "published": "2026-11-10T06:42:55+00:00"
+    }
+   ]
+  },
+  {
+   "id": 19,
+   "score": 8.25,
+   "outlets": [
+    "Deutschlandfunk",
+    "Handelsblatt",
+    "WELT"
+   ],
+   "regions": [
+    "DE"
+   ],
+   "trend": [],
+   "newest": "2026-11-10T07:19:41+00:00",
+   "articles": [
+    {
+     "source": "Deutschlandfunk",
+     "region": "DE",
+     "weight": 0.95,
+     "title": "Neue Zolldaten - Chinas Handelsüberschuss knackt erneut die Billionen-Schwelle",
+     "summary": "Chinas Handelsüberschuss hat im zweiten Jahr in Folge die Schwelle von einer Billion US-Dollar durchbrochen. Das teilte die chinesische Zollbehörde mit. Von einem Handelsüberschuss ist die Rede, wenn der Wert der Warenexporte eines Staates in einem Zeitraum höher ist als der Wert der Importe.",
+     "link": "https://www.deutschlandfunk.de/chinas-handelsueberschuss-knackt-erneut-die-billionen-schwelle-102.html",
+     "image": "https://bilder.deutschlandfunk.de/95/5a/f8/32/955af832-3d8b-4cda-ad3f-92ea796c31cf/china-exporte-hafen-100-1920x1920.jpg",
+     "aggregator": false,
+     "published": "2026-11-10T07:19:41+00:00"
+    },
+    {
+     "source": "Handelsblatt",
+     "region": "DE",
+     "weight": 0.9,
+     "title": "Welthandel: Chinas Handelsüberschuss knackt erneut die Billion-Schwelle",
+     "summary": "Deutschland und andere Länder stört Chinas Handelsüberschuss schon länger. Nun durchbricht der Wert die Marke von einer Billion US-Dollar - obwohl das Land diesmal ungewohnt viel importierte.",
+     "link": "https://www.handelsblatt.com/politik/deutschland/welthandel-chinas-handelsueberschuss-knackt-erneut-die-billion-schwelle/100268599.html",
+     "image": "https://images.handelsblatt.com/yHSTIak1ZJGV/cover/900/506/0/0/107/106/0.5/0.5/aussenhandel-stuetzt-chinas-wachstum.jpg",
+     "aggregator": false,
+     "published": "2026-11-10T05:53:11+00:00"
+    },
+    {
+     "source": "WELT",
+     "region": "DE",
+     "weight": 0.6,
+     "title": "Starke Exporte: China präsentiert Handelsüberschuss von mehr als einer Billion Dollar",
+     "summary": "Starke Exporte: China präsentiert Handelsüberschuss von mehr als einer Billion Dollar WELT Neue Zolldaten - Chinas Handelsüberschuss knackt erneut die Billionen-Schwelle Deutschlandfunk Außenhandel: China überwindet Billionenmarke – und treibt Exporte weiter an Handelsblatt Welthandel - Chinas Handelsüberschuss überschreitet Billionen-Schwelle - Wirtschaft - SZ.de SZ.de Der Börsen-Tag: KI-Boom befeuert Chinas Exporte n-tv.de",
+     "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxNbV95Z1lxUUlkeklqVjJ1dmtYY0JIZDMzNWpfeUE0Q2hpcC1SLVNrRnB2SC1CTXhjTGh5VVNCR0NoQ2pWSVk3ZHBORlpPb3NpQktZS0RJV1g0Wm9XTGpnWlNHR3ozQWowTjRkMlRNV1dWZkczVXRNcnNoY3p6TjZrd2RYLW9Ob2dZa1o2X0l1VEtYeGM3b1c1ZzNFQUVKOHczVkx4QnNPa1lKYnRKNVJLa3ZKOHBvTEZPTEtPanpRb0tlNGRDRGIzVFdhY21HOG4zYV9hajRNVTJCdVZKcTkxUEdIY2kwNlZOQ1E?oc=5",
+     "image": null,
+     "aggregator": true,
+     "published": "2026-11-10T03:43:25+00:00"
+    }
+   ]
+  },
+  {
+   "id": 20,
+   "score": 7.85,
+   "outlets": [
+    "tagesschau",
+    "Deutschlandfunk"
+   ],
+   "regions": [
+    "DE"
+   ],
+   "trend": [],
+   "newest": "2026-11-10T07:19:41+00:00",
+   "articles": [
+    {
+     "source": "tagesschau",
+     "region": "DE",
+     "weight": 1.0,
+     "title": "Ticket-Zweitmarkt: Preisdeckel für Ticketbörsen in der Planung",
+     "summary": "Extreme Preisaufschläge beim Weiterverkauf von Tickets - das möchte Justiz- und Verbraucherschutzministerin Hubig in Zukunft unterbinden. Dafür ist ein Gesetz nun in der internen Abstimmung.",
+     "link": "https://www.tagesschau.de/inland/innenpolitik/ticket-weiterverkauf-beschraenkung-100.html",
+     "image": "https://images.tagesschau.de/image/cadf79ff-9f49-4774-8f1c-9f5d2c737368/AAABocN9G0w/AAABnSSvrFg/16x9-big/hubig-156.jpg?width=1920",
+     "aggregator": false,
+     "published": "2026-11-10T04:10:12+00:00"
+    },
+    {
+     "source": "tagesschau Inland",
+     "region": "DE",
+     "weight": 1.0,
+     "title": "Ticket-Zweitmarkt: Preisdeckel für Ticketbörsen in der Planung",
+     "summary": "Extreme Preisaufschläge beim Weiterverkauf von Tickets - das möchte Justiz- und Verbraucherschutzministerin Hubig in Zukunft unterbinden. Dafür ist ein Gesetz nun in der internen Abstimmung.",
+     "link": "https://www.tagesschau.de/inland/innenpolitik/ticket-weiterverkauf-beschraenkung-100.html",
+     "image": "https://images.tagesschau.de/image/cadf79ff-9f49-4774-8f1c-9f5d2c737368/AAABocN9G0w/AAABnSSvrFg/16x9-big/hubig-156.jpg?width=1920",
+     "aggregator": false,
+     "published": "2026-11-10T04:10:12+00:00"
+    },
+    {
+     "source": "Deutschlandfunk",
+     "region": "DE",
+     "weight": 0.95,
+     "title": "Ticketbörsen - Bundesjustizministerin Hubig will gesetzlichen Preisdeckel einführen",
+     "summary": "Bundesjustizministerin Hubig hat angesichts der Preise auf dem Ticket-Zweitmarkt angekündigt, dass Preisaufschläge künftig begrenzt würden.",
+     "link": "https://www.deutschlandfunk.de/bundesjustizministerin-hubig-will-gesetzlichen-preisdeckel-einfuehren-100.html",
+     "image": "https://bilder.deutschlandfunk.de/5e/7a/a9/77/5e7aa977-83c0-4c4c-a01c-5bb7fe1128c6/viagogo-ticket-zweitmarkt-100-1920x1920.jpg",
+     "aggregator": false,
+     "published": "2026-11-10T07:19:41+00:00"
+    }
+   ]
+  },
+  {
+   "id": 21,
+   "score": 7.85,
+   "outlets": [
+    "tagesschau",
+    "Deutschlandfunk"
+   ],
+   "regions": [
+    "DE",
+    "INT"
+   ],
+   "trend": [],
+   "newest": "2026-11-10T07:19:41+00:00",
+   "articles": [
+    {
+     "source": "tagesschau",
+     "region": "DE",
+     "weight": 1.0,
+     "title": "Frankreich erhöht Mindestlohn um 1,6 Prozent",
+     "summary": "Die Regierung in Paris will angesichts der anhaltenden Proteste offenbar ein Zeichen setzen: Die für Januar geplante Erhöhung des Mindestlohns wird nun vorgezogen. Ab Dezember soll es netto 24 Euro mehr geben pro Monat.",
+     "link": "https://www.tagesschau.de/ausland/europa/frankreich-erhoehung-mindestlohn-100.html",
+     "image": "https://images.tagesschau.de/image/9882f426-7cbf-4bbd-a5ca-33544a91c72a/AAABocDe8qY/AAABnSSvrFg/16x9-big/frankreich-demo-marseille-100.jpg?width=1920",
+     "aggregator": false,
+     "published": "2026-11-09T16:25:22+00:00"
+    },
+    {
+     "source": "tagesschau Ausland",
+     "region": "INT",
+     "weight": 1.0,
+     "title": "Frankreich erhöht Mindestlohn um 1,6 Prozent",
+     "summary": "Die Regierung in Paris will angesichts der anhaltenden Proteste offenbar ein Zeichen setzen: Die für Januar geplante Erhöhung des Mindestlohns wird nun vorgezogen. Ab Dezember soll es netto 24 Euro mehr geben pro Monat.",
+     "link": "https://www.tagesschau.de/ausland/europa/frankreich-erhoehung-mindestlohn-100.html",
+     "image": "https://images.tagesschau.de/image/9882f426-7cbf-4bbd-a5ca-33544a91c72a/AAABocDe8qY/AAABnSSvrFg/16x9-big/frankreich-demo-marseille-100.jpg?width=1920",
+     "aggregator": false,
+     "published": "2026-11-09T16:25:22+00:00"
+    },
+    {
+     "source": "Deutschlandfunk",
+     "region": "DE",
+     "weight": 0.95,
+     "title": "Demonstrationen - Frankreich erhöht Mindestlohn nach Sozialprotesten früher",
+     "summary": "Nach wochenlangen Protesten im Land erhöht Frankreich früher als geplant den Mindestlohn.",
+     "link": "https://www.deutschlandfunk.de/frankreich-erhoeht-mindestlohn-nach-sozialprotesten-frueher-102.html",
+     "image": "https://bilder.deutschlandfunk.de/58/8c/da/a7/588cdaa7-b4c2-4366-ad59-a0647b1b1d74/frankreich-proteste-120-1920x1920.jpg",
+     "aggregator": false,
+     "published": "2026-11-10T07:19:41+00:00"
+    }
+   ]
+  },
+  {
+   "id": 22,
+   "score": 7.85,
+   "outlets": [
+    "tagesschau",
+    "Deutschlandfunk"
+   ],
+   "regions": [
+    "DE"
+   ],
+   "trend": [],
+   "newest": "2026-11-10T07:19:41+00:00",
+   "articles": [
+    {
+     "source": "tagesschau",
+     "region": "DE",
+     "weight": 1.0,
+     "title": "Wetter Deutschland: Wolken, Temperaturen, Wind und Aussichten",
+     "summary": "Am Dienstag vom Südwesten bis in den Süden Regen. Sonst teils dichte Wolken oder Nebel, teils Sonnenschein. Schauer vor allem an den Küsten, am Vormittag auch noch in Brandenburg und Ostsachsen.",
+     "link": "https://www.tagesschau.de/wetter/deutschland/wettervorhersage-deutschland-100.html",
+     "image": "https://images.tagesschau.de/image/e7904a01-0786-494a-996d-b1dfd43b3049/AAABocGD9ww/AAABnSSvrFg/16x9-big/teaserbild-124.jpg?width=1920",
+     "aggregator": false,
+     "published": "2026-11-09T18:14:01+00:00"
+    },
+    {
+     "source": "Deutschlandfunk",
+     "region": "DE",
+     "weight": 0.95,
+     "title": "Wetter - Im Norden Wolken oder Nebel, im Süden Regen",
+     "summary": "Der Wetterbericht, die Lage: Der Einfluss des Hochs über Osteuropa schwächt sich ab. Im Süden macht sich die Warmfront eines Atlantiktiefs mit feuchteren Luftmassen bemerkbar, die sich langsam nordwärts ausbreiten.",
+     "link": "https://www.deutschlandfunk.de/im-norden-wolken-oder-nebel-im-sueden-regen-108.html",
+     "image": "https://bilder.deutschlandfunk.de/e5/f6/55/84/e5f65584-6dc2-4dce-979d-729a024cd599/wetter-grafik-nachrichten-100-768x768.jpg",
+     "aggregator": false,
+     "published": "2026-11-10T07:19:41+00:00"
+    }
+   ]
+  },
+  {
+   "id": 23,
+   "score": 7.75,
+   "outlets": [
+    "Deutschlandfunk",
+    "ORF"
+   ],
+   "regions": [
+    "AT",
+    "DE"
+   ],
+   "trend": [],
+   "newest": "2026-11-10T07:19:41+00:00",
+   "articles": [
+    {
+     "source": "Deutschlandfunk",
+     "region": "DE",
+     "weight": 0.95,
+     "title": "Gazastreifen - UNO warnt vor humanitärer Krise im Winter",
+     "summary": "Die Vereinten Nationen haben angesichts des bevorstehenden Winters vor einer Verschärfung der humanitären Krise im Gazastreifen gewarnt.",
+     "link": "https://www.deutschlandfunk.de/uno-warnt-vor-humanitaerer-krise-im-winter-104.html",
+     "image": "https://bilder.deutschlandfunk.de/cc/a8/26/b8/cca826b8-6b0c-4876-8221-929f4af6dfd9/zeltstadt-gaza-100-1920x1920.jpg",
+     "aggregator": false,
+     "published": "2026-11-10T07:19:41+00:00"
+    },
+    {
+     "source": "ORF",
+     "region": "AT",
+     "weight": 0.95,
+     "title": "UNO warnt vor Winterkrise im Gazastreifen",
+     "summary": "",
+     "link": "https://orf.at/stories/3447716/",
+     "image": null,
+     "aggregator": false,
+     "published": "2026-11-09T16:11:17+00:00"
+    }
+   ]
+  },
+  {
+   "id": 24,
+   "score": 7.62,
+   "outlets": [
+    "tagesschau Inland",
+    "WirtschaftsWoche"
+   ],
+   "regions": [
+    "DE"
+   ],
+   "trend": [],
+   "newest": "2026-11-10T07:13:00+00:00",
+   "articles": [
+    {
+     "source": "tagesschau Inland",
+     "region": "DE",
+     "weight": 1.0,
+     "title": "Bund fördert Schwimmenlernen mit 20 Millionen Euro",
+     "summary": "Mehr als die Hälfte aller Grundschulkinder in Deutschland kann nicht sicher schwimmen. Mit einem Förderprogramm von 20 Millionen Euro will der Bund das ändern. Schwimmverbände und Hilfsorganisationen sollen dabei helfen.",
+     "link": "https://www.tagesschau.de/inland/foerderprogramm-bund-schwimmen-100.html",
+     "image": "https://images.tagesschau.de/image/825da6fc-947a-40b8-b773-c13747ce4301/AAABoacWcOE/AAABnSSvrFg/16x9-big/junge-schwimmbad-100.jpg?width=1920",
+     "aggregator": false,
+     "published": "2026-11-04T16:29:29+00:00"
+    },
+    {
+     "source": "WirtschaftsWoche",
+     "region": "DE",
+     "weight": 0.85,
+     "title": "Verteidigung: Bund zahlt 6,6 Milliarden Euro für KNDS-Einstieg",
+     "summary": "Der Bund steigt für Milliarden bei KNDS ein, um sich wichtige Schlüsseltechnologien zu sichern. Derweil gerät ein Großauftrag beim Rüstungskonzern ins Stocken.",
+     "link": "https://www.wiwo.de/politik/deutschland/knds-bund-zahlt-66-milliarden-euro-fuer-einstieg-bei-ruestungskonzern/100268628.html",
+     "image": "https://images.wiwo.de/mLzPqAGX-zQg/cover/900/506/0/0/313/312/0.5/0.5/file-photo-a-knds-sh20-helicopter-machine-gun-seen-at-the-55th-international-paris-airshow-at-le-bo.jpg",
+     "aggregator": false,
+     "published": "2026-11-10T07:13:00+00:00"
+    }
+   ]
+  },
+  {
+   "id": 25,
+   "score": 7.53,
+   "outlets": [
+    "ZEIT ONLINE",
+    "Handelsblatt"
+   ],
+   "regions": [
+    "DE"
+   ],
+   "trend": [],
+   "newest": "2026-11-10T07:15:05+00:00",
+   "articles": [
+    {
+     "source": "ZEIT ONLINE",
+     "region": "DE",
+     "weight": 0.9,
+     "title": "«Polarisierungsbarometer»: Ukraine-Hilfe spaltet Deutschland mehr als Zuwanderung",
+     "summary": "",
+     "link": "https://www.zeit.de/news/2026-11/10/ukraine-hilfe-spaltet-deutschland-mehr-als-zuwanderung",
+     "image": "https://img.zeit.de/news/2026-11/10/ukraine-hilfe-spaltet-deutschland-mehr-als-zuwanderung-image-group/original__640x360",
+     "aggregator": false,
+     "published": "2026-11-10T07:15:05+00:00"
+    },
+    {
+     "source": "Handelsblatt",
+     "region": "DE",
+     "weight": 0.9,
+     "title": "„Polarisierungsbarometer“: Ukraine-Hilfe spaltet Deutschland mehr als Zuwanderung",
+     "summary": "Die Unterstützung der Ukraine sorgt in Deutschland inzwischen für mehr gesellschaftlichen Zündstoff als Zuwanderung. Eine Zunahme der Polarisierung insgesamt sehen Forscher der TU Dresden aber nicht.",
+     "link": "https://www.handelsblatt.com/politik/deutschland/polarisierungsbarometer-ukraine-hilfe-spaltet-deutschland-mehr-als-zuwanderung/100268643.html",
+     "image": "https://images.handelsblatt.com/WsRngapyJLIO/cover/900/506/0/0/107/107/0.5/0.5/deutsche-unterstuetzung-fuer-die-ukraine.jpg",
+     "aggregator": false,
+     "published": "2026-11-10T07:15:05+00:00"
+    }
+   ]
+  },
+  {
+   "id": 26,
+   "score": 7.46,
+   "outlets": [
+    "SPIEGEL",
+    "n-tv",
+    "T-Online"
+   ],
+   "regions": [
+    "DE"
+   ],
+   "trend": [],
+   "newest": "2026-11-10T05:51:04+00:00",
+   "articles": [
+    {
+     "source": "SPIEGEL",
+     "region": "DE",
+     "weight": 0.9,
+     "title": "Donald Trump tritt mit Kampfsportboss Dana White vor die Presse im Weißen Haus",
+     "summary": "Angeblich im Scherz bot Donald Trump dem Kampfsportfunktionär Dana White an, neuer Sprecher des Weißen Hauses zu werden. Vor laufenden Kameras amüsierten sich die beiden nun über das Hin und Her der vergangenen Tage.",
+     "link": "https://www.spiegel.de/ausland/donald-trump-tritt-mit-kampfsportboss-dana-white-vor-die-presse-im-weissen-haus-a-3d45812a-34ee-4b72-82ee-f26dbf9e1401#ref=rss",
+     "image": "https://cdn.prod.www.spiegel.de/images/7302cd95-9fda-4a7d-b4dc-9b0a25138f99_w520_r2.08_fpx32.67_fpy44.99.jpg",
+     "aggregator": false,
+     "published": "2026-11-10T04:32:00+00:00"
+    },
+    {
+     "source": "n-tv",
+     "region": "DE",
+     "weight": 0.8,
+     "title": "Trumps \"Angebot\" abgelehnt: Kampfsport-Funktionär Dana White: \"Ich möchte nicht in die Politik\"",
+     "summary": "Mit seiner Idee, den Kampfsport-Unternehmer Dana White als Pressesprecher für das Weiße Haus einstellen zu wollen, löste Donald Trump Irritationen aus. Anschließend bezeichnete der US-Präsident den Vorschlag als Scherz. Nun äußert sich White selbst - am Pressepult im Weißen Haus.",
+     "link": "https://www.n-tv.de/politik/Kampfsport-Funktionaer-Dana-White-Ich-moechte-nicht-in-die-Politik-id31514510.html",
+     "image": "https://www.n-tv.de/img/31514487/1794291121/Img_4_3/250/632130598.jpg",
+     "aggregator": false,
+     "published": "2026-11-10T05:51:04+00:00"
+    },
+    {
+     "source": "T-Online",
+     "region": "DE",
+     "weight": 0.6,
+     "title": "USA aktuell: Dana White erteilt Trump vor laufenden Kameras eine Absage",
+     "summary": "USA aktuell: Dana White erteilt Trump vor laufenden Kameras eine Absage T-Online Donald Trump tritt mit Kampfsportboss Dana White vor die Presse im Weißen Haus Spiegel Trump bezeichnet Sprecher-Angebot an Dana White als \"Scherz\" tagesschau.de Nach US-Midterms: Trump betitelt Vorschlag von Kampfsportboss als Scherz Handelsblatt Folge 10: Annika Brockschmidt über Trumps neuen Sprecher: UFC-Chef ist gewalttätig RTL+",
+     "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQVm15dTlxNUxyQjB0TGI1S1Rma1JmNDhOYTVlc1R6Zm9BVkdJU1hSR3N5ZWhHX1Z4M2YzT0lPS2dNLUU3TkVzQnNaR3B1WmxqTEpBQnE4Q2d0NmlibEtjcXNMajJXaTU5ZmQ4WTJOZGo0VUxJejJzTzVEMy1JYXdoeE9Hc0Vad01UdnVXZkMwUmNBMkVNWjFub09uYkdkSjVuRDlmajBLZ2JzS1ktVEhDSEZEemVYLWllVFNTTGt1NDJNX3VUUjRHM3dfUHlFUQ?oc=5",
+     "image": null,
+     "aggregator": true,
+     "published": "2026-11-10T00:20:00+00:00"
+    }
+   ]
+  },
+  {
+   "id": 27,
+   "score": 7.44,
+   "outlets": [
+    "tagesschau",
+    "Deutsche Welle",
+    "ORF",
+    "tagesschau.de"
+   ],
+   "regions": [
+    "AT",
+    "DE",
+    "INT"
+   ],
+   "trend": [],
+   "newest": "2026-11-09T22:35:25+00:00",
+   "articles": [
+    {
+     "source": "tagesschau",
+     "region": "DE",
+     "weight": 1.0,
+     "title": "tagesschau 20:00 Uhr",
+     "summary": "CSU-Politikerin Ilse Aigner wird Kandidatin der Union für die Wahl der nächsten Bundespräsidentin, Frankreich macht Iran für Cyberangriffe auf Supermarkt-Kühltruhen verantwortlich, Mutmaßliche Spionageaffäre um Nvidia-Chef Huang lässt Aktie einbrechen, 31. Klimakonferenz beginnt im türkischen Badeort Antalya, Todesschütze von Krakau im Krankenhaus gestorben, Steinmeier betont am Jahrestag der Novemberpogrome von 1938 historische Verantwortung Deutschlands, ARD-Aktion \"Deine Meinung zählt!\", Das Wetter",
+     "link": "https://www.tagesschau.de/tagesschau_20_uhr/video-1681028.html",
+     "image": "https://images.tagesschau.de/image/b4303d76-9bee-4c8d-a9bd-3ac1fe2120cd/AAABocHJR2w/AAABnSSvrFg/16x9-big/sendungsbild-1825064.jpg?width=1920",
+     "aggregator": false,
+     "published": "2026-11-09T19:38:06+00:00"
+    },
+    {
+     "source": "tagesschau",
+     "region": "DE",
+     "weight": 1.0,
+     "title": "Union nominiert Ilse Aigner offiziell für das Amt der Bundespräsidentin",
+     "summary": "Union nominiert Ilse Aigner offiziell für das Amt der Bundespräsidentin",
+     "link": "https://www.tagesschau.de/tagesschau_20_uhr/video-1681010.html",
+     "image": "https://images.tagesschau.de/image/21e649fa-0877-46df-b91c-e02141ad316a/AAABocHMfpc/AAABnSSvrFg/16x9-big/sendungsbild-1825070.jpg?width=1920",
+     "aggregator": false,
+     "published": "2026-11-09T19:44:36+00:00"
+    },
+    {
+     "source": "tagesschau",
+     "region": "DE",
+     "weight": 1.0,
+     "title": "Friedrich Merz, CDU/Bundeskanzler, zur Nominierung von Ilse Aigner als Bundespräsidentin",
+     "summary": "Friedrich Merz, CDU/Bundeskanzler, zur Nominierung von Ilse Aigner als Bundespräsidentin",
+     "link": "https://www.tagesschau.de/tagesthemen/video-1681132.html",
+     "image": "https://images.tagesschau.de/image/8489363b-c98c-40ff-b821-9151fa742078/AAABocJzo00/AAABnSSvrFg/16x9-big/sendungsbild-1825166.jpg?width=1920",
+     "aggregator": false,
+     "published": "2026-11-09T22:35:25+00:00"
+    },
+    {
+     "source": "tagesschau Inland",
+     "region": "DE",
+     "weight": 1.0,
+     "title": "Politologin über Aigner: \"Sie hat viel politische Erfahrung\"",
+     "summary": "Bayerns Landtagspräsidentin Ilse Aigner wird Unionskandidatin für die Wahl zur Bundespräsidentin. Genug Erfahrung habe sie, sagt die Politologin Münch in den tagesthemen. Diese werde auch dringend gebraucht.",
+     "link": "https://www.tagesschau.de/inland/innenpolitik/aigner-bundespraesidentin-interview-tt-100.html",
+     "image": "https://images.tagesschau.de/image/890830ce-f3e2-4cc6-9c60-48f856b24345/AAABobKrX_4/AAABnSSvrFg/16x9-big/aigner-140.jpg?width=1920",
+     "aggregator": false,
+     "published": "2026-11-06T20:54:46+00:00"
+    },
+    {
+     "source": "tagesschau Inland",
+     "region": "DE",
+     "weight": 1.0,
+     "title": "Ilse Aigner soll laut ARD-Informationen Bundespräsidentin werden",
+     "summary": "Sie wäre dort die erste Frau: Laut ARD-Hauptstadtstudio werden CDU und CSU Ilse Aigner als Kandidatin für das Amt der Bundespräsidentin vorschlagen. Gemeinsam mit der SPD hätten sie in der Bundesversammlung eine Mehrheit.",
+     "link": "https://www.tagesschau.de/inland/innenpolitik/cdu-csu-aigner-bundespraesidentin-100.html",
+     "image": "https://images.tagesschau.de/image/9aea46e7-124f-4c55-8c85-5a3c827109f2/AAABobF9tAA/AAABnSSvrFg/16x9-big/ilse-aigner-298.jpg?width=1920",
+     "aggregator": false,
+     "published": "2026-11-06T20:36:48+00:00"
+    },
+    {
+     "source": "Deutsche Welle",
+     "region": "INT",
+     "weight": 0.95,
+     "title": "Die CSU-Politikerin Ilse Aigner ist als erste Bundespräsidentin nun Favoritin",
+     "summary": "Sie wäre die erste Bundespräsidentin, auch die erste CSU-Politikerin im höchsten deutschen Staatsamt. Ilse Aigner ist nun bis zur Wahl in der Bundesversammlung am 30. Januar die Kandidatin und Favoritin.",
+     "link": "https://www.dw.com/de/die-csu-politikerin-ilse-aigner-ist-als-erste-bundespräsidentin-nun-favoritin/a-79873744?maca=de-rss-de-all-1119-xml-mrss",
+     "image": "https://static.dw.com/image/79873014_302.jpg",
+     "aggregator": false,
+     "published": "2026-11-08T19:34:00+00:00"
+    },
+    {
+     "source": "ORF",
+     "region": "AT",
+     "weight": 0.95,
+     "title": "Frankreich macht Iran verantwortlich",
+     "summary": "Frankreich hat am Montag den Iran für die Cyberangriffe auf Kühlsysteme französischer Supermarktketten vor knapp einem Monat verantwortlich gemacht – konkret die Revolutionsgarde. Der französische Außenminister Jean-Noel Barrot sagte, der iranische Botschafter sei einbestellt worden, „um sehr energisch gegen diese äußerst schwerwiegende Tat zu protestieren“.",
+     "link": "https://orf.at/stories/3447720/",
+     "image": null,
+     "aggregator": false,
+     "published": "2026-11-09T17:45:44+00:00"
+    },
+    {
+     "source": "tagesschau.de",
+     "region": "DE",
+     "weight": 0.6,
+     "title": "Frankreich macht Iran für Cyberangriffe auf Supermarkt-Kühltruhen verantwortlich",
+     "summary": "Frankreich macht Iran für Cyberangriffe auf Supermarkt-Kühltruhen verantwortlich tagesschau.de Botschafter einbestellt: Cyber-Angriff auf Kühltruhen – Frankreich beschuldigt iranische Revolutionsgarden WELT Auch USA bezichtigen Teheran: Paris: Revolutionsgarden für Kühlanlagen-Angriffe verantwortlich n-tv.de Cyberangriff auf 700 Kühlanlagen: Frankreich beschuldigt den Iran BILD Angriffe auf Supermarkt-Systeme: Frankreich beschuldigt Iran T-Online",
+     "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNYXVzVy1nSXRaaHI2QjBjVTR6NlQwQ3Z5MzRuOHBDcWJheENJeVBVdWVLd2NuREZTWXZ2S1NWUmV2dnlHSG0zRjRuZ2EzWUZmaC1zQ3BJcWNyN08tOTFiT1gtVWVnNDltUEthLVpCUWlrMHZITzJLQnhSZHN4TUpYdk5n?oc=5",
+     "image": null,
+     "aggregator": true,
+     "published": "2026-11-09T17:51:33+00:00"
+    }
+   ]
+  }
+ ]
+}
