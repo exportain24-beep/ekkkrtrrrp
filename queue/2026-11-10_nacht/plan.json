@@ -1,0 +1,57 @@
+{
+  "stories": [
+    {
+      "candidate_id": 4,
+      "pillar": "WELT",
+      "region": "EU",
+      "kicker": "ABU DHABI",
+      "headline": "Ukraine-Gespräche: Erste Einigung?",
+      "highlight": ["Ukraine-Gespräche"],
+      "voice": "Abu Dhabi: Russland und die Ukraine verhandeln erstmals seit acht Monaten wieder – offenbar mit erster Einigung auf Gefangenenaustausch. Moskau blockt Europa weiter ab.",
+      "subline": "Gefangenenaustausch offenbar vereinbart – Europa nicht am Tisch",
+      "entities": ["Abu Dhabi", "Ukraine", "Russland", "Donald Trump"]
+    },
+    {
+      "candidate_id": 5,
+      "pillar": "WIRTSCHAFT",
+      "region": "DE",
+      "kicker": "BERLIN",
+      "headline": "Steuerklassen III und V vor dem Aus",
+      "highlight": ["Steuerklassen"],
+      "voice": "Lars Klingbeil will die Steuerklassen drei und fünf abschaffen. Für Millionen Ehepaare hieße das zunächst weniger Netto im Monat – geplant ist das Faktorverfahren.",
+      "subline": "Millionen Ehepaare hätten zunächst weniger Netto im Monat",
+      "entities": ["Lars Klingbeil", "Bundesfinanzministerium", "Steuerklasse"]
+    },
+    {
+      "candidate_id": 0,
+      "pillar": "TECHNOLOGIE",
+      "region": "INT",
+      "kicker": "WASHINGTON",
+      "headline": "Nvidia-Affäre: Jetzt warnt Deutschland",
+      "highlight": ["Nvidia-Affäre"],
+      "voice": "Das FBI ermittelt in der möglichen Spionageaffäre um Nvidia-Chef Jensen Huang, sagt Donald Trump. Auch der Verfassungsschutz warnt deutsche Manager vor Honigfallen.",
+      "subline": "FBI ermittelt – Verfassungsschutz warnt vor „Honigfallen“",
+      "entities": ["Jensen Huang", "Nvidia", "FBI", "Bundesamt für Verfassungsschutz"]
+    },
+    {
+      "candidate_id": 8,
+      "pillar": "POLITIK",
+      "region": "DE",
+      "kicker": "BUNDESTAG",
+      "headline": "Aigner sagt der AfD ab",
+      "highlight": ["Aigner"],
+      "voice": "Ilse Aigner hat sich als Kandidatin fürs Bundespräsidentenamt den Fraktionen von Union, SPD und Grünen vorgestellt. Eine Einladung der AfD schlug sie aus.",
+      "subline": "Die Linke hat die CSU-Politikerin bislang nicht eingeladen",
+      "entities": ["Ilse Aigner", "Bundestag", "AfD", "CSU"]
+    }
+  ],
+  "hook_text": "Ukraine: Erste Einigung?",
+  "hook_voice": "Ukraine-Gespräche in Abu Dhabi: offenbar erste Einigung.",
+  "youtube_title": "Der Tag in 45 Sekunden: Erste Einigung bei Ukraine-Gesprächen?",
+  "description_lead": "In Abu Dhabi verhandeln Russland und die Ukraine unter US-Vermittlung erstmals seit acht Monaten wieder – offenbar mit einer ersten Einigung auf einen Gefangenenaustausch, Europa bleibt außen vor. Außerdem: Lars Klingbeil will die Steuerklassen III und V abschaffen, das FBI ermittelt in der Affäre um Nvidia-Chef Jensen Huang und Ilse Aigner schlägt eine Einladung der AfD aus.",
+  "tags": ["Ukraine", "Abu Dhabi", "Russland", "Ukraine-Gespräche", "Gefangenenaustausch", "Lars Klingbeil", "Steuerklassen", "Ehegattensplitting", "Jensen Huang", "Nvidia", "Verfassungsschutz", "Ilse Aigner", "AfD", "Nachrichten aktuell", "Tagesrückblick"],
+  "hashtags": ["#ukraine", "#steuerklassen", "#aigner"],
+  "facebook_caption_line1": "Der Tag in 45 Sekunden: Erste Einigung bei den Ukraine-Gesprächen in Abu Dhabi?",
+  "facebook_question": "Welche Nachricht des Tages betrifft Sie am meisten?",
+  "comment_question": "Bringen die Gespräche in Abu Dhabi den Frieden näher – ja oder nein?"
+}
