@@ -1,0 +1,1950 @@
+{
+ "slot": {
+  "id": "nachmittag",
+  "format": "single",
+  "time": "14:30",
+  "label": "am Nachmittag",
+  "focus": "Nur Tie-Breaker – immer zuerst die populärsten, meistberichteten Nachrichten. Bei Gleichstand bevorzugt: Der eine größte Aufreger des Tages bis jetzt – bevorzugt Sicherheit, Bundeswehr, Skandale, Entscheidungen mit Folgen für den Alltag.",
+  "pillars": [
+   "POLITIK",
+   "WIRTSCHAFT",
+   "WELT",
+   "TECHNOLOGIE"
+  ],
+  "notify_subscribers": false
+ },
+ "slot_time": "2026-11-10T14:30:00+01:00",
+ "date_text": "Dienstag, 10. November 2026",
+ "already_published": [
+  "Ukraine: 600.000 ohne Strom",
+  "Krakau: Justiz ermittelt wegen Terror",
+  "Wetter: Wechselhafter Wochenstart",
+  "Sondervermögen: Kaum Geld für Bildung",
+  "Selenskyj-Besuch: Merz fordert Europa",
+  "Moskau ehrt DDR-Spionagechef Wolf",
+  "Ukraine-Gespräche: Europa am Tisch",
+  "Trump droht den Demokraten",
+  "Emde will Mandat behalten",
+  "Ukraine-Gespräche: Europa dabei",
+  "Aigner: Union ist sich einig",
+  "Neuer fällt mit Sehnenteilriss aus",
+  "Nvidia-Chef unter Spionageverdacht",
+  "Merz legt sich auf Aigner fest",
+  "Hubig zerpflückt Spritpreisdeckel",
+  "Ukraine-Truppe startet erste Übung",
+  "Trump: Iran-Angriffe unwahrscheinlich",
+  "Koalition streitet über Plastiksteuer",
+  "Todesschütze von Krakau ist tot",
+  "Trump: Abschiebekurs war „zu hart“",
+  "Vodafone streicht 2.300 Stellen",
+  "Trump: „Andere Form“ für die Ukraine",
+  "Nvidia-Aktie bricht nach Affäre ein",
+  "Orbán-Bruder festgenommen",
+  "Kushner: Europa soll mit Moskau reden",
+  "Nvidia-Chef gesteht Affäre",
+  "Paris: Iran hinter Kühltruhen-Hack",
+  "Vodafone: Jeder fünfte Job fällt weg",
+  "Abu Dhabi: Kreml blockt die EU ab",
+  "Trump zweifelt an Midterm-Ergebnis",
+  "Amtsenthebung gegen Hegseth beantragt",
+  "FBI ermittelt in Nvidia-Affäre",
+  "Bund kauft Panzerbauer-Anteil",
+  "Preisdeckel für Ticketbörsen",
+  "Aigner offiziell nominiert",
+  "Merz droht mit EU-Haushaltsblockade",
+  "Schlesinger-Prozess beginnt in Berlin",
+  "Kalifornien kippt Milliardärssteuer",
+  "Nmecha verteidigt umstrittenen Torjubel"
+ ],
+ "candidates": [
+  {
+   "id": 0,
+   "score": 29.13,
+   "outlets": [
+    "tagesschau",
+    "ZDFheute",
+    "Deutsche Welle",
+    "Deutschlandfunk",
+    "ORF",
+    "SRF News",
+    "SPIEGEL",
+    "Süddeutsche",
+    "Handelsblatt",
+    "NZZ",
+    "WirtschaftsWoche",
+    "heise online",
+    "n-tv",
+    "Golem"
+   ],
+   "regions": [
+    "AT",
+    "CH",
+    "DE",
+    "INT"
+   ],
+   "trend": [],
+   "newest": "2026-11-10T11:23:00+00:00",
+   "articles": [
+    {
+     "source": "tagesschau",
+     "region": "DE",
+     "weight": 1.0,
+     "title": "Affäre von Nvidia-Chef Huang: Darum geht es beim Spionage-Verdacht",
+     "summary": "Der US-Chipkonzern Nvidia ermittelt gegen seinen Chef Jensen Huang wegen einer Affäre mit einer mutmaßlichen chinesischen Spionin. Welche Vorwürfe konkret im Raum stehen - und welche Folgen sie haben könnten.",
+     "link": "https://www.tagesschau.de/wirtschaft/unternehmen/faq-nvidia-spionage-100.html",
+     "image": "https://images.tagesschau.de/image/9d4d98a9-ed98-4d6a-9f9c-bd1d9782eb0d/AAABocCr9uU/AAABnSSvrFg/16x9-big/nvidia-logo-102.jpg?width=1920",
+     "aggregator": false,
+     "published": "2026-11-09T13:58:03+00:00"
+    },
+    {
+     "source": "tagesschau",
+     "region": "DE",
+     "weight": 1.0,
+     "title": "Untersuchung gegen Nvidia-Chef Huang wegen möglicher Spionin aus China",
+     "summary": "Der KI-Chip-Gigant Nvidia hat nach Berichten über einen Spionageverdacht eine Untersuchung gegen seinen Gründer und Konzernchef Jensen Huang eingeleitet. Er soll eine Affäre mit einer mutmaßlichen chinesischen Spionin gehabt haben.",
+     "link": "https://www.tagesschau.de/wirtschaft/unternehmen/nvidia-spionage-pruefung-100.html",
+     "image": "https://images.tagesschau.de/image/34f93b54-ef67-4531-97e6-4a40dc5724cc/AAABob68p7E/AAABnSSvrFg/16x9-big/nvidia-184.jpg?width=1920",
+     "aggregator": false,
+     "published": "2026-11-09T03:32:51+00:00"
+    },
+    {
+     "source": "tagesschau Wirtschaft",
+     "region": "DE",
+     "weight": 1.0,
+     "title": "Affäre von Nvidia-Chef Huang: Darum geht es beim Spionage-Verdacht",
+     "summary": "Der US-Chipkonzern Nvidia ermittelt gegen seinen Chef Jensen Huang wegen einer Affäre mit einer mutmaßlichen chinesischen Spionin. Welche Vorwürfe konkret im Raum stehen - und welche Folgen sie haben könnten.",
+     "link": "https://www.tagesschau.de/wirtschaft/unternehmen/faq-nvidia-spionage-100.html",
+     "image": "https://images.tagesschau.de/image/9d4d98a9-ed98-4d6a-9f9c-bd1d9782eb0d/AAABocCr9uU/AAABnSSvrFg/16x9-big/nvidia-logo-102.jpg?width=1920",
+     "aggregator": false,
+     "published": "2026-11-09T13:58:03+00:00"
+    },
+    {
+     "source": "tagesschau Wirtschaft",
+     "region": "DE",
+     "weight": 1.0,
+     "title": "Untersuchung gegen Nvidia-Chef Huang wegen möglicher Spionin aus China",
+     "summary": "Der KI-Chip-Gigant Nvidia hat nach Berichten über einen Spionageverdacht eine Untersuchung gegen seinen Gründer und Konzernchef Jensen Huang eingeleitet. Er soll eine Affäre mit einer mutmaßlichen chinesischen Spionin gehabt haben.",
+     "link": "https://www.tagesschau.de/wirtschaft/unternehmen/nvidia-spionage-pruefung-100.html",
+     "image": "https://images.tagesschau.de/image/34f93b54-ef67-4531-97e6-4a40dc5724cc/AAABob68p7E/AAABnSSvrFg/16x9-big/nvidia-184.jpg?width=1920",
+     "aggregator": false,
+     "published": "2026-11-09T03:32:51+00:00"
+    },
+    {
+     "source": "ZDFheute",
+     "region": "DE",
+     "weight": 1.0,
+     "title": "Nvidia hat nun das FBI und eine Sammelklage am Hals",
+     "summary": "Wegen der Affäre des Nvidia-Chefs ermittelt auch das FBI. Zusätzlichen Druck bekommt der Chiphersteller durch eine Sammelklage von Aktionären.",
+     "link": "https://www.zdfheute.de/wirtschaft/unternehmen/nvidia-huang-fbi-ermittlungen-100.html",
+     "image": "https://www.zdfheute.de/assets/jensen-huang-nvidia-104~384x216?cb=1794291460691",
+     "aggregator": false,
+     "published": "2026-11-10T07:10:00+00:00"
+    },
+    {
+     "source": "ZDFheute",
+     "region": "DE",
+     "weight": 1.0,
+     "title": "Warum die Affäre des Nvidia-Chefs politisch brisant ist",
+     "summary": "Nvidia-CEO Huang gerät wegen einer Affäre mit einer mutmaßlich chinesischen Spionin unter Druck. Die Aktie des Unternehmens bricht ein - der Vorfall betrifft Anleger und Politik.",
+     "link": "https://www.zdfheute.de/wirtschaft/unternehmen/nvidia-affaere-china-spionage-aktien-100.html",
+     "image": "https://www.zdfheute.de/assets/jensen-huang-nvidia-102~384x216?cb=1794220987515",
+     "aggregator": false,
+     "published": "2026-11-09T14:16:00+00:00"
+    },
+    {
+     "source": "ZDFheute",
+     "region": "DE",
+     "weight": 1.0,
+     "title": "Nvidia-Chef Huang räumt Affäre mit mutmaßlicher Spionin ein",
+     "summary": "Nvidia-Chef Huang soll laut Berichten ins Visier einer mutmaßlichen Spionin geraten sein. Huang gestand, eine Affäre mit ihr gehabt zu haben: \"Ich war meiner Frau untreu.\"",
+     "link": "https://www.zdfheute.de/wirtschaft/unternehmen/huang-nvidia-chef-spionage-china-100.html",
+     "image": "https://www.zdfheute.de/assets/jensen-huang-102~384x216?cb=1794170112757",
+     "aggregator": false,
+     "published": "2026-11-08T21:07:00+00:00"
+    },
+    {
+     "source": "Deutsche Welle",
+     "region": "INT",
+     "weight": 0.95,
+     "title": "Die Affäre des Nvidia-Chefs und die Folgen",
+     "summary": "Nvidia-Chef Jensen Huang hat sich für eine Affäre mit einer Frau entschuldigt, die nach Einschätzung der USA für China spioniert hat. Wie weitreichend sind die Folgen für das wertvollste Unternehmen der Welt?",
+     "link": "https://www.dw.com/de/die-affäre-des-nvidia-chefs-und-die-folgen/a-79900932?maca=de-rss-de-all-1119-xml-mrss",
+     "image": "https://static.dw.com/image/75070893_302.jpg",
+     "aggregator": false,
+     "published": "2026-11-09T16:24:00+00:00"
+    }
+   ]
+  },
+  {
+   "id": 1,
+   "score": 17.18,
+   "outlets": [
+    "tagesschau",
+    "ZDFheute",
+    "SPIEGEL",
+    "ZEIT ONLINE",
+    "Süddeutsche",
+    "WELT",
+    "n-tv",
+    "NDR.de"
+   ],
+   "regions": [
+    "DE"
+   ],
+   "trend": [],
+   "newest": "2026-11-10T11:49:48+00:00",
+   "articles": [
+    {
+     "source": "tagesschau",
+     "region": "DE",
+     "weight": 1.0,
+     "title": "Angeklagte im Fall Fabian zu lebenslanger Haft verurteilt",
+     "summary": "Im Mordprozess um den achtjährigen Fabian aus Güstrow hat das Landgericht Rostock sein Urteil verkündet. Die Angeklagte wurde schuldig gesprochen und zu lebenslanger Haft verurteilt.",
+     "link": "https://www.tagesschau.de/inland/regional/mecklenburgvorpommern/urteil-im-fall-fabian-gina-h-zu-lebenslanger-haft-verurteilt,aktuellmv-438.html",
+     "image": "https://images.ndr.de/image/3ad8d0de-67e4-4ebf-bbb7-190ee101dff1/AAABoYeOwjk/AAABnSSvrFg/16x9-big/fallfabian-130.jpg?width=1920",
+     "aggregator": false,
+     "published": "2026-11-10T11:33:05+00:00"
+    },
+    {
+     "source": "ZDFheute",
+     "region": "DE",
+     "weight": 1.0,
+     "title": "Mord an Fabian: Angeklagte zu lebenslanger Haft verurteilt",
+     "summary": "Im Fall Fabian ist das Urteil verkündet worden: Die Angeklagte Gina H. wurde wegen Mordes zu lebenslanger Haft verurteilt.",
+     "link": "https://www.zdfheute.de/panorama/kriminalitaet/lebenslange-haft-prozess-mord-fabian-100.html",
+     "image": "https://www.zdfheute.de/assets/mordprozess-im-fall-fabian-100~384x216?cb=1794310958993",
+     "aggregator": false,
+     "published": "2026-11-10T11:37:34+00:00"
+    },
+    {
+     "source": "ZDFheute",
+     "region": "DE",
+     "weight": 1.0,
+     "title": "Gina H. streitet Tat ab, Indizien sprechen gegen sie",
+     "summary": "In Rostock soll heute das Urteil im Mordfall Fabian fallen, der Achtjährige wurde 2025 ermordet. Die Angeklagte Gina H. weist jede Schuld von sich, die Indizien sind erdrückend.",
+     "link": "https://www.zdfheute.de/panorama/kriminalitaet/fabian-gina-h-mordfall-guestrow-100.html",
+     "image": "https://www.zdfheute.de/assets/fabian-stiefmutter-sagt-aus-bild-100~384x216?cb=1787579488129",
+     "aggregator": false,
+     "published": "2026-11-10T06:35:00+00:00"
+    },
+    {
+     "source": "SPIEGEL",
+     "region": "DE",
+     "weight": 0.9,
+     "title": "Fall Fabian: Gina H. zu lebenslanger Haft verurteilt",
+     "summary": "Gina H. hat den achtjährigen Fabian getötet: Davon zeigte sich das Landgericht Rostock überzeugt. Es hat die Angeklagte wegen Mordes schuldig gesprochen.",
+     "link": "https://www.spiegel.de/panorama/justiz/fall-fabian-gina-h-zu-lebenslanger-haft-verurteilt-a-04259c80-a4fe-4a3d-8a0d-5df5831fd894#ref=rss",
+     "image": "https://cdn.prod.www.spiegel.de/images/b52b36fa-1ca0-40e1-8502-d65859941e99_w520_r2.08_fpx57.34_fpy49.99.jpg",
+     "aggregator": false,
+     "published": "2026-11-10T11:37:00+00:00"
+    },
+    {
+     "source": "ZEIT ONLINE",
+     "region": "DE",
+     "weight": 0.9,
+     "title": "Fall Fabian : Lebenslange Haft im Prozess um Mord an achtjährigem Fabian",
+     "summary": "Das Landgericht Rostock hat im Prozess um den Mord an dem Jungen Fabian die Angeklagte zu lebenslanger Haft verurteilt. Es stellte die besondere Schwere der Schuld fest.",
+     "link": "https://www.zeit.de/gesellschaft/zeitgeschehen/2026-11/lebenslange-haft-im-prozess-um-mord-an-achtjaehrigem-fabian",
+     "image": "https://img.zeit.de/gesellschaft/zeitgeschehen/2026-11/fall-fabian-landgericht-rostock-mord-urteil-gxe-foto-1/original__640x360",
+     "aggregator": false,
+     "published": "2026-11-10T11:49:31+00:00"
+    },
+    {
+     "source": "Süddeutsche",
+     "region": "DE",
+     "weight": 0.9,
+     "title": "Mordprozess: Lebenslange Haftstrafe für Angeklagte im Fall Fabian",
+     "summary": "Das Gericht erklärt sie für schuldig, den Achtjährigen mit einem Messer getötet zu haben, um die Beziehung zu dessen Vater fortzuführen.",
+     "link": "https://www.sueddeutsche.de/panorama/fabian-urteil-mordprozess-li.3578094",
+     "image": "https://www.sueddeutsche.de/2026/11/10/2fa4c41e-8e21-48a6-92b9-e08d81e0af15.jpg?rect=818%2C23%2C2336%2C1752&width=1000&fm=jpg&q=60",
+     "aggregator": false,
+     "published": "2026-11-10T11:39:55+00:00"
+    },
+    {
+     "source": "WELT",
+     "region": "DE",
+     "weight": 0.8,
+     "title": "Mordfall Fabian – Gina H. zu lebenslanger Haft verurteilt",
+     "summary": "Das Landgericht Rostock hat die wegen Mordes an dem achtjährigen Fabian angeklagte Gina H. zu einer lebenslangen Freiheitsstrafe verurteilt. Zugleich stellte die Schwurgerichtskammer die besondere Schwere der Schuld fest.",
+     "link": "https://www.welt.de/vermischtes/video6af3031342c2bfde5b9928df/achtjaehriger-getoetet-mordfall-fabian-gina-h-zu-lebenslanger-haft-verurteilt.html",
+     "image": "https://images.welt.de/6af3031342c2bfde5b9928df/86b83145b5123f26c042daaf9e952c49/ci16x9-w1200/dpa-com-261110-935-1732506-jpg",
+     "aggregator": false,
+     "published": "2026-11-10T11:49:48+00:00"
+    },
+    {
+     "source": "WELT",
+     "region": "DE",
+     "weight": 0.8,
+     "title": "Mordfall Fabian – Gina H. zu lebenslanger Haft verurteilt",
+     "summary": "Der achtjährige Fabian wurde vergangenes Jahr ermordet in einem Tümpel bei Güstrow entdeckt. Der Fall sorgte bundesweit für Betroffenheit. Der Prozess gegen die Ex-Freundin des Vaters lief über Monate. Nun ist das Urteil gegen Gina H. gefallen.",
+     "link": "https://www.welt.de/vermischtes/article6af300a4f0b67a4b24663fa7/fabian-8-getoetet-gina-h-zu-lebenslanger-haft-verurteilt.html",
+     "image": "https://images.welt.de/6af300a4f0b67a4b24663fa7/170d057ccbef925b0494d6d6717f88b7-master/ci23x11-w1200/dpa-com-261110-935-1732506-jpg",
+     "aggregator": false,
+     "published": "2026-11-10T11:35:18+00:00"
+    }
+   ]
+  },
+  {
+   "id": 2,
+   "score": 16.58,
+   "outlets": [
+    "tagesschau",
+    "ZDFheute",
+    "Deutsche Welle",
+    "Deutschlandfunk",
+    "Süddeutsche",
+    "WELT",
+    "n-tv"
+   ],
+   "regions": [
+    "DE",
+    "INT"
+   ],
+   "trend": [],
+   "newest": "2026-11-10T11:14:51+00:00",
+   "articles": [
+    {
+     "source": "tagesschau",
+     "region": "DE",
+     "weight": 1.0,
+     "title": "Union nominiert Ilse Aigner offiziell für das Amt der Bundespräsidentin",
+     "summary": "Union nominiert Ilse Aigner offiziell für das Amt der Bundespräsidentin",
+     "link": "https://www.tagesschau.de/tagesschau_20_uhr/video-1681010.html",
+     "image": "https://images.tagesschau.de/image/afe060e8-cdba-4397-9078-bb54a94761f5/AAABocSrr-I/AAABnSSvrFg/16x9-big/aigner-162.jpg?width=1920",
+     "aggregator": false,
+     "published": "2026-11-09T19:44:36+00:00"
+    },
+    {
+     "source": "tagesschau Inland",
+     "region": "DE",
+     "weight": 1.0,
+     "title": "Warum Merz sich doch für Aigner als Bundespräsidentin stark macht",
+     "summary": "Lange hatte der Kanzler gezögert - nun ist es offiziell: Die CDU überlässt das höchste Staatsamt der kleinen Schwesterpartei aus Bayern. Die viel befürchtete Kritik in den eigenen Reihen ist ausgeblieben. Von Jannik Pentz.",
+     "link": "https://www.tagesschau.de/inland/innenpolitik/merz-aigner-kandidatin-bundespraesidentin-100.html",
+     "image": "https://images.tagesschau.de/image/305b59b8-9dc9-460c-9bb4-6ba0b48f1eb8/AAABocDAhaM/AAABnSSvrFg/16x9-big/merz-aigner-118.jpg?width=1920",
+     "aggregator": false,
+     "published": "2026-11-09T14:48:54+00:00"
+    },
+    {
+     "source": "tagesschau Inland",
+     "region": "DE",
+     "weight": 1.0,
+     "title": "Aigner soll Bundespräsidentin werden: \"Meine Sprache wird klar sein und verständlich\"",
+     "summary": "Eine Bundespräsidentin \"mit Würde und Herz\": Kanzler Merz sieht Ilse Aigner als genau richtige Kandidatin. Die 61-Jährige zeigte sich bewegt von der Nominierung - und machte klar, wofür sie steht: eine Politik der Mitte.",
+     "link": "https://www.tagesschau.de/inland/innenpolitik/aigner-merz-bundespraesidentin-100.html",
+     "image": "https://images.tagesschau.de/image/5d5d22be-0a9e-4795-ba7f-4b4750b82e1d/AAABocCHU3k/AAABnSSvrFg/16x9-big/merz-aigner-114.jpg?width=1920",
+     "aggregator": false,
+     "published": "2026-11-09T14:45:20+00:00"
+    },
+    {
+     "source": "tagesschau Inland",
+     "region": "DE",
+     "weight": 1.0,
+     "title": "Bundespräsidenten-Wahl: Merz bricht sein Schweigen und schlägt Aigner vor",
+     "summary": "Lange hatte er darüber nachgedacht und sich zurückgehalten - am Abend sprach sich Kanzler Merz dann für Ilse Aigner als Bundespräsidentin aus. Heute wollen beide offiziell vor die Presse treten. Von Sabine Henkel.",
+     "link": "https://www.tagesschau.de/inland/innenpolitik/aigner-bundespraesidentin-100.html",
+     "image": "https://images.tagesschau.de/image/b9a1484e-0137-48fd-96c3-88255c4468fb/AAABoXhnvbQ/AAABnSSvrFg/16x9-big/merz-aigner-100.jpg?width=1920",
+     "aggregator": false,
+     "published": "2026-11-09T03:34:40+00:00"
+    },
+    {
+     "source": "tagesschau Inland",
+     "region": "DE",
+     "weight": 1.0,
+     "title": "Kanzler Merz will Aigner als Bundespräsidentin vorschlagen",
+     "summary": "Bislang hatte sich Kanzler Merz in der Frage zur Bundespräsidenten-Nachfolge zurückgehalten. Jetzt machte er es offiziell: Der CDU-Chef will am Montag Ilse Aigner dafür vorschlagen - als erste Frau in diesem Amt.",
+     "link": "https://www.tagesschau.de/inland/innenpolitik/aigner-bundespraesidentin-merz-100.html",
+     "image": "https://images.tagesschau.de/image/6da58f42-1c07-49a0-b569-a2efe0a6b4c1/AAABobzD-w8/AAABnSSvrFg/16x9-big/aigner-merz-102.jpg?width=1920",
+     "aggregator": false,
+     "published": "2026-11-08T20:05:22+00:00"
+    },
+    {
+     "source": "tagesschau Inland",
+     "region": "DE",
+     "weight": 1.0,
+     "title": "Ilse Aigner im Porträt: Krisenerprobt, bürgernah - und bald Staatsoberhaupt?",
+     "summary": "Ilse Aigner hat beste Chancen, die erste Bundespräsidentin Deutschlands zu werden. Obwohl sie bereits hohe Ämter auf Bundes- und Landesebene innehatte, stand sie nie in allererster Reihe. Ein Porträt von Anita Fünffinger.",
+     "link": "https://www.tagesschau.de/inland/ilse-aigner-portraet-100.html",
+     "image": "https://images.tagesschau.de/image/63349e36-d85c-4d78-ae34-e74ef5be0d6e/AAABobXFrsg/AAABnSSvrFg/16x9-big/ilse-aigner-308.jpg?width=1920",
+     "aggregator": false,
+     "published": "2026-11-07T11:30:37+00:00"
+    },
+    {
+     "source": "tagesschau Inland",
+     "region": "DE",
+     "weight": 1.0,
+     "title": "Politologin über Aigner: \"Sie hat viel politische Erfahrung\"",
+     "summary": "Bayerns Landtagspräsidentin Ilse Aigner wird Unionskandidatin für die Wahl zur Bundespräsidentin. Genug Erfahrung habe sie, sagt die Politologin Münch in den tagesthemen. Diese werde auch dringend gebraucht.",
+     "link": "https://www.tagesschau.de/inland/innenpolitik/aigner-bundespraesidentin-interview-tt-100.html",
+     "image": "https://images.tagesschau.de/image/890830ce-f3e2-4cc6-9c60-48f856b24345/AAABobKrX_4/AAABnSSvrFg/16x9-big/aigner-140.jpg?width=1920",
+     "aggregator": false,
+     "published": "2026-11-06T20:54:46+00:00"
+    },
+    {
+     "source": "tagesschau Inland",
+     "region": "DE",
+     "weight": 1.0,
+     "title": "Ilse Aigner soll laut ARD-Informationen Bundespräsidentin werden",
+     "summary": "Sie wäre dort die erste Frau: Laut ARD-Hauptstadtstudio werden CDU und CSU Ilse Aigner als Kandidatin für das Amt der Bundespräsidentin vorschlagen. Gemeinsam mit der SPD hätten sie in der Bundesversammlung eine Mehrheit.",
+     "link": "https://www.tagesschau.de/inland/innenpolitik/cdu-csu-aigner-bundespraesidentin-100.html",
+     "image": "https://images.tagesschau.de/image/9aea46e7-124f-4c55-8c85-5a3c827109f2/AAABobF9tAA/AAABnSSvrFg/16x9-big/ilse-aigner-298.jpg?width=1920",
+     "aggregator": false,
+     "published": "2026-11-06T20:36:48+00:00"
+    }
+   ]
+  },
+  {
+   "id": 3,
+   "score": 15.25,
+   "outlets": [
+    "Deutschlandfunk",
+    "ORF",
+    "SPIEGEL",
+    "NZZ",
+    "DER STANDARD",
+    "WELT"
+   ],
+   "regions": [
+    "AT",
+    "CH",
+    "DE"
+   ],
+   "trend": [],
+   "newest": "2026-11-10T11:45:32+00:00",
+   "articles": [
+    {
+     "source": "Deutschlandfunk",
+     "region": "DE",
+     "weight": 0.95,
+     "title": "Bulgarien - Elf Tote und 48 Verletzte bei Massenkarambolage auf Autobahn",
+     "summary": "Bei einer Massenkarambolage im Südosten Bulgariens sind elf Menschen ums Leben gekommen.",
+     "link": "https://www.deutschlandfunk.de/elf-tote-und-48-verletzte-bei-massenkarambolage-auf-autobahn-100.html",
+     "image": "https://bilder.deutschlandfunk.de/00/a9/c4/df/00a9c4df-3751-4b9d-a029-b56e26e0f21d/bulgarien-trakia-autobahn-massenkarambolage-autos-lkw-100-1280x1280.jpg",
+     "aggregator": false,
+     "published": "2026-11-10T11:14:51+00:00"
+    },
+    {
+     "source": "ORF",
+     "region": "AT",
+     "weight": 0.95,
+     "title": "Zahlreiche Tote bei Massenkarambolage in Bulgarien",
+     "summary": "",
+     "link": "https://orf.at/stories/3447783/",
+     "image": null,
+     "aggregator": false,
+     "published": "2026-11-10T10:48:07+00:00"
+    },
+    {
+     "source": "SPIEGEL",
+     "region": "DE",
+     "weight": 0.9,
+     "title": "Bulgarien: Mindestens elf Menschen sterben bei Auffahrunfällen",
+     "summary": "In Bulgarien sind Dutzende Autos auf einer Autobahn kollidiert. Es gibt Tote und Verletzte. Das Unglück hat auch Auswirkungen auf einen Besuch von Ursula von der Leyen.",
+     "link": "https://www.spiegel.de/panorama/bulgarien-mindestens-elf-menschen-sterben-bei-auffahrunfaellen-a-671e793f-b95c-46e7-bc23-2f7b0b77ab2e#ref=rss",
+     "image": "https://cdn.prod.www.spiegel.de/images/0d5d1080-773d-4391-90f8-fbde018c16fd_w520_r2.08_fpx33.35_fpy50.jpg",
+     "aggregator": false,
+     "published": "2026-11-10T11:24:00+00:00"
+    },
+    {
+     "source": "NZZ",
+     "region": "CH",
+     "weight": 0.9,
+     "title": "Elf Tote und 48 Schwerverletzte bei Massenkarambolage in Bulgarien",
+     "summary": "Wegen dichtem Nebel sind auf einer Autobahn zum Schwarzen Meer zahlreiche Fahrzeuge verunfallt.",
+     "link": "https://www.nzz.ch/panorama/elf-tote-und-48-schwerverletzte-bei-massenkarambolage-in-bulgarien-ld.10059653",
+     "image": "https://img-msp-prod.nzz.ch/2026/11/10/9c995942-a679-47e6-86b9-9ca6481e0446.jpg?width=200&height=200&fit=bounds&quality=75&auto=webp&crop=1440,1440,x560,y0",
+     "aggregator": false,
+     "published": "2026-11-10T11:04:53+00:00"
+    },
+    {
+     "source": "DER STANDARD",
+     "region": "AT",
+     "weight": 0.85,
+     "title": "Elf Tote und Dutzende Verletzte bei Massenkarambolage mit rund 50 Fahrzeugen in Bulgarien",
+     "summary": "Die beiden Unfälle sollen laut dem Innenminister durch dichten Nebel verursacht worden. 48 Menschen sollen verletzt worden sein",
+     "link": "https://www.derstandard.at/story/3000000348491/elf-tote-und-dutzende-verletzte-bei-massenkarambolage-mit-rund-50-fahrzeugen-in-bulgarien?ref=rss",
+     "image": "https://i.ds.at/OeIzgQ/rs:fill:150:0/plain/lido-images/2026/11/10/082e228a-3b41-4406-a2cc-c128ca522b16.jpg",
+     "aggregator": false,
+     "published": "2026-11-10T10:50:33+00:00"
+    },
+    {
+     "source": "WELT",
+     "region": "DE",
+     "weight": 0.8,
+     "title": "Dichter Nebel verursacht Massenkarambolage – elf Tote in Bulgarien",
+     "summary": "Der schwere Unfall passierte auf der Autobahn zum Schwarzen Meer. Neben den elf Toten gibt es 48 Schwerverletzte. EU-Kommissionschefin von der Leyen, die sich zum Besuch in Bulgarien aufhielt, spricht ihr Beileid aus.",
+     "link": "https://www.welt.de/vermischtes/article6af2f782f0b67a4b24663e52/bulgarien-dichter-nebel-verursacht-massenkarambolage-elf-tote.html",
+     "image": "https://images.welt.de/6af2f782f0b67a4b24663e52/946bcdee5e2ec54f670a9404e400d18b-master/ci23x11-w1200/1794307938019-afp-d6zt8zq-jpg",
+     "aggregator": false,
+     "published": "2026-11-10T11:45:32+00:00"
+    },
+    {
+     "source": "Spiegel",
+     "region": "DE",
+     "weight": 0.6,
+     "title": "Bulgarien: Mindestens elf Menschen sterben bei Auffahrunfällen",
+     "summary": "Bulgarien: Mindestens elf Menschen sterben bei Auffahrunfällen Spiegel Dichter Nebel verursacht Massenkarambolage – elf Tote in Bulgarien WELT Elf Tote und Dutzende Verletzte bei Massenkarambolage mit rund 50 Fahrzeugen in Bulgarien derStandard.de Elf Tote bei Massenkarambolage auf Autobahn in Bulgarien FAZ Elf Tote bei Auffahrunfällen in Bulgarien – viele Verletzte Badische Neueste Nachrichten",
+     "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQNDQxYTA1b3pLVnFpZE43QkxLbzVIYlRCaFVDalNyS1d3bDRybXUtdDFWT09PSkNZZzNkN21za0FrUHNVUWJpN21WeHU0eGxzV0Jzc3lFUlZJY3c2eW1tOXNJWE5FOHdqeFNLdWVXejBXRlh1bjZmLU1UcFVpaFZWbHd3QnlKWE5ZSnRMdVNQN21xM3VMVVI1OHNJRVFZNkIxR0MwQ3otQUZaaGhJYlJGRllRVXRNMGdqOGJKQmRXZUNoSldSU3NNRzlsbU1UUQ?oc=5",
+     "image": null,
+     "aggregator": true,
+     "published": "2026-11-10T11:24:00+00:00"
+    }
+   ]
+  },
+  {
+   "id": 4,
+   "score": 14.97,
+   "outlets": [
+    "tagesschau",
+    "ZDFheute",
+    "Deutsche Welle",
+    "Deutschlandfunk",
+    "DER STANDARD",
+    "n-tv"
+   ],
+   "regions": [
+    "AT",
+    "DE",
+    "INT"
+   ],
+   "trend": [],
+   "newest": "2026-11-10T11:30:00+00:00",
+   "articles": [
+    {
+     "source": "tagesschau",
+     "region": "DE",
+     "weight": 1.0,
+     "title": "BVB fordert Nmecha zu Torjubel-Verzicht auf",
+     "summary": "Borussia Dortmund reagiert nach WDR-Recherchen auf die Kritik an Nmecha. Er soll auf seinen umstrittenen Torjubel verzichten. Die evangelikale Organisation \"Ballers in God\" soll nicht mehr mit ihm werben.",
+     "link": "https://www.sportschau.de/regional/wdr/wdr-bvb-fordert-nmecha-zu-torjubel-verzicht-auf-100.html",
+     "image": "https://images.sportschau.de/image/ca005d84-93d2-4fa7-8edf-ffe62a63609d/AAABocVFbjQ/AAABnSSvrFg/16x9-big/nmecha-172.jpg?width=1920",
+     "aggregator": false,
+     "published": "2026-11-10T11:30:00+00:00"
+    },
+    {
+     "source": "ZDFheute",
+     "region": "DE",
+     "weight": 1.0,
+     "title": "Wegen dieser Geste gibt es Kritik an BVB-Star Nmecha",
+     "summary": "Wegen seines Torjubels hagelt es für BVB-Mittelfeldmotor Felix Nmecha Kritik. Seine Geste wird einem umstrittenen evangelikalischen Netzwerk von Fußballspielern zugeordnet.",
+     "link": "https://www.zdfheute.de/sport/video/nmecha-kritik-torjubel-geste-100.html",
+     "image": "https://www.zdfheute.de/assets/nmecha-geste-torjubel-kritik-100~384x216?cb=1794298522233",
+     "aggregator": false,
+     "published": "2026-11-10T08:21:00+00:00"
+    },
+    {
+     "source": "ZDFheute",
+     "region": "DE",
+     "weight": 1.0,
+     "title": "Klopp spricht mit Nmecha über umstrittenen Torjubel",
+     "summary": "Felix Nmecha demonstriert seine religiöse Überzeugung durch einen besonderen Torjubel. Das löst bei Fans von Borussia Dortmund Kritik aus. Auch der DFB hat Redebedarf.",
+     "link": "https://www.zdfheute.de/sport/fussball-nations-league/nmecha-torjubel-klopp-gespraech-dfb-team-100.html",
+     "image": "https://www.zdfheute.de/assets/felix-nmecha-torjubel-102~384x216?cb=1794241920877",
+     "aggregator": false,
+     "published": "2026-11-09T17:10:00+00:00"
+    },
+    {
+     "source": "ZDFheute",
+     "region": "DE",
+     "weight": 1.0,
+     "title": "Doppelpack Nmecha: BVB bezwingt Elversberg",
+     "summary": "Dank eines Felix Nmecha in Topform gewinnt Borussia Dortmund gegen die SV Elversberg. Der Aufsteiger beeindruckt durch eine mutige Spielweise und einem Traumtor von Noel Futkeu.",
+     "link": "https://www.zdfheute.de/sport/fussball-bundesliga/video/borussia-dortmund-sv-elversberg-saison-2026-27-100.html",
+     "image": "https://www.zdfheute.de/assets/bundesliga-dortmund-elversberg-106~384x216?cb=1794156794118",
+     "aggregator": false,
+     "published": "2026-11-08T23:00:00+00:00"
+    },
+    {
+     "source": "Deutsche Welle",
+     "region": "INT",
+     "weight": 0.95,
+     "title": "Felix Nmecha: BVB-Fans fordern Distanzierung von religiösem Netzwerk",
+     "summary": "Borussia Dortmunds Felix Nmecha zeigt erneut seinen Jubel, der der konservativ-religiösen Bewegung \"Ballers in God\" zugerechnet wird. Das sorgt für Diskussionen und Kritik auch aus Reihen der BVB-Fans.",
+     "link": "https://www.dw.com/de/felix-nmecha-bvb-fans-fordern-distanzierung-von-religiösem-netzwerk/a-79897268?maca=de-rss-de-all-1119-xml-mrss",
+     "image": "https://static.dw.com/image/79897252_302.jpg",
+     "aggregator": false,
+     "published": "2026-11-09T11:02:00+00:00"
+    },
+    {
+     "source": "Deutschlandfunk",
+     "region": "DE",
+     "weight": 0.95,
+     "title": "Umstrittener Jubel - BVB kündigt Gespräch an - Nmecha verteidigt Torjubel",
+     "summary": "Fußballprofi Felix Nmecha von Borussia Dortmund hat seine umstrittene Geste beim Torjubel verteidigt. Doch das Thema ist für den Nationalspieler noch nicht ausgestanden. Der BVB kündigte Gespräche an.",
+     "link": "https://www.deutschlandfunk.de/bvb-kuendigt-gespraech-an-nmecha-verteidigt-torjubel-102.html",
+     "image": "https://bilder.deutschlandfunk.de/90/8a/2b/95/908a2b95-af66-44f6-bae6-a335e1a8e165/fussball-bundesliga-borussia-dortmund-felix-nmecha-jubel-krone-102-1920x1920.jpg",
+     "aggregator": false,
+     "published": "2026-11-10T11:14:51+00:00"
+    },
+    {
+     "source": "DER STANDARD",
+     "region": "AT",
+     "weight": 0.85,
+     "title": "Umstrittene Jubelgeste von BVB- und DFB-Kicker Nmecha entflammt Debatte in Deutschland",
+     "summary": "Die Fan- und Förderabteilung von Borussia Dortmund hat in einer Stellungnahme eine klare Abgrenzung von evangelikalen Netzwerken gefordert. Nmecha von Dortmund, Klopp und Völler zum Gespräch geladen",
+     "link": "https://www.derstandard.at/story/3000000348427/umstrittene-jubelgeste-von-bdfb-kicker-nmecha-entflammt-debatte-in-deutschland?ref=rss",
+     "image": "https://i.ds.at/bOB6wA/rs:fill:150:0/plain/lido-images/2026/11/10/3ee2874f-2b5d-4524-abaa-aca19e87f0b3.jpg",
+     "aggregator": false,
+     "published": "2026-11-10T10:42:22+00:00"
+    },
+    {
+     "source": "n-tv",
+     "region": "DE",
+     "weight": 0.8,
+     "title": "Umstrittener Jubel: Klopp und Völler nehmen Nmecha ins Gebet",
+     "summary": "Felix Nmecha trifft für Borussia Dortmund, der gläubige Christ jubelt mit einer umstrittenen Geste. Die Fanabteilung des BVB kritisiert das scharf. DFB-Sportchef Rudi Völler kündigt ein Gespräch an, Jürgen Klopp hat wohl schon mit ihm geredet.",
+     "link": "https://www.n-tv.de/sport/fussball/Klopp-und-Voeller-nehmen-Nmecha-ins-Gebet-id31513350.html",
+     "image": "https://www.n-tv.de/img/31513346/1794245230/Img_4_3/250/image.jpg",
+     "aggregator": false,
+     "published": "2026-11-09T17:50:13+00:00"
+    }
+   ]
+  },
+  {
+   "id": 5,
+   "score": 11.46,
+   "outlets": [
+    "tagesschau",
+    "DER STANDARD",
+    "WELT",
+    "n-tv",
+    "Spiegel"
+   ],
+   "regions": [
+    "AT",
+    "DE"
+   ],
+   "trend": [],
+   "newest": "2026-11-10T11:47:13+00:00",
+   "articles": [
+    {
+     "source": "tagesschau",
+     "region": "DE",
+     "weight": 1.0,
+     "title": "Schüsse in der Hamburger Hafencity",
+     "summary": "In der Hamburger Hafencity sind am Morgen Schüsse gefallen. Es soll zwei Verletzte geben. Die Polizei sucht nach dem Täter und hat die Elbphilharmonie abgesperrt.",
+     "link": "https://www.tagesschau.de/inland/regional/hamburg/verletzte-nach-schuessen-in-der-hamburger-hafencity,schuesse-170.html",
+     "image": "https://images.ndr.de/image/c7d0d267-71ab-4394-9c80-e8df42f06c2b/AAABocUgAqg/AAABnSSvrFg/16x9-big/sek-176.jpg?width=1920",
+     "aggregator": false,
+     "published": "2026-11-10T11:46:28+00:00"
+    },
+    {
+     "source": "DER STANDARD",
+     "region": "AT",
+     "weight": 0.85,
+     "title": "Zwei Verletzte durch Schüsse nahe Hamburger Elbphilharmonie",
+     "summary": "Laut Polizei laufen aktuell Fahndungsmaßnahmen, eine Gefahr für die Bevölkerung bestehe ersten Erkenntnissen zufolge nicht",
+     "link": "https://www.derstandard.at/story/3000000348533/zwei-verletzte-durch-schuesse-nahe-hamburger-elbphilharmonie?ref=rss",
+     "image": "https://i.ds.at/pDHDLA/rs:fill:150:0/plain/lido-images/2026/11/10/679c2f5a-81a5-4fad-9dff-8cef236e3a81.jpg",
+     "aggregator": false,
+     "published": "2026-11-10T11:47:13+00:00"
+    },
+    {
+     "source": "WELT",
+     "region": "DE",
+     "weight": 0.8,
+     "title": "Größerer Polizeieinsatz bei Elbphilharmonie – zwei Verletzte",
+     "summary": "Mitten in der Hamburger HafenCity sollen am Dienstagmorgen Schüsse gefallen sein. Zwei Menschen werden verletzt. Rund um die Elbphilharmonie rückt die Polizei mit zahlreichen Kräften an.",
+     "link": "https://www.welt.de/regionales/hamburg/article6af2e76bd7afd5ab8c050039/kriminalitaet-groesserer-polizeieinsatz-bei-elbphilharmonie-zwei-verletzte.html",
+     "image": "https://images.welt.de/6af2e76bd7afd5ab8c050039/057e7f3b0a75372a33d21faa7e17bc7a/ci23x11-w1200/dpa-com-261110-936-142198-jpg",
+     "aggregator": false,
+     "published": "2026-11-10T10:18:57+00:00"
+    },
+    {
+     "source": "n-tv",
+     "region": "DE",
+     "weight": 0.8,
+     "title": "Großeinsatz nahe Elbphilharmonie: Mutmaßliche Schussabgabe in Hamburg - zwei Verletzte",
+     "summary": "In der Hamburger Hafencity fallen am Morgen nach ersten Erkenntnissen der Polizei Schüsse. Zwei Menschen werden verletzt. Die Polizei rückt mit einem Großaufgebot aus.",
+     "link": "https://www.n-tv.de/panorama/Mutmassliche-Schussabgabe-in-Hamburg-zwei-Verletzte-id31515895.html",
+     "image": "https://www.n-tv.de/img/31516161/1794310614/Img_4_3/250/image.jpg",
+     "aggregator": false,
+     "published": "2026-11-10T10:22:51+00:00"
+    },
+    {
+     "source": "Spiegel",
+     "region": "DE",
+     "weight": 0.6,
+     "title": "Hamburg: Großeinsatz nahe der Elbphilharmonie – zwei Verletzte",
+     "summary": "Hamburg: Großeinsatz nahe der Elbphilharmonie – zwei Verletzte Spiegel Hamburg: Schüsse an der Elbphilharmonie! Zwei Verletzte BILD Zwei Verletzte durch Schüsse nahe Hamburger Elbphilharmonie WEB.DE Schüsse in der HafenCity: Täter weiter auf der Flucht MOPO Großeinsatz nahe Elbphilharmonie: Mutmaßliche Schussabgabe in Hamburg - zwei Verletzte n-tv.de",
+     "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPR2ZZal9UV0g0Q0FZeWVka1Ric2pjSWV1QkJSV0tETGlRdG1HdG9SdmJ2WWFMYmlxVzQ4VVZHay1DNDF0Ti1NOWV1NHJQWjhZUG90MVhWeEN5YlBwY2FiYUd5SVFQdXFvNkVhSkkxbDNGV3c2bnpqNjRtR0ZMRGpHWS03WFoxbTA1YWlIdmM0c3pGSGNaM196ek9Wb3FBUGVXM0kxTDh5SVNKMTdYWkVuendfakZOZWx6T3JZbUFTakVUT3pSSW45SXdVYkd2VlJoSHc?oc=5",
+     "image": null,
+     "aggregator": true,
+     "published": "2026-11-10T09:35:00+00:00"
+    }
+   ]
+  },
+  {
+   "id": 6,
+   "score": 11.38,
+   "outlets": [
+    "tagesschau",
+    "Deutschlandfunk",
+    "ORF",
+    "SPIEGEL"
+   ],
+   "regions": [
+    "AT",
+    "DE",
+    "INT"
+   ],
+   "trend": [],
+   "newest": "2026-11-10T11:14:51+00:00",
+   "articles": [
+    {
+     "source": "tagesschau",
+     "region": "DE",
+     "weight": 1.0,
+     "title": "Kalifornier lehnen Milliardärssteuer ab",
+     "summary": "Die Wähler in Kalifornien haben per Volksentscheid gegen eine einmalige Sonderabgabe durch die etwa 250 Milliardäre im US-Bundesstaat gestimmt. Die Superreichen hatten Millionen US-Dollar in Werbespots gegen die Reichensteuer gesteckt.",
+     "link": "https://www.tagesschau.de/ausland/amerika/kalifornien-milliardaerssteuer-abgelehnt-100.html",
+     "image": "https://images.tagesschau.de/image/9fee6096-0744-4526-b4f0-a2e4e49a9c73/AAABocQ8JzY/AAABnSSvrFg/16x9-big/t-shirt-reichensteuer-100.jpg?width=1920",
+     "aggregator": false,
+     "published": "2026-11-10T07:15:02+00:00"
+    },
+    {
+     "source": "tagesschau Ausland",
+     "region": "INT",
+     "weight": 1.0,
+     "title": "Kalifornier lehnen Milliardärssteuer ab",
+     "summary": "Die Wähler in Kalifornien haben per Volksentscheid gegen eine einmalige Sonderabgabe durch die etwa 250 Milliardäre im US-Bundesstaat gestimmt. Die Superreichen hatten Millionen US-Dollar in Werbespots gegen die Reichensteuer gesteckt.",
+     "link": "https://www.tagesschau.de/ausland/amerika/kalifornien-milliardaerssteuer-abgelehnt-100.html",
+     "image": "https://images.tagesschau.de/image/9fee6096-0744-4526-b4f0-a2e4e49a9c73/AAABocQ8JzY/AAABnSSvrFg/16x9-big/t-shirt-reichensteuer-100.jpg?width=1920",
+     "aggregator": false,
+     "published": "2026-11-10T07:15:02+00:00"
+    },
+    {
+     "source": "tagesschau Wirtschaft",
+     "region": "DE",
+     "weight": 1.0,
+     "title": "Kalifornier lehnen Milliardärssteuer ab",
+     "summary": "Die Wähler in Kalifornien haben per Volksentscheid gegen eine einmalige Sonderabgabe durch die etwa 250 Milliardäre im US-Bundesstaat gestimmt. Die Superreichen hatten Millionen US-Dollar in Werbespots gegen die Reichensteuer gesteckt.",
+     "link": "https://www.tagesschau.de/ausland/amerika/kalifornien-milliardaerssteuer-abgelehnt-100.html",
+     "image": "https://images.tagesschau.de/image/9fee6096-0744-4526-b4f0-a2e4e49a9c73/AAABocQ8JzY/AAABnSSvrFg/16x9-big/t-shirt-reichensteuer-100.jpg?width=1920",
+     "aggregator": false,
+     "published": "2026-11-10T07:15:02+00:00"
+    },
+    {
+     "source": "Deutschlandfunk",
+     "region": "DE",
+     "weight": 0.95,
+     "title": "USA - Kaliforniens Wähler lehnen Milliardärssteuer ab",
+     "summary": "Die Wähler im US-Bundesstaat Kalifornien haben eine Sondersteuer für Milliardäre abgelehnt. Vorgesehen war eine einmalige Abgabe von fünf Prozent auf Vermögen von mehr als einer Milliarde Dollar. Mit den Einnahmen sollten vor allem Kürzungen im staatlichen Gesundheitswesen ausgeglichen werden.",
+     "link": "https://www.deutschlandfunk.de/kaliforniens-waehler-lehnen-milliardaerssteuer-ab-102.html",
+     "image": "https://bilder.deutschlandfunk.de/58/20/c7/ce/5820c7ce-a562-48bd-89b2-4ebc0ec32476/google-gruender-brin-100-1920x1920.jpg",
+     "aggregator": false,
+     "published": "2026-11-10T11:14:51+00:00"
+    },
+    {
+     "source": "ORF",
+     "region": "AT",
+     "weight": 0.95,
+     "title": "Milliardärssteuer in Kalifornien abgelehnt",
+     "summary": "Die vorgeschlagene Einführung einer Milliardärssteuer im US-Bundesstaat Kalifornien, die die Tech-Branche im Silicon Valley aufgeschreckt hatte, ist in einer Volksabstimmung im Rahmen der Midterms abgelehnt worden. Die Kampagne gegen die Steuer gilt als teuerste in der Geschichte Kaliforniens, finanziert von den Eignern großer Tech-Firmen.",
+     "link": "https://orf.at/stories/3447753/",
+     "image": null,
+     "aggregator": false,
+     "published": "2026-11-10T07:39:19+00:00"
+    },
+    {
+     "source": "ORF",
+     "region": "AT",
+     "weight": 0.95,
+     "title": "Kalifornier lehnen Milliardärssteuer ab",
+     "summary": "",
+     "link": "https://orf.at/stories/3447747/",
+     "image": null,
+     "aggregator": false,
+     "published": "2026-11-10T05:10:03+00:00"
+    },
+    {
+     "source": "SPIEGEL",
+     "region": "DE",
+     "weight": 0.9,
+     "title": "USA: Kalifornier lehnen Milliardärssteuer ab",
+     "summary": "Mit viel Geld haben Superreiche in Kalifornien gegen eine Milliardärsteuer gekämpft, nun haben sie Erfolg: Die Wähler stimmten mehrheitlich gegen die geplante Abgabe von fünf Prozent.",
+     "link": "https://www.spiegel.de/wirtschaft/unternehmen/usa-kalifornier-lehnen-milliardaerssteuer-ab-a-8158b657-1bb4-4248-9b65-d282c08da566#ref=rss",
+     "image": "https://cdn.prod.www.spiegel.de/images/63fcea70-6653-448f-a123-f126871229d6_w520_r2.08_fpx65.32_fpy49.99.jpg",
+     "aggregator": false,
+     "published": "2026-11-10T08:14:00+00:00"
+    }
+   ]
+  },
+  {
+   "id": 7,
+   "score": 11.18,
+   "outlets": [
+    "tagesschau",
+    "ZDFheute",
+    "ZEIT ONLINE",
+    "Golem"
+   ],
+   "regions": [
+    "DE"
+   ],
+   "trend": [],
+   "newest": "2026-11-10T11:31:55+00:00",
+   "articles": [
+    {
+     "source": "tagesschau",
+     "region": "DE",
+     "weight": 1.0,
+     "title": "Sabotage an Kühlanlagen: Paris sieht iranische Revolutionsgarde hinter Angriffen",
+     "summary": "Sabotage an Kühlanlagen: Paris sieht iranische Revolutionsgarde hinter Angriffen",
+     "link": "https://www.tagesschau.de/tagesschau_20_uhr/video-1681012.html",
+     "image": "https://images.tagesschau.de/image/ea613e51-f478-4881-8f61-4e73d1aebe8d/AAABocSzjOI/AAABnSSvrFg/16x9-big/kuehlregal-106.jpg?width=1920",
+     "aggregator": false,
+     "published": "2026-11-09T19:33:58+00:00"
+    },
+    {
+     "source": "ZDFheute",
+     "region": "DE",
+     "weight": 1.0,
+     "title": "Paris: Iran für Kühlanlagen-Cyberangriffe verantwortlich",
+     "summary": "Nach Cyberangriffen auf Kühlanlagen hat Frankreichs Innenminister die iranischen Revolutionsgarden dafür verantwortlich gemacht.",
+     "link": "https://www.zdfheute.de/politik/ausland/frankreich-kuehlsysteme-attacken-iran-revolutionsgarden-100.html",
+     "image": "https://www.zdfheute.de/assets/frankreich-supermarkt-kuehlung-cyberangriff-100~384x216?cb=1794243000790",
+     "aggregator": false,
+     "published": "2026-11-09T16:44:00+00:00"
+    },
+    {
+     "source": "ZEIT ONLINE",
+     "region": "DE",
+     "weight": 0.9,
+     "title": "Cyberangriff auf Kühlanlagen : Frankreich bestellt iranischen Botschafter ein",
+     "summary": "Nach Cyberangriffen auf rund 700 Standorte macht Frankreich die iranische Revolutionsgarde verantwortlich. Außenminister Barrot stellt weitere Strafmaßnahmen in Aussicht.",
+     "link": "https://www.zeit.de/politik/ausland/2026-11/frankreich-cyberangriff-iran-kuehlanlagen-botschafter-gxe",
+     "image": "https://img.zeit.de/politik/ausland/2026-11/frankreich-cyberangriff-iran-kuehlanlagen-botschafter-gxe-foto-1/original__640x360",
+     "aggregator": false,
+     "published": "2026-11-10T11:31:55+00:00"
+    },
+    {
+     "source": "Golem",
+     "region": "DE",
+     "weight": 0.75,
+     "title": "Gehackte Kühlanlagen: Frankreich beschuldigt Iran als Urheber von Cyberattacken",
+     "summary": "Hinter den Cyberattacken auf französische Supermarktketten sollen Hacker der iranischen Revolutionsgarden stecken. ( Security , Cyberwar )",
+     "link": "https://www.golem.de/news/gehackte-kuehlanlagen-frankreich-beschuldigt-iran-als-urheber-von-cyberattacken-2611-215010.html",
+     "image": "https://cpx.golem.de/cpx.php?class=17&amp;aid=215010&amp;page=1&amp;ts=1794246121",
+     "aggregator": false,
+     "published": "2026-11-09T17:42:01+00:00"
+    }
+   ]
+  },
+  {
+   "id": 8,
+   "score": 11.09,
+   "outlets": [
+    "tagesschau",
+    "Deutsche Welle",
+    "SRF News",
+    "Handelsblatt"
+   ],
+   "regions": [
+    "CH",
+    "DE",
+    "INT"
+   ],
+   "trend": [],
+   "newest": "2026-11-10T10:22:15+00:00",
+   "articles": [
+    {
+     "source": "tagesschau",
+     "region": "DE",
+     "weight": 1.0,
+     "title": "S. Diettrich, ARD Moskau, V. Golod, ARD Kiew, zum Ukraine-Gipfel in Abu Dhabi",
+     "summary": "S. Diettrich, ARD Moskau, V. Golod, ARD Kiew, zum Ukraine-Gipfel in Abu Dhabi",
+     "link": "https://www.tagesschau.de/video/video-1681278.html",
+     "image": "https://images.tagesschau.de/image/08e7294c-a994-41f2-8b4c-824167a0bcff/AAABocTN_Rc/AAABnSSvrFg/16x9-big/sendungsbild-1825314.jpg?width=1920",
+     "aggregator": false,
+     "published": "2026-11-10T09:33:24+00:00"
+    },
+    {
+     "source": "Deutsche Welle",
+     "region": "INT",
+     "weight": 0.95,
+     "title": "Russland lehnt Europas Teilnahme an Ukraine-Gesprächen ab",
+     "summary": "Frankreich kündigt an, Vertreter zu den Verhandlungen in Abu Dhabi zu schicken. Moskau sieht dagegen nur Gespräche mit der Ukraine und den USA vor. Im Mittelpunkt stehen Sicherheitsgarantien und ein mögliches Kriegsende.",
+     "link": "https://www.dw.com/de/russland-lehnt-europas-teilnahme-an-ukraine-gesprächen-ab/a-79897668?maca=de-rss-de-all-1119-xml-mrss",
+     "image": "https://static.dw.com/image/76011845_302.jpg",
+     "aggregator": false,
+     "published": "2026-11-09T11:02:00+00:00"
+    },
+    {
+     "source": "SRF News",
+     "region": "CH",
+     "weight": 0.95,
+     "title": "Krieg in der Ukraine – Ukraine-Gespräche in Abu Dhabi: Kiew und Moskau verhandeln",
+     "summary": "Unter US-Leitung haben Russland und die Ukraine in Abu Dhabi Gespräche aufgenommen. Die Verhandlungen dauern bis morgen.",
+     "link": "https://www.srf.ch/news/international/ukraine/krieg-in-der-ukraine-ukraine-gespraeche-in-abu-dhabi-kiew-und-moskau-verhandeln",
+     "image": "https://www.srf.ch/static/cms/images//320ws/2ddfd1.webp",
+     "aggregator": false,
+     "published": "2026-11-10T09:31:39+00:00"
+    },
+    {
+     "source": "Handelsblatt",
+     "region": "DE",
+     "weight": 0.9,
+     "title": "US-vermittelte Gespräche: Ukraine-Gespräche in Abu Dhabi: Kiew und Moskau verhandeln",
+     "summary": "Nach mehr als acht Monaten Pause verhandeln Russland und die Ukraine unter US-Vermittlung wieder direkt – diesmal in Abu Dhabi. Welche Rolle Europa dabei spielt, bleibt unklar.",
+     "link": "https://www.handelsblatt.com/politik/international/us-vermittelte-gespraeche-ukraine-gespraeche-in-abu-dhabi-kiew-und-moskau-verhandeln/100268667.html",
+     "image": "https://images.handelsblatt.com/nfXmWki0BsbA/cover/900/506/3/2/0/0/0.5/0.5/ukraine-krieg-verhandlungen.jpg",
+     "aggregator": false,
+     "published": "2026-11-10T10:22:15+00:00"
+    }
+   ]
+  },
+  {
+   "id": 9,
+   "score": 10.72,
+   "outlets": [
+    "ORF",
+    "SPIEGEL",
+    "WirtschaftsWoche",
+    "heise online"
+   ],
+   "regions": [
+    "AT",
+    "DE"
+   ],
+   "trend": [],
+   "newest": "2026-11-10T10:45:00+00:00",
+   "articles": [
+    {
+     "source": "ORF",
+     "region": "AT",
+     "weight": 0.95,
+     "title": "Teile fehlen: BMW lässt Schichten ausfallen",
+     "summary": "",
+     "link": "https://orf.at/stories/3447762/",
+     "image": null,
+     "aggregator": false,
+     "published": "2026-11-10T08:18:59+00:00"
+    },
+    {
+     "source": "SPIEGEL",
+     "region": "DE",
+     "weight": 0.9,
+     "title": "BMW lässt wegen fehlender Teile Schichten ausfallen",
+     "summary": "BMW muss aktuell wegen fehlender Teile, die von Extern kommen, einzelne Schichten in bis zu drei Werken ausfallen lassen. Jede dieser ausgefallenen Schichten dürfte Hunderte Autos betreffen.",
+     "link": "https://www.spiegel.de/wirtschaft/unternehmen/bmw-laesst-wegen-fehlender-teile-schichten-ausfallen-a-66f93bec-da2a-4d6d-91fb-ba416decf035#ref=rss",
+     "image": "https://cdn.prod.www.spiegel.de/images/1b2ba50c-c78d-448e-8e79-12d7ee78b172_w520_r2.08_fpx65.32_fpy49.99.jpg",
+     "aggregator": false,
+     "published": "2026-11-10T10:45:00+00:00"
+    },
+    {
+     "source": "WirtschaftsWoche",
+     "region": "DE",
+     "weight": 0.85,
+     "title": "Automobilindustrie: Fehlende Teile – BMW lässt Schichten ausfallen",
+     "summary": "Insgesamt sollen drei Werke betroffen sein, heißt es aus Kreisen. Es geht dabei nur um einzelne Schichten – jede davon dürfte aber hunderte Autos betreffen.",
+     "link": "https://www.wiwo.de/unternehmen/auto/automobilindustrie-fehlende-teile-bmw-laesst-schichten-ausfallen/100268630.html",
+     "image": "https://images.wiwo.de/tydWpC7oGeP7/cover/900/506/0/0/301/301/0.5/0.5/archiv-24.10.2025-sachsen-leipzig-verschiedene-bmw-rollen-vom-band-im-bmw-group-werk-leipzig..jpg",
+     "aggregator": false,
+     "published": "2026-11-10T07:53:00+00:00"
+    },
+    {
+     "source": "heise online",
+     "region": "DE",
+     "weight": 0.85,
+     "title": "Fehlende Teile: Schichten in drei BMW-Werken fallen aus",
+     "summary": "Engpässe bei Zulieferteilen bremsen BMW: In Regensburg, Leipzig und Oxford fielen Schichten aus. Noch ist wenig über die Hintergründe bekannt.",
+     "link": "https://www.heise.de/news/Fehlende-Teile-Schichten-in-drei-BMW-Werken-fallen-aus-11518249.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
+     "image": null,
+     "aggregator": false,
+     "published": "2026-11-10T08:39:00+00:00"
+    }
+   ]
+  },
+  {
+   "id": 10,
+   "score": 10.39,
+   "outlets": [
+    "tagesschau",
+    "ZDFheute",
+    "Deutsche Welle",
+    "NZZ"
+   ],
+   "regions": [
+    "CH",
+    "DE",
+    "INT"
+   ],
+   "trend": [],
+   "newest": "2026-11-10T07:58:59+00:00",
+   "articles": [
+    {
+     "source": "tagesschau",
+     "region": "DE",
+     "weight": 1.0,
+     "title": "Statue von Papst Leo XIV., Kimchi, Chinesische Teekette",
+     "summary": "Statue von Papst Leo XIV., Kimchi, Chinesische Teekette",
+     "link": "https://www.tagesschau.de/multimedia/bilder/blickpunkte-10558.html",
+     "image": "https://images.tagesschau.de/image/d5a08af1-d17e-42f4-af7e-5f21f99dcaaa/AAABocRVrfw/AAABnSSvrFg/16x9-big/papst-statue-100.jpg?width=1920",
+     "aggregator": false,
+     "published": "2026-11-10T07:58:59+00:00"
+    },
+    {
+     "source": "tagesschau",
+     "region": "DE",
+     "weight": 1.0,
+     "title": "Buenos Aires: Papst Leo XIV. feiert Messe vor zwei Millionen Menschen",
+     "summary": "Argentinien ist im \"Papa-León-Fieber\": An einem gigantischen Freiluft-Gottesdienst nahmen gut zwei Millionen Menschen teil. Leo XIV. würdigte dabei die Bedeutung der Familie und plädierte für den Schutz der Schwachen.",
+     "link": "https://www.tagesschau.de/ausland/amerika/papst-leo-argentinien-100.html",
+     "image": "https://images.tagesschau.de/image/66cc38c8-763c-447b-8cf8-ad9a272272b5/AAABocGpaq0/AAABnSSvrFg/16x9-big/papst-leo-230.jpg?width=1920",
+     "aggregator": false,
+     "published": "2026-11-09T19:34:13+00:00"
+    },
+    {
+     "source": "tagesschau Ausland",
+     "region": "INT",
+     "weight": 1.0,
+     "title": "Buenos Aires: Papst Leo XIV. feiert Messe vor zwei Millionen Menschen",
+     "summary": "Argentinien ist im \"Papa-León-Fieber\": An einem gigantischen Freiluft-Gottesdienst nahmen gut zwei Millionen Menschen teil. Leo XIV. würdigte dabei die Bedeutung der Familie und plädierte für den Schutz der Schwachen.",
+     "link": "https://www.tagesschau.de/ausland/amerika/papst-leo-argentinien-100.html",
+     "image": "https://images.tagesschau.de/image/66cc38c8-763c-447b-8cf8-ad9a272272b5/AAABocGpaq0/AAABnSSvrFg/16x9-big/papst-leo-230.jpg?width=1920",
+     "aggregator": false,
+     "published": "2026-11-09T19:34:13+00:00"
+    },
+    {
+     "source": "tagesschau Ausland",
+     "region": "INT",
+     "weight": 1.0,
+     "title": "Papst Leo XIV. fordert in Argentinien mehr Rücksicht auf Schwache",
+     "summary": "Zu Beginn seines Argentinienbesuchs hat Papst Leo XIV. Kritik an der \"Kettensägen-Politik\" von Präsident Milei geübt und zu mehr Rücksicht aufgerufen. Seit fast vier Jahrzehnten war kein Papst mehr in dem südamerikanischen Land zu Gast.",
+     "link": "https://www.tagesschau.de/ausland/amerika/papst-in-argentinien-100.html",
+     "image": "https://images.tagesschau.de/image/1f30676a-63bb-4057-a135-fb0db6a3cdc5/AAABob7H93o/AAABnSSvrFg/16x9-big/papst-1178.jpg?width=1920",
+     "aggregator": false,
+     "published": "2026-11-09T00:43:39+00:00"
+    },
+    {
+     "source": "tagesschau Ausland",
+     "region": "INT",
+     "weight": 1.0,
+     "title": "Papst Leo XIV. setzt Südamerika-Reise fort",
+     "summary": "Zum Auftakt seiner Südamerika-Reise traf Papst Leo XIV. in Uruguay auf Armut und Gläubige in einer meist säkularen Gesellschaft. Nun geht es nach Argentinien, dessen Staatschef den Pontifex bisher eher als Kritiker kennt. Von Tilmann Kleinjung.",
+     "link": "https://www.tagesschau.de/ausland/amerika/papst-leo-suedamerika-uruguay-100.html",
+     "image": "https://images.tagesschau.de/image/569e6360-4542-49fc-a185-0871ac39e241/AAABobqGs5o/AAABnSSvrFg/16x9-big/papst-uruguay-100.jpg?width=1920",
+     "aggregator": false,
+     "published": "2026-11-08T08:27:56+00:00"
+    },
+    {
+     "source": "ZDFheute",
+     "region": "DE",
+     "weight": 1.0,
+     "title": "Zweieinhalb Millionen Menschen bei Papstmesse in Buenos Aires",
+     "summary": "Papst Leo XIV. hat am Montag die größte Messe seiner Amtszeit gefeiert. Rund zweieinhalb Millionen Menschen haben nach Behördenangaben am Gottesdienst in Buenos Aires teilgenommen.",
+     "link": "https://www.zdfheute.de/panorama/papst-leo-messe-rekord-besucher-buenos-aires-100.html",
+     "image": "https://www.zdfheute.de/assets/papst-leo-xiv-argentinien-buenos-aires-100~384x216?cb=1794249507888",
+     "aggregator": false,
+     "published": "2026-11-09T19:49:00+00:00"
+    },
+    {
+     "source": "Deutsche Welle",
+     "region": "INT",
+     "weight": 0.95,
+     "title": "Reise mit Strapazen: Papst Leo XIV. ist in Südamerika zurück",
+     "summary": "Der Pontifex besucht zuerst das streng laizistische Uruguay - eine stabile Demokratie, in der die Kirche jedoch nicht besonders populär ist. Auch gesundheitlich ist die Reise für den 71-Jährigen eine Herausforderung.",
+     "link": "https://www.dw.com/de/reise-mit-strapazen-papst-leo-xiv-ist-in-südamerika-zurück/a-79885738?maca=de-rss-de-all-1119-xml-mrss",
+     "image": "https://static.dw.com/image/79885767_302.jpg",
+     "aggregator": false,
+     "published": "2026-11-07T15:09:00+00:00"
+    },
+    {
+     "source": "NZZ",
+     "region": "CH",
+     "weight": 0.9,
+     "title": "BILDSTRECKE - Papst Leo XIV. besucht Südamerika",
+     "summary": "Papst Leo XIV. ist erstmals wieder zurück in Südamerika, wo er vor seiner Wahl zum Pontifex zwei Jahrzehnte seines Lebens verbrachte. Nach Uruguay und Argentinien wird er am Mittwoch Peru besuchen.",
+     "link": "https://www.nzz.ch/panorama/papst-leo-xiv-besucht-suedamerika-ld.10058509",
+     "image": "https://img-msp-prod.nzz.ch/2026/11/09/195ca25a-a94c-401c-853f-ef91dcbcf7a3.jpg?width=200&height=200&fit=bounds&quality=75&auto=webp&crop=2872,2872,x1381,y741",
+     "aggregator": false,
+     "published": "2026-11-10T07:54:28+00:00"
+    }
+   ]
+  },
+  {
+   "id": 11,
+   "score": 9.68,
+   "outlets": [
+    "tagesschau",
+    "ZDFheute",
+    "Deutschlandfunk"
+   ],
+   "regions": [
+    "DE"
+   ],
+   "trend": [],
+   "newest": "2026-11-10T11:14:51+00:00",
+   "articles": [
+    {
+     "source": "tagesschau",
+     "region": "DE",
+     "weight": 1.0,
+     "title": "Sportvereine in Deutschland haben so viele Mitglieder wie noch nie",
+     "summary": "Die deutschen Sportvereine haben so viele Mitglieder wie noch nie. In allen Bundesländern sind die Zahlen nach oben gegangen. Fußball bleibt unangefochten an der Spitze - andere Sportarten haben Mitglieder verloren.",
+     "link": "https://www.tagesschau.de/inland/gesellschaft/sportvereine-mitglieder-102.html",
+     "image": "https://images.tagesschau.de/image/0a4f6fc5-5495-462b-9aca-e579b5609692/AAABocSOYyc/AAABnSSvrFg/16x9-big/fussballplatz-118.jpg?width=1920",
+     "aggregator": false,
+     "published": "2026-11-10T09:05:59+00:00"
+    },
+    {
+     "source": "tagesschau Inland",
+     "region": "DE",
+     "weight": 1.0,
+     "title": "Sportvereine in Deutschland haben so viele Mitglieder wie noch nie",
+     "summary": "Die deutschen Sportvereine haben so viele Mitglieder wie noch nie. In allen Bundesländern sind die Zahlen nach oben gegangen. Fußball bleibt unangefochten an der Spitze - andere Sportarten haben Mitglieder verloren.",
+     "link": "https://www.tagesschau.de/inland/gesellschaft/sportvereine-mitglieder-102.html",
+     "image": "https://images.tagesschau.de/image/0a4f6fc5-5495-462b-9aca-e579b5609692/AAABocSOYyc/AAABnSSvrFg/16x9-big/fussballplatz-118.jpg?width=1920",
+     "aggregator": false,
+     "published": "2026-11-10T09:05:59+00:00"
+    },
+    {
+     "source": "ZDFheute",
+     "region": "DE",
+     "weight": 1.0,
+     "title": "Deutsche Sportvereine haben so viele Mitglieder wie nie",
+     "summary": "Es ist der dritte Rekord in Folge. 2026 sind erstmals mehr als 30 Millionen Mitglieder in deutschen Sportvereinen registriert. Kleine Sportarten stechen beim Wachstum hervor.",
+     "link": "https://www.zdfheute.de/panorama/sport-vereine-deutschland-mitglieder-rekord-100.html",
+     "image": "https://www.zdfheute.de/assets/sportgruppe-vereinsport-100~384x216?cb=1794301528229",
+     "aggregator": false,
+     "published": "2026-11-10T09:30:00+00:00"
+    },
+    {
+     "source": "Deutschlandfunk",
+     "region": "DE",
+     "weight": 0.95,
+     "title": "Rekord - Sportvereine haben über 30 Millionen Mitglieder",
+     "summary": "Die Zahl der Mitglieder in den deutschen Sportvereinen ist auf eine Rekordhöhe gestiegen.",
+     "link": "https://www.deutschlandfunk.de/sportvereine-haben-ueber-30-millionen-mitglieder-102.html",
+     "image": "https://bilder.deutschlandfunk.de/75/de/66/35/75de6635-de1b-4396-a7f0-957e7ae8b2e5/dosb-logo-schild-100-1920x1920.jpg",
+     "aggregator": false,
+     "published": "2026-11-10T11:14:51+00:00"
+    }
+   ]
+  },
+  {
+   "id": 12,
+   "score": 9.68,
+   "outlets": [
+    "Deutschlandfunk",
+    "heise online",
+    "DER STANDARD",
+    "T-Online"
+   ],
+   "regions": [
+    "AT",
+    "DE"
+   ],
+   "trend": [],
+   "newest": "2026-11-10T11:14:51+00:00",
+   "articles": [
+    {
+     "source": "Deutschlandfunk",
+     "region": "DE",
+     "weight": 0.95,
+     "title": "Regulierung - Nach Hackerangriff durch OpenAI-Agenten: Australien will Regeln für Tech-Konzerne verschärfen",
+     "summary": "Nach einem Sicherheitsvorfall mit Künstlicher Intelligenz des US-Konzerns OpenAI verschärft Australien ⁠die Regeln ⁠für Technologiekonzerne.",
+     "link": "https://www.deutschlandfunk.de/nach-hackerangriff-durch-openai-agenten-australien-will-regeln-fuer-tech-konzerne-verschaerfen-100.html",
+     "image": "https://bilder.deutschlandfunk.de/ac/f7/06/1e/acf7061e-9c18-485e-b9aa-b624fee3eefe/australien-premier-albanese-100-1920x1920.jpg",
+     "aggregator": false,
+     "published": "2026-11-10T11:14:51+00:00"
+    },
+    {
+     "source": "heise online",
+     "region": "DE",
+     "weight": 0.85,
+     "title": "Australien verschärft KI-Regularien nach OpenAI-Angriffen",
+     "summary": "Nach einem Vorfall mit einem OpenAI-Agenten verschärft Australien die Sicherheitsvorschriften für KI-Entwickler. Melden von Vorfällen wird Pflicht.",
+     "link": "https://www.heise.de/news/Australien-verschaerft-KI-Regularien-nach-OpenAI-Angriffen-11518320.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
+     "image": null,
+     "aggregator": false,
+     "published": "2026-11-10T09:03:00+00:00"
+    },
+    {
+     "source": "DER STANDARD",
+     "region": "AT",
+     "weight": 0.85,
+     "title": "Australien will nach Hackerangriff durch KI-Agenten Regeln für Tech-Konzerne verschärfen",
+     "summary": "Ein KI-Agent von OpenAI hatte das australische Gesundheitssystem angegriffen. Unternehmen sollen Verstöße künftig melden. Zudem sind Änderungen im Strafrecht geplant",
+     "link": "https://www.derstandard.at/story/3000000348356/australien-will-regeln-f252r-tech-konzerne-versch228rfen?ref=rss",
+     "image": "https://i.ds.at/srE7Bg/rs:fill:150:0/plain/lido-images/2026/11/10/e0dc89c8-1559-400f-b606-8664e21b60ed.jpg",
+     "aggregator": false,
+     "published": "2026-11-10T06:39:34+00:00"
+    },
+    {
+     "source": "T-Online",
+     "region": "DE",
+     "weight": 0.6,
+     "title": "OpenAI-Angriff: Australien will Regeln für Tech-Konzerne verschärfen",
+     "summary": "OpenAI-Angriff: Australien will Regeln für Tech-Konzerne verschärfen T-Online Weitere Schlagzeilen und Meinungen in Google News",
+     "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPem5KcDlZemk4MVY1Y3VSOVpGUUV5eWhTNjg2VURIdTBaTUdkNUstR3l3a0kzZWl2ZWhrYjc1cGlXTFdGMzd3bWlQZnRMSEpxZWk4MjJXMXQ0YXY0YTdZbkVYaWpya0FOblFLNjluZzJjYTNOQi1DWXJreHdRVTFnSGZfLUx3Ty1xdEgxQ19KSUlwM0k3akdQYy15bHpJLVpzcW9jdGh3VGV6WUtJYVMyUmlQUDFYU09iZGxWTmI3NGtGWjZQREFxd3RQeWVlb0h3SktaZksxaGs?oc=5",
+     "image": null,
+     "aggregator": true,
+     "published": "2026-11-10T03:50:46+00:00"
+    }
+   ]
+  },
+  {
+   "id": 13,
+   "score": 9.48,
+   "outlets": [
+    "ZDFheute",
+    "Deutschlandfunk",
+    "Handelsblatt"
+   ],
+   "regions": [
+    "DE"
+   ],
+   "trend": [],
+   "newest": "2026-11-10T11:14:51+00:00",
+   "articles": [
+    {
+     "source": "ZDFheute",
+     "region": "DE",
+     "weight": 1.0,
+     "title": "Weltweite CO2-Emissionen steigen",
+     "summary": "Obwohl die Welt weniger Öl verbraucht, steigen die klimaschädlichen Emissionen laut \"Global Carbon Project\" weiter. Um die Klimakrise zu bändigen, müssten sie aber deutlich sinken.",
+     "link": "https://www.zdfheute.de/politik/klima-co2-emissionen-global-carbon-project-100.html",
+     "image": "https://www.zdfheute.de/assets/co2-emissionen-102~384x216?cb=1794288121838",
+     "aggregator": false,
+     "published": "2026-11-10T05:21:00+00:00"
+    },
+    {
+     "source": "Deutschlandfunk",
+     "region": "DE",
+     "weight": 0.95,
+     "title": "\"Global Carbon Project\" - CO2-Ausstoß aus fossilen Brennstoffen sinkt leicht - insgesamt steigen klimaschädliche Emissionen aber",
+     "summary": "​Die weltweiten klimaschädlichen CO2-Emissionen aus fossilen Brennstoffen werden in diesem Jahr voraussichtlich sinken. ‌Laut einem ⁠Bericht des Forschungsnetzwerks \"Global Carbon Project\" dürfte der Ausstoß im Vergleich zum Vorjahr um 0,4 Prozent zurückgehen, auf insgesamt rund 38 Milliarden Tonnen Kohlendioxid.",
+     "link": "https://www.deutschlandfunk.de/co2-ausstoss-aus-fossilen-brennstoffen-sinkt-leicht-insgesamt-steigen-klimaschaedliche-emissionen-ab-100.html",
+     "image": "https://bilder.deutschlandfunk.de/b5/0d/76/db/b50d76db-328b-4733-916c-c6ec2e2889e2/kraftwerk-china-100-1920x1920.jpg",
+     "aggregator": false,
+     "published": "2026-11-10T11:14:51+00:00"
+    },
+    {
+     "source": "Handelsblatt",
+     "region": "DE",
+     "weight": 0.9,
+     "title": "Klimakrise: Weltweite CO2-Emissionen steigen – trotz Rückgang beim Öl",
+     "summary": "Die Welt verbraucht weniger Öl – und trotzdem steigen die klimaschädlichen Emissionen noch immer. Dabei hätte man eigentlich längst die Kurve bekommen müssen, um die Krise zu bändigen.",
+     "link": "https://www.handelsblatt.com/politik/international/klimakrise-weltweite-co2-emissionen-steigen-trotz-rueckgang-beim-oel/100268579.html",
+     "image": "https://images.handelsblatt.com/mTerJ7AIaec0/cover/900/506/0/0/106/105/0.5/0.5/kraftwerk-in-westchina.jpg",
+     "aggregator": false,
+     "published": "2026-11-10T10:59:13+00:00"
+    }
+   ]
+  },
+  {
+   "id": 14,
+   "score": 9.38,
+   "outlets": [
+    "tagesschau",
+    "Deutschlandfunk",
+    "heise online"
+   ],
+   "regions": [
+    "DE",
+    "INT"
+   ],
+   "trend": [],
+   "newest": "2026-11-10T11:14:51+00:00",
+   "articles": [
+    {
+     "source": "tagesschau",
+     "region": "DE",
+     "weight": 1.0,
+     "title": "Frankreich macht Iran für Cyberangriffe auf Supermarkt-Kühltruhen verantwortlich",
+     "summary": "In mehreren Ländern Europas hatte es zuletzt Cyberangriffe auf Supermarkt-Kühlanlagen gegeben - als möglicher Urheber galt Russland. Der französische Außenminister machte nun Iran für die Vorfälle in Frankreich verantwortlich.",
+     "link": "https://www.tagesschau.de/ausland/europa/kuehlanlagen-cyberangriffe-100.html",
+     "image": "https://images.tagesschau.de/image/f526d0b5-6aea-4321-bb81-fdf915d039f4/AAABocFH_aQ/AAABnSSvrFg/16x9-big/kuehlanlagen-frankreich-100.jpg?width=1920",
+     "aggregator": false,
+     "published": "2026-11-09T17:51:23+00:00"
+    },
+    {
+     "source": "tagesschau Ausland",
+     "region": "INT",
+     "weight": 1.0,
+     "title": "Frankreich macht Iran für Cyberangriffe auf Supermarkt-Kühltruhen verantwortlich",
+     "summary": "In mehreren Ländern Europas hatte es zuletzt Cyberangriffe auf Supermarkt-Kühlanlagen gegeben - als möglicher Urheber galt Russland. Der französische Außenminister machte nun Iran für die Vorfälle in Frankreich verantwortlich.",
+     "link": "https://www.tagesschau.de/ausland/europa/kuehlanlagen-cyberangriffe-100.html",
+     "image": "https://images.tagesschau.de/image/f526d0b5-6aea-4321-bb81-fdf915d039f4/AAABocFH_aQ/AAABnSSvrFg/16x9-big/kuehlanlagen-frankreich-100.jpg?width=1920",
+     "aggregator": false,
+     "published": "2026-11-09T17:51:23+00:00"
+    },
+    {
+     "source": "Deutschlandfunk",
+     "region": "DE",
+     "weight": 0.95,
+     "title": "Supermärkte - Frankreich macht iranische Revolutionsgarden für Cyberangriffe auf Kühlsysteme verantwortlich",
+     "summary": "Frankreich macht die iranischen Revolutionsgarden für die Cyberangriffe auf Supermarkt-Kühlsysteme verantwortlich. Der französische Außenminister Barrot teilte mit, zu diesem Ergebnis seien Untersuchungen staatlicher Behörden gekommen.",
+     "link": "https://www.deutschlandfunk.de/frankreich-macht-iranische-revolutionsgarden-fuer-cyberangriffe-auf-kuehlsysteme-verantwortlich-106.html",
+     "image": "https://bilder.deutschlandfunk.de/09/e9/64/58/09e96458-6ffc-425f-86b0-636a168a80ca/hackerangriff-supermaerkte-100-1920x1920.jpg",
+     "aggregator": false,
+     "published": "2026-11-10T11:14:51+00:00"
+    },
+    {
+     "source": "heise online",
+     "region": "DE",
+     "weight": 0.85,
+     "title": "Frankreich: Iran steckt hinter Cyberangriffen auf Kühlsysteme",
+     "summary": "Für die Sabotage von Kühlsystemen in mehreren europäischen Ländern ist nach Erkenntnissen der französischen Regierung der Iran verantwortlich.",
+     "link": "https://www.heise.de/news/Frankreich-Iran-steckt-hinter-Cyberangriffen-auf-Kuehlsysteme-11517966.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
+     "image": null,
+     "aggregator": false,
+     "published": "2026-11-09T17:19:00+00:00"
+    }
+   ]
+  },
+  {
+   "id": 15,
+   "score": 9.36,
+   "outlets": [
+    "SPIEGEL",
+    "ZEIT ONLINE",
+    "n-tv",
+    "sportschau.de"
+   ],
+   "regions": [
+    "DE"
+   ],
+   "trend": [],
+   "newest": "2026-11-10T10:35:48+00:00",
+   "articles": [
+    {
+     "source": "SPIEGEL",
+     "region": "DE",
+     "weight": 0.9,
+     "title": "Felix Nmecha: Dortmund-Profi äußert sich zu umstrittenen Torjubel",
+     "summary": "Felix Nmecha legt nach Toren gern eine imaginäre Krone ins Gras. Die Geste wird mit Netzwerken in Verbindung gebracht, die Homosexualität als »Sünde« darstellen. Nmecha spricht nun von einem »Missverständnis«.",
+     "link": "https://www.spiegel.de/sport/fussball/felix-nmecha-dortmund-profi-aeussert-sich-zu-umstrittenen-torjubel-a-30cda9a9-b8e8-4d1f-a62f-36f75d859d22#ref=rss",
+     "image": "https://cdn.prod.www.spiegel.de/images/8d94d26b-f929-426c-9793-14e707ef0956_w520_r2.08_fpx33.34_fpy50.jpg",
+     "aggregator": false,
+     "published": "2026-11-10T07:01:00+00:00"
+    },
+    {
+     "source": "ZEIT ONLINE",
+     "region": "DE",
+     "weight": 0.9,
+     "title": "Felix Nmecha: BVB-Spieler Nmecha äußert sich zu umstrittenem Torjubel",
+     "summary": "Felix Nmecha geriet wegen einer Geste mit Bezug zu einem evangelikalen Netzwerk mit queerfeindlichen Inhalten in die Kritik. Nun distanzierte er sich von Diskriminierung.",
+     "link": "https://www.zeit.de/sport/2026-11/felix-nmecha-torjubel-krone-ballers-in-god-bvb-gxe",
+     "image": "https://img.zeit.de/sport/2026-11/felix-nmecha-torjubel-krone-ballers-in-god-bvb-gxe-foto-1/original__640x360",
+     "aggregator": false,
+     "published": "2026-11-10T10:35:48+00:00"
+    },
+    {
+     "source": "n-tv",
+     "region": "DE",
+     "weight": 0.8,
+     "title": "\"Einige Missverständnisse\": Nmecha äußert sich zu Ärger um seinen Jubel",
+     "summary": "Der Jubel als Zeichen für Diskriminierung und Ausgrenzung? Felix Nmecha erntet für seine umstrittene Geste nach seinen Toren viel Kritik, auch ein Gespräch beim DFB steht an. Der BVB-Profi versichert, er werde einfach nur missverstanden.",
+     "link": "https://www.n-tv.de/sport/fussball/Nmecha-aeussert-sich-zu-Aerger-um-seinen-Jubel-id31514612.html",
+     "image": "https://www.n-tv.de/img/31514622/1794294676/Img_4_3/250/632146450.jpg",
+     "aggregator": false,
+     "published": "2026-11-10T06:38:11+00:00"
+    },
+    {
+     "source": "sportschau.de",
+     "region": "DE",
+     "weight": 0.6,
+     "title": "Nähe zu evangelikalen Netzwerken? Nmecha weist Kritik zurück",
+     "summary": "Nähe zu evangelikalen Netzwerken? Nmecha weist Kritik zurück sportschau.de Felix Nmecha äußert sich zur Jubel-Debatte BILD Fadenscheinige Erklärung: Nmecha spielt den Kronzeugen schlecht n-tv.de Felix Nmecha: BVB-Spieler Nmecha äußert sich zu umstrittenem Torjubel DIE ZEIT Felix Nmecha: Dortmund-Profi äußert sich zu umstrittenen Torjubel Spiegel",
+     "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOQ2lDOUJMTXVMMTJhYU5MV2Rld3ZrU0JPV0NSeHBaVVJ4TkNVZXFnNU5fWW5iT1QzbFBMa2pkVGRpT3g1Uy1rLS03Qng4S1pFbVhLZ3g5TEdObG1WcG1vZGsxaUo3clQ4Q3czTmM3bzItSnRpVWtHaVB5REVTTngxTDg5QVpOY3B6RDAyRGdWYWpoZ0tTekd1QmtnM0g?oc=5",
+     "image": null,
+     "aggregator": true,
+     "published": "2026-11-10T07:07:05+00:00"
+    }
+   ]
+  },
+  {
+   "id": 16,
+   "score": 9.28,
+   "outlets": [
+    "Deutschlandfunk",
+    "ORF",
+    "DER STANDARD"
+   ],
+   "regions": [
+    "AT",
+    "DE"
+   ],
+   "trend": [],
+   "newest": "2026-11-10T11:14:51+00:00",
+   "articles": [
+    {
+     "source": "Deutschlandfunk",
+     "region": "DE",
+     "weight": 0.95,
+     "title": "Literatur - Booker Prize geht an John Harrison",
+     "summary": "Der britische Schriftsteller John Harrison erhält den renommierten Booker Prize für seinen Roman \"The End of Everything\".",
+     "link": "https://www.deutschlandfunk.de/booker-prize-geht-an-john-harrison-102.html",
+     "image": "https://bilder.deutschlandfunk.de/94/c9/ea/10/94c9ea10-7698-4dac-bcb5-c816a1c45588/booker-100-1920x1920.jpg",
+     "aggregator": false,
+     "published": "2026-11-10T11:14:51+00:00"
+    },
+    {
+     "source": "ORF",
+     "region": "AT",
+     "weight": 0.95,
+     "title": "Booker-Literaturpreis geht an M. John Harrison",
+     "summary": "",
+     "link": "https://orf.at/stories/3447743/",
+     "image": null,
+     "aggregator": false,
+     "published": "2026-11-09T23:15:42+00:00"
+    },
+    {
+     "source": "DER STANDARD",
+     "region": "AT",
+     "weight": 0.85,
+     "title": "Booker-Preis 2026 geht an Autor M. John Harrison",
+     "summary": "Der 81‑Jährige wird für seinen dystopischen Roman \"The End of Everything\" ausgezeichnet. Er ist der bisher älteste Gewinner des renommierten Preises",
+     "link": "https://www.derstandard.at/story/3000000348362/booker-literaturpreis-geht-an-81-j228hrigen-m-john-harrison?ref=rss",
+     "image": "https://i.ds.at/iadqzg/rs:fill:150:0/plain/lido-images/2026/11/10/428cf38c-ae96-4692-82b9-62c2aaf326c3.jpg",
+     "aggregator": false,
+     "published": "2026-11-10T07:22:31+00:00"
+    }
+   ]
+  },
+  {
+   "id": 17,
+   "score": 9.15,
+   "outlets": [
+    "tagesschau Inland",
+    "WirtschaftsWoche",
+    "WELT"
+   ],
+   "regions": [
+    "DE"
+   ],
+   "trend": [],
+   "newest": "2026-11-10T11:27:32+00:00",
+   "articles": [
+    {
+     "source": "tagesschau Inland",
+     "region": "DE",
+     "weight": 1.0,
+     "title": "Bund fördert Schwimmenlernen mit 20 Millionen Euro",
+     "summary": "Mehr als die Hälfte aller Grundschulkinder in Deutschland kann nicht sicher schwimmen. Mit einem Förderprogramm von 20 Millionen Euro will der Bund das ändern. Schwimmverbände und Hilfsorganisationen sollen dabei helfen.",
+     "link": "https://www.tagesschau.de/inland/foerderprogramm-bund-schwimmen-100.html",
+     "image": "https://images.tagesschau.de/image/825da6fc-947a-40b8-b773-c13747ce4301/AAABoacWcOE/AAABnSSvrFg/16x9-big/junge-schwimmbad-100.jpg?width=1920",
+     "aggregator": false,
+     "published": "2026-11-04T16:29:29+00:00"
+    },
+    {
+     "source": "WirtschaftsWoche",
+     "region": "DE",
+     "weight": 0.85,
+     "title": "E-Mobilität: Bund will E-Auto-Kaufprämie 2027 um 917 Millionen Euro aufstocken",
+     "summary": "Es gibt mehr Geld – zwar nicht für jeden Einzelnen, aber im Fördertopf für den Elektroautokauf. Für 2027 plant die Bundesregierung nun mehr als doppelt so viele Mittel wie ursprünglich geplant.",
+     "link": "https://www.wiwo.de/politik/deutschland/e-auto-kaufpraemie-bund-will-foerderung-2027-um-917-millionen-euro-erhoehen/100268738.html",
+     "image": "https://images.wiwo.de/C0ZVCHT0eUK8/cover/900/506/0/0/277/277/0.5/0.5/archiv-25.10.2025-niedersachsen-wilhelmshaven-zahlreiche-neue-elektrofahrzeuge-von-byd-stehen-a.jpg",
+     "aggregator": false,
+     "published": "2026-11-10T10:28:00+00:00"
+    },
+    {
+     "source": "WirtschaftsWoche",
+     "region": "DE",
+     "weight": 0.85,
+     "title": "Verteidigung: Bund zahlt 6,6 Milliarden Euro für KNDS-Einstieg",
+     "summary": "Der Bund steigt für Milliarden bei KNDS ein, um sich wichtige Schlüsseltechnologien zu sichern. Derweil gerät ein Großauftrag beim Rüstungskonzern ins Stocken.",
+     "link": "https://www.wiwo.de/politik/deutschland/knds-bund-zahlt-66-milliarden-euro-fuer-einstieg-bei-ruestungskonzern/100268628.html",
+     "image": "https://images.wiwo.de/mLzPqAGX-zQg/cover/900/506/0/0/313/312/0.5/0.5/file-photo-a-knds-sh20-helicopter-machine-gun-seen-at-the-55th-international-paris-airshow-at-le-bo.jpg",
+     "aggregator": false,
+     "published": "2026-11-10T09:55:00+00:00"
+    },
+    {
+     "source": "WELT",
+     "region": "DE",
+     "weight": 0.8,
+     "title": "Ifo-Institut wirft Bund Zweckentfremdung von mehr als der Hälfte der neuen Sonderschulden vor",
+     "summary": "21,6 Milliarden Euro neue Kredite, aber nur 10,1 Milliarden Euro zusätzliche Investitionen: Das Ifo-Institut kritisiert die Bundesregierung. Die Experten warnen vor der Belastung für künftige Generationen.",
+     "link": "https://www.welt.de/wirtschaft/article6af2ed38f0b67a4b246631c5/haushalt-ifo-institut-wirft-bund-zweckentfremdung-von-mehr-als-der-haelfte-der-neuen-sonderschulden-vor.html",
+     "image": "https://images.welt.de/6af2ed38f0b67a4b246631c5/23ac94335994bfe17a418220a00c1244/ci23x11-w1200/dpa-com-261022-935-1691509-jpg",
+     "aggregator": false,
+     "published": "2026-11-10T11:27:32+00:00"
+    }
+   ]
+  },
+  {
+   "id": 18,
+   "score": 9.02,
+   "outlets": [
+    "ORF",
+    "Handelsblatt",
+    "DER STANDARD"
+   ],
+   "regions": [
+    "AT",
+    "DE"
+   ],
+   "trend": [],
+   "newest": "2026-11-10T10:46:00+00:00",
+   "articles": [
+    {
+     "source": "ORF",
+     "region": "AT",
+     "weight": 0.95,
+     "title": "Zahl der Firmenpleiten legte im dritten Quartal zu",
+     "summary": "",
+     "link": "https://orf.at/stories/3447765/",
+     "image": null,
+     "aggregator": false,
+     "published": "2026-11-10T08:55:14+00:00"
+    },
+    {
+     "source": "Handelsblatt",
+     "region": "DE",
+     "weight": 0.9,
+     "title": "Immobilien: Mietsteigerung: In diesen Großstädten wird es besonders teuer – Entwicklung unterscheidet sich regional deutlich",
+     "summary": "Neue Zahlen des Verbands deutscher Pfandbriefbanken zeigen, wo die Mieten in den Metropolen im dritten Quartal 2026 am stärksten zulegen – und warum sich Kaufpreise anders entwickeln.",
+     "link": "https://www.handelsblatt.com/finanzen/immobilien/immobilien-wo-die-mieten-in-deutschland-am-staerksten-steigen/100266848.html",
+     "image": "https://images.handelsblatt.com/zERcFmBdzWPX/cover/900/506/0/0/70/142/0.5/0.5/mieten-statt-ausziehen.jpeg",
+     "aggregator": false,
+     "published": "2026-11-10T10:46:00+00:00"
+    },
+    {
+     "source": "DER STANDARD",
+     "region": "AT",
+     "weight": 0.85,
+     "title": "Zahl der Firmenpleiten legte im dritten Quartal zu",
+     "summary": "Vor allem Unternehmen im Dienstleistungsbereich, Handel und Bau sind betroffen. Gleichzeitig ist die Zahl der Firmenregistrierungen gesunken",
+     "link": "https://www.derstandard.at/story/3000000348406/zahl-der-firmenpleiten-legte-im-dritten-quartal-zu?ref=rss",
+     "image": "https://i.ds.at/_pAfRw/rs:fill:150:0/plain/lido-images/2026/11/10/c3b34a37-b487-4f85-8283-9a7d5965a69b.jpg",
+     "aggregator": false,
+     "published": "2026-11-10T09:12:00+00:00"
+    }
+   ]
+  },
+  {
+   "id": 19,
+   "score": 8.61,
+   "outlets": [
+    "ZDFheute",
+    "SPIEGEL",
+    "WirtschaftsWoche"
+   ],
+   "regions": [
+    "DE"
+   ],
+   "trend": [],
+   "newest": "2026-11-10T09:14:00+00:00",
+   "articles": [
+    {
+     "source": "ZDFheute",
+     "region": "DE",
+     "weight": 1.0,
+     "title": "Gasspeicher-Betreiber warnen vor Engpass bei extremer Kälte",
+     "summary": "Die Gasspeicher sind in Deutschland so niedrig gefüllt wie seit Jahren nicht. Betreiber warnen, dass es zu Versorgungsproblemen kommen könnte, sollte der Winter sehr kalt werden.",
+     "link": "https://www.zdfheute.de/wirtschaft/heizen-gasspeicher-warnung-engpass-winter-verband-100.html",
+     "image": "https://www.zdfheute.de/assets/gasspeicher-deutschland-112~384x216?cb=1794292873725",
+     "aggregator": false,
+     "published": "2026-11-10T07:43:00+00:00"
+    },
+    {
+     "source": "SPIEGEL",
+     "region": "DE",
+     "weight": 0.9,
+     "title": "Gas: Betreiber von Speichern warnen vor Engpässen bei extremer Kälte",
+     "summary": "Die Gasspeicher in Deutschland hatten laut Betreibern zuletzt einen »historisch niedrigen Füllstand«. Sollte der Winter hart werden, müssen Menschen womöglich frieren.",
+     "link": "https://www.spiegel.de/wirtschaft/service/gas-betreiber-von-speichern-warnen-vor-engpaessen-bei-extremer-kaelte-a-036cd1fc-eb5e-4092-8112-14360e310bb1#ref=rss",
+     "image": "https://cdn.prod.www.spiegel.de/images/6c0915e6-5dcc-4964-a854-4f42de3d54f1_w520_r2.08_fpx50_fpy74.jpg",
+     "aggregator": false,
+     "published": "2026-11-10T07:20:00+00:00"
+    },
+    {
+     "source": "WirtschaftsWoche",
+     "region": "DE",
+     "weight": 0.85,
+     "title": "Energie: Gasspeicherbetreiber warnen vor Gasengpässen bei extremer Kälte",
+     "summary": "Niedrige Gasspeicherstände könnten für Deutschland bei einem kalten Winter zum Problem werden. Der Branchenverband INES fordert staatliche Maßnahmen.",
+     "link": "https://www.wiwo.de/unternehmen/energie/gasspeicher-fuellstand-gasspeicherbetreiber-warnen-vor-engpaessen-bei-extremer-kaelte/100268705.html",
+     "image": "https://images.wiwo.de/MOSyKX7wDAcS/cover/900/506/0/0/306/307/0.5/0.5/archiv-06.03.2026-niedersachsen-friedeburg-technische-anlagen-zur-speicherung-von-erdgas-in-unt.jpg",
+     "aggregator": false,
+     "published": "2026-11-10T09:14:00+00:00"
+    }
+   ]
+  },
+  {
+   "id": 20,
+   "score": 8.54,
+   "outlets": [
+    "SPIEGEL",
+    "DER STANDARD",
+    "n-tv"
+   ],
+   "regions": [
+    "AT",
+    "DE"
+   ],
+   "trend": [],
+   "newest": "2026-11-10T10:14:00+00:00",
+   "articles": [
+    {
+     "source": "SPIEGEL",
+     "region": "DE",
+     "weight": 0.9,
+     "title": "US-Skistar: Lindsey Vonn »ziemlich nervös« vor nächster OP",
+     "summary": "Mit einem emotionalen Video gibt Lindsey Vonn Einblicke in ihr Seelenleben. Sie bete dafür, dass die neunte OP der letzte Eingriff sein wird – und rechnet damit, dass sie noch monatelang ausfallen wird.",
+     "link": "https://www.spiegel.de/sport/wintersport/us-skistar-lindsey-vonn-ziemlich-nervoes-vor-naechster-op-a-1e4b90c7-b46a-4a36-b365-15e4b9993378#ref=rss",
+     "image": "https://cdn.prod.www.spiegel.de/images/8c9eb01c-d3b4-4382-bd4a-378b0cd211e0_w520_r2.08_fpx47.54_fpy54.98.jpg",
+     "aggregator": false,
+     "published": "2026-11-10T10:14:00+00:00"
+    },
+    {
+     "source": "DER STANDARD",
+     "region": "AT",
+     "weight": 0.85,
+     "title": "US-Skistar Vonn vor neunter OP \"ziemlich nervös\"",
+     "summary": "Kreuzband-Eingriff hat weitere lange Rehazeit zur Folge. Sie hoffe und bete, dass es ihre letzte Operation sein werde",
+     "link": "https://www.derstandard.at/story/3000000348375/us-skistar-vonn-vor-neunter-op-ziemlich-nervoes?ref=rss",
+     "image": "https://i.ds.at/CtnJaA/rs:fill:150:0/plain/lido-images/2026/11/10/5bcf7143-1545-425c-8024-f52fc009b3d2.jpg",
+     "aggregator": false,
+     "published": "2026-11-10T07:59:59+00:00"
+    },
+    {
+     "source": "n-tv",
+     "region": "DE",
+     "weight": 0.8,
+     "title": "Zum neunten Mal unterm Messer: \"Ziemlich nervöse\" Lindsey Vonn \"betet\" um letzte OP",
+     "summary": "Nach einem schweren Sturz unters Messer zu kommen, kennt Ski-Star Lindsey Vonn zur Genüge. Und doch ist der Amerikanerin auch vor ihrer neunten OP bange.",
+     "link": "https://www.n-tv.de/sport/Ziemlich-nervoese-Lindsey-Vonn-betet-um-letzte-OP-id31514114.html",
+     "image": "https://www.n-tv.de/img/30374231/1771353870/Img_4_3/250/image.jpg",
+     "aggregator": false,
+     "published": "2026-11-09T21:28:59+00:00"
+    }
+   ]
+  },
+  {
+   "id": 21,
+   "score": 8.17,
+   "outlets": [
+    "tagesschau Wirtschaft",
+    "heise online",
+    "DER STANDARD"
+   ],
+   "regions": [
+    "AT",
+    "DE"
+   ],
+   "trend": [],
+   "newest": "2026-11-10T08:12:02+00:00",
+   "articles": [
+    {
+     "source": "tagesschau Wirtschaft",
+     "region": "DE",
+     "weight": 1.0,
+     "title": "Mobilfunkunternehmen Vodafone plant Abbau von 2.300 Stellen",
+     "summary": "Der Telekommunikationskonzern Vodafone muss sparen. In Deutschland soll nun rund jeder fünfte Job wegfallen - insgesamt 2.300 Stellen. Dafür will der Konzern stärker Künstliche Intelligenz einsetzen.",
+     "link": "https://www.tagesschau.de/wirtschaft/unternehmen/vodafone-stellenabbau-102.html",
+     "image": "https://images.tagesschau.de/image/166ca868-0a0f-4ad9-9d5c-2d220ef48fcc/AAABocCm9EM/AAABnSSvrFg/16x9-big/vodafone-duesseldorf-100.jpg?width=1920",
+     "aggregator": false,
+     "published": "2026-11-09T16:09:03+00:00"
+    },
+    {
+     "source": "heise online",
+     "region": "DE",
+     "weight": 0.85,
+     "title": "Vodafone baut in Deutschland rund 2300 Stellen ab",
+     "summary": "Vodafone streicht fast jeden fünften Arbeitsplatz in Deutschland. Der Konzern begründet den Einschnitt mit einem Markt, der sich grundlegend verändert.",
+     "link": "https://www.heise.de/news/Vodafone-baut-in-Deutschland-rund-2300-Stellen-ab-11517302.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
+     "image": null,
+     "aggregator": false,
+     "published": "2026-11-09T11:17:00+00:00"
+    },
+    {
+     "source": "DER STANDARD",
+     "region": "AT",
+     "weight": 0.85,
+     "title": "Massiver Stellenabbau: Vodafone Deutschland macht schlechtere Geschäfte",
+     "summary": "Jede fünfte Stelle soll im deutschen Vodafone-Konzern wegfallen. Es soll verstärkt KI eingesetzt werden. Der Umsatz im ersten Halbjahr stieg lediglich schwach",
+     "link": "https://www.derstandard.at/story/3000000348377/vodafone-deutschland-macht-schlechtere-gesch228fte?ref=rss",
+     "image": "https://i.ds.at/eKCNpA/rs:fill:150:0/plain/lido-images/2026/11/10/a5fe8350-68b0-4b1a-83ad-3177ff84172a.jpg",
+     "aggregator": false,
+     "published": "2026-11-10T08:12:02+00:00"
+    }
+   ]
+  },
+  {
+   "id": 22,
+   "score": 7.9,
+   "outlets": [
+    "tagesschau",
+    "SRF News",
+    "n-tv"
+   ],
+   "regions": [
+    "CH",
+    "DE"
+   ],
+   "trend": [],
+   "newest": "2026-11-10T07:06:01+00:00",
+   "articles": [
+    {
+     "source": "tagesschau",
+     "region": "DE",
+     "weight": 1.0,
+     "title": "Forschungsbericht: Fossile CO2-Emissionen gehen leicht zurück",
+     "summary": "Die UN-Klimakonferenz sucht nach Wegen aus den fossilen Energieträgern. Aktuelle Zahlen zeigen: Die fossilen CO2-Emissionen gehen leicht zurück. Doch Experten warnen, dies könne nur ein vorübergehender Effekt sein. Von Simon Plentinger.",
+     "link": "https://www.tagesschau.de/wissen/klima/emissionen-klimawandel-global-carbon-budget-100.html",
+     "image": "https://images.tagesschau.de/image/09fb1fb6-5c90-4644-866b-94e3adccf2f8/AAABld2mR9Y/AAABnSSvrFg/16x9-big/strom-klima-100.jpg?width=1920",
+     "aggregator": false,
+     "published": "2026-11-10T04:01:04+00:00"
+    },
+    {
+     "source": "tagesschau Wirtschaft",
+     "region": "DE",
+     "weight": 1.0,
+     "title": "Forschungsbericht: Fossile CO2-Emissionen gehen leicht zurück",
+     "summary": "Die UN-Klimakonferenz sucht nach Wegen aus den fossilen Energieträgern. Aktuelle Zahlen zeigen: Die fossilen CO2-Emissionen gehen leicht zurück. Doch Experten warnen, dies könne nur ein vorübergehender Effekt sein. Von Simon Plentinger.",
+     "link": "https://www.tagesschau.de/wissen/klima/emissionen-klimawandel-global-carbon-budget-100.html",
+     "image": "https://images.tagesschau.de/image/09fb1fb6-5c90-4644-866b-94e3adccf2f8/AAABld2mR9Y/AAABnSSvrFg/16x9-big/strom-klima-100.jpg?width=1920",
+     "aggregator": false,
+     "published": "2026-11-10T04:01:04+00:00"
+    },
+    {
+     "source": "SRF News",
+     "region": "CH",
+     "weight": 0.95,
+     "title": "Ist das die Klimawende? – Wegen Irankrieg – Ausstoss fossiler Treibhausgase sinkt",
+     "summary": "Nach dem Rekordjahr 2025 gehen die Emissionen aus der Verbrennung von Öl und Gas 2026 um 0.4 Prozent zurück.",
+     "link": "https://www.srf.ch/news/international/ist-das-die-klimawende-wegen-irankrieg-ausstoss-fossiler-treibhausgase-sinkt",
+     "image": "https://www.srf.ch/static/cms/images//320ws/227bc9e.webp",
+     "aggregator": false,
+     "published": "2026-11-10T04:58:46+00:00"
+    },
+    {
+     "source": "n-tv",
+     "region": "DE",
+     "weight": 0.8,
+     "title": "Trotz Rückgang beim Öl: Weltweite CO2-Emissionen steigen weiter",
+     "summary": "Es ist mutmaßlich eine Folge des Iran-Krieges: Die CO2-Emissionen durch fossile Brennstoffe gehen in diesem Jahr zurück. Trotzdem gibt es für Forscher keinen Grund zum Jubeln.",
+     "link": "https://www.n-tv.de/politik/Weltweite-CO2-Emissionen-steigen-weiter-id31514621.html",
+     "image": "https://www.n-tv.de/img/31514681/1794296090/Img_4_3/250/630477679.jpg",
+     "aggregator": false,
+     "published": "2026-11-10T07:06:01+00:00"
+    }
+   ]
+  },
+  {
+   "id": 23,
+   "score": 7.83,
+   "outlets": [
+    "SPIEGEL",
+    "WELT"
+   ],
+   "regions": [
+    "DE"
+   ],
+   "trend": [],
+   "newest": "2026-11-10T11:23:22+00:00",
+   "articles": [
+    {
+     "source": "SPIEGEL",
+     "region": "DE",
+     "weight": 0.9,
+     "title": "Vincent Kompany: FC Bayern-Trainer nach Hirnhautreizung offenbar zurück",
+     "summary": "Bayern-Trainer Vincent Kompany laborierte an einer Hirnhautreizung. Nun scheint es gesundheitlich aber bergauf zu gehen: Laut übereinstimmenden Medienberichten ist er wieder arbeitsbereit.",
+     "link": "https://www.spiegel.de/sport/fussball/vincent-kompany-fc-bayern-trainer-nach-hirnhautreizung-offenbar-zurueck-a-e9a326ad-212b-4414-b4c7-2cc5aa40c471#ref=rss",
+     "image": "https://cdn.prod.www.spiegel.de/images/71461f35-69d6-4a08-a634-826577e26571_w520_r2.08_fpx53.99_fpy55.jpg",
+     "aggregator": false,
+     "published": "2026-11-10T10:47:00+00:00"
+    },
+    {
+     "source": "WELT",
+     "region": "DE",
+     "weight": 0.8,
+     "title": "Kompany zurück auf dem Bayern-Gelände – mit einer Armschlinge",
+     "summary": "18 Tage nach seinem Zusammenbruch ist Vincent Kompany zurück an der Säbener Straße. Ein erstes Foto zeigt den Bayern-Trainer mit Armschlinge an seinem Arbeitsplatz.",
+     "link": "https://www.welt.de/sport/fussball/bundesliga/fc-bayern-muenchen/article6af2f9f742c2bfde5b992775/fc-bayern-vincent-kompany-zurueck-auf-bayern-gelaende-er-traegt-eine-armschlinge.html",
+     "image": "https://images.welt.de/6af2f9f742c2bfde5b992775/1499b927f90003aba63e50ef1b4b2a99-master/ci23x11-w1200/bildschirmfoto-2026-11-10-um-12-05-02-png",
+     "aggregator": false,
+     "published": "2026-11-10T11:23:22+00:00"
+    },
+    {
+     "source": "Spiegel",
+     "region": "DE",
+     "weight": 0.6,
+     "title": "18 Tage nach Zusammenbruch: Kompany ist offenbar zurück beim FC Bayern",
+     "summary": "18 Tage nach Zusammenbruch: Kompany ist offenbar zurück beim FC Bayern Spiegel FC Bayern: Nach Zusammenbruch beim Training der U23 – Kompany wieder da! BILD Bayern-Trainer Vincent Kompany zurück an der Säbener Straße WEB.DE FC Bayern: Vincent Kompany kehrt an die Säbener Straße zurück - Sport - SZ.de SZ.de Kompany ist zurück an der Säbener Straße Kicker",
+     "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxORF9aVTRHTjJmejV4eTZBQjdDV2NFay00NUROWWx5RFRnZ3NOOWRPMTY4ZEFqajRibVh2QVNTajFFWmFZOTNuRDI2c1YyLXNpOXZWcFpyb25Edm1wQ3ltSFZadVdoWWJvZ2ljT05Tb2NzNFAzbzFzWGJNSUtKel9WRzVfeDV1ZUV0clZtM1JPaXlwS2Q1MHBJZ2pPU0dUMFAtT0ZQaUdCOHg0WVo5d1JYTjVpVkdXdkltZ092LVNkcTZCYVotOFZCTkxlSUs3bTY0Qk9qNnB4Ry1RYkpuUTl5bU5B?oc=5",
+     "image": null,
+     "aggregator": true,
+     "published": "2026-11-10T10:47:00+00:00"
+    }
+   ]
+  },
+  {
+   "id": 24,
+   "score": 7.7,
+   "outlets": [
+    "tagesschau",
+    "Deutschlandfunk"
+   ],
+   "regions": [
+    "DE"
+   ],
+   "trend": [],
+   "newest": "2026-11-10T11:18:18+00:00",
+   "articles": [
+    {
+     "source": "tagesschau",
+     "region": "DE",
+     "weight": 1.0,
+     "title": "Prozessauftakt wegen Untreue gegen frühere RBB-Intendantin Schlesinger",
+     "summary": "Prozessauftakt wegen Untreue gegen frühere RBB-Intendantin Schlesinger",
+     "link": "https://www.tagesschau.de/video/video-1681316.html",
+     "image": "https://images.tagesschau.de/image/97ffd101-4e45-4e73-b635-b69620024e6c/AAABocUtyNM/AAABnSSvrFg/16x9-big/sendungsbild-1825364.jpg?width=1920",
+     "aggregator": false,
+     "published": "2026-11-10T11:18:18+00:00"
+    },
+    {
+     "source": "Deutschlandfunk",
+     "region": "DE",
+     "weight": 0.95,
+     "title": "Berliner Landgericht - Prozess gegen frührere RBB-Intendantin Schlesinger begonnen",
+     "summary": "Am Berliner Landgericht hat der Prozess gegen die frühere RBB-Intendantin Schlesinger und drei weitere Angeklagte begonnen. Die Generalstaatsanwaltschaft wirft ihnen Untreue vor. Laut Anklage sollen sie dem Rundfunk Berlin-Brandenburg zwischen Januar 2018 und Juli 2022 einen finanziellen Schaden von 1,7 Millionen Euro verursacht haben.",
+     "link": "https://www.deutschlandfunk.de/prozess-gegen-fruehrere-rbb-intendantin-schlesinger-begonnen-100.html",
+     "image": "https://bilder.deutschlandfunk.de/7a/5a/dc/64/7a5adc64-ea05-4d53-b26b-f58de65cebd8/patricia-schlesinger-114-1920x1920.jpg",
+     "aggregator": false,
+     "published": "2026-11-10T11:14:51+00:00"
+    }
+   ]
+  },
+  {
+   "id": 25,
+   "score": 7.68,
+   "outlets": [
+    "tagesschau",
+    "Deutschlandfunk"
+   ],
+   "regions": [
+    "DE"
+   ],
+   "trend": [],
+   "newest": "2026-11-10T11:14:51+00:00",
+   "articles": [
+    {
+     "source": "tagesschau",
+     "region": "DE",
+     "weight": 1.0,
+     "title": "Gesetz gegen überhöhte Preise: Deckel für Ticketbörsen in der Planung",
+     "summary": "Extreme Preisaufschläge beim Weiterverkauf von Tickets - das möchte Justiz- und Verbraucherschutzministerin Hubig in Zukunft unterbinden. Dafür ist ein Gesetz nun in der internen Abstimmung.",
+     "link": "https://www.tagesschau.de/inland/innenpolitik/ticket-weiterverkauf-beschraenkung-100.html",
+     "image": "https://images.tagesschau.de/image/37a2c120-98ef-4700-a86a-026375756216/AAABocRdGv4/AAABnSSvrFg/16x9-big/konzertkarten-102.jpg?width=1920",
+     "aggregator": false,
+     "published": "2026-11-10T04:10:12+00:00"
+    },
+    {
+     "source": "tagesschau Inland",
+     "region": "DE",
+     "weight": 1.0,
+     "title": "Gesetz gegen überhöhte Preise: Deckel für Ticketbörsen in der Planung",
+     "summary": "Extreme Preisaufschläge beim Weiterverkauf von Tickets - das möchte Justiz- und Verbraucherschutzministerin Hubig in Zukunft unterbinden. Dafür ist ein Gesetz nun in der internen Abstimmung.",
+     "link": "https://www.tagesschau.de/inland/innenpolitik/ticket-weiterverkauf-beschraenkung-100.html",
+     "image": "https://images.tagesschau.de/image/37a2c120-98ef-4700-a86a-026375756216/AAABocRdGv4/AAABnSSvrFg/16x9-big/konzertkarten-102.jpg?width=1920",
+     "aggregator": false,
+     "published": "2026-11-10T04:10:12+00:00"
+    },
+    {
+     "source": "Deutschlandfunk",
+     "region": "DE",
+     "weight": 0.95,
+     "title": "Ticketbörsen - Bundesjustizministerin Hubig will gesetzlichen Preisdeckel einführen",
+     "summary": "Bundesjustizministerin Hubig hat angesichts der Preise auf dem Ticket-Zweitmarkt angekündigt, dass Preisaufschläge künftig begrenzt werden.",
+     "link": "https://www.deutschlandfunk.de/bundesjustizministerin-hubig-will-gesetzlichen-preisdeckel-einfuehren-100.html",
+     "image": "https://bilder.deutschlandfunk.de/5e/7a/a9/77/5e7aa977-83c0-4c4c-a01c-5bb7fe1128c6/viagogo-ticket-zweitmarkt-100-1920x1920.jpg",
+     "aggregator": false,
+     "published": "2026-11-10T11:14:51+00:00"
+    }
+   ]
+  },
+  {
+   "id": 26,
+   "score": 7.68,
+   "outlets": [
+    "ZDFheute",
+    "Deutschlandfunk"
+   ],
+   "regions": [
+    "DE"
+   ],
+   "trend": [],
+   "newest": "2026-11-10T11:14:51+00:00",
+   "articles": [
+    {
+     "source": "ZDFheute",
+     "region": "DE",
+     "weight": 1.0,
+     "title": "Polizei durchsucht Wohnungen - auch \"Hells Angels\" im Visier",
+     "summary": "Rund 300 Polizisten haben in Berlin neun Wohnungen und ein Vereinsheim der Rockergruppe \"Hells Angels\" durchsucht. Es geht um Schusswaffen und organisierte Kriminalität.",
+     "link": "https://www.zdfheute.de/panorama/berlin-grossrazzia-hells-angels-polizei-100.html",
+     "image": "https://www.zdfheute.de/assets/berlin-razzia-hells-angels-100~384x216?cb=1794277907038",
+     "aggregator": false,
+     "published": "2026-11-10T05:03:00+00:00"
+    },
+    {
+     "source": "Deutschlandfunk",
+     "region": "DE",
+     "weight": 0.95,
+     "title": "Polizei - Razzia gegen Schusswaffenkriminalität in Berlin - auch \"Hells Angels\"-Vereinsheim durchsucht",
+     "summary": "Die Berliner Polizei ist mit einer Razzia gegen Schusswaffenkriminalität vorgegangen.",
+     "link": "https://www.deutschlandfunk.de/razzia-gegen-schusswaffenkriminalitaet-in-berlin-auch-hells-angels-vereinsheim-durchsucht-100.html",
+     "image": "https://bilder.deutschlandfunk.de/37/27/3b/22/37273b22-e62a-4011-9e6c-711d08bfb762/berlin-razzia-schusswaffenkriminalitaet-100-768x768.jpg",
+     "aggregator": false,
+     "published": "2026-11-10T11:14:51+00:00"
+    }
+   ]
+  },
+  {
+   "id": 27,
+   "score": 7.67,
+   "outlets": [
+    "Deutsche Welle",
+    "Handelsblatt",
+    "STERN.de"
+   ],
+   "regions": [
+    "DE",
+    "INT"
+   ],
+   "trend": [],
+   "newest": "2026-11-10T10:01:00+00:00",
+   "articles": [
+    {
+     "source": "Deutsche Welle",
+     "region": "INT",
+     "weight": 0.95,
+     "title": "Trump setzt Stabschefin des Weißen Hauses vor die Tür",
+     "summary": "Wenige Tage nach dem verheerenden Wahldebakel seiner Republikaner macht US-Präsident Donald Trump einen politischen Hardliner zu seinem Türhüter im Oval Office. Die Opposition faucht.",
+     "link": "https://www.dw.com/de/trump-setzt-stabschefin-des-weißen-hauses-vor-die-tür/a-79883871?maca=de-rss-de-all-1119-xml-mrss",
+     "image": "https://static.dw.com/image/77602450_302.jpg",
+     "aggregator": false,
+     "published": "2026-11-07T10:24:00+00:00"
+    },
+    {
+     "source": "Handelsblatt",
+     "region": "DE",
+     "weight": 0.9,
+     "title": "Stephen Miller: Drei Dinge, die man zu Trumps neuem Stabschef wissen muss",
+     "summary": "Nach der Wahlniederlage der Republikaner verleiht der US-Präsident seinem loyalsten und radikalsten Weggefährten noch mehr Macht. Wer ist der Mann, der seit Jahren US-Politik prägt?",
+     "link": "https://www.handelsblatt.com/politik/international/usa-warum-trumps-neuer-stabschef-bei-republikanern-umstritten-ist/100268118.html",
+     "image": "https://images.handelsblatt.com/mHDTByc1xesu/cover/900/506/132/462/0/547/0.5/0.5/stephen-miller.jpg",
+     "aggregator": false,
+     "published": "2026-11-10T10:01:00+00:00"
+    },
+    {
+     "source": "STERN.de",
+     "region": "DE",
+     "weight": 0.6,
+     "title": "Dana White sagt Trump ab: „Null politische Ambitionen“",
+     "summary": "Dana White sagt Trump ab: „Null politische Ambitionen“ STERN.de Donald Trump tritt mit Kampfsportboss Dana White vor die Presse im Weißen Haus Spiegel Trump bezeichnet Sprecher-Angebot an Dana White als \"Scherz\" tagesschau.de Vor laufenden Kameras: Dana White lehnt Angebot von Donald Trump ab T-Online Folge 10: Annika Brockschmidt über Trumps neuen Sprecher: UFC-Chef ist gewalttätig RTL+",
+     "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNd29kUG5hWDVSejFkQ2YtTk9mcUVKc2Z4VWNVWmRHeFQzYU04Xzhub3hyRDlXdFo2b3lwamJ5LWtaQ0VBV2gtaEZ6SGZ3ekxlLS0wNmV6dFVFWlloWWVIVWRpb0tpX0xvSUo5X1RNd2FNeE43MTJLcmRMTzVCMXJZYjM4Q0V6ZkZFUGNCRGpBeFA1LXprUGVQQ05uYjhEZGhrSVl4Z0pZMGwzbmRrR0o4Yg?oc=5",
+     "image": null,
+     "aggregator": true,
+     "published": "2026-11-10T01:04:00+00:00"
+    }
+   ]
+  }
+ ]
+}
