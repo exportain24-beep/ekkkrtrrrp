@@ -1,0 +1,40 @@
+{
+ "date": "2026-11-10",
+ "slot": "morgen",
+ "publish_at": "2026-11-10T06:00:00+00:00",
+ "title": "FBI ermittelt in Nvidia-Affäre: Aktionäre verklagen Huang",
+ "duration": 44.8,
+ "stories": [
+  {
+   "headline": "FBI ermittelt in Nvidia-Affäre",
+   "region": "INT",
+   "pillar": "WIRTSCHAFT"
+  },
+  {
+   "headline": "Bund kauft Panzerbauer-Anteil",
+   "region": "DE",
+   "pillar": "WIRTSCHAFT"
+  },
+  {
+   "headline": "Preisdeckel für Ticketbörsen",
+   "region": "DE",
+   "pillar": "POLITIK"
+  },
+  {
+   "headline": "Aigner offiziell nominiert",
+   "region": "DE",
+   "pillar": "POLITIK"
+  }
+ ],
+ "comment": {
+  "text": "Sollte Jensen Huang Nvidia-Chef bleiben – ja oder nein?",
+  "done": false
+ },
+ "youtube_id": "dyDj58z2Gj4",
+ "facebook_id": "30396116616644807",
+ "buffer": {
+  "twitter": "6af29dd626f9e6aeeae3b878",
+  "tiktok": "6af29dd726f9e6aeeae3b8ef"
+ },
+ "created": "2026-11-10T04:30:15.271208+00:00"
+}
