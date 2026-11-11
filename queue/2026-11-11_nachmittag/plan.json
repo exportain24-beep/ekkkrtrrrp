@@ -1,0 +1,25 @@
+{
+  "format": "single",
+  "candidate_id": 16,
+  "pillar": "POLITIK",
+  "region": "DE",
+  "kicker": "TÜBINGEN",
+  "hook_screen": "PALMER SAGT AB!",
+  "hook_voice": "Boris Palmer sagt alle öffentlichen Termine ab.",
+  "beats": [
+    {"voice": "Schwerer Vorwurf gegen Tübingens Oberbürgermeister: Ein früheres Mitglied des Gemeinderats wirft ihm sexuelle Belästigung vor. Erhoben wurde der Vorwurf in den sozialen Medien.", "big": "VORWURF", "label": "sexuelle Belästigung"},
+    {"voice": "Palmer weist die Anschuldigung zurück. Trotzdem steht er unter Druck.", "big": "DEMENTI", "label": "Palmer bestreitet den Vorwurf"},
+    {"voice": "Auf Wunsch von Gemeinderatsmitgliedern meidet er jetzt die Öffentlichkeit – bis auf Weiteres.", "big": "0 TERMINE", "label": "öffentlich – bis auf Weiteres"}
+  ],
+  "loop_line": "Ein Oberbürgermeister ohne öffentliche Auftritte – wie lange kann Palmer so sein Amt führen?",
+  "headline": "Palmer sagt alle Auftritte ab",
+  "highlight": ["Palmer"],
+  "entities": ["Boris Palmer", "Tübingen", "Rathaus Tübingen"],
+  "youtube_title": "Boris Palmer sagt alle Auftritte ab: Wie lange noch?",
+  "description_lead": "Tübingens Oberbürgermeister Boris Palmer nimmt bis auf Weiteres keine öffentlichen Termine mehr wahr. Ein früheres Mitglied des Tübinger Gemeinderats wirft ihm in sozialen Medien sexuelle Belästigung vor – Palmer weist die Anschuldigung zurück.",
+  "tags": ["Boris Palmer", "Palmer", "Tübingen", "Oberbürgermeister Tübingen", "Gemeinderat Tübingen", "Baden-Württemberg", "Vorwürfe", "Belästigungsvorwürfe", "Rückzug", "Kommunalpolitik", "Politik Deutschland", "nachrichten aktuell", "nachrichten"],
+  "hashtags": ["#borispalmer", "#tübingen", "#politik"],
+  "facebook_caption_line1": "Boris Palmer zieht sich zurück: Tübingens OB sagt vorerst alle öffentlichen Termine ab.",
+  "facebook_question": "Ist ein vorläufiger Rückzug bei unbewiesenen Vorwürfen der richtige Schritt?",
+  "comment_question": "Soll Palmer bis zur Klärung der Vorwürfe auf öffentliche Auftritte verzichten – ja oder nein?"
+}
