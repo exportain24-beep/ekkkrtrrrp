@@ -1,0 +1,1778 @@
+{
+ "slot": {
+  "id": "morgen",
+  "time": "07:00",
+  "badge": "MORGEN-BRIEFING",
+  "label": "am Morgen",
+  "focus": "Nur Tie-Breaker – immer zuerst die populärsten, meistberichteten Nachrichten. Bei Gleichstand bevorzugt: Wichtigste Nachrichten der Nacht und des Morgens: internationale Eilmeldungen der Nacht und die größte politische Schlagzeile in Deutschland.",
+  "pillars": [
+   "POLITIK",
+   "WELT",
+   "WIRTSCHAFT",
+   "TECHNOLOGIE"
+  ],
+  "notify_subscribers": true
+ },
+ "slot_time": "2026-11-11T07:00:00+01:00",
+ "date_text": "Mittwoch, 11. November 2026",
+ "already_published": [
+  "Merz legt sich auf Aigner fest",
+  "Hubig zerpflückt Spritpreisdeckel",
+  "Ukraine-Truppe startet erste Übung",
+  "Trump: Iran-Angriffe unwahrscheinlich",
+  "Koalition streitet über Plastiksteuer",
+  "Todesschütze von Krakau ist tot",
+  "Trump: Abschiebekurs war „zu hart“",
+  "Vodafone streicht 2.300 Stellen",
+  "Trump: „Andere Form“ für die Ukraine",
+  "Nvidia-Aktie bricht nach Affäre ein",
+  "Orbán-Bruder festgenommen",
+  "Kushner: Europa soll mit Moskau reden",
+  "Nvidia-Chef gesteht Affäre",
+  "Paris: Iran hinter Kühltruhen-Hack",
+  "Vodafone: Jeder fünfte Job fällt weg",
+  "Abu Dhabi: Kreml blockt die EU ab",
+  "Trump zweifelt an Midterm-Ergebnis",
+  "Amtsenthebung gegen Hegseth beantragt",
+  "FBI ermittelt in Nvidia-Affäre",
+  "Bund kauft Panzerbauer-Anteil",
+  "Preisdeckel für Ticketbörsen",
+  "Aigner offiziell nominiert",
+  "Merz droht mit EU-Haushaltsblockade",
+  "Schlesinger-Prozess beginnt in Berlin",
+  "Kalifornien kippt Milliardärssteuer",
+  "Nmecha verteidigt umstrittenen Torjubel",
+  "Lebenslang im Fall Fabian",
+  "Ukraine-Gespräche ohne Europa?",
+  "Klingbeil will Steuerklasse III kippen",
+  "Iran unter Verdacht: Kühlregal-Hacks",
+  "Ukraine-Gespräche: Erste Einigung?",
+  "Steuerklassen III und V vor dem Aus",
+  "Nvidia-Affäre: Jetzt warnt Deutschland",
+  "Aigner sagt der AfD ab",
+  "Linke will Emde aus Fraktion werfen"
+ ],
+ "candidates": [
+  {
+   "id": 0,
+   "score": 26.26,
+   "outlets": [
+    "tagesschau",
+    "ZDFheute",
+    "Deutsche Welle",
+    "Deutschlandfunk",
+    "SRF News",
+    "SPIEGEL",
+    "ZEIT ONLINE",
+    "Handelsblatt",
+    "NZZ",
+    "DER STANDARD",
+    "WELT",
+    "n-tv",
+    "DIE ZEIT"
+   ],
+   "regions": [
+    "AT",
+    "CH",
+    "DE",
+    "INT"
+   ],
+   "trend": [],
+   "newest": "2026-11-11T03:58:08+00:00",
+   "articles": [
+    {
+     "source": "tagesschau",
+     "region": "DE",
+     "weight": 1.0,
+     "title": "US-Repräsentantenhaus lehnt Amtsenthebungsverfahren gegen Hegseth ab",
+     "summary": "Die Republikaner im US-Repräsentantenhaus haben einen Vorstoß zur Amtsenthebung von Verteidigungsminister Pete Hegseth abgewehrt. Sie stimmten nahezu geschlossen gegen eine entsprechende Resolution.",
+     "link": "https://www.tagesschau.de/ausland/amerika/hegseth-amtsenthebungsverfahren-gestoppt-100.html",
+     "image": "https://images.tagesschau.de/image/a69ad001-e56f-402d-a036-1e793a5e93fd/AAABocfM_Cs/AAABnSSvrFg/16x9-big/us-kapitol-164.jpg?width=1920",
+     "aggregator": false,
+     "published": "2026-11-11T00:19:26+00:00"
+    },
+    {
+     "source": "tagesschau Ausland",
+     "region": "INT",
+     "weight": 1.0,
+     "title": "US-Repräsentantenhaus lehnt Amtsenthebungsverfahren gegen Hegseth ab",
+     "summary": "Die Republikaner im US-Repräsentantenhaus haben einen Vorstoß zur Amtsenthebung von Verteidigungsminister Pete Hegseth abgewehrt. Sie stimmten nahezu geschlossen gegen eine entsprechende Resolution.",
+     "link": "https://www.tagesschau.de/ausland/amerika/hegseth-amtsenthebungsverfahren-gestoppt-100.html",
+     "image": "https://images.tagesschau.de/image/a69ad001-e56f-402d-a036-1e793a5e93fd/AAABocfM_Cs/AAABnSSvrFg/16x9-big/us-kapitol-164.jpg?width=1920",
+     "aggregator": false,
+     "published": "2026-11-11T00:19:26+00:00"
+    },
+    {
+     "source": "ZDFheute",
+     "region": "DE",
+     "weight": 1.0,
+     "title": "Hegseth nennt drohende Amtsenthebung eine \"Farce\"",
+     "summary": "In einer seltenen Pressekonferenz hat sich US-Verteidigungsminister Pete Hegseth gegen sein Amtsenthebungsverfahren gewehrt. Es handele sich um einen \"Schauprozess\".",
+     "link": "https://www.zdfheute.de/politik/ausland/hegseth-usa-amtsenthebung-pressekonferenz-100.html",
+     "image": "https://www.zdfheute.de/assets/pete-hegseth-134~384x216?cb=1794320399460",
+     "aggregator": false,
+     "published": "2026-11-10T15:00:00+00:00"
+    },
+    {
+     "source": "Deutsche Welle",
+     "region": "INT",
+     "weight": 0.95,
+     "title": "US-Republikaner will Amtsenthebung von Pentagon-Chef Hegseth",
+     "summary": "Der Abgeordnete Massie, dem US-Präsident Trump die Wiederwahl verdorben hatte, appelliert an den Kongress, Verteidigungsminister Pete Hegseth vor die Tür zu setzen. Doch die Erfolgsaussichten sind minimal.",
+     "link": "https://www.dw.com/de/us-republikaner-will-amtsenthebung-von-pentagon-chef-hegseth/a-79906935?maca=de-rss-de-all-1119-xml-mrss",
+     "image": "https://static.dw.com/image/79870352_302.jpg",
+     "aggregator": false,
+     "published": "2026-11-10T14:12:00+00:00"
+    },
+    {
+     "source": "Deutschlandfunk",
+     "region": "DE",
+     "weight": 0.95,
+     "title": "USA - Amtsenthebungsverfahren gegen Verteidigungsminister Hegseth scheitert im Repräsentantenhaus",
+     "summary": "Das Amtsenthebungsverfahren gegen US-Verteidigungsminister Hegseth ist gescheitert. Die Republikaner im Repräsentantenhaus stimmten nahezu geschlossen gegen den Vorstoß des republikanischen Abgeordneten Massie, der von den Demokraten unterstützt wurde.",
+     "link": "https://www.deutschlandfunk.de/amtsenthebungsverfahren-gegen-verteidigungsminister-hegseth-scheitert-im-repraesentantenhaus-100.html",
+     "image": "https://bilder.deutschlandfunk.de/19/9e/7a/3c/199e7a3c-88e2-4852-879f-3931d0728670/verteidigungsminister-pete-hegseth-100-1920x1920.jpg",
+     "aggregator": false,
+     "published": "2026-11-11T03:58:08+00:00"
+    },
+    {
+     "source": "SRF News",
+     "region": "CH",
+     "weight": 0.95,
+     "title": "Midterms 2026 – Impeachment von Verteidigungsminister Hegseth ist gescheitert",
+     "summary": "Das US-Repräsentantenhaus hat den Antrag zur Amtsenthebung von Verteidigungsminister Pete Hegseth abgelehnt.",
+     "link": "https://www.srf.ch/news/international/midterms-2026-impeachment-von-verteidigungsminister-hegseth-ist-gescheitert",
+     "image": "https://www.srf.ch/static/cms/images//320ws/3b2afc.webp",
+     "aggregator": false,
+     "published": "2026-11-10T23:23:37+00:00"
+    },
+    {
+     "source": "SPIEGEL",
+     "region": "DE",
+     "weight": 0.9,
+     "title": "Pete Hegseth: Republikaner lehnen Amtsenthebungsantrag im Repräsentantenhaus ab",
+     "summary": "Verschnaufpause für Pete Hegseth: Die Republikaner im Repräsentantenhaus haben sich demonstrativ hinter den US-Verteidigungsminister gestellt und einen Antrag auf ein Amtsenthebungsverfahren abgelehnt. Die Freude könnte aber von kurzer Dauer sein.",
+     "link": "https://www.spiegel.de/ausland/pete-hegseth-republikaner-lehnen-amtsenthebungsantrag-im-repraesentantenhaus-ab-a-a16fbebc-5f94-4266-bd4c-7b114e518b40#ref=rss",
+     "image": "https://cdn.prod.www.spiegel.de/images/8cfdc1cc-e04a-4650-9f8d-0f616e3c72ab_w520_r2.08_fpx48_fpy34.jpg",
+     "aggregator": false,
+     "published": "2026-11-10T23:53:00+00:00"
+    },
+    {
+     "source": "ZEIT ONLINE",
+     "region": "DE",
+     "weight": 0.9,
+     "title": "Pete Hegseth: US-Repräsentantenhaus lehnt Amtsenthebungsverfahren gegen Hegseth ab",
+     "summary": "Pete Hegseth steht wegen seiner Amtsführung und des Irankriegs in der Kritik. Die Republikaner haben eine Amtsenthebung des US-Verteidigungsministers vorerst verhindert.",
+     "link": "https://www.zeit.de/politik/ausland/2026-11/pete-hegseth-amtsenthebung-verteidigungsminister-usa-republikaner",
+     "image": "https://img.zeit.de/politik/ausland/2026-11/pete-hegseth-amtsenthebung-verteidigungsminister-usa-republikaner-foto-1/original__640x360",
+     "aggregator": false,
+     "published": "2026-11-10T23:27:45+00:00"
+    }
+   ]
+  },
+  {
+   "id": 1,
+   "score": 21.89,
+   "outlets": [
+    "tagesschau",
+    "ZDFheute",
+    "Deutsche Welle",
+    "ORF",
+    "Handelsblatt",
+    "NZZ",
+    "WirtschaftsWoche",
+    "heise online",
+    "DER STANDARD",
+    "Golem"
+   ],
+   "regions": [
+    "AT",
+    "CH",
+    "DE",
+    "INT"
+   ],
+   "trend": [],
+   "newest": "2026-11-11T04:03:00+00:00",
+   "articles": [
+    {
+     "source": "tagesschau",
+     "region": "DE",
+     "weight": 1.0,
+     "title": "Affäre von Nvidia-Chef Huang: Darum geht es beim Spionage-Verdacht",
+     "summary": "Der US-Chipkonzern Nvidia ermittelt gegen seinen Chef Jensen Huang wegen einer Affäre mit einer mutmaßlichen chinesischen Spionin. Welche Vorwürfe konkret im Raum stehen - und welche Folgen sie haben könnten.",
+     "link": "https://www.tagesschau.de/wirtschaft/unternehmen/faq-nvidia-spionage-100.html",
+     "image": "https://images.tagesschau.de/image/9d4d98a9-ed98-4d6a-9f9c-bd1d9782eb0d/AAABocCr9uU/AAABnSSvrFg/16x9-big/nvidia-logo-102.jpg?width=1920",
+     "aggregator": false,
+     "published": "2026-11-09T13:58:03+00:00"
+    },
+    {
+     "source": "tagesschau Wirtschaft",
+     "region": "DE",
+     "weight": 1.0,
+     "title": "Affäre von Nvidia-Chef Huang: Darum geht es beim Spionage-Verdacht",
+     "summary": "Der US-Chipkonzern Nvidia ermittelt gegen seinen Chef Jensen Huang wegen einer Affäre mit einer mutmaßlichen chinesischen Spionin. Welche Vorwürfe konkret im Raum stehen - und welche Folgen sie haben könnten.",
+     "link": "https://www.tagesschau.de/wirtschaft/unternehmen/faq-nvidia-spionage-100.html",
+     "image": "https://images.tagesschau.de/image/9d4d98a9-ed98-4d6a-9f9c-bd1d9782eb0d/AAABocCr9uU/AAABnSSvrFg/16x9-big/nvidia-logo-102.jpg?width=1920",
+     "aggregator": false,
+     "published": "2026-11-09T13:58:03+00:00"
+    },
+    {
+     "source": "tagesschau Wirtschaft",
+     "region": "DE",
+     "weight": 1.0,
+     "title": "Untersuchung gegen Nvidia-Chef Huang wegen möglicher Spionin aus China",
+     "summary": "Der KI-Chip-Gigant Nvidia hat nach Berichten über einen Spionageverdacht eine Untersuchung gegen seinen Gründer und Konzernchef Jensen Huang eingeleitet. Er soll eine Affäre mit einer mutmaßlichen chinesischen Spionin gehabt haben.",
+     "link": "https://www.tagesschau.de/wirtschaft/unternehmen/nvidia-spionage-pruefung-100.html",
+     "image": "https://images.tagesschau.de/image/34f93b54-ef67-4531-97e6-4a40dc5724cc/AAABob68p7E/AAABnSSvrFg/16x9-big/nvidia-184.jpg?width=1920",
+     "aggregator": false,
+     "published": "2026-11-09T03:32:51+00:00"
+    },
+    {
+     "source": "ZDFheute",
+     "region": "DE",
+     "weight": 1.0,
+     "title": "Affäre von Nvidia-Chef: FBI ermittelt",
+     "summary": "Wegen der Affäre von Nvidia-Chef Jensen Huang mit einer möglichen chinesischen Spionin ermittelt laut US-Präsident Donald Trump nun auch das FBI.",
+     "link": "https://www.zdfheute.de/video/wirtschaft-nvidia-fbi-100.html",
+     "image": "https://www.zdfheute.de/assets/huang-archiv-100~384x216?cb=1794316422266",
+     "aggregator": false,
+     "published": "2026-11-10T15:45:00+00:00"
+    },
+    {
+     "source": "Deutsche Welle",
+     "region": "INT",
+     "weight": 0.95,
+     "title": "Die Affäre des Nvidia-Chefs und die Folgen",
+     "summary": "Nvidia-Chef Jensen Huang hat sich für eine Affäre mit einer Frau entschuldigt, die nach Einschätzung der USA für China spioniert hat. Wie weitreichend sind die Folgen für das wertvollste Unternehmen der Welt?",
+     "link": "https://www.dw.com/de/die-affäre-des-nvidia-chefs-und-die-folgen/a-79900932?maca=de-rss-de-all-1119-xml-mrss",
+     "image": "https://static.dw.com/image/75070893_302.jpg",
+     "aggregator": false,
+     "published": "2026-11-09T16:24:00+00:00"
+    },
+    {
+     "source": "Deutsche Welle",
+     "region": "INT",
+     "weight": 0.95,
+     "title": "Nvidia-Chef Huang wegen Spionageverdachts unter Druck",
+     "summary": "Eine außereheliche Beziehung bringt den Chef des KI-Chipgiganten Nvidia in Bedrängnis. Die Frau soll für China spioniert haben. Der Konzern untersucht die Vorwürfe, während US-Präsident Trump Huang den Rücken stärkt.",
+     "link": "https://www.dw.com/de/nvidia-chef-huang-wegen-spionageverdachts-unter-druck/a-79895905?maca=de-rss-de-all-1119-xml-mrss",
+     "image": "https://static.dw.com/image/79708793_302.jpg",
+     "aggregator": false,
+     "published": "2026-11-09T08:34:00+00:00"
+    },
+    {
+     "source": "ORF",
+     "region": "AT",
+     "weight": 0.95,
+     "title": "Bericht deutet auf riesiges Ausmaß hin",
+     "summary": "Die Affäre von Nvidia-Chef Jensen Huang mit einer mutmaßlichen chinesischen Spionin hat laut einem Bericht des Nachrichtenportals „The Information“ weitreichende Konsequenzen gehabt. Durch die Beziehung zum Mitgründer des weltgrößten Chipkonzerns habe die Frau KI-Hochleistungsprozessoren im Wert von 7,5 Milliarden Dollar (gut 6,7 Mrd. Euro) nach China geschleust, berichtete das Portal am Dienstag unter Berufung auf zwei Bekannte der Verdächtigen.",
+     "link": "https://orf.at/stories/3447811/",
+     "image": null,
+     "aggregator": false,
+     "published": "2026-11-10T21:49:22+00:00"
+    },
+    {
+     "source": "Handelsblatt",
+     "region": "DE",
+     "weight": 0.9,
+     "title": "Chipriese: Affäre von Nvidia-CEO Jensen Huang: Wer ist Alice Huang?",
+     "summary": "Nvidia-Chef Jensen Huang steht wegen einer Liebschaft unter Druck. Immer wieder wurde er mit der Geschäftsfrau Alice Huang zusammen gesehen. Über die Frau ist jedoch wenig bekannt.",
+     "link": "https://www.handelsblatt.com/technik/it-internet/chipriese-affaere-von-nvidia-ceo-jensen-huang-wer-ist-alice-huang/100268770.html",
+     "image": "https://images.handelsblatt.com/3Nj4WN8JPL6P/cover/900/506/0/0/106/105/0.5/0.5/nvidia-ceo-jensen-huang.jpg",
+     "aggregator": false,
+     "published": "2026-11-10T16:36:02+00:00"
+    }
+   ]
+  },
+  {
+   "id": 2,
+   "score": 20.56,
+   "outlets": [
+    "tagesschau",
+    "ZDFheute",
+    "Deutsche Welle",
+    "Deutschlandfunk",
+    "ORF",
+    "SRF News",
+    "SPIEGEL",
+    "DER STANDARD",
+    "n-tv"
+   ],
+   "regions": [
+    "AT",
+    "CH",
+    "DE",
+    "INT"
+   ],
+   "trend": [],
+   "newest": "2026-11-11T03:58:08+00:00",
+   "articles": [
+    {
+     "source": "tagesschau",
+     "region": "DE",
+     "weight": 1.0,
+     "title": "Warum sitzt Deutschland in Abu Dhabi nicht am Verhandlungstisch?",
+     "summary": "Derzeit treffen sich in Abu Dhabi Vertreter der Ukraine, Russlands und der USA, um Gespräche über ein Ende des Krieges wieder aufzunehmen. Europa scheint im Abseits, obwohl Deutschland der größte Unterstützer der Ukraine ist. Von N. Markwald.",
+     "link": "https://www.tagesschau.de/inland/innenpolitik/deutschland-rolle-ukraine-gespraeche-100.html",
+     "image": "https://images.tagesschau.de/image/59c612e1-678f-4aed-bbfb-7469096f2544/AAABocTEhrw/AAABnSSvrFg/16x9-big/merz-selenskyj-144.jpg?width=1920",
+     "aggregator": false,
+     "published": "2026-11-10T14:15:52+00:00"
+    },
+    {
+     "source": "tagesschau Inland",
+     "region": "DE",
+     "weight": 1.0,
+     "title": "Warum sitzt Deutschland in Abu Dhabi nicht am Verhandlungstisch?",
+     "summary": "Derzeit treffen sich in Abu Dhabi Vertreter der Ukraine, Russlands und der USA, um Gespräche über ein Ende des Krieges wieder aufzunehmen. Europa scheint im Abseits, obwohl Deutschland der größte Unterstützer der Ukraine ist. Von N. Markwald.",
+     "link": "https://www.tagesschau.de/inland/innenpolitik/deutschland-rolle-ukraine-gespraeche-100.html",
+     "image": "https://images.tagesschau.de/image/59c612e1-678f-4aed-bbfb-7469096f2544/AAABocTEhrw/AAABnSSvrFg/16x9-big/merz-selenskyj-144.jpg?width=1920",
+     "aggregator": false,
+     "published": "2026-11-10T14:15:52+00:00"
+    },
+    {
+     "source": "tagesschau Ausland",
+     "region": "INT",
+     "weight": 1.0,
+     "title": "Verhandlungen in Abu Dhabi über Ende des Ukraine-Krieges haben begonnen",
+     "summary": "In Abu Dhabi haben die Gespräche über ein Ende des Krieges in der Ukraine begonnen. Zuletzt hatte US-Präsident Trump eine \"große Übereinkunft\" versprochen. Aber was meinte er damit? Und was hieße das für Europa? Von Carsten Kühntopp.",
+     "link": "https://www.tagesschau.de/ausland/amerika/dreiergespraeche-usa-russland-ukraine-100.html",
+     "image": "https://images.tagesschau.de/image/5b75b2a0-6a74-45d1-b50a-1bcb869c8f44/AAABocTyvy0/AAABnSSvrFg/16x9-big/trump-putin-256.jpg?width=1920",
+     "aggregator": false,
+     "published": "2026-11-10T08:18:50+00:00"
+    },
+    {
+     "source": "tagesschau Ausland",
+     "region": "INT",
+     "weight": 1.0,
+     "title": "Gespräche in Abu Dhabi: Gedämpfte Erwartungen der Ukraine",
+     "summary": "Heute beginnen trilaterale Verhandlungen in Abu Dhabi. Können die Gespräche mit den USA und Russland einen echten Frieden bringen - oder führen sie zu einer Schwächung der Ukraine? Die Erwartungen in der Ukraine sind gering. Von F. Kellermann.",
+     "link": "https://www.tagesschau.de/ausland/europa/ukraine-erwartungen-gespraeche-100.html",
+     "image": "https://images.tagesschau.de/image/359f2fcf-a8ed-44fb-99fc-36c901fb94da/AAABocLfjcw/AAABnSSvrFg/16x9-big/ukraine-kiew-flagge-100.jpg?width=1920",
+     "aggregator": false,
+     "published": "2026-11-10T01:13:48+00:00"
+    },
+    {
+     "source": "ZDFheute",
+     "region": "DE",
+     "weight": 1.0,
+     "title": "Was können die Gespräche zum Ukraine-Krieg bringen?",
+     "summary": "Seit Dienstagmorgen finden Gespräche zwischen der Ukraine und Russland statt - unter Vermittlung der USA, zwei Tage lang. Dabei soll es wohl auch um Sicherheitsgarantien gehen.",
+     "link": "https://www.zdfheute.de/politik/ausland/verhandlungen-ukraine-russland-abu-dhabi-ukraine-krieg-usa-100.html",
+     "image": "https://www.zdfheute.de/assets/usa-ukraine-russland-verhandlungen-abu-dhabi-100~384x216?cb=1794324716662",
+     "aggregator": false,
+     "published": "2026-11-10T15:31:00+00:00"
+    },
+    {
+     "source": "Deutsche Welle",
+     "region": "INT",
+     "weight": 0.95,
+     "title": "Russland-Ukraine-Gespräche in Abu Dhabi: Kommt es zu einem Durchbruch?",
+     "summary": "Mit Vertretern der Geheimdienste und Diplomaten ist die russische Delegation bei den Gesprächen mit der Ukraine hochrangig besetzt. Auch Vertreter europäischer Staaten reisen nach Abu Dhabi. Was bedeutet das?",
+     "link": "https://www.dw.com/de/russland-ukraine-gespräche-in-abu-dhabi-kommt-es-zu-einem-durchbruch/a-79902965?maca=de-rss-de-all-1119-xml-mrss",
+     "image": "https://static.dw.com/image/77045019_302.jpg",
+     "aggregator": false,
+     "published": "2026-11-09T17:29:00+00:00"
+    },
+    {
+     "source": "Deutschlandfunk",
+     "region": "DE",
+     "weight": 0.95,
+     "title": "Vereinigte Arabische Emirate - Unterhändler der Ukraine und Russlands setzen Gespräche fort",
+     "summary": "Unterhändler der Ukraine und Russlands setzen heute ihre Gespräche in Abu Dhabi fort.",
+     "link": "https://www.deutschlandfunk.de/unterhaendler-der-ukraine-und-russlands-setzen-gespraeche-fort-100.html",
+     "image": "https://bilder.deutschlandfunk.de/3d/17/5e/4e/3d175e4e-8cb0-4ad5-9490-ce4ba722fe82/trilateral-treffen-abu-dhabi-100-1920x1920.jpg",
+     "aggregator": false,
+     "published": "2026-11-11T03:58:08+00:00"
+    },
+    {
+     "source": "ORF",
+     "region": "AT",
+     "weight": 0.95,
+     "title": "Europa nicht am Verhandlungstisch",
+     "summary": "Zum ersten Mal in rund neun Monaten sind Vertreter Russlands und der Ukraine am Dienstag zu von den USA vermittelten Gesprächen in Abu Dhabi zusammengekommen. Aus Sicht von US-Unterhändler Jared Kushner hätten sich die Differenzen beider Seiten verringert. Die Positionen Kiews und Moskaus liegen allerdings noch weit auseinander. Vertreter aus Europa sind in Abu Dhabi, nicht aber am Verhandlungstisch.",
+     "link": "https://orf.at/stories/3447784/",
+     "image": null,
+     "aggregator": false,
+     "published": "2026-11-10T12:43:47+00:00"
+    }
+   ]
+  },
+  {
+   "id": 3,
+   "score": 12.26,
+   "outlets": [
+    "tagesschau",
+    "Deutschlandfunk",
+    "Golem"
+   ],
+   "regions": [
+    "DE"
+   ],
+   "trend": [
+    "Страховые пенсии в 2027 году вырастут на 10,3%",
+    "Две пенсии в декабре и индексация: пенсионеры получат приятный подарок к 2027 году"
+   ],
+   "newest": "2026-11-11T03:58:08+00:00",
+   "articles": [
+    {
+     "source": "tagesschau",
+     "region": "DE",
+     "weight": 1.0,
+     "title": "Bund stockt E-Auto-Prämie für 2027 auf",
+     "summary": "Bund stockt E-Auto-Prämie für 2027 auf",
+     "link": "https://www.tagesschau.de/tagesschau_20_uhr/video-1681676.html",
+     "image": "https://images.tagesschau.de/image/453fb20a-052a-497d-b350-933a6e69c1bd/AAABocb6ego/AAABnSSvrFg/16x9-big/sendungsbild-1825618.jpg?width=1920",
+     "aggregator": false,
+     "published": "2026-11-10T19:41:09+00:00"
+    },
+    {
+     "source": "Deutschlandfunk",
+     "region": "DE",
+     "weight": 0.95,
+     "title": "Hohe Nachfrage - Bund will E-Auto-Kaufprämie für 2027 offenbar verdoppeln",
+     "summary": "Die Bundesregierung will die E-Auto-Prämie für 2027 offenbar aufstocken. Das geht aus der Bereinigungsvorlage des Bundesfinanzministeriums für die abschließenden Haushaltsberatungen hervor.",
+     "link": "https://www.deutschlandfunk.de/bund-will-e-auto-kaufpraemie-fuer-2027-offenbar-verdoppeln-102.html",
+     "image": "https://bilder.deutschlandfunk.de/23/11/33/c6/231133c6-5729-4ed6-bffa-7bc45ad4d1c8/e-autos-als-speicher-100-1920x1920.jpg",
+     "aggregator": false,
+     "published": "2026-11-11T03:58:08+00:00"
+    },
+    {
+     "source": "Golem",
+     "region": "DE",
+     "weight": 0.75,
+     "title": "Hohe Nachfrage: Bund plant 2027 deutlich mehr Geld für E-Auto-Prämie ein",
+     "summary": "Die Bundesregierung korrigiert ihre Haushaltspläne für die Kaufprämie. Die Mittel für 2027 sollen für rund 400.000 geförderte E-Autos reichen. ( Elektroauto , Tesla )",
+     "link": "https://www.golem.de/news/hohe-nachfrage-bund-plant-2027-deutlich-mehr-geld-fuer-e-auto-praemie-ein-2611-215056.html",
+     "image": "https://cpx.golem.de/cpx.php?class=17&amp;aid=215056&amp;page=1&amp;ts=1794329461",
+     "aggregator": false,
+     "published": "2026-11-10T16:51:01+00:00"
+    }
+   ]
+  },
+  {
+   "id": 4,
+   "score": 11.56,
+   "outlets": [
+    "tagesschau",
+    "ZDFheute",
+    "Deutschlandfunk",
+    "Süddeutsche"
+   ],
+   "regions": [
+    "DE"
+   ],
+   "trend": [],
+   "newest": "2026-11-11T03:58:08+00:00",
+   "articles": [
+    {
+     "source": "tagesschau",
+     "region": "DE",
+     "weight": 1.0,
+     "title": "Strafprozess gegen ehemalige rbb-Intendantin Schlesinger beginnt",
+     "summary": "Hat sich Patricia Schlesinger in ihrer Zeit als Intendantin des rbb strafbar gemacht? Heute wird gegen sie und drei weitere Angeklagte der Prozess eröffnet. Das Gericht geht von 56 Verhandlungstagen aus.",
+     "link": "https://www.tagesschau.de/inland/regional/brandenburg/rbb-strafprozess-gegen-ehemalige-rbb-intendantin-schlesinger-beginnt-102.html",
+     "image": "https://images.tagesschau.de/image/5a866191-2a35-42f0-b899-8614ed5ace3b/AAABocU-fVw/AAABnSSvrFg/16x9-big/rbb-schlesinger-prozess-102.jpg?width=1920",
+     "aggregator": false,
+     "published": "2026-11-10T11:35:39+00:00"
+    },
+    {
+     "source": "ZDFheute",
+     "region": "DE",
+     "weight": 1.0,
+     "title": "Prozess gegen frühere RBB-Intendantin Schlesinger begonnen",
+     "summary": "Der Prozess gegen die ehemalige RBB-Intendantin und drei weitere Führungskräfte hat begonnen. Die Anklage wirft ihnen Untreue vor und beziffert den Schaden auf 1,7 Millionen Euro.",
+     "link": "https://www.zdfheute.de/panorama/kriminalitaet/rbb-skandal-vor-gericht-patricia-schlesinger-100.html",
+     "image": "https://www.zdfheute.de/assets/patricia-schlesinger-rbb-intendantin-prozess-102~384x216?cb=1794338991516",
+     "aggregator": false,
+     "published": "2026-11-10T20:13:00+00:00"
+    },
+    {
+     "source": "Deutschlandfunk",
+     "region": "DE",
+     "weight": 0.95,
+     "title": "Berliner Landgericht - Prozess gegen frührere RBB-Intendantin Schlesinger begonnen",
+     "summary": "Am Berliner Landgericht hat der Prozess gegen die frühere RBB-Intendantin Schlesinger und drei weitere Angeklagte begonnen. Die Generalstaatsanwaltschaft wirft ihnen Untreue vor. Laut Anklage sollen sie dem Rundfunk Berlin-Brandenburg zwischen Januar 2018 und Juli 2022 einen finanziellen Schaden von 1,7 Millionen Euro verursacht haben.",
+     "link": "https://www.deutschlandfunk.de/prozess-gegen-fruehrere-rbb-intendantin-schlesinger-begonnen-106.html",
+     "image": "https://bilder.deutschlandfunk.de/7a/5a/dc/64/7a5adc64-ea05-4d53-b26b-f58de65cebd8/patricia-schlesinger-114-1920x1920.jpg",
+     "aggregator": false,
+     "published": "2026-11-11T03:58:08+00:00"
+    },
+    {
+     "source": "Süddeutsche",
+     "region": "DE",
+     "weight": 0.9,
+     "title": "Öffentlich-Rechtliche: Strafsache RBB",
+     "summary": "Das Landgericht Berlin untersucht Untreue-Vorwürfe gegen Ex-Intendantin Patricia Schlesinger und weitere Angeklagte. Die wehren sich. Szenen der Wahrheitssuche in einem gigantischen öffentlich-rechtlichen Skandal.",
+     "link": "https://www.sueddeutsche.de/medien/patricia-schlesinger-untreue-rbb-skandal-verhandlung-li.3574069",
+     "image": "https://www.sueddeutsche.de/2026/11/10/6340f164-665b-413a-bee4-558a5b3fb266.jpg?rect=468%2C91%2C3048%2C2286&width=1000&fm=jpg&q=60",
+     "aggregator": false,
+     "published": "2026-11-10T14:38:02+00:00"
+    }
+   ]
+  },
+  {
+   "id": 5,
+   "score": 11.56,
+   "outlets": [
+    "tagesschau Ausland",
+    "Deutsche Welle",
+    "Deutschlandfunk",
+    "ORF"
+   ],
+   "regions": [
+    "AT",
+    "DE",
+    "INT"
+   ],
+   "trend": [],
+   "newest": "2026-11-11T03:58:08+00:00",
+   "articles": [
+    {
+     "source": "tagesschau Ausland",
+     "region": "INT",
+     "weight": 1.0,
+     "title": "Israels neu gewähltes Parlament kommt erstmals zusammen",
+     "summary": "Nach der Wahl tritt Israels neues Parlament heute erstmals zusammen - inmitten der schwierigen Regierungsbildung. Netanjahu-Rivale Eisenkot hat dafür den Auftrag erhalten. Er hält auch eine Minderheitsregierung für möglich.",
+     "link": "https://www.tagesschau.de/ausland/asien/knesset-eisenkot-regierung-100.html",
+     "image": "https://images.tagesschau.de/image/4571547b-afbd-4563-a8da-4d48f0dc9eb6/AAABocRDlV0/AAABnSSvrFg/16x9-big/eisenkot-118.jpg?width=1920",
+     "aggregator": false,
+     "published": "2026-11-10T08:13:27+00:00"
+    },
+    {
+     "source": "tagesschau Ausland",
+     "region": "INT",
+     "weight": 1.0,
+     "title": "Israel: Oppositionsführer Eisenkot soll neue Regierung bilden",
+     "summary": "Nun ist es offiziell: Israels Präsident Herzog hat den Oppositionspolitiker Eisenkot mit der Regierungsbildung beauftragt. Der Ex-Militärchef appellierte an die anderen Parteien, \"unkonventionelle politische Schritte\" zu akzeptieren.",
+     "link": "https://www.tagesschau.de/ausland/asien/israel-auftrag-regierungsbildung-eisenkot-100.html",
+     "image": "https://images.tagesschau.de/image/17988e16-b321-4573-a2d7-f8ccec24da95/AAABobvLlHQ/AAABnSSvrFg/16x9-big/gadi-eisenkot-110.jpg?width=1920",
+     "aggregator": false,
+     "published": "2026-11-08T16:07:41+00:00"
+    },
+    {
+     "source": "Deutsche Welle",
+     "region": "INT",
+     "weight": 0.95,
+     "title": "Israel: Netanjahu-Rivale Gadi Eisenkot soll Regierung bilden",
+     "summary": "Die Machtverhältnisse im neu gewählten Parlament in Israel sind kompliziert. Dem Bündnis von Gadi Eisenkot fehlen 13 Mandate für eine eigene Regierungsmehrheit. Parteien der arabischen Minderheit könnten helfen.",
+     "link": "https://www.dw.com/de/israel-netanjahu-rivale-gadi-eisenkot-soll-regierung-bilden/a-79889744?maca=de-rss-de-all-1119-xml-mrss",
+     "image": "https://static.dw.com/image/79891763_302.jpg",
+     "aggregator": false,
+     "published": "2026-11-08T16:40:00+00:00"
+    },
+    {
+     "source": "Deutschlandfunk",
+     "region": "DE",
+     "weight": 0.95,
+     "title": "Knesset - Israelisches Parlament zu erster Sitzung zusammengekommen",
+     "summary": "Zwei Wochen nach der Wahl in Israel ist das neue Parlament zu seiner ersten Sitzung zusammengekommen.",
+     "link": "https://www.deutschlandfunk.de/israelisches-parlament-zu-erster-sitzung-zusammengekommen-112.html",
+     "image": "https://bilder.deutschlandfunk.de/89/40/48/55/89404855-d97a-424f-b19d-cb991b918b9d/knesset-102-1920x1920.jpg",
+     "aggregator": false,
+     "published": "2026-11-11T03:58:08+00:00"
+    },
+    {
+     "source": "ORF",
+     "region": "AT",
+     "weight": 0.95,
+     "title": "Israels neues Parlament erstmals zusammengetreten",
+     "summary": "",
+     "link": "https://orf.at/stories/3447806/",
+     "image": null,
+     "aggregator": false,
+     "published": "2026-11-10T14:26:05+00:00"
+    }
+   ]
+  },
+  {
+   "id": 6,
+   "score": 11.19,
+   "outlets": [
+    "tagesschau",
+    "Deutsche Welle",
+    "Handelsblatt",
+    "DER STANDARD"
+   ],
+   "regions": [
+    "AT",
+    "DE",
+    "INT"
+   ],
+   "trend": [],
+   "newest": "2026-11-11T03:45:04+00:00",
+   "articles": [
+    {
+     "source": "tagesschau",
+     "region": "DE",
+     "weight": 1.0,
+     "title": "Erster Tag der Ukraine-Gespräche in Abu Dhabi beendet",
+     "summary": "Erster Tag der Ukraine-Gespräche in Abu Dhabi beendet",
+     "link": "https://www.tagesschau.de/tagesthemen/video-1681722.html",
+     "image": "https://images.tagesschau.de/image/e712ace5-df4f-42a2-9785-f4f321d88977/AAABocdquqE/AAABnSSvrFg/16x9-big/sendungsbild-1825668.jpg?width=1920",
+     "aggregator": false,
+     "published": "2026-11-10T21:43:49+00:00"
+    },
+    {
+     "source": "tagesschau",
+     "region": "DE",
+     "weight": 1.0,
+     "title": "Erster Tag der Ukraine-Gespräche: Keine Ergebnisse, aber Hoffnung für Gefangene",
+     "summary": "Der erste Tag der Gespräche zwischen Russland und der Ukraine in Abu Dhabi ist ohne offizielles Ergebnis zu Ende gegangen. Medien berichten aber von einem geplanten Gefangenenaustausch. Eine Waffenruhe scheint dagegen in weiter Ferne.",
+     "link": "https://www.tagesschau.de/ausland/asien/ukraine-russland-krieg-gespraeche-abu-dhabi-100.html",
+     "image": "https://images.tagesschau.de/image/ba9868a2-8216-4787-aaaf-809aa58574d4/AAABocb3Se0/AAABnSSvrFg/16x9-big/abu-dhabi-140.jpg?width=1920",
+     "aggregator": false,
+     "published": "2026-11-10T21:08:29+00:00"
+    },
+    {
+     "source": "tagesschau Ausland",
+     "region": "INT",
+     "weight": 1.0,
+     "title": "Erster Tag der Ukraine-Gespräche: Keine Ergebnisse, aber Hoffnung für Gefangene",
+     "summary": "Der erste Tag der Gespräche zwischen Russland und der Ukraine in Abu Dhabi ist ohne offizielles Ergebnis zu Ende gegangen. Medien berichten aber von einem geplanten Gefangenenaustausch. Eine Waffenruhe scheint dagegen in weiter Ferne.",
+     "link": "https://www.tagesschau.de/ausland/asien/ukraine-russland-krieg-gespraeche-abu-dhabi-100.html",
+     "image": "https://images.tagesschau.de/image/ba9868a2-8216-4787-aaaf-809aa58574d4/AAABocb3Se0/AAABnSSvrFg/16x9-big/abu-dhabi-140.jpg?width=1920",
+     "aggregator": false,
+     "published": "2026-11-10T21:08:29+00:00"
+    },
+    {
+     "source": "tagesschau Ausland",
+     "region": "INT",
+     "weight": 1.0,
+     "title": "Ukraine-Gespräche in Abu Dhabi: EU kündigt Teilnahme an",
+     "summary": "Ab Dienstag soll in Abu Dhabi über einen möglichen Frieden in der Ukraine verhandelt werden. Auch Vertreter Europas haben sich dazu angekündigt. Moskau will lieber nur mit den USA reden.",
+     "link": "https://www.tagesschau.de/ausland/europa/ukraine-verhandlungen-abu-dhabi-100.html",
+     "image": "https://images.tagesschau.de/image/bcbfacd2-b7ac-4314-9d86-ec6d822e9492/AAABobwG94w/AAABnSSvrFg/16x9-big/abu-dhabi-103.jpg?width=1920",
+     "aggregator": false,
+     "published": "2026-11-09T13:52:00+00:00"
+    },
+    {
+     "source": "Deutsche Welle",
+     "region": "INT",
+     "weight": 0.95,
+     "title": "News kompakt: Ukraine-Gespräche starten in Abu Dhabi",
+     "summary": "Nach mehr als acht Monaten verhandeln Russland und die Ukraine wieder direkt miteinander. Frankreich macht den Iran für Cyberangriffe auf Kühlanlagen verantwortlich. Der DW-Nachrichtenüberblick.",
+     "link": "https://www.dw.com/de/news-kompakt-ukraine-gespräche-starten-in-abu-dhabi/a-79906107?maca=de-rss-de-all-1119-xml-mrss",
+     "image": "https://static.dw.com/image/79902138_302.jpg",
+     "aggregator": false,
+     "published": "2026-11-10T08:01:00+00:00"
+    },
+    {
+     "source": "Deutsche Welle",
+     "region": "INT",
+     "weight": 0.95,
+     "title": "Russland lehnt Europas Teilnahme an Ukraine-Gesprächen ab",
+     "summary": "Frankreich kündigt an, Vertreter zu den Verhandlungen in Abu Dhabi zu schicken. Moskau sieht dagegen nur Gespräche mit der Ukraine und den USA vor. Im Mittelpunkt stehen Sicherheitsgarantien und ein mögliches Kriegsende.",
+     "link": "https://www.dw.com/de/russland-lehnt-europas-teilnahme-an-ukraine-gesprächen-ab/a-79897668?maca=de-rss-de-all-1119-xml-mrss",
+     "image": "https://static.dw.com/image/76011845_302.jpg",
+     "aggregator": false,
+     "published": "2026-11-09T11:02:00+00:00"
+    },
+    {
+     "source": "Handelsblatt",
+     "region": "DE",
+     "weight": 0.9,
+     "title": "Verhandlungen in Abu Dhabi: Ukraine-Gespräche gehen weiter: Kommt ein Gipfeltreffen?",
+     "summary": "Nach mehr als acht Monaten Pause sprechen Russland und die Ukraine unter US-Vermittlung wieder direkt miteinander. Von einem möglichen Gefangenenaustausch ist die Rede – und was ist für heute geplant?",
+     "link": "https://www.handelsblatt.com/politik/international/verhandlungen-in-abu-dhabi-ukraine-gespraeche-gehen-weiter-kommt-ein-gipfeltreffen/100268925.html",
+     "image": "https://images.handelsblatt.com/gCJFFr5tVZi0/cover/900/506/0/0/107/106/0.5/0.5/ukraine-gespraeche-in-abu-dhabi.jpg",
+     "aggregator": false,
+     "published": "2026-11-11T03:45:04+00:00"
+    },
+    {
+     "source": "DER STANDARD",
+     "region": "AT",
+     "weight": 0.85,
+     "title": "Formel-1-Rennen in Katar und Abu Dhabi sollen plangemäß stattfinden",
+     "summary": "Absage an Ersatzkandidat Imola. Im Fall einer Eskalation des Nahost-Konflikts könnte die Saison aber schon in Las Vegas beendet werden",
+     "link": "https://www.derstandard.at/story/3000000348606/formel-1-rennen-in-katar-und-abu-dhabi-sollen-plangemaess-stattfinden?ref=rss",
+     "image": "https://i.ds.at/AAqXgQ/rs:fill:150:0/plain/lido-images/2026/11/10/993bfbea-072b-47aa-9c59-f3f7f45ba17b.jpg",
+     "aggregator": false,
+     "published": "2026-11-10T16:37:38+00:00"
+    }
+   ]
+  },
+  {
+   "id": 7,
+   "score": 10.76,
+   "outlets": [
+    "Deutschlandfunk",
+    "ORF",
+    "n-tv",
+    "Golem"
+   ],
+   "regions": [
+    "AT",
+    "DE"
+   ],
+   "trend": [],
+   "newest": "2026-11-11T03:58:08+00:00",
+   "articles": [
+    {
+     "source": "Deutschlandfunk",
+     "region": "DE",
+     "weight": 0.95,
+     "title": "\"Spiegel\"-Bericht - Bundeswehr verbietet wegen Sicherheitsbedenken chinesische Drohnen und Autos in Militäreinrichtungen",
+     "summary": "Die Bundeswehr verbannt offenbar wegen akuter Sicherheitsbedenken alle chinesischen Drohnen aus Kasernen und von Übungsplätzen",
+     "link": "https://www.deutschlandfunk.de/bundeswehr-verbietet-wegen-sicherheitsbedenken-chinesische-drohnen-und-autos-in-militaereinrichtunge-100.html",
+     "image": "https://bilder.deutschlandfunk.de/f3/d0/9d/b8/f3d09db8-2bdf-4a62-8b37-1cb10ced417e/drohne-138-1920x1920.jpg",
+     "aggregator": false,
+     "published": "2026-11-11T03:58:08+00:00"
+    },
+    {
+     "source": "ORF",
+     "region": "AT",
+     "weight": 0.95,
+     "title": "Deutsche Bundeswehr verbannt chinesische Drohnen und Autos",
+     "summary": "",
+     "link": "https://orf.at/stories/3447850/",
+     "image": null,
+     "aggregator": false,
+     "published": "2026-11-10T21:35:58+00:00"
+    },
+    {
+     "source": "n-tv",
+     "region": "DE",
+     "weight": 0.8,
+     "title": "Kleindrohnen und Autos betroffen: Bundeswehr verbannt offenbar chinesisches Gerät aus den Kasernen",
+     "summary": "Die Bundeswehr setzt bei Übungen bislang auch auf chinesische Drohnen. Doch damit soll jetzt Schluss sein. Das Verteidigungsministerium befürchtet, dass sensible Daten nach Peking weitergeleitet werden könnten. Soldaten mit Autos aus China müssen nun außerhalb der Kasernen parken.",
+     "link": "https://www.n-tv.de/politik/Bundeswehr-verbannt-offenbar-chinesisches-Geraet-aus-den-Kasernen-id31518786.html",
+     "image": "https://www.n-tv.de/img/31518796/1794335141/Img_4_3/250/587561636.jpg",
+     "aggregator": false,
+     "published": "2026-11-10T18:28:20+00:00"
+    },
+    {
+     "source": "Golem",
+     "region": "DE",
+     "weight": 0.75,
+     "title": "Spionage: Bundeswehr sperrt DJI-Drohnen und chinesische Autos aus",
+     "summary": "Aus Sorge vor möglicher Spionage dürfen chinesische Drohnen und Autos nicht mehr in Bundeswehr-Kasernen. ( Bundeswehr , Elektroauto )",
+     "link": "https://www.golem.de/news/spionage-bundeswehr-sperrt-dji-drohnen-und-chinesische-autos-aus-2611-215061.html",
+     "image": "https://cpx.golem.de/cpx.php?class=17&amp;aid=215061&amp;page=1&amp;ts=1794336242",
+     "aggregator": false,
+     "published": "2026-11-10T18:44:02+00:00"
+    }
+   ]
+  },
+  {
+   "id": 8,
+   "score": 10.16,
+   "outlets": [
+    "ZDFheute",
+    "Deutschlandfunk",
+    "Handelsblatt",
+    "n-tv.de"
+   ],
+   "regions": [
+    "DE"
+   ],
+   "trend": [],
+   "newest": "2026-11-11T03:58:08+00:00",
+   "articles": [
+    {
+     "source": "ZDFheute",
+     "region": "DE",
+     "weight": 1.0,
+     "title": "Berliner Linke will Vanessa Emde aus Fraktion ausschließen",
+     "summary": "Die Linke will den Fraktionsausschluss der Abgeordneten Vanessa Emde beantragen. Ihr wird vorgeworfen, das Existenzrecht Israels anzuzweifeln.",
+     "link": "https://www.zdfheute.de/politik/deutschland/linke-ausschluss-vanessa-emde-abgeordnete-100.html",
+     "image": "https://www.zdfheute.de/assets/vanessa-emde-die-linke-102~384x216?cb=1794322475287",
+     "aggregator": false,
+     "published": "2026-11-10T17:10:00+00:00"
+    },
+    {
+     "source": "ZDFheute",
+     "region": "DE",
+     "weight": 1.0,
+     "title": "Linken-Fraktion: Emde soll ausgeschlossen werden",
+     "summary": "Wegen antiisraelischer Positionen will der Vorstand der Berliner Linksfraktion Vanessa Emde aus der Fraktion ausschließen. Ein entsprechender Antrag werde erarbeitet, heißt es.",
+     "link": "https://www.zdfheute.de/video/politik-emde-linke-kritik-partei-ausschluss-video-100.html",
+     "image": "https://www.zdfheute.de/assets/vanessa-emde-berlin-linke-bild-100~384x216?cb=1794335338494",
+     "aggregator": false,
+     "published": "2026-11-10T21:05:00+00:00"
+    },
+    {
+     "source": "Deutschlandfunk",
+     "region": "DE",
+     "weight": 0.95,
+     "title": "Berlin - Linke will Abgeordnete Emde aus Fraktion ausschließen - Antrag soll in der kommenden Woche gestellt werden",
+     "summary": "Die Berliner Linke will die wegen ihrer Positionen zum Nahostkonflikt umstrittene Abgeordnete Emde aus der Fraktion ausschließen.",
+     "link": "https://www.deutschlandfunk.de/linke-will-abgeordnete-emde-aus-fraktion-ausschliessen-antrag-soll-in-der-kommenden-woche-gestellt-w-108.html",
+     "image": "https://bilder.deutschlandfunk.de/d7/a2/2f/d3/d7a22fd3-5253-46ff-8e64-bb075475afb7/vanessa-emde-die-linke-krankmeldung-abstimmung-umgang-100-1920x1920.jpg",
+     "aggregator": false,
+     "published": "2026-11-11T03:58:08+00:00"
+    },
+    {
+     "source": "Handelsblatt",
+     "region": "DE",
+     "weight": 0.9,
+     "title": "Regierungsbildung in Berlin: Berliner Linke-Führungsriege will Emde aus Fraktion werfen",
+     "summary": "Die Linke-Abgeordnete Vanessa Emde macht ihr eigenes Ding, Partei- und Fraktionsspitze sehen keine gemeinsame Arbeitsgrundlage mehr mit ihr. Nun soll in dem länger schwelenden Streit eine Lösung her.",
+     "link": "https://www.handelsblatt.com/politik/deutschland/regierungsbildung-in-berlin-berliner-linke-fuehrungsriege-will-emde-aus-fraktion-werfen/100268871.html",
+     "image": "https://images.handelsblatt.com/XF3eT6bQZLz4/cover/900/506/0/0/106/106/0.5/0.5/vanessa-emde.jpg",
+     "aggregator": false,
+     "published": "2026-11-10T17:45:38+00:00"
+    },
+    {
+     "source": "n-tv.de",
+     "region": "DE",
+     "weight": 0.6,
+     "title": "Zweidrittelmehrheit nötig: Berliner Linke will umstrittene Abgeordnete Emde aus Fraktion ausschließen",
+     "summary": "Zweidrittelmehrheit nötig: Berliner Linke will umstrittene Abgeordnete Emde aus Fraktion ausschließen n-tv.de Linke will Abgeordnete aus der Fraktion werfen Abstimmung über Emde-Ausschluss frühestens in zwei Wochen Tagesspiegel Berliner Abgeordnetenhaus: Berliner Linke will Vanessa Emde aus Fraktion ausschließen DIE ZEIT Vanessa Emde: Ausschluss aus Fraktion der Linken in Berlin verzögert sich BILD Vanessa Emde: Warum ihr Ausschluss die Linkspartei nicht rettet FAZ",
+     "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOMlg3RzhjbVFMd0RjYXc4OWYyVTdSNklkSGpiUkpxRHNzR3ZUMDh2SGJIdk9mOTE0UVhLY2J5Y20wRUtwVUw3UFkzUnVMTE5QVFhTcnBGNi1FVnhPZW13WTZSWFZkYlJTM09rM2J4bFdZMzlkc2JRZ0t2SlVzTU1PdFA5TzgtYlJTN3djRWhxaUliX3Z5LU9BZ3pxVEZjY1NkbFViQU52QUVPZDR3QnQ1dVd4aERHRFF4UXBZ?oc=5",
+     "image": null,
+     "aggregator": true,
+     "published": "2026-11-10T16:43:40+00:00"
+    }
+   ]
+  },
+  {
+   "id": 9,
+   "score": 9.39,
+   "outlets": [
+    "ORF",
+    "SPIEGEL",
+    "DER STANDARD",
+    "WELT"
+   ],
+   "regions": [
+    "AT",
+    "DE"
+   ],
+   "trend": [],
+   "newest": "2026-11-10T21:44:32+00:00",
+   "articles": [
+    {
+     "source": "ORF",
+     "region": "AT",
+     "weight": 0.95,
+     "title": "Jordan wird Minderheitsführer im US-Repräsentantenhaus",
+     "summary": "",
+     "link": "https://orf.at/stories/3447848/",
+     "image": null,
+     "aggregator": false,
+     "published": "2026-11-10T20:54:04+00:00"
+    },
+    {
+     "source": "SPIEGEL",
+     "region": "DE",
+     "weight": 0.9,
+     "title": "USA: Republikaner Jim Jordan wird Minderheitsführer im Repräsentantenhaus",
+     "summary": "Er gilt als »kampflustiger Draufgänger« mit engen Verbindungen zu Donald Trump: Der US-Republikaner Jim Jordan wird der neue Fraktionsführer seiner Partei im Repräsentantenhaus. Sein Vorgänger Mike Johnson war nicht mehr angetreten.",
+     "link": "https://www.spiegel.de/ausland/usa-republikaner-jim-jordan-wird-minderheitsfuehrer-im-repraesentantenhaus-a-a9c024db-837a-42ac-9beb-f7c0d0fba244#ref=rss",
+     "image": "https://cdn.prod.www.spiegel.de/images/1af73daf-6c4a-44e5-abd3-227102a271ec_w520_r2.08_fpx64.69_fpy44.99.jpg",
+     "aggregator": false,
+     "published": "2026-11-10T20:45:00+00:00"
+    },
+    {
+     "source": "DER STANDARD",
+     "region": "AT",
+     "weight": 0.85,
+     "title": "Republikaner Jordan wird Minderheitsführer im US-Repräsentantenhaus",
+     "summary": "Jordan pflege „enge Verbindungen“ zu Donald Trump. John Thune bleibt weiterhin republikanischer Fraktionsvorsitzender im Senat",
+     "link": "https://www.derstandard.at/story/3000000348618/republikaner-jordan-wird-minderheitsf252hrer-im-us-repr228sentantenhaus?ref=rss",
+     "image": "https://i.ds.at/0F5EKQ/rs:fill:150:0/plain/lido-images/2026/11/10/1c4af12a-c9a4-4e45-b365-8a6155a699c6.jpg",
+     "aggregator": false,
+     "published": "2026-11-10T21:44:32+00:00"
+    },
+    {
+     "source": "WELT",
+     "region": "DE",
+     "weight": 0.8,
+     "title": "Republikaner Jim Jordan wird Minderheitsführer im Repräsentantenhaus",
+     "summary": "Jim Jordan wird nach der Midterm-Niederlage Minderheitsführer der Republikaner im Repräsentantenhaus. Der Trump-Vertraute setzte sich gegen den bisherigen Vize Steve Scalise durch.",
+     "link": "https://www.welt.de/politik/article6af37bdff0b67a4b24664ddb/nach-den-midterms-republikaner-jim-jordan-wird-minderheitsfuehrer-im-repraesentantenhaus.html",
+     "image": "https://images.welt.de/6af37bdff0b67a4b24664ddb/2400d8871744a028d7f8bc27d41f03e8-master/ci23x11-w1200/dpa-com-261110-935-1734643-jpg",
+     "aggregator": false,
+     "published": "2026-11-10T20:47:33+00:00"
+    },
+    {
+     "source": "Spiegel",
+     "region": "DE",
+     "weight": 0.6,
+     "title": "USA: Republikaner Jim Jordan wird Minderheitsführer im Repräsentantenhaus",
+     "summary": "USA: Republikaner Jim Jordan wird Minderheitsführer im Repräsentantenhaus Spiegel Trump bekommt engen Vertrauten an die Parteispitze n-tv.de USA aktuell: Spionage für Russland? US-Soldat in Europa festgenommen T-Online US-Repräsentantenhaus: Republikaner wählen Trump-Verbündeten zum Fraktionschef STERN.de USA: Jim Jordan wird Fraktionschef der Republikaner im Repräsentantenhaus DIE ZEIT",
+     "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQc29pR19aSnI2YllKR3lQTFpyX1NBM1h1MV9xZ0xqZGcyNlRZeEJEQVRmOGlkOXBTQnNnckE0TElVOVB2MWNxcGtXaVVTcTRwWjk5cVhWdkVVTjBtMTRLOFFobFJOTUE4ZGN1OGsxOFBPV3NFMWxmRks5UWJlMVVWRFVGVUpuN0JrT3NJNDhKa2x1RjI1QWpBV09XdWMxN1U0c1JiTlVmbjI4STdPSHJxOF9HU3hFMTRvdzJEZ3pPWnRRQjN4N28xWThGT1g5Zm1tN2I2VGtrdTRXdTNo?oc=5",
+     "image": null,
+     "aggregator": true,
+     "published": "2026-11-10T20:45:00+00:00"
+    }
+   ]
+  },
+  {
+   "id": 10,
+   "score": 9.29,
+   "outlets": [
+    "tagesschau",
+    "Deutsche Welle",
+    "WELT"
+   ],
+   "regions": [
+    "DE",
+    "INT"
+   ],
+   "trend": [],
+   "newest": "2026-11-11T01:57:38+00:00",
+   "articles": [
+    {
+     "source": "tagesschau",
+     "region": "DE",
+     "weight": 1.0,
+     "title": "Statue von Papst Leo XIV., Kimchi, Chinesische Teekette",
+     "summary": "Statue von Papst Leo XIV., Kimchi, Chinesische Teekette",
+     "link": "https://www.tagesschau.de/multimedia/bilder/blickpunkte-10558.html",
+     "image": "https://images.tagesschau.de/image/d5a08af1-d17e-42f4-af7e-5f21f99dcaaa/AAABocRVrfw/AAABnSSvrFg/16x9-big/papst-statue-100.jpg?width=1920",
+     "aggregator": false,
+     "published": "2026-11-10T07:58:59+00:00"
+    },
+    {
+     "source": "tagesschau Ausland",
+     "region": "INT",
+     "weight": 1.0,
+     "title": "Buenos Aires: Papst Leo XIV. feiert Messe vor zwei Millionen Menschen",
+     "summary": "Argentinien ist im \"Papa-León-Fieber\": An einem gigantischen Freiluft-Gottesdienst nahmen gut zwei Millionen Menschen teil. Leo XIV. würdigte dabei die Bedeutung der Familie und plädierte für den Schutz der Schwachen.",
+     "link": "https://www.tagesschau.de/ausland/amerika/papst-leo-argentinien-100.html",
+     "image": "https://images.tagesschau.de/image/66cc38c8-763c-447b-8cf8-ad9a272272b5/AAABocGpaq0/AAABnSSvrFg/16x9-big/papst-leo-230.jpg?width=1920",
+     "aggregator": false,
+     "published": "2026-11-09T19:34:13+00:00"
+    },
+    {
+     "source": "tagesschau Ausland",
+     "region": "INT",
+     "weight": 1.0,
+     "title": "Papst Leo XIV. fordert in Argentinien mehr Rücksicht auf Schwache",
+     "summary": "Zu Beginn seines Argentinienbesuchs hat Papst Leo XIV. Kritik an der \"Kettensägen-Politik\" von Präsident Milei geübt und zu mehr Rücksicht aufgerufen. Seit fast vier Jahrzehnten war kein Papst mehr in dem südamerikanischen Land zu Gast.",
+     "link": "https://www.tagesschau.de/ausland/amerika/papst-in-argentinien-100.html",
+     "image": "https://images.tagesschau.de/image/1f30676a-63bb-4057-a135-fb0db6a3cdc5/AAABob7H93o/AAABnSSvrFg/16x9-big/papst-1178.jpg?width=1920",
+     "aggregator": false,
+     "published": "2026-11-09T00:43:39+00:00"
+    },
+    {
+     "source": "Deutsche Welle",
+     "region": "INT",
+     "weight": 0.95,
+     "title": "Reise mit Strapazen: Papst Leo XIV. ist in Südamerika zurück",
+     "summary": "Der Pontifex besucht zuerst das streng laizistische Uruguay - eine stabile Demokratie, in der die Kirche jedoch nicht besonders populär ist. Auch gesundheitlich ist die Reise für den 71-Jährigen eine Herausforderung.",
+     "link": "https://www.dw.com/de/reise-mit-strapazen-papst-leo-xiv-ist-in-südamerika-zurück/a-79885738?maca=de-rss-de-all-1119-xml-mrss",
+     "image": "https://static.dw.com/image/79885767_302.jpg",
+     "aggregator": false,
+     "published": "2026-11-07T15:09:00+00:00"
+    },
+    {
+     "source": "WELT",
+     "region": "DE",
+     "weight": 0.8,
+     "title": "Nach dem Besuch des Papstes ist Javier Milei auf sich allein gestellt",
+     "summary": "Harte Zeiten für den libertären Präsidenten. Papst Leo XIV. übernimmt beim Argentinien-Besuch in seiner Fundamentalkritik an den Strukturreformen fast komplett die Positionen der linkspopulistischen Opposition.",
+     "link": "https://www.welt.de/politik/ausland/article6af3b75a42c2bfde5b993789/argentinien-nach-dem-besuch-des-papstes-ist-javier-milei-auf-sich-allein-gestellt.html",
+     "image": "https://images.welt.de/6af3b75a42c2bfde5b993789/d5c380161b72d57188f972a19a62d96e-master/ci23x11-w1200/1794328274634-afp-d73f89e-jpg",
+     "aggregator": false,
+     "published": "2026-11-11T01:56:03+00:00"
+    },
+    {
+     "source": "WELT",
+     "region": "DE",
+     "weight": 0.6,
+     "title": "Argentinien: Nach dem Besuch des Papstes ist Javier Milei auf sich allein gestellt",
+     "summary": "Argentinien: Nach dem Besuch des Papstes ist Javier Milei auf sich allein gestellt WELT Buenos Aires: Papst Leo XIV. feiert Messe vor zwei Millionen Menschen tagesschau.de Folge 13: Papstkritik an Milei++\"Wir sind Kirche\" feiert RTL+ Papst Leo in Lateinamerika: Die Argentinier feiern den Papst-Besuch wie eine Erlösung - Politik - SZ.de SZ.de Papst ruft argentinische Katholiken zur Einheit auf Vatican News",
+     "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxQR0xtb09Xd3JpenAwOU0yUUVkbktwRmVxdE5hS21lV1ZNZjY5bGNpSC1WbE0yU0lMbGRXUEZmSl9wa0NMVmdSaHM4N0RzS01kTlRYdzJxOEJEZl83VEppMmdKcUR6RTZXZ3Z0c1lyZmFkYkhPd1k0dXh5WW5UTGYwazZTM3JlSGNFNnB4XzlZRzVqaTJVNUoxNlRIQkVfUGtBY0tmVjRlWW9yOGU3TVNrQ3VHVHlfcUdmQ3ZjT2FaeDhSbDJzRGs3NWdiZENaa2tWZ3VvbDhLakluOTg0WXB1anlvbjRBZm43VUE?oc=5",
+     "image": null,
+     "aggregator": true,
+     "published": "2026-11-11T01:57:38+00:00"
+    }
+   ]
+  },
+  {
+   "id": 11,
+   "score": 9.2,
+   "outlets": [
+    "tagesschau",
+    "ZDFheute",
+    "SPIEGEL",
+    "Süddeutsche",
+    "RTL.de"
+   ],
+   "regions": [
+    "DE"
+   ],
+   "trend": [],
+   "newest": "2026-11-10T18:59:00+00:00",
+   "articles": [
+    {
+     "source": "tagesschau",
+     "region": "DE",
+     "weight": 1.0,
+     "title": "Angeklagte im Fall Fabian zu lebenslanger Haft verurteilt",
+     "summary": "Im Mordprozess um den achtjährigen Fabian aus Güstrow hat das Landgericht Rostock sein Urteil verkündet. Die Angeklagte wurde schuldig gesprochen und zu lebenslanger Haft verurteilt.",
+     "link": "https://www.tagesschau.de/inland/regional/mecklenburgvorpommern/urteil-im-mordfall-fabian-gina-h-zu-lebenslanger-haft-verurteilt,aktuellmv-438.html",
+     "image": "https://images.ndr.de/image/e722eea4-caaa-454a-9cdf-4d9c80e65e8b/AAABocbH2us/AAABnSSvrFg/16x9-big/ginah-100.jpg?width=1920",
+     "aggregator": false,
+     "published": "2026-11-10T17:59:21+00:00"
+    },
+    {
+     "source": "ZDFheute",
+     "region": "DE",
+     "weight": 1.0,
+     "title": "Mord an Fabian: Angeklagte zu lebenslanger Haft verurteilt",
+     "summary": "Im Fall Fabian ist das Urteil verkündet worden: Die Angeklagte Gina H. wurde wegen Mordes zu lebenslanger Haft verurteilt.",
+     "link": "https://www.zdfheute.de/panorama/kriminalitaet/lebenslange-haft-prozess-mord-fabian-100.html",
+     "image": "https://www.zdfheute.de/assets/mordprozess-im-fall-fabian-100~384x216?cb=1794310958993",
+     "aggregator": false,
+     "published": "2026-11-10T11:37:34+00:00"
+    },
+    {
+     "source": "SPIEGEL",
+     "region": "DE",
+     "weight": 0.9,
+     "title": "Rostocker Prozess gegen Gina H. im Mordfall Fabian: Nach dem Urteil applaudieren die Zuschauer im Saal",
+     "summary": "Seit April wurde vor dem Landgericht Rostock der gewaltsame Tod des achtjährigen Fabian verhandelt. Die Angeklagte Gina H. verstrickte sich in immer neue Lügen. Für die Richter steht fest: Sie hat das Kind ermordet.",
+     "link": "https://www.spiegel.de/panorama/justiz/rostocker-prozess-gegen-gina-h-im-mordfall-fabian-nach-dem-urteil-applaudieren-die-zuschauer-im-saal-a-8f1802b1-0b2f-4073-aa83-49b639e90ac0#ref=rss",
+     "image": "https://cdn.prod.www.spiegel.de/images/6db0d8c4-edb7-4a71-ab13-91d2afa63e30_w520_r2.08_fpx50.98_fpy50.jpg",
+     "aggregator": false,
+     "published": "2026-11-10T18:59:00+00:00"
+    },
+    {
+     "source": "Süddeutsche",
+     "region": "DE",
+     "weight": 0.9,
+     "title": "Urteil im „Fabian-Prozess“: „Sie wollten, dass Fabian stirbt, der Junge war für Sie nur ein Objekt“",
+     "summary": "Der Richter spricht Gina H. direkt an, als er sie für den Mord an dem achtjährigen Fabian zu lebenslanger Haft verurteilt. Ihr Motiv: die obsessive Beziehung zu dessen Vater. Fabians Mutter kämpft im Saal mit den Tränen.",
+     "link": "https://www.sueddeutsche.de/panorama/fabian-prozess-urteil-gina-h-guestrow-mord-urteil-li.3575410",
+     "image": "https://www.sueddeutsche.de/2026/11/10/fff55b7b-8e5e-4bce-86bf-abaa92ae151c.jpg?rect=1068%2C573%2C2664%2C1998&width=1000&fm=jpg&q=60",
+     "aggregator": false,
+     "published": "2026-11-10T15:21:56+00:00"
+    },
+    {
+     "source": "RTL.de",
+     "region": "DE",
+     "weight": 0.6,
+     "title": "Mordfall Fabian: Wie verurteilte Gina H. sich selbst mit ihren Sprachnachrichten überführte",
+     "summary": "Mordfall Fabian: Wie verurteilte Gina H. sich selbst mit ihren Sprachnachrichten überführte RTL.de Fall Fabian/Rostock: Gina H. zu lebenslanger Haft verurteilt Spiegel \"Passt zum Tatbild\": Richter im Fabian-Prozess wählt harte Worte über Gina H. T-Online Der Fall Fabian - Hinter der Akte - Film online anschauen RTL+ Fall Fabian: Gina H. wegen Mordes zu lebenslanger Haft verurteilt - Panorama - SZ.de SZ.de",
+     "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPblRuRGJuUTdsbDEtYTN1X2FqSURRRzdqVGRYZG1scVNmMGVISHBEMWhRWExXNEtyMnlaLWJtRlZodWFDWG5SLTJoY0ZDUW4taEVfNmlGLTZXcTd2OHpQUkg2WUJIMHktV25lVC1PT3RHa0tXWHViYU5SLUV4cVg3V1AxOEZCTl8zZEM2YjRRcUpKN0JzdzJpbVFlMTVoZmFCbXJ2UGI0STh4UnkyNnpNNTlMVG00SExiWTdLOEVmcXRDV3hyNThENGpSZw?oc=5",
+     "image": null,
+     "aggregator": true,
+     "published": "2026-11-10T18:31:45+00:00"
+    }
+   ]
+  },
+  {
+   "id": 12,
+   "score": 9.1,
+   "outlets": [
+    "Süddeutsche",
+    "WirtschaftsWoche",
+    "n-tv",
+    "Golem"
+   ],
+   "regions": [
+    "DE"
+   ],
+   "trend": [
+    "künstliche intelligenz"
+   ],
+   "newest": "2026-11-10T15:55:57+00:00",
+   "articles": [
+    {
+     "source": "Süddeutsche",
+     "region": "DE",
+     "weight": 0.9,
+     "title": "Künstliche Intelligenz: Anthropic plant Billionenbewertung beim Börsengang",
+     "summary": "Das KI-Unternehmen strebt eine Bewertung von einer Billion US-Dollar an, geplant waren mal bis zu zwei Billionen. Grund für den Abschlag: die jüngsten Turbulenzen in der KI-Branche.",
+     "link": "https://www.sueddeutsche.de/wirtschaft/anthropic-ipo-boersengang-billion-ki-li.3578418",
+     "image": "https://www.sueddeutsche.de/2026/06/18/43689ed8-b359-4d31-a318-92c525a567d2.jpg?rect=444%2C0%2C3556%2C2667&width=1000&fm=jpg&q=60",
+     "aggregator": false,
+     "published": "2026-11-10T14:56:57+00:00"
+    },
+    {
+     "source": "WirtschaftsWoche",
+     "region": "DE",
+     "weight": 0.85,
+     "title": "Künstliche Intelligenz: Anthropic peilt Börsenbewertung von einer Billion Dollar an",
+     "summary": "Anthropic strebt mit seinem Börsengang eine Milliardenbewertung an. Doch Zweifel am KI-Boom könnten die Nachfrage bremsen.",
+     "link": "https://www.wiwo.de/unternehmen/it/anthropic-ipo-boersengang-soll-64-milliarden-us-dollar-bringen/100268790.html",
+     "image": "https://images.wiwo.de/Y84c3DDpxEDU/cover/900/506/0/0/261/262/0.5/0.5/file-photo-an-anthropic-logo-is-displayed-at-moscone-center-during-the-dreamforce-2026-technology-s.jpg",
+     "aggregator": false,
+     "published": "2026-11-10T15:55:57+00:00"
+    },
+    {
+     "source": "n-tv",
+     "region": "DE",
+     "weight": 0.8,
+     "title": "Einnahmen in Milliardenhöhe: Anthropic strebt Börsengang mit Billionen-Bewertung an",
+     "summary": "Der geplante Börsengang von Anthropic wird zum Belastungstest für die KI-Branche. Derzeit peilt das US-Unternehmen eine Bewertung von bis zu einer Billion US-Dollar an. Ursprünglich war von einer doppelt so hohen Summe die Rede - doch die Eurphorie ist gedämpft.",
+     "link": "https://www.n-tv.de/wirtschaft/Anthropic-strebt-Boersengang-mit-Billionen-Bewertung-an-id31517693.html",
+     "image": "https://www.n-tv.de/img/31517704/1794323534/Img_4_3/250/630791506.jpg",
+     "aggregator": false,
+     "published": "2026-11-10T15:06:32+00:00"
+    },
+    {
+     "source": "Golem",
+     "region": "DE",
+     "weight": 0.75,
+     "title": "Börsengang: Anthropic strebt Bewertung von bis zu 1,4 Billionen US-Dollar an",
+     "summary": "Der KI-Anbieter Anthropic hat die Preisspanne für seinen Börsengang genannt. Dieser könnte rund 100 Milliarden US-Dollar einbringen. ( Anthropic , Börse )",
+     "link": "https://www.golem.de/news/boersengang-anthropic-strebt-bewertung-von-bis-zu-1-4-billionen-us-dollar-an-2611-215051.html",
+     "image": "https://cpx.golem.de/cpx.php?class=17&amp;aid=215051&amp;page=1&amp;ts=1794325081",
+     "aggregator": false,
+     "published": "2026-11-10T15:38:01+00:00"
+    }
+   ]
+  },
+  {
+   "id": 13,
+   "score": 8.96,
+   "outlets": [
+    "Deutschlandfunk",
+    "WELT",
+    "n-tv"
+   ],
+   "regions": [
+    "DE"
+   ],
+   "trend": [],
+   "newest": "2026-11-11T03:58:08+00:00",
+   "articles": [
+    {
+     "source": "Deutschlandfunk",
+     "region": "DE",
+     "weight": 0.95,
+     "title": "Gesundheitsministerium - Ältere Beschäftigte mehr als 30 Tage im Jahr krank",
+     "summary": "Ältere Beschäftigte in Deutschland sind nach Angaben des Bundesgesundheitsministeriums im Schnitt mehr als 30 Tage im Jahr krankgeschrieben.",
+     "link": "https://www.deutschlandfunk.de/aeltere-beschaeftigte-mehr-als-30-tage-im-jahr-krank-100.html",
+     "image": "https://bilder.deutschlandfunk.de/91/c4/c7/0b/91c4c70b-6145-437e-aebc-c2f30de95745/elektronische-au-krankmeldung-100-1920x1920.jpg",
+     "aggregator": false,
+     "published": "2026-11-11T03:58:08+00:00"
+    },
+    {
+     "source": "WELT",
+     "region": "DE",
+     "weight": 0.8,
+     "title": "Ältere Beschäftigte mehr als 30 Tage im Jahr krank – Linke spricht von „Warnsignal“",
+     "summary": "Versicherte zwischen 60 und 65 Jahren kamen zuletzt auf durchschnittlich 31,3 Arbeitsunfähigkeitstage. Die Linkenpolitikerin Sarah Vollath kritisiert deshalb die Rentenpläne der Koalition.",
+     "link": "https://www.welt.de/politik/article6af3b460f0b67a4b24664f18/rentenplaene-aeltere-beschaeftigte-mehr-als-30-tage-im-jahr-krank-linke-spricht-von-warnsignal.html",
+     "image": "https://images.welt.de/6af3b460f0b67a4b24664f18/a89429831ba598079882f00e1049411b-master/ci23x11-w1200/dpa-com-260605-935-1389566-jpg",
+     "aggregator": false,
+     "published": "2026-11-11T00:59:38+00:00"
+    },
+    {
+     "source": "n-tv",
+     "region": "DE",
+     "weight": 0.8,
+     "title": "Linke kritisiert Rentenpläne: Ältere Beschäftigte mehr als 30 Tage im Jahr krank - \"Warnsignal\"",
+     "summary": "Das Renteneintrittsalter steigt - so will es die Koalition. Doch neue Daten zeigen nun: Wer über 60 Jahre alt ist, meldet sich deutlich häufiger krank als jüngere Arbeitskollegen. Die Linke übt scharfe Kritik an der Bundesregierung.",
+     "link": "https://www.n-tv.de/politik/Aeltere-Beschaeftigte-mehr-als-30-Tage-im-Jahr-krank-Linke-spricht-von-Warnsignal-id31519268.html",
+     "image": "https://www.n-tv.de/img/31519265/1794363955/Img_4_3/250/630489577.jpg",
+     "aggregator": false,
+     "published": "2026-11-11T01:48:59+00:00"
+    }
+   ]
+  },
+  {
+   "id": 14,
+   "score": 7.76,
+   "outlets": [
+    "tagesschau",
+    "Deutschlandfunk"
+   ],
+   "regions": [
+    "DE",
+    "INT"
+   ],
+   "trend": [],
+   "newest": "2026-11-11T03:58:08+00:00",
+   "articles": [
+    {
+     "source": "tagesschau",
+     "region": "DE",
+     "weight": 1.0,
+     "title": "Trauermesse nach Zugunglück mit 69 Toten in Spanien",
+     "summary": "Vor knapp zwei Wochen erschütterte das zweite große Zugunglück innerhalb eines Jahres Spanien - der Schock sitzt noch immer tief. Bei einer Trauermesse in Toledo wurde nun der 69 Toten gedacht. Von Franka Welz.",
+     "link": "https://www.tagesschau.de/ausland/europa/trauermesse-spanien-100.html",
+     "image": "https://images.tagesschau.de/image/d1f033ab-21ab-4c84-8fc0-50de7556891e/AAABocd6jrY/AAABnSSvrFg/16x9-big/toledo-118.jpg?width=1920",
+     "aggregator": false,
+     "published": "2026-11-10T21:04:36+00:00"
+    },
+    {
+     "source": "tagesschau Ausland",
+     "region": "INT",
+     "weight": 1.0,
+     "title": "Trauermesse nach Zugunglück mit 69 Toten in Spanien",
+     "summary": "Vor knapp zwei Wochen erschütterte das zweite große Zugunglück innerhalb eines Jahres Spanien - der Schock sitzt noch immer tief. Bei einer Trauermesse in Toledo wurde nun der 69 Toten gedacht. Von Franka Welz.",
+     "link": "https://www.tagesschau.de/ausland/europa/trauermesse-spanien-100.html",
+     "image": "https://images.tagesschau.de/image/d1f033ab-21ab-4c84-8fc0-50de7556891e/AAABocd6jrY/AAABnSSvrFg/16x9-big/toledo-118.jpg?width=1920",
+     "aggregator": false,
+     "published": "2026-11-10T21:04:36+00:00"
+    },
+    {
+     "source": "Deutschlandfunk",
+     "region": "DE",
+     "weight": 0.95,
+     "title": "Toledo - Trauermesse nach Zugkatastrophe in Spanien",
+     "summary": "Knapp zwei Wochen nach dem schweren Zugunglück in Spanien ist in der Kathedrale von Toledo eine Trauermesse gehalten worden.",
+     "link": "https://www.deutschlandfunk.de/trauermesse-nach-zugkatastrophe-in-spanien-104.html",
+     "image": "https://bilder.deutschlandfunk.de/e5/d4/4a/99/e5d44a99-b7cb-456d-9900-a6cf4f67e4d7/toledo-trauerfeier-100-1920x1920.jpg",
+     "aggregator": false,
+     "published": "2026-11-11T03:58:08+00:00"
+    }
+   ]
+  },
+  {
+   "id": 15,
+   "score": 7.76,
+   "outlets": [
+    "tagesschau Ausland",
+    "Deutschlandfunk"
+   ],
+   "regions": [
+    "DE",
+    "INT"
+   ],
+   "trend": [],
+   "newest": "2026-11-11T03:58:08+00:00",
+   "articles": [
+    {
+     "source": "tagesschau Ausland",
+     "region": "INT",
+     "weight": 1.0,
+     "title": "Amsterdam: Zehntausende demonstrieren gegen Israels Gaza-Politik",
+     "summary": "Amsterdam ist erneut Schauplatz einer Großdemonstration gegen das israelische Vorgehen im Gazastreifen geworden. Der Protest verlief laut Polizei friedlich. Ministerpräsident Jetten war dieses Mal nicht dabei.",
+     "link": "https://www.tagesschau.de/ausland/europa/demonstration-amsterdam-israel-100.html",
+     "image": "https://images.tagesschau.de/image/cac8f4e0-8a53-49fc-a135-8f57f56a06a6/AAABobwcTQk/AAABnSSvrFg/16x9-big/demonstration-amsterdam-102.jpg?width=1920",
+     "aggregator": false,
+     "published": "2026-11-08T17:02:14+00:00"
+    },
+    {
+     "source": "Deutschlandfunk",
+     "region": "DE",
+     "weight": 0.95,
+     "title": "Gazastreifen - Mehrere Tote bei israelischen Angriffen",
+     "summary": "Im Gazastreifen hat es erneut israelische Angriffe gegeben.",
+     "link": "https://www.deutschlandfunk.de/mehrere-tote-bei-israelischen-angriffen-108.html",
+     "image": "https://bilder.deutschlandfunk.de/cc/a8/26/b8/cca826b8-6b0c-4876-8221-929f4af6dfd9/zeltstadt-gaza-100-1920x1920.jpg",
+     "aggregator": false,
+     "published": "2026-11-11T03:58:08+00:00"
+    }
+   ]
+  },
+  {
+   "id": 16,
+   "score": 7.57,
+   "outlets": [
+    "tagesschau Inland",
+    "DER STANDARD"
+   ],
+   "regions": [
+    "AT",
+    "DE"
+   ],
+   "trend": [],
+   "newest": "2026-11-11T04:00:00+00:00",
+   "articles": [
+    {
+     "source": "tagesschau Inland",
+     "region": "DE",
+     "weight": 1.0,
+     "title": "Kameras in Schlachthöfen: Mehr Überwachung für den Tierschutz",
+     "summary": "Der Bundestag hat eine verpflichtende Videoüberwachung in großen Schlachthöfen beschlossen. Doch Ausnahmen für kleine Betriebe und Fragen zur Umsetzung sorgen für Diskussionen. Von Eva Huber.",
+     "link": "https://www.tagesschau.de/inland/innenpolitik/bundestag-tierschutzgesetz-100.html",
+     "image": "https://images.tagesschau.de/image/9ddfd8db-915b-4ae9-9685-bed94f4b4fc6/AAABoawBJm0/AAABnSSvrFg/16x9-big/schweine-transporter-100.jpg?width=1920",
+     "aggregator": false,
+     "published": "2026-11-05T18:02:22+00:00"
+    },
+    {
+     "source": "DER STANDARD",
+     "region": "AT",
+     "weight": 0.85,
+     "title": "Deutschland beschließt verpflichtende Videoüberwachung für große Schlachthöfe",
+     "summary": "Immer wieder werden Tiere, noch bevor sie getötet werden, in Betrieben gequält",
+     "link": "https://www.derstandard.at/story/3000000348567/deutschland-beschliesst-verpflichtende-videoueberwachung-fuer-grosse-schlachthoefe?ref=rss",
+     "image": "https://i.ds.at/ZpOQsQ/rs:fill:150:0/plain/lido-images/2026/10/01/b136fd07-612e-48fa-8e56-6e618382c9be.jpg",
+     "aggregator": false,
+     "published": "2026-11-11T04:00:00+00:00"
+    }
+   ]
+  },
+  {
+   "id": 17,
+   "score": 7.56,
+   "outlets": [
+    "Deutschlandfunk",
+    "ZEIT ONLINE"
+   ],
+   "regions": [
+    "DE"
+   ],
+   "trend": [],
+   "newest": "2026-11-11T03:58:08+00:00",
+   "articles": [
+    {
+     "source": "Deutschlandfunk",
+     "region": "DE",
+     "weight": 0.95,
+     "title": "USA - Drei mutmaßlich vom Iran unterstützte Terror-Helfer angeklagt",
+     "summary": "In den USA sind drei angeblich vom Iran unterstützte Männer wegen der mutmaßlichen Beteiligung an Terroranschlägen angeklagt worden.",
+     "link": "https://www.deutschlandfunk.de/drei-mutmasslich-vom-iran-unterstuetzte-terror-helfer-angeklagt-100.html",
+     "image": "https://bilder.deutschlandfunk.de/ef/19/89/77/ef198977-c512-45bc-ad4b-4a3ef317dd90/us-langstreckenbomber-fairford-100-1920x1920.jpg",
+     "aggregator": false,
+     "published": "2026-11-11T03:58:08+00:00"
+    },
+    {
+     "source": "ZEIT ONLINE",
+     "region": "DE",
+     "weight": 0.9,
+     "title": "Luftwaffenstützpunkt Fairford: Drei Iraner wegen Anschlagsplänen auf Luftwaffenstützpunkt angeklagt",
+     "summary": "Die US-Justiz hat drei Iraner angeklagt, weil sie einen Anschlag auf einen britischen Luftwaffenstützpunkt geplant haben sollen. Es könnte jedoch weiter Gefahr bestehen.",
+     "link": "https://www.zeit.de/politik/ausland/2026-11/luftwaffenstuetzpunkt-fairford-anschlag-iran-us-luftwaffe",
+     "image": "https://img.zeit.de/politik/ausland/2026-11/bell-boeing-cv-22b-osprey-at-raf-lakenheath-bild/original__640x360",
+     "aggregator": false,
+     "published": "2026-11-11T00:49:12+00:00"
+    }
+   ]
+  },
+  {
+   "id": 18,
+   "score": 7.47,
+   "outlets": [
+    "ZEIT ONLINE",
+    "Handelsblatt"
+   ],
+   "regions": [
+    "DE"
+   ],
+   "trend": [],
+   "newest": "2026-11-11T04:00:08+00:00",
+   "articles": [
+    {
+     "source": "ZEIT ONLINE",
+     "region": "DE",
+     "weight": 0.9,
+     "title": "Gasversorgung: Was bringt eine Gasreserve? Kabinettsbeschluss erwartet",
+     "summary": "",
+     "link": "https://www.zeit.de/news/2026-11/11/was-bringt-eine-gasreserve-kabinettsbeschluss-erwartet",
+     "image": "https://img.zeit.de/news/2026-11/11/was-bringt-eine-gasreserve-kabinettsbeschluss-erwartet-image-group/original__640x360",
+     "aggregator": false,
+     "published": "2026-11-11T04:00:08+00:00"
+    },
+    {
+     "source": "Handelsblatt",
+     "region": "DE",
+     "weight": 0.9,
+     "title": "Gasversorgung: Was bringt eine Gasreserve? Kabinettsbeschluss erwartet",
+     "summary": "Die Bundesregierung will eine Gasreserve auf den Weg bringen, als ein Instrument der Krisenvorsorge. Vor welchen Szenarien Gaskunden geschützt werden sollen – und wieviel sie das kosten wird.",
+     "link": "https://www.handelsblatt.com/politik/deutschland/gasversorgung-was-bringt-eine-gasreserve-kabinettsbeschluss-erwartet/100268964.html",
+     "image": "https://images.handelsblatt.com/RJKsnvcCUh5a/cover/900/506/0/0/107/106/0.5/0.5/gasspeicher.jpg",
+     "aggregator": false,
+     "published": "2026-11-11T04:00:08+00:00"
+    }
+   ]
+  },
+  {
+   "id": 19,
+   "score": 7.46,
+   "outlets": [
+    "Deutschlandfunk",
+    "DER STANDARD"
+   ],
+   "regions": [
+    "AT",
+    "DE"
+   ],
+   "trend": [],
+   "newest": "2026-11-11T03:58:08+00:00",
+   "articles": [
+    {
+     "source": "Deutschlandfunk",
+     "region": "DE",
+     "weight": 0.95,
+     "title": "Geberkonferenz in Paris - Mehr als 300 Millionen Euro für Reparatur von Tschernobyl-Schutzhülle zugesagt",
+     "summary": "Internationale Geldgeber haben bei einer Konferenz in Paris mehr als 300 Millionen Euro für die Reparatur der Schutzhülle des Atomkraftwerks Tschernobyl zugesagt.",
+     "link": "https://www.deutschlandfunk.de/mehr-als-300-millionen-euro-fuer-reparatur-von-tschernobyl-schutzhuelle-zugesagt-104.html",
+     "image": "https://bilder.deutschlandfunk.de/cd/60/23/ad/cd6023ad-eeeb-4299-9a2a-49422fd14da2/40-jahre-tschernobyl-atomkraft-100-1920x1920.jpg",
+     "aggregator": false,
+     "published": "2026-11-11T03:58:08+00:00"
+    },
+    {
+     "source": "DER STANDARD",
+     "region": "AT",
+     "weight": 0.85,
+     "title": "303 Millionen Euro für Reparatur von Tschernobyl-Schutzhülle zugesagt",
+     "summary": "Insgesamt beteiligen sich 14 Länder und Organisationen. Österreich stellt eine Million Euro zur Verfügung",
+     "link": "https://www.derstandard.at/story/3000000348612/303-millionen-euro-f252r-reparatur-von-tschernobyl-schutzh252lle-zugesagt?ref=rss",
+     "image": "https://i.ds.at/L9vuDQ/rs:fill:150:0/plain/lido-images/2026/11/10/1b0004f4-34c7-46d8-b8aa-9b0bce9051b0.jpg",
+     "aggregator": false,
+     "published": "2026-11-10T19:32:53+00:00"
+    }
+   ]
+  },
+  {
+   "id": 20,
+   "score": 7.43,
+   "outlets": [
+    "ZEIT ONLINE",
+    "Handelsblatt"
+   ],
+   "regions": [
+    "DE"
+   ],
+   "trend": [],
+   "newest": "2026-11-11T03:53:06+00:00",
+   "articles": [
+    {
+     "source": "ZEIT ONLINE",
+     "region": "DE",
+     "weight": 0.9,
+     "title": "Geschäftsträger einbestellt: Diplomatischer Eklat zwischen Deutschland und Myanmar",
+     "summary": "",
+     "link": "https://www.zeit.de/news/2026-11/11/diplomatischer-eklat-zwischen-deutschland-und-myanmar",
+     "image": "https://img.zeit.de/news/2026-11/11/diplomatischer-eklat-zwischen-deutschland-und-myanmar-image-group/original__640x360",
+     "aggregator": false,
+     "published": "2026-11-11T03:53:06+00:00"
+    },
+    {
+     "source": "Handelsblatt",
+     "region": "DE",
+     "weight": 0.9,
+     "title": "Geschäftsträger einbestellt: Diplomatischer Eklat zwischen Deutschland und Myanmar",
+     "summary": "Ein Geburtstagsgruß wird zum diplomatischen Zwischenfall: Myanmars Militärführung reagiert mit einer Protestnote auf Kritik aus Deutschland. Der Vorfall ist ungewöhnlich – und politisch brisant.",
+     "link": "https://www.handelsblatt.com/politik/international/geschaeftstraeger-einbestellt-diplomatischer-eklat-zwischen-deutschland-und-myanmar/100268927.html",
+     "image": "https://images.handelsblatt.com/wTtrfhzSOiGU/cover/900/506/0/0/107/107/0.5/0.5/myanmars-praesident-min-aung-hlaing.jpg",
+     "aggregator": false,
+     "published": "2026-11-11T03:53:06+00:00"
+    }
+   ]
+  },
+  {
+   "id": 21,
+   "score": 7.36,
+   "outlets": [
+    "Deutschlandfunk",
+    "n-tv"
+   ],
+   "regions": [
+    "DE"
+   ],
+   "trend": [],
+   "newest": "2026-11-11T03:58:08+00:00",
+   "articles": [
+    {
+     "source": "Deutschlandfunk",
+     "region": "DE",
+     "weight": 0.95,
+     "title": "Migration - SPD-Bundestagsfraktion fordert neues Bleiberecht für Flüchtlinge mit festem Job",
+     "summary": "Die SPD-Bundestagsfraktion hat ein neues Bleiberecht für Flüchtlinge mit festem Job vorgeschlagen.",
+     "link": "https://www.deutschlandfunk.de/spd-bundestagsfraktion-fordert-neues-bleiberecht-fuer-fluechtlinge-mit-festem-job-104.html",
+     "image": "https://bilder.deutschlandfunk.de/8e/89/5c/4b/8e895c4b-14a7-4728-9da0-c3114b4e815d/fluechtling-arbeit-100-1280x1280.jpg",
+     "aggregator": false,
+     "published": "2026-11-11T03:58:08+00:00"
+    },
+    {
+     "source": "n-tv",
+     "region": "DE",
+     "weight": 0.8,
+     "title": "\"Wer arbeitet, darf bleiben\": SPD will Bleiberecht für arbeitende Geflüchtete",
+     "summary": "Die SPD-Bundestagsfraktion legt ein Positionspapier zur Zuwanderung vor. Gut integrierte Flüchtlinge mit Job, Ausbildung oder Pflegeaufgaben sollen dauerhaft in Deutschland bleiben dürfen. Der Koalitionsvertrag mit der Union sieht bislang deutlich engere Regeln vor.",
+     "link": "https://www.n-tv.de/politik/SPD-will-Bleiberecht-fuer-arbeitende-Gefluechtete-id31518724.html",
+     "image": "https://www.n-tv.de/img/31518789/1794335054/Img_4_3/250/457877452.jpg",
+     "aggregator": false,
+     "published": "2026-11-10T18:02:24+00:00"
+    }
+   ]
+  },
+  {
+   "id": 22,
+   "score": 7.36,
+   "outlets": [
+    "Deutschlandfunk",
+    "WELT"
+   ],
+   "regions": [
+    "DE"
+   ],
+   "trend": [],
+   "newest": "2026-11-11T03:58:08+00:00",
+   "articles": [
+    {
+     "source": "Deutschlandfunk",
+     "region": "DE",
+     "weight": 0.95,
+     "title": "Frankreich - Ermittlungen gegen Schriftsteller Houellebecq wegen Äußerungen über Muslime",
+     "summary": "Gegen den französischen Bestsellerautor Michel Houellebecq wird wegen umstrittener Äußerungen über Muslime ermittelt.",
+     "link": "https://www.deutschlandfunk.de/ermittlungen-gegen-schriftsteller-houellebecq-wegen-aeusserungen-ueber-muslime-106.html",
+     "image": "https://bilder.deutschlandfunk.de/69/be/da/32/69beda32-f50b-4f07-b4fe-296901b430d1/michel-houellebecq-franzoesischer-autor-portrait-100-1920x1920.jpg",
+     "aggregator": false,
+     "published": "2026-11-11T03:58:08+00:00"
+    },
+    {
+     "source": "WELT",
+     "region": "DE",
+     "weight": 0.8,
+     "title": "Justiz ermittelt gegen Michel Houellebecq wegen Äußerungen über Muslime",
+     "summary": "Ein Untersuchungsrichter hat ein Verfahren gegen den französischen Schriftsteller eröffnet. Auslöser ist ein Interview aus dem Jahr 2022. Seine Anwälte weisen die Vorwürfe zurück.",
+     "link": "https://www.welt.de/vermischtes/article6af353a842c2bfde5b9934a1/michel-houellebecq-nach-umstrittenem-interview-drohen-ihm-haft-und-geldstrafe.html",
+     "image": "https://images.welt.de/6af353a842c2bfde5b9934a1/906fec680a39ea7b4d8c1fe52a840d3b-master/ci23x11-w1200/laif-23706568-jbh-jpg",
+     "aggregator": false,
+     "published": "2026-11-10T18:06:23+00:00"
+    }
+   ]
+  },
+  {
+   "id": 23,
+   "score": 7.22,
+   "outlets": [
+    "Handelsblatt",
+    "WELT"
+   ],
+   "regions": [
+    "DE"
+   ],
+   "trend": [],
+   "newest": "2026-11-11T03:51:13+00:00",
+   "articles": [
+    {
+     "source": "Handelsblatt",
+     "region": "DE",
+     "weight": 0.9,
+     "title": "Arbeitsmarkt: Zahl der arbeitslosen Akademiker erreicht Höchststand",
+     "summary": "Wer studiert hat, hat jedoch weiterhin ein vergleichsweise geringes Risiko, arbeitslos zu werden. Das gilt für einige Studienrichtungen mehr als für andere.",
+     "link": "https://www.handelsblatt.com/politik/deutschland/arbeitsmarkt-zahl-der-arbeitslosen-akademiker-erreicht-hoechststand/100268919.html",
+     "image": "https://images.handelsblatt.com/r1CQhYLy3PBL/cover/900/506/0/0/83/83/0.5/0.5/bundesagentur-fuer-arbeit.jpg",
+     "aggregator": false,
+     "published": "2026-11-11T03:00:31+00:00"
+    },
+    {
+     "source": "WELT",
+     "region": "DE",
+     "weight": 0.8,
+     "title": "Zahl der arbeitslosen Akademiker erreicht Höchststand",
+     "summary": "Besonders betroffen sind laut Bundesagentur für Arbeit jüngere Studienabsolventen – sowie Geisteswissenschaftler und Ingenieure. Gründe sind die angespannte Wirtschaftslage und der Einsatz von Künstlicher Intelligenz.",
+     "link": "https://www.welt.de/politik/article6af3dc63f0b67a4b24664fa2/studium-und-beruf-zahl-der-arbeitslosen-akademiker-erreicht-hoechststand.html",
+     "image": "https://images.welt.de/6af3dc63f0b67a4b24664fa2/afac9c95d75b7b22a73561c30d73057d-master/ci23x11-w1200/gettyimages-871711500-jpg",
+     "aggregator": false,
+     "published": "2026-11-11T03:51:13+00:00"
+    }
+   ]
+  },
+  {
+   "id": 24,
+   "score": 7.2,
+   "outlets": [
+    "ZDFheute",
+    "SPIEGEL",
+    "NZZ",
+    "Wallstreet Online"
+   ],
+   "regions": [
+    "CH",
+    "DE"
+   ],
+   "trend": [],
+   "newest": "2026-11-10T17:30:00+00:00",
+   "articles": [
+    {
+     "source": "ZDFheute",
+     "region": "DE",
+     "weight": 1.0,
+     "title": "Verfassungsschutz warnt Manager vor \"Honigfallen\"",
+     "summary": "Nach dem möglichen Spionagefall bei Nvidia warnt der Verfassungsschutz: Auch in Deutschland könnten Manager von ausländischen Geheimdiensten geködert werden.",
+     "link": "https://www.zdfheute.de/politik/deutschland/verfassungsschutz-warnung-spione-manager-100.html",
+     "image": "https://www.zdfheute.de/assets/honigfallen-wirtschaftsspionage-100~384x216?cb=1794301666934",
+     "aggregator": false,
+     "published": "2026-11-10T09:22:00+00:00"
+    },
+    {
+     "source": "SPIEGEL",
+     "region": "DE",
+     "weight": 0.9,
+     "title": "News des Tages: Warnung vor Honigfallen, Prozess gegen Gina H., Stromsteuersenkung",
+     "summary": "Der Verfassungsschutz warnt vor sogenannten Honigfallen. Das Urteil im Fall des getöteten Fabian ist gefallen. Und die Union hat einen Plan zur Senkung der Stromsteuer. Das ist die Lage am Dienstagabend.",
+     "link": "https://www.spiegel.de/politik/deutschland/news-des-tages-warnung-vor-honigfallen-prozess-gegen-gina-h-stromsteuersenkung-a-d6f8f89c-e73c-4942-a45b-9f6731d01299#ref=rss",
+     "image": "https://cdn.prod.www.spiegel.de/images/31b9e1e5-c168-4d3a-a5ce-aee67f98f83f_w520_r2.08_fpx72_fpy48.jpg",
+     "aggregator": false,
+     "published": "2026-11-10T17:00:00+00:00"
+    },
+    {
+     "source": "NZZ",
+     "region": "CH",
+     "weight": 0.9,
+     "title": "Nvidia ist überall: Wirtschaftsspionage greift um sich – aber Schweizer Firmen schlafen",
+     "summary": "Industriespionage nimmt zu, immer öfter mischen Geheimdienste mit. Manche Unternehmen in der Schweiz gelten als «gefundenes Fressen», warnt eine Expertin.",
+     "link": "https://www.nzz.ch/wirtschaft/nvidia-affaere-spionage-trifft-auch-unternehmen-aus-der-schweiz-und-deutschland-ld.10058600",
+     "image": "https://img-msp-prod.nzz.ch/2026/11/04/e2d574c1-8d1e-4d2e-afb7-7f711e305d02.jpg?width=200&height=200&fit=bounds&quality=75&auto=webp&crop=5325,5325,x332,y0",
+     "aggregator": false,
+     "published": "2026-11-10T17:21:45+00:00"
+    },
+    {
+     "source": "Wallstreet Online",
+     "region": "DE",
+     "weight": 0.6,
+     "title": "Nvidia: Jensen Huang droht der größte Absturz seiner Karriere",
+     "summary": "Nvidia: Jensen Huang droht der größte Absturz seiner Karriere Wallstreet Online Nvidia: Verfassungsschutz warnt deutsche Topmanager vor Honigfallen Spiegel Trump und Huang: Wie gefährlich wird Nvidia-Sexskandal für Trump? BILD »Spione wollen ja schließlich auch Karriere machen« DIE ZEIT Nvidia-Aktie: Chipkonzern verliert in einer Woche knapp eine Billion Dollar Börsenwert Handelsblatt",
+     "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOQmxMRjM2SlFwa1ljVkRPY21BSk5pdWhxNHVYUVVzbVpkTkZMaWpOZXZ5MTh4NzhEMVlVTkljcnBfSjl4STJ1NFJaMnV3THVSTWNUR2hvZXhCdVgxRDJKS3dRQzNCTzJaOTRIMmxSR1JTX3lXVHFmeFFmM0ZnM2RSUUt3QThZNDUzZk9mTGxIM1FKTUZuMDBkRFhaV3kweDhFVG1MN0M1STNFV1lMN3RMc2xVMUtzLVhPSTFGNTl5RmFkNk92SXc?oc=5",
+     "image": null,
+     "aggregator": true,
+     "published": "2026-11-10T17:30:00+00:00"
+    }
+   ]
+  },
+  {
+   "id": 25,
+   "score": 7.1,
+   "outlets": [
+    "ZDFheute",
+    "Deutsche Welle",
+    "n-tv",
+    "WELT"
+   ],
+   "regions": [
+    "DE",
+    "INT"
+   ],
+   "trend": [],
+   "newest": "2026-11-10T16:55:00+00:00",
+   "articles": [
+    {
+     "source": "ZDFheute",
+     "region": "DE",
+     "weight": 1.0,
+     "title": "Wegen dieser Geste gibt es Kritik an BVB-Star Nmecha",
+     "summary": "Wegen seines Torjubels hagelt es für BVB-Mittelfeldmotor Felix Nmecha Kritik. Seine Geste wird einem umstrittenen evangelikalischen Netzwerk von Fußballspielern zugeordnet.",
+     "link": "https://www.zdfheute.de/sport/video/nmecha-kritik-torjubel-geste-100.html",
+     "image": "https://www.zdfheute.de/assets/nmecha-geste-torjubel-kritik-100~384x216?cb=1794298522233",
+     "aggregator": false,
+     "published": "2026-11-10T08:21:00+00:00"
+    },
+    {
+     "source": "Deutsche Welle",
+     "region": "INT",
+     "weight": 0.95,
+     "title": "Felix Nmecha: BVB-Fans fordern Distanzierung von religiösem Netzwerk",
+     "summary": "Borussia Dortmunds Felix Nmecha zeigt erneut seinen Jubel, der der konservativ-religiösen Bewegung \"Ballers in God\" zugerechnet wird. Das sorgt für Diskussionen und Kritik auch aus Reihen der BVB-Fans.",
+     "link": "https://www.dw.com/de/felix-nmecha-bvb-fans-fordern-distanzierung-von-religiösem-netzwerk/a-79897268?maca=de-rss-de-all-1119-xml-mrss",
+     "image": "https://static.dw.com/image/79897252_302.jpg",
+     "aggregator": false,
+     "published": "2026-11-09T11:02:00+00:00"
+    },
+    {
+     "source": "n-tv",
+     "region": "DE",
+     "weight": 0.8,
+     "title": "Folgen für \"Ballers in God\"?: BVB fordert Nmecha zu Verzicht des Kronen-Jubels auf",
+     "summary": "Der umstrittene Kronen-Jubel von Felix Nmecha beschäftigt auch seinen Klub Borussia Dortmund. Berichten zufolge soll der BVB den Nationalspieler auffordern, die Geste zu unterlassen.",
+     "link": "https://www.n-tv.de/sport/fussball/BVB-fordert-Nmecha-zu-Verzicht-des-Kronen-Jubels-auf-id31517492.html",
+     "image": "https://www.n-tv.de/img/31517502/1794326790/Img_4_3/250/image.jpg",
+     "aggregator": false,
+     "published": "2026-11-10T16:55:00+00:00"
+    },
+    {
+     "source": "WELT",
+     "region": "DE",
+     "weight": 0.6,
+     "title": "„Ballers in God“: BVB will Nmecha den umstrittenen Torjubel verbieten",
+     "summary": "„Ballers in God“: BVB will Nmecha den umstrittenen Torjubel verbieten WELT So reagiert Klopp auf den Nmecha-Ärger BILD (S+) Felix Nmecha: Jubel sorgt bei Borussia Dortmund und beim DFB für Irritationen Spiegel Felix Nmecha: BVB-Spieler Nmecha äußert sich zu umstrittenem Torjubel DIE ZEIT Felix Nmecha: BVB-Star äußert sich in der Debatte um seinen Jubel WELT",
+     "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxNMlJlSGttMlVqU1JkbExmdTZNNDVUM1UwY2x0TUZnNlZXR1UxT2JpZFZFN01IaFJCVWR5UE5vck9CM0pGMzgwWHdDaU4xWlAwRWwzRmZqWlBpYWdiYU52anBaWThMdXJfUDE5dm9FMlI3NkhySVdQdTNDYjlGUVIzWVQ1UndCNlJwaENiWkhSLXF4MTRNdlA2bXd3VjNKMG8ydjVWZ3hCV2huQy04R3ZfSWJxc0pTOHZub3VNN1FUV0xRZDl5TkNjMFhUUkRPZ2tWSFRGSU1EWUczNHE2NzV4THd6QQ?oc=5",
+     "image": null,
+     "aggregator": true,
+     "published": "2026-11-10T15:43:46+00:00"
+    }
+   ]
+  },
+  {
+   "id": 26,
+   "score": 7.06,
+   "outlets": [
+    "ZDFheute",
+    "ZEIT ONLINE"
+   ],
+   "regions": [
+    "DE"
+   ],
+   "trend": [],
+   "newest": "2026-11-11T02:10:34+00:00",
+   "articles": [
+    {
+     "source": "ZDFheute",
+     "region": "DE",
+     "weight": 1.0,
+     "title": "Wie Selenskyj den ersten Verhandlungstag einschätzt",
+     "summary": "Vertreter der Ukraine und Russlands verhandeln unter US-Vermittlung über eine Beendigung des Krieges. Europäische Staaten sitzen bei den Gesprächen nicht direkt mit am Tisch.",
+     "link": "https://www.zdfheute.de/politik/ausland/ukraine-verhandlungen-abu-dhabi-selenskyj-bilanz-gefangenenaustausch-100.html",
+     "image": "https://www.zdfheute.de/assets/wolodymyr-selenskyj-ukraine-praesident-kopenhagen-100~384x216?cb=1794359563687",
+     "aggregator": false,
+     "published": "2026-11-11T01:11:00+00:00"
+    },
+    {
+     "source": "ZEIT ONLINE",
+     "region": "DE",
+     "weight": 0.9,
+     "title": "Krieg gegen die Ukraine: Selenskyj zufrieden mit Fortschritt bei Friedensverhandlungen",
+     "summary": "Am ersten Verhandlungstag wurde laut Selenskyj ein Gefangenenaustausch besprochen. Die EU unterstützt die Sicherheit im Schwarzen Meer mit 50 Millionen Euro. Das Liveblog",
+     "link": "https://www.zeit.de/politik/ausland/ukraine-krieg-news-liveblog",
+     "image": "https://img.zeit.de/politik/ausland/2026-11/ukraine-s-president-volodymyr-zelenskiy-holds-a-press-briefing-in-copenhagen-bild/original__640x360",
+     "aggregator": false,
+     "published": "2026-11-11T02:10:34+00:00"
+    }
+   ]
+  },
+  {
+   "id": 27,
+   "score": 6.9,
+   "outlets": [
+    "tagesschau",
+    "ZDFheute",
+    "SRF News"
+   ],
+   "regions": [
+    "CH",
+    "DE",
+    "INT"
+   ],
+   "trend": [],
+   "newest": "2026-11-10T15:52:00+00:00",
+   "articles": [
+    {
+     "source": "tagesschau",
+     "region": "DE",
+     "weight": 1.0,
+     "title": "Mehrere Tote bei Massenunfällen auf bulgarischer Autobahn",
+     "summary": "Dichter Nebel, nasse Straßen: Auf einer Autobahn in Bulgarien sind mindestens zwölf Menschen bei Auffahrunfällen gestorben. Zahlreiche Rettungskräfte sind im Einsatz. EU-Kommissionschefin von der Leyen musste ihren Besuch in dem Land verkürzen.",
+     "link": "https://www.tagesschau.de/ausland/europa/bulgarien-tote-auffahrunfall-100.html",
+     "image": "https://images.tagesschau.de/image/a8e38b59-c9c0-4ca8-a40e-40fafe97544d/AAABocXKowI/AAABnSSvrFg/16x9-big/bulgarien-268.jpg?width=1920",
+     "aggregator": false,
+     "published": "2026-11-10T14:09:14+00:00"
+    },
+    {
+     "source": "tagesschau Ausland",
+     "region": "INT",
+     "weight": 1.0,
+     "title": "Mehrere Tote bei Massenunfällen auf bulgarischer Autobahn",
+     "summary": "Dichter Nebel, nasse Straßen: Auf einer Autobahn in Bulgarien sind mindestens zwölf Menschen bei Auffahrunfällen gestorben. Zahlreiche Rettungskräfte sind im Einsatz. EU-Kommissionschefin von der Leyen musste ihren Besuch in dem Land verkürzen.",
+     "link": "https://www.tagesschau.de/ausland/europa/bulgarien-tote-auffahrunfall-100.html",
+     "image": "https://images.tagesschau.de/image/a8e38b59-c9c0-4ca8-a40e-40fafe97544d/AAABocXKowI/AAABnSSvrFg/16x9-big/bulgarien-268.jpg?width=1920",
+     "aggregator": false,
+     "published": "2026-11-10T14:09:14+00:00"
+    },
+    {
+     "source": "ZDFheute",
+     "region": "DE",
+     "weight": 1.0,
+     "title": "Tote nach Massencrash in Bulgarien",
+     "summary": "Dichter Nebel hat auf einer Autobahn in Bulgarien offenbar schwere Auffahrunfälle ausgelöst. Mindestens elf Menschen starben, zahlreiche weitere wurden teils schwer verletzt.",
+     "link": "https://www.zdfheute.de/video/bulgarien-unfall-verkehr-100.html",
+     "image": "https://www.zdfheute.de/assets/bulgaria-transport-accident-100~384x216?cb=1794318083443",
+     "aggregator": false,
+     "published": "2026-11-10T15:52:00+00:00"
+    },
+    {
+     "source": "SRF News",
+     "region": "CH",
+     "weight": 0.95,
+     "title": "Schwerer Unfall in Bulgarien – Nebelchaos: 50 Fahrzeuge kollidieren auf Autobahn – 12 Tote",
+     "summary": "Dichter Nebel löste auf Bulgariens Autobahn mehrere Auffahrunfälle aus: Mindestens zwölf Menschen starben.",
+     "link": "https://www.srf.ch/news/international/schwerer-unfall-in-bulgarien-nebelchaos-50-fahrzeuge-kollidieren-auf-autobahn-12-tote",
+     "image": "https://www.srf.ch/static/cms/images//320ws/3f95534.webp",
+     "aggregator": false,
+     "published": "2026-11-10T13:56:15+00:00"
+    }
+   ]
+  }
+ ]
+}
