@@ -1,0 +1,67 @@
+{
+  "format": "single",
+  "candidate_id": 13,
+  "pillar": "POLITIK",
+  "region": "DE",
+  "kicker": "BERLIN",
+  "hook_screen": "40.000-EURO-GRENZE!",
+  "hook_voice": "Prien will Gutverdienern den Unterhaltsvorschuss streichen.",
+  "beats": [
+    {
+      "voice": "Vierzigtausend Euro Einkommen soll die Grenze sein. Das kündigte Familienministerin Karin Prien in der Regierungsbefragung an.",
+      "big": "40.000 €",
+      "label": "Einkommensgrenze für Alleinerziehende"
+    },
+    {
+      "voice": "Der Staat springt ein, wenn der andere Elternteil keinen Unterhalt zahlt. Alleinerziehende über der Grenze gingen künftig leer aus.",
+      "big": "STAAT ZAHLT",
+      "label": "wenn der andere Elternteil nicht zahlt"
+    },
+    {
+      "voice": "Die geplante Kürzung beim Alter ist dagegen vom Tisch. Der Vorschuss gilt weiter bis zum achtzehnten Geburtstag.",
+      "big": "18",
+      "label": "Vorschuss bleibt bis zum 18. Geburtstag"
+    },
+    {
+      "voice": "Säumige Eltern sollen stärker zur Kasse. Beschlossen ist aber noch nichts.",
+      "big": "ENTWURF",
+      "label": "noch nichts beschlossen"
+    }
+  ],
+  "loop_line": "Gerecht gespart – oder trifft Prien die Falschen?",
+  "headline": "Prien plant Grenze beim Vorschuss",
+  "highlight": [
+    "Prien"
+  ],
+  "entities": [
+    "Karin Prien",
+    "Bundestag",
+    "Bundesfamilienministerium"
+  ],
+  "youtube_title": "Prien kappt Unterhaltsvorschuss: Trifft es die Falschen?",
+  "description_lead": "Familienministerin Karin Prien (CDU) will den Unterhaltsvorschuss für Alleinerziehende an eine Einkommensgrenze von 40.000 Euro binden; säumige Elternteile sollen stärker in die Pflicht genommen werden. Die Leistung soll weiter bis zum 18. Geburtstag des Kindes gelten – beschlossen ist noch nichts.",
+  "tags": [
+    "Karin Prien",
+    "Unterhaltsvorschuss",
+    "Alleinerziehende",
+    "Familienministerium",
+    "Bundestag",
+    "Regierungsbefragung",
+    "Einkommensgrenze",
+    "Unterhalt",
+    "Familienpolitik",
+    "Sparpaket",
+    "CDU",
+    "Bundesregierung",
+    "nachrichten",
+    "nachrichten aktuell"
+  ],
+  "hashtags": [
+    "#unterhaltsvorschuss",
+    "#alleinerziehende",
+    "#prien"
+  ],
+  "facebook_caption_line1": "Einschnitt für Alleinerziehende: Prien will Unterhaltsvorschuss nur noch bis 40.000 Euro Einkommen",
+  "facebook_question": "Sollte der Staat beim Unterhaltsvorschuss nach dem Einkommen unterscheiden?",
+  "comment_question": "Ist die 40.000-Euro-Grenze gerecht – ja oder nein?"
+}
