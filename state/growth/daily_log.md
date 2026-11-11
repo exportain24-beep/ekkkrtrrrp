@@ -32,3 +32,4 @@
 - FB: Uploads 9. Nov ≈ 4.815 Plays (Orbán 3.691) · 10. Nov ≈ 759 · Posts vor 10 UTC Median 5 Plays (13 Videos) → rule 21.
 - vidIQ-Watch „Trumps Kehrtwende“: Hook startet mit „Erst gratuliert“, Satz 2 = alte Lage, nur 4 Fotos; Deutsch/Hochdeutsch fehlerfrei.
 - 2026-11-11 05:41 Berlin · Brief A · Credits 5.555 (−35) · Abos 18 · Views 29.381 · Videos 61
+- 2026-11-11 13:41 Berlin · Brief A · Credits 5.525 (−30) · Abos 19 · Views 34.724 · Videos 65
