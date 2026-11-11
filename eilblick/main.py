@@ -745,10 +745,26 @@ def cmd_recover() -> int:
     reels = requests.get(f"{FB._g()}/{FB.page_id()}/video_reels",
                          params={"fields": "id,description,created_time", "limit": 15, **FB._auth(FB.page_token())},
                          timeout=30).json().get("data", [])
+    ids = ",".join(it["snippet"]["resourceId"]["videoId"] for it in items)
+    vst = {}
+    try:   # 11 Nov: status check – privacy, processing, rejection, age restriction, region block, made-for-kids
+        for v in requests.get("https://www.googleapis.com/youtube/v3/videos",
+                              params={"part": "status,contentDetails,statistics", "id": ids},
+                              headers={"Authorization": f"Bearer {tok}"}, timeout=30).json().get("items", []):
+            st, cd = v.get("status", {}), v.get("contentDetails", {})
+            vst[v["id"]] = (f"privacy={st.get('privacyStatus')} upload={st.get('uploadStatus')}"
+                            f"{' rejected=' + st['rejectionReason'] if st.get('rejectionReason') else ''}"
+                            f"{' failure=' + st['failureReason'] if st.get('failureReason') else ''}"
+                            f" kids={st.get('madeForKids')} embeddable={st.get('embeddable')}"
+                            f" rating={cd.get('contentRating') or {}} region={cd.get('regionRestriction') or {}}"
+                            f" views={v.get('statistics', {}).get('viewCount')}")
+    except Exception as e:
+        lines.append(f"status check failed: {e}")
     for it in items:
         sn = it["snippet"]
         vid = sn["resourceId"]["videoId"]
-        lines.append(f"- YT {vid} {sn.get('publishedAt')} {'(known)' if vid in known_yt else '(NOT IN STATE)'} {sn['title']}")
+        lines.append(f"- YT {vid} {sn.get('publishedAt')} {'(known)' if vid in known_yt else '(NOT IN STATE)'} {sn['title']}"
+                     f"\n    {vst.get(vid, '')}")
     for r in reels:
         lines.append(f"- FB {r['id']} {r.get('created_time')} {(r.get('description') or '')[:70]!r}")
     # re-create entries for queue folders whose title matches an unknown upload
