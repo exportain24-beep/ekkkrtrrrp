@@ -31,3 +31,4 @@
 - Retention-Klippen Sek. 4–12 in 3/3 Kurven (Tajani, Aigner, Supermarkt); Eishockey ohne Klippe (Ende 0,45) → rule 20.
 - FB: Uploads 9. Nov ≈ 4.815 Plays (Orbán 3.691) · 10. Nov ≈ 759 · Posts vor 10 UTC Median 5 Plays (13 Videos) → rule 21.
 - vidIQ-Watch „Trumps Kehrtwende“: Hook startet mit „Erst gratuliert“, Satz 2 = alte Lage, nur 4 Fotos; Deutsch/Hochdeutsch fehlerfrei.
+- 2026-11-11 05:41 Berlin · Brief A · Credits 5.555 (−35) · Abos 18 · Views 29.381 · Videos 61
