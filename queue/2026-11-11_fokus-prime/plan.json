@@ -1,0 +1,42 @@
+{
+  "format": "single",
+  "candidate_id": 4,
+  "pillar": "WIRTSCHAFT",
+  "region": "EU",
+  "kicker": "BRÜSSEL",
+  "hook_screen": "EU GEGEN ABO-FALLEN!",
+  "hook_voice": "EU-Kommission will Abo-Fallen im Internet verbieten.",
+  "beats": [
+    {
+      "voice": "Lootboxen und Pay-to-Win in Spielen sollen für Minderjährige komplett verboten werden. Brüssel sieht darin Merkmale von Glücksspiel.",
+      "big": "U18",
+      "label": "Lootbox-Verbot für Minderjährige"
+    },
+    {
+      "voice": "Insgesamt will die Kommission zehn Online-Tricks stoppen: versteckte Gebühren, falsche Rabatte und künstliche Kaufpanik.",
+      "big": "10 TRICKS",
+      "label": "will Brüssel im Netz verbieten"
+    },
+    {
+      "voice": "Für Sie heißt das: Online-Abos sollen sich einfacher kündigen lassen. Dazu kommt ein Recht auf menschlichen Kundenservice.",
+      "big": "KÜNDIGEN",
+      "label": "Abos sollen leichter enden"
+    },
+    {
+      "voice": "Doch die Games-Branche schlägt Alarm, auch deutsche Verleger sind nicht begeistert. Noch ist es nur ein Entwurf.",
+      "big": "ENTWURF",
+      "label": "Branche und Verleger skeptisch"
+    }
+  ],
+  "loop_line": "Schafft Brüssel die Abo-Fallen also wirklich ab – oder setzt sich die Branche durch?",
+  "headline": "EU will Abo-Fallen verbieten",
+  "highlight": ["Abo-Fallen"],
+  "entities": ["Europäische Kommission", "Brüssel", "Lootbox"],
+  "youtube_title": "EU will Abo-Fallen verbieten: Setzt sich Brüssel durch?",
+  "description_lead": "Die EU-Kommission hat den Entwurf für einen Digital Fairness Act vorgestellt: Abo-Fallen, versteckte Gebühren, falsche Rabatte und Dark Patterns sollen verboten, Online-Abos leichter kündbar werden. Lootboxen und Pay-to-Win sollen für Minderjährige verschwinden – die Games-Branche schlägt Alarm, deutsche Verleger sind skeptisch.",
+  "tags": ["Digital Fairness Act", "EU-Kommission", "Abo-Fallen", "Lootboxen", "Pay-to-Win", "Verbraucherschutz", "Dark Patterns", "Abo kündigen", "Brüssel", "Games", "Videospiele", "EU", "nachrichten", "nachrichten aktuell"],
+  "hashtags": ["#abofalle", "#lootboxen", "#verbraucherschutz"],
+  "facebook_caption_line1": "EU sagt Abo-Fallen den Kampf an – und will Lootboxen für Kinder verbieten",
+  "facebook_question": "Sollte die EU Lootboxen in Spielen für Minderjährige verbieten?",
+  "comment_question": "Sind Sie schon einmal in eine Abo-Falle getappt – ja oder nein?"
+}
