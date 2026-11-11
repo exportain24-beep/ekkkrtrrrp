@@ -1,0 +1,26 @@
+{
+  "format": "single",
+  "candidate_id": 4,
+  "pillar": "POLITIK",
+  "region": "DE",
+  "kicker": "BERLIN",
+  "hook_screen": "EMDE SOLL RAUS!",
+  "hook_voice": "Linke will Vanessa Emde aus der Fraktion werfen.",
+  "beats": [
+    {"voice": "Gregor Gysi wirft der Berliner Abgeordneten sogar Judenhass vor. Der Vorwurf der Partei: Emde zweifle das Existenzrecht Israels an.", "big": "GYSI", "label": "wirft Emde Judenhass vor"},
+    {"voice": "Berlins Linksfraktion arbeitet bereits am Antrag auf Ausschluss. Gestellt werden soll er in der kommenden Woche.", "big": "ANTRAG", "label": "kommt in der nächsten Woche"},
+    {"voice": "Zwei Drittel der Fraktion müssen zustimmen. Die Fraktionsspitze gibt sich zuversichtlich, obwohl Emde in Teilen der Partei Rückhalt hat.", "big": "2/3", "label": "Mehrheit für den Rauswurf nötig"},
+    {"voice": "Frühestens in zwei Wochen fällt die Entscheidung.", "big": "2 WOCHEN", "label": "frühestens dann wird entschieden"}
+  ],
+  "loop_line": "Reicht die Mehrheit – oder bleibt Emde in der Fraktion?",
+  "headline": "Linke will Emde aus Fraktion werfen",
+  "highlight": ["Emde"],
+  "entities": ["Vanessa Emde", "Gregor Gysi", "Die Linke", "Abgeordnetenhaus Berlin"],
+  "youtube_title": "Linke will Vanessa Emde rauswerfen: Reicht die Mehrheit?",
+  "description_lead": "Die Berliner Linke will die Abgeordnete Vanessa Emde aus ihrer Fraktion im Abgeordnetenhaus ausschließen – Gregor Gysi wirft ihr Judenhass vor, die Partei antiisraelische Positionen. Der Antrag soll kommende Woche gestellt werden, nötig ist eine Zweidrittelmehrheit.",
+  "tags": ["Vanessa Emde", "Gregor Gysi", "Die Linke", "Linke Berlin", "Abgeordnetenhaus", "Berlin", "Fraktionsausschluss", "Linksfraktion", "Israel", "Antisemitismus", "Nahostkonflikt", "Landespolitik", "nachrichten", "nachrichten aktuell"],
+  "hashtags": ["#linke", "#berlin", "#emde"],
+  "facebook_caption_line1": "Rauswurf droht: Berliner Linke will Vanessa Emde aus der Fraktion ausschließen",
+  "facebook_question": "Wie sollte eine Partei mit umstrittenen Positionen eigener Abgeordneter umgehen?",
+  "comment_question": "Richtig, dass die Linke Emde ausschließen will – ja oder nein?"
+}
