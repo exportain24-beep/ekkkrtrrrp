@@ -1,0 +1,1730 @@
+{
+ "slot": {
+  "id": "vormittag",
+  "format": "single",
+  "time": "10:00",
+  "label": "am Vormittag",
+  "focus": "Nur Tie-Breaker – immer zuerst die populärsten, meistberichteten Nachrichten. Bei Gleichstand bevorzugt: Die eine Nachricht, die seit dem Morgen am stärksten hochkocht – bevorzugt neue Entwicklungen großer laufender Geschichten.",
+  "pillars": [
+   "POLITIK",
+   "WIRTSCHAFT",
+   "WELT",
+   "TECHNOLOGIE"
+  ],
+  "notify_subscribers": false
+ },
+ "slot_time": "2026-11-11T10:00:00+01:00",
+ "date_text": "Mittwoch, 11. November 2026",
+ "already_published": [
+  "Todesschütze von Krakau ist tot",
+  "Trump: Abschiebekurs war „zu hart“",
+  "Vodafone streicht 2.300 Stellen",
+  "Trump: „Andere Form“ für die Ukraine",
+  "Nvidia-Aktie bricht nach Affäre ein",
+  "Orbán-Bruder festgenommen",
+  "Kushner: Europa soll mit Moskau reden",
+  "Nvidia-Chef gesteht Affäre",
+  "Paris: Iran hinter Kühltruhen-Hack",
+  "Vodafone: Jeder fünfte Job fällt weg",
+  "Abu Dhabi: Kreml blockt die EU ab",
+  "Trump zweifelt an Midterm-Ergebnis",
+  "Amtsenthebung gegen Hegseth beantragt",
+  "FBI ermittelt in Nvidia-Affäre",
+  "Bund kauft Panzerbauer-Anteil",
+  "Preisdeckel für Ticketbörsen",
+  "Aigner offiziell nominiert",
+  "Merz droht mit EU-Haushaltsblockade",
+  "Schlesinger-Prozess beginnt in Berlin",
+  "Kalifornien kippt Milliardärssteuer",
+  "Nmecha verteidigt umstrittenen Torjubel",
+  "Lebenslang im Fall Fabian",
+  "Ukraine-Gespräche ohne Europa?",
+  "Klingbeil will Steuerklasse III kippen",
+  "Iran unter Verdacht: Kühlregal-Hacks",
+  "Ukraine-Gespräche: Erste Einigung?",
+  "Steuerklassen III und V vor dem Aus",
+  "Nvidia-Affäre: Jetzt warnt Deutschland",
+  "Aigner sagt der AfD ab",
+  "Linke will Emde aus Fraktion werfen",
+  "Bundeswehr sperrt China-Autos aus",
+  "Hegseth: Amtsenthebung gescheitert",
+  "Ältere fehlen 31 Tage im Jahr krank",
+  "E-Auto-Prämie: Doppelt so viel Geld"
+ ],
+ "candidates": [
+  {
+   "id": 0,
+   "score": 22.66,
+   "outlets": [
+    "tagesschau",
+    "Deutsche Welle",
+    "Deutschlandfunk",
+    "ORF",
+    "SRF News",
+    "SPIEGEL",
+    "Handelsblatt",
+    "DER STANDARD",
+    "WELT",
+    "n-tv",
+    "DIE ZEIT"
+   ],
+   "regions": [
+    "AT",
+    "CH",
+    "DE",
+    "INT"
+   ],
+   "trend": [],
+   "newest": "2026-11-11T07:19:45+00:00",
+   "articles": [
+    {
+     "source": "tagesschau",
+     "region": "DE",
+     "weight": 1.0,
+     "title": "US-Repräsentantenhaus lehnt Amtsenthebungsverfahren gegen Hegseth ab",
+     "summary": "Die Republikaner im US-Repräsentantenhaus haben einen Vorstoß zur Amtsenthebung von Verteidigungsminister Pete Hegseth abgewehrt. Sie stimmten nahezu geschlossen gegen eine entsprechende Resolution.",
+     "link": "https://www.tagesschau.de/ausland/amerika/hegseth-amtsenthebungsverfahren-gestoppt-100.html",
+     "image": "https://images.tagesschau.de/image/07d2895d-fb71-4b0f-9548-d17caea53e00/AAABnQYW5as/AAABnSSvrFg/16x9-big/hegseth-156.jpg?width=1920",
+     "aggregator": false,
+     "published": "2026-11-11T00:19:26+00:00"
+    },
+    {
+     "source": "tagesschau Ausland",
+     "region": "INT",
+     "weight": 1.0,
+     "title": "US-Repräsentantenhaus lehnt Amtsenthebungsverfahren gegen Hegseth ab",
+     "summary": "Die Republikaner im US-Repräsentantenhaus haben einen Vorstoß zur Amtsenthebung von Verteidigungsminister Pete Hegseth abgewehrt. Sie stimmten nahezu geschlossen gegen eine entsprechende Resolution.",
+     "link": "https://www.tagesschau.de/ausland/amerika/hegseth-amtsenthebungsverfahren-gestoppt-100.html",
+     "image": "https://images.tagesschau.de/image/07d2895d-fb71-4b0f-9548-d17caea53e00/AAABnQYW5as/AAABnSSvrFg/16x9-big/hegseth-156.jpg?width=1920",
+     "aggregator": false,
+     "published": "2026-11-11T00:19:26+00:00"
+    },
+    {
+     "source": "Deutsche Welle",
+     "region": "INT",
+     "weight": 0.95,
+     "title": "US-Republikaner will Amtsenthebung von Pentagon-Chef Hegseth",
+     "summary": "Der Abgeordnete Massie, dem US-Präsident Trump die Wiederwahl verdorben hatte, appelliert an den Kongress, Verteidigungsminister Pete Hegseth vor die Tür zu setzen. Doch die Erfolgsaussichten sind minimal.",
+     "link": "https://www.dw.com/de/us-republikaner-will-amtsenthebung-von-pentagon-chef-hegseth/a-79906935?maca=de-rss-de-all-1119-xml-mrss",
+     "image": "https://static.dw.com/image/79870352_302.jpg",
+     "aggregator": false,
+     "published": "2026-11-10T14:12:00+00:00"
+    },
+    {
+     "source": "Deutschlandfunk",
+     "region": "DE",
+     "weight": 0.95,
+     "title": "USA - Amtsenthebungsverfahren gegen Verteidigungsminister Hegseth scheitert im Repräsentantenhaus",
+     "summary": "Das Amtsenthebungsverfahren gegen US-Verteidigungsminister Hegseth ist vorerst gescheitert. Die Republikaner im Repräsentantenhaus stimmten nahezu geschlossen gegen den Vorstoß des republikanischen Abgeordneten Massie, der von den Demokraten unterstützt wurde.",
+     "link": "https://www.deutschlandfunk.de/amtsenthebungsverfahren-gegen-verteidigungsminister-hegseth-scheitert-im-repraesentantenhaus-100.html",
+     "image": "https://bilder.deutschlandfunk.de/19/9e/7a/3c/199e7a3c-88e2-4852-879f-3931d0728670/verteidigungsminister-pete-hegseth-100-1920x1920.jpg",
+     "aggregator": false,
+     "published": "2026-11-11T07:19:45+00:00"
+    },
+    {
+     "source": "ORF",
+     "region": "AT",
+     "weight": 0.95,
+     "title": "Hegseth entkommt Amtsenthebung",
+     "summary": "Das US-Repräsentantenhaus hat ein Amtsenthebungsverfahren gegen Verteidigungsminister Pete Hegseth abgewendet. Die Abgeordneten stimmten mit 211 zu 204 Stimmen dafür, die Vorwürfe an den Justizausschuss zu verweisen. Der Republikaner Hegseth steht nach der Wahlniederlage seiner Partei bei den Midterms vor allem wegen des unpopulären Iran-Krieges unter Druck.",
+     "link": "https://orf.at/stories/3447770/",
+     "image": null,
+     "aggregator": false,
+     "published": "2026-11-11T05:35:12+00:00"
+    },
+    {
+     "source": "SRF News",
+     "region": "CH",
+     "weight": 0.95,
+     "title": "Amtsenthebung gescheitert – Trump triumphiert und Hegseth atmet auf",
+     "summary": "Das US-Repräsentantenhaus hat ein Amtsenthebungsverfahren gegen Verteidigungsminister Pete Hegseth verhindert.",
+     "link": "https://www.srf.ch/news/international/amtsenthebung-gescheitert-trump-triumphiert-und-hegseth-atmet-auf",
+     "image": "https://www.srf.ch/static/cms/images//320ws/e7ff97.webp",
+     "aggregator": false,
+     "published": "2026-11-11T04:57:37+00:00"
+    },
+    {
+     "source": "SPIEGEL",
+     "region": "DE",
+     "weight": 0.9,
+     "title": "Pete Hegseth: Republikaner lehnen Amtsenthebungsantrag im Repräsentantenhaus ab",
+     "summary": "Verschnaufpause für Pete Hegseth: Die Republikaner im Repräsentantenhaus haben sich demonstrativ hinter den US-Verteidigungsminister gestellt und einen Antrag auf ein Amtsenthebungsverfahren abgelehnt. Die Freude könnte aber von kurzer Dauer sein.",
+     "link": "https://www.spiegel.de/ausland/pete-hegseth-republikaner-lehnen-amtsenthebungsantrag-im-repraesentantenhaus-ab-a-a16fbebc-5f94-4266-bd4c-7b114e518b40#ref=rss",
+     "image": "https://cdn.prod.www.spiegel.de/images/8cfdc1cc-e04a-4650-9f8d-0f616e3c72ab_w520_r2.08_fpx48_fpy34.jpg",
+     "aggregator": false,
+     "published": "2026-11-10T23:53:00+00:00"
+    },
+    {
+     "source": "Handelsblatt",
+     "region": "DE",
+     "weight": 0.9,
+     "title": "US-Verteidigungsminister: Amtsenthebung Hegseths im US-Repräsentantenhaus gestoppt",
+     "summary": "Ein Republikaner wollte US-Verteidigungsminister Hegseth des Amtes entheben lassen. Sein Vorhaben wird allerdings bereits im Anfangsstadium gestoppt.",
+     "link": "https://www.handelsblatt.com/politik/international/us-verteidigungsminister-amtsenthebung-hegseths-im-us-repraesentantenhaus-gestoppt/100268906.html",
+     "image": "https://images.handelsblatt.com/QSspsupF97UR/cover/900/506/0/0/107/106/0.5/0.5/us-verteidigungsminister-hegseth.jpg",
+     "aggregator": false,
+     "published": "2026-11-11T01:38:42+00:00"
+    }
+   ]
+  },
+  {
+   "id": 1,
+   "score": 20.0,
+   "outlets": [
+    "tagesschau Wirtschaft",
+    "ZDFheute",
+    "Deutsche Welle",
+    "ORF",
+    "SPIEGEL",
+    "NZZ",
+    "WirtschaftsWoche",
+    "heise online",
+    "DER STANDARD"
+   ],
+   "regions": [
+    "AT",
+    "CH",
+    "DE",
+    "INT"
+   ],
+   "trend": [],
+   "newest": "2026-11-11T05:57:00+00:00",
+   "articles": [
+    {
+     "source": "tagesschau Wirtschaft",
+     "region": "DE",
+     "weight": 1.0,
+     "title": "Affäre von Nvidia-Chef Huang: Darum geht es beim Spionage-Verdacht",
+     "summary": "Der US-Chipkonzern Nvidia ermittelt gegen seinen Chef Jensen Huang wegen einer Affäre mit einer mutmaßlichen chinesischen Spionin. Welche Vorwürfe konkret im Raum stehen - und welche Folgen sie haben könnten.",
+     "link": "https://www.tagesschau.de/wirtschaft/unternehmen/faq-nvidia-spionage-100.html",
+     "image": "https://images.tagesschau.de/image/9d4d98a9-ed98-4d6a-9f9c-bd1d9782eb0d/AAABocCr9uU/AAABnSSvrFg/16x9-big/nvidia-logo-102.jpg?width=1920",
+     "aggregator": false,
+     "published": "2026-11-09T13:58:03+00:00"
+    },
+    {
+     "source": "tagesschau Wirtschaft",
+     "region": "DE",
+     "weight": 1.0,
+     "title": "Untersuchung gegen Nvidia-Chef Huang wegen möglicher Spionin aus China",
+     "summary": "Der KI-Chip-Gigant Nvidia hat nach Berichten über einen Spionageverdacht eine Untersuchung gegen seinen Gründer und Konzernchef Jensen Huang eingeleitet. Er soll eine Affäre mit einer mutmaßlichen chinesischen Spionin gehabt haben.",
+     "link": "https://www.tagesschau.de/wirtschaft/unternehmen/nvidia-spionage-pruefung-100.html",
+     "image": "https://images.tagesschau.de/image/34f93b54-ef67-4531-97e6-4a40dc5724cc/AAABob68p7E/AAABnSSvrFg/16x9-big/nvidia-184.jpg?width=1920",
+     "aggregator": false,
+     "published": "2026-11-09T03:32:51+00:00"
+    },
+    {
+     "source": "ZDFheute",
+     "region": "DE",
+     "weight": 1.0,
+     "title": "Affäre von Nvidia-Chef: FBI ermittelt",
+     "summary": "Wegen der Affäre von Nvidia-Chef Jensen Huang mit einer möglichen chinesischen Spionin ermittelt laut US-Präsident Donald Trump nun auch das FBI.",
+     "link": "https://www.zdfheute.de/video/wirtschaft-nvidia-fbi-100.html",
+     "image": "https://www.zdfheute.de/assets/huang-archiv-100~384x216?cb=1794316422266",
+     "aggregator": false,
+     "published": "2026-11-10T15:45:00+00:00"
+    },
+    {
+     "source": "Deutsche Welle",
+     "region": "INT",
+     "weight": 0.95,
+     "title": "Die Affäre des Nvidia-Chefs und die Folgen",
+     "summary": "Nvidia-Chef Jensen Huang hat sich für eine Affäre mit einer Frau entschuldigt, die nach Einschätzung der USA für China spioniert hat. Wie weitreichend sind die Folgen für das wertvollste Unternehmen der Welt?",
+     "link": "https://www.dw.com/de/die-affäre-des-nvidia-chefs-und-die-folgen/a-79900932?maca=de-rss-de-all-1119-xml-mrss",
+     "image": "https://static.dw.com/image/75070893_302.jpg",
+     "aggregator": false,
+     "published": "2026-11-09T16:24:00+00:00"
+    },
+    {
+     "source": "Deutsche Welle",
+     "region": "INT",
+     "weight": 0.95,
+     "title": "Nvidia-Chef Huang wegen Spionageverdachts unter Druck",
+     "summary": "Eine außereheliche Beziehung bringt den Chef des KI-Chipgiganten Nvidia in Bedrängnis. Die Frau soll für China spioniert haben. Der Konzern untersucht die Vorwürfe, während US-Präsident Trump Huang den Rücken stärkt.",
+     "link": "https://www.dw.com/de/nvidia-chef-huang-wegen-spionageverdachts-unter-druck/a-79895905?maca=de-rss-de-all-1119-xml-mrss",
+     "image": "https://static.dw.com/image/79708793_302.jpg",
+     "aggregator": false,
+     "published": "2026-11-09T08:34:00+00:00"
+    },
+    {
+     "source": "ORF",
+     "region": "AT",
+     "weight": 0.95,
+     "title": "Bericht deutet auf riesiges Ausmaß hin",
+     "summary": "Die Affäre von Nvidia-Chef Jensen Huang mit einer mutmaßlichen chinesischen Spionin hat laut einem Bericht des Nachrichtenportals „The Information“ weitreichende Konsequenzen gehabt. Durch die Beziehung zum Mitgründer des weltgrößten Chipkonzerns habe die Frau KI-Hochleistungsprozessoren im Wert von 7,5 Milliarden Dollar (gut 6,7 Mrd. Euro) nach China geschleust, berichtete das Portal am Dienstag unter Berufung auf zwei Bekannte der Verdächtigen.",
+     "link": "https://orf.at/stories/3447811/",
+     "image": null,
+     "aggregator": false,
+     "published": "2026-11-10T21:49:22+00:00"
+    },
+    {
+     "source": "SPIEGEL",
+     "region": "DE",
+     "weight": 0.9,
+     "title": "Nvidia-Aktie fällt auf tiefsten Stand seit März",
+     "summary": "Die Affäre des Nvidia-Chefs Jensen Huang mit einer möglichen Spionin belastet den Chiphersteller. Dessen Börsenwert sackt ab, der Verlust beträgt inzwischen rund eine Billion Dollar.",
+     "link": "https://www.spiegel.de/wirtschaft/nvidia-aktie-faellt-auf-tiefsten-stand-seit-maerz-a-27332fd1-f19b-4a4f-a0d3-5f1012e4bf5d#ref=rss",
+     "image": "https://cdn.prod.www.spiegel.de/images/57f6c62b-0643-45db-80c5-866063b9fcea_w520_r2.08_fpx41.29_fpy49.98.jpg",
+     "aggregator": false,
+     "published": "2026-11-11T05:57:00+00:00"
+    },
+    {
+     "source": "NZZ",
+     "region": "CH",
+     "weight": 0.9,
+     "title": "BILDSTRECKE - Von Mata Hari bis Anna Chapman: Seit Jahrzehnten setzen Geheimdienste auf Spioninnen, um Gegner auszuhorchen",
+     "summary": "Die Geliebte des Nvidia-Chefs Jensen Huang wird verdächtigt, eine chinesische Spionin zu sein. Es wäre nicht das erste Mal, dass Geheimdienste intime Beziehungen für Spionage nutzen. Ein Blick zurück.",
+     "link": "https://www.nzz.ch/fotografie/von-mata-hari-bis-anna-chapman-seit-jahrzehnten-setzen-geheimdienste-auf-spioninnen-um-gegner-auszuhorchen-ld.10059548",
+     "image": "https://img-msp-prod.nzz.ch/2026/11/10/d52ad038-38e1-4f16-b56b-78e1927d2e4c.jpg?width=200&height=200&fit=bounds&quality=75&auto=webp&crop=2384,2384,x0,y0",
+     "aggregator": false,
+     "published": "2026-11-11T04:30:00+00:00"
+    }
+   ]
+  },
+  {
+   "id": 2,
+   "score": 15.06,
+   "outlets": [
+    "tagesschau",
+    "Deutsche Welle",
+    "Deutschlandfunk",
+    "SRF News",
+    "Süddeutsche",
+    "n-tv"
+   ],
+   "regions": [
+    "CH",
+    "DE",
+    "INT"
+   ],
+   "trend": [],
+   "newest": "2026-11-11T07:19:45+00:00",
+   "articles": [
+    {
+     "source": "tagesschau",
+     "region": "DE",
+     "weight": 1.0,
+     "title": "Warum sitzt Deutschland in Abu Dhabi nicht am Verhandlungstisch?",
+     "summary": "Derzeit treffen sich in Abu Dhabi Vertreter der Ukraine, Russlands und der USA, um Gespräche über ein Ende des Krieges wieder aufzunehmen. Europa scheint im Abseits, obwohl Deutschland der größte Unterstützer der Ukraine ist. Von N. Markwald.",
+     "link": "https://www.tagesschau.de/inland/innenpolitik/deutschland-rolle-ukraine-gespraeche-100.html",
+     "image": "https://images.tagesschau.de/image/59c612e1-678f-4aed-bbfb-7469096f2544/AAABocTEhrw/AAABnSSvrFg/16x9-big/merz-selenskyj-144.jpg?width=1920",
+     "aggregator": false,
+     "published": "2026-11-10T14:15:52+00:00"
+    },
+    {
+     "source": "tagesschau Inland",
+     "region": "DE",
+     "weight": 1.0,
+     "title": "Warum sitzt Deutschland in Abu Dhabi nicht am Verhandlungstisch?",
+     "summary": "Derzeit treffen sich in Abu Dhabi Vertreter der Ukraine, Russlands und der USA, um Gespräche über ein Ende des Krieges wieder aufzunehmen. Europa scheint im Abseits, obwohl Deutschland der größte Unterstützer der Ukraine ist. Von N. Markwald.",
+     "link": "https://www.tagesschau.de/inland/innenpolitik/deutschland-rolle-ukraine-gespraeche-100.html",
+     "image": "https://images.tagesschau.de/image/59c612e1-678f-4aed-bbfb-7469096f2544/AAABocTEhrw/AAABnSSvrFg/16x9-big/merz-selenskyj-144.jpg?width=1920",
+     "aggregator": false,
+     "published": "2026-11-10T14:15:52+00:00"
+    },
+    {
+     "source": "tagesschau Ausland",
+     "region": "INT",
+     "weight": 1.0,
+     "title": "Verhandlungen in Abu Dhabi über Ende des Ukraine-Krieges haben begonnen",
+     "summary": "In Abu Dhabi haben die Gespräche über ein Ende des Krieges in der Ukraine begonnen. Zuletzt hatte US-Präsident Trump eine \"große Übereinkunft\" versprochen. Aber was meinte er damit? Und was hieße das für Europa? Von Carsten Kühntopp.",
+     "link": "https://www.tagesschau.de/ausland/amerika/dreiergespraeche-usa-russland-ukraine-100.html",
+     "image": "https://images.tagesschau.de/image/5b75b2a0-6a74-45d1-b50a-1bcb869c8f44/AAABocTyvy0/AAABnSSvrFg/16x9-big/trump-putin-256.jpg?width=1920",
+     "aggregator": false,
+     "published": "2026-11-10T08:18:50+00:00"
+    },
+    {
+     "source": "tagesschau Ausland",
+     "region": "INT",
+     "weight": 1.0,
+     "title": "Gespräche in Abu Dhabi: Gedämpfte Erwartungen der Ukraine",
+     "summary": "Heute beginnen trilaterale Verhandlungen in Abu Dhabi. Können die Gespräche mit den USA und Russland einen echten Frieden bringen - oder führen sie zu einer Schwächung der Ukraine? Die Erwartungen in der Ukraine sind gering. Von F. Kellermann.",
+     "link": "https://www.tagesschau.de/ausland/europa/ukraine-erwartungen-gespraeche-100.html",
+     "image": "https://images.tagesschau.de/image/359f2fcf-a8ed-44fb-99fc-36c901fb94da/AAABocLfjcw/AAABnSSvrFg/16x9-big/ukraine-kiew-flagge-100.jpg?width=1920",
+     "aggregator": false,
+     "published": "2026-11-10T01:13:48+00:00"
+    },
+    {
+     "source": "Deutsche Welle",
+     "region": "INT",
+     "weight": 0.95,
+     "title": "Russland-Ukraine-Gespräche in Abu Dhabi: Kommt es zu einem Durchbruch?",
+     "summary": "Mit Vertretern der Geheimdienste und Diplomaten ist die russische Delegation bei den Gesprächen mit der Ukraine hochrangig besetzt. Auch Vertreter europäischer Staaten reisen nach Abu Dhabi. Was bedeutet das?",
+     "link": "https://www.dw.com/de/russland-ukraine-gespräche-in-abu-dhabi-kommt-es-zu-einem-durchbruch/a-79902965?maca=de-rss-de-all-1119-xml-mrss",
+     "image": "https://static.dw.com/image/77045019_302.jpg",
+     "aggregator": false,
+     "published": "2026-11-09T17:29:00+00:00"
+    },
+    {
+     "source": "Deutschlandfunk",
+     "region": "DE",
+     "weight": 0.95,
+     "title": "Vereinigte Arabische Emirate - Unterhändler der Ukraine und Russlands setzen Gespräche fort",
+     "summary": "Unterhändler der Ukraine und Russlands setzen heute ihre Gespräche in Abu Dhabi fort. Nach Angaben des ukrainischen Präsidenten Selenskyj wird es dabei um eine Deeskalation im Energiebereich und ein mögliches Dreiertreffen auf Präsidentenebene unter Einbeziehung der USA gehen.",
+     "link": "https://www.deutschlandfunk.de/unterhaendler-der-ukraine-und-russlands-setzen-gespraeche-fort-100.html",
+     "image": "https://bilder.deutschlandfunk.de/34/3a/16/31/343a1631-aa4d-4b0d-a2ad-f6dff8e2ed66/abu-dhabi-ukraine-100-1920x1920.jpg",
+     "aggregator": false,
+     "published": "2026-11-11T07:19:45+00:00"
+    },
+    {
+     "source": "SRF News",
+     "region": "CH",
+     "weight": 0.95,
+     "title": "Krieg in der Ukraine – Selenski: Wollen über Tausend Kriegsgefangene austauschen",
+     "summary": "Unter US-Leitung führen Russland und die Ukraine in Abu Dhabi Gespräche. Die Verhandlungen dauern bis Mittwoch.",
+     "link": "https://www.srf.ch/news/international/ukraine/krieg-in-der-ukraine-selenski-wollen-ueber-tausend-kriegsgefangene-austauschen",
+     "image": "https://www.srf.ch/static/cms/images//320ws/34891f.webp",
+     "aggregator": false,
+     "published": "2026-11-11T04:32:57+00:00"
+    },
+    {
+     "source": "SRF News",
+     "region": "CH",
+     "weight": 0.95,
+     "title": "Gespräche in Abu Dhabi – Die Ukraine und Russland verhandeln – was davon zu erwarten ist",
+     "summary": "SRF-Diplomatie-Experte Fredy Gsteiger zu Chancen und Erwartungen der Verhandlungen zwischen der Ukraine und Russland.",
+     "link": "https://www.srf.ch/news/international/ukraine/gespraeche-in-abu-dhabi-die-ukraine-und-russland-verhandeln-was-davon-zu-erwarten-ist",
+     "image": "https://www.srf.ch/static/cms/images//320ws/88a7cf.webp",
+     "aggregator": false,
+     "published": "2026-11-10T13:14:45+00:00"
+    }
+   ]
+  },
+  {
+   "id": 3,
+   "score": 13.76,
+   "outlets": [
+    "Deutschlandfunk",
+    "ORF",
+    "SRF News",
+    "NZZ",
+    "DER STANDARD",
+    "BILD"
+   ],
+   "regions": [
+    "AT",
+    "CH",
+    "DE"
+   ],
+   "trend": [],
+   "newest": "2026-11-11T07:19:45+00:00",
+   "articles": [
+    {
+     "source": "Deutschlandfunk",
+     "region": "DE",
+     "weight": 0.95,
+     "title": "Stacy Keach - \"Mike Hammer\"-Darsteller stirbt mit 85 Jahren",
+     "summary": "Der US-Schauspieler Stacy Keach ist tot.",
+     "link": "https://www.deutschlandfunk.de/mike-hammer-darsteller-stirbt-mit-85-jahren-100.html",
+     "image": "https://bilder.deutschlandfunk.de/8c/bd/b5/21/8cbdb521-87a1-41ca-be3e-9241658755af/usa-stacy-keach-tv-film-serien-schauspieler-mike-hammer-100-1920x1920.jpg",
+     "aggregator": false,
+     "published": "2026-11-11T07:19:45+00:00"
+    },
+    {
+     "source": "ORF",
+     "region": "AT",
+     "weight": 0.95,
+     "title": "„Mike Hammer“-Darsteller Stacy Keach ist tot",
+     "summary": "",
+     "link": "https://orf.at/stories/3447858/",
+     "image": null,
+     "aggregator": false,
+     "published": "2026-11-11T06:02:58+00:00"
+    },
+    {
+     "source": "SRF News",
+     "region": "CH",
+     "weight": 0.95,
+     "title": "Kulturnews in Kurzform – «Mike Hammer»-Darsteller Stacy Keach stirbt mit 85",
+     "summary": "Der US-Schauspieler spielte auch in Hit-Serien wie «Emergency Room – Die Notaufnahme» und «Two and a Half Men» mit.",
+     "link": "https://www.srf.ch/kultur/gesellschaft-religion/kulturnews-in-kurzform-mike-hammer-darsteller-stacy-keach-stirbt-mit-85",
+     "image": "https://www.srf.ch/static/cms/images//320ws/dce71f.webp",
+     "aggregator": false,
+     "published": "2026-11-11T06:38:29+00:00"
+    },
+    {
+     "source": "NZZ",
+     "region": "CH",
+     "weight": 0.9,
+     "title": "MELDUNGEN KULTUR - «Mike Hammer»-Darsteller Stacy Keach ist tot",
+     "summary": "Die neuesten Meldungen aus dem Feuilleton.",
+     "link": "https://www.nzz.ch/feuilleton/kultur-die-neuesten-meldungen-ld.10041945",
+     "image": "https://img-msp-prod.nzz.ch/2026/11/11/6f523011-bba9-4adc-95d7-c508c53fbe2c.jpg?width=200&height=200&fit=bounds&quality=75&auto=webp&crop=2098,2098,x938,y0",
+     "aggregator": false,
+     "published": "2026-11-11T06:15:54+00:00"
+    },
+    {
+     "source": "DER STANDARD",
+     "region": "AT",
+     "weight": 0.85,
+     "title": "\"Mike Hammer\"-Darsteller Stacy Keach mit 85 Jahren gestorben",
+     "summary": "Der Schauspieler wirkte auch in \"Emergency Room\" und \"Two and a Half Men\" mit. Am Dienstag ist er nach langem Kampf gegen eine Herzerkrankung gestorben",
+     "link": "https://www.derstandard.at/story/3000000348632/mike-hammer-darsteller-stacy-keach-mit-85-jahren-gestorben?ref=rss",
+     "image": "https://i.ds.at/m1ALBQ/rs:fill:150:0/plain/lido-images/2026/11/11/9700ac91-937c-4cdc-b50e-fa71e6a4efb3.jpg",
+     "aggregator": false,
+     "published": "2026-11-11T06:21:50+00:00"
+    },
+    {
+     "source": "BILD",
+     "region": "DE",
+     "weight": 0.6,
+     "title": "Stacy Keach ist tot: „Mike Hammer“-Star stirbt mit 85 Jahren",
+     "summary": "Stacy Keach ist tot: „Mike Hammer“-Star stirbt mit 85 Jahren BILD Trauer in Hollywood: Schauspielstar Stacy Keach ist tot WEB.DE \"Mike Hammer\"-Star ist tot: Stacy Keach starb in Polen T-Online \"Mike Hammer\": US-Schauspieler Stacy Keach mit 85 Jahren gestorben Deutschlandfunk Kultur „Mike Hammer“-Darsteller Stacy Keach stirbt mit 85 GN-Online",
+     "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQRFJiSEE4NUFPczMydW5zNXJvWGZucTFYRHljZjJnX0kxdGtJOHhSNVZnWWJPVXRNNm16eTl0S1NvUFpZZ3FNYURibkRGUVkyVmRpbHhKbW56Wl9IRFNKdHJ1dDRMY1l6T24xcDFVc0NkcDFyLUh4WG02Y2pQUmVldVpreE9ZRW1ERnRaYnFRemNFV3Q2RlkzN3dwUWlMR1ZvRmlUbGtnNHdiYzFEVzZpYlV2Rm1JNUVFTFdFUTAtQ21iYmdRbVVRVzVhSQ?oc=5",
+     "image": null,
+     "aggregator": true,
+     "published": "2026-11-11T06:22:12+00:00"
+    }
+   ]
+  },
+  {
+   "id": 4,
+   "score": 13.4,
+   "outlets": [
+    "tagesschau",
+    "ZDFheute",
+    "Deutsche Welle",
+    "Handelsblatt",
+    "DER STANDARD",
+    "n-tv.de"
+   ],
+   "regions": [
+    "AT",
+    "DE",
+    "INT"
+   ],
+   "trend": [],
+   "newest": "2026-11-11T05:39:00+00:00",
+   "articles": [
+    {
+     "source": "tagesschau",
+     "region": "DE",
+     "weight": 1.0,
+     "title": "Erster Tag der Ukraine-Gespräche in Abu Dhabi beendet",
+     "summary": "Erster Tag der Ukraine-Gespräche in Abu Dhabi beendet",
+     "link": "https://www.tagesschau.de/tagesthemen/video-1681722.html",
+     "image": "https://images.tagesschau.de/image/e712ace5-df4f-42a2-9785-f4f321d88977/AAABocdquqE/AAABnSSvrFg/16x9-big/sendungsbild-1825668.jpg?width=1920",
+     "aggregator": false,
+     "published": "2026-11-10T21:43:49+00:00"
+    },
+    {
+     "source": "tagesschau",
+     "region": "DE",
+     "weight": 1.0,
+     "title": "Erster Tag der Ukraine-Gespräche: Keine Ergebnisse, aber Hoffnung für Gefangene",
+     "summary": "Der erste Tag der Gespräche zwischen Russland und der Ukraine in Abu Dhabi ist ohne offizielles Ergebnis zu Ende gegangen. Medien berichten aber von einem geplanten Gefangenenaustausch. Eine Waffenruhe scheint dagegen in weiter Ferne.",
+     "link": "https://www.tagesschau.de/ausland/asien/ukraine-russland-krieg-gespraeche-abu-dhabi-100.html",
+     "image": "https://images.tagesschau.de/image/413f48be-c711-47fe-8642-e85e2afea1d3/AAABockoku4/AAABnSSvrFg/16x9-big/abu-dhabi-144.jpg?width=1920",
+     "aggregator": false,
+     "published": "2026-11-10T21:08:29+00:00"
+    },
+    {
+     "source": "tagesschau Ausland",
+     "region": "INT",
+     "weight": 1.0,
+     "title": "Erster Tag der Ukraine-Gespräche: Keine Ergebnisse, aber Hoffnung für Gefangene",
+     "summary": "Der erste Tag der Gespräche zwischen Russland und der Ukraine in Abu Dhabi ist ohne offizielles Ergebnis zu Ende gegangen. Medien berichten aber von einem geplanten Gefangenenaustausch. Eine Waffenruhe scheint dagegen in weiter Ferne.",
+     "link": "https://www.tagesschau.de/ausland/asien/ukraine-russland-krieg-gespraeche-abu-dhabi-100.html",
+     "image": "https://images.tagesschau.de/image/413f48be-c711-47fe-8642-e85e2afea1d3/AAABockoku4/AAABnSSvrFg/16x9-big/abu-dhabi-144.jpg?width=1920",
+     "aggregator": false,
+     "published": "2026-11-10T21:08:29+00:00"
+    },
+    {
+     "source": "tagesschau Ausland",
+     "region": "INT",
+     "weight": 1.0,
+     "title": "Ukraine-Gespräche in Abu Dhabi: EU kündigt Teilnahme an",
+     "summary": "Ab Dienstag soll in Abu Dhabi über einen möglichen Frieden in der Ukraine verhandelt werden. Auch Vertreter Europas haben sich dazu angekündigt. Moskau will lieber nur mit den USA reden.",
+     "link": "https://www.tagesschau.de/ausland/europa/ukraine-verhandlungen-abu-dhabi-100.html",
+     "image": "https://images.tagesschau.de/image/bcbfacd2-b7ac-4314-9d86-ec6d822e9492/AAABobwG94w/AAABnSSvrFg/16x9-big/abu-dhabi-103.jpg?width=1920",
+     "aggregator": false,
+     "published": "2026-11-09T13:52:00+00:00"
+    },
+    {
+     "source": "ZDFheute",
+     "region": "DE",
+     "weight": 1.0,
+     "title": "EU will digitale Fairness, Ukraine-Gespräche gehen weiter",
+     "summary": "Die EU stellt einen Plan für besseren Verbraucherschutz im Netz vor. In Abu Dhabi laufen Gespräche zum Ukraine-Krieg. Was heute wichtig wird.",
+     "link": "https://www.zdfheute.de/briefing/digitale-fairness-ukraine-fastnacht-zdfheute-update-100.html",
+     "image": "https://www.zdfheute.de/assets/update-klinner-100~384x216?cb=1785836701147",
+     "aggregator": false,
+     "published": "2026-11-11T05:39:00+00:00"
+    },
+    {
+     "source": "Deutsche Welle",
+     "region": "INT",
+     "weight": 0.95,
+     "title": "News kompakt: Ukraine-Gespräche starten in Abu Dhabi",
+     "summary": "Nach mehr als acht Monaten verhandeln Russland und die Ukraine wieder direkt miteinander. Frankreich macht den Iran für Cyberangriffe auf Kühlanlagen verantwortlich. Der DW-Nachrichtenüberblick.",
+     "link": "https://www.dw.com/de/news-kompakt-ukraine-gespräche-starten-in-abu-dhabi/a-79906107?maca=de-rss-de-all-1119-xml-mrss",
+     "image": "https://static.dw.com/image/79902138_302.jpg",
+     "aggregator": false,
+     "published": "2026-11-10T08:01:00+00:00"
+    },
+    {
+     "source": "Deutsche Welle",
+     "region": "INT",
+     "weight": 0.95,
+     "title": "Russland lehnt Europas Teilnahme an Ukraine-Gesprächen ab",
+     "summary": "Frankreich kündigt an, Vertreter zu den Verhandlungen in Abu Dhabi zu schicken. Moskau sieht dagegen nur Gespräche mit der Ukraine und den USA vor. Im Mittelpunkt stehen Sicherheitsgarantien und ein mögliches Kriegsende.",
+     "link": "https://www.dw.com/de/russland-lehnt-europas-teilnahme-an-ukraine-gesprächen-ab/a-79897668?maca=de-rss-de-all-1119-xml-mrss",
+     "image": "https://static.dw.com/image/76011845_302.jpg",
+     "aggregator": false,
+     "published": "2026-11-09T11:02:00+00:00"
+    },
+    {
+     "source": "Handelsblatt",
+     "region": "DE",
+     "weight": 0.9,
+     "title": "Verhandlungen in Abu Dhabi: Ukraine-Gespräche gehen weiter: Kommt ein Gipfeltreffen?",
+     "summary": "Nach mehr als acht Monaten Pause sprechen Russland und die Ukraine unter US-Vermittlung wieder direkt miteinander. Von einem möglichen Gefangenenaustausch ist die Rede – und was ist für heute geplant?",
+     "link": "https://www.handelsblatt.com/politik/international/verhandlungen-in-abu-dhabi-ukraine-gespraeche-gehen-weiter-kommt-ein-gipfeltreffen/100268925.html",
+     "image": "https://images.handelsblatt.com/gCJFFr5tVZi0/cover/900/506/0/0/107/106/0.5/0.5/ukraine-gespraeche-in-abu-dhabi.jpg",
+     "aggregator": false,
+     "published": "2026-11-11T03:45:04+00:00"
+    }
+   ]
+  },
+  {
+   "id": 5,
+   "score": 12.32,
+   "outlets": [
+    "SPIEGEL",
+    "ZEIT ONLINE",
+    "Handelsblatt"
+   ],
+   "regions": [
+    "DE"
+   ],
+   "trend": [
+    "akademiker",
+    "Arbeitsmarkt: Zahl arbeitsloser Akademiker erreicht neuen Höchststand",
+    "Zahl der arbeitslosen Akademiker erreicht Höchststand"
+   ],
+   "newest": "2026-11-11T07:12:35+00:00",
+   "articles": [
+    {
+     "source": "SPIEGEL",
+     "region": "DE",
+     "weight": 0.9,
+     "title": "Arbeitsmarkt: Zahl arbeitsloser Akademiker erreicht neuen Höchststand",
+     "summary": "Ein Studium gilt im Allgemeinen als gute Versicherung gegen Arbeitslosigkeit. Doch inzwischen verlieren auch immer mehr Akademiker ihren Job.",
+     "link": "https://www.spiegel.de/karriere/arbeitsmarkt-zahl-arbeitsloser-akademiker-erreicht-neuen-hoechststand-a-4f9b3f55-f7d7-45c5-bc71-1bffd362d903#ref=rss",
+     "image": "https://cdn.prod.www.spiegel.de/images/01f9cb7c-9ddd-43ce-bb80-ef9118649600_w520_r2.08_fpx33.96_fpy49.99.jpg",
+     "aggregator": false,
+     "published": "2026-11-11T06:11:00+00:00"
+    },
+    {
+     "source": "ZEIT ONLINE",
+     "region": "DE",
+     "weight": 0.9,
+     "title": "Arbeitslosigkeit bei Akademikern: Zahl der arbeitslosen Akademiker erreicht Höchststand",
+     "summary": "Die Zahl der Akademikern ohne Erwerbstätigkeit ist 2026 erneut gestiegen. Die Bundesagentur für Arbeit sieht vor allem die Wirtschaftslage und KI als Gründe dafür.",
+     "link": "https://www.zeit.de/arbeit/2026-11/arbeitslosigkeit-akademiker-bundesagentur-fuer-arbeit-studienabsolventen-quote-gxe",
+     "image": "https://img.zeit.de/arbeit/2026-11/arbeitslosigkeit-akademiker-bundesagentur-fuer-arbeit-studienabsolventen-quote-gxe-foto-1/original__640x360",
+     "aggregator": false,
+     "published": "2026-11-11T07:12:35+00:00"
+    },
+    {
+     "source": "Handelsblatt",
+     "region": "DE",
+     "weight": 0.9,
+     "title": "Arbeitsmarkt: Zahl der arbeitslosen Akademiker erreicht Höchststand",
+     "summary": "Wer studiert hat, hat jedoch weiterhin ein vergleichsweise geringes Risiko, arbeitslos zu werden. Das gilt für einige Studienrichtungen mehr als für andere.",
+     "link": "https://www.handelsblatt.com/politik/deutschland/arbeitsmarkt-zahl-der-arbeitslosen-akademiker-erreicht-hoechststand/100268975.html",
+     "image": "https://images.handelsblatt.com/PFvl7gSUYBx-/cover/900/506/292/0/54/162/0.5/0.5/absolventen-feier.jpg",
+     "aggregator": false,
+     "published": "2026-11-11T05:29:57+00:00"
+    },
+    {
+     "source": "Handelsblatt",
+     "region": "DE",
+     "weight": 0.9,
+     "title": "Arbeitsmarkt: Zahl der arbeitslosen Akademiker erreicht Höchststand",
+     "summary": "Wer studiert hat, hat jedoch weiterhin ein vergleichsweise geringes Risiko, arbeitslos zu werden. Das gilt für einige Studienrichtungen mehr als für andere.",
+     "link": "https://www.handelsblatt.com/politik/deutschland/arbeitsmarkt-zahl-der-arbeitslosen-akademiker-erreicht-hoechststand/100268919.html",
+     "image": "https://images.handelsblatt.com/r1CQhYLy3PBL/cover/900/506/0/0/83/83/0.5/0.5/bundesagentur-fuer-arbeit.jpg",
+     "aggregator": false,
+     "published": "2026-11-11T03:00:31+00:00"
+    }
+   ]
+  },
+  {
+   "id": 6,
+   "score": 11.66,
+   "outlets": [
+    "tagesschau",
+    "ZDFheute",
+    "Deutschlandfunk",
+    "Süddeutsche"
+   ],
+   "regions": [
+    "DE"
+   ],
+   "trend": [],
+   "newest": "2026-11-11T07:19:45+00:00",
+   "articles": [
+    {
+     "source": "tagesschau",
+     "region": "DE",
+     "weight": 1.0,
+     "title": "Ilse Aigner stellt sich den Bundestagsfraktionen vor",
+     "summary": "Freundlich und überparteilich präsentiert sich die wohl künftige Bundespräsidentin Ilse Aigner bei den Fraktionen im Bundestag. Nur bei zwei Parteien lässt sie sich nicht blicken. Von Uwe Berndt.",
+     "link": "https://www.tagesschau.de/inland/innenpolitik/aigner-fraktionen-100.html",
+     "image": "https://images.tagesschau.de/image/6ca89cad-29d1-4adb-9697-a4e3fa3ddbea/AAABocdx-Ys/AAABnSSvrFg/16x9-big/aigner-168.jpg?width=1920",
+     "aggregator": false,
+     "published": "2026-11-11T01:17:49+00:00"
+    },
+    {
+     "source": "tagesschau",
+     "region": "DE",
+     "weight": 1.0,
+     "title": "Kommentar: Aigner hätte auch zu AfD und Linken gehen müssen",
+     "summary": "Als Bundespräsidentin möchte Ilse Aigner Gräben überwinden. Bei ihrem Besuch im Bundestag versuchte sie allerdings nicht, die Türschwellen vor den Fraktionssälen von AfD und Linke zu überwinden. Ein schlechter Start, meint Maximilian Ulrich.",
+     "link": "https://www.tagesschau.de/inland/innenpolitik/aigner-bundespraesidentin-kein-besuch-bei-afd-linke-100.html",
+     "image": "https://images.tagesschau.de/image/107b49e8-ab44-43ed-b804-6def95fc2d29/AAABocbu7EA/AAABnSSvrFg/16x9-big/aigner-166.jpg?width=1920",
+     "aggregator": false,
+     "published": "2026-11-11T01:20:58+00:00"
+    },
+    {
+     "source": "tagesschau Inland",
+     "region": "DE",
+     "weight": 1.0,
+     "title": "Kommentar: Aigner hätte auch zu AfD und Linken gehen müssen",
+     "summary": "Als Bundespräsidentin möchte Ilse Aigner Gräben überwinden. Bei ihrem Besuch im Bundestag versuchte sie allerdings nicht, die Türschwellen vor den Fraktionssälen von AfD und Linke zu überwinden. Ein schlechter Start, meint Maximilian Ulrich.",
+     "link": "https://www.tagesschau.de/inland/innenpolitik/aigner-bundespraesidentin-kein-besuch-bei-afd-linke-100.html",
+     "image": "https://images.tagesschau.de/image/107b49e8-ab44-43ed-b804-6def95fc2d29/AAABocbu7EA/AAABnSSvrFg/16x9-big/aigner-166.jpg?width=1920",
+     "aggregator": false,
+     "published": "2026-11-11T01:20:58+00:00"
+    },
+    {
+     "source": "tagesschau Inland",
+     "region": "DE",
+     "weight": 1.0,
+     "title": "Ilse Aigner stellt sich den Bundestagsfraktionen vor",
+     "summary": "Freundlich und überparteilich präsentiert sich die wohl künftige Bundespräsidentin Ilse Aigner bei den Fraktionen im Bundestag. Nur bei zwei Parteien lässt sie sich nicht blicken. Von Uwe Berndt.",
+     "link": "https://www.tagesschau.de/inland/innenpolitik/aigner-fraktionen-100.html",
+     "image": "https://images.tagesschau.de/image/6ca89cad-29d1-4adb-9697-a4e3fa3ddbea/AAABocdx-Ys/AAABnSSvrFg/16x9-big/aigner-168.jpg?width=1920",
+     "aggregator": false,
+     "published": "2026-11-11T01:17:49+00:00"
+    },
+    {
+     "source": "tagesschau Inland",
+     "region": "DE",
+     "weight": 1.0,
+     "title": "Aigner stellt sich Fraktionen vor - nicht bei AfD und Linken",
+     "summary": "Nach ihrer Kür zur Unions-Kandidatin für das Bundespräsidentenamt stellt sich Aigner heute in Berlin den Bundestagsfraktionen von Union, SPD und Grünen vor. Eine Einladung der AfD schlug sie aus. Die Linke lud Aigner bislang nicht ein.",
+     "link": "https://www.tagesschau.de/inland/innenpolitik/aigner-vorstellung-bundestagsfraktionen-100.html",
+     "image": "https://images.tagesschau.de/image/f3d020e0-362d-4ea6-aad7-fab6cd684d60/AAABocTyaFs/AAABnSSvrFg/16x9-big/aigner-160.jpg?width=1920",
+     "aggregator": false,
+     "published": "2026-11-10T12:40:11+00:00"
+    },
+    {
+     "source": "ZDFheute",
+     "region": "DE",
+     "weight": 1.0,
+     "title": "Aigner: \"Bundeskanzler hat es ja durchaus spannend gemacht\"",
+     "summary": "Der CDU-Vorstand stellte sich am Montag hinter die Kandidatur von Ilse Aigner als Staatsoberhaupt. Aigner werde eine Bundespräsidentin \"mit Würde und mit Herz\" sein, sagte Merz.",
+     "link": "https://www.zdfheute.de/video/politik-aigner-offiziell-vorgeschlagen-merz-100.html",
+     "image": "https://www.zdfheute.de/assets/aigner-statement-100~384x216?cb=1794230449735",
+     "aggregator": false,
+     "published": "2026-11-09T12:41:05+00:00"
+    },
+    {
+     "source": "ZDFheute",
+     "region": "DE",
+     "weight": 1.0,
+     "title": "Aktuelles aus den Fraktionen - Aigner bei der SPD",
+     "summary": "StaTements zum Besuch von Ilse Aigner (CSU, Kandidatin für das Amt der Bundespräsidentin) in der SPD-Fraktion",
+     "link": "https://www.phoenix.de/php/mediaplayer/vod_embed.php?cmsid=5246967",
+     "image": "https://www.zdfheute.de/assets/teaser-phoenix-aktuelles-aus-den-fraktionen---aigner-bei-der-spd-5246967-100~384x216?cb=1794326644572",
+     "aggregator": false,
+     "published": "2026-11-10T15:45:00+00:00"
+    },
+    {
+     "source": "Deutschlandfunk",
+     "region": "DE",
+     "weight": 0.95,
+     "title": "Vorstellung bei Fraktionen - Aigner will als Bundespräsidentin Brücken bauen - keine Termine bei AfD und Linken",
+     "summary": "Die Unionskandidatin für das Amt der Bundespräsidentin, Aigner, hat sich bei mehreren Bundestagsfraktionen vorgestellt. Vor der CDU/CSU-Fraktion bekräftigte die bayerische Landtagspräsidentin ihren Anspruch, Brücken zu bauen und auf Menschen zuzugehen. Sollte sie in das Amt gewählt werden, sehe sie sich als Vorreiterin.",
+     "link": "https://www.deutschlandfunk.de/aigner-will-als-bundespraesidentin-bruecken-bauen-keine-termine-bei-afd-und-linken-102.html",
+     "image": "https://bilder.deutschlandfunk.de/e9/8a/54/d0/e98a54d0-55e5-4f4f-8368-3b88d367f48f/aigner-bundestag-100-1920x1920.jpg",
+     "aggregator": false,
+     "published": "2026-11-11T07:19:45+00:00"
+    }
+   ]
+  },
+  {
+   "id": 7,
+   "score": 11.46,
+   "outlets": [
+    "tagesschau",
+    "ZDFheute",
+    "Deutschlandfunk",
+    "n-tv"
+   ],
+   "regions": [
+    "DE"
+   ],
+   "trend": [],
+   "newest": "2026-11-11T07:19:45+00:00",
+   "articles": [
+    {
+     "source": "tagesschau",
+     "region": "DE",
+     "weight": 1.0,
+     "title": "Champions League: FC Bayern dringt in Spitzengruppe vor",
+     "summary": "Die FC Bayern Frauen bleiben auch im vierten Spiel der Champions-League-Ligaphase ungeschlagen. Beim Sieg bei Paris Saint-Germain überzeugen die Münchnerinnen vor allem in der ersten Halbzeit und haben nun beste Karten fürs Viertelfinale.",
+     "link": "https://www.sportschau.de/regional/br/br-sieg-in-paris-fc-bayern-frauen-dringen-in-cl-spitzengruppe-vor-102.html",
+     "image": "https://images.sportschau.de/image/f4c5ea0d-e258-4290-88e8-bb34c8050f3f/AAABoceaoc8/AAABnSSvrFg/16x9-big/br-klara-buehl-links-und-momoko-tanikawa-rechts-jubeln-100.jpg?width=1920",
+     "aggregator": false,
+     "published": "2026-11-10T22:35:46+00:00"
+    },
+    {
+     "source": "ZDFheute",
+     "region": "DE",
+     "weight": 1.0,
+     "title": "Champions League: Bayern-Frauen zu stark für PSG",
+     "summary": "Die Bayern-Frauen feiern einen wichtigen Auswärtssieg in der Champions League: Mit dem 2:1-Sieg gegen Paris Saint-Germain machen sie einen großen Schritt in Richtung Viertelfinale.",
+     "link": "https://www.zdfheute.de/sport/fussball-frauen-champions-league-paris-saint-germain-bayern-muenchen-tore-ergebnis-100.html",
+     "image": "https://www.zdfheute.de/assets/psg-muenchen-102~384x216?cb=1794350932261",
+     "aggregator": false,
+     "published": "2026-11-10T21:59:00+00:00"
+    },
+    {
+     "source": "Deutschlandfunk",
+     "region": "DE",
+     "weight": 0.95,
+     "title": "Champions-League der Frauen - Bayern gewinnen in Paris und sind auf Viertelfinalkurs",
+     "summary": "Die Fußballerinnen des Bayern München bleiben in der Champions League weiter ungeschlagen. Der deutsche Meister gewann bei Paris Saint-Germain 2:1.",
+     "link": "https://www.deutschlandfunk.de/bayern-gewinnen-in-paris-und-sind-auf-viertelfinalkurs-100.html",
+     "image": "https://bilder.deutschlandfunk.de/8c/1c/4c/70/8c1c4c70-d535-4b60-b2c0-2f2c394e5f24/fussball-champions-league-frauen-paris-bayern-muenchen-paris-saint-germain-100-1920x1920.jpg",
+     "aggregator": false,
+     "published": "2026-11-11T07:19:45+00:00"
+    },
+    {
+     "source": "n-tv",
+     "region": "DE",
+     "weight": 0.8,
+     "title": "Sieg im Königsklassen-Kracher: Bayern-Frauen bestehen Prüfung in \"ekligem Spiel\"",
+     "summary": "Zwei Wochen nach dem Unentschieden gegen Real Madrid feiert der FC Bayern in der Champions League der Frauen einen wichtigen Sieg in Paris. Jetzt winkt der direkte Einzug ins Viertelfinale.",
+     "link": "https://www.n-tv.de/sport/Bayern-Frauen-bestehen-Pruefung-in-ekligem-Spiel-id31519481.html",
+     "image": "https://www.n-tv.de/img/31519490/1794376864/Img_4_3/250/image.jpg",
+     "aggregator": false,
+     "published": "2026-11-11T05:52:30+00:00"
+    }
+   ]
+  },
+  {
+   "id": 8,
+   "score": 11.16,
+   "outlets": [
+    "Deutschlandfunk",
+    "SPIEGEL",
+    "NZZ",
+    "DER STANDARD"
+   ],
+   "regions": [
+    "AT",
+    "CH",
+    "DE"
+   ],
+   "trend": [],
+   "newest": "2026-11-11T07:19:45+00:00",
+   "articles": [
+    {
+     "source": "Deutschlandfunk",
+     "region": "DE",
+     "weight": 0.95,
+     "title": "Medienberichte - US-Finanzminister Bessent verlegt Wohnsitz wegen Bedrohung aus Iran auf Militärstützpunkt",
+     "summary": "Der amerikanische Finanzminister Bessent ist Medienberichten zufolge wegen mutmaßlicher Bedrohungen aus dem Iran von seinem privaten Wohnsitz auf einen Militärstützpunkt umgezogen.",
+     "link": "https://www.deutschlandfunk.de/us-finanzminister-bessent-verlegt-wohnsitz-wegen-bedrohung-aus-iran-auf-militaerstuetzpunkt-100.html",
+     "image": "https://bilder.deutschlandfunk.de/39/7d/57/53/397d5753-bfc8-47cc-8eba-1e5311bc65e3/us-finanzminister-bessent-102-1920x1920.jpg",
+     "aggregator": false,
+     "published": "2026-11-11T07:19:45+00:00"
+    },
+    {
+     "source": "SPIEGEL",
+     "region": "DE",
+     "weight": 0.9,
+     "title": "USA: Finanzminister Scott Bessent zieht wegen mutmaßlicher Bedrohung durch Iran offenbar auf US-Militärstützpunkt",
+     "summary": "Die US-Sicherheitsbehörden gehen offenbar von einer signifikanten Gefährdung einzelner Regierungsmitglieder durch Iran aus. Finanzminister Scott Bessent verlagert laut Berichten nun seinen Wohnort auf ein gesichertes Areal.",
+     "link": "https://www.spiegel.de/ausland/usa-finanzminister-scott-bessent-zieht-wegen-mutmasslicher-bedrohung-durch-iran-offenbar-auf-us-militaerstuetzpunkt-a-149be110-bd3a-4a39-a8e1-f078b5bdac39#ref=rss",
+     "image": "https://cdn.prod.www.spiegel.de/images/314a6f67-ea62-4d66-a541-3e75c31474b2_w520_r2.08_fpx65.53_fpy50.jpg",
+     "aggregator": false,
+     "published": "2026-11-11T05:45:00+00:00"
+    },
+    {
+     "source": "NZZ",
+     "region": "CH",
+     "weight": 0.9,
+     "title": "LIVE-TICKER - Die USA nach den Midterms: Bessent muss wegen Drohungen aus Iran auf einen Stützpunkt ziehen",
+     "summary": "Die neuesten Meldungen aus der amerikanischen Innenpolitik im Ticker.",
+     "link": "https://www.nzz.ch/international/us-innenpolitik-die-neuesten-meldungen-im-ticker-ld.10056111",
+     "image": "https://img-msp-prod.nzz.ch/2026/11/10/94a186d3-79f0-4b95-a2df-fafe85919202.jpg?width=200&height=200&fit=bounds&quality=75&auto=webp&crop=5464,5464,x2260,y0",
+     "aggregator": false,
+     "published": "2026-11-11T06:29:01+00:00"
+    },
+    {
+     "source": "DER STANDARD",
+     "region": "AT",
+     "weight": 0.85,
+     "title": "Wegen iranischer Drohungen: US-Finanzminister zieht auf Militärbasis",
+     "summary": "Scott Bessent will sich nicht einschüchtern lassen. Wegen mutmaßlicher Drohungen aus dem Iran verlegt er seinen Wohnsitz dennoch auf einen US-Militärstützpunkt",
+     "link": "https://www.derstandard.at/story/3000000348625/iran-us-finanzminister-zieht-wegen-drohungen-auf-milit228rbasis?ref=rss",
+     "image": "https://i.ds.at/6e9nbQ/rs:fill:150:0/plain/lido-images/2026/11/11/97ec8a97-45b1-422a-8bc7-75440bf32d65.jpg",
+     "aggregator": false,
+     "published": "2026-11-11T05:23:15+00:00"
+    }
+   ]
+  },
+  {
+   "id": 9,
+   "score": 9.36,
+   "outlets": [
+    "tagesschau",
+    "Deutschlandfunk",
+    "Golem"
+   ],
+   "regions": [
+    "DE"
+   ],
+   "trend": [],
+   "newest": "2026-11-11T07:19:45+00:00",
+   "articles": [
+    {
+     "source": "tagesschau",
+     "region": "DE",
+     "weight": 1.0,
+     "title": "Bund stockt E-Auto-Prämie für 2027 auf",
+     "summary": "Bund stockt E-Auto-Prämie für 2027 auf",
+     "link": "https://www.tagesschau.de/tagesschau_20_uhr/video-1681676.html",
+     "image": "https://images.tagesschau.de/image/453fb20a-052a-497d-b350-933a6e69c1bd/AAABocb6ego/AAABnSSvrFg/16x9-big/sendungsbild-1825618.jpg?width=1920",
+     "aggregator": false,
+     "published": "2026-11-10T19:41:09+00:00"
+    },
+    {
+     "source": "Deutschlandfunk",
+     "region": "DE",
+     "weight": 0.95,
+     "title": "Hohe Nachfrage - Bund will E-Auto-Kaufprämie für 2027 offenbar verdoppeln",
+     "summary": "Die Bundesregierung will die E-Auto-Prämie für 2027 offenbar aufstocken. Das geht aus der Bereinigungsvorlage des Bundesfinanzministeriums für die abschließenden Haushaltsberatungen hervor.",
+     "link": "https://www.deutschlandfunk.de/bund-will-e-auto-kaufpraemie-fuer-2027-offenbar-verdoppeln-102.html",
+     "image": "https://bilder.deutschlandfunk.de/23/11/33/c6/231133c6-5729-4ed6-bffa-7bc45ad4d1c8/e-autos-als-speicher-100-1920x1920.jpg",
+     "aggregator": false,
+     "published": "2026-11-11T07:19:45+00:00"
+    },
+    {
+     "source": "Golem",
+     "region": "DE",
+     "weight": 0.75,
+     "title": "Hohe Nachfrage: Bund plant 2027 deutlich mehr Geld für E-Auto-Prämie ein",
+     "summary": "Die Bundesregierung korrigiert ihre Haushaltspläne für die Kaufprämie. Die Mittel für 2027 sollen für rund 400.000 geförderte E-Autos reichen. ( Elektroauto , Tesla )",
+     "link": "https://www.golem.de/news/hohe-nachfrage-bund-plant-2027-deutlich-mehr-geld-fuer-e-auto-praemie-ein-2611-215056.html",
+     "image": "https://cpx.golem.de/cpx.php?class=17&amp;aid=215056&amp;page=1&amp;ts=1794329461",
+     "aggregator": false,
+     "published": "2026-11-10T16:51:01+00:00"
+    }
+   ]
+  },
+  {
+   "id": 10,
+   "score": 9.26,
+   "outlets": [
+    "Deutschlandfunk",
+    "ORF",
+    "Golem"
+   ],
+   "regions": [
+    "AT",
+    "DE"
+   ],
+   "trend": [],
+   "newest": "2026-11-11T07:19:45+00:00",
+   "articles": [
+    {
+     "source": "Deutschlandfunk",
+     "region": "DE",
+     "weight": 0.95,
+     "title": "\"Spiegel\"-Bericht - Bundeswehr verbietet wegen Sicherheitsbedenken chinesische Drohnen und Autos in Militäreinrichtungen",
+     "summary": "Die Bundeswehr verbannt offenbar wegen akuter Sicherheitsbedenken alle chinesischen Drohnen aus Kasernen und von Übungsplätzen",
+     "link": "https://www.deutschlandfunk.de/bundeswehr-verbietet-wegen-sicherheitsbedenken-chinesische-drohnen-und-autos-in-militaereinrichtunge-100.html",
+     "image": "https://bilder.deutschlandfunk.de/f3/d0/9d/b8/f3d09db8-2bdf-4a62-8b37-1cb10ced417e/drohne-138-1920x1920.jpg",
+     "aggregator": false,
+     "published": "2026-11-11T07:19:45+00:00"
+    },
+    {
+     "source": "ORF",
+     "region": "AT",
+     "weight": 0.95,
+     "title": "Deutsche Bundeswehr verbannt chinesische Drohnen und Autos",
+     "summary": "",
+     "link": "https://orf.at/stories/3447850/",
+     "image": null,
+     "aggregator": false,
+     "published": "2026-11-10T21:35:58+00:00"
+    },
+    {
+     "source": "Golem",
+     "region": "DE",
+     "weight": 0.75,
+     "title": "Spionage: Bundeswehr sperrt DJI-Drohnen und chinesische Autos aus",
+     "summary": "Aus Sorge vor möglicher Spionage dürfen chinesische Drohnen und Autos nicht mehr in Bundeswehr-Kasernen. ( Bundeswehr , Elektroauto )",
+     "link": "https://www.golem.de/news/spionage-bundeswehr-sperrt-dji-drohnen-und-chinesische-autos-aus-2611-215061.html",
+     "image": "https://cpx.golem.de/cpx.php?class=17&amp;aid=215061&amp;page=1&amp;ts=1794336242",
+     "aggregator": false,
+     "published": "2026-11-10T18:44:02+00:00"
+    }
+   ]
+  },
+  {
+   "id": 11,
+   "score": 9.23,
+   "outlets": [
+    "ZEIT ONLINE",
+    "Handelsblatt",
+    "WirtschaftsWoche"
+   ],
+   "regions": [
+    "DE"
+   ],
+   "trend": [],
+   "newest": "2026-11-11T07:14:22+00:00",
+   "articles": [
+    {
+     "source": "ZEIT ONLINE",
+     "region": "DE",
+     "weight": 0.9,
+     "title": "Verbraucherpreise im Oktober: Tankrabatt drückt Inflation wieder unter Drei-Prozent-Marke",
+     "summary": "",
+     "link": "https://www.zeit.de/news/2026-11/11/tankrabatt-drueckt-inflation-wieder-unter-drei-prozent-marke",
+     "image": "https://img.zeit.de/news/2026-11/11/tankrabatt-drueckt-inflation-wieder-unter-drei-prozent-marke-image-group/original__640x360",
+     "aggregator": false,
+     "published": "2026-11-11T07:14:22+00:00"
+    },
+    {
+     "source": "Handelsblatt",
+     "region": "DE",
+     "weight": 0.9,
+     "title": "Verbraucherpreise im Oktober: Tankrabatt drückt Inflation wieder unter Drei-Prozent-Marke",
+     "summary": "Der Tankrabatt hat bei den Verbraucherpreisen in Deutschland im Oktober für deutliche Entlastung gesorgt. Volkswirte halten den Effekt für vorübergehend. Dafür gibt es Gründe.",
+     "link": "https://www.handelsblatt.com/politik/deutschland/verbraucherpreise-im-oktober-tankrabatt-drueckt-inflation-wieder-unter-drei-prozent-marke/100269001.html",
+     "image": "https://images.handelsblatt.com/60KkPGci3ccD/cover/900/506/0/0/107/106/0.5/0.5/tankstelle.jpg",
+     "aggregator": false,
+     "published": "2026-11-11T07:14:22+00:00"
+    },
+    {
+     "source": "WirtschaftsWoche",
+     "region": "DE",
+     "weight": 0.85,
+     "title": "Deutsche Konjunktur: Tankrabatt dämpft Inflation im Oktober",
+     "summary": "Der Tankrabatt hat bei den Verbraucherpreisen nach vorläufigen Berechnungen für Entlastung gesorgt. Ökonomen bezweifeln aber einen längerfristigen Effekt.",
+     "link": "https://www.wiwo.de/politik/konjunktur/deutsche-konjunktur-tankrabatt-daempft-inflation-im-oktober/100268978.html",
+     "image": "https://images.wiwo.de/i9PU5xiGqijj/cover/900/506/0/0/313/312/0.5/0.5/archiv-01.10.2026-bremen-ein-auto-wird-an-einer-tankstelle-getankt.-zu-dpa-spritpreise-sinke.jpg",
+     "aggregator": false,
+     "published": "2026-11-11T07:10:10+00:00"
+    }
+   ]
+  },
+  {
+   "id": 12,
+   "score": 9.0,
+   "outlets": [
+    "Handelsblatt",
+    "WirtschaftsWoche",
+    "n-tv"
+   ],
+   "regions": [
+    "DE"
+   ],
+   "trend": [],
+   "newest": "2026-11-11T07:09:00+00:00",
+   "articles": [
+    {
+     "source": "Handelsblatt",
+     "region": "DE",
+     "weight": 0.9,
+     "title": "Steuern: Klingbeil will Steuerklassen III und V abschaffen",
+     "summary": "Der Finanzminister will die bei Ehepaaren beliebten Steuerklassen streichen. Die Besteuerung soll künftig nach dem tatsächlichen Verdienst erfolgen.",
+     "link": "https://www.handelsblatt.com/politik/deutschland/steuern-klingbeil-will-die-steuerklassen-iii-und-v-abschaffen-01/100268559.html",
+     "image": "https://images.handelsblatt.com/gYkPDz5jMq77/cover/900/506/0/0/152/365/0.5/0.5/07.11.2026-nordrhein-westfalen-bochum-lars-klingbeil-spd-co-parteichef-vizekanzler-und-bundes.jpg",
+     "aggregator": false,
+     "published": "2026-11-11T07:09:00+00:00"
+    },
+    {
+     "source": "Handelsblatt",
+     "region": "DE",
+     "weight": 0.9,
+     "title": "Morning Briefing: Steuerklasse III oder V abschaffen? Klingbeils großes Ablenkungsmanöver",
+     "summary": "Legt der Finanzminister die Axt ans Ehegattensplitting? Das ist die falsche Frage. Ein anderes Versäumnis des Vizekanzlers sollte viel eher für Unmut sorgen.",
+     "link": "https://www.handelsblatt.com/meinung/morningbriefing/morning-briefing-steuerklasse-iii-oder-v-klingbeils-ablenkungsmanoever/100268893.html",
+     "image": "https://images.handelsblatt.com/47d5QgD3gb49/cover/900/506/0/0/0/0/0.5/0.5/sven-prange.png",
+     "aggregator": false,
+     "published": "2026-11-11T05:09:35+00:00"
+    },
+    {
+     "source": "WirtschaftsWoche",
+     "region": "DE",
+     "weight": 0.85,
+     "title": "Steuern: Klingbeil will Steuerklassen III und V abschaffen",
+     "summary": "Der Finanzminister will die Steuererklärung vereinfachen. Im Fokus: Steuerklassen, die viele Paare nutzen. Welche finanziellen Folgen hätte das?",
+     "link": "https://www.wiwo.de/politik/deutschland/steuern-klingbeil-will-steuerklassen-iii-und-v-abschaffen/100268859.html",
+     "image": "https://images.wiwo.de/WcLElJXcCTej/cover/900/506/0/0/107/107/0.5/0.5/steuerbescheid.jpg",
+     "aggregator": false,
+     "published": "2026-11-10T15:37:01+00:00"
+    },
+    {
+     "source": "n-tv",
+     "region": "DE",
+     "weight": 0.8,
+     "title": "Sorge um Ehegattensplitting: Was, wenn die Steuerklassen III und V abgeschafft werden?",
+     "summary": "Finanzminister Klingbeil möchte eine Reform bei den Steuerklassen. Dieser würde die bei Eheleuten beliebte Kombination III und V zum Opfer fallen. Was das bedeutet und was zu tun ist, lesen Sie hier.",
+     "link": "https://www.n-tv.de/ratgeber/Was-wenn-die-Steuerklassen-III-und-V-abgeschafft-werden-id31518389.html",
+     "image": "https://www.n-tv.de/img/3060185/1601457741/Img_4_3/250/image.jpg",
+     "aggregator": false,
+     "published": "2026-11-10T16:31:34+00:00"
+    }
+   ]
+  },
+  {
+   "id": 13,
+   "score": 8.92,
+   "outlets": [
+    "ORF",
+    "DER STANDARD",
+    "WELT"
+   ],
+   "regions": [
+    "AT",
+    "DE"
+   ],
+   "trend": [],
+   "newest": "2026-11-11T06:37:28+00:00",
+   "articles": [
+    {
+     "source": "ORF",
+     "region": "AT",
+     "weight": 0.95,
+     "title": "Auto fuhr auf Gehsteig: Drei Tote in Los Angeles",
+     "summary": "",
+     "link": "https://orf.at/stories/3447856/",
+     "image": null,
+     "aggregator": false,
+     "published": "2026-11-11T05:48:59+00:00"
+    },
+    {
+     "source": "DER STANDARD",
+     "region": "AT",
+     "weight": 0.85,
+     "title": "Auto fährt auf Gehsteig: Drei Tote in Los Angeles",
+     "summary": "Zahlreiche Einsatzkräfte waren vor Ort, die Ursache für den tödlichen Vorfall ist noch unklar",
+     "link": "https://www.derstandard.at/story/3000000348627/auto-f228hrt-auf-gehsteig-drei-tote-in-los-angeles?ref=rss",
+     "image": "https://i.ds.at/ZEFs0w/rs:fill:150:0/plain/lido-images/2026/11/11/ead489b9-384a-4e68-87be-636a322ade6a.jpg",
+     "aggregator": false,
+     "published": "2026-11-11T05:42:07+00:00"
+    },
+    {
+     "source": "WELT",
+     "region": "DE",
+     "weight": 0.8,
+     "title": "SUV-Fahrer fährt auf Bürgersteig – drei Tote in Los Angeles",
+     "summary": "In North Hollywood hat ein SUV-Fahrer Passanten erfasst. Drei Menschen kamen ums Leben, drei weitere Personen wurden verletzt, darunter der Fahrer. Die Hintergründe sind unklar.",
+     "link": "https://www.welt.de/vermischtes/article6af4076d42c2bfde5b993919/los-angeles-suv-fahrer-faehrt-auf-buergersteig-drei-tote-in-north-hollywood.html",
+     "image": "https://images.welt.de/6af4076d42c2bfde5b993919/6c1f6826b85f2d3ff75cf4f7208caa39-master/ci23x11-w1200/apdpa-4e11290b57a74b73bba933a7a77c3120-jpg",
+     "aggregator": false,
+     "published": "2026-11-11T06:37:28+00:00"
+    }
+   ]
+  },
+  {
+   "id": 14,
+   "score": 8.46,
+   "outlets": [
+    "tagesschau",
+    "Deutschlandfunk",
+    "tagesschau.de"
+   ],
+   "regions": [
+    "DE"
+   ],
+   "trend": [],
+   "newest": "2026-11-11T07:19:45+00:00",
+   "articles": [
+    {
+     "source": "tagesschau",
+     "region": "DE",
+     "weight": 1.0,
+     "title": "Zahl der Kriegsdienstverweigerer steigt weiter deutlich",
+     "summary": "Der Wehrdienst bleibt weiterhin freiwillig. Die Musterung bei Männern ist allerdings verpflichtend. Die Zahl der Kriegsdienstverweigerungen steigt in diesem Jahr deutlich an.",
+     "link": "https://www.tagesschau.de/inland/kriegsdienstverweigerer-steigend-100.html",
+     "image": "https://images.tagesschau.de/image/90e033e0-defd-4b4b-bf51-40bb81c39473/AAABmQ4VB0k/AAABnSSvrFg/16x9-big/bundeswehr-jacken-100.jpg?width=1920",
+     "aggregator": false,
+     "published": "2026-11-11T05:56:45+00:00"
+    },
+    {
+     "source": "tagesschau Inland",
+     "region": "DE",
+     "weight": 1.0,
+     "title": "Zahl der Kriegsdienstverweigerer steigt weiter deutlich",
+     "summary": "Der Wehrdienst bleibt weiterhin freiwillig. Die Musterung bei Männern ist allerdings verpflichtend. Die Zahl der Kriegsdienstverweigerungen steigt in diesem Jahr deutlich an.",
+     "link": "https://www.tagesschau.de/inland/kriegsdienstverweigerer-steigend-100.html",
+     "image": "https://images.tagesschau.de/image/90e033e0-defd-4b4b-bf51-40bb81c39473/AAABmQ4VB0k/AAABnSSvrFg/16x9-big/bundeswehr-jacken-100.jpg?width=1920",
+     "aggregator": false,
+     "published": "2026-11-11T05:56:45+00:00"
+    },
+    {
+     "source": "Deutschlandfunk",
+     "region": "DE",
+     "weight": 0.95,
+     "title": "Bericht - Fast 17.000 Anträge auf Kriegsdienstverweigerung in diesem Jahr",
+     "summary": "In Deutschland steigt die Zahl der Kriegsdienstverweigerer weiter.",
+     "link": "https://www.deutschlandfunk.de/fast-17-000-antraege-auf-kriegsdienstverweigerung-in-diesem-jahr-100.html",
+     "image": "https://bilder.deutschlandfunk.de/7c/96/42/df/7c9642df-ee6d-4b2d-812b-7f737c821094/rekruten-bundeswehr-108-1920x1920.jpg",
+     "aggregator": false,
+     "published": "2026-11-11T07:19:45+00:00"
+    },
+    {
+     "source": "tagesschau.de",
+     "region": "DE",
+     "weight": 0.6,
+     "title": "Zahl der Kriegsdienstverweigerer steigt weiter deutlich",
+     "summary": "Zahl der Kriegsdienstverweigerer steigt weiter deutlich tagesschau.de Bundeswehr: Fast 17.000 Menschen beantragen Kriegsdienstverweigerung DIE ZEIT Fast 17.000 Anträge: Zahl der Kriegsdienstverweigerer steigt weiter deutlich RP Online Kriegsdienstverweigerung: 1892 neue Anträge im Oktober Berliner Zeitung ++ Info-Date am Morgen, 11.11.: Immer mehr Kriegsdienstverweigerer in Deutschland ++ Fünfte Jahreszeit beginnt ++ SWR",
+     "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBlc2ZYY2cyZ3lEbEdya0UzZlRJUjg4ekpqNlJVcjdLakhZaGQ1LXNaRFIzbm1ncVFydEQxVENySmpJajFrZkRLUklBb0dLWlRaUU5WdGhqaXVMM2hJREc1X0dCS1lNZnEwWS1CSDVhc0VrN1NkOTBkWXZXTUUwdFk?oc=5",
+     "image": null,
+     "aggregator": true,
+     "published": "2026-11-11T05:56:00+00:00"
+    }
+   ]
+  },
+  {
+   "id": 15,
+   "score": 7.98,
+   "outlets": [
+    "SPIEGEL",
+    "WELT"
+   ],
+   "regions": [
+    "DE"
+   ],
+   "trend": [],
+   "newest": "2026-11-11T07:24:00+00:00",
+   "articles": [
+    {
+     "source": "SPIEGEL",
+     "region": "DE",
+     "weight": 0.9,
+     "title": "Robert Habeck: \"Die Trump-Regierung hat die Ukraine verraten\"",
+     "summary": "»Dass Trump und Putin sich inzwischen besser verstehen als Trump und Selenskyj, ist offensichtlich«: Robert Habeck kritisiert die Ukrainepoltik der USA. Und ein Sonderbericht offenbart Defizite bei Russlandsanktionen der EU.",
+     "link": "https://www.spiegel.de/politik/robert-habeck-die-trump-regierung-hat-die-ukraine-verraten-a-e0168f77-3ea3-42ef-b818-14d90194dd72#ref=rss",
+     "image": "https://cdn.prod.www.spiegel.de/images/8a8bf171-f08c-4b27-aa93-675adfee167f_w520_r2.08_fpx33.99_fpy45.jpg",
+     "aggregator": false,
+     "published": "2026-11-10T21:30:00+00:00"
+    },
+    {
+     "source": "WELT",
+     "region": "DE",
+     "weight": 0.8,
+     "title": "„Die Trump-Regierung hat die Ukraine verraten“",
+     "summary": "Robert Habeck warnt vor einer Weltordnung, in der Trump, Putin und Xi die Macht unter sich aufteilen. Bei „Maischberger“ spricht der Ex-Vizekanzler über den Ukraine-Krieg – und erklärt, warum er vorerst nicht in die Politik zurückkehren will.",
+     "link": "https://www.welt.de/vermischtes/article6af3e2ca42c2bfde5b993822/maischberger-die-trump-regierung-hat-die-ukraine-verraten-sagt-robert-habeck.html",
+     "image": "https://images.welt.de/6af3e2ca42c2bfde5b993822/07adf488728e1b6a7739ffa1671d80ec-master/ci23x11-w1200/maischberger974-085-jpg",
+     "aggregator": false,
+     "published": "2026-11-11T07:24:00+00:00"
+    },
+    {
+     "source": "Spiegel",
+     "region": "DE",
+     "weight": 0.6,
+     "title": "»Die Trump-Regierung hat die Ukraine verraten«",
+     "summary": "»Die Trump-Regierung hat die Ukraine verraten« Spiegel Bei Maischberger: Habeck soll Sätze vervollständigen, hat aber gar keine Lust FOCUS online \"Das kann ganz grandios daneben gehen\" T-Online Habeck zieht bei \"Maischberger\" bitteres Fazit zu Trumps Ukraine-Kurs WEB.DE Warum Robert Habeck ein politisches Comeback ausschließt shz.de",
+     "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOZ2I1Nk55R0lDa2tHdng1SEZkdHRhWmtFd1hzOXRyTDRkdkxiRXB6QUwwYmdrX2VXd1pUaE5nbF9lRDVNVmgzRlc1MWswYmZoT3FqSWhPWkwxZ0tHODFMWE12VF9vcWhoemhFbUVJSWltRWEzbG85dDhfcTYyRU5jY2MyMExVUDdwZ1dnaUFfVEtiS2Zxd2RsazJvaThqRFBCNVAySHdEVzl1WGNfNDBsLTBkVzNKc3JzN01YSUxvZmsyUXlZQlFz?oc=5",
+     "image": null,
+     "aggregator": true,
+     "published": "2026-11-10T21:30:00+00:00"
+    }
+   ]
+  },
+  {
+   "id": 16,
+   "score": 7.86,
+   "outlets": [
+    "tagesschau",
+    "Deutschlandfunk"
+   ],
+   "regions": [
+    "DE"
+   ],
+   "trend": [],
+   "newest": "2026-11-11T07:19:45+00:00",
+   "articles": [
+    {
+     "source": "tagesschau",
+     "region": "DE",
+     "weight": 1.0,
+     "title": "Medienbericht: Ältere Beschäftigte doppelt so häufig krankgeschrieben",
+     "summary": "Mehr als 30 Tage im Jahr melden sich ältere Arbeitnehmer krank - etwa doppelt so viel wie der Durchschnitt. Das berichtet die Rheinische Post. 60- bis 65-Jährige fallen zudem öfter länger aus.",
+     "link": "https://www.tagesschau.de/wirtschaft/arbeitsmarkt/krankenstand-aeltere-beschaeftigte-100.html",
+     "image": "https://images.tagesschau.de/image/4c3d1f4c-ff04-4c80-ac9c-3025ca8d93e3/AAABnZt7UEA/AAABnSSvrFg/16x9-big/arbeitsunfaehigkeitsbescheinigung-110.jpg?width=1920",
+     "aggregator": false,
+     "published": "2026-11-11T06:51:52+00:00"
+    },
+    {
+     "source": "tagesschau Wirtschaft",
+     "region": "DE",
+     "weight": 1.0,
+     "title": "Medienbericht: Ältere Beschäftigte doppelt so häufig krankgeschrieben",
+     "summary": "Mehr als 30 Tage im Jahr melden sich ältere Arbeitnehmer krank - etwa doppelt so viel wie der Durchschnitt. Das berichtet die Rheinische Post. 60- bis 65-Jährige fallen zudem öfter länger aus.",
+     "link": "https://www.tagesschau.de/wirtschaft/arbeitsmarkt/krankenstand-aeltere-beschaeftigte-100.html",
+     "image": "https://images.tagesschau.de/image/4c3d1f4c-ff04-4c80-ac9c-3025ca8d93e3/AAABnZt7UEA/AAABnSSvrFg/16x9-big/arbeitsunfaehigkeitsbescheinigung-110.jpg?width=1920",
+     "aggregator": false,
+     "published": "2026-11-11T06:51:52+00:00"
+    },
+    {
+     "source": "Deutschlandfunk",
+     "region": "DE",
+     "weight": 0.95,
+     "title": "Gesundheitsministerium - Ältere Beschäftigte mehr als 30 Tage im Jahr krank",
+     "summary": "Ältere Beschäftigte in Deutschland sind nach Angaben des Bundesgesundheitsministeriums im Schnitt mehr als 30 Tage im Jahr krankgeschrieben.",
+     "link": "https://www.deutschlandfunk.de/aeltere-beschaeftigte-mehr-als-30-tage-im-jahr-krank-100.html",
+     "image": "https://bilder.deutschlandfunk.de/91/c4/c7/0b/91c4c70b-6145-437e-aebc-c2f30de95745/elektronische-au-krankmeldung-100-1920x1920.jpg",
+     "aggregator": false,
+     "published": "2026-11-11T07:19:45+00:00"
+    }
+   ]
+  },
+  {
+   "id": 17,
+   "score": 7.86,
+   "outlets": [
+    "tagesschau",
+    "Deutschlandfunk"
+   ],
+   "regions": [
+    "DE",
+    "INT"
+   ],
+   "trend": [],
+   "newest": "2026-11-11T07:19:45+00:00",
+   "articles": [
+    {
+     "source": "tagesschau",
+     "region": "DE",
+     "weight": 1.0,
+     "title": "Trauermesse nach Zugunglück mit 69 Toten in Spanien",
+     "summary": "Vor knapp zwei Wochen erschütterte das zweite große Zugunglück innerhalb eines Jahres Spanien - der Schock sitzt noch immer tief. Bei einer Trauermesse in Toledo wurde nun der 69 Toten gedacht. Von Franka Welz.",
+     "link": "https://www.tagesschau.de/ausland/europa/trauermesse-spanien-100.html",
+     "image": "https://images.tagesschau.de/image/d1f033ab-21ab-4c84-8fc0-50de7556891e/AAABocd6jrY/AAABnSSvrFg/16x9-big/toledo-118.jpg?width=1920",
+     "aggregator": false,
+     "published": "2026-11-10T21:04:36+00:00"
+    },
+    {
+     "source": "tagesschau Ausland",
+     "region": "INT",
+     "weight": 1.0,
+     "title": "Trauermesse nach Zugunglück mit 69 Toten in Spanien",
+     "summary": "Vor knapp zwei Wochen erschütterte das zweite große Zugunglück innerhalb eines Jahres Spanien - der Schock sitzt noch immer tief. Bei einer Trauermesse in Toledo wurde nun der 69 Toten gedacht. Von Franka Welz.",
+     "link": "https://www.tagesschau.de/ausland/europa/trauermesse-spanien-100.html",
+     "image": "https://images.tagesschau.de/image/d1f033ab-21ab-4c84-8fc0-50de7556891e/AAABocd6jrY/AAABnSSvrFg/16x9-big/toledo-118.jpg?width=1920",
+     "aggregator": false,
+     "published": "2026-11-10T21:04:36+00:00"
+    },
+    {
+     "source": "Deutschlandfunk",
+     "region": "DE",
+     "weight": 0.95,
+     "title": "Toledo - Trauermesse nach Zugkatastrophe in Spanien",
+     "summary": "Knapp zwei Wochen nach dem schweren Zugunglück in Spanien ist in der Kathedrale von Toledo eine Trauermesse gehalten worden.",
+     "link": "https://www.deutschlandfunk.de/trauermesse-nach-zugkatastrophe-in-spanien-104.html",
+     "image": "https://bilder.deutschlandfunk.de/e5/d4/4a/99/e5d44a99-b7cb-456d-9900-a6cf4f67e4d7/toledo-trauerfeier-100-1920x1920.jpg",
+     "aggregator": false,
+     "published": "2026-11-11T07:19:45+00:00"
+    }
+   ]
+  },
+  {
+   "id": 18,
+   "score": 7.86,
+   "outlets": [
+    "tagesschau Ausland",
+    "Deutschlandfunk"
+   ],
+   "regions": [
+    "DE",
+    "INT"
+   ],
+   "trend": [],
+   "newest": "2026-11-11T07:19:45+00:00",
+   "articles": [
+    {
+     "source": "tagesschau Ausland",
+     "region": "INT",
+     "weight": 1.0,
+     "title": "Amsterdam: Zehntausende demonstrieren gegen Israels Gaza-Politik",
+     "summary": "Amsterdam ist erneut Schauplatz einer Großdemonstration gegen das israelische Vorgehen im Gazastreifen geworden. Der Protest verlief laut Polizei friedlich. Ministerpräsident Jetten war dieses Mal nicht dabei.",
+     "link": "https://www.tagesschau.de/ausland/europa/demonstration-amsterdam-israel-100.html",
+     "image": "https://images.tagesschau.de/image/cac8f4e0-8a53-49fc-a135-8f57f56a06a6/AAABobwcTQk/AAABnSSvrFg/16x9-big/demonstration-amsterdam-102.jpg?width=1920",
+     "aggregator": false,
+     "published": "2026-11-08T17:02:14+00:00"
+    },
+    {
+     "source": "Deutschlandfunk",
+     "region": "DE",
+     "weight": 0.95,
+     "title": "Gazastreifen - Mehrere Tote bei israelischen Angriffen",
+     "summary": "Im Gazastreifen hat es erneut israelische Angriffe gegeben.",
+     "link": "https://www.deutschlandfunk.de/mehrere-tote-bei-israelischen-angriffen-108.html",
+     "image": "https://bilder.deutschlandfunk.de/cc/a8/26/b8/cca826b8-6b0c-4876-8221-929f4af6dfd9/zeltstadt-gaza-100-1920x1920.jpg",
+     "aggregator": false,
+     "published": "2026-11-11T07:19:45+00:00"
+    }
+   ]
+  },
+  {
+   "id": 19,
+   "score": 7.8,
+   "outlets": [
+    "ZEIT ONLINE",
+    "Handelsblatt",
+    "DIE ZEIT"
+   ],
+   "regions": [
+    "DE"
+   ],
+   "trend": [],
+   "newest": "2026-11-11T06:15:08+00:00",
+   "articles": [
+    {
+     "source": "ZEIT ONLINE",
+     "region": "DE",
+     "weight": 0.9,
+     "title": "Klimaschutz-Index: Deutschland sinkt im internationalen Klimaschutz-Index ins Mittelmaß",
+     "summary": "Experten sehen die Bemühungen Deutschlands für den Klimaschutz nur noch im Mittelmaß. Der nationale Klimaschutz rutschte demnach auf seinen historisch schlechtesten Wert.",
+     "link": "https://www.zeit.de/wissenschaft/umwelt/2026-11/klimaschutz-index-germanwatch-newclimate-institute-deutschland-gxe",
+     "image": "https://img.zeit.de/wissenschaft/umwelt/2026-11/klimaschutz-index-germanwatch-newclimate-institute-deutschland-gxe-foto-1/original__640x360",
+     "aggregator": false,
+     "published": "2026-11-11T06:15:08+00:00"
+    },
+    {
+     "source": "Handelsblatt",
+     "region": "DE",
+     "weight": 0.9,
+     "title": "Weltklimakonferenz: Deutschland rutscht im Klimaschutz-Ranking ins Mittelmaß ab",
+     "summary": "Deutschland verliert den Anschluss zur Spitzengruppe im Klimaschutz. In einem neuen Ranking rügen die Experten vor allem den geplanten Ausbau von Erdgas-Projekten.",
+     "link": "https://www.handelsblatt.com/politik/international/weltklimakonferenz-deutschland-rutscht-im-klimaschutz-ranking-ins-mittelmass-ab/100268579.html",
+     "image": "https://images.handelsblatt.com/7mh3z6lzcElQ/cover/900/506/0/0/107/106/0.5/0.5/weltklimakonferenz-cop31.jpg",
+     "aggregator": false,
+     "published": "2026-11-11T05:00:12+00:00"
+    },
+    {
+     "source": "DIE ZEIT",
+     "region": "DE",
+     "weight": 0.6,
+     "title": "Klimaschutz-Index: Deutschland sinkt im Internationalen Klimaschutz-Index ins Mittelmaß",
+     "summary": "Klimaschutz-Index: Deutschland sinkt im Internationalen Klimaschutz-Index ins Mittelmaß DIE ZEIT Weitere Schlagzeilen und Meinungen in Google News",
+     "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPaHFWZ1ctVkxiQkZtMXVfYUNZOWh1YXo4UGJTRHZqcGw0OVZxTE5DRVk2WWh6eGVVX1JZSGZHOVdtU2x2TVFhMDZ6VUVKd25vS01UYm5QTXBrMWhkTlh3RnlDYkxIZFNDdUFkUjROMmo0RkV6aDNIakl2SFlsQ3FpemkwQjRacGpVelpVbHlGV01SNXkwZVlpWmdidUdSVnQyS3ZQT2RpX2lTTFJ0blZ0aGhqUjk?oc=5",
+     "image": null,
+     "aggregator": true,
+     "published": "2026-11-11T06:15:08+00:00"
+    }
+   ]
+  },
+  {
+   "id": 20,
+   "score": 7.66,
+   "outlets": [
+    "Deutschlandfunk",
+    "Handelsblatt"
+   ],
+   "regions": [
+    "DE"
+   ],
+   "trend": [],
+   "newest": "2026-11-11T07:19:45+00:00",
+   "articles": [
+    {
+     "source": "Deutschlandfunk",
+     "region": "DE",
+     "weight": 0.95,
+     "title": "Wirtschaft - Siemens Energy macht 4,1 Milliarden Euro Gewinn",
+     "summary": "Der Energietechnikkonzern Siemens Energy hat seinen Gewinn im abgelaufenen Geschäftsjahr auf 4,1 Milliarden Euro mehr als verdoppelt.",
+     "link": "https://www.deutschlandfunk.de/siemens-energy-macht-4-1-milliarden-euro-gewinn-100.html",
+     "image": "https://bilder.deutschlandfunk.de/b0/f6/c6/19/b0f6c619-354f-4e97-8ad6-26b31948e111/siemens-energy-100-1920x1920.jpg",
+     "aggregator": false,
+     "published": "2026-11-11T07:19:45+00:00"
+    },
+    {
+     "source": "Handelsblatt",
+     "region": "DE",
+     "weight": 0.9,
+     "title": "Energietechnik: 4,1 Milliarden Euro: Rekordgewinn bei Siemens Energy",
+     "summary": "Im neuen Geschäftsjahr will der Konzern, der vor wenigen Jahren noch tiefrote Zahlen schrieb, den nächsten Meilenstein erreichen. Die Aktionäre erwartet ein Geldregen und die Belegschaft wächst.",
+     "link": "https://www.handelsblatt.com/politik/deutschland/energietechnik-41-milliarden-euro-rekordgewinn-bei-siemens-energy/100268986.html",
+     "image": "https://images.handelsblatt.com/ihkfUtgoDc0D/cover/900/506/0/0/148/147/0.5/0.5/warnstreiks-in-der-metall-und-elektroindustrie.jpg",
+     "aggregator": false,
+     "published": "2026-11-11T06:00:05+00:00"
+    }
+   ]
+  },
+  {
+   "id": 21,
+   "score": 7.66,
+   "outlets": [
+    "Deutschlandfunk",
+    "Handelsblatt"
+   ],
+   "regions": [
+    "DE"
+   ],
+   "trend": [],
+   "newest": "2026-11-11T07:19:45+00:00",
+   "articles": [
+    {
+     "source": "Deutschlandfunk",
+     "region": "DE",
+     "weight": 0.95,
+     "title": "Antalya - Gut hundert Staats- und Regierungschefs auf UNO-Klimakonferenz erwartet",
+     "summary": "Auf der UNO-Klimakonferenz in der Türkei werden heute rund hundert Staats- und Regierungschefs zu einem zweitägigen Gipfeltreffen erwartet. Bundeskanzler Merz ist bei dem sogenannten \"Leaders' Summit\" nicht dabei. Von Umweltverbänden und aus der Opposition hat er sich deswegen Kritik eingehandelt.",
+     "link": "https://www.deutschlandfunk.de/gut-hundert-staats-und-regierungschefs-auf-uno-klimakonferenz-erwartet-100.html",
+     "image": "https://bilder.deutschlandfunk.de/9e/bc/27/73/9ebc2773-eb25-4ee7-8114-d6d47a66216a/cop-antalya-100-1280x1280.jpg",
+     "aggregator": false,
+     "published": "2026-11-11T07:19:45+00:00"
+    },
+    {
+     "source": "Handelsblatt",
+     "region": "DE",
+     "weight": 0.9,
+     "title": "UN-Klimakonferenz: Die wichtigsten EU-Staatschefs fehlen auf der Klimakonferenz",
+     "summary": "Rund 80 Staats- und Regierungschefs stehen auf der Rednerliste in Antalya, bei früheren Klimakonferenzen waren es mehr als 100. Welche Länder schicken ihre Spitzenvertreter – und wer bleibt fern?",
+     "link": "https://www.handelsblatt.com/politik/international/un-klimakonferenz-die-wichtigsten-eu-staatschefs-fehlen-auf-der-klimakonferenz/100268967.html",
+     "image": "https://images.handelsblatt.com/T7MLt4jjMyO1/cover/900/506/0/0/107/106/0.5/0.5/friedrich-merz.jpg",
+     "aggregator": false,
+     "published": "2026-11-11T04:15:04+00:00"
+    }
+   ]
+  },
+  {
+   "id": 22,
+   "score": 7.56,
+   "outlets": [
+    "Deutschlandfunk",
+    "heise online"
+   ],
+   "regions": [
+    "DE"
+   ],
+   "trend": [],
+   "newest": "2026-11-11T07:19:45+00:00",
+   "articles": [
+    {
+     "source": "Deutschlandfunk",
+     "region": "DE",
+     "weight": 0.95,
+     "title": "Cyberkriminalität - Erneut Hackerangriff auf Uni: Tausende Datensätze an Universität Tübingen betroffen",
+     "summary": "Unbekannte haben einen Cyberangriff auf die Universität Tübingen verübt. Wie die Hochschule mitteilte, wurden rund 3.900 Datensätze Beschäftigter abgegriffen.",
+     "link": "https://www.deutschlandfunk.de/erneut-hackerangriff-auf-uni-tausende-datensaetze-an-universitaet-tuebingen-betroffen-100.html",
+     "image": "https://bilder.deutschlandfunk.de/56/2b/ff/6f/562bff6f-4765-43f3-8dca-4e22864474a7/universitaet-tuebingen-102-1920x1920.jpg",
+     "aggregator": false,
+     "published": "2026-11-11T07:19:45+00:00"
+    },
+    {
+     "source": "heise online",
+     "region": "DE",
+     "weight": 0.85,
+     "title": "IT-Vorfall an Uni Tübingen: Tausende Datensätze abgeflossen",
+     "summary": "Bei einem Cyberangriff haben die Täter Tausende Datensätze von der Universität Tübingen abgegriffen. Betroffen sind Mitarbeiter.",
+     "link": "https://www.heise.de/news/IT-Vorfall-an-Uni-Tuebingen-Tausende-Datensaetze-abgeflossen-11520090.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
+     "image": null,
+     "aggregator": false,
+     "published": "2026-11-11T06:03:00+00:00"
+    }
+   ]
+  },
+  {
+   "id": 23,
+   "score": 7.56,
+   "outlets": [
+    "Deutschlandfunk",
+    "WirtschaftsWoche"
+   ],
+   "regions": [
+    "DE"
+   ],
+   "trend": [],
+   "newest": "2026-11-11T07:19:45+00:00",
+   "articles": [
+    {
+     "source": "Deutschlandfunk",
+     "region": "DE",
+     "weight": 0.95,
+     "title": "Konjunkturerwartung - Wirtschaftsweise legen Jahresgutachten vor",
+     "summary": "Die sogenannten Wirtschaftsweisen legen heute in Berlin ihren Jahresbericht vor.",
+     "link": "https://www.deutschlandfunk.de/wirtschaftsweise-legen-jahresgutachten-vor-132.html",
+     "image": "https://bilder.deutschlandfunk.de/ae/ee/0c/47/aeee0c47-df2b-4058-a82d-f63f6d5e7676/china-container-schiff-handel-export-wirtschaft-100-1920x1920.jpg",
+     "aggregator": false,
+     "published": "2026-11-11T07:19:45+00:00"
+    },
+    {
+     "source": "WirtschaftsWoche",
+     "region": "DE",
+     "weight": 0.85,
+     "title": "Konjunktur: „Wirtschaftsweise“ legen Jahresgutachten vor",
+     "summary": "Die deutsche Wirtschaft ist auf Erholungskurs. Aber wie nachhaltig ist der Aufschwung?",
+     "link": "https://www.wiwo.de/politik/konjunktur/konjunktur-deutschland-wirtschaftsweise-legen-jahresgutachten-vor/100268877.html",
+     "image": "https://images.wiwo.de/kTZ-fxiClXi7/cover/900/506/0/0/0/556/0.5/0.5/archiv-27.05.2026-berlin-monika-schnitzer-vorsitzende-des-sachverstaendigenrates-spricht-bei-de.jpg",
+     "aggregator": false,
+     "published": "2026-11-10T17:27:34+00:00"
+    }
+   ]
+  },
+  {
+   "id": 24,
+   "score": 7.56,
+   "outlets": [
+    "Deutschlandfunk",
+    "DER STANDARD"
+   ],
+   "regions": [
+    "AT",
+    "DE"
+   ],
+   "trend": [],
+   "newest": "2026-11-11T07:19:45+00:00",
+   "articles": [
+    {
+     "source": "Deutschlandfunk",
+     "region": "DE",
+     "weight": 0.95,
+     "title": "USA - Drei mutmaßlich vom Iran unterstützte Terror-Helfer angeklagt",
+     "summary": "In den USA sind drei angeblich vom Iran unterstützte Männer wegen der mutmaßlichen Beteiligung an Terroranschlägen angeklagt worden.",
+     "link": "https://www.deutschlandfunk.de/drei-mutmasslich-vom-iran-unterstuetzte-terror-helfer-angeklagt-100.html",
+     "image": "https://bilder.deutschlandfunk.de/ef/19/89/77/ef198977-c512-45bc-ad4b-4a3ef317dd90/us-langstreckenbomber-fairford-100-1920x1920.jpg",
+     "aggregator": false,
+     "published": "2026-11-11T07:19:45+00:00"
+    },
+    {
+     "source": "DER STANDARD",
+     "region": "AT",
+     "weight": 0.85,
+     "title": "Wegen Anschlägen: US-Justiz klagt angebliche Helfer des Iran",
+     "summary": "Die drei Männer sollen eine Verbindung zu vereiteltem Anschlagsplan auf britischen Luftwaffenstützpunkt Fairford aufweisen",
+     "link": "https://www.derstandard.at/story/3000000348630/us-justiz-klagt-angebliche-iran-helfer-wegen-anschl228gen-an?ref=rss",
+     "image": "https://i.ds.at/Rm0d4w/rs:fill:150:0/plain/lido-images/2026/11/11/890cfa85-b454-497b-8ad1-96fc0a354038.jpg",
+     "aggregator": false,
+     "published": "2026-11-11T06:02:50+00:00"
+    }
+   ]
+  },
+  {
+   "id": 25,
+   "score": 7.56,
+   "outlets": [
+    "Deutschlandfunk",
+    "DER STANDARD"
+   ],
+   "regions": [
+    "AT",
+    "DE"
+   ],
+   "trend": [],
+   "newest": "2026-11-11T07:19:45+00:00",
+   "articles": [
+    {
+     "source": "Deutschlandfunk",
+     "region": "DE",
+     "weight": 0.95,
+     "title": "Geberkonferenz in Paris - Mehr als 300 Millionen Euro für Reparatur von Tschernobyl-Schutzhülle zugesagt",
+     "summary": "Internationale Geldgeber haben bei einer Konferenz in Paris mehr als 300 Millionen Euro für die Reparatur der Schutzhülle des Atomkraftwerks Tschernobyl zugesagt.",
+     "link": "https://www.deutschlandfunk.de/mehr-als-300-millionen-euro-fuer-reparatur-von-tschernobyl-schutzhuelle-zugesagt-104.html",
+     "image": "https://bilder.deutschlandfunk.de/cd/60/23/ad/cd6023ad-eeeb-4299-9a2a-49422fd14da2/40-jahre-tschernobyl-atomkraft-100-1920x1920.jpg",
+     "aggregator": false,
+     "published": "2026-11-11T07:19:45+00:00"
+    },
+    {
+     "source": "DER STANDARD",
+     "region": "AT",
+     "weight": 0.85,
+     "title": "303 Millionen Euro für Reparatur von Tschernobyl-Schutzhülle zugesagt",
+     "summary": "Insgesamt beteiligen sich 14 Länder und Organisationen. Österreich stellt eine Million Euro zur Verfügung",
+     "link": "https://www.derstandard.at/story/3000000348612/303-millionen-euro-f252r-reparatur-von-tschernobyl-schutzh252lle-zugesagt?ref=rss",
+     "image": "https://i.ds.at/L9vuDQ/rs:fill:150:0/plain/lido-images/2026/11/10/1b0004f4-34c7-46d8-b8aa-9b0bce9051b0.jpg",
+     "aggregator": false,
+     "published": "2026-11-10T19:32:53+00:00"
+    }
+   ]
+  },
+  {
+   "id": 26,
+   "score": 7.48,
+   "outlets": [
+    "ZEIT ONLINE",
+    "Handelsblatt"
+   ],
+   "regions": [
+    "DE"
+   ],
+   "trend": [],
+   "newest": "2026-11-11T07:06:09+00:00",
+   "articles": [
+    {
+     "source": "ZEIT ONLINE",
+     "region": "DE",
+     "weight": 0.9,
+     "title": "Belästigungsvorwürfe: Palmer verzichtet vorerst auf öffentliche Auftritte",
+     "summary": "",
+     "link": "https://www.zeit.de/news/2026-11/11/palmer-verzichtet-vorerst-auf-oeffentliche-auftritte",
+     "image": "https://img.zeit.de/news/2026-11/11/palmer-verzichtet-vorerst-auf-oeffentliche-auftritte-image-group/original__640x360",
+     "aggregator": false,
+     "published": "2026-11-11T07:06:09+00:00"
+    },
+    {
+     "source": "Handelsblatt",
+     "region": "DE",
+     "weight": 0.9,
+     "title": "Belästigungsvorwürfe: Palmer verzichtet vorerst auf öffentliche Auftritte",
+     "summary": "Die Staatsanwaltschaft prüft Vorwürfe gegen Tübingens Oberbürgermeister Boris Palmer, der sie zurückweist. Nun zieht er sich aus der Öffentlichkeit zurück.",
+     "link": "https://www.handelsblatt.com/politik/deutschland/belaestigungsvorwuerfe-palmer-verzichtet-vorerst-auf-oeffentliche-auftritte/100269000.html",
+     "image": "https://images.handelsblatt.com/GV4-MZD6hU0B/cover/900/506/0/0/94/94/0.5/0.5/boris-palmer-oberbuergermeister-von-tuebingen.jpg",
+     "aggregator": false,
+     "published": "2026-11-11T07:06:09+00:00"
+    }
+   ]
+  },
+  {
+   "id": 27,
+   "score": 7.36,
+   "outlets": [
+    "ORF",
+    "DER STANDARD"
+   ],
+   "regions": [
+    "AT"
+   ],
+   "trend": [],
+   "newest": "2026-11-11T06:43:27+00:00",
+   "articles": [
+    {
+     "source": "ORF",
+     "region": "AT",
+     "weight": 0.95,
+     "title": "Bildungsminister Wiederkehr zu Kompetenztests",
+     "summary": "",
+     "link": "https://orf.at/stories/3447830/",
+     "image": null,
+     "aggregator": false,
+     "published": "2026-11-10T18:03:03+00:00"
+    },
+    {
+     "source": "DER STANDARD",
+     "region": "AT",
+     "weight": 0.85,
+     "title": "Besser lernen mit Netflix? Wie der Bildungsminister bei Lerndefiziten aufholen will",
+     "summary": "Die Hälfte der 14-Jährigen mit Erstsprache Deutsch kann nicht lesen. Armin Wolf ist im \"ZiB2\"-Gespräch mit Christoph Wiederkehr einigermaßen fassungslos",
+     "link": "https://www.derstandard.at/story/3000000348629/besser-lernen-mit-netflix-wie-der-bildungsminister-bei-lerndefiziten-aufholen-will?ref=rss",
+     "image": "https://i.ds.at/wWckuQ/rs:fill:150:0/plain/lido-images/2026/11/11/cd653f5b-d581-4ba3-85f4-61cd7fb3deea.jpg",
+     "aggregator": false,
+     "published": "2026-11-11T06:43:27+00:00"
+    }
+   ]
+  }
+ ]
+}
