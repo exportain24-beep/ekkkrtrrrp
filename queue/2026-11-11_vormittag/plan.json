@@ -1,0 +1,26 @@
+{
+  "format": "single",
+  "candidate_id": 15,
+  "pillar": "POLITIK",
+  "region": "DE",
+  "kicker": "UKRAINE-KURS",
+  "hook_screen": "HABECK: VERRAT!",
+  "hook_voice": "Habeck: Die Trump-Regierung hat die Ukraine verraten.",
+  "beats": [
+    {"voice": "Trump und Putin verstehen sich inzwischen besser als Trump und Selenskyj, sagt Habeck bei Maischberger.", "big": "TRUMP + PUTIN", "label": "verstehen sich besser als mit Selenskyj"},
+    {"voice": "Der frühere Vizekanzler warnt: Trump, Putin und Xi könnten die Macht in der Welt unter sich aufteilen.", "big": "3 MÄCHTE", "label": "Trump, Putin und Xi teilen die Macht auf"},
+    {"voice": "In Abu Dhabi verhandeln gerade die USA, Russland und die Ukraine. Deutschland, der größte Unterstützer der Ukraine, sitzt nicht am Tisch.", "big": "ABU DHABI", "label": "Deutschland nicht am Verhandlungstisch"},
+    {"voice": "Ein politisches Comeback schließt Habeck vorerst aus.", "big": "KEIN COMEBACK", "label": "Habeck bleibt vorerst draußen"}
+  ],
+  "loop_line": "Hat Habeck recht – hat Washington die Ukraine verraten?",
+  "headline": "Habeck wirft Trump Ukraine-Verrat vor",
+  "highlight": ["Habeck"],
+  "entities": ["Robert Habeck", "Donald Trump", "Wladimir Putin", "Wolodymyr Selenskyj"],
+  "youtube_title": "Habeck: „Die Trump-Regierung hat die Ukraine verraten“",
+  "description_lead": "Ex-Vizekanzler Robert Habeck wirft der Regierung von Donald Trump bei „Maischberger“ vor, die Ukraine verraten zu haben – Trump und Putin verstünden sich besser als Trump und Selenskyj. Habeck warnt vor einer Weltordnung, in der Trump, Putin und Xi die Macht aufteilen, und schließt ein Comeback vorerst aus.",
+  "tags": ["Robert Habeck", "Donald Trump", "Wladimir Putin", "Wolodymyr Selenskyj", "Xi Jinping", "Maischberger", "Ukraine", "Abu Dhabi", "Grüne", "Ukraine-Krieg", "Friedensverhandlungen", "Weltordnung", "nachrichten", "nachrichten aktuell"],
+  "hashtags": ["#habeck", "#ukraine", "#trump"],
+  "facebook_caption_line1": "„Verraten“: Robert Habeck rechnet mit Trumps Ukraine-Politik ab",
+  "facebook_question": "Wie sollte Europa reagieren, wenn über die Ukraine ohne Deutschland verhandelt wird?",
+  "comment_question": "Hat Habeck recht: Hat die Trump-Regierung die Ukraine verraten – ja oder nein?"
+}
