@@ -1,0 +1,40 @@
+{
+ "date": "2026-11-11",
+ "slot": "morgen",
+ "publish_at": "2026-11-11T06:00:00+00:00",
+ "title": "Bundeswehr verbannt China-Autos: Angst vor Spionage",
+ "duration": 49.7,
+ "stories": [
+  {
+   "headline": "Bundeswehr sperrt China-Autos aus",
+   "region": "DE",
+   "pillar": "POLITIK"
+  },
+  {
+   "headline": "Hegseth: Amtsenthebung gescheitert",
+   "region": "INT",
+   "pillar": "WELT"
+  },
+  {
+   "headline": "Ältere fehlen 31 Tage im Jahr krank",
+   "region": "DE",
+   "pillar": "WIRTSCHAFT"
+  },
+  {
+   "headline": "E-Auto-Prämie: Doppelt so viel Geld",
+   "region": "DE",
+   "pillar": "WIRTSCHAFT"
+  }
+ ],
+ "comment": {
+  "text": "Richtig oder übertrieben: Soll die Bundeswehr chinesische Autos und Drohnen verbannen?",
+  "done": false
+ },
+ "youtube_id": "057VhkOAvmU",
+ "facebook_id": "1378661090808034",
+ "buffer": {
+  "twitter": "6af3ef4f61555afe9ef8c183",
+  "tiktok": "6af3ef506a689e197d2391e3"
+ },
+ "created": "2026-11-11T04:30:08.485514+00:00"
+}
