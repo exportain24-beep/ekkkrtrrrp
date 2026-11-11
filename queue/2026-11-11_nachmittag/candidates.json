@@ -1,0 +1,1558 @@
+{
+ "slot": {
+  "id": "nachmittag",
+  "format": "single",
+  "time": "14:30",
+  "label": "am Nachmittag",
+  "focus": "Nur Tie-Breaker – immer zuerst die populärsten, meistberichteten Nachrichten. Bei Gleichstand bevorzugt: Der eine größte Aufreger des Tages bis jetzt – bevorzugt Sicherheit, Bundeswehr, Skandale, Entscheidungen mit Folgen für den Alltag.",
+  "pillars": [
+   "POLITIK",
+   "WIRTSCHAFT",
+   "WELT",
+   "TECHNOLOGIE"
+  ],
+  "notify_subscribers": false
+ },
+ "slot_time": "2026-11-11T14:30:00+01:00",
+ "date_text": "Mittwoch, 11. November 2026",
+ "already_published": [
+  "Trump: „Andere Form“ für die Ukraine",
+  "Nvidia-Aktie bricht nach Affäre ein",
+  "Orbán-Bruder festgenommen",
+  "Kushner: Europa soll mit Moskau reden",
+  "Nvidia-Chef gesteht Affäre",
+  "Paris: Iran hinter Kühltruhen-Hack",
+  "Vodafone: Jeder fünfte Job fällt weg",
+  "Abu Dhabi: Kreml blockt die EU ab",
+  "Trump zweifelt an Midterm-Ergebnis",
+  "Amtsenthebung gegen Hegseth beantragt",
+  "FBI ermittelt in Nvidia-Affäre",
+  "Bund kauft Panzerbauer-Anteil",
+  "Preisdeckel für Ticketbörsen",
+  "Aigner offiziell nominiert",
+  "Merz droht mit EU-Haushaltsblockade",
+  "Schlesinger-Prozess beginnt in Berlin",
+  "Kalifornien kippt Milliardärssteuer",
+  "Nmecha verteidigt umstrittenen Torjubel",
+  "Lebenslang im Fall Fabian",
+  "Ukraine-Gespräche ohne Europa?",
+  "Klingbeil will Steuerklasse III kippen",
+  "Iran unter Verdacht: Kühlregal-Hacks",
+  "Ukraine-Gespräche: Erste Einigung?",
+  "Steuerklassen III und V vor dem Aus",
+  "Nvidia-Affäre: Jetzt warnt Deutschland",
+  "Aigner sagt der AfD ab",
+  "Linke will Emde aus Fraktion werfen",
+  "Bundeswehr sperrt China-Autos aus",
+  "Hegseth: Amtsenthebung gescheitert",
+  "Ältere fehlen 31 Tage im Jahr krank",
+  "E-Auto-Prämie: Doppelt so viel Geld",
+  "Habeck wirft Trump Ukraine-Verrat vor",
+  "Pistorius: Soldatinnen belästigt"
+ ],
+ "candidates": [
+  {
+   "id": 0,
+   "score": 15.25,
+   "outlets": [
+    "Deutschlandfunk",
+    "ORF",
+    "SPIEGEL",
+    "NZZ",
+    "DER STANDARD",
+    "n-tv"
+   ],
+   "regions": [
+    "AT",
+    "CH",
+    "DE"
+   ],
+   "trend": [],
+   "newest": "2026-11-11T11:45:28+00:00",
+   "articles": [
+    {
+     "source": "Deutschlandfunk",
+     "region": "DE",
+     "weight": 0.95,
+     "title": "Stacy Keach - \"Mike Hammer\"-Darsteller stirbt mit 85 Jahren",
+     "summary": "Der US-Schauspieler Stacy Keach ist tot.",
+     "link": "https://www.deutschlandfunk.de/mike-hammer-darsteller-stirbt-mit-85-jahren-100.html",
+     "image": "https://bilder.deutschlandfunk.de/8c/bd/b5/21/8cbdb521-87a1-41ca-be3e-9241658755af/usa-stacy-keach-tv-film-serien-schauspieler-mike-hammer-100-1920x1920.jpg",
+     "aggregator": false,
+     "published": "2026-11-11T11:45:28+00:00"
+    },
+    {
+     "source": "ORF",
+     "region": "AT",
+     "weight": 0.95,
+     "title": "„Mike Hammer“-Darsteller Stacy Keach ist tot",
+     "summary": "",
+     "link": "https://orf.at/stories/3447858/",
+     "image": null,
+     "aggregator": false,
+     "published": "2026-11-11T06:02:58+00:00"
+    },
+    {
+     "source": "SPIEGEL",
+     "region": "DE",
+     "weight": 0.9,
+     "title": "Stacy Keach: US-Schauspieler und »Mike Hammer«-Darsteller ist tot",
+     "summary": "Er spielte in den Achtzigerjahren den hartgesottenen Privatdetektiv Mike Hammer und war in Serien wie »Emergency Room« und »Two and a Half Men« zu sehen. Nun ist der Schauspieler im Alter von 85 Jahren gestorben.",
+     "link": "https://www.spiegel.de/kultur/kino/stacy-keach-us-schauspieler-und-mike-hammer-darsteller-ist-tot-a-8c72c14f-b1be-46b6-94ad-94db13418039#ref=rss",
+     "image": "https://cdn.prod.www.spiegel.de/images/f18aa141-dae6-41c6-ab79-77b2ed8b82a5_w520_r2.08_fpx44.75_fpy52.99.jpg",
+     "aggregator": false,
+     "published": "2026-11-11T09:30:00+00:00"
+    },
+    {
+     "source": "NZZ",
+     "region": "CH",
+     "weight": 0.9,
+     "title": "MELDUNGEN KULTUR - «Mike Hammer»-Darsteller Stacy Keach ist tot",
+     "summary": "Die neuesten Meldungen aus dem Feuilleton.",
+     "link": "https://www.nzz.ch/feuilleton/kultur-die-neuesten-meldungen-ld.10041945",
+     "image": "https://img-msp-prod.nzz.ch/2026/11/11/6f523011-bba9-4adc-95d7-c508c53fbe2c.jpg?width=200&height=200&fit=bounds&quality=75&auto=webp&crop=2098,2098,x938,y0",
+     "aggregator": false,
+     "published": "2026-11-11T06:15:54+00:00"
+    },
+    {
+     "source": "DER STANDARD",
+     "region": "AT",
+     "weight": 0.85,
+     "title": "\"Mike Hammer\"-Darsteller Stacy Keach mit 85 Jahren gestorben",
+     "summary": "Der Schauspieler wirkte auch in \"Emergency Room\" und \"Two and a Half Men\" mit. Am Dienstag ist er nach langem Kampf gegen eine Herzerkrankung gestorben",
+     "link": "https://www.derstandard.at/story/3000000348632/mike-hammer-darsteller-stacy-keach-mit-85-jahren-gestorben?ref=rss",
+     "image": "https://i.ds.at/m1ALBQ/rs:fill:150:0/plain/lido-images/2026/11/11/9700ac91-937c-4cdc-b50e-fa71e6a4efb3.jpg",
+     "aggregator": false,
+     "published": "2026-11-11T06:21:50+00:00"
+    },
+    {
+     "source": "n-tv",
+     "region": "DE",
+     "weight": 0.8,
+     "title": "Tod mit 85 Jahren: Trauer um \"Mike Hammer\"-Star Stacy Keach",
+     "summary": "Hollywood trauert um Schauspieler Stacy Keach, der im Alter von 85 Jahren gestorben ist. Seine Rolle als Detektiv \"Mike Hammer\" macht ihn in den 80er-Jahren zum Serienstar. Doch auch im Kino setzt Keach Akzente.",
+     "link": "https://www.n-tv.de/leute/Trauer-um-Mike-Hammer-Star-Stacy-Keach-id31520074.html",
+     "image": "https://www.n-tv.de/img/31520081/1794391908/Img_4_3/250/imago0099657758h.jpg",
+     "aggregator": false,
+     "published": "2026-11-11T10:18:28+00:00"
+    },
+    {
+     "source": "Spiegel",
+     "region": "DE",
+     "weight": 0.6,
+     "title": "Stacy Keach: US-Schauspieler und »Mike Hammer«-Darsteller ist tot",
+     "summary": "Stacy Keach: US-Schauspieler und »Mike Hammer«-Darsteller ist tot Spiegel Stacy Keach: US-Schauspieler Stacy Keach ist tot DIE ZEIT Tod mit 85 Jahren: Trauer um \"Mike Hammer\"-Star Stacy Keach n-tv.de Stacy Keach ist tot: „Mike Hammer“-Star stirbt mit 85 Jahren BILD Trauer in Hollywood: Schauspielstar Stacy Keach ist tot WEB.DE",
+     "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPdk4ydE1kLWhOUzd6dXJCYUFrSFFfWmJPR2E1ZS1tcjRWV2c1bVpidmFpYWJvb1IySG9zRWRLU1U1ZTIzcWszNXhSLXV1S2x2bWVqbmNzSzNpb2JWX01RN2szOVNCMThLVEsxR1h5WWN1MUlUQVE1bGpFTDd3Z25JdXFzd3h4NjczTXZBb21JZk5TaFpwWHhvNE1vbDZRZ2dZRmstRjlCRWV5M1B6bXNCS3EzeXEzNEpWOVhFMzJhWXIxWEpfLWNwZEFNOUxMWkFEUEE?oc=5",
+     "image": null,
+     "aggregator": true,
+     "published": "2026-11-11T09:30:00+00:00"
+    }
+   ]
+  },
+  {
+   "id": 1,
+   "score": 14.99,
+   "outlets": [
+    "tagesschau",
+    "Süddeutsche",
+    "Handelsblatt",
+    "DER STANDARD",
+    "WELT",
+    "n-tv",
+    "n-tv.de"
+   ],
+   "regions": [
+    "AT",
+    "DE"
+   ],
+   "trend": [],
+   "newest": "2026-11-11T11:34:48+00:00",
+   "articles": [
+    {
+     "source": "tagesschau",
+     "region": "DE",
+     "weight": 1.0,
+     "title": "Sexualisierte Gewalt bei der Bundeswehr: Pistorius stellt Studie vor",
+     "summary": "Sexualisierte Gewalt bei der Bundeswehr: Pistorius stellt Studie vor",
+     "link": "https://www.tagesschau.de/video/video-1681838.html",
+     "image": "https://images.tagesschau.de/image/e49d6101-6734-4df0-ad40-08707799e25e/AAABocoJYv8/AAABnSSvrFg/16x9-big/soldaten-bundeswehr-116.jpg?width=1920",
+     "aggregator": false,
+     "published": "2026-11-11T09:15:09+00:00"
+    },
+    {
+     "source": "Süddeutsche",
+     "region": "DE",
+     "weight": 0.9,
+     "title": "Soldatinnen: Studie belegt hohe Zahl sexueller Übergriffe bei der Bundeswehr",
+     "summary": "Viele Soldatinnen geben an, sie hätten sexualisiertes Fehlverhalten erlebt – von Belästigungen bis zu Gewalt. Jetzt will das Verteidigungsministerium neue Schritte unternehmen. Dabei sind drastische Fälle schon lange bekannt.",
+     "link": "https://www.sueddeutsche.de/politik/bundeswehr-sexuelle-uebergriffe-dunkelfeldstudie-li.3576560",
+     "image": "https://www.sueddeutsche.de/2026/11/11/124406c4-0a7a-44a3-8a44-f81b05c9756a.jpg?rect=542%2C59%2C3378%2C2534&width=1000&fm=jpg&q=60",
+     "aggregator": false,
+     "published": "2026-11-11T08:31:54+00:00"
+    },
+    {
+     "source": "Handelsblatt",
+     "region": "DE",
+     "weight": 0.9,
+     "title": "Missstände in der Bundeswehr: Studie: 72 Prozent der Soldatinnen beklagen Belästigung",
+     "summary": "Das Ausmaß sexualisierten Fehlverhaltens in der Bundeswehr ist nach einer Studie deutlich höher als bisher gemeldet. Minister und Generalinspekteur stellen einen Aktionsplan vor.",
+     "link": "https://www.handelsblatt.com/politik/deutschland/missstaende-in-der-bundeswehr-studie-72-prozent-der-soldatinnen-beklagen-belaestigung/100269005.html",
+     "image": "https://images.handelsblatt.com/8rlNCzl-YmZI/cover/900/506/0/0/142/141/0.5/0.5/verteidigungsausschuss-verteidigungsminister-pistorius.jpg",
+     "aggregator": false,
+     "published": "2026-11-11T11:34:48+00:00"
+    },
+    {
+     "source": "DER STANDARD",
+     "region": "AT",
+     "weight": 0.85,
+     "title": "Studie offenbart erschreckendes Ausmaß sexueller Übergriffe bei deutscher Bundeswehr",
+     "summary": "Verteidigungsminister Pistorius hat das Dunkelfeld sexueller Übergriffe erstmals ausgeleuchtet. Nun steht er unter Druck, wirksame Maßnahmen gegen ein tiefverwurzeltes Problem zu ergreifen",
+     "link": "https://www.derstandard.at/story/3000000348646/studie-offenbart-erschreckendes-ausmass-sexueller-uebergriffe-bei-deutscher-bundeswehr?ref=rss",
+     "image": "https://i.ds.at/pFSraQ/rs:fill:150:0/plain/lido-images/2026/11/11/942d9f10-2fbe-4eb9-9a46-ab9627df4477.jpg",
+     "aggregator": false,
+     "published": "2026-11-11T10:24:00+00:00"
+    },
+    {
+     "source": "WELT",
+     "region": "DE",
+     "weight": 0.8,
+     "title": "Studie zeigt Ausmaß sexueller Belästigung in der Bundeswehr – Pistorius kündigt „null Toleranz“ an",
+     "summary": "72 Prozent der Soldatinnen und 31 Prozent der Soldaten haben in einer Dunkelfeldstudie angegeben, mindestens einmal verbal belästigt worden zu sein. Verteidigungsminister Pistorius kündigte ein konsequentes Vorgehen an. Sehen Sie hier sein Statement.",
+     "link": "https://www.welt.de/politik/deutschland/video6af43557c45061d752ba5ecf/unerfreuliche-wahrheiten-studie-zeigt-ausmass-sexueller-belaestigung-in-der-bundeswehr-pistorius-kuendigt-null-toleranz-an.html",
+     "image": "https://images.welt.de/6af43557c45061d752ba5ecf/b9826dcf37e6c562ea498f11af82ee32/ci16x9-w1200/dpa-com-261111-936-143045-jpg",
+     "aggregator": false,
+     "published": "2026-11-11T10:11:33+00:00"
+    },
+    {
+     "source": "n-tv",
+     "region": "DE",
+     "weight": 0.8,
+     "title": "Bundeswehrsoldatinnen belästigt: Pistorius stellt \"unerfreuliche Wahrheiten\" vor",
+     "summary": "Verteidigungsminister Pistorius scheint selbst über das Ausmaß erschrocken: 72 Prozent der Soldatinnen in der Bundeswehr wurden schon einmal verbal sexuell belästigt. Besonders trifft es junge Frauen in unteren Dienstgraden. Viele Fälle werden gar nicht erst gemeldet.",
+     "link": "https://www.n-tv.de/politik/Bundeswehr-Sexuelle-Belaestigung-weit-verbreitet-Frauen-am-meisten-betroffen-id31520156.html",
+     "image": "https://www.n-tv.de/img/31520437/1794393204/Img_4_3/250/545320427.jpg",
+     "aggregator": false,
+     "published": "2026-11-11T10:15:04+00:00"
+    },
+    {
+     "source": "n-tv.de",
+     "region": "DE",
+     "weight": 0.6,
+     "title": "Pistorius stellt \"unerfreuliche Wahrheiten\" vor",
+     "summary": "Pistorius stellt \"unerfreuliche Wahrheiten\" vor n-tv.de Sexualisierte Gewalt bei der Bundeswehr: Pistorius präsentiert alarmierende Dunkelfeldstudie tagesschau.de Sexuelle Belästigung in der Bundeswehr: Grüne fordern Meldestelle für sexualisierte Belästigung in Bundeswehr DIE ZEIT Bundeswehr: Soldatinnen sexuell belästigt – Pistorius stellt Studie der Schande vor BILD Missstände in der Bundeswehr - Studie: 72 Prozent der Soldatinnen beklagen Belästigung - Politik - SZ.de SZ.de",
+     "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOQzE5b3c3eE5ya05QaTYxLUJtdVdDRmFNVHRpN2o3cENlaktEQUp3alRNRWQxVWRnTVFaaTVqTl84cmhLcTVZU3NjejQxdFZ1N2UwSnFHOWlDUWlwZ0tvRldnbGUySDVyTnZhX1U0NFhvWDdUaHBGVXB4Sm13NGJNcnFUalpfNzV3ekNVbExIT1VkOTlfNTZMRTBGalRRbmhrcVdhY3ZXQ2huZVA1RFdtT2tia2pQWGxXeHlTVQ?oc=5",
+     "image": null,
+     "aggregator": true,
+     "published": "2026-11-11T10:15:04+00:00"
+    }
+   ]
+  },
+  {
+   "id": 2,
+   "score": 12.95,
+   "outlets": [
+    "tagesschau",
+    "ZDFheute",
+    "Deutschlandfunk",
+    "n-tv"
+   ],
+   "regions": [
+    "DE"
+   ],
+   "trend": [
+    "Für Pokal-Spiel bei Bayern: So kommen Sie jetzt an Hertha-Tickets für das Spiel des Jahres"
+   ],
+   "newest": "2026-11-11T11:45:28+00:00",
+   "articles": [
+    {
+     "source": "tagesschau",
+     "region": "DE",
+     "weight": 1.0,
+     "title": "Champions League: FC Bayern dringt in Spitzengruppe vor",
+     "summary": "Die FC Bayern Frauen bleiben auch im vierten Spiel der Champions-League-Ligaphase ungeschlagen. Beim Sieg bei Paris Saint-Germain überzeugen die Münchnerinnen vor allem in der ersten Halbzeit und haben nun beste Karten fürs Viertelfinale.",
+     "link": "https://www.sportschau.de/regional/br/br-sieg-in-paris-fc-bayern-frauen-dringen-in-cl-spitzengruppe-vor-102.html",
+     "image": "https://images.sportschau.de/image/f4c5ea0d-e258-4290-88e8-bb34c8050f3f/AAABoceaoc8/AAABnSSvrFg/16x9-big/br-klara-buehl-links-und-momoko-tanikawa-rechts-jubeln-100.jpg?width=1920",
+     "aggregator": false,
+     "published": "2026-11-10T22:35:46+00:00"
+    },
+    {
+     "source": "ZDFheute",
+     "region": "DE",
+     "weight": 1.0,
+     "title": "Champions League: Bayern-Frauen zu stark für PSG",
+     "summary": "Die Bayern-Frauen feiern einen wichtigen Auswärtssieg in der Champions League: Mit dem 2:1-Sieg gegen Paris Saint-Germain machen sie einen großen Schritt in Richtung Viertelfinale.",
+     "link": "https://www.zdfheute.de/sport/fussball-frauen-champions-league-paris-saint-germain-bayern-muenchen-tore-ergebnis-100.html",
+     "image": "https://www.zdfheute.de/assets/psg-muenchen-102~384x216?cb=1794350932261",
+     "aggregator": false,
+     "published": "2026-11-10T21:59:00+00:00"
+    },
+    {
+     "source": "Deutschlandfunk",
+     "region": "DE",
+     "weight": 0.95,
+     "title": "Champions-League der Frauen - Bayern gewinnen in Paris und sind auf Viertelfinalkurs",
+     "summary": "Die Fußballerinnen des Bayern München bleiben in der Champions League weiter ungeschlagen. Der deutsche Meister gewann bei Paris Saint-Germain 2:1.",
+     "link": "https://www.deutschlandfunk.de/bayern-gewinnen-in-paris-und-sind-auf-viertelfinalkurs-100.html",
+     "image": "https://bilder.deutschlandfunk.de/8c/1c/4c/70/8c1c4c70-d535-4b60-b2c0-2f2c394e5f24/fussball-champions-league-frauen-paris-bayern-muenchen-paris-saint-germain-100-1920x1920.jpg",
+     "aggregator": false,
+     "published": "2026-11-11T11:45:28+00:00"
+    },
+    {
+     "source": "n-tv",
+     "region": "DE",
+     "weight": 0.8,
+     "title": "Sieg im Königsklassen-Kracher: Bayern-Frauen bestehen Prüfung in \"ekligem Spiel\"",
+     "summary": "Zwei Wochen nach dem Unentschieden gegen Real Madrid feiert der FC Bayern in der Champions League der Frauen einen wichtigen Sieg in Paris. Jetzt winkt der direkte Einzug ins Viertelfinale.",
+     "link": "https://www.n-tv.de/sport/Bayern-Frauen-bestehen-Pruefung-in-ekligem-Spiel-id31519481.html",
+     "image": "https://www.n-tv.de/img/31519490/1794376864/Img_4_3/250/image.jpg",
+     "aggregator": false,
+     "published": "2026-11-11T05:52:30+00:00"
+    }
+   ]
+  },
+  {
+   "id": 3,
+   "score": 11.45,
+   "outlets": [
+    "ZDFheute",
+    "Deutschlandfunk",
+    "SPIEGEL",
+    "ZEIT ONLINE"
+   ],
+   "regions": [
+    "DE"
+   ],
+   "trend": [],
+   "newest": "2026-11-11T11:45:28+00:00",
+   "articles": [
+    {
+     "source": "ZDFheute",
+     "region": "DE",
+     "weight": 1.0,
+     "title": "\"Elfter Elfter\": Start in die närrische Jahreszeit",
+     "summary": "In den Karnevals- und Fastnachtshochburgen Köln, Düsseldorf und Mainz sind Närrinnen und Narren in die fünfte Jahreszeit gestartet. Auch andernorts wird gefeiert.",
+     "link": "https://www.zdfheute.de/panorama/karneval-fasching-fastnacht-elfter-elfter-beginn-100.html",
+     "image": "https://www.zdfheute.de/assets/karneval-koeln-126~384x216?cb=1794393078267",
+     "aggregator": false,
+     "published": "2026-11-11T10:11:00+00:00"
+    },
+    {
+     "source": "Deutschlandfunk",
+     "region": "DE",
+     "weight": 0.95,
+     "title": "Karneval - Auftakt zur fünften Jahreszeit",
+     "summary": "Pünktlich um 11 Uhr 11 ist in den rheinischen Karnevalshochburgen die fünfte Jahreszeit eingeläutet worden.",
+     "link": "https://www.deutschlandfunk.de/auftakt-zur-fuenften-jahreszeit-128.html",
+     "image": "https://bilder.deutschlandfunk.de/02/f4/7f/98/02f47f98-2528-4f24-a1c9-4a2bcff38c35/koeln-karneval-session-eroeffnung-heumarkt-100-1920x1920.jpg",
+     "aggregator": false,
+     "published": "2026-11-11T11:45:28+00:00"
+    },
+    {
+     "source": "SPIEGEL",
+     "region": "DE",
+     "weight": 0.9,
+     "title": "Karneval: Der 11.11. in Köln, Düsseldorf und Co. in Bildern",
+     "summary": "Die Session ist eröffnet, die fünfte Jahreszeit kann kommen. In Köln, Düsseldorf und Co. feierten Tausende Kostümierte den 11.11.",
+     "link": "https://www.spiegel.de/panorama/karneval-der-11-11-in-koeln-duesseldorf-und-co-in-bildern-a-26c80160-00f6-44c7-a069-de3320812548#ref=rss",
+     "image": "https://cdn.prod.www.spiegel.de/images/098e646e-6fed-4e72-8934-11a15bf60752_w520_r2.08_fpx62.03_fpy54.98.jpg",
+     "aggregator": false,
+     "published": "2026-11-11T11:25:00+00:00"
+    },
+    {
+     "source": "ZEIT ONLINE",
+     "region": "DE",
+     "weight": 0.9,
+     "title": "Fünfte Jahreszeit: Helau! Fastnachtshochburg Mainz feiert",
+     "summary": "",
+     "link": "https://www.zeit.de/news/2026-11/11/fastnachtshochburg-mainz-feiert",
+     "image": "https://img.zeit.de/news/2026-11/11/fastnachtshochburg-mainz-feiert-image-group/original__640x360",
+     "aggregator": false,
+     "published": "2026-11-11T11:38:26+00:00"
+    }
+   ]
+  },
+  {
+   "id": 4,
+   "score": 11.38,
+   "outlets": [
+    "Deutschlandfunk",
+    "ORF",
+    "SRF News",
+    "DER STANDARD"
+   ],
+   "regions": [
+    "AT",
+    "CH",
+    "DE"
+   ],
+   "trend": [],
+   "newest": "2026-11-11T11:50:11+00:00",
+   "articles": [
+    {
+     "source": "Deutschlandfunk",
+     "region": "DE",
+     "weight": 0.95,
+     "title": "Großbritannien - US-Soldat wegen mutmaßlicher Spionage für Russland festgenommen",
+     "summary": "Die britische Polizei hat einen US-Soldaten wegen des Verdachts der Spionage für Russland festgenommen.",
+     "link": "https://www.deutschlandfunk.de/us-soldat-wegen-mutmasslicher-spionage-fuer-russland-festgenommen-102.html",
+     "image": "https://bilder.deutschlandfunk.de/46/3a/b9/b2/463ab9b2-fec3-4686-9845-590735bfc452/metropolitan-police-100-1920x1920.jpg",
+     "aggregator": false,
+     "published": "2026-11-11T11:45:28+00:00"
+    },
+    {
+     "source": "ORF",
+     "region": "AT",
+     "weight": 0.95,
+     "title": "Russland: Mutmaßliche polnische Spione festgenommen",
+     "summary": "",
+     "link": "https://orf.at/stories/3447859/",
+     "image": null,
+     "aggregator": false,
+     "published": "2026-11-11T06:51:01+00:00"
+    },
+    {
+     "source": "SRF News",
+     "region": "CH",
+     "weight": 0.95,
+     "title": "Warnung vor Insider-Bedrohung – Spionageverdacht: US-Soldat in England festgenommen",
+     "summary": "Der Soldat war in Grossbritannien für die Nato im Einsatz und soll für Russland spioniert haben.",
+     "link": "https://www.srf.ch/news/international/warnung-vor-insider-bedrohung-spionageverdacht-us-soldat-in-england-festgenommen",
+     "image": "https://www.srf.ch/static/cms/images//320ws/af21fe4.webp",
+     "aggregator": false,
+     "published": "2026-11-11T09:24:55+00:00"
+    },
+    {
+     "source": "DER STANDARD",
+     "region": "AT",
+     "weight": 0.85,
+     "title": "US-Soldat soll in Großbritannien spioniert haben",
+     "summary": "Das US-Militär hat am Montag Tankflugzeuge vom britischen Luftwaffenstützpunkt Mildenhall abgezogen",
+     "link": "https://www.derstandard.at/story/3000000348730/us-soldat-soll-in-grossbritannien-spioniert-haben?ref=rss",
+     "image": "https://i.ds.at/Uu68cw/rs:fill:150:0/plain/lido-images/2026/11/11/b0d1e0c3-d928-4109-932b-a7c1a096cce7.jpg",
+     "aggregator": false,
+     "published": "2026-11-11T11:50:11+00:00"
+    }
+   ]
+  },
+  {
+   "id": 5,
+   "score": 11.36,
+   "outlets": [
+    "tagesschau",
+    "SPIEGEL",
+    "ZEIT ONLINE",
+    "Handelsblatt"
+   ],
+   "regions": [
+    "DE"
+   ],
+   "trend": [],
+   "newest": "2026-11-11T11:46:04+00:00",
+   "articles": [
+    {
+     "source": "tagesschau",
+     "region": "DE",
+     "weight": 1.0,
+     "title": "\"Digital Fairness Act\": Neue EU-Regeln für Influencer und Onlineshops?",
+     "summary": "Die EU-Kommission legt heute einen Vorschlag für mehr Verbraucherschutz im Netz vor. Das Gesetz soll die Regeln für Werbung sowie Algorithmen verschärfen und nimmt Influencer, Onlineshops und Ticketverkäufer ins Visier. Von K. Schmid.",
+     "link": "https://www.tagesschau.de/wirtschaft/verbraucher/digital-fairness-act-100.html",
+     "image": "https://images.tagesschau.de/image/ec537cd6-2a8f-439b-b007-490f00dd7670/AAABmuVO3W0/AAABnSSvrFg/16x9-big/eu-kommission-gebaeude-102.jpg?width=1920",
+     "aggregator": false,
+     "published": "2026-11-11T05:28:10+00:00"
+    },
+    {
+     "source": "tagesschau Wirtschaft",
+     "region": "DE",
+     "weight": 1.0,
+     "title": "\"Digital Fairness Act\": Neue EU-Regeln für Influencer und Onlineshops?",
+     "summary": "Die EU-Kommission legt heute einen Vorschlag für mehr Verbraucherschutz im Netz vor. Das Gesetz soll die Regeln für Werbung sowie Algorithmen verschärfen und nimmt Influencer, Onlineshops und Ticketverkäufer ins Visier. Von K. Schmid.",
+     "link": "https://www.tagesschau.de/wirtschaft/verbraucher/digital-fairness-act-100.html",
+     "image": "https://images.tagesschau.de/image/ec537cd6-2a8f-439b-b007-490f00dd7670/AAABmuVO3W0/AAABnSSvrFg/16x9-big/eu-kommission-gebaeude-102.jpg?width=1920",
+     "aggregator": false,
+     "published": "2026-11-11T05:28:10+00:00"
+    },
+    {
+     "source": "SPIEGEL",
+     "region": "DE",
+     "weight": 0.9,
+     "title": "Influencer: EU-Kommission plant strengere Regeln gegen versteckte Werbung",
+     "summary": "Manche Influencer erzählen vermeintlich neutral von Produkten. In Wahrheit machen sie bezahlte Werbung. Onlineshops gaukeln vor, es wären nur noch wenige Waren verfügbar. Solche Praktiken sollen in der EU künftig verboten sein.",
+     "link": "https://www.spiegel.de/netzwelt/influencer-eu-kommission-plant-strengere-regeln-gegen-versteckte-werbung-a-aad69014-5fad-4ae7-9135-2ad39433e2a7#ref=rss",
+     "image": "https://cdn.prod.www.spiegel.de/images/b60c123d-1ea0-42aa-8470-04ebbc119b66_w520_r2.08_fpx41.33_fpy50.jpg",
+     "aggregator": false,
+     "published": "2026-11-11T08:54:00+00:00"
+    },
+    {
+     "source": "ZEIT ONLINE",
+     "region": "DE",
+     "weight": 0.9,
+     "title": "Verbraucherschutz: EU-Kommission plant Recht auf menschlichen Kundenservice im Internet",
+     "summary": "Mit dem Digital Fairness Act will die EU Verbraucherrechte im Internet besser schützen. Unter anderem soll der Kundeservice verbessert und Abos leichter kündbar werden.",
+     "link": "https://www.zeit.de/wirtschaft/2026-11/eu-verbraucherschutz-digital-fairness-act-online-abos-michael-mcgrath-gxe",
+     "image": "https://img.zeit.de/wirtschaft/2026-11/eu-verbraucherschutz-digital-fairness-act-online-abos-michael-mcgrath-gxe-foto-1/original__640x360",
+     "aggregator": false,
+     "published": "2026-11-11T11:46:04+00:00"
+    },
+    {
+     "source": "Handelsblatt",
+     "region": "DE",
+     "weight": 0.9,
+     "title": "Digital Fairness Act: EU-Kommission will Abo-Kündigungen im Internet erleichtern",
+     "summary": "Die Europäische Kommission will den Verbraucherschutz im Netz reformieren. Der nun vorgestellte Digital Fairness Act soll Verbraucherrechte stärken.",
+     "link": "https://www.handelsblatt.com/politik/international/digital-fairness-act-eu-kommission-will-abo-kuendigungen-im-internet-erleichtern/100268231.html",
+     "image": "https://images.handelsblatt.com/umAlgmcFtdPM/cover/900/506/0/0/107/106/0.5/0.5/online-shopping.jpg",
+     "aggregator": false,
+     "published": "2026-11-11T11:10:27+00:00"
+    }
+   ]
+  },
+  {
+   "id": 6,
+   "score": 10.9,
+   "outlets": [
+    "tagesschau",
+    "ORF",
+    "DER STANDARD",
+    "WELT"
+   ],
+   "regions": [
+    "AT",
+    "DE"
+   ],
+   "trend": [],
+   "newest": "2026-11-11T11:00:51+00:00",
+   "articles": [
+    {
+     "source": "tagesschau",
+     "region": "DE",
+     "weight": 1.0,
+     "title": "Erster Tag der Ukraine-Gespräche in Abu Dhabi beendet",
+     "summary": "Erster Tag der Ukraine-Gespräche in Abu Dhabi beendet",
+     "link": "https://www.tagesschau.de/tagesthemen/video-1681722.html",
+     "image": "https://images.tagesschau.de/image/31b46830-5cc1-427d-97d4-ed5f33563cbc/AAABocnW1xE/AAABnSSvrFg/16x9-big/ukraine-gespraeche-abu-dhabi-106.jpg?width=1920",
+     "aggregator": false,
+     "published": "2026-11-10T21:43:49+00:00"
+    },
+    {
+     "source": "ORF",
+     "region": "AT",
+     "weight": 0.95,
+     "title": "Ukraine-Gespräche in Abu Dhabi beendet",
+     "summary": "",
+     "link": "https://orf.at/stories/3447891/",
+     "image": null,
+     "aggregator": false,
+     "published": "2026-11-11T11:00:51+00:00"
+    },
+    {
+     "source": "DER STANDARD",
+     "region": "AT",
+     "weight": 0.85,
+     "title": "Formel-1-Rennen in Katar und Abu Dhabi sollen plangemäß stattfinden",
+     "summary": "Absage an Ersatzkandidat Imola. Im Fall einer Eskalation des Nahost-Konflikts könnte die Saison aber schon in Las Vegas beendet werden",
+     "link": "https://www.derstandard.at/story/3000000348606/formel-1-rennen-in-katar-und-abu-dhabi-sollen-plangemaess-stattfinden?ref=rss",
+     "image": "https://i.ds.at/AAqXgQ/rs:fill:150:0/plain/lido-images/2026/11/10/993bfbea-072b-47aa-9c59-f3f7f45ba17b.jpg",
+     "aggregator": false,
+     "published": "2026-11-10T16:37:38+00:00"
+    },
+    {
+     "source": "WELT",
+     "region": "DE",
+     "weight": 0.8,
+     "title": "„Die europäische Sicherheitsordnung kann natürlich nur mit Europäern verhandelt werden“",
+     "summary": "Vor dem Hintergrund der Ukraine-Gespräche in Abu Dhabi wirft Oberst a. D. Wolfgang Richter den Europäern vor, „sich lange Zeit selbst aus dem Spiel genommen zu haben. Jetzt haben sie große Probleme, da wieder reinzukommen“.",
+     "link": "https://www.welt.de/politik/ausland/video6af438f8db4e2fa8f6eb7138/ukraine-gespraeche-die-europaeische-sicherheitsordnung-kann-natuerlich-nur-mit-europaeern-verhandelt-werden.html",
+     "image": "https://images.welt.de/6af438f8db4e2fa8f6eb7138/cff5bc6f80dcd2e5af104814c45fbf60/ci16x9-w1200/1794318542189-afp-d72m8g3-jpg",
+     "aggregator": false,
+     "published": "2026-11-11T09:56:12+00:00"
+    }
+   ]
+  },
+  {
+   "id": 7,
+   "score": 10.85,
+   "outlets": [
+    "tagesschau",
+    "Deutschlandfunk"
+   ],
+   "regions": [
+    "DE"
+   ],
+   "trend": [
+    "wehrdienst",
+    "Zahl der Kriegsdienstverweigerer steigt weiter deutlich"
+   ],
+   "newest": "2026-11-11T11:45:28+00:00",
+   "articles": [
+    {
+     "source": "tagesschau",
+     "region": "DE",
+     "weight": 1.0,
+     "title": "Zahl der Kriegsdienstverweigerer steigt weiter deutlich",
+     "summary": "Der Wehrdienst bleibt weiterhin freiwillig. Die Musterung bei Männern ist allerdings verpflichtend. Die Zahl der Kriegsdienstverweigerungen steigt in diesem Jahr deutlich an.",
+     "link": "https://www.tagesschau.de/inland/kriegsdienstverweigerer-steigend-100.html",
+     "image": "https://images.tagesschau.de/image/90e033e0-defd-4b4b-bf51-40bb81c39473/AAABmQ4VB0k/AAABnSSvrFg/16x9-big/bundeswehr-jacken-100.jpg?width=1920",
+     "aggregator": false,
+     "published": "2026-11-11T05:56:45+00:00"
+    },
+    {
+     "source": "tagesschau Inland",
+     "region": "DE",
+     "weight": 1.0,
+     "title": "Zahl der Kriegsdienstverweigerer steigt weiter deutlich",
+     "summary": "Der Wehrdienst bleibt weiterhin freiwillig. Die Musterung bei Männern ist allerdings verpflichtend. Die Zahl der Kriegsdienstverweigerungen steigt in diesem Jahr deutlich an.",
+     "link": "https://www.tagesschau.de/inland/kriegsdienstverweigerer-steigend-100.html",
+     "image": "https://images.tagesschau.de/image/90e033e0-defd-4b4b-bf51-40bb81c39473/AAABmQ4VB0k/AAABnSSvrFg/16x9-big/bundeswehr-jacken-100.jpg?width=1920",
+     "aggregator": false,
+     "published": "2026-11-11T05:56:45+00:00"
+    },
+    {
+     "source": "Deutschlandfunk",
+     "region": "DE",
+     "weight": 0.95,
+     "title": "Bericht - Fast 17.000 Anträge auf Kriegsdienstverweigerung in diesem Jahr",
+     "summary": "In Deutschland steigt die Zahl der Kriegsdienstverweigerer weiter.",
+     "link": "https://www.deutschlandfunk.de/fast-17-000-antraege-auf-kriegsdienstverweigerung-in-diesem-jahr-100.html",
+     "image": "https://bilder.deutschlandfunk.de/7c/96/42/df/7c9642df-ee6d-4b2d-812b-7f737c821094/rekruten-bundeswehr-108-1920x1920.jpg",
+     "aggregator": false,
+     "published": "2026-11-11T11:45:28+00:00"
+    }
+   ]
+  },
+  {
+   "id": 8,
+   "score": 9.85,
+   "outlets": [
+    "tagesschau",
+    "ZDFheute",
+    "Deutschlandfunk"
+   ],
+   "regions": [
+    "DE"
+   ],
+   "trend": [],
+   "newest": "2026-11-11T11:45:28+00:00",
+   "articles": [
+    {
+     "source": "tagesschau",
+     "region": "DE",
+     "weight": 1.0,
+     "title": "Dunkelfeldstudie bei der Bundeswehr - Viele Fälle von sexualisiertem Fehlverhalten",
+     "summary": "Einer Untersuchung zufolge ist sexualisiertes Fehlverhalten in der Bundeswehr weiter verbreitet als bislang bekannt - am häufigsten betroffen sind Soldatinnen. Recherchen von WDR, NDR und SZ geben Einblick in konkrete Fälle.",
+     "link": "https://www.tagesschau.de/investigativ/ndr-wdr/bundeswehr-sexuelle-belaestigung-100.html",
+     "image": "https://images.tagesschau.de/image/9e6172ca-7425-4d30-b9ff-6f0746c3826a/AAABocm11no/AAABnSSvrFg/16x9-big/soldatinnen-bundeswehr-100.jpg?width=1920",
+     "aggregator": false,
+     "published": "2026-11-11T10:13:35+00:00"
+    },
+    {
+     "source": "tagesschau",
+     "region": "DE",
+     "weight": 1.0,
+     "title": "Iris Sayram, ARD Berlin, zu Konsequenzen aus der Dunkelfeldstudie über sexualisiertes Fehlverhalten bei der Bundeswehr",
+     "summary": "Iris Sayram, ARD Berlin, zu Konsequenzen aus der Dunkelfeldstudie über sexualisiertes Fehlverhalten bei der Bundeswehr",
+     "link": "https://www.tagesschau.de/video/video-1681938.html",
+     "image": "https://images.tagesschau.de/image/921b47b2-8123-40fe-a0d2-81dab269a763/AAABocpbMpo/AAABnSSvrFg/16x9-big/sendungsbild-1825902.jpg?width=1920",
+     "aggregator": false,
+     "published": "2026-11-11T11:25:45+00:00"
+    },
+    {
+     "source": "ZDFheute",
+     "region": "DE",
+     "weight": 1.0,
+     "title": "Bundeswehr-Studie offenbart Ausmaß sexueller Belästigung",
+     "summary": "Sexuelle Belästigung in der Bundeswehr ist einer neuen Studie zufolge noch weitaus verbreiteter als bislang bekannt. Verteidigungsminister Pistorius forderte \"null Toleranz\".",
+     "link": "https://www.zdfheute.de/politik/deutschland/bundeswehr-dunkelfeldstudie-sexuelle-belaestigung-boris-pistorius-100.html",
+     "image": "https://www.zdfheute.de/assets/soldatinnen-bundeswehr-100~384x216?cb=1794395341729",
+     "aggregator": false,
+     "published": "2026-11-11T09:43:00+00:00"
+    },
+    {
+     "source": "Deutschlandfunk",
+     "region": "DE",
+     "weight": 0.95,
+     "title": "Dunkelfeldstudie - Sexuelle Belästigung in der Bundeswehr verbreiteter als bislang bekannt - Pistorius: \"Null Toleranz\"",
+     "summary": "Sexuelle Belästigung in ​der Bundeswehr ist einer neuen Erhebung zufolge verbreiteter als bislang bekannt. So haben in den vergangenen zwölf Monaten 38 Prozent der Soldatinnen und 16 Prozent der Soldaten ‌verbale Belästigung erfahren, ⁠wie aus einer Dunkelfeldstudie der Streitkräfte hervorgeht.",
+     "link": "https://www.deutschlandfunk.de/sexuelle-belaestigung-in-der-bundeswehr-verbreiteter-als-bislang-bekannt-pistorius-null-toleranz-100.html",
+     "image": "https://bilder.deutschlandfunk.de/bb/57/83/23/bb578323-afca-479a-8998-f8311bad8e90/soldatin-helm-hinten-bundeswehr-100-1920x1920.jpg",
+     "aggregator": false,
+     "published": "2026-11-11T11:45:28+00:00"
+    }
+   ]
+  },
+  {
+   "id": 9,
+   "score": 9.55,
+   "outlets": [
+    "tagesschau",
+    "Deutschlandfunk",
+    "WirtschaftsWoche"
+   ],
+   "regions": [
+    "DE"
+   ],
+   "trend": [],
+   "newest": "2026-11-11T11:45:28+00:00",
+   "articles": [
+    {
+     "source": "tagesschau",
+     "region": "DE",
+     "weight": 1.0,
+     "title": "Zahl der arbeitslosen Akademiker auf Höchststand",
+     "summary": "Ein Studium schützt nach wie vor gut vor Arbeitslosigkeit - doch die Wirtschaftslage und der Einsatz von Künstlicher Intelligenz ändern das. Vor allem jüngere Studienabsolventen sind von Arbeitslosigkeit betroffen.",
+     "link": "https://www.tagesschau.de/wirtschaft/arbeitslosigkeit-akademiker-rekord-100.html",
+     "image": "https://images.tagesschau.de/image/b051ed8e-002e-4532-bf5a-8393ec8e8ab2/AAABocoTqL8/AAABnSSvrFg/16x9-big/arbeitsmarkt-540.jpg?width=1920",
+     "aggregator": false,
+     "published": "2026-11-11T10:07:28+00:00"
+    },
+    {
+     "source": "tagesschau Wirtschaft",
+     "region": "DE",
+     "weight": 1.0,
+     "title": "Zahl der arbeitslosen Akademiker auf Höchststand",
+     "summary": "Ein Studium schützt nach wie vor gut vor Arbeitslosigkeit - doch die Wirtschaftslage und der Einsatz von Künstlicher Intelligenz ändern das. Vor allem jüngere Studienabsolventen sind von Arbeitslosigkeit betroffen.",
+     "link": "https://www.tagesschau.de/wirtschaft/arbeitslosigkeit-akademiker-rekord-100.html",
+     "image": "https://images.tagesschau.de/image/b051ed8e-002e-4532-bf5a-8393ec8e8ab2/AAABocoTqL8/AAABnSSvrFg/16x9-big/arbeitsmarkt-540.jpg?width=1920",
+     "aggregator": false,
+     "published": "2026-11-11T10:07:28+00:00"
+    },
+    {
+     "source": "Deutschlandfunk",
+     "region": "DE",
+     "weight": 0.95,
+     "title": "Arbeitsagentur - Arbeitslosigkeit bei Akademikern auf Höchststand",
+     "summary": "Die Arbeitslosigkeit unter Akademikern in Deutschland ist auf einen Höchststand gestiegen.",
+     "link": "https://www.deutschlandfunk.de/arbeitslosigkeit-bei-akademikern-auf-hoechststand-104.html",
+     "image": "https://bilder.deutschlandfunk.de/20/00/ac/51/2000ac51-eba2-4d97-9a3b-8b0c0e521294/buergergeld-job-100-1920x1920.jpg",
+     "aggregator": false,
+     "published": "2026-11-11T11:45:28+00:00"
+    },
+    {
+     "source": "WirtschaftsWoche",
+     "region": "DE",
+     "weight": 0.85,
+     "title": "Arbeitsmarkt: Zahl der arbeitslosen Akademiker erreicht Höchststand",
+     "summary": "Wer studiert hat, hat jedoch weiterhin ein vergleichsweise geringes Risiko, arbeitslos zu werden. Das gilt für einige Studienrichtungen mehr als für andere.",
+     "link": "https://www.wiwo.de/politik/konjunktur/arbeitsmarkt-zahl-der-arbeitslosen-akademiker-erreicht-hoechststand/100268922.html",
+     "image": "https://images.wiwo.de/A2fJVALhavjS/cover/900/506/0/0/0/334/0.5/0.5/french-jobseeker-alexandre-24-years-old-works-on-a-laptop-in-his-bedroom-at-his-motheraposs-home.jpg",
+     "aggregator": false,
+     "published": "2026-11-11T08:44:00+00:00"
+    }
+   ]
+  },
+  {
+   "id": 10,
+   "score": 9.54,
+   "outlets": [
+    "ZDFheute",
+    "SPIEGEL",
+    "n-tv",
+    "rbb24.de"
+   ],
+   "regions": [
+    "DE"
+   ],
+   "trend": [],
+   "newest": "2026-11-11T10:32:00+00:00",
+   "articles": [
+    {
+     "source": "ZDFheute",
+     "region": "DE",
+     "weight": 1.0,
+     "title": "Tatverdächtiger im Fall Lisa gestorben",
+     "summary": "Nach dem Tod der 13-jährigen Lisa ist der Tatverdächtige seinen Verletzungen erlegen. Er hatte laut Polizei versucht, sich selbst zu erschießen.",
+     "link": "https://www.zdfheute.de/panorama/kriminalitaet/schuelerin-berlin-lisa-verdaechtiger-tot-100.html",
+     "image": "https://www.zdfheute.de/assets/fall-lisa-tatort-bad-freienwalde-100~384x216?cb=1794389441664",
+     "aggregator": false,
+     "published": "2026-11-11T10:32:00+00:00"
+    },
+    {
+     "source": "SPIEGEL",
+     "region": "DE",
+     "weight": 0.9,
+     "title": "Berlin-Marzahn: Mutmaßlicher Täter im Fall Lisa T. an Verletzungen gestorben",
+     "summary": "Der 22-Jährige, der verdächtigt wird, eine 13-jährige Schülerin aus Berlin-Marzahn getötet zu haben, ist tot. Er erlag offenbar den Verletzungen, die er sich am Sonntag selbst zugefügt hatte, als die Polizei eintraf.",
+     "link": "https://www.spiegel.de/panorama/justiz/berlin-marzahn-mutmasslicher-taeter-im-fall-lisa-t-an-verletzungen-gestorben-a-69df66f2-c2b2-472b-9679-8a211338be32#ref=rss",
+     "image": "https://cdn.prod.www.spiegel.de/images/516cbc65-8ad7-4a34-bb38-7dd211314664_w520_r2.08_fpx38.64_fpy49.99.jpg",
+     "aggregator": false,
+     "published": "2026-11-11T09:17:00+00:00"
+    },
+    {
+     "source": "n-tv",
+     "region": "DE",
+     "weight": 0.8,
+     "title": "Täter lag auf Intensivstation: 13-Jährige aus Berlin getötet: Verdächtiger im Fall Lisa T. ist tot",
+     "summary": "Der Fall der aus Berlin nach Brandenburg verschleppten 13-jährigen Lisa T. erschüttert das Land. Der Tatverdächtige, der die Teenagerin aller Voraussicht nach auch ermordet hat, soll übereinstimmenden Medienberichten zufolge infolge einer Selbstverletzung gestorben sein.",
+     "link": "https://www.n-tv.de/panorama/13-Jaehrige-aus-Berlin-getoetet-Verdaechtiger-im-Fall-Lisa-T-ist-tot-id31520206.html",
+     "image": "https://www.n-tv.de/img/31521338/1794400920/Img_4_3/250/632279518.jpg",
+     "aggregator": false,
+     "published": "2026-11-11T08:56:12+00:00"
+    },
+    {
+     "source": "rbb24.de",
+     "region": "DE",
+     "weight": 0.6,
+     "title": "22-jähriger Tatverdächtiger im Fall Lisa T. im Krankenhaus gestorben",
+     "summary": "22-jähriger Tatverdächtiger im Fall Lisa T. im Krankenhaus gestorben rbb24.de Schülerin (13) verschleppt und ermordet: Lisas mutmaßlicher Killer ist tot BILD Fall Lisa T. Tatverdächtiger verstorben – jetzt werden nur noch die Todesumstände des Mädchens ermittelt Tagesspiegel \"Dass die Auswertung von Daten anderthalb Jahre dauert, ist lang, aber nicht ungewöhnlich\" rbb24.de Täter lag auf Intensivstation: 13-Jährige aus Berlin getötet: Verdächtiger im Fall Lisa T. ist tot n-tv.de",
+     "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQcWtYbU5ibmFPZXYyb2lIVnVfOFNrelJaX1hLSi01bFFlODY5MkhFcmdTZzBnbXB2cHBXUmhuUUpvWUF0bnk1YmlJQXVramQ5d3Z4ZlEyOFZsNUlxMFRVbXpINmgzaDJuWERiSTgtSXZCVmtOdjFWWDhJOExQbzM2Q05jZURxdmV5dHpIQXNOYWVzNDZtNnlrSzNFOWZHSmdfQXMxTVJkekZGd2ZzamhfVG9lZ1NRM0xrSlJZ?oc=5",
+     "image": null,
+     "aggregator": true,
+     "published": "2026-11-11T10:31:22+00:00"
+    }
+   ]
+  },
+  {
+   "id": 11,
+   "score": 9.47,
+   "outlets": [
+    "tagesschau",
+    "ZDFheute",
+    "WELT"
+   ],
+   "regions": [
+    "DE"
+   ],
+   "trend": [],
+   "newest": "2026-11-11T11:30:22+00:00",
+   "articles": [
+    {
+     "source": "tagesschau",
+     "region": "DE",
+     "weight": 1.0,
+     "title": "Pistorius pocht auf \"null Toleranz\" gegenüber sexualisiertem Fehlverhalten in Bundeswehr",
+     "summary": "Angesichts der hohen Zahl an Fällen von sexualisiertem Fehlverhalten bei der Bundeswehr will Verteidigungsminister Pistorius mit \"null Toleranz\" dagegen vorgehen. Unter anderem durch bessere Prävention und eine externe Anlaufstelle für Betroffene.",
+     "link": "https://www.tagesschau.de/inland/innenpolitik/bundeswehr-dunkelfeldstudie-102.html",
+     "image": "https://images.tagesschau.de/image/5bd0a894-5037-4d9c-ba2d-07e9ef72d39c/AAABocoaOGc/AAABnSSvrFg/16x9-big/spd-pistorius-102.jpg?width=1920",
+     "aggregator": false,
+     "published": "2026-11-11T11:30:22+00:00"
+    },
+    {
+     "source": "tagesschau Inland",
+     "region": "DE",
+     "weight": 1.0,
+     "title": "Pistorius pocht auf \"null Toleranz\" gegenüber sexualisiertem Fehlverhalten in Bundeswehr",
+     "summary": "Angesichts der hohen Zahl an Fällen von sexualisiertem Fehlverhalten bei der Bundeswehr will Verteidigungsminister Pistorius mit \"null Toleranz\" dagegen vorgehen. Unter anderem durch bessere Prävention und eine externe Anlaufstelle für Betroffene.",
+     "link": "https://www.tagesschau.de/inland/innenpolitik/bundeswehr-dunkelfeldstudie-102.html",
+     "image": "https://images.tagesschau.de/image/5bd0a894-5037-4d9c-ba2d-07e9ef72d39c/AAABocoaOGc/AAABnSSvrFg/16x9-big/spd-pistorius-102.jpg?width=1920",
+     "aggregator": false,
+     "published": "2026-11-11T11:30:22+00:00"
+    },
+    {
+     "source": "ZDFheute",
+     "region": "DE",
+     "weight": 1.0,
+     "title": "Pistorius: \"Null Toleranz bei sexuellem Fehlverhalten in der Bundeswehr\"",
+     "summary": "Statement von Boris Pistorius (SPD, Bundesverteidigungsminister) zurDunkelfeldstudie über sexuelle Belästigungen in der Bundeswehr",
+     "link": "https://www.phoenix.de/sendungen/ereignisse/phoenix-vor-ort/ua-boris-pistorius-bundes-a-5240705.html",
+     "image": "https://www.zdfheute.de/assets/teaser-phoenix-pistorius-null-toleranz-bei-sexuellem-fehlverhalten-in-der-bundeswehr-5247042-100~384x216?cb=1794392640362",
+     "aggregator": false,
+     "published": "2026-11-11T10:03:00+00:00"
+    },
+    {
+     "source": "WELT",
+     "region": "DE",
+     "weight": 0.8,
+     "title": "Studie zeigt Ausmaß sexueller Belästigung in der Bundeswehr – Pistorius kündigt „null Toleranz“ an",
+     "summary": "Eine Befragung zeigt, wie verbreitet sexualisiertes Fehlverhalten in der Bundeswehr ist. Verteidigungsminister Pistorius stellt einen Aktionsplan vor. Die Grünen fordern eine externe Meldestelle für Betroffene.",
+     "link": "https://www.welt.de/politik/deutschland/article6af42eea50175c81de7a13b4/bundeswehr-studie-zeigt-ausmass-sexueller-belaestigung-in-der-bundeswehr-pistorius-kuendigt-null-toleranz-an.html",
+     "image": "https://images.welt.de/6af42eea50175c81de7a13b4/469cb62efe416330a0bee2ec4467f84a/ci23x11-w1200/dpa-com-261111-936-143045-jpg",
+     "aggregator": false,
+     "published": "2026-11-11T09:52:45+00:00"
+    }
+   ]
+  },
+  {
+   "id": 12,
+   "score": 9.45,
+   "outlets": [
+    "Deutschlandfunk",
+    "ORF",
+    "DER STANDARD"
+   ],
+   "regions": [
+    "AT",
+    "DE"
+   ],
+   "trend": [],
+   "newest": "2026-11-11T11:45:28+00:00",
+   "articles": [
+    {
+     "source": "Deutschlandfunk",
+     "region": "DE",
+     "weight": 0.95,
+     "title": "Etatfragen - EU-Haushalt für 2027 steht",
+     "summary": "Der EU-Haushalt im kommenden Jahr soll knapp 200 Milliarden Euro umfassen.",
+     "link": "https://www.deutschlandfunk.de/eu-haushalt-fuer-2027-steht-100.html",
+     "image": "https://bilder.deutschlandfunk.de/a4/ca/76/af/a4ca76af-e862-49a0-be2e-a96573c26604/euro-muenzen-104-1920x1920.jpg",
+     "aggregator": false,
+     "published": "2026-11-11T11:45:28+00:00"
+    },
+    {
+     "source": "ORF",
+     "region": "AT",
+     "weight": 0.95,
+     "title": "EU-Budget für 2027 steht",
+     "summary": "",
+     "link": "https://orf.at/stories/3447865/",
+     "image": null,
+     "aggregator": false,
+     "published": "2026-11-11T07:35:25+00:00"
+    },
+    {
+     "source": "DER STANDARD",
+     "region": "AT",
+     "weight": 0.85,
+     "title": "Einigung auf EU-Budget für 2027",
+     "summary": "Das Budget beläuft sich auf rund 199,7 Milliarden Euro. Der Fokus liegt auf Wettbewerbsfähigkeit, Verteidigung und der Unterstützung der Ukraine",
+     "link": "https://www.derstandard.at/story/3000000348650/einigung-auf-eu-budget-f252r-2027?ref=rss",
+     "image": "https://i.ds.at/8ROowQ/rs:fill:150:0/plain/lido-images/2026/11/11/6ad49b7e-5f05-433a-87ca-e0e512545d54.jpg",
+     "aggregator": false,
+     "published": "2026-11-11T08:01:26+00:00"
+    }
+   ]
+  },
+  {
+   "id": 13,
+   "score": 9.36,
+   "outlets": [
+    "Deutschlandfunk",
+    "NZZ",
+    "DER STANDARD"
+   ],
+   "regions": [
+    "AT",
+    "CH",
+    "DE"
+   ],
+   "trend": [],
+   "newest": "2026-11-11T11:46:44+00:00",
+   "articles": [
+    {
+     "source": "Deutschlandfunk",
+     "region": "DE",
+     "weight": 0.95,
+     "title": "Unwetter - Sturmwarnung: Portugal schließt Schulen und Behörden",
+     "summary": "In Portugal bleiben wegen eines drohenden Sturms heute Schulen und viele Behörden geschlossen.",
+     "link": "https://www.deutschlandfunk.de/sturmwarnung-portugal-schliesst-schulen-und-behoerden-100.html",
+     "image": "https://bilder.deutschlandfunk.de/b5/20/67/42/b5206742-833a-4435-9769-6974cbddc356/portugal-regen-sturm-schulen-schliessung-100-1920x1920.jpg",
+     "aggregator": false,
+     "published": "2026-11-11T11:45:28+00:00"
+    },
+    {
+     "source": "NZZ",
+     "region": "CH",
+     "weight": 0.9,
+     "title": "300 Schulen in Italien wegen Bombendrohungen evakuiert",
+     "summary": "Die Behörden gehen von Falschmeldungen aus und haben Ermittlungen eingeleitet.",
+     "link": "https://www.nzz.ch/panorama/300-schulen-in-italien-evakuiert-wegen-identischer-bombendrohungen-ld.10060751",
+     "image": "https://img-msp-prod.nzz.ch/2026/10/18/3366095f-f58a-40a3-8654-1b3e269d3439.jpg?width=200&height=200&fit=bounds&quality=75&auto=webp&crop=3222,3222,x1101,y0",
+     "aggregator": false,
+     "published": "2026-11-11T11:34:55+00:00"
+    },
+    {
+     "source": "DER STANDARD",
+     "region": "AT",
+     "weight": 0.85,
+     "title": "Portugal geht vor schwerem Sturm in Deckung",
+     "summary": "Schulen und viele öffentliche Einrichtungen blieben geschlossen. Auch in Spanien gilt auf einigen Kanaren-Inseln die höchste Alarmstufe",
+     "link": "https://www.derstandard.at/story/3000000348734/portugal-geht-vor-schwerem-sturm-in-deckung?ref=rss",
+     "image": "https://i.ds.at/-I4kGg/rs:fill:150:0/plain/lido-images/2026/11/11/ae139c5e-6d54-4f28-9e17-f61edfc73322.jpg",
+     "aggregator": false,
+     "published": "2026-11-11T11:46:44+00:00"
+    }
+   ]
+  },
+  {
+   "id": 14,
+   "score": 9.35,
+   "outlets": [
+    "Deutschlandfunk",
+    "ORF",
+    "WELT"
+   ],
+   "regions": [
+    "AT",
+    "DE"
+   ],
+   "trend": [],
+   "newest": "2026-11-11T11:45:28+00:00",
+   "articles": [
+    {
+     "source": "Deutschlandfunk",
+     "region": "DE",
+     "weight": 0.95,
+     "title": "Verteidigungsministerium - Bundeswehr will keine chinesischen Drohnen mehr bei Übungen nutzen",
+     "summary": "Die Bundeswehr will bestimmte Drohnen chinesischer Hersteller nicht mehr in ihren Kasernen und auf ihren Übungsplätzen nutzen.",
+     "link": "https://www.deutschlandfunk.de/bundeswehr-will-keine-chinesischen-drohnen-mehr-bei-uebungen-nutzen-100.html",
+     "image": "https://bilder.deutschlandfunk.de/1a/c6/23/a2/1ac623a2-8330-4643-b13a-6d16c8434e7c/china-drohnen-autos-bundeswehr-elektronik-100-1920x1920.jpg",
+     "aggregator": false,
+     "published": "2026-11-11T11:45:28+00:00"
+    },
+    {
+     "source": "ORF",
+     "region": "AT",
+     "weight": 0.95,
+     "title": "Deutsche Bundeswehr verbannt chinesische Drohnen und Autos",
+     "summary": "",
+     "link": "https://orf.at/stories/3447850/",
+     "image": null,
+     "aggregator": false,
+     "published": "2026-11-10T21:35:58+00:00"
+    },
+    {
+     "source": "WELT",
+     "region": "DE",
+     "weight": 0.8,
+     "title": "Bundeswehr verbannt chinesische Drohnen aus Kasernen – auch Autos aus China sollen draußen bleiben",
+     "summary": "Die Truppe fürchtet Spionage und entfernt Kleindrohnen chinesischer Hersteller. Das Verteidigungsministerium bestätigte einen „Spiegel“-Bericht.",
+     "link": "https://www.welt.de/politik/deutschland/article6af417d0f0b67a4b246651d4/spionagegefahr-bundeswehr-verbannt-chinesische-drohnen-aus-kasernen-auch-autos-aus-china-sollen-draussen-bleiben.html",
+     "image": "https://images.welt.de/6af417d0f0b67a4b246651d4/538d03a2f7e3a255e034d01bd3d6e817-master/ci23x11-w1200/dpa-com-261110-935-1732593-jpg",
+     "aggregator": false,
+     "published": "2026-11-11T09:24:54+00:00"
+    }
+   ]
+  },
+  {
+   "id": 15,
+   "score": 9.35,
+   "outlets": [
+    "Deutschlandfunk",
+    "NZZ",
+    "DER STANDARD"
+   ],
+   "regions": [
+    "AT",
+    "CH",
+    "DE"
+   ],
+   "trend": [],
+   "newest": "2026-11-11T11:45:28+00:00",
+   "articles": [
+    {
+     "source": "Deutschlandfunk",
+     "region": "DE",
+     "weight": 0.95,
+     "title": "Medienberichte - US-Finanzminister Bessent verlegt Wohnsitz wegen Bedrohung aus Iran auf Militärstützpunkt",
+     "summary": "Der amerikanische Finanzminister Bessent ist Medienberichten zufolge wegen mutmaßlicher Bedrohungen aus dem Iran von seinem privaten Wohnsitz auf einen Militärstützpunkt umgezogen.",
+     "link": "https://www.deutschlandfunk.de/us-finanzminister-bessent-verlegt-wohnsitz-wegen-bedrohung-aus-iran-auf-militaerstuetzpunkt-100.html",
+     "image": "https://bilder.deutschlandfunk.de/39/7d/57/53/397d5753-bfc8-47cc-8eba-1e5311bc65e3/us-finanzminister-bessent-102-1920x1920.jpg",
+     "aggregator": false,
+     "published": "2026-11-11T11:45:28+00:00"
+    },
+    {
+     "source": "NZZ",
+     "region": "CH",
+     "weight": 0.9,
+     "title": "LIVE-TICKER - Die USA nach den Midterms: Bessent muss wegen Drohungen aus Iran auf einen Stützpunkt ziehen",
+     "summary": "Die neuesten Meldungen aus der amerikanischen Innenpolitik im Ticker.",
+     "link": "https://www.nzz.ch/international/us-innenpolitik-die-neuesten-meldungen-im-ticker-ld.10056111",
+     "image": "https://img-msp-prod.nzz.ch/2026/11/10/94a186d3-79f0-4b95-a2df-fafe85919202.jpg?width=200&height=200&fit=bounds&quality=75&auto=webp&crop=5464,5464,x2260,y0",
+     "aggregator": false,
+     "published": "2026-11-11T06:29:01+00:00"
+    },
+    {
+     "source": "DER STANDARD",
+     "region": "AT",
+     "weight": 0.85,
+     "title": "Wegen iranischer Drohungen: US-Finanzminister zieht auf Militärbasis",
+     "summary": "Scott Bessent will sich nicht einschüchtern lassen. Wegen mutmaßlicher Drohungen aus dem Iran verlegt er seinen Wohnsitz dennoch auf einen US-Militärstützpunkt",
+     "link": "https://www.derstandard.at/story/3000000348625/iran-us-finanzminister-zieht-wegen-drohungen-auf-milit228rbasis?ref=rss",
+     "image": "https://i.ds.at/6e9nbQ/rs:fill:150:0/plain/lido-images/2026/11/11/97ec8a97-45b1-422a-8bc7-75440bf32d65.jpg",
+     "aggregator": false,
+     "published": "2026-11-11T05:23:15+00:00"
+    }
+   ]
+  },
+  {
+   "id": 16,
+   "score": 9.25,
+   "outlets": [
+    "Deutschlandfunk",
+    "SPIEGEL",
+    "n-tv"
+   ],
+   "regions": [
+    "DE"
+   ],
+   "trend": [],
+   "newest": "2026-11-11T11:45:28+00:00",
+   "articles": [
+    {
+     "source": "Deutschlandfunk",
+     "region": "DE",
+     "weight": 0.95,
+     "title": "Tübingen - Oberbürgermeister Palmer verzichtet vorerst auf öffentliche Auftritte",
+     "summary": "Angesichts von Vorwürfen sexueller Belästigung nimmt Tübingens Oberbürgermeister Palmer bis auf weiteres keinerlei öffentliche Termine wahr.",
+     "link": "https://www.deutschlandfunk.de/oberbuergermeister-palmer-verzichtet-vorerst-auf-oeffentliche-auftritte-100.html",
+     "image": "https://bilder.deutschlandfunk.de/9b/e0/3e/c1/9be03ec1-63f1-43cd-a8c6-7b10060416b3/oberbuergermeister-robert-palmer-100-1920x1920.jpg",
+     "aggregator": false,
+     "published": "2026-11-11T11:45:28+00:00"
+    },
+    {
+     "source": "SPIEGEL",
+     "region": "DE",
+     "weight": 0.9,
+     "title": "Boris Palmer: Tübingens OB nimmt vorerst keine öffentlichen Auftritte mehr wahr",
+     "summary": "Tübingens Oberbürgermeister Boris Palmer steht wegen Belästigungsvorwürfen unter Druck. Auf Wunsch von Gemeinderatsmitgliedern will er öffentliche Termine zunächst absagen.",
+     "link": "https://www.spiegel.de/politik/deutschland/boris-palmer-tuebingens-ob-nimmt-vorerst-keine-oeffentlichen-auftritte-mehr-wahr-a-47dfdd52-2b0a-4364-8932-045ac4c3e462#ref=rss",
+     "image": "https://cdn.prod.www.spiegel.de/images/3be723d9-24d0-47bb-88c4-467331eb173a_w520_r2.08_fpx41.22_fpy44.99.jpg",
+     "aggregator": false,
+     "published": "2026-11-11T08:00:00+00:00"
+    },
+    {
+     "source": "n-tv",
+     "region": "DE",
+     "weight": 0.8,
+     "title": "Nach Vorwürfen der Belästigung: Boris Palmer zieht sich übergangsweise aus der Öffentlichkeit zurück",
+     "summary": "In sozialen Medien erhebt ein ehemaliges Mitglied des Tübinger Gemeinderats den Vorwurf der sexuellen Belästigung gegen Oberbürgermeister Palmer. Der weist die Anschuldigung zurück. Allerdings will er die Öffentlichkeit zunächst meiden.",
+     "link": "https://www.n-tv.de/politik/Boris-Palmer-zieht-sich-uebergangsweise-aus-der-Oeffentlichkeit-zurueck-id31519968.html",
+     "image": "https://www.n-tv.de/img/31519961/1794387617/Img_4_3/250/620986630.jpg",
+     "aggregator": false,
+     "published": "2026-11-11T10:26:16+00:00"
+    }
+   ]
+  },
+  {
+   "id": 17,
+   "score": 7.94,
+   "outlets": [
+    "ORF",
+    "DER STANDARD",
+    "Spiegel"
+   ],
+   "regions": [
+    "AT"
+   ],
+   "trend": [],
+   "newest": "2026-11-11T11:08:00+00:00",
+   "articles": [
+    {
+     "source": "ORF",
+     "region": "AT",
+     "weight": 0.95,
+     "title": "Kennedy-Familie klagt gegen Trumps Triumphbogen",
+     "summary": "",
+     "link": "https://orf.at/stories/3447866/",
+     "image": null,
+     "aggregator": false,
+     "published": "2026-11-11T07:37:21+00:00"
+    },
+    {
+     "source": "DER STANDARD",
+     "region": "AT",
+     "weight": 0.85,
+     "title": "\"Gräber im Schatten\": Auch Kennedy-Familie klagt gegen Trumps Triumphbogen",
+     "summary": "Der geplante Bau in Washington werde \"dauerhaft Schatten auf die bestehenden Gräber und Denkmäler werfen\", heißt es seitens neun Familienmitglieder der Kennedy-Familie",
+     "link": "https://www.derstandard.at/story/3000000348623/schattige-graeber-auch-kennedy-familie-klagt-gegen-trumps-triumphbogen?ref=rss",
+     "image": "https://i.ds.at/tPGbkQ/rs:fill:150:0/plain/lido-images/2026/11/11/78fd8639-e8c1-473b-9fb4-802d5814434d.jpg",
+     "aggregator": false,
+     "published": "2026-11-11T05:10:03+00:00"
+    },
+    {
+     "source": "Spiegel",
+     "region": "DE",
+     "weight": 0.6,
+     "title": "Donald Trump: Kennedy-Familie wehrt sich gegen Triumphbogen in Washington, D.C.",
+     "summary": "Donald Trump: Kennedy-Familie wehrt sich gegen Triumphbogen in Washington, D.C. Spiegel Donald Trump: Kennedy-Familie klagt ebenfalls gegen Trumps geplanten Triumphbogen DIE ZEIT USA News: Kennedy-Familie klagt gegen Trump-Triumphbogen - Politik - SZ.de SZ.de Würde Schatten auf Familiengrab werfen Auch die Kennedys klagen gegen Trumps Triumphbogen Tagesspiegel Kennedy-Familie klagt gegen Trumps Triumphbogen WEB.DE",
+     "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPMlVvZWpjUDJqZFpjeV9qTDZFeUhob1hLV2x1OVExUEFGSndSMm41WmxpY251THZkQ3RteDRQTWUxaDAyV3JFLWhDOUdMWDhuem44Nng3Z2JrTEUzSi1GRVQ5MG5zY2pic0dzYm5pWGNYMS1JcjltaEpmZ05QaWtpUFV4SXhLWjBaamFjYmpOaUtoRXQ2X2t1ZFNfbExxUk1YRjJfN0lZRjRWb2JrQlZUdmZ1c1VMUGRYZ1hSa1gwSXhLVERTaE1NNG1QS1huazVaaDlfWWRGcVFkanBDbDJZ?oc=5",
+     "image": null,
+     "aggregator": true,
+     "published": "2026-11-11T11:08:00+00:00"
+    }
+   ]
+  },
+  {
+   "id": 18,
+   "score": 7.85,
+   "outlets": [
+    "tagesschau",
+    "Deutschlandfunk"
+   ],
+   "regions": [
+    "DE"
+   ],
+   "trend": [],
+   "newest": "2026-11-11T11:45:28+00:00",
+   "articles": [
+    {
+     "source": "tagesschau",
+     "region": "DE",
+     "weight": 1.0,
+     "title": "Medienbericht: Ältere Beschäftigte doppelt so häufig krankgeschrieben",
+     "summary": "Mehr als 30 Tage im Jahr melden sich ältere Arbeitnehmer krank - etwa doppelt so viel wie der Durchschnitt. Das berichtet die Rheinische Post. 60- bis 65-Jährige fallen zudem öfter länger aus.",
+     "link": "https://www.tagesschau.de/wirtschaft/arbeitsmarkt/krankenstand-aeltere-beschaeftigte-100.html",
+     "image": "https://images.tagesschau.de/image/4c3d1f4c-ff04-4c80-ac9c-3025ca8d93e3/AAABnZt7UEA/AAABnSSvrFg/16x9-big/arbeitsunfaehigkeitsbescheinigung-110.jpg?width=1920",
+     "aggregator": false,
+     "published": "2026-11-11T06:51:52+00:00"
+    },
+    {
+     "source": "tagesschau Wirtschaft",
+     "region": "DE",
+     "weight": 1.0,
+     "title": "Medienbericht: Ältere Beschäftigte doppelt so häufig krankgeschrieben",
+     "summary": "Mehr als 30 Tage im Jahr melden sich ältere Arbeitnehmer krank - etwa doppelt so viel wie der Durchschnitt. Das berichtet die Rheinische Post. 60- bis 65-Jährige fallen zudem öfter länger aus.",
+     "link": "https://www.tagesschau.de/wirtschaft/arbeitsmarkt/krankenstand-aeltere-beschaeftigte-100.html",
+     "image": "https://images.tagesschau.de/image/4c3d1f4c-ff04-4c80-ac9c-3025ca8d93e3/AAABnZt7UEA/AAABnSSvrFg/16x9-big/arbeitsunfaehigkeitsbescheinigung-110.jpg?width=1920",
+     "aggregator": false,
+     "published": "2026-11-11T06:51:52+00:00"
+    },
+    {
+     "source": "Deutschlandfunk",
+     "region": "DE",
+     "weight": 0.95,
+     "title": "Gesundheitsministerium - Ältere Beschäftigte mehr als 30 Tage im Jahr krank",
+     "summary": "Ältere Beschäftigte in Deutschland sind nach Angaben des Bundesgesundheitsministeriums im Schnitt mehr als 30 Tage im Jahr krankgeschrieben.",
+     "link": "https://www.deutschlandfunk.de/aeltere-beschaeftigte-mehr-als-30-tage-im-jahr-krank-100.html",
+     "image": "https://bilder.deutschlandfunk.de/91/c4/c7/0b/91c4c70b-6145-437e-aebc-c2f30de95745/elektronische-au-krankmeldung-100-1920x1920.jpg",
+     "aggregator": false,
+     "published": "2026-11-11T11:45:28+00:00"
+    }
+   ]
+  },
+  {
+   "id": 19,
+   "score": 7.56,
+   "outlets": [
+    "SRF News",
+    "NZZ"
+   ],
+   "regions": [
+    "CH"
+   ],
+   "trend": [],
+   "newest": "2026-11-11T11:28:36+00:00",
+   "articles": [
+    {
+     "source": "SRF News",
+     "region": "CH",
+     "weight": 0.95,
+     "title": "Unfall in Zürich – Tödlicher Unfall am Escher-Wyss-Platz: Lastwagenfahrer angeklagt",
+     "summary": "Vier Jahre nach dem Tod eines Fünfjährigen am Escher-Wyss-Platz erhebt die Zürcher Staatsanwaltschaft nun Anklage.",
+     "link": "https://www.srf.ch/news/schweiz/unfall-in-zuerich-toedlicher-unfall-am-escher-wyss-platz-lastwagenfahrer-angeklagt",
+     "image": "https://www.srf.ch/static/cms/images//320ws/bf990d.webp",
+     "aggregator": false,
+     "published": "2026-11-11T11:28:03+00:00"
+    },
+    {
+     "source": "NZZ",
+     "region": "CH",
+     "weight": 0.9,
+     "title": "Tödlicher Unfall eines Kindergartenknaben am Escher-Wyss-Platz: Die Staatsanwaltschaft klagt einen Lastwagenlenker an",
+     "summary": "Vier Jahren dauerten die Untersuchungen. Nun glauben die Untersuchungsbehörden zu wissen, was damals passiert ist.",
+     "link": "https://www.nzz.ch/zuerich/toedlicher-unfall-eines-knaben-am-escher-wyss-platz-lastwagenlenker-angeklagt-ld.10060696",
+     "image": "https://img-msp-prod.nzz.ch/2026/11/11/c67190a1-ce52-445e-9f50-6a9098da8918.webp?width=200&height=200&fit=bounds&quality=75&auto=webp&crop=800,800,x200,y0",
+     "aggregator": false,
+     "published": "2026-11-11T11:28:36+00:00"
+    }
+   ]
+  },
+  {
+   "id": 20,
+   "score": 7.55,
+   "outlets": [
+    "Deutschlandfunk",
+    "heise online"
+   ],
+   "regions": [
+    "DE"
+   ],
+   "trend": [],
+   "newest": "2026-11-11T11:45:28+00:00",
+   "articles": [
+    {
+     "source": "Deutschlandfunk",
+     "region": "DE",
+     "weight": 0.95,
+     "title": "Cyberkriminalität - Erneut Hackerangriff auf Uni: Tausende Datensätze an Universität Tübingen betroffen",
+     "summary": "Unbekannte haben einen Cyberangriff auf die Universität Tübingen verübt. Wie die Hochschule mitteilte, wurden rund 3.900 Datensätze Beschäftigter abgegriffen.",
+     "link": "https://www.deutschlandfunk.de/erneut-hackerangriff-auf-uni-tausende-datensaetze-an-universitaet-tuebingen-betroffen-100.html",
+     "image": "https://bilder.deutschlandfunk.de/56/2b/ff/6f/562bff6f-4765-43f3-8dca-4e22864474a7/universitaet-tuebingen-102-1920x1920.jpg",
+     "aggregator": false,
+     "published": "2026-11-11T11:45:28+00:00"
+    },
+    {
+     "source": "heise online",
+     "region": "DE",
+     "weight": 0.85,
+     "title": "IT-Vorfall an Uni Tübingen: Tausende Datensätze abgeflossen",
+     "summary": "Bei einem Cyberangriff haben die Täter Tausende Datensätze von der Universität Tübingen abgegriffen. Betroffen sind Mitarbeiter.",
+     "link": "https://www.heise.de/news/IT-Vorfall-an-Uni-Tuebingen-Tausende-Datensaetze-abgeflossen-11520090.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
+     "image": null,
+     "aggregator": false,
+     "published": "2026-11-11T06:03:00+00:00"
+    }
+   ]
+  },
+  {
+   "id": 21,
+   "score": 7.49,
+   "outlets": [
+    "ZEIT ONLINE",
+    "Handelsblatt"
+   ],
+   "regions": [
+    "DE"
+   ],
+   "trend": [],
+   "newest": "2026-11-11T11:33:20+00:00",
+   "articles": [
+    {
+     "source": "ZEIT ONLINE",
+     "region": "DE",
+     "weight": 0.9,
+     "title": "Bundesregierung: Schweitzer will Arbeitsrecht reformieren",
+     "summary": "",
+     "link": "https://www.zeit.de/news/2026-11/11/schweitzer-will-arbeitsrecht-reformieren",
+     "image": "https://img.zeit.de/news/2026-11/11/schweitzer-will-arbeitsrecht-reformieren-image-group/original__640x360",
+     "aggregator": false,
+     "published": "2026-11-11T11:33:20+00:00"
+    },
+    {
+     "source": "Handelsblatt",
+     "region": "DE",
+     "weight": 0.9,
+     "title": "Bundesregierung: Schweitzer will Arbeitsrecht reformieren",
+     "summary": "Die Regierung will das Arbeitsrecht reformieren - unter anderem Flexibilisierungen sollen den Unternehmen helfen. Das letzte Wort über die Pläne ist aber noch nicht gesprochen.",
+     "link": "https://www.handelsblatt.com/politik/deutschland/bundesregierung-schweitzer-will-arbeitsrecht-reformieren/100269094.html",
+     "image": "https://images.handelsblatt.com/ExEF--DlAgai/cover/900/506/0/0/142/142/0.5/0.5/finanzpolitischer-jugenddialog.jpg",
+     "aggregator": false,
+     "published": "2026-11-11T11:33:20+00:00"
+    }
+   ]
+  },
+  {
+   "id": 22,
+   "score": 7.4,
+   "outlets": [
+    "tagesschau",
+    "WirtschaftsWoche"
+   ],
+   "regions": [
+    "DE"
+   ],
+   "trend": [],
+   "newest": "2026-11-11T11:00:32+00:00",
+   "articles": [
+    {
+     "source": "tagesschau",
+     "region": "DE",
+     "weight": 1.0,
+     "title": "Tankrabatt drückt Inflation im Oktober",
+     "summary": "Die Teuerungsrate ist im Oktober in Deutschland zurückgegangen. Der Tankrabatt zeigt offenbar Wirkung. Energie - vor allem Heizöl - bleibt aber teuer. Und auch einige Lebensmittel kosten wieder mehr.",
+     "link": "https://www.tagesschau.de/wirtschaft/konjunktur/inflation-tankrabatt-spritpreise-oktober-100.html",
+     "image": "https://images.tagesschau.de/image/04f34ea5-885b-4dbd-bf77-8b8f6fe7c943/AAABocnN3n8/AAABnSSvrFg/16x9-big/tanken-298.jpg?width=1920",
+     "aggregator": false,
+     "published": "2026-11-11T11:00:32+00:00"
+    },
+    {
+     "source": "tagesschau Wirtschaft",
+     "region": "DE",
+     "weight": 1.0,
+     "title": "Tankrabatt drückt Inflation im Oktober",
+     "summary": "Die Teuerungsrate ist im Oktober in Deutschland zurückgegangen. Der Tankrabatt zeigt offenbar Wirkung. Energie - vor allem Heizöl - bleibt aber teuer. Und auch einige Lebensmittel kosten wieder mehr.",
+     "link": "https://www.tagesschau.de/wirtschaft/konjunktur/inflation-tankrabatt-spritpreise-oktober-100.html",
+     "image": "https://images.tagesschau.de/image/04f34ea5-885b-4dbd-bf77-8b8f6fe7c943/AAABocnN3n8/AAABnSSvrFg/16x9-big/tanken-298.jpg?width=1920",
+     "aggregator": false,
+     "published": "2026-11-11T11:00:32+00:00"
+    },
+    {
+     "source": "WirtschaftsWoche",
+     "region": "DE",
+     "weight": 0.85,
+     "title": "Deutsche Konjunktur: Tankrabatt drückt Inflation unter die Drei-Prozent-Marke",
+     "summary": "Der Tankrabatt hat bei den Verbraucherpreisen in Deutschland im Oktober für Entlastung gesorgt. Volkswirte halten den Effekt für vorübergehend.",
+     "link": "https://www.wiwo.de/politik/konjunktur/deutsche-konjunktur-tankrabatt-drueckt-inflation-unter-die-drei-prozent-marke/100268978.html",
+     "image": "https://images.wiwo.de/i9PU5xiGqijj/cover/900/506/0/0/313/312/0.5/0.5/archiv-01.10.2026-bremen-ein-auto-wird-an-einer-tankstelle-getankt.-zu-dpa-spritpreise-sinke.jpg",
+     "aggregator": false,
+     "published": "2026-11-11T08:27:00+00:00"
+    }
+   ]
+  },
+  {
+   "id": 23,
+   "score": 7.34,
+   "outlets": [
+    "SPIEGEL",
+    "Handelsblatt"
+   ],
+   "regions": [
+    "DE"
+   ],
+   "trend": [],
+   "newest": "2026-11-11T11:07:50+00:00",
+   "articles": [
+    {
+     "source": "SPIEGEL",
+     "region": "DE",
+     "weight": 0.9,
+     "title": "Künstliche Intelligenz: Rüstungsfirma Helsing stellt KI-Plattform für den Krieg vor",
+     "summary": "Das Rüstungs-Start-up Helsing bringt eine KI-Plattform für Kriegsführung auf den Markt. Die Münchner machen damit dem US-Datenanalysten Palantir Konkurrenz. Nach SPIEGEL-Informationen testet die Bundeswehr das neue System schon.",
+     "link": "https://www.spiegel.de/politik/kuenstliche-intelligenz-ruestungsfirma-helsing-stellt-ki-plattform-fuer-den-krieg-vor-a-1f8e1735-bf78-4eba-b1d0-5e89239888c3#ref=rss",
+     "image": "https://cdn.prod.www.spiegel.de/images/57a5bd83-89c5-445b-a046-07b2fd6700b2_w520_r2.08_fpx30.37_fpy50.jpg",
+     "aggregator": false,
+     "published": "2026-11-11T10:30:00+00:00"
+    },
+    {
+     "source": "Handelsblatt",
+     "region": "DE",
+     "weight": 0.9,
+     "title": "Rüstung: Helsing greift Palantir mit neuem Produkt auf dem Software-Markt an",
+     "summary": "Die Rüstungsfirma bringt eine agentenbasierte KI-Plattform auf den Markt. Sie soll bei der Auswertung von militärischen Daten helfen. Damit könnte Helsing bei der Bundeswehr punkten.",
+     "link": "https://www.handelsblatt.com/unternehmen/start-ups/ruestung-helsing-will-zum-palantir-fuer-europas-streitkraefte-werden/100268520.html",
+     "image": "https://images.handelsblatt.com/lQ38k2N4Ha55/cover/900/506/0/0/209/208/0.5/0.5/kommandozentrale.jpg",
+     "aggregator": false,
+     "published": "2026-11-11T11:07:50+00:00"
+    }
+   ]
+  },
+  {
+   "id": 24,
+   "score": 7.32,
+   "outlets": [
+    "Handelsblatt",
+    "heise online"
+   ],
+   "regions": [
+    "DE"
+   ],
+   "trend": [],
+   "newest": "2026-11-11T11:22:26+00:00",
+   "articles": [
+    {
+     "source": "Handelsblatt",
+     "region": "DE",
+     "weight": 0.9,
+     "title": "Zahldienst: Kartellamt prüft möglichen Wettbewerbsverstoß von Paypal",
+     "summary": "Paypal verbietet Händlern, für die Zahlungsart einen Aufschlag von Verbrauchern zu verlangen. Das Bundeskartellamt sieht darin womöglich eine Wettbewerbsbeschränkung.",
+     "link": "https://www.handelsblatt.com/finanzen/zahldienst-kartellamt-prueft-moeglichen-wettbewerbsverstoss-von-paypal/100269076.html",
+     "image": "https://images.handelsblatt.com/PrWyuK4ba60U/cover/900/506/0/0/156/157/0.5/0.5/paypal-hldg-ma-stripe.jpg",
+     "aggregator": false,
+     "published": "2026-11-11T11:22:26+00:00"
+    },
+    {
+     "source": "heise online",
+     "region": "DE",
+     "weight": 0.85,
+     "title": "Bundeskartellamt startet Marktbefragung zu Googles Autodiensten",
+     "summary": "Das Bundeskartellamt startet eine Marktbefragung zu Googles Kartendiensten im Automobilbereich und prüft mögliche Wettbewerbsbeschränkungen.",
+     "link": "https://www.heise.de/news/Bundeskartellamt-startet-Marktbefragung-zu-Googles-Autodiensten-11517806.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
+     "image": null,
+     "aggregator": false,
+     "published": "2026-11-09T15:41:00+00:00"
+    }
+   ]
+  },
+  {
+   "id": 25,
+   "score": 7.21,
+   "outlets": [
+    "tagesschau Ausland",
+    "ORF"
+   ],
+   "regions": [
+    "AT",
+    "INT"
+   ],
+   "trend": [],
+   "newest": "2026-11-11T09:49:40+00:00",
+   "articles": [
+    {
+     "source": "tagesschau Ausland",
+     "region": "INT",
+     "weight": 1.0,
+     "title": "Straße von Hormus: Zwei Öltanker offenbar in Brand geraten",
+     "summary": "Teheran blockiert die Straße von Hormus seit Beginn des Iran-Krieges weitgehend. Doch immer wieder riskieren Öltanker die Passage durch die Meerenge. Nun sind laut Iran zwei Schiffe in Brand geraten.",
+     "link": "https://www.tagesschau.de/ausland/asien/iran-hormus-oeltanker-100.html",
+     "image": "https://images.tagesschau.de/image/9e3f005c-31ee-4b68-895b-ad06addf2ad8/AAABoasv5IE/AAABnSSvrFg/16x9-big/strasse-von-hormus-186.jpg?width=1920",
+     "aggregator": false,
+     "published": "2026-11-05T11:47:58+00:00"
+    },
+    {
+     "source": "ORF",
+     "region": "AT",
+     "weight": 0.95,
+     "title": "Iran meldet Explosion an Öltanker in Straße von Hormus",
+     "summary": "",
+     "link": "https://orf.at/stories/3447877/",
+     "image": null,
+     "aggregator": false,
+     "published": "2026-11-11T09:49:40+00:00"
+    }
+   ]
+  },
+  {
+   "id": 26,
+   "score": 7.19,
+   "outlets": [
+    "Handelsblatt",
+    "n-tv"
+   ],
+   "regions": [
+    "DE"
+   ],
+   "trend": [],
+   "newest": "2026-11-11T11:16:35+00:00",
+   "articles": [
+    {
+     "source": "Handelsblatt",
+     "region": "DE",
+     "weight": 0.9,
+     "title": "Winterkapriolen: Droht Deutschland ein eisiger Winter?",
+     "summary": "Der Polarwirbel über der Arktis befindet sich derzeit - und damit sehr früh - in einer deutlichen Schwächephase. Was bedeutet das für die kommenden Monate?",
+     "link": "https://www.handelsblatt.com/technik/forschung-innovation/winterkapriolen-droht-deutschland-ein-eisiger-winter/100269053.html",
+     "image": "https://images.handelsblatt.com/WZl2ESFiM8EM/cover/900/506/0/0/139/139/0.5/0.5/bewoelkter-himmel-ueber-berlin-und-brandenburg.jpg",
+     "aggregator": false,
+     "published": "2026-11-11T09:42:52+00:00"
+    },
+    {
+     "source": "n-tv",
+     "region": "DE",
+     "weight": 0.8,
+     "title": "Möglicher Einfluss von El Niño: Polarwirbel schwächelt - droht Deutschland ein eiskalter Winter?",
+     "summary": "So früh wie nie wankt der arktische Polarwirbel und schürt Sorgen vor klirrender Kälte. Der Deutsche Wetterdienst gibt jedoch vorsichtig Entwarnung für die kommenden Monate. Richtung Skandinavien braut sich allerdings etwas zusammen.",
+     "link": "https://www.n-tv.de/wissen/Polarwirbel-schwaechelt-droht-Deutschland-ein-eiskalter-Winter-id31520730.html",
+     "image": "https://www.n-tv.de/img/3403140/1513031717/Img_4_3/250/image.jpg",
+     "aggregator": false,
+     "published": "2026-11-11T11:16:35+00:00"
+    }
+   ]
+  },
+  {
+   "id": 27,
+   "score": 7.16,
+   "outlets": [
+    "ZEIT ONLINE",
+    "DER STANDARD"
+   ],
+   "regions": [
+    "AT",
+    "DE"
+   ],
+   "trend": [],
+   "newest": "2026-11-11T10:53:39+00:00",
+   "articles": [
+    {
+     "source": "ZEIT ONLINE",
+     "region": "DE",
+     "weight": 0.9,
+     "title": "Folgen der Coronapandemie: Pandemiestress könnte Jugendliche schneller altern lassen",
+     "summary": "Die Coronapandemie hat offenbar Spuren im Erbgut Jugendlicher hinterlassen. Laut einer Studie spielte dabei vor allem der fehlende Kontakt zu Gleichaltrigen eine Rolle.",
+     "link": "https://www.zeit.de/gesundheit/2026-11/max-planck-institut-psychiatrie-jugendliche-altern-corona-epigenetik-gxe",
+     "image": "https://img.zeit.de/gesundheit/2026-11/max-planck-institut-psychiatrie-jugendliche-altern-corona-epigenetik-gxe-foto-1/original__640x360",
+     "aggregator": false,
+     "published": "2026-11-11T10:53:39+00:00"
+    },
+    {
+     "source": "DER STANDARD",
+     "region": "AT",
+     "weight": 0.85,
+     "title": "Pandemie ließ gestresste Jugendliche biologisch schneller altern",
+     "summary": "Covid-bedingter Stress und Verlust sozialer Kontakte beschleunigten laut einer neuen Studie das epigenetische Altern von Jugendlichen. Ob die Effekte anhalten, ist unklar",
+     "link": "https://www.derstandard.at/story/3000000348278/pandemie-liess-gestresste-jugendliche-epigenetisch-schneller-altern?ref=rss",
+     "image": "https://i.ds.at/LsXE1Q/rs:fill:150:0/plain/lido-images/2026/03/09/6c24d7ed-2e92-4759-8a39-d45f363cb8c8.jpg",
+     "aggregator": false,
+     "published": "2026-11-10T08:00:00+00:00"
+    }
+   ]
+  }
+ ]
+}
