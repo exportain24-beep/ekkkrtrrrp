@@ -1,0 +1,57 @@
+{
+  "stories": [
+    {
+      "candidate_id": 7,
+      "pillar": "POLITIK",
+      "region": "DE",
+      "kicker": "BUNDESWEHR",
+      "headline": "Bundeswehr sperrt China-Autos aus",
+      "highlight": ["China-Autos"],
+      "voice": "Bundeswehr-Soldaten mit Autos aus China müssen laut Spiegel jetzt außerhalb der Kasernen parken. Das Ministerium fürchtet, dass sensible Daten nach Peking fließen.",
+      "subline": "Auch chinesische Drohnen in Kasernen und auf Übungsplätzen verboten",
+      "entities": ["Bundeswehr", "Kaserne", "Bundesministerium der Verteidigung"]
+    },
+    {
+      "candidate_id": 0,
+      "pillar": "WELT",
+      "region": "INT",
+      "kicker": "WASHINGTON",
+      "headline": "Hegseth: Amtsenthebung gescheitert",
+      "highlight": ["Hegseth"],
+      "voice": "Pete Hegseth bleibt vorerst Trumps Verteidigungsminister. Die Republikaner im Repräsentantenhaus stimmten fast geschlossen gegen seine Amtsenthebung. Hegseth hatte das Verfahren einen Schauprozess genannt.",
+      "subline": "Republikaner stimmen fast geschlossen gegen den Antrag",
+      "entities": ["Pete Hegseth", "Repräsentantenhaus", "Kapitol Washington"]
+    },
+    {
+      "candidate_id": 13,
+      "pillar": "WIRTSCHAFT",
+      "region": "DE",
+      "kicker": "ARBEITSMARKT",
+      "headline": "Ältere fehlen 31 Tage im Jahr krank",
+      "highlight": ["31 Tage"],
+      "voice": "Einunddreißig Krankheitstage im Jahr: So oft fehlen Beschäftigte zwischen sechzig und fünfundsechzig, meldet das Gesundheitsministerium. Die Linke warnt vor den Rentenplänen der Koalition.",
+      "subline": "Linke spricht von einem Warnsignal für die Rentenpläne",
+      "entities": ["Bundesministerium für Gesundheit", "Die Linke"]
+    },
+    {
+      "candidate_id": 3,
+      "pillar": "WIRTSCHAFT",
+      "region": "DE",
+      "kicker": "E-MOBILITÄT",
+      "headline": "E-Auto-Prämie: Doppelt so viel Geld",
+      "highlight": ["E-Auto-Prämie"],
+      "voice": "E-Auto-Prämie: Der Bund will den Fördertopf für zweitausendsiebenundzwanzig offenbar verdoppeln. Das Geld soll für rund vierhunderttausend Elektroautos reichen. Grund ist die hohe Nachfrage.",
+      "subline": "Mittel für 2027 sollen für rund 400.000 Elektroautos reichen",
+      "entities": ["Elektroauto", "Bundesministerium der Finanzen"]
+    }
+  ],
+  "hook_text": "Bundeswehr sperrt China-Autos",
+  "hook_voice": "Bundeswehr verbannt chinesische Autos und Drohnen.",
+  "youtube_title": "Bundeswehr verbannt China-Autos: Angst vor Spionage",
+  "description_lead": "Die Bundeswehr verbannt laut Spiegel chinesische Autos und Drohnen aus ihren Kasernen – aus Sorge vor Spionage für Peking. Außerdem: Pete Hegseth übersteht das Amtsenthebungsverfahren, ältere Beschäftigte sind im Schnitt 31 Tage im Jahr krank, und der Bund stockt die E-Auto-Prämie für 2027 auf.",
+  "tags": ["Bundeswehr", "China", "Spionage", "Drohnen", "Verteidigungsministerium", "Pete Hegseth", "Repräsentantenhaus", "Amtsenthebung", "Gesundheitsministerium", "Krankentage", "Rente", "E-Auto-Prämie", "Elektroauto", "nachrichten", "nachrichten aktuell"],
+  "hashtags": ["#bundeswehr", "#china", "#eauto"],
+  "facebook_caption_line1": "Bundeswehr verbannt chinesische Autos und Drohnen aus den Kasernen",
+  "facebook_question": "Ist das Verbot chinesischer Technik bei der Bundeswehr richtig oder übertrieben?",
+  "comment_question": "Richtig oder übertrieben: Soll die Bundeswehr chinesische Autos und Drohnen verbannen?"
+}
