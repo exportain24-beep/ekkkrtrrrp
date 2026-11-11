@@ -1,0 +1,1667 @@
+{
+ "slot": {
+  "id": "fokus-politik",
+  "format": "single",
+  "time": "18:30",
+  "label": "Fokus Politik",
+  "focus": "Nur Tie-Breaker – immer zuerst die populärsten, meistberichteten Nachrichten. Bei Gleichstand bevorzugt: Die eine große politische oder sicherheitspolitische Enthüllung bzw. Eilmeldung des Tages aus Berlin, Wien, Bern oder Brüssel (Regierung, Kanzleramt, Hackerangriffe, Spionage, große Entscheidungen, Skandale).",
+  "notify_subscribers": false
+ },
+ "slot_time": "2026-11-11T18:30:00+01:00",
+ "date_text": "Mittwoch, 11. November 2026",
+ "already_published": [
+  "Orbán-Bruder festgenommen",
+  "Kushner: Europa soll mit Moskau reden",
+  "Nvidia-Chef gesteht Affäre",
+  "Paris: Iran hinter Kühltruhen-Hack",
+  "Vodafone: Jeder fünfte Job fällt weg",
+  "Abu Dhabi: Kreml blockt die EU ab",
+  "Trump zweifelt an Midterm-Ergebnis",
+  "Amtsenthebung gegen Hegseth beantragt",
+  "FBI ermittelt in Nvidia-Affäre",
+  "Bund kauft Panzerbauer-Anteil",
+  "Preisdeckel für Ticketbörsen",
+  "Aigner offiziell nominiert",
+  "Merz droht mit EU-Haushaltsblockade",
+  "Schlesinger-Prozess beginnt in Berlin",
+  "Kalifornien kippt Milliardärssteuer",
+  "Nmecha verteidigt umstrittenen Torjubel",
+  "Lebenslang im Fall Fabian",
+  "Ukraine-Gespräche ohne Europa?",
+  "Klingbeil will Steuerklasse III kippen",
+  "Iran unter Verdacht: Kühlregal-Hacks",
+  "Ukraine-Gespräche: Erste Einigung?",
+  "Steuerklassen III und V vor dem Aus",
+  "Nvidia-Affäre: Jetzt warnt Deutschland",
+  "Aigner sagt der AfD ab",
+  "Linke will Emde aus Fraktion werfen",
+  "Bundeswehr sperrt China-Autos aus",
+  "Hegseth: Amtsenthebung gescheitert",
+  "Ältere fehlen 31 Tage im Jahr krank",
+  "E-Auto-Prämie: Doppelt so viel Geld",
+  "Habeck wirft Trump Ukraine-Verrat vor",
+  "Pistorius: Soldatinnen belästigt",
+  "Palmer sagt alle Auftritte ab",
+  "Drohmails: Italien räumt 300 Schulen"
+ ],
+ "candidates": [
+  {
+   "id": 0,
+   "score": 23.98,
+   "outlets": [
+    "tagesschau",
+    "ZDFheute",
+    "Deutsche Welle",
+    "Deutschlandfunk",
+    "SRF News",
+    "SPIEGEL",
+    "Handelsblatt",
+    "NZZ",
+    "DER STANDARD",
+    "n-tv",
+    "WELT"
+   ],
+   "regions": [
+    "AT",
+    "CH",
+    "DE",
+    "INT"
+   ],
+   "trend": [],
+   "newest": "2026-11-11T15:33:13+00:00",
+   "articles": [
+    {
+     "source": "tagesschau",
+     "region": "DE",
+     "weight": 1.0,
+     "title": "Silke Diettrich, ARD Moskau, zu Tag zwei der Gespräche zwischen Russland und der Ukraine in Abu Dhabi",
+     "summary": "Silke Diettrich, ARD Moskau, zu Tag zwei der Gespräche zwischen Russland und der Ukraine in Abu Dhabi",
+     "link": "https://www.tagesschau.de/video/video-1681872.html",
+     "image": "https://images.tagesschau.de/image/a71d30b1-f4ca-44e1-a94c-a168a8dabdca/AAABocoItlQ/AAABnSSvrFg/16x9-big/sendungsbild-1825864.jpg?width=1920",
+     "aggregator": false,
+     "published": "2026-11-11T09:55:34+00:00"
+    },
+    {
+     "source": "tagesschau",
+     "region": "DE",
+     "weight": 1.0,
+     "title": "Russland und Ukraine vereinbaren Gefangenenaustausch",
+     "summary": "Bei den Ukraine-Gesprächen haben Moskau und Kiew einen weiteren Gefangenenaustausch vereinbart. Morgen wollen die US-Gesandten Kushner und Witkoff zu Kremlchef Putin reisen. Dabei soll es auch darum gehen, die Europäer in die Gespräche einzubinden.",
+     "link": "https://www.tagesschau.de/ausland/asien/ukraine-russland-verhandlungen-abu-dhabi-104.html",
+     "image": "https://images.tagesschau.de/image/fb34507e-db2f-412f-8388-e9699241da24/AAABocn9QYE/AAABnSSvrFg/16x9-big/abu-dhabi-ukraine-gespraeche-102.jpg?width=1920",
+     "aggregator": false,
+     "published": "2026-11-11T14:09:53+00:00"
+    },
+    {
+     "source": "tagesschau",
+     "region": "DE",
+     "weight": 1.0,
+     "title": "Kommentar: Russland sägt an der europäischen Sicherheitsarchitektur",
+     "summary": "Bei den Verhandlungen in Abu Dhabi geht es längst nicht nur um die Ukraine, meint Stephan Laack. Russlands Forderungen zielten auch in Richtung der europäischen Sicherheitsarchitektur. Deshalb müssten alle Alarmglocken schrillen.",
+     "link": "https://www.tagesschau.de/kommentar/ukraine-verhandlungen-abu-dhabi-106.html",
+     "image": "https://images.tagesschau.de/image/09292528-071d-4c84-bbb7-7bc45af9744e/AAABocsPefo/AAABnSSvrFg/16x9-big/abu-dhabi-ukraine-gespraeche-106.jpg?width=1920",
+     "aggregator": false,
+     "published": "2026-11-11T15:14:57+00:00"
+    },
+    {
+     "source": "tagesschau",
+     "region": "DE",
+     "weight": 1.0,
+     "title": "Ukraine-Verhandlungen: Russland plant kein Treffen mit Europäern",
+     "summary": "In Abu Dhabi gehen die von den USA vermittelten Gespräche über ein Ende des Kriegs gegen die Ukraine weiter. Auch die Europäer sind vor Ort, doch die russische Delegation zeigt wenig Interesse an einem Austausch.",
+     "link": "https://www.tagesschau.de/ausland/asien/ukraine-russland-abu-dhabi-eu-100.html",
+     "image": "https://images.tagesschau.de/image/89ac7826-e2a9-4c14-96d7-226b8bbad13b/AAABocp_BF0/AAABnSSvrFg/16x9-big/abu-dhabi-ukraine-gespraeche-104.jpg?width=1920",
+     "aggregator": false,
+     "published": "2026-11-11T11:27:20+00:00"
+    },
+    {
+     "source": "tagesschau Inland",
+     "region": "DE",
+     "weight": 1.0,
+     "title": "Warum sitzt Deutschland in Abu Dhabi nicht am Verhandlungstisch?",
+     "summary": "Derzeit treffen sich in Abu Dhabi Vertreter der Ukraine, Russlands und der USA, um Gespräche über ein Ende des Krieges wieder aufzunehmen. Europa scheint im Abseits, obwohl Deutschland der größte Unterstützer der Ukraine ist. Von N. Markwald.",
+     "link": "https://www.tagesschau.de/inland/innenpolitik/deutschland-rolle-ukraine-gespraeche-100.html",
+     "image": "https://images.tagesschau.de/image/59c612e1-678f-4aed-bbfb-7469096f2544/AAABocTEhrw/AAABnSSvrFg/16x9-big/merz-selenskyj-144.jpg?width=1920",
+     "aggregator": false,
+     "published": "2026-11-10T14:15:52+00:00"
+    },
+    {
+     "source": "tagesschau Ausland",
+     "region": "INT",
+     "weight": 1.0,
+     "title": "Russland und Ukraine vereinbaren Gefangenenaustausch",
+     "summary": "Bei den Ukraine-Gesprächen haben Moskau und Kiew einen weiteren Gefangenenaustausch vereinbart. Morgen wollen die US-Gesandten Kushner und Witkoff zu Kremlchef Putin reisen. Dabei soll es auch darum gehen, die Europäer in die Gespräche einzubinden.",
+     "link": "https://www.tagesschau.de/ausland/asien/ukraine-russland-verhandlungen-abu-dhabi-104.html",
+     "image": "https://images.tagesschau.de/image/fb34507e-db2f-412f-8388-e9699241da24/AAABocn9QYE/AAABnSSvrFg/16x9-big/abu-dhabi-ukraine-gespraeche-102.jpg?width=1920",
+     "aggregator": false,
+     "published": "2026-11-11T14:09:53+00:00"
+    },
+    {
+     "source": "tagesschau Ausland",
+     "region": "INT",
+     "weight": 1.0,
+     "title": "Ukraine-Verhandlungen: Russland plant kein Treffen mit Europäern",
+     "summary": "In Abu Dhabi gehen die von den USA vermittelten Gespräche über ein Ende des Kriegs gegen die Ukraine weiter. Auch die Europäer sind vor Ort, doch die russische Delegation zeigt wenig Interesse an einem Austausch.",
+     "link": "https://www.tagesschau.de/ausland/asien/ukraine-russland-abu-dhabi-eu-100.html",
+     "image": "https://images.tagesschau.de/image/89ac7826-e2a9-4c14-96d7-226b8bbad13b/AAABocp_BF0/AAABnSSvrFg/16x9-big/abu-dhabi-ukraine-gespraeche-104.jpg?width=1920",
+     "aggregator": false,
+     "published": "2026-11-11T11:27:20+00:00"
+    },
+    {
+     "source": "tagesschau Ausland",
+     "region": "INT",
+     "weight": 1.0,
+     "title": "Verhandlungen in Abu Dhabi über Ende des Ukraine-Krieges haben begonnen",
+     "summary": "In Abu Dhabi haben die Gespräche über ein Ende des Krieges in der Ukraine begonnen. Zuletzt hatte US-Präsident Trump eine \"große Übereinkunft\" versprochen. Aber was meinte er damit? Und was hieße das für Europa? Von Carsten Kühntopp.",
+     "link": "https://www.tagesschau.de/ausland/amerika/dreiergespraeche-usa-russland-ukraine-100.html",
+     "image": "https://images.tagesschau.de/image/5b75b2a0-6a74-45d1-b50a-1bcb869c8f44/AAABocTyvy0/AAABnSSvrFg/16x9-big/trump-putin-256.jpg?width=1920",
+     "aggregator": false,
+     "published": "2026-11-10T08:18:50+00:00"
+    }
+   ]
+  },
+  {
+   "id": 1,
+   "score": 17.48,
+   "outlets": [
+    "tagesschau",
+    "Deutschlandfunk",
+    "ORF",
+    "SRF News",
+    "SPIEGEL",
+    "NZZ",
+    "DER STANDARD",
+    "BR"
+   ],
+   "regions": [
+    "AT",
+    "CH",
+    "DE",
+    "INT"
+   ],
+   "trend": [],
+   "newest": "2026-11-11T15:33:13+00:00",
+   "articles": [
+    {
+     "source": "tagesschau",
+     "region": "DE",
+     "weight": 1.0,
+     "title": "Bombendrohungen an Tausenden Schulen in Italien und Großbritannien",
+     "summary": "An Tausenden Schulen in Italien sind per E-Mail Bombendrohungen eingegangen. Auch in Großbritannien gibt es ähnliche Fälle. Die Behörden gehen von Falschmeldungen aus. Wer hinter den Drohungen steckt, ist unklar.",
+     "link": "https://www.tagesschau.de/ausland/europa/bombendrohungen-italien-100.html",
+     "image": "https://images.tagesschau.de/image/2922d359-4a44-4853-a7eb-d1205eadf710/AAABoctITTg/AAABnSSvrFg/16x9-big/strasse-italien-bombendrohung-100.jpg?width=1920",
+     "aggregator": false,
+     "published": "2026-11-11T15:31:39+00:00"
+    },
+    {
+     "source": "tagesschau Ausland",
+     "region": "INT",
+     "weight": 1.0,
+     "title": "Bombendrohungen an Tausenden Schulen in Italien und Großbritannien",
+     "summary": "An Tausenden Schulen in Italien sind per E-Mail Bombendrohungen eingegangen. Auch in Großbritannien gibt es ähnliche Fälle. Die Behörden gehen von Falschmeldungen aus. Wer hinter den Drohungen steckt, ist unklar.",
+     "link": "https://www.tagesschau.de/ausland/europa/bombendrohungen-italien-100.html",
+     "image": "https://images.tagesschau.de/image/2922d359-4a44-4853-a7eb-d1205eadf710/AAABoctITTg/AAABnSSvrFg/16x9-big/strasse-italien-bombendrohung-100.jpg?width=1920",
+     "aggregator": false,
+     "published": "2026-11-11T15:31:39+00:00"
+    },
+    {
+     "source": "Deutschlandfunk",
+     "region": "DE",
+     "weight": 0.95,
+     "title": "Europa - Flut von Droh-Mails gegen Schulen in Italien, Nordirland und Schottland",
+     "summary": "In mehreren europäischen Ländern hat es E-Mails mit Bombendrohungen gegen Schulen gegeben.",
+     "link": "https://www.deutschlandfunk.de/flut-von-droh-mails-gegen-schulen-in-italien-nordirland-und-schottland-100.html",
+     "image": "https://bilder.deutschlandfunk.de/fd/ac/35/f5/fdac35f5-57ff-4822-8ea6-0e413345e7e0/italien-schottland-schulen-bombendrohung-schliessung-100-1920x1920.jpg",
+     "aggregator": false,
+     "published": "2026-11-11T15:33:13+00:00"
+    },
+    {
+     "source": "ORF",
+     "region": "AT",
+     "weight": 0.95,
+     "title": "Bombendrohungen gegen Tausende Schulen in Europa",
+     "summary": "",
+     "link": "https://orf.at/stories/3447898/",
+     "image": null,
+     "aggregator": false,
+     "published": "2026-11-11T11:50:41+00:00"
+    },
+    {
+     "source": "SRF News",
+     "region": "CH",
+     "weight": 0.95,
+     "title": "Bedrohliche Mails eingegangen – Bombendrohungen an Hunderten Schulen in Italien",
+     "summary": "Die Drohungen gingen per E-Mail ein. Wer dahintersteckt, ist unklar. Nordirland und Schottland melden ähnliche Vorfälle.",
+     "link": "https://www.srf.ch/news/international/bedrohliche-mails-eingegangen-bombendrohungen-an-hunderten-schulen-in-italien",
+     "image": "https://www.srf.ch/static/cms/images//320ws/1494f1a.webp",
+     "aggregator": false,
+     "published": "2026-11-11T13:01:32+00:00"
+    },
+    {
+     "source": "SPIEGEL",
+     "region": "DE",
+     "weight": 0.9,
+     "title": "Italien: Hunderte Schulen nach Bombendrohungen evakuiert – Giorgia Meloni gibt Entwarnung",
+     "summary": "Zahlreiche Schulen in Italien haben Drohmails erhalten und mussten geräumt werden. Die Regierung gibt Entwarnung: Es handele sich wohl um einen Cyberangriff. Auch in Nordirland und Schottland gingen wohl Falschmeldungen ein.",
+     "link": "https://www.spiegel.de/panorama/italien-hunderte-schulen-nach-bombendrohungen-evakuiert-giorgia-meloni-gibt-entwarnung-a-433e0b93-6d27-4a12-ac2d-541340193af3#ref=rss",
+     "image": "https://cdn.prod.www.spiegel.de/images/dac889da-5ac5-4957-9051-ac2b004f1e31_w520_r2.08_fpx62_fpy46.99.jpg",
+     "aggregator": false,
+     "published": "2026-11-11T12:17:00+00:00"
+    },
+    {
+     "source": "NZZ",
+     "region": "CH",
+     "weight": 0.9,
+     "title": "300 Schulen in Italien wegen Bombendrohungen evakuiert",
+     "summary": "Die Behörden gehen von Falschmeldungen aus und haben Ermittlungen eingeleitet. Ministerpräsidentin Giorgia Meloni hat eine Sitzung der Regierung angekündigt.",
+     "link": "https://www.nzz.ch/panorama/300-schulen-in-italien-evakuiert-wegen-identischer-bombendrohungen-ld.10060751",
+     "image": "https://img-msp-prod.nzz.ch/2026/11/11/3b8a660e-48be-49c1-b7f8-97d456325927.jpg?width=200&height=200&fit=bounds&quality=75&auto=webp&crop=2755,2755,x1352,y478",
+     "aggregator": false,
+     "published": "2026-11-11T14:37:40+00:00"
+    },
+    {
+     "source": "DER STANDARD",
+     "region": "AT",
+     "weight": 0.85,
+     "title": "Bombendrohungen in Europa: Italien räumt Schulen, Großbritannien und Irland sehen \"Fehlalarm\"",
+     "summary": "Eine anonyme E-Mail löste Alarm in mehreren Städten aus. Regierungschefin Meloni beruhigte: Es bestehe keine akute Gefahr für die Schulen. Auch Schulen in Nordirland erhielten Droh-E-Mails",
+     "link": "https://www.derstandard.at/story/3000000348724/300-schulen-nach-bombendrohungen-evakuiert?ref=rss",
+     "image": "https://i.ds.at/hbVXhg/rs:fill:150:0/plain/lido-images/2026/11/11/4bf6f4ed-8db4-4a0d-a7a1-70123f390da2.jpg",
+     "aggregator": false,
+     "published": "2026-11-11T11:34:46+00:00"
+    }
+   ]
+  },
+  {
+   "id": 2,
+   "score": 12.18,
+   "outlets": [
+    "Deutschlandfunk",
+    "SRF News",
+    "Handelsblatt",
+    "DER STANDARD"
+   ],
+   "regions": [
+    "AT",
+    "CH",
+    "DE"
+   ],
+   "trend": [],
+   "newest": "2026-11-11T15:33:13+00:00",
+   "articles": [
+    {
+     "source": "Deutschlandfunk",
+     "region": "DE",
+     "weight": 0.95,
+     "title": "Großbritannien - US-Soldat wegen mutmaßlicher Spionage für Russland festgenommen",
+     "summary": "Die britische Polizei hat einen US-Soldaten wegen des Verdachts der Spionage für Russland festgenommen.",
+     "link": "https://www.deutschlandfunk.de/us-soldat-wegen-mutmasslicher-spionage-fuer-russland-festgenommen-102.html",
+     "image": "https://bilder.deutschlandfunk.de/46/3a/b9/b2/463ab9b2-fec3-4686-9845-590735bfc452/metropolitan-police-100-1920x1920.jpg",
+     "aggregator": false,
+     "published": "2026-11-11T15:33:13+00:00"
+    },
+    {
+     "source": "SRF News",
+     "region": "CH",
+     "weight": 0.95,
+     "title": "Warnung vor Insider-Bedrohung – Spionageverdacht: US-Soldat in England festgenommen",
+     "summary": "Der Soldat war in Grossbritannien für die Nato im Einsatz und soll für Russland spioniert haben.",
+     "link": "https://www.srf.ch/news/international/warnung-vor-insider-bedrohung-spionageverdacht-us-soldat-in-england-festgenommen",
+     "image": "https://www.srf.ch/static/cms/images//320ws/af21fe4.webp",
+     "aggregator": false,
+     "published": "2026-11-11T09:24:55+00:00"
+    },
+    {
+     "source": "Handelsblatt",
+     "region": "DE",
+     "weight": 0.9,
+     "title": "Kaliningrad: Russland meldet zwei Festnahmen wegen angeblicher Spionage für Polen",
+     "summary": "Laut Interfax sollen zwei Agenten des polnischen Geheimdienstes Militäreinrichtungen in der russischen Exklave Kaliningrad ausgespäht haben. Die russische Nachrichtenagentur beruft sich auf den Inlandsgeheimdienst FSB.",
+     "link": "https://www.handelsblatt.com/video/politik/russland-meldet-zwei-festnahmen-wegen-angeblicher-spionage-fuer-polen/100269142.html",
+     "image": null,
+     "aggregator": false,
+     "published": "2026-11-11T13:49:22+00:00"
+    },
+    {
+     "source": "DER STANDARD",
+     "region": "AT",
+     "weight": 0.85,
+     "title": "US-Soldat soll in Großbritannien für Russland spioniert haben",
+     "summary": "Das US-Militär hat am Montag Tankflugzeuge vom britischen Luftwaffenstützpunkt Mildenhall abgezogen",
+     "link": "https://www.derstandard.at/story/3000000348730/us-soldat-soll-in-grossbritannien-fuer-russland-spioniert-haben?ref=rss",
+     "image": "https://i.ds.at/Uu68cw/rs:fill:150:0/plain/lido-images/2026/11/11/b0d1e0c3-d928-4109-932b-a7c1a096cce7.jpg",
+     "aggregator": false,
+     "published": "2026-11-11T11:50:11+00:00"
+    }
+   ]
+  },
+  {
+   "id": 3,
+   "score": 11.38,
+   "outlets": [
+    "tagesschau",
+    "ZDFheute",
+    "Deutschlandfunk",
+    "n-tv"
+   ],
+   "regions": [
+    "DE"
+   ],
+   "trend": [],
+   "newest": "2026-11-11T15:33:13+00:00",
+   "articles": [
+    {
+     "source": "tagesschau",
+     "region": "DE",
+     "weight": 1.0,
+     "title": "Champions League: FC Bayern dringt in Spitzengruppe vor",
+     "summary": "Die FC Bayern Frauen bleiben auch im vierten Spiel der Champions-League-Ligaphase ungeschlagen. Beim Sieg bei Paris Saint-Germain überzeugen die Münchnerinnen vor allem in der ersten Halbzeit und haben nun beste Karten fürs Viertelfinale.",
+     "link": "https://www.sportschau.de/regional/br/br-sieg-in-paris-fc-bayern-frauen-dringen-in-cl-spitzengruppe-vor-102.html",
+     "image": "https://images.sportschau.de/image/f4c5ea0d-e258-4290-88e8-bb34c8050f3f/AAABoceaoc8/AAABnSSvrFg/16x9-big/br-klara-buehl-links-und-momoko-tanikawa-rechts-jubeln-100.jpg?width=1920",
+     "aggregator": false,
+     "published": "2026-11-10T22:35:46+00:00"
+    },
+    {
+     "source": "ZDFheute",
+     "region": "DE",
+     "weight": 1.0,
+     "title": "Champions League: Bayern-Frauen zu stark für PSG",
+     "summary": "Die Bayern-Frauen feiern einen wichtigen Auswärtssieg in der Champions League: Mit dem 2:1-Sieg gegen Paris Saint-Germain machen sie einen großen Schritt in Richtung Viertelfinale.",
+     "link": "https://www.zdfheute.de/sport/fussball-frauen-champions-league-paris-saint-germain-bayern-muenchen-tore-ergebnis-100.html",
+     "image": "https://www.zdfheute.de/assets/psg-muenchen-102~384x216?cb=1794350932261",
+     "aggregator": false,
+     "published": "2026-11-10T21:59:00+00:00"
+    },
+    {
+     "source": "Deutschlandfunk",
+     "region": "DE",
+     "weight": 0.95,
+     "title": "Champions-League der Frauen - Bayern gewinnen in Paris und sind auf Viertelfinalkurs",
+     "summary": "Die Fußballerinnen des Bayern München bleiben in der Champions League weiter ungeschlagen. Der deutsche Meister gewann bei Paris Saint-Germain 2:1.",
+     "link": "https://www.deutschlandfunk.de/bayern-gewinnen-in-paris-und-sind-auf-viertelfinalkurs-100.html",
+     "image": "https://bilder.deutschlandfunk.de/8c/1c/4c/70/8c1c4c70-d535-4b60-b2c0-2f2c394e5f24/fussball-champions-league-frauen-paris-bayern-muenchen-paris-saint-germain-100-1920x1920.jpg",
+     "aggregator": false,
+     "published": "2026-11-11T15:33:13+00:00"
+    },
+    {
+     "source": "n-tv",
+     "region": "DE",
+     "weight": 0.8,
+     "title": "Sieg im Königsklassen-Kracher: Bayern-Frauen bestehen Prüfung in \"ekligem Spiel\"",
+     "summary": "Zwei Wochen nach dem Unentschieden gegen Real Madrid feiert der FC Bayern in der Champions League der Frauen einen wichtigen Sieg in Paris. Jetzt winkt der direkte Einzug ins Viertelfinale.",
+     "link": "https://www.n-tv.de/sport/Bayern-Frauen-bestehen-Pruefung-in-ekligem-Spiel-id31519481.html",
+     "image": "https://www.n-tv.de/img/31519490/1794376864/Img_4_3/250/image.jpg",
+     "aggregator": false,
+     "published": "2026-11-11T05:52:30+00:00"
+    }
+   ]
+  },
+  {
+   "id": 4,
+   "score": 11.24,
+   "outlets": [
+    "ZDFheute",
+    "DER STANDARD"
+   ],
+   "regions": [
+    "AT",
+    "DE"
+   ],
+   "trend": [
+    "Berlin: Die Linke will Parteiausschluss von Vanessa Emde beantragen",
+    "Rauswurf der umstrittenen Abgeordneten Emde soll linke Berliner Koalition sichern",
+    "Die umstrittene Linken-Politikerin Vanessa Emde wird viel zu wichtig genommen"
+   ],
+   "newest": "2026-11-11T13:01:46+00:00",
+   "articles": [
+    {
+     "source": "ZDFheute",
+     "region": "DE",
+     "weight": 1.0,
+     "title": "Linken-Fraktion: Emde soll ausgeschlossen werden",
+     "summary": "Wegen antiisraelischer Positionen will der Vorstand der Berliner Linksfraktion Vanessa Emde aus der Fraktion ausschließen. Ein entsprechender Antrag werde erarbeitet, heißt es.",
+     "link": "https://www.zdfheute.de/video/politik-emde-linke-kritik-partei-ausschluss-video-100.html",
+     "image": "https://www.zdfheute.de/assets/vanessa-emde-berlin-linke-bild-100~384x216?cb=1794335338494",
+     "aggregator": false,
+     "published": "2026-11-10T21:05:00+00:00"
+    },
+    {
+     "source": "ZDFheute",
+     "region": "DE",
+     "weight": 1.0,
+     "title": "Berliner Linke will Vanessa Emde aus Fraktion ausschließen",
+     "summary": "Die Linke will den Fraktionsausschluss der Abgeordneten Vanessa Emde beantragen. Ihr wird vorgeworfen, das Existenzrecht Israels anzuzweifeln.",
+     "link": "https://www.zdfheute.de/politik/deutschland/linke-ausschluss-vanessa-emde-abgeordnete-100.html",
+     "image": "https://www.zdfheute.de/assets/vanessa-emde-die-linke-102~384x216?cb=1794322475287",
+     "aggregator": false,
+     "published": "2026-11-10T17:10:00+00:00"
+    },
+    {
+     "source": "DER STANDARD",
+     "region": "AT",
+     "weight": 0.85,
+     "title": "Rauswurf der umstrittenen Abgeordneten Emde soll linke Berliner Koalition sichern",
+     "summary": "Vanessa Emde aus Neukölln steht in der Linken wegen ihrer Aussagen zu Israel unter Druck. Nun soll sie aus der Fraktion im Abgeordnetenhaus ausgeschlossen werden",
+     "link": "https://www.derstandard.at/story/3000000348648/rauswurf-der-umstrittenen-abgeordneten-emde-soll-linke-berliner-koalition-sichern?ref=rss",
+     "image": "https://i.ds.at/_ljN5Q/rs:fill:150:0/plain/lido-images/2026/11/11/f982487d-835a-4868-b49d-27f1a5148907.jpg",
+     "aggregator": false,
+     "published": "2026-11-11T13:01:46+00:00"
+    }
+   ]
+  },
+  {
+   "id": 5,
+   "score": 11.23,
+   "outlets": [
+    "Deutschlandfunk",
+    "ORF",
+    "Handelsblatt",
+    "DER STANDARD"
+   ],
+   "regions": [
+    "AT",
+    "DE"
+   ],
+   "trend": [],
+   "newest": "2026-11-11T15:41:00+00:00",
+   "articles": [
+    {
+     "source": "Deutschlandfunk",
+     "region": "DE",
+     "weight": 0.95,
+     "title": "Etatfragen - EU-Haushalt für 2027 steht",
+     "summary": "Der EU-Haushalt im kommenden Jahr soll knapp 200 Milliarden Euro umfassen.",
+     "link": "https://www.deutschlandfunk.de/eu-haushalt-fuer-2027-steht-100.html",
+     "image": "https://bilder.deutschlandfunk.de/a4/ca/76/af/a4ca76af-e862-49a0-be2e-a96573c26604/euro-muenzen-104-1920x1920.jpg",
+     "aggregator": false,
+     "published": "2026-11-11T15:33:13+00:00"
+    },
+    {
+     "source": "ORF",
+     "region": "AT",
+     "weight": 0.95,
+     "title": "EU-Budget für 2027 steht",
+     "summary": "",
+     "link": "https://orf.at/stories/3447865/",
+     "image": null,
+     "aggregator": false,
+     "published": "2026-11-11T07:35:25+00:00"
+    },
+    {
+     "source": "Handelsblatt",
+     "region": "DE",
+     "weight": 0.9,
+     "title": "Haushalt: Drei Milliarden Euro zusätzlich: Regierung muss Agentur für Arbeit mit neuem Kredit helfen",
+     "summary": "Finanzminister Klingbeil nimmt in letzter Sekunde einige Veränderungen am Etat 2027 vor. Die Bundesagentur bekommt ein größeres Darlehen. Und auch für die Käufer von E-Autos gibt es mehr Geld.",
+     "link": "https://www.handelsblatt.com/politik/deutschland/haushalt-klingbeil-nimmt-noch-aenderungen-in-milliardenhoehe-vor-01/100267082.html",
+     "image": "https://images.handelsblatt.com/omSTGl8yS38-/cover/900/506/0/0/222/222/0.5/0.5/28.10.2026-berlin-lars-klingbeil-spd-vizekanzler-und-bundesminister-der-finanzen-eroeffnet-die.jpg",
+     "aggregator": false,
+     "published": "2026-11-11T15:41:00+00:00"
+    },
+    {
+     "source": "DER STANDARD",
+     "region": "AT",
+     "weight": 0.85,
+     "title": "Einigung auf EU-Budget für 2027",
+     "summary": "Das Budget beläuft sich auf rund 199,7 Milliarden Euro. Der Fokus liegt auf Wettbewerbsfähigkeit, Verteidigung und der Unterstützung der Ukraine",
+     "link": "https://www.derstandard.at/story/3000000348650/einigung-auf-eu-budget-f252r-2027?ref=rss",
+     "image": "https://i.ds.at/8ROowQ/rs:fill:150:0/plain/lido-images/2026/11/11/6ad49b7e-5f05-433a-87ca-e0e512545d54.jpg",
+     "aggregator": false,
+     "published": "2026-11-11T08:01:26+00:00"
+    }
+   ]
+  },
+  {
+   "id": 6,
+   "score": 10.98,
+   "outlets": [
+    "tagesschau",
+    "Deutschlandfunk",
+    "heise online",
+    "Golem"
+   ],
+   "regions": [
+    "DE"
+   ],
+   "trend": [],
+   "newest": "2026-11-11T15:33:13+00:00",
+   "articles": [
+    {
+     "source": "tagesschau",
+     "region": "DE",
+     "weight": 1.0,
+     "title": "Digital Fairness Act - EU will digitalen Verbraucherschutz stärken",
+     "summary": "Die EU-Kommission will mit einem Digital Fairness Act (DFA) Verbraucher in der digitalen Welt schützen. Der nun vorgestellte Entwurf soll unlautere Praktiken unterbinden. Die deutschen Verleger sind nicht begeistert.",
+     "link": "https://www.tagesschau.de/wirtschaft/verbraucher/eu-digital-fairness-act-100.html",
+     "image": "https://images.tagesschau.de/image/b9c080d8-59ae-4c18-b67d-5cf49744367f/AAABocpJyCQ/AAABnSSvrFg/16x9-big/europa-parlament-strassburg-106.jpg?width=1920",
+     "aggregator": false,
+     "published": "2026-11-11T12:40:59+00:00"
+    },
+    {
+     "source": "tagesschau Wirtschaft",
+     "region": "DE",
+     "weight": 1.0,
+     "title": "Digital Fairness Act - EU will digitalen Verbraucherschutz stärken",
+     "summary": "Die EU-Kommission will mit einem Digital Fairness Act (DFA) Verbraucher in der digitalen Welt schützen. Der nun vorgestellte Entwurf soll unlautere Praktiken unterbinden. Die deutschen Verleger sind nicht begeistert.",
+     "link": "https://www.tagesschau.de/wirtschaft/verbraucher/eu-digital-fairness-act-100.html",
+     "image": "https://images.tagesschau.de/image/b9c080d8-59ae-4c18-b67d-5cf49744367f/AAABocpJyCQ/AAABnSSvrFg/16x9-big/europa-parlament-strassburg-106.jpg?width=1920",
+     "aggregator": false,
+     "published": "2026-11-11T12:40:59+00:00"
+    },
+    {
+     "source": "Deutschlandfunk",
+     "region": "DE",
+     "weight": 0.95,
+     "title": "Digital Fairness Act - EU-Kommission: Abonnements im Internet sollen einfacher zu kündigen sein",
+     "summary": "Die EU-Kommission will die Kündigung von Abonnements im Internet für Verbraucher vereinfachen.",
+     "link": "https://www.deutschlandfunk.de/eu-kommission-abonnements-im-internet-sollen-einfacher-zu-kuendigen-sein-100.html",
+     "image": "https://bilder.deutschlandfunk.de/FI/LE/_c/a0/FILE_ca034f2f92cda6fb528230110d0fc67c/83159111-jpg-100-768x768.jpg",
+     "aggregator": false,
+     "published": "2026-11-11T15:33:13+00:00"
+    },
+    {
+     "source": "heise online",
+     "region": "DE",
+     "weight": 0.85,
+     "title": "„Merkmale von Glücksspiel“: EU will Lootboxen für Minderjährige verbieten",
+     "summary": "Der Entwurf des Digital Fairness Act verbietet Lootboxen und Pay-to-Win für Minderjährige. Der Branchenverband game schlägt Alarm.",
+     "link": "https://www.heise.de/news/Digital-Fairness-Act-Was-der-EU-Entwurf-fuer-Lootboxen-in-Spielen-bedeutet-11520914.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
+     "image": null,
+     "aggregator": false,
+     "published": "2026-11-11T13:25:00+00:00"
+    },
+    {
+     "source": "Golem",
+     "region": "DE",
+     "weight": 0.75,
+     "title": "Digital Fairness Act: EU will Dark Patterns und Abofallen stoppen",
+     "summary": "Verbraucher sollen das Recht auf menschlichen Kundenservice bekommen. Die EU-Kommission will viele Geschäftspraktiken untersagen. ( Verbraucherschutz , Instant Messenger )",
+     "link": "https://www.golem.de/news/digital-fairness-act-eu-will-dark-patterns-und-abofallen-stoppen-2611-215090.html",
+     "image": "https://cpx.golem.de/cpx.php?class=17&amp;aid=215090&amp;page=1&amp;ts=1794402302",
+     "aggregator": false,
+     "published": "2026-11-11T13:05:02+00:00"
+    }
+   ]
+  },
+  {
+   "id": 7,
+   "score": 10.8,
+   "outlets": [
+    "tagesschau",
+    "heise online",
+    "DER STANDARD"
+   ],
+   "regions": [
+    "AT",
+    "DE"
+   ],
+   "trend": [
+    "FREESTYLE DIGITAL MEDIA RELEASES DOCUMENTARY FEATURE “THE BALLAD OF LIEUTENANT DAN”"
+   ],
+   "newest": "2026-11-11T15:36:42+00:00",
+   "articles": [
+    {
+     "source": "tagesschau",
+     "region": "DE",
+     "weight": 1.0,
+     "title": "Schluss mit Abo-Fallen: Neue EU-Regeln für Games und Social Media",
+     "summary": "EU-Entwurf für \"Digital Fairness Act\" gegen unlautere Methoden im Netz",
+     "link": "https://www.tagesschau.de/video/video-1682036.html",
+     "image": "https://images.tagesschau.de/image/0bfef87e-3c1b-4340-b114-fd3351b2f0a1/AAABoctIWWk/AAABnSSvrFg/16x9-big/tastatur-154.jpg?width=1920",
+     "aggregator": false,
+     "published": "2026-11-11T15:36:42+00:00"
+    },
+    {
+     "source": "heise online",
+     "region": "DE",
+     "weight": 0.85,
+     "title": "Digital Fairness Act: EU-Offensive gegen Abo-Fallen, Lootboxen und Dark Patterns",
+     "summary": "Die EU-Kommission will Schluss machen mit Psychotricks, manipulativen Designs und Abzocke im Web: Sie plant die härtesten Verbraucherschutzregeln seit Jahren.",
+     "link": "https://www.heise.de/news/Digital-Fairness-Act-EU-Offensive-gegen-Abo-Fallen-Lootboxen-und-Dark-Patterns-11520754.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
+     "image": null,
+     "aggregator": false,
+     "published": "2026-11-11T11:45:00+00:00"
+    },
+    {
+     "source": "DER STANDARD",
+     "region": "AT",
+     "weight": 0.85,
+     "title": "Schluss mit Klickfallen und Geister-Abos: EU will zehn Online-Unsitten verbieten",
+     "summary": "Der Digital Fairness Act soll Kaufpanik, versteckte Gebühren und falsche Rabatte stoppen. Lootboxen sollen für Kinder gänzlich verschwinden",
+     "link": "https://www.derstandard.at/story/3000000348642/schluss-mit-klickfallen-und-geister-abos-eu-will-zehn-online-unsitten-verbieten?ref=rss",
+     "image": "https://i.ds.at/ZLDu9w/rs:fill:150:0/plain/lido-images/2026/11/11/96773ba0-b93d-4b30-918e-1549be5fa4d4.jpg",
+     "aggregator": false,
+     "published": "2026-11-11T09:12:25+00:00"
+    }
+   ]
+  },
+  {
+   "id": 8,
+   "score": 10.78,
+   "outlets": [
+    "Deutsche Welle",
+    "Handelsblatt",
+    "DER STANDARD",
+    "n-tv"
+   ],
+   "regions": [
+    "AT",
+    "DE",
+    "INT"
+   ],
+   "trend": [],
+   "newest": "2026-11-11T15:14:47+00:00",
+   "articles": [
+    {
+     "source": "Deutsche Welle",
+     "region": "INT",
+     "weight": 0.95,
+     "title": "Italien, Schottland und Nordirland: Schulen nach Bombenalarm evakuiert",
+     "summary": "Die Serie der Bombendrohungen in Europa setzt sich fort. Diesmal gab es falschen Alarm an Hunderten Schulen. Waren es staatliche Akteure, Trittbrettfahrer oder Scherzbolde?",
+     "link": "https://www.dw.com/de/italien-schottland-und-nordirland-schulen-nach-bombenalarm-evakuiert/a-79919504?maca=de-rss-de-all-1119-xml-mrss",
+     "image": "https://static.dw.com/image/79919315_302.jpg",
+     "aggregator": false,
+     "published": "2026-11-11T13:59:00+00:00"
+    },
+    {
+     "source": "Handelsblatt",
+     "region": "DE",
+     "weight": 0.9,
+     "title": "Cyberangriff: Hunderte Bombendrohungen gegen Schulen in Italien",
+     "summary": "Nach den Drohungen gegen TV-Redaktion in mehreren europäischen Ländern vergangene Woche gab es diesen Mittwoch erneut eine große Welle an Droh-Mails. Diesmal waren wohl Schulen das Ziel.",
+     "link": "https://www.handelsblatt.com/politik/international/italien-hunderte-schulen-nach-bombendrohungen-evakuiert/100269146.html",
+     "image": "https://images.handelsblatt.com/nvHgnO-RgyK6/cover/900/506/0/0/0/626/0.5/0.5/police-officers-stand-outside-bacone-primary-school-after-students-were-evacuated-following-a-bomb-t.jpg",
+     "aggregator": false,
+     "published": "2026-11-11T14:03:04+00:00"
+    },
+    {
+     "source": "DER STANDARD",
+     "region": "AT",
+     "weight": 0.85,
+     "title": "Hunderte von italienischen Schulen nach Bombendrohungen evakuiert",
+     "summary": "Seit Tagen befindet sich Italien, wie auch andere europäische Länder, im Visier von Cyberkriminellen und Hackern. Auch Regierungschefin Giorgia Meloni wurde bedroht",
+     "link": "https://www.derstandard.at/story/3000000348795/hunderte-von-italienischen-schulen-nach-bombendrohungen-evakuiert?ref=rss",
+     "image": "https://i.ds.at/NAkIIA/rs:fill:150:0/plain/lido-images/2026/11/11/363dc180-db93-4564-96da-251bb1f3a6db.jpg",
+     "aggregator": false,
+     "published": "2026-11-11T15:14:47+00:00"
+    },
+    {
+     "source": "n-tv",
+     "region": "DE",
+     "weight": 0.8,
+     "title": "Auch Nordirland betroffen: Hunderte Schulen in Italien nach Bombendrohungen evakuiert",
+     "summary": "Bombendrohungen beeinflussen in den vergangenen Tagen den europäischen Flugverkehr. Nun treffen die anonymen Schreiben Hunderte Schulen in Italien, Nordirland und Schottland. Während die Politik in Rom Schritte ergreift, geht Edinburgh einen anderen Weg.",
+     "link": "https://www.n-tv.de/panorama/Hunderte-Schulen-in-Italien-nach-Bombendrohungen-evakuiert-id31521639.html",
+     "image": "https://www.n-tv.de/img/31521638/1794403872/Img_4_3/250/632360722.jpg",
+     "aggregator": false,
+     "published": "2026-11-11T14:04:13+00:00"
+    }
+   ]
+  },
+  {
+   "id": 9,
+   "score": 10.58,
+   "outlets": [
+    "ZDFheute",
+    "Deutschlandfunk",
+    "DER STANDARD"
+   ],
+   "regions": [
+    "AT",
+    "DE"
+   ],
+   "trend": [],
+   "newest": "2026-11-11T15:33:13+00:00",
+   "articles": [
+    {
+     "source": "ZDFheute",
+     "region": "DE",
+     "weight": 1.0,
+     "title": "Bundeswehr-Studie offenbart Ausmaß sexueller Belästigung",
+     "summary": "Sexuelle Belästigung in der Bundeswehr ist einer neuen Studie zufolge noch weitaus verbreiteter als bislang bekannt. Verteidigungsminister Pistorius forderte \"null Toleranz\".",
+     "link": "https://www.zdfheute.de/politik/deutschland/bundeswehr-dunkelfeldstudie-sexuelle-belaestigung-boris-pistorius-100.html",
+     "image": "https://www.zdfheute.de/assets/soldatinnen-bundeswehr-100~384x216?cb=1794395341729",
+     "aggregator": false,
+     "published": "2026-11-11T14:05:00+00:00"
+    },
+    {
+     "source": "Deutschlandfunk",
+     "region": "DE",
+     "weight": 0.95,
+     "title": "Dunkelfeldstudie - Sexuelle Belästigung in der Bundeswehr verbreiteter als bislang bekannt - Pistorius: \"Null Toleranz\"",
+     "summary": "Sexuelle Belästigung in ​der Bundeswehr ist einer neuen Erhebung zufolge verbreiteter als bislang bekannt. So haben in den vergangenen zwölf Monaten 38 Prozent der Soldatinnen und 16 Prozent der Soldaten ‌verbale Belästigung erfahren, ⁠wie aus einer Dunkelfeldstudie der Streitkräfte hervorgeht.",
+     "link": "https://www.deutschlandfunk.de/sexuelle-belaestigung-in-der-bundeswehr-verbreiteter-als-bislang-bekannt-pistorius-null-toleranz-100.html",
+     "image": "https://bilder.deutschlandfunk.de/bb/57/83/23/bb578323-afca-479a-8998-f8311bad8e90/soldatin-helm-hinten-bundeswehr-100-1920x1920.jpg",
+     "aggregator": false,
+     "published": "2026-11-11T15:33:13+00:00"
+    },
+    {
+     "source": "DER STANDARD",
+     "region": "AT",
+     "weight": 0.85,
+     "title": "Studie offenbart erschreckendes Ausmaß sexueller Übergriffe bei deutscher Bundeswehr",
+     "summary": "Verteidigungsminister Pistorius hat das Dunkelfeld sexueller Übergriffe erstmals ausgeleuchtet. Nun steht er unter Druck, wirksame Maßnahmen gegen ein tiefverwurzeltes Problem zu ergreifen",
+     "link": "https://www.derstandard.at/story/3000000348646/studie-offenbart-erschreckendes-ausmass-sexueller-uebergriffe-bei-deutscher-bundeswehr?ref=rss",
+     "image": "https://i.ds.at/pFSraQ/rs:fill:150:0/plain/lido-images/2026/11/11/942d9f10-2fbe-4eb9-9a46-ab9627df4477.jpg",
+     "aggregator": false,
+     "published": "2026-11-11T10:24:00+00:00"
+    }
+   ]
+  },
+  {
+   "id": 10,
+   "score": 10.18,
+   "outlets": [
+    "tagesschau",
+    "Deutsche Welle",
+    "Deutschlandfunk"
+   ],
+   "regions": [
+    "DE",
+    "INT"
+   ],
+   "trend": [],
+   "newest": "2026-11-11T15:33:13+00:00",
+   "articles": [
+    {
+     "source": "tagesschau",
+     "region": "DE",
+     "weight": 1.0,
+     "title": "Zahl der Kriegsdienstverweigerer steigt weiter deutlich",
+     "summary": "Der Wehrdienst bleibt weiterhin freiwillig. Die Musterung bei Männern ist allerdings verpflichtend. Die Zahl der Kriegsdienstverweigerungen steigt in diesem Jahr deutlich an.",
+     "link": "https://www.tagesschau.de/inland/kriegsdienstverweigerer-steigend-100.html",
+     "image": "https://images.tagesschau.de/image/90e033e0-defd-4b4b-bf51-40bb81c39473/AAABmQ4VB0k/AAABnSSvrFg/16x9-big/bundeswehr-jacken-100.jpg?width=1920",
+     "aggregator": false,
+     "published": "2026-11-11T05:56:45+00:00"
+    },
+    {
+     "source": "tagesschau Inland",
+     "region": "DE",
+     "weight": 1.0,
+     "title": "Zahl der Kriegsdienstverweigerer steigt weiter deutlich",
+     "summary": "Der Wehrdienst bleibt weiterhin freiwillig. Die Musterung bei Männern ist allerdings verpflichtend. Die Zahl der Kriegsdienstverweigerungen steigt in diesem Jahr deutlich an.",
+     "link": "https://www.tagesschau.de/inland/kriegsdienstverweigerer-steigend-100.html",
+     "image": "https://images.tagesschau.de/image/90e033e0-defd-4b4b-bf51-40bb81c39473/AAABmQ4VB0k/AAABnSSvrFg/16x9-big/bundeswehr-jacken-100.jpg?width=1920",
+     "aggregator": false,
+     "published": "2026-11-11T05:56:45+00:00"
+    },
+    {
+     "source": "Deutsche Welle",
+     "region": "INT",
+     "weight": 0.95,
+     "title": "Zeitung: Zahl der Kriegsdienstverweigerer in Deutschland steigt stark",
+     "summary": "Kommt die deutsche Wehrpflicht zurück? Viele junge Männer befürchten dies offenbar. Die Zahl der Bundesbürger, die den Dienst an der Waffe vorsorglich verweigern, schießt in die Höhe.",
+     "link": "https://www.dw.com/de/zeitung-zahl-der-kriegsdienstverweigerer-in-deutschland-steigt-stark/a-79918041?maca=de-rss-de-all-1119-xml-mrss",
+     "image": "https://static.dw.com/image/79918208_302.jpg",
+     "aggregator": false,
+     "published": "2026-11-11T12:05:00+00:00"
+    },
+    {
+     "source": "Deutschlandfunk",
+     "region": "DE",
+     "weight": 0.95,
+     "title": "Bericht - Fast 17.000 Anträge auf Kriegsdienstverweigerung in diesem Jahr",
+     "summary": "In Deutschland steigt die Zahl der Kriegsdienstverweigerer weiter.",
+     "link": "https://www.deutschlandfunk.de/fast-17-000-antraege-auf-kriegsdienstverweigerung-in-diesem-jahr-100.html",
+     "image": "https://bilder.deutschlandfunk.de/7c/96/42/df/7c9642df-ee6d-4b2d-812b-7f737c821094/rekruten-bundeswehr-108-1920x1920.jpg",
+     "aggregator": false,
+     "published": "2026-11-11T15:33:13+00:00"
+    }
+   ]
+  },
+  {
+   "id": 11,
+   "score": 9.98,
+   "outlets": [
+    "tagesschau",
+    "Deutschlandfunk",
+    "WELT"
+   ],
+   "regions": [
+    "DE"
+   ],
+   "trend": [],
+   "newest": "2026-11-11T15:33:13+00:00",
+   "articles": [
+    {
+     "source": "tagesschau",
+     "region": "DE",
+     "weight": 1.0,
+     "title": "Wirtschaftsweise korrigieren Wachstumsprognose deutlich nach oben",
+     "summary": "Die Wirtschaft wächst wieder stärker - doch der Sachverständigenrat der Bundesregierung fordert harte Sparmaßnahmen. Und bringt eine Art \"Soli\" für Verteidigung ins Spiel. Von Alina Leimbach.",
+     "link": "https://www.tagesschau.de/wirtschaft/konjunktur/wirtschaftsweise-jahresgutachten-2026-100.html",
+     "image": "https://images.tagesschau.de/image/16f12c7f-6568-487c-847e-99c4f6320ad6/AAABocrZEiU/AAABnSSvrFg/16x9-big/reiche-klingbeil-schnitzer-merz-grimm-100.jpg?width=1920",
+     "aggregator": false,
+     "published": "2026-11-11T13:30:06+00:00"
+    },
+    {
+     "source": "tagesschau Wirtschaft",
+     "region": "DE",
+     "weight": 1.0,
+     "title": "Wirtschaftsweise korrigieren Wachstumsprognose deutlich nach oben",
+     "summary": "Die Wirtschaft wächst wieder stärker - doch der Sachverständigenrat der Bundesregierung fordert harte Sparmaßnahmen. Und bringt eine Art \"Soli\" für Verteidigung ins Spiel. Von Alina Leimbach.",
+     "link": "https://www.tagesschau.de/wirtschaft/konjunktur/wirtschaftsweise-jahresgutachten-2026-100.html",
+     "image": "https://images.tagesschau.de/image/16f12c7f-6568-487c-847e-99c4f6320ad6/AAABocrZEiU/AAABnSSvrFg/16x9-big/reiche-klingbeil-schnitzer-merz-grimm-100.jpg?width=1920",
+     "aggregator": false,
+     "published": "2026-11-11T13:30:06+00:00"
+    },
+    {
+     "source": "Deutschlandfunk",
+     "region": "DE",
+     "weight": 0.95,
+     "title": "Konjunkturprognose - Wirtschaftsweise erwarten deutlich höheres Wachstum - weitere Reformen angemahnt",
+     "summary": "Die Wirtschaft in Deutschland wächst wieder etwas stärker. Die sogenannten Wirtschaftsweisen haben ihre Konjunkturprognose für dieses und das kommende Jahr deutlich angehoben. Sie erwarten für dieses Jahr ein Wachstum von 1,3 Prozent, für das kommende Jahr von einem Prozent.",
+     "link": "https://www.deutschlandfunk.de/wirtschaftsweise-erwarten-deutlich-hoeheres-wachstum-weitere-reformen-angemahnt-100.html",
+     "image": "https://bilder.deutschlandfunk.de/36/9f/87/fe/369f87fe-35f5-4de3-b769-db4bfd12f832/wirtschaftsweisen-sachverstaendigenrat-100-1920x1920.jpg",
+     "aggregator": false,
+     "published": "2026-11-11T15:33:13+00:00"
+    },
+    {
+     "source": "WELT",
+     "region": "DE",
+     "weight": 0.8,
+     "title": "Wirtschaftsweise heben Wachstumsprognose an – und warnen vor hohen Schulden",
+     "summary": "Die «Wirtschaftsweisen» heben ihre Wachstumsprognose für Deutschland an. Der Sachverständigenrat erwartet, dass das Bruttoinlandsprodukt im laufenden Jahr um 1,3 Prozent steigt und im kommenden Jahr um 1,0 Prozent.",
+     "link": "https://www.welt.de/wirtschaft/video6af4711550175c81de7a1baa/konjunktur-wirtschaftsweise-heben-wachstumsprognose-an-und-warnen-vor-hohen-schulden.html",
+     "image": "https://images.welt.de/6af4711550175c81de7a1baa/32fcf66f0afc2b7addde1045da215d85/ci16x9-w1200/apdpa-2fc84090e1fe476281a02ce8799b1064-jpg",
+     "aggregator": false,
+     "published": "2026-11-11T13:47:01+00:00"
+    },
+    {
+     "source": "WELT",
+     "region": "DE",
+     "weight": 0.6,
+     "title": "Bundeshaushalt: Die 100-Prozent-Warnung der Wirtschaftsweisen",
+     "summary": "Bundeshaushalt: Die 100-Prozent-Warnung der Wirtschaftsweisen WELT Wirtschaftsweise korrigieren Wachstumsprognose deutlich nach oben tagesschau.de Wirtschaft: Endlich Wachstum in Deutschland, aber die Schulden erdrücken uns BILD \"Einen Rentenbescheid bekommt man nicht weg\" T-Online „Blick in Abgrund“: Wirtschaftsweise warnen vor Schulden SZ.de",
+     "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQYjNYeGJaVWJQQ0M5RmI2Qkl0OFpVc3paNGxuRGcweHBEQ1pveHhsU1MzeHVoUFdxazhzSU03REhCOFJuY3ExQ3YySmdMbGpYMW4tZlpvdTJOLWlsYjZHYm95YzNTczdZVWJ4WGtnbWpCNndFSWF2WndfNFBQTUp2NWNzQmNkVEdPbmhLd0hvOU5vU1UwS2tydE02REtnZUtGc1VsdlNZTEY5LWNKbWR6MTVmVmNKU1lGWllFZktndFlEVTRBOWFseGUwSmdnUEVWQndB?oc=5",
+     "image": null,
+     "aggregator": true,
+     "published": "2026-11-11T13:32:54+00:00"
+    }
+   ]
+  },
+  {
+   "id": 12,
+   "score": 9.85,
+   "outlets": [
+    "tagesschau",
+    "ZDFheute",
+    "Süddeutsche"
+   ],
+   "regions": [
+    "DE"
+   ],
+   "trend": [],
+   "newest": "2026-11-11T12:45:03+00:00",
+   "articles": [
+    {
+     "source": "tagesschau",
+     "region": "DE",
+     "weight": 1.0,
+     "title": "Pistorius pocht auf \"null Toleranz\" gegenüber sexualisiertem Fehlverhalten in Bundeswehr",
+     "summary": "Angesichts der hohen Zahl an Fällen von sexualisiertem Fehlverhalten bei der Bundeswehr will Verteidigungsminister Pistorius mit \"null Toleranz\" dagegen vorgehen. Unter anderem durch bessere Prävention und eine externe Anlaufstelle für Betroffene.",
+     "link": "https://www.tagesschau.de/inland/innenpolitik/bundeswehr-dunkelfeldstudie-102.html",
+     "image": "https://images.tagesschau.de/image/5bd0a894-5037-4d9c-ba2d-07e9ef72d39c/AAABocoaOGc/AAABnSSvrFg/16x9-big/spd-pistorius-102.jpg?width=1920",
+     "aggregator": false,
+     "published": "2026-11-11T11:30:22+00:00"
+    },
+    {
+     "source": "tagesschau Inland",
+     "region": "DE",
+     "weight": 1.0,
+     "title": "Pistorius pocht auf \"null Toleranz\" gegenüber sexualisiertem Fehlverhalten in Bundeswehr",
+     "summary": "Angesichts der hohen Zahl an Fällen von sexualisiertem Fehlverhalten bei der Bundeswehr will Verteidigungsminister Pistorius mit \"null Toleranz\" dagegen vorgehen. Unter anderem durch bessere Prävention und eine externe Anlaufstelle für Betroffene.",
+     "link": "https://www.tagesschau.de/inland/innenpolitik/bundeswehr-dunkelfeldstudie-102.html",
+     "image": "https://images.tagesschau.de/image/5bd0a894-5037-4d9c-ba2d-07e9ef72d39c/AAABocoaOGc/AAABnSSvrFg/16x9-big/spd-pistorius-102.jpg?width=1920",
+     "aggregator": false,
+     "published": "2026-11-11T11:30:22+00:00"
+    },
+    {
+     "source": "ZDFheute",
+     "region": "DE",
+     "weight": 1.0,
+     "title": "Pistorius über sexuelle Belästigung in der Bundeswehr",
+     "summary": "Verteidigungsminister Boris Pistorius veröffentlicht Ergebnisse zu einer Studie über sexuelle Belästigung in der Bundeswehr. Diese würden \"unerfreuliche Ergebnisse\" zutage fördern.",
+     "link": "https://www.zdfheute.de/video/pistorius-bundeswehr-belaestigung-100.html",
+     "image": "https://www.zdfheute.de/assets/pistorius-verteidigung-pk-100~384x216?cb=1794393420789",
+     "aggregator": false,
+     "published": "2026-11-11T10:03:45+00:00"
+    },
+    {
+     "source": "ZDFheute",
+     "region": "DE",
+     "weight": 1.0,
+     "title": "Pistorius: \"Null Toleranz bei sexuellem Fehlverhalten in der Bundeswehr\"",
+     "summary": "Statement von Boris Pistorius (SPD, Bundesverteidigungsminister) zurDunkelfeldstudie über sexuelle Belästigungen in der Bundeswehr",
+     "link": "https://www.phoenix.de/sendungen/ereignisse/phoenix-vor-ort/ua-boris-pistorius-bundes-a-5240705.html",
+     "image": "https://www.zdfheute.de/assets/teaser-phoenix-pistorius-null-toleranz-bei-sexuellem-fehlverhalten-in-der-bundeswehr-5247042-100~384x216?cb=1794399237295",
+     "aggregator": false,
+     "published": "2026-11-11T10:03:00+00:00"
+    },
+    {
+     "source": "Süddeutsche",
+     "region": "DE",
+     "weight": 0.9,
+     "title": "Bundeswehr: Was Pistorius gegen sexuelle Belästigungen und Übergriffe tun will",
+     "summary": "Der Verteidigungsminister beschönigt das Ausmaß von Fehlverhalten in der Truppe nicht. Seine Linie: Null Toleranz. Mit 34 Maßnahmen will er nun erreichen, dass auch weiterhin Frauen zur Bundeswehr wollen.",
+     "link": "https://www.sueddeutsche.de/politik/bundeswehr-boris-pistorius-li.3578671",
+     "image": "https://www.sueddeutsche.de/2026/11/11/713eb4cb-6838-4b1f-a160-1cf72e042283.jpg?rect=419%2C0%2C3449%2C2587&width=1000&fm=jpg&q=60",
+     "aggregator": false,
+     "published": "2026-11-11T12:45:03+00:00"
+    }
+   ]
+  },
+  {
+   "id": 13,
+   "score": 9.45,
+   "outlets": [
+    "SPIEGEL",
+    "WELT",
+    "n-tv"
+   ],
+   "regions": [
+    "DE"
+   ],
+   "trend": [],
+   "newest": "2026-11-11T15:46:00+00:00",
+   "articles": [
+    {
+     "source": "SPIEGEL",
+     "region": "DE",
+     "weight": 0.9,
+     "title": "Unterhaltsvorschuss: Familienministerin Karin Prien plant Unterhaltsvorschuss nur noch bis 40.000 Euro",
+     "summary": "Wenn ein Elternteil keinen Unterhalt zahlt, springt der Staat ein. Das Familienministerium will dafür nun eine Einkommensgrenze einführen. Säumige Elternteile sollen mehr in die Pflicht genommen werden.",
+     "link": "https://www.spiegel.de/politik/deutschland/unterhaltsvorschuss-familienministerin-karin-prien-plant-unterhaltsvorschuss-nur-noch-bis-40-000-euro-a-520a2ba7-effe-47f7-a4dc-a376d96a3f2e#ref=rss",
+     "image": "https://cdn.prod.www.spiegel.de/images/9cb166bf-ac83-4476-8e15-9cd28a93290c_w520_r2.08_fpx35.93_fpy50.jpg",
+     "aggregator": false,
+     "published": "2026-11-11T15:46:00+00:00"
+    },
+    {
+     "source": "WELT",
+     "region": "DE",
+     "weight": 0.8,
+     "title": "Prien plant beim Unterhaltsvorschuss Einkommensgrenze für Alleinerziehende",
+     "summary": "Alleinerziehende mit höherem Einkommen sollen künftig keinen staatlichen Unterhaltsvorschuss mehr erhalten. Zugleich will Familienministerin Karin Prien säumige Unterhaltsschuldner stärker zur Kasse bitten.",
+     "link": "https://www.welt.de/politik/deutschland/article6af46cacdb4e2fa8f6eb775d/familien-prien-plant-beim-unterhaltsvorschuss-einkommensgrenze-fuer-alleinerziehende.html",
+     "image": "https://images.welt.de/6af46cacdb4e2fa8f6eb775d/7b65089ed7a2424d317c4a8b77b96d53-master/ci23x11-w1200/dpa-com-261109-936-141450-jpg",
+     "aggregator": false,
+     "published": "2026-11-11T13:59:32+00:00"
+    },
+    {
+     "source": "n-tv",
+     "region": "DE",
+     "weight": 0.8,
+     "title": "Gutverdiener im Nachteil: Prien will Gehaltsgrenze bei Unterhaltsvorschuss für Alleinerziehende",
+     "summary": "Dass ein Elternteil zu wenig oder sogar gar keinen Unterhalt zahlt, ist für viele ein Ärgernis. Helfen kann in einem solchen Fall der staatliche Unterhaltsvorschuss. Den kann in Zukunft laut Plänen aus dem Familienministerium jedoch nicht jeder erhalten.",
+     "link": "https://www.n-tv.de/politik/Prien-will-Gehaltsgrenze-bei-Unterhaltsvorschuss-fuer-Alleinerziehende-id31521868.html",
+     "image": "https://www.n-tv.de/img/31522030/1794408122/Img_4_3/250/563479604.jpg",
+     "aggregator": false,
+     "published": "2026-11-11T14:13:28+00:00"
+    }
+   ]
+  },
+  {
+   "id": 14,
+   "score": 9.4,
+   "outlets": [
+    "tagesschau",
+    "Deutsche Welle",
+    "Handelsblatt"
+   ],
+   "regions": [
+    "DE",
+    "INT"
+   ],
+   "trend": [],
+   "newest": "2026-11-11T15:00:00+00:00",
+   "articles": [
+    {
+     "source": "tagesschau",
+     "region": "DE",
+     "weight": 1.0,
+     "title": "Viele deutsche Unternehmen bauen die KI-Infrastruktur mit auf",
+     "summary": "US-Tech-Giganten investieren Milliarden in Künstliche Intelligenz. Anleger werden vorsichtiger mit Blick auf die Kosten. Warum deutsche und europäische Unternehmen davon profitieren könnten. Von Bianca von der Au.",
+     "link": "https://www.tagesschau.de/wirtschaft/technologie/ki-milliarden-investitionen-profiteure-100.html",
+     "image": "https://images.tagesschau.de/image/1dc92206-8794-445f-9798-ac602edccc1f/AAABocUDpgA/AAABnSSvrFg/16x9-big/wafer-106.jpg?width=1920",
+     "aggregator": false,
+     "published": "2026-11-10T10:35:49+00:00"
+    },
+    {
+     "source": "tagesschau Wirtschaft",
+     "region": "DE",
+     "weight": 1.0,
+     "title": "Viele deutsche Unternehmen bauen die KI-Infrastruktur mit auf",
+     "summary": "US-Tech-Giganten investieren Milliarden in Künstliche Intelligenz. Anleger werden vorsichtiger mit Blick auf die Kosten. Warum deutsche und europäische Unternehmen davon profitieren könnten. Von Bianca von der Au.",
+     "link": "https://www.tagesschau.de/wirtschaft/technologie/ki-milliarden-investitionen-profiteure-100.html",
+     "image": "https://images.tagesschau.de/image/1dc92206-8794-445f-9798-ac602edccc1f/AAABocUDpgA/AAABnSSvrFg/16x9-big/wafer-106.jpg?width=1920",
+     "aggregator": false,
+     "published": "2026-11-10T10:35:49+00:00"
+    },
+    {
+     "source": "Deutsche Welle",
+     "region": "INT",
+     "weight": 0.95,
+     "title": "KI wirbelt Arbeitsmarkt laut BA-Chefin durcheinander",
+     "summary": "Wird Künstliche Intelligenz unzählige Jobs kosten - oder werden dafür viele neue Arbeitsplätze geschaffen? Andrea Nahles, die Vorstandsvorsitzende der Bundesagentur für Arbeit, macht eine Rechnung für die Zukunft auf.",
+     "link": "https://www.dw.com/de/ki-wirbelt-arbeitsmarkt-laut-ba-chefin-durcheinander/a-79910561?maca=de-rss-de-all-1119-xml-mrss",
+     "image": "https://static.dw.com/image/73482157_302.jpg",
+     "aggregator": false,
+     "published": "2026-11-10T14:55:00+00:00"
+    },
+    {
+     "source": "Handelsblatt",
+     "region": "DE",
+     "weight": 0.9,
+     "title": "Karriere: KI bedroht viele Jobs in der IT – diese halten Experten für zukunftssicher",
+     "summary": "Auf kaum eine Branche hat Künstliche Intelligenz so viel Einfluss wie auf die IT-Branche. Welche Kenntnisse bei Unternehmen künftig zählen – und wieviel Gehalt sie dafür zahlen.",
+     "link": "https://www.handelsblatt.com/karriere/ki-diese-it-jobs-halten-experten-fuer-zukunftssicher/100238210.html",
+     "image": "https://images.handelsblatt.com/TsM6K9jFSycX/cover/900/506/0/0/338/287/0.5/0.5/it-jobs.jpg",
+     "aggregator": false,
+     "published": "2026-11-11T15:00:00+00:00"
+    }
+   ]
+  },
+  {
+   "id": 15,
+   "score": 9.38,
+   "outlets": [
+    "Deutschlandfunk",
+    "ZEIT ONLINE",
+    "Handelsblatt"
+   ],
+   "regions": [
+    "DE"
+   ],
+   "trend": [],
+   "newest": "2026-11-11T15:33:13+00:00",
+   "articles": [
+    {
+     "source": "Deutschlandfunk",
+     "region": "DE",
+     "weight": 0.95,
+     "title": "Regierungsbefragung - Unterhaltsvorschuss nur noch bis 40.000 Euro Einkommen - aber weiterhin bis zum 18. Geburtstag des Kindes",
+     "summary": "Die Kürzungen beim Unterhaltsvorschuss an Alleinerziehende sind offenbar vom Tisch.",
+     "link": "https://www.deutschlandfunk.de/unterhaltsvorschuss-nur-noch-bis-40-000-euro-einkommen-aber-weiterhin-bis-zum-18-geburtstag-des-kind-100.html",
+     "image": "https://bilder.deutschlandfunk.de/0f/4a/6e/2d/0f4a6e2d-ba42-4ff9-b8d2-2af5a87344da/karin-prien-unterhalt-berlin-100-1920x1920.jpg",
+     "aggregator": false,
+     "published": "2026-11-11T15:33:13+00:00"
+    },
+    {
+     "source": "ZEIT ONLINE",
+     "region": "DE",
+     "weight": 0.9,
+     "title": "Familienpolitik: Unterhaltsvorschuss soll an Einkommensgrenze gebunden werden",
+     "summary": "Staatliche Unterhaltszahlungen für Alleinerziehende mit Kind sollen an eine Grenze von 40.000 Euro geknüpft werden. Die Leistung soll doch bis zum 18. Lebensjahr gelten.",
+     "link": "https://www.zeit.de/politik/deutschland/2026-11/unterhaltsvorschuss-alleinerziehende-einkommensgrenze-gesetz-karin-prien",
+     "image": "https://img.zeit.de/politik/deutschland/2026-11/unterhaltsvorschuss-alleinerziehende-einkommensgrenze-gesetz-karin-prien-foto-1/original__640x360",
+     "aggregator": false,
+     "published": "2026-11-11T15:14:16+00:00"
+    },
+    {
+     "source": "Handelsblatt",
+     "region": "DE",
+     "weight": 0.9,
+     "title": "Sparmaßnahmen: Entwurf: Unterhaltsvorschuss nur noch bis 40.000 Euro",
+     "summary": "Wenn der andere Elternteil keinen Unterhalt zahlt, springt der Staat für Kinder Alleinerziehender ein. Ein Gesetzentwurf sieht nun eine Einkommensgrenze vor – beschlossen ist aber noch nichts.",
+     "link": "https://www.handelsblatt.com/politik/deutschland/sparmassnahmen-entwurf-unterhaltsvorschuss-nur-noch-bis-40000-euro/100269166.html",
+     "image": "https://images.handelsblatt.com/MpVbS3iO44jb/cover/900/506/8/8/0/0/0.5/0.5/mutter-mit-kind.jpg",
+     "aggregator": false,
+     "published": "2026-11-11T15:16:39+00:00"
+    }
+   ]
+  },
+  {
+   "id": 16,
+   "score": 9.28,
+   "outlets": [
+    "tagesschau",
+    "Deutschlandfunk"
+   ],
+   "regions": [
+    "DE",
+    "INT"
+   ],
+   "trend": [],
+   "newest": "2026-11-11T15:33:13+00:00",
+   "articles": [
+    {
+     "source": "tagesschau",
+     "region": "DE",
+     "weight": 1.0,
+     "title": "US-Justizministerium: Drei Männer wegen Terrorunterstützung angeklagt",
+     "summary": "Die US-Justiz hat Anklage gegen drei Männer erhoben, die an der Planung von mehreren Anschlägen in Europa und in den USA beteiligt gewesen sein sollen. Dabei geht es auch um den vereitelten Anschlag auf den britischen Luftwaffenstützpunkt Fairford.",
+     "link": "https://www.tagesschau.de/ausland/amerika/usa-anklage-unterstuetzung-terroranschlaege-100.html",
+     "image": "https://images.tagesschau.de/image/442f5e85-aa9c-4444-adc0-f96000f75c05/AAABocsLAQE/AAABnSSvrFg/16x9-big/usa-justizministerium-104.jpg?width=1920",
+     "aggregator": false,
+     "published": "2026-11-11T08:09:54+00:00"
+    },
+    {
+     "source": "tagesschau Ausland",
+     "region": "INT",
+     "weight": 1.0,
+     "title": "US-Justizministerium: Drei Männer wegen Terrorunterstützung angeklagt",
+     "summary": "Die US-Justiz hat Anklage gegen drei Männer erhoben, die an der Planung von mehreren Anschlägen in Europa und in den USA beteiligt gewesen sein sollen. Dabei geht es auch um den vereitelten Anschlag auf den britischen Luftwaffenstützpunkt Fairford.",
+     "link": "https://www.tagesschau.de/ausland/amerika/usa-anklage-unterstuetzung-terroranschlaege-100.html",
+     "image": "https://images.tagesschau.de/image/442f5e85-aa9c-4444-adc0-f96000f75c05/AAABocsLAQE/AAABnSSvrFg/16x9-big/usa-justizministerium-104.jpg?width=1920",
+     "aggregator": false,
+     "published": "2026-11-11T08:09:54+00:00"
+    },
+    {
+     "source": "Deutschlandfunk",
+     "region": "DE",
+     "weight": 0.95,
+     "title": "USA - Drei mutmaßlich vom Iran unterstützte Terror-Helfer angeklagt",
+     "summary": "In den USA sind drei angeblich vom Iran unterstützte Männer wegen der mutmaßlichen Beteiligung an Terroranschlägen angeklagt worden.",
+     "link": "https://www.deutschlandfunk.de/drei-mutmasslich-vom-iran-unterstuetzte-terror-helfer-angeklagt-100.html",
+     "image": "https://bilder.deutschlandfunk.de/ef/19/89/77/ef198977-c512-45bc-ad4b-4a3ef317dd90/us-langstreckenbomber-fairford-100-1920x1920.jpg",
+     "aggregator": false,
+     "published": "2026-11-11T15:33:13+00:00"
+    }
+   ]
+  },
+  {
+   "id": 17,
+   "score": 9.28,
+   "outlets": [
+    "Deutschlandfunk",
+    "Handelsblatt",
+    "WirtschaftsWoche"
+   ],
+   "regions": [
+    "DE"
+   ],
+   "trend": [],
+   "newest": "2026-11-11T15:33:13+00:00",
+   "articles": [
+    {
+     "source": "Deutschlandfunk",
+     "region": "DE",
+     "weight": 0.95,
+     "title": "Gaming - Download-Freigabe von \"GTA 6\" sorgt für erhöhten Datenverkehr im Internet",
+     "summary": "Seitdem das Videospiel Grand Theft Auto 6 zur Installation heruntergeladen werden kann, kommt es zu einem erhöhten Datenverkehr im Internet.",
+     "link": "https://www.deutschlandfunk.de/download-freigabe-von-gta-6-sorgt-fuer-erhoehten-datenverkehr-im-internet-102.html",
+     "image": "https://bilder.deutschlandfunk.de/NO/VA/_4/90/NOVA_49011f851994716258a54e81b2db84fd/craft-13333851-asset-100-1920x1920.jpg",
+     "aggregator": false,
+     "published": "2026-11-11T15:33:13+00:00"
+    },
+    {
+     "source": "Handelsblatt",
+     "region": "DE",
+     "weight": 0.9,
+     "title": "Neues Videospiel: Vorab-Downloads von GTA 6 treiben Datenverkehr in die Höhe",
+     "summary": "Die Vorfreude auf „Grand Theft Auto VI“ ist groß. Noch vor dem offiziellen Erscheinungsdatum laden viele das Actionspiel herunter. Wie groß das Interesse ist, spüren auch die Internetanbieter.",
+     "link": "https://www.handelsblatt.com/politik/deutschland/neues-videospiel-vorab-downloads-von-gta-6-treiben-datenverkehr-in-die-hoehe/100269153.html",
+     "image": "https://images.handelsblatt.com/UOzg8pPmx92Y/cover/900/506/0/0/107/106/0.5/0.5/werbung-gta-6.jpg",
+     "aggregator": false,
+     "published": "2026-11-11T14:33:52+00:00"
+    },
+    {
+     "source": "WirtschaftsWoche",
+     "region": "DE",
+     "weight": 0.85,
+     "title": "Gaming: Verändert GTA VI die Spielewelt für immer?",
+     "summary": "Der Hype um den neuesten Teil der Spielereihe Grand Theft Auto verspricht, die Games-Branche für absehbare Zeit zu prägen. Nicht bei allem ist der Beifall der Nutzer sicher.",
+     "link": "https://www.wiwo.de/unternehmen/it/gta-6-release-steht-kurz-bevor-veraendert-gta-6-die-spielewelt-fuer-immer/100268690.html",
+     "image": "https://images.wiwo.de/aJ2CKHEL5ZLE/cover/900/506/0/0/457/168/0.5/0.5/berlin-sehenswuerdigkeiten-08.11.2026-berlin-sehenswuerdigkeiten-symbolbild-werbung-fuer-das-comput.jpg",
+     "aggregator": false,
+     "published": "2026-11-11T12:47:03+00:00"
+    }
+   ]
+  },
+  {
+   "id": 18,
+   "score": 9.12,
+   "outlets": [
+    "ORF",
+    "Handelsblatt",
+    "n-tv"
+   ],
+   "regions": [
+    "AT",
+    "DE"
+   ],
+   "trend": [],
+   "newest": "2026-11-11T13:52:02+00:00",
+   "articles": [
+    {
+     "source": "ORF",
+     "region": "AT",
+     "weight": 0.95,
+     "title": "D: Fast drei von vier Soldatinnen in Bundeswehr sexuell belästigt",
+     "summary": "",
+     "link": "https://orf.at/stories/3447909/",
+     "image": null,
+     "aggregator": false,
+     "published": "2026-11-11T13:27:42+00:00"
+    },
+    {
+     "source": "Handelsblatt",
+     "region": "DE",
+     "weight": 0.9,
+     "title": "Kommentar: Die Bundeswehr darf keine Testosteron-Armee sein",
+     "summary": "Sexuelle Übergriffe gegen Soldatinnen gehen weit über bekannte Einzelfälle hinaus. Das widerspricht nicht nur dem Ideal der Staatsbürger in Uniform, sondern gefährdet auch die Personalziele.",
+     "link": "https://www.handelsblatt.com/meinung/kommentare/kommentar-die-bundeswehr-darf-keine-testosteron-armee-sein/100269079.html",
+     "image": "https://images.handelsblatt.com/WmL7vbauLDo9/cover/900/506/0/0/314/313/0.5/0.5/bundeswehrsoldatin.jpg",
+     "aggregator": false,
+     "published": "2026-11-11T13:52:02+00:00"
+    },
+    {
+     "source": "n-tv",
+     "region": "DE",
+     "weight": 0.8,
+     "title": "Bundeswehrsoldatinnen belästigt: Pistorius stellt \"unerfreuliche Wahrheiten\" vor",
+     "summary": "Verteidigungsminister Pistorius scheint selbst über das Ausmaß erschrocken: 72 Prozent der Soldatinnen in der Bundeswehr wurden schon einmal verbal sexuell belästigt. Besonders trifft es junge Frauen in unteren Dienstgraden. Viele Fälle werden gar nicht erst gemeldet.",
+     "link": "https://www.n-tv.de/politik/Bundeswehr-Sexuelle-Belaestigung-weit-verbreitet-Frauen-am-meisten-betroffen-id31520156.html",
+     "image": "https://www.n-tv.de/img/31520437/1794393204/Img_4_3/250/545320427.jpg",
+     "aggregator": false,
+     "published": "2026-11-11T10:15:04+00:00"
+    }
+   ]
+  },
+  {
+   "id": 19,
+   "score": 9.01,
+   "outlets": [
+    "ZDFheute",
+    "Deutsche Welle",
+    "n-tv"
+   ],
+   "regions": [
+    "DE",
+    "INT"
+   ],
+   "trend": [],
+   "newest": "2026-11-11T12:55:47+00:00",
+   "articles": [
+    {
+     "source": "ZDFheute",
+     "region": "DE",
+     "weight": 1.0,
+     "title": "Wegen dieser Geste gibt es Kritik an BVB-Star Nmecha",
+     "summary": "Wegen seines Torjubels hagelt es für BVB-Mittelfeldmotor Felix Nmecha Kritik. Seine Geste wird einem umstrittenen evangelikalischen Netzwerk von Fußballspielern zugeordnet.",
+     "link": "https://www.zdfheute.de/sport/video/nmecha-kritik-torjubel-geste-100.html",
+     "image": "https://www.zdfheute.de/assets/nmecha-geste-torjubel-kritik-100~384x216?cb=1794298522233",
+     "aggregator": false,
+     "published": "2026-11-10T08:21:00+00:00"
+    },
+    {
+     "source": "Deutsche Welle",
+     "region": "INT",
+     "weight": 0.95,
+     "title": "Felix Nmecha: BVB-Fans fordern Distanzierung von religiösem Netzwerk",
+     "summary": "Borussia Dortmunds Felix Nmecha zeigt erneut seinen Jubel, der der konservativ-religiösen Bewegung \"Ballers in God\" zugerechnet wird. Das sorgt für Diskussionen und Kritik auch aus Reihen der BVB-Fans.",
+     "link": "https://www.dw.com/de/felix-nmecha-bvb-fans-fordern-distanzierung-von-religiösem-netzwerk/a-79897268?maca=de-rss-de-all-1119-xml-mrss",
+     "image": "https://static.dw.com/image/79897252_302.jpg",
+     "aggregator": false,
+     "published": "2026-11-09T11:02:00+00:00"
+    },
+    {
+     "source": "n-tv",
+     "region": "DE",
+     "weight": 0.8,
+     "title": "Eskalation oder Kronen-Verzicht?: Die versteckte Bibel-Botschaft des Felix Nmecha",
+     "summary": "Felix Nmecha ordnet seinen umstrittenen Kronen-Jubel auf Instagram wachsweich ein, setzt zugleich aber ein subtiles Zeichen. Während der BVB von Nmecha fordert, die Geste zu unterlassen, stellt sich eine Frage: Wie reagieren Jürgen Klopp und der DFB?",
+     "link": "https://www.n-tv.de/sport/fussball/Die-versteckte-Bibel-Botschaft-des-Felix-Nmecha-id31521649.html",
+     "image": "https://www.n-tv.de/img/31521640/1794403915/Img_4_3/250/image.jpg",
+     "aggregator": false,
+     "published": "2026-11-11T12:55:47+00:00"
+    }
+   ]
+  },
+  {
+   "id": 20,
+   "score": 8.78,
+   "outlets": [
+    "tagesschau",
+    "Deutschlandfunk"
+   ],
+   "regions": [
+    "DE"
+   ],
+   "trend": [],
+   "newest": "2026-11-11T15:33:13+00:00",
+   "articles": [
+    {
+     "source": "tagesschau",
+     "region": "DE",
+     "weight": 1.0,
+     "title": "Nach Vorwürfen - Boris Palmer verzichtet auf öffentliche Auftritte",
+     "summary": "Gegen Tübingens Oberbürgermeister Palmer wird wegen des Vorwurfs der sexuellen Belästigung ermittelt. Nun zieht er sich vorerst aus der Öffentlichkeit zurück. Auch ein Ehrenamt lässt er auf Wunsch des Ministerpräsidenten ruhen.",
+     "link": "https://www.tagesschau.de/inland/regional/badenwuerttemberg/tuebinger-ob-boris-palmer-rueckzug-100.html",
+     "image": "https://images.tagesschau.de/image/1f5930ac-bcb5-486c-a660-8ee34704b1d2/AAABoctNUSU/AAABnSSvrFg/16x9-big/swr-boris-palmer-verzichtet-vorerst-auf-oeffentliche-auftritte-als-tuebinger-ob-100.jpg?width=1920",
+     "aggregator": false,
+     "published": "2026-11-11T14:15:00+00:00"
+    },
+    {
+     "source": "Deutschlandfunk",
+     "region": "DE",
+     "weight": 0.95,
+     "title": "Tübingen - Oberbürgermeister Palmer verzichtet vorerst auf öffentliche Auftritte",
+     "summary": "Angesichts von Vorwürfen sexueller Belästigung nimmt Tübingens Oberbürgermeister Palmer bis auf weiteres keinerlei öffentliche Termine wahr.",
+     "link": "https://www.deutschlandfunk.de/oberbuergermeister-palmer-verzichtet-vorerst-auf-oeffentliche-auftritte-100.html",
+     "image": "https://bilder.deutschlandfunk.de/9b/e0/3e/c1/9be03ec1-63f1-43cd-a8c6-7b10060416b3/oberbuergermeister-robert-palmer-100-1920x1920.jpg",
+     "aggregator": false,
+     "published": "2026-11-11T15:33:13+00:00"
+    }
+   ]
+  },
+  {
+   "id": 21,
+   "score": 8.76,
+   "outlets": [
+    "ZEIT ONLINE",
+    "Handelsblatt"
+   ],
+   "regions": [
+    "DE"
+   ],
+   "trend": [],
+   "newest": "2026-11-11T15:48:01+00:00",
+   "articles": [
+    {
+     "source": "ZEIT ONLINE",
+     "region": "DE",
+     "weight": 0.9,
+     "title": "Versorgungssicherheit: Söder und Özdemir fordern mehr neue Kraftwerke im Süden",
+     "summary": "",
+     "link": "https://www.zeit.de/news/2026-11/11/berlin-konkretisiert-regeln-fuer-dunkelflauten-kraftwerke",
+     "image": "https://img.zeit.de/news/2026-11/11/berlin-konkretisiert-regeln-fuer-dunkelflauten-kraftwerke-image-group/original__640x360",
+     "aggregator": false,
+     "published": "2026-11-11T15:48:01+00:00"
+    },
+    {
+     "source": "Handelsblatt",
+     "region": "DE",
+     "weight": 0.9,
+     "title": "Versorgungssicherheit: Söder und Özdemir fordern mehr neue Kraftwerke im Süden",
+     "summary": "Bayern und Baden-Württemberg halten die Ergebnisse der ersten Kraftwerks-Ausschreibung für unzureichend. Warum Söder und Özdemir jetzt Änderungen an den Regeln verlangen.",
+     "link": "https://www.handelsblatt.com/politik/deutschland/versorgungssicherheit-soeder-und-oezdemir-fordern-mehr-neue-kraftwerke-im-sueden/100269052.html",
+     "image": "https://images.handelsblatt.com/yvAgc23iXauZ/cover/900/506/0/0/0/0/0.5/0.5/kraftwerk-jaenschwalde.jpg",
+     "aggregator": false,
+     "published": "2026-11-11T15:31:14+00:00"
+    }
+   ]
+  },
+  {
+   "id": 22,
+   "score": 8.73,
+   "outlets": [
+    "tagesschau",
+    "SPIEGEL"
+   ],
+   "regions": [
+    "DE"
+   ],
+   "trend": [],
+   "newest": "2026-11-11T15:24:38+00:00",
+   "articles": [
+    {
+     "source": "tagesschau",
+     "region": "DE",
+     "weight": 1.0,
+     "title": "Finanzminister Klingbeil will Steuerklassen für Ehepaare ändern",
+     "summary": "Finanzminister Klingbeil will Steuerklassen für Ehepaare ändern",
+     "link": "https://www.tagesschau.de/video/video-1681998.html",
+     "image": "https://images.tagesschau.de/image/41d34792-ee92-44d8-b97e-cc98771734a5/AAABocrjVnU/AAABnSSvrFg/16x9-big/sendungsbild-1825954.jpg?width=1920",
+     "aggregator": false,
+     "published": "2026-11-11T13:54:22+00:00"
+    },
+    {
+     "source": "tagesschau",
+     "region": "DE",
+     "weight": 1.0,
+     "title": "Vorstoß des Finanzministeriums: Was sich bei Steuerklassen für Paare ändern könnte",
+     "summary": "Finanzminister Klingbeil erwägt, die von Paaren genutzten Steuerklassen III und V abzuschaffen. Das Ministerium möchte dadurch Bürokratie abbauen - aber ist das Vorhaben so einfach umsetzbar? Welche Folgen hätte ein Abschaffung?",
+     "link": "https://www.tagesschau.de/inland/steuerklassen-klingbeil-100.html",
+     "image": "https://images.tagesschau.de/image/fa9b4f4b-bcfc-4d87-b11d-7865b1963427/AAABocquy3U/AAABnSSvrFg/16x9-big/lars-klingbeil-240.jpg?width=1920",
+     "aggregator": false,
+     "published": "2026-11-11T15:24:38+00:00"
+    },
+    {
+     "source": "tagesschau Inland",
+     "region": "DE",
+     "weight": 1.0,
+     "title": "Vorstoß des Finanzministeriums: Was sich bei Steuerklassen für Paare ändern könnte",
+     "summary": "Finanzminister Klingbeil erwägt, die von Paaren genutzten Steuerklassen III und V abzuschaffen. Das Ministerium möchte dadurch Bürokratie abbauen - aber ist das Vorhaben so einfach umsetzbar? Welche Folgen hätte ein Abschaffung?",
+     "link": "https://www.tagesschau.de/inland/steuerklassen-klingbeil-100.html",
+     "image": "https://images.tagesschau.de/image/fa9b4f4b-bcfc-4d87-b11d-7865b1963427/AAABocquy3U/AAABnSSvrFg/16x9-big/lars-klingbeil-240.jpg?width=1920",
+     "aggregator": false,
+     "published": "2026-11-11T15:24:38+00:00"
+    },
+    {
+     "source": "SPIEGEL",
+     "region": "DE",
+     "weight": 0.9,
+     "title": "Steuern: Ende der Steuerklassen III und V – was würde das bedeuten?",
+     "summary": "Finanzminister Lars Klingbeil will das Steuersystem vereinfachen – auch das für Paare. In der Union stößt er damit auf Widerstand. Würde es für die Steuerzahler teurer?",
+     "link": "https://www.spiegel.de/wirtschaft/service/steuern-ende-der-steuerklassen-iii-und-v-was-wuerde-das-bedeuten-a-d47c216b-b9a2-4af3-8854-fd60150d7302#ref=rss",
+     "image": "https://cdn.prod.www.spiegel.de/images/dbf6774a-06c2-420c-b2cf-194c51b36890_w520_r2.08_fpx48_fpy40.jpg",
+     "aggregator": false,
+     "published": "2026-11-11T15:18:00+00:00"
+    }
+   ]
+  },
+  {
+   "id": 23,
+   "score": 8.58,
+   "outlets": [
+    "Deutschlandfunk",
+    "Handelsblatt"
+   ],
+   "regions": [
+    "DE"
+   ],
+   "trend": [],
+   "newest": "2026-11-11T15:33:13+00:00",
+   "articles": [
+    {
+     "source": "Deutschlandfunk",
+     "region": "DE",
+     "weight": 0.95,
+     "title": "Metall- und Elektroindustrie - IG-Metall plant im Tarifkonflikt ganztägige Warnstreiks",
+     "summary": "Im Tarifkonflikt der Metall- und Elektroindustrie erhöht die IG Metall den Druck auf die Arbeitgeber.",
+     "link": "https://www.deutschlandfunk.de/ig-metall-plant-im-tarifkonflikt-ganztaegige-warnstreiks-100.html",
+     "image": "https://bilder.deutschlandfunk.de/f4/f6/de/96/f4f6de96-91c2-4f8b-a383-43934b2d02d1/ig-metall-streiks-100-1920x1920.jpg",
+     "aggregator": false,
+     "published": "2026-11-11T15:33:13+00:00"
+    },
+    {
+     "source": "Handelsblatt",
+     "region": "DE",
+     "weight": 0.9,
+     "title": "Tarifkonflikt Metallindustrie: Bezirke der IG Metall wollen ganztägige Warnstreiks",
+     "summary": "Im Tarifkonflikt der Metall- und Elektroindustrie bereitet die IG Metall ganztägige Warnstreiks vor. Die seltene Eskalationsstufe soll Bewegung in die Verhandlungen bringen – was dafür nötig ist.",
+     "link": "https://www.handelsblatt.com/politik/deutschland/tarifkonflikt-metallindustrie-bezirke-der-ig-metall-wollen-ganztaegige-warnstreiks/100269133.html",
+     "image": "https://images.handelsblatt.com/It30TA0Kx3F3/cover/900/506/0/0/194/193/0.5/0.5/gewerkschaft-ig-metall.jpg",
+     "aggregator": false,
+     "published": "2026-11-11T14:10:50+00:00"
+    }
+   ]
+  },
+  {
+   "id": 24,
+   "score": 8.56,
+   "outlets": [
+    "Handelsblatt",
+    "WirtschaftsWoche"
+   ],
+   "regions": [
+    "DE"
+   ],
+   "trend": [
+    "Ölpreise fangen sich nach dem Rückschlag - das steckt dahinter"
+   ],
+   "newest": "2026-11-11T14:36:00+00:00",
+   "articles": [
+    {
+     "source": "Handelsblatt",
+     "region": "DE",
+     "weight": 0.9,
+     "title": "Volkswagen: VW stoppt Projekt „Gamechanger“: Was wirklich dahinter steckt",
+     "summary": "Der Autokonzern verzichtet aus Kostengründen auf das geplante Großgusszentrum in Wolfsburg. Die Einsparungen stehen offenbar in Zusammenhang mit Audis Milliardeninvestition in den USA.",
+     "link": "https://www.handelsblatt.com/unternehmen/industrie/volkswagen-vw-stoppt-projekt-gamechanger-was-wirklich-dahintersteckt/100269104.html",
+     "image": "https://images.handelsblatt.com/QkDfqbkwq8jI/cover/900/506/0/74/219/36/0.5/0.5/volkswagen.jpg",
+     "aggregator": false,
+     "published": "2026-11-11T14:34:39+00:00"
+    },
+    {
+     "source": "WirtschaftsWoche",
+     "region": "DE",
+     "weight": 0.85,
+     "title": "Volkswagen: VW stoppt Produktionsprojekt „Gamechanger“",
+     "summary": "Volkswagen stoppt das Produktionsprojekt „Gamechanger“ und verzichtet auf das Großgusszentrum in Wolfsburg. Der Betriebsrat spricht von Tarifbruch.",
+     "link": "https://www.wiwo.de/unternehmen/auto/vw-stoppt-gamechanger-aus-fuer-grossguss-empoert-betriebsrat/100269111.html",
+     "image": "https://images.wiwo.de/ISl2Eq17GCKf/cover/900/506/6/42/0/0/0.5/0.5/dpatopbilder-29.10.2026-niedersachsen-wolfsburg-blick-auf-das-volkswagen-stammwerk-mit-dem-mark.jpg",
+     "aggregator": false,
+     "published": "2026-11-11T14:36:00+00:00"
+    }
+   ]
+  },
+  {
+   "id": 25,
+   "score": 8.38,
+   "outlets": [
+    "tagesschau",
+    "Deutschlandfunk"
+   ],
+   "regions": [
+    "DE",
+    "INT"
+   ],
+   "trend": [],
+   "newest": "2026-11-11T15:33:13+00:00",
+   "articles": [
+    {
+     "source": "tagesschau",
+     "region": "DE",
+     "weight": 1.0,
+     "title": "Papst Leo in Argentinien: Klartext gegen Mileis Kettensägen-Politik",
+     "summary": "Papst Leo XIV. ist in Argentinien von Millionen Menschen gefeiert worden. Bei seinem Besuch kritisierte er die Sozialpolitik von Präsident Milei deutlich. Aber erreicht die Botschaft auch den Empfänger? Von T. Kleinjung.",
+     "link": "https://www.tagesschau.de/ausland/amerika/papst-argentinien-milei-100.html",
+     "image": "https://images.tagesschau.de/image/247f2c44-c272-4230-911e-d186afb8ddee/AAABockvycw/AAABnSSvrFg/16x9-big/cordoba-papst-102.jpg?width=1920",
+     "aggregator": false,
+     "published": "2026-11-11T05:54:38+00:00"
+    },
+    {
+     "source": "tagesschau Ausland",
+     "region": "INT",
+     "weight": 1.0,
+     "title": "Papst Leo in Argentinien: Klartext gegen Mileis Kettensägen-Politik",
+     "summary": "Papst Leo XIV. ist in Argentinien von Millionen Menschen gefeiert worden. Bei seinem Besuch kritisierte er die Sozialpolitik von Präsident Milei deutlich. Aber erreicht die Botschaft auch den Empfänger? Von T. Kleinjung.",
+     "link": "https://www.tagesschau.de/ausland/amerika/papst-argentinien-milei-100.html",
+     "image": "https://images.tagesschau.de/image/247f2c44-c272-4230-911e-d186afb8ddee/AAABockvycw/AAABnSSvrFg/16x9-big/cordoba-papst-102.jpg?width=1920",
+     "aggregator": false,
+     "published": "2026-11-11T05:54:38+00:00"
+    },
+    {
+     "source": "tagesschau Ausland",
+     "region": "INT",
+     "weight": 1.0,
+     "title": "Buenos Aires: Papst Leo XIV. feiert Messe vor zwei Millionen Menschen",
+     "summary": "Argentinien ist im \"Papa-León-Fieber\": An einem gigantischen Freiluft-Gottesdienst nahmen gut zwei Millionen Menschen teil. Leo XIV. würdigte dabei die Bedeutung der Familie und plädierte für den Schutz der Schwachen.",
+     "link": "https://www.tagesschau.de/ausland/amerika/papst-leo-argentinien-100.html",
+     "image": "https://images.tagesschau.de/image/66cc38c8-763c-447b-8cf8-ad9a272272b5/AAABocGpaq0/AAABnSSvrFg/16x9-big/papst-leo-230.jpg?width=1920",
+     "aggregator": false,
+     "published": "2026-11-09T19:34:13+00:00"
+    },
+    {
+     "source": "Deutschlandfunk",
+     "region": "DE",
+     "weight": 0.95,
+     "title": "Basilika von Luján - Mehr als zwei Millionen Menschen feiern Papst-Messe in Argentinien",
+     "summary": "Papst Leo XIV. hat zum Abschluss seines Besuchs in Argentinien eine Freiluftmesse mit mehr als zwei Millionen Menschen gefeiert.",
+     "link": "https://www.deutschlandfunk.de/mehr-als-zwei-millionen-menschen-feiern-papst-messe-in-argentinien-100.html",
+     "image": "https://bilder.deutschlandfunk.de/c8/8c/65/85/c88c6585-1f49-4582-8c6e-b2b010b0faba/papst-leo-argentinien-100-1920x1920.jpg",
+     "aggregator": false,
+     "published": "2026-11-11T15:33:13+00:00"
+    }
+   ]
+  },
+  {
+   "id": 26,
+   "score": 7.98,
+   "outlets": [
+    "Deutschlandfunk",
+    "heise online"
+   ],
+   "regions": [
+    "DE"
+   ],
+   "trend": [],
+   "newest": "2026-11-11T15:33:13+00:00",
+   "articles": [
+    {
+     "source": "Deutschlandfunk",
+     "region": "DE",
+     "weight": 0.95,
+     "title": "Cyberkriminalität - Erneut Hackerangriff auf Uni: Tausende Datensätze an Universität Tübingen betroffen",
+     "summary": "Unbekannte haben einen Cyberangriff auf die Universität Tübingen verübt. Wie die Hochschule mitteilte, wurden rund 3.900 Datensätze Beschäftigter abgegriffen.",
+     "link": "https://www.deutschlandfunk.de/erneut-hackerangriff-auf-uni-tausende-datensaetze-an-universitaet-tuebingen-betroffen-100.html",
+     "image": "https://bilder.deutschlandfunk.de/56/2b/ff/6f/562bff6f-4765-43f3-8dca-4e22864474a7/universitaet-tuebingen-102-1920x1920.jpg",
+     "aggregator": false,
+     "published": "2026-11-11T15:33:13+00:00"
+    },
+    {
+     "source": "heise online",
+     "region": "DE",
+     "weight": 0.85,
+     "title": "IT-Vorfall an Uni Tübingen: Tausende Datensätze abgeflossen",
+     "summary": "Bei einem Cyberangriff haben die Täter Tausende Datensätze von der Universität Tübingen abgegriffen. Betroffen sind Mitarbeiter.",
+     "link": "https://www.heise.de/news/IT-Vorfall-an-Uni-Tuebingen-Tausende-Datensaetze-abgeflossen-11520090.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
+     "image": null,
+     "aggregator": false,
+     "published": "2026-11-11T06:03:00+00:00"
+    }
+   ]
+  },
+  {
+   "id": 27,
+   "score": 7.87,
+   "outlets": [
+    "ZDFheute",
+    "n-tv",
+    "rbb24.de"
+   ],
+   "regions": [
+    "DE"
+   ],
+   "trend": [],
+   "newest": "2026-11-11T14:55:53+00:00",
+   "articles": [
+    {
+     "source": "ZDFheute",
+     "region": "DE",
+     "weight": 1.0,
+     "title": "Tatverdächtiger im Fall Lisa gestorben",
+     "summary": "Nach dem Tod der 13-jährigen Lisa ist der Tatverdächtige seinen Verletzungen erlegen. Er hatte laut Polizei versucht, sich selbst zu erschießen.",
+     "link": "https://www.zdfheute.de/panorama/kriminalitaet/schuelerin-berlin-lisa-verdaechtiger-tot-100.html",
+     "image": "https://www.zdfheute.de/assets/fall-lisa-tatort-bad-freienwalde-100~384x216?cb=1794389441664",
+     "aggregator": false,
+     "published": "2026-11-11T10:32:00+00:00"
+    },
+    {
+     "source": "n-tv",
+     "region": "DE",
+     "weight": 0.8,
+     "title": "Täter lag auf Intensivstation: 13-Jährige aus Berlin getötet: Verdächtiger im Fall Lisa T. ist tot",
+     "summary": "Der Fall der aus Berlin nach Brandenburg verschleppten 13-jährigen Lisa T. erschüttert das Land. Der Tatverdächtige, der die Teenagerin aller Voraussicht nach auch ermordet hat, ist infolge einer Selbstverletzung gestorben.",
+     "link": "https://www.n-tv.de/panorama/13-Jaehrige-aus-Berlin-getoetet-Verdaechtiger-im-Fall-Lisa-T-ist-tot-id31520206.html",
+     "image": "https://www.n-tv.de/img/31521338/1794400920/Img_4_3/250/632279518.jpg",
+     "aggregator": false,
+     "published": "2026-11-11T08:56:12+00:00"
+    },
+    {
+     "source": "rbb24.de",
+     "region": "DE",
+     "weight": 0.6,
+     "title": "22-jähriger Tatverdächtiger im Fall Lisa T. im Krankenhaus gestorben",
+     "summary": "22-jähriger Tatverdächtiger im Fall Lisa T. im Krankenhaus gestorben rbb24.de Fall Lisa T. Tatverdächtiger verstorben – jetzt werden nur noch die Todesumstände des Mädchens ermittelt Tagesspiegel (S+) Lisa T.: Warum konnten Ermittler den mutmaßlichen Mörder nicht stoppen? Spiegel Schülerin (13) verschleppt und ermordet: Lisas mutmaßlicher Killer ist tot BILD Fall Lisa: Tatverdächtiger im Fall von getöteter Schülerin gestorben DIE ZEIT",
+     "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOY0JVWEFWTnF1UTVJMVZkbTc0R3NXdThCeUVZUGZsb1lNX3ZhU0VTRi1RTGJLeHgzck9OV1RTSy1NYnZieDh0OW93WDkzMlIwakxaSWVfVDRGQ1QxbFZ1MGh4Nm1iOWp6T0hsd01HMWtKbG5GR2FXbE9KSDN6T1F1RDl1UW53eFJRRnpyb1RiY0h4emJnOHpxRERMcWI5S05DY2NHbHNvMzVmSGs2YTNYZDZiMVF3YnRl?oc=5",
+     "image": null,
+     "aggregator": true,
+     "published": "2026-11-11T14:55:53+00:00"
+    }
+   ]
+  }
+ ]
+}
