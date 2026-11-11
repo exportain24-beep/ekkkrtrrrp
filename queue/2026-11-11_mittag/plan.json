@@ -1,0 +1,25 @@
+{
+  "format": "single",
+  "candidate_id": 9,
+  "pillar": "POLITIK",
+  "region": "DE",
+  "kicker": "BUNDESWEHR",
+  "hook_screen": "SOLDATINNEN BELÄSTIGT!",
+  "hook_voice": "Pistorius: Tausende Soldatinnen berichten von sexueller Belästigung.",
+  "beats": [
+    {"voice": "Verteidigungsminister Boris Pistorius ließ die Truppe anonym befragen. Die Ergebnisse zeigen laut Spiegel ein systemisches Problem.", "big": "ANONYM", "label": "Dunkelfeldstudie in der Bundeswehr"},
+    {"voice": "Pistorius stellt die Studie heute vor. Seine Linie ist klar: null Toleranz bei sexualisiertem Fehlverhalten.", "big": "0 TOLERANZ", "label": "Pistorius' Linie bei Fehlverhalten"},
+    {"voice": "Den Grünen reicht das nicht. Sie fordern eine Meldestelle für Betroffene – außerhalb der Truppe.", "big": "MELDESTELLE", "label": "Grüne: unabhängig von der Truppe"}
+  ],
+  "loop_line": "Reicht null Toleranz – oder brauchen Soldatinnen endlich eine Stelle außerhalb der Truppe?",
+  "headline": "Pistorius: Soldatinnen belästigt",
+  "highlight": ["Soldatinnen"],
+  "entities": ["Boris Pistorius", "Bundeswehr", "Bundesministerium der Verteidigung", "Bündnis 90/Die Grünen"],
+  "youtube_title": "Pistorius-Studie: Tausende Soldatinnen belästigt – was nun?",
+  "description_lead": "Eine anonyme Dunkelfeldstudie im Auftrag von Verteidigungsminister Boris Pistorius zeigt das Ausmaß sexueller Belästigung in der Bundeswehr – Tausende Soldatinnen berichten davon. Pistorius verspricht null Toleranz, die Grünen fordern eine Meldestelle außerhalb der Truppe.",
+  "tags": ["Boris Pistorius", "Bundeswehr", "Soldatinnen", "Verteidigungsministerium", "Grüne", "Dunkelfeldstudie", "sexuelle Belästigung", "Meldestelle", "Frauen in der Bundeswehr", "Verteidigung", "Bundespolitik", "nachrichten", "nachrichten aktuell"],
+  "hashtags": ["#bundeswehr", "#pistorius", "#nachrichten"],
+  "facebook_caption_line1": "Studie erschüttert die Bundeswehr: Tausende Soldatinnen berichten von Belästigung",
+  "facebook_question": "Wie sollte die Bundeswehr Betroffene künftig besser schützen?",
+  "comment_question": "Braucht die Bundeswehr eine Meldestelle außerhalb der Truppe – ja oder nein?"
+}
