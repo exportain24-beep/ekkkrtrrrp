@@ -59,7 +59,7 @@ jobs:
       - name: Buffer draft test
         if: github.event.inputs.buffer_test == 'true'
         run: |
-          sudo apt-get update -qq && sudo apt-get install -y -qq ffmpeg > /dev/null
+          bash tools/install_ffmpeg.sh
           python -m eilblick buffer-test
         continue-on-error: true
       - name: Buffer delete posts

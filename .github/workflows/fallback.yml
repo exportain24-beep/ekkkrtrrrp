@@ -65,7 +65,8 @@ jobs:
           fi
       - name: Install ffmpeg
         if: steps.plan.outputs.queue != ''
-        run: sudo apt-get update -qq && sudo apt-get install -y -qq ffmpeg > /dev/null
+        timeout-minutes: 15
+        run: bash tools/install_ffmpeg.sh
       - name: Build & publish
         if: steps.plan.outputs.queue != ''
         run: python -m eilblick run --queue ${{ steps.plan.outputs.queue }}
