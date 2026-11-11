@@ -227,17 +227,40 @@ def fetch_all(verbose: bool = True) -> tuple[list[Article], dict]:
     return arts, status
 
 
+TREND_VOLUME: dict[str, int] = {}
+
+# owner rule 11 Nov 2026: the most popular AND most controversial / talked-about German news first.
+CONTROVERSY = ("streit", "skandal", "rücktritt", "kritik", "vorwurf", "vorwürfe", "eklat", "empörung", "wut", "protest",
+               "verbot", "verbietet", "ermittl", "festnahme", "festgenommen", "razzia", "anklage", "urteil", "prozess",
+               "affäre", "lüge", "streik", "warnstreik", "krise", "koalition", "misstrauen", "abschiebung", "bürgergeld",
+               "rente", "steuer", "preis", "teurer", "inflation", "heizung", "migration", "grenze", "afd", "verfassungsschutz",
+               "spionage", "hacker", "anschlag", "terror", "bundeswehr", "wehrpflicht", "kriegs", "putin", "trump")
+PROMINENT = ("merz", "klingbeil", "söder", "weidel", "chrupalla", "wagenknecht", "habeck", "baerbock", "pistorius",
+             "dobrindt", "reiche", "bas", "scholz", "steinmeier", "trump", "putin", "selenskyj", "musk", "von der leyen",
+             "orbán", "macron", "papst", "aiwanger", "lindner", "linnemann", "spahn")
+
+
 def fetch_trends() -> list[str]:
     url = sources().get("trends_feed")
     if not url:
         return []
     try:
         root = ET.fromstring(fetch(url))
-        terms = [clean(_text(i.find("title"))) for i in root.findall(".//item")]
+        terms = []
         for i in root.findall(".//item"):
+            # owner rule 11 Nov: weight by real search volume ("200.000+") – the biggest searches lead the list
+            traffic = clean(_text(i.find("ht:approx_traffic", NS))).replace(".", "").replace(",", "").rstrip("+")
+            vol = int(traffic) if traffic.isdigit() else 0
+            t = clean(_text(i.find("title")))
+            if t:
+                terms.append((t, vol))
             for n in i.findall("ht:news_item/ht:news_item_title", NS):
-                terms.append(clean(_text(n)))
-        return [t for t in terms if t]
+                if clean(_text(n)):
+                    terms.append((clean(_text(n)), vol))
+        terms.sort(key=lambda x: -x[1])
+        TREND_VOLUME.clear()
+        TREND_VOLUME.update({t: v for t, v in terms})
+        return [t for t, _ in terms]
     except Exception as e:
         print("  trends unavailable:", e)
         return []
@@ -284,10 +307,18 @@ def rank(stories: list[Story], trends: list[str], max_age_h: float, blocked: lis
                       (len(tt) == 1 or len(tt & s.lead.tokens) >= 2)]
         regional = bool(s.regions & {"DE", "AT", "CH", "EU"})
         s.trend_hits = trend_hits[:3]
+        import math
+        vol = max([TREND_VOLUME.get(t, 0) for t in trend_hits] or [0])
+        trend_pts = min(len(trend_hits), 3) * 1.5 + (math.log10(vol) - 3 if vol >= 2000 else 0.0)   # 10K→+1, 100K→+2, 1M→+3
+        lead_text = (s.lead.title + " " + s.lead.summary).lower()
+        controversy = min(sum(1 for w in CONTROVERSY if w in lead_text), 3) * 0.5
+        prominent = min(sum(1 for w in PROMINENT if w in lead_text), 2) * 0.6
         s.score = (
             outlet_score * 2.0
             + min(agg, 4) * 0.6
-            + min(len(trend_hits), 2) * 1.5
+            + trend_pts                         # Google Trends DE: matches + real search volume
+            + controversy                       # conflict / everyday-life impact words
+            + prominent                         # known names people search for
             + max(0.0, 3.0 - age_h / 3)        # freshness
             + (1.0 if regional else 0.0)
         )

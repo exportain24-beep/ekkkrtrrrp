@@ -149,10 +149,15 @@ Data: single-story Shorts get the most views/hour in DACH news (own FOKUS + comp
    (ad-unfriendly on YouTube/Facebook) – choose another story or a calmer angle with official/political photos.
    For war/conflict only the political level (decisions, talks, consequences for Europe).
 7. Skip anything in `already_published` unless there is a clearly new development (then say what is new).
-8. **Popularity decides – no fixed topics (owner rule, 7 Nov 2026).** Work like a real news channel: cover the
-   most popular, most-discussed news right now (highest `score` = most outlets reporting it + Google-Trends match +
-   freshness). `slot.focus` is only a tie-breaker between equally hot stories – never pick a weaker story just
-   because it fits the focus, and never force a topic.
+8. **Popularity decides – no fixed topics (owner rule, 7 + 11 Nov 2026).** Always take THE most popular,
+   most-talked-about German news of the moment – the top story that everyone in Germany is discussing, including
+   controversial ones. `score` = outlets reporting it + Google Trends DE (matches and real search volume) + controversy /
+   everyday-impact words + well-known names + freshness. Rules: (a) start with the highest `score` and go down only for
+   a real reason (already covered in the last 24 h, blocked, not verifiable by ≥2 outlets); (b) between close scores,
+   prefer the story with the bigger debate (Streit, Rücktritt, Skandal, Verbot, Steuer/Rente/Preise, AfD/Union/SPD
+   conflicts, Bundeswehr/Sicherheit) and the one `state/growth/brief.md` shows as hot on YouTube right now;
+   (c) DACH relevance beats foreign news of the same size. Controversial ≠ one-sided: report the conflict and both sides
+   neutrally, never take a side, never invent outrage. `slot.focus` is only a tie-breaker. Never force a topic.
 9. Words: `voice` 17–24 words each, total ≤ 100 words (→ 40–50 s video). Numbers written as spoken
    ("achtundvierzig Prozent", "zwei Komma fünf Milliarden Euro").
 
