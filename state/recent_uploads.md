@@ -1,32 +1,47 @@
-# recent_uploads.md – 2026-11-08 18:01 UTC
+# recent_uploads.md – 2026-11-11 15:28 UTC
 
-- YT ZhSmM5Hin3o 2026-11-08T17:30:28Z (known) Markus Wolf: Russlands Geheimdienst ehrt DDR-Spionagechef!
-- YT HPdlo4SyT1c 2026-11-08T16:57:10Z (known) Ukraine-Gespräche ab Dienstag: Frankreich soll Europa vertreten
-- YT YUxu7k_7M7s 2026-11-08T15:30:25Z (known) Selenskyj in Berlin: Merz verspricht Hilfe – und fordert Europa
-- YT BfSa3mtPCyw 2026-11-08T13:30:06Z (known) Ukraine: 600.000 Menschen ohne Strom – droht jetzt auch Kyjiw? ⚡
-- YT HFNlsxXifjo 2026-11-08T11:00:39Z (known) Paraguay: Erst abgesetzt, jetzt in U-Haft – Ex-Präsident Peña
-- YT _PBZ736EEvk 2026-11-08T09:00:39Z (known) Trump zweifelt Wahl an: Justiz soll gegen Demokraten ermitteln
-- YT gEgLFCLVN9s 2026-11-08T07:30:11Z (known) Dana White: Trump will den UFC-Chef als Sprecher im Weißen Haus 🥊
-- YT 8p_Yiqga4Y8 2026-11-08T06:00:27Z (known) Eisenkot soll Israel regieren: Endet jetzt die Ära Netanjahu?
-- YT Eh_d3u8YqeM 2026-11-07T21:00:03Z (known) Eishockey-WM 2027 in Gefahr: Bund sagt Nein zu Russland 🏒
-- YT NHRH0zu_ZUM 2026-11-07T19:45:18Z (known) Supermarkt-Hacks: Warum sich jetzt Geheimdienste einschalten 🛒
-- YT 09zLyq7zmP0 2026-11-07T17:30:29Z (known) Hackerangriff auf Tajani: Italiens Außenminister im Darknet 🚨
-- YT dZvEIMdGt0I 2026-11-07T15:30:20Z (known) Reza Pahlavi in Frankfurt: Warum Tausende für Iran demonstrieren
-- YT bYUXHLYi7Y8 2026-11-07T11:00:08Z (known) Linke gegen eigene Abgeordnete: Muss Vanessa Emde jetzt gehen?
-- YT Uhv5-SsDUbs 2026-11-07T07:30:29Z (known) Pflegeversicherung in Not: Bund muss im November erneut zahlen 💶
-- YT bKzi-XswILY 2026-11-07T06:00:01Z (known) Ilse Aigner: Union setzt auf die erste Bundespräsidentin 🇩🇪
-- FB 2174007663198380 2026-11-08T15:58:28+0000 '🚨 Moskau ehrt DDR-Spionagechef Markus Wolf mit einer Gedenktafel\nWie b'
-- FB 1078895545184895 2026-11-08T13:58:55+0000 '🚨 Selenskyj in Berlin erwartet – Merz verspricht der Ukraine mehr Hilf'
-- FB 1453432426203554 2026-11-08T12:02:29+0000 '🚨 Mehr als 600.000 Menschen in der Ostukraine ohne Strom – auch Kyjiw '
-- FB 3246755318858097 2026-11-08T09:28:14+0000 '🚨 Erst abgesetzt, jetzt in Untersuchungshaft: Paraguays Ex-Präsident P'
-- FB 4563350120578391 2026-11-08T07:36:06+0000 '🚨 Trump zweifelt Wahlsieg der Demokraten an und droht mit Ermittlungen'
-- FB 1485367576990585 2026-11-08T05:58:32+0000 '🚨 Trump will UFC-Chef Dana White als Sprecher des Weißen Hauses\nWie be'
-- FB 1122231820711802 2026-11-08T04:29:12+0000 '🚨 Israel: Netanjahu-Rivale Gadi Eisenkot soll die neue Regierung bilde'
-- FB 1112908458124369 2026-11-07T19:33:13+0000 '🚨 Heim-WM auf der Kippe: Bundesregierung lehnt Eishockey-WM mit Russla'
-- FB 29067659146184160 2026-11-07T18:18:47+0000 '🚨 Cyberangriffe auf Supermarkt-Kühlregale: Geheimdienste schalten sich'
-- FB 1784795932603577 2026-11-07T15:58:21+0000 '🚨 Cyberangriff auf Italiens Außenminister: Private Daten von Tajani un'
-- FB 1138127358757311 2026-11-07T14:00:01+0000 '🚨 Reza Pahlavi in Frankfurt: Freiheitspreis für Irans Volk – Tausende '
-- FB 1599456431406790 2026-11-07T09:29:53+0000 '🚨 Berliner Linke fordert Vanessa Emde zum Mandatsverzicht auf\nWie soll'
-- FB 1654715066288261 2026-11-07T06:02:57+0000 '🚨 Pflegeversicherung in Not: Der Bund muss im November erneut Geld nac'
-- FB 2224611605145561 2026-11-07T04:29:21+0000 '🚨 Ilse Aigner soll erste Bundespräsidentin werden – auch die CDU legt '
-- FB 1445851947719262 2026-11-06T19:27:48+0000 '🚨 EIL: Über 400.000 Beschäftigte im Warnstreik – IG Metall droht vor V'
+- YT aGsqzFGzGcw 2026-11-11T15:26:45Z (known) Italien räumt 300 Schulen: Wer steckt hinter den Drohmails?
+    privacy=public upload=processed kids=False embeddable=True rating={} region={} views=0
+- YT nD3jEBaM77o 2026-11-11T13:30:33Z (known) Boris Palmer sagt alle Auftritte ab: Wie lange noch?
+    privacy=public upload=processed kids=False embeddable=True rating={} region={} views=8
+- YT pWQmaAfb7DY 2026-11-11T11:00:03Z (known) Pistorius-Studie: Tausende Soldatinnen belästigt – was nun?
+    privacy=public upload=processed kids=False embeddable=True rating={} region={} views=12
+- YT Co7Er77RFhc 2026-11-11T09:00:05Z (known) Habeck: „Die Trump-Regierung hat die Ukraine verraten“
+    privacy=public upload=processed kids=False embeddable=True rating={} region={} views=356
+- YT 057VhkOAvmU 2026-11-11T06:00:11Z (known) Bundeswehr verbannt China-Autos: Angst vor Spionage
+    privacy=public upload=processed kids=False embeddable=True rating={} region={} views=17
+- YT Q9D8pK1H3Kg 2026-11-11T05:15:04Z (known) Linke will Vanessa Emde rauswerfen: Reicht die Mehrheit?
+    privacy=public upload=processed kids=False embeddable=True rating={} region={} views=58
+- YT Fb4hGpvbY9A 2026-11-10T19:45:08Z (known) Der Tag in 45 Sekunden: Erste Einigung bei Ukraine-Gesprächen?
+    privacy=public upload=processed kids=False embeddable=True rating={} region={} views=4
+- YT NjK1C-YdxJo 2026-11-10T18:30:32Z (known) Iran unter Verdacht: Wer hackt Europas Supermarkt-Kühlregale?
+    privacy=public upload=processed kids=False embeddable=True rating={} region={} views=79
+- YT KMKySNlRpAQ 2026-11-10T17:30:02Z (known) Klingbeil will Steuerklasse III kippen: Weniger Netto für Paare?
+    privacy=public upload=processed kids=False embeddable=True rating={} region={} views=221
+- YT 5-6Rv-uPPkc 2026-11-10T15:30:38Z (known) Ukraine-Gespräche in Abu Dhabi: Wird ohne Europa entschieden?
+    privacy=public upload=processed kids=False embeddable=True rating={} region={} views=259
+- YT uW0RbJkqwPA 2026-11-10T13:30:35Z (known) Fall Fabian: Lebenslang für Gina H. – reichen Indizien für Mord?
+    privacy=public upload=processed kids=False embeddable=True rating={} region={} views=1239
+- YT DZQNVvhUElA 2026-11-10T12:15:29Z (known) Nmechas Kronen-Jubel: Muss der BVB-Star jetzt damit aufhören?
+    privacy=public upload=processed kids=False embeddable=True rating={} region={} views=368
+- YT hYlQlB5bER0 2026-11-10T11:00:32Z (known) Milliardärssteuer gekippt: Haben die Superreichen gesiegt?
+    privacy=public upload=processed kids=False embeddable=True rating={} region={} views=48
+- YT m_fcWwq4Uv8 2026-11-10T09:00:06Z (known) Patricia Schlesinger vor Gericht: Hat sie sich strafbar gemacht?
+    privacy=public upload=processed kids=False embeddable=True rating={} region={} views=190
+- YT NoYyUPGXkUE 2026-11-10T07:30:06Z (known) Merz droht EU mit Haushalts-Blockade: Zahlen jetzt alle?
+    privacy=public upload=processed kids=False embeddable=True rating={} region={} views=1027
+- FB 1977220203663679 2026-11-11T15:26:38+0000 '🚨 Drohmail-Welle: Italien räumt mehr als 300 Schulen – auch Nordirland'
+- FB 1863214701778375 2026-11-11T12:03:33+0000 '🚨 Boris Palmer zieht sich zurück: Tübingens OB sagt vorerst alle öffen'
+- FB 1808391986913467 2026-11-11T09:33:52+0000 '🚨 Studie erschüttert die Bundeswehr: Tausende Soldatinnen berichten vo'
+- FB 1144229364719376 2026-11-11T07:31:53+0000 '🚨 „Verraten“: Robert Habeck rechnet mit Trumps Ukraine-Politik ab\nWie '
+- FB 1378661090808034 2026-11-11T04:29:50+0000 '🚨 Bundeswehr verbannt chinesische Autos und Drohnen aus den Kasernen\nI'
+- FB 1026461473825147 2026-11-11T03:44:49+0000 '🚨 Rauswurf droht: Berliner Linke will Vanessa Emde aus der Fraktion au'
+- FB 3534019633443597 2026-11-10T18:15:21+0000 '🚨 Der Tag in 45 Sekunden: Erste Einigung bei den Ukraine-Gesprächen in'
+- FB 2937647773255095 2026-11-10T16:57:44+0000 '🚨 Iran unter Verdacht: Frankreich sieht Revolutionsgarden hinter Super'
+- FB 2163348201240559 2026-11-10T16:04:03+0000 '🚨 Klingbeil will Steuerklassen III und V abschaffen – Millionen Ehepaa'
+- FB 2365175554325399 2026-11-10T14:00:15+0000 '🚨 Ukraine-Gespräche in Abu Dhabi: Moskau und Kiew verhandeln wieder di'
+- FB 1518698560290995 2026-11-10T11:58:20+0000 '🚨 Urteil im Fall Fabian: Lebenslange Haft für Gina H.\nWie bewerten Sie'
+- FB 1136719845758641 2026-11-10T10:50:34+0000 '🚨 Ärger um Torjubel: BVB-Star Felix Nmecha spricht von Missverständnis'
+- FB 982702554423923 2026-11-10T09:27:10+0000 '🚨 Kalifornien stimmt gegen Milliardärssteuer – Superreiche setzen sich'
+- FB 4013010515508204 2026-11-10T07:33:22+0000 '🚨 Prozessauftakt in Berlin: Ex-rbb-Intendantin Patricia Schlesinger st'
+- FB 1500313141954795 2026-11-10T06:03:18+0000 '🚨 Merz droht mit Blockade des EU-Haushalts – alle EU-Staaten sollen fü'
