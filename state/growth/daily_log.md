@@ -33,3 +33,13 @@
 - vidIQ-Watch „Trumps Kehrtwende“: Hook startet mit „Erst gratuliert“, Satz 2 = alte Lage, nur 4 Fotos; Deutsch/Hochdeutsch fehlerfrei.
 - 2026-11-11 05:41 Berlin · Brief A · Credits 5.555 (−35) · Abos 18 · Views 29.381 · Videos 61
 - 2026-11-11 13:41 Berlin · Brief A · Credits 5.525 (−30) · Abos 19 · Views 34.724 · Videos 65
+
+## 2026-11-11 (vidIQ: 8 Calls, 40 Credits, Rest ≈ 5.480)
+- YT-Analytics bis 9. Nov: 9. Nov 5.158 Views / 2.186 engaged (42 %) / +1 Abo / −0 · 8. Nov 7.721 / 3.260 (42 %) / +3.
+- Öffentliche Zähler je Upload-Tag: 9. Nov 5.333 (12 Videos) · 10. Nov 3.953 (11) · 11. Nov ≈ 1.100 (8, < 17 h).
+- Beste: Fall Fabian 1.437 YT + 7.259 FB · Trump „andere Form“ 1.106 · Merz/EU 1.036 · 11. Nov Habeck 569 (44 VPH), Italien 301 (50 VPH).
+- Schlechteste: Tag in 45 s 6 + 7 · Bundeswehr/China-Autos 21 · Prien 34 · Pistorius 40 · Palmer 53 · Emde-Wiederholung 75.
+- Engaged 9. Nov: Person-Hook Ø 47 % (6) vs. Ort/Sache Ø 36 % (5). 4er seit 9. Nov abends 4/4 < 40 Views → Growth rule 22 + Validator.
+- Retention 8. Nov: Abfall Sek. 4–5 in 3/4 Kurven (Selenskyj, Wolf, Trump-4er), Enden 0,27–0,33; Konfliktverb-Regel → rule 23.
+- FB 11. Nov: vor 10 UTC 5/5/2 Plays, ab 11 UTC 219/287 · FB 17:30 UTC 3/3 ≥ 398.
+- vidIQ-Watch Fb4hGpvbY9A: 2 s Titelkarte mit Datum, Hook-Wiederholung, TV-Standbild, Deutsch fehlerfrei.

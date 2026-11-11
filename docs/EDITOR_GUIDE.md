@@ -131,6 +131,21 @@ Data: single-story Shorts get the most views/hour in DACH news (own FOKUS + comp
    Orbán 3,691) – belong in the slots from 12:00 Berlin; morning slots get German federal politics with Merz/Union, which
    wins on YouTube (Merz/EU 840 YT at 07:30 UTC, 3 of 3 Merz Shorts ≥ 684 YT).
 
+22. **Headline editions (4er) are dying – 4 of 4 since 9 Nov evening got 6–38 views** (Tag in 45 s 7 + 6, morgen 38 + 21;
+   on 8 Nov they still had 785–1,090). vidIQ watch of the 10 Nov "Tag in 45 Sekunden": 2 s static intro card with date,
+   hook "… offenbar erste Einigung" then story 1 starts again with "Abu Dhabi: … offenbar mit erster Einigung" (repeat),
+   3 of 4 lead stories were repeats of the same day (Nvidia, Ukraine talks). So (validator checks the first two):
+   `hook_voice` without filler – never "die Schlagzeilen am …", "der Tag in fünfundvierzig Sekunden", greeting;
+   story 1's first sentence = the newest fact, never the hook again; story 1 = a topic not covered in the last 24 h and
+   the strongest *fresh* story of the day (never the evening rerun of the morning FOKUS).
+23. **Name first is necessary, not sufficient – the verb must carry a conflict (11 Nov, 8 hooks all name-first):**
+   winners use a conflict/verdict verb about a national figure: „Habeck: … hat die Ukraine verraten“ 569 in 13 h,
+   „Merz droht der EU …“ 1,036, „Lebenslange Haft im Fall Fabian“ 1,437, „Trump stimmt die Ukraine auf Gebietsverluste ein“
+   1,106. Announcement verbs flop: „… sagt alle Termine ab“ 53, „… will … streichen“ 34, „… verbannt …“ 21,
+   „… berichten von …“ 40. Engaged/views 9 Nov: person-first hooks Ø 47 % (6 videos) vs. place/thing-first Ø 36 % (5).
+   ✓ „Habeck wirft Trump Verrat vor.“ ✓ „Merz droht Brüssel.“ ✗ „Palmer sagt Termine ab.“ – find the conflict in the sources
+   (who attacks whom, who loses what), never invent one.
+
 ## Thumbnail = first impression (the system renders it from your fields)
 - Story 1 must be the strongest story **with good photos** (it provides the thumbnail photo and the hook).
 - `hook_text`: 2–4 words, the keyword first, a concrete fact that creates curiosity but is true
@@ -198,7 +213,7 @@ Re-read your draft as the final editor ("Schlussredakteur"):
     }
   ],
   "hook_text": "Rentenpaket beschlossen",
-  "hook_voice": "Rentenpaket beschlossen – die Schlagzeilen am Morgen.",
+  "hook_voice": "Bundestag beschließt Rentenpaket – Niveau bleibt.",
   "youtube_title": "Rentenpaket beschlossen: Was sich jetzt für Millionen ändert",
   "description_lead": "…",
   "tags": ["Bundestag", "Rentenpaket", "…"],

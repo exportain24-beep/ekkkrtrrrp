@@ -159,6 +159,13 @@ def validate(plan: dict, n_candidates: int) -> list[str]:
         errs.append("hook_voice: max 8 words (must be spoken within ~1.5 seconds)")
     if not (8 <= len(plan.get("tags", [])) <= 20):
         errs.append("tags: give 12–15")
+    # growth 11 Nov night: 4 of 4 headline editions since 9 Nov evening got 6–38 views; vidIQ watch of
+    # Fb4hGpvbY9A: 2 s of static intro + filler words ("der Tag in …", "die Schlagzeilen …") + beat 1 repeating the hook
+    if re.search(r"schlagzeilen|der tag in|eilblick|guten (morgen|abend)", hv, re.I):
+        errs.append("hook_voice: no filler ('die Schlagzeilen …', 'der Tag in fünfundvierzig Sekunden', greeting) – "
+                    "all ≤ 8 words = Name + Verb + Fakt of story 1")
+    if st and hv and len(_tokens(hv) & _tokens(st[0].get("voice", ""))) >= 3:
+        errs.append("story 1 voice repeats the hook – its first sentence must bring the most surprising NEW fact")
     errs += style_errors([plan.get("hook_voice", "")] + [x.get("voice", "") for x in st])
     return errs + repeat_errors(plan)
 
