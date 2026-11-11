@@ -1,0 +1,26 @@
+{
+  "format": "single",
+  "candidate_id": 2,
+  "pillar": "WELT",
+  "region": "EU",
+  "kicker": "ITALIEN",
+  "hook_screen": "300 SCHULEN GERÄUMT!",
+  "hook_voice": "Italien räumt über dreihundert Schulen nach Bombendrohungen.",
+  "beats": [
+    {"voice": "Sechstausenddreihundert Schulen bekamen laut Bildungsminister eine Drohmail. Mehr als dreihundert wurden geräumt, die Schüler sind in Sicherheit.", "big": "6.300", "label": "Schulen bekamen eine Drohmail"},
+    {"voice": "Ministerpräsidentin Giorgia Meloni gibt Entwarnung: Es handle sich wohl um einen Cyberangriff. Sie hat eine Sitzung der Regierung angekündigt.", "big": "Cyberangriff", "label": "Meloni gibt Entwarnung"},
+    {"voice": "Nordirland und Schottland melden ähnliche Drohmails an Schulen. Zuvor traf eine solche Welle schon Flugzeuge und Medienhäuser.", "big": "3 Länder", "label": "Drohwelle erreicht auch Großbritannien"},
+    {"voice": "Die Behörden gehen von Falschmeldungen aus und ermitteln. Wer dahintersteckt, ist bisher unklar.", "big": "Absender?", "label": "Ermittlungen laufen"}
+  ],
+  "loop_line": "Die große Frage bleibt: Wer legt Europas Schulen lahm?",
+  "headline": "Drohmails: Italien räumt 300 Schulen",
+  "highlight": ["Italien"],
+  "entities": ["Giorgia Meloni", "Italien", "Schule", "Rom"],
+  "youtube_title": "Italien räumt 300 Schulen: Wer steckt hinter den Drohmails?",
+  "description_lead": "Italien hat nach Bombendrohungen per E-Mail mehr als 300 Schulen geräumt, rund 6.300 Schulen erhielten Drohmails – Ministerpräsidentin Giorgia Meloni spricht von einem mutmaßlichen Cyberangriff. Auch Nordirland und Schottland melden ähnliche Drohungen, wer dahintersteckt, ist unklar.",
+  "tags": ["Italien", "Giorgia Meloni", "Bombendrohung", "Schulen evakuiert", "Drohmails", "Cyberangriff", "Nordirland", "Schottland", "Europa", "hybride Bedrohung", "nachrichten", "nachrichten aktuell", "Sicherheit"],
+  "hashtags": ["#italien", "#bombendrohung", "#meloni"],
+  "facebook_caption_line1": "Drohmail-Welle: Italien räumt mehr als 300 Schulen – auch Nordirland und Schottland betroffen",
+  "facebook_question": "Sollte Europa auf solche Drohwellen gemeinsam reagieren?",
+  "comment_question": "Würden Sie Ihr Kind nach so einer Drohung am nächsten Tag zur Schule schicken – ja oder nein?"
+}
