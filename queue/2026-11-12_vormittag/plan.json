@@ -1,0 +1,26 @@
+{
+  "format": "single",
+  "candidate_id": 10,
+  "pillar": "WELT",
+  "region": "CH",
+  "kicker": "FIFA",
+  "hook_screen": "BLATTER: „DIKTATOR“!",
+  "hook_voice": "Blatter nennt Infantino einen Diktator.",
+  "beats": [
+    {"voice": "Der frühere Fifa-Präsident Sepp Blatter wirft seinem Nachfolger Gianni Infantino vor, gegen die Statuten des Weltverbands verstoßen zu haben.", "big": "STATUTEN", "label": "Infantino soll Fifa-Regeln gebrochen haben"},
+    {"voice": "Blatter greift genau eine Woche vor Ablauf der Bewerbungsfrist für das Fifa-Präsidium an.", "big": "7 TAGE", "label": "bis zum Ende der Bewerbungsfrist"},
+    {"voice": "Er erzählt sogar, wie er mit Infantino Wein getrunken und Käse gegessen hat.", "big": "WEIN & KÄSE", "label": "Blatter über alte Treffen mit Infantino"},
+    {"voice": "Sein Urteil ist vernichtend: Infantino sei unberührbar.", "big": "UNBERÜHRBAR", "label": "Blatters Urteil über den Fifa-Chef"}
+  ],
+  "loop_line": "Ob Infantino einen Herausforderer bekommt, entscheidet sich in sieben Tagen.",
+  "headline": "Blatter nennt Infantino Diktator",
+  "highlight": ["Blatter"],
+  "entities": ["Sepp Blatter", "Gianni Infantino", "FIFA"],
+  "youtube_title": "Blatter über Infantino: „Er ist ein Diktator, unberührbar“",
+  "description_lead": "Der frühere Fifa-Präsident Sepp Blatter nennt seinen Nachfolger Gianni Infantino einen „Diktator“ und wirft ihm Verstöße gegen die Statuten des Weltverbands vor. Die Attacke kommt eine Woche vor Ablauf der Bewerbungsfrist für das Fifa-Präsidium.",
+  "tags": ["Sepp Blatter", "Gianni Infantino", "FIFA", "Fifa-Präsident", "Fifa-Wahl", "Weltfußball", "Fußball", "Schweiz", "Zürich", "Statuten", "Diktator", "Sport", "nachrichten", "nachrichten aktuell"],
+  "hashtags": ["#fifa", "#infantino", "#blatter"],
+  "facebook_caption_line1": "„Er ist ein Diktator“: Sepp Blatter rechnet mit Fifa-Chef Infantino ab",
+  "facebook_question": "Braucht die Fifa einen Neuanfang an der Spitze?",
+  "comment_question": "Hat Blatter recht mit seiner Kritik an Infantino – ja oder nein?"
+}
