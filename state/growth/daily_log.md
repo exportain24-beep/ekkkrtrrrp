@@ -44,3 +44,4 @@
 - FB 11. Nov: vor 10 UTC 5/5/2 Plays, ab 11 UTC 219/287 · FB 17:30 UTC 3/3 ≥ 398.
 - vidIQ-Watch Fb4hGpvbY9A: 2 s Titelkarte mit Datum, Hook-Wiederholung, TV-Standbild, Deutsch fehlerfrei.
 - 2026-11-12 05:41 Berlin · Growth-Brief A · Credits 5.440 · Abos 20 · Views 36.356 · Videos 69
+- 2026-11-12 13:42 Berlin · Growth-Brief A · Credits 5.410 · Abos 22 · Views 38.340 · Videos 72

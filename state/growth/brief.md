@@ -1,43 +1,43 @@
-# Growth-Brief – Do 12. Nov 2026, 05:41 Berlin (vidIQ, 35 Credits, Rest 5.440)
+# Growth-Brief – Do 12. Nov 2026, 13:42 Berlin (vidIQ, 30 Credits, Rest 5.410)
 
 ## Eilblick
-- **20 Abos (+1 seit 11. Nov 13:41) · 36.356 Views (+1.632) · 69 Videos.** 7 Tage: +6 Abos, +19.855 Views, 37 Videos.
-  Tageszuwachs Views: 9. Nov +7.461 · 10. Nov +2.384 · 11. Nov +6.975.
-- Letzte Uploads 11. Nov (Views · VPH): **Habeck „Die Trump-Regierung hat die Ukraine verraten" 705 · 37,1 (Breakout 4,7)** ·
-  Italien räumt 300 Schulen 340 · 26,2 · Emde 120 · 5,2 · Palmer 99 · 6,6 · Prien/Unterhaltsvorschuss 65 · 5,9 ·
-  Pistorius-Studie 58 · 3,4 · Bundeswehr/China-Autos 29 · 1,3 · **EU Abo-Fallen (18:30) 7 · 0,7 = schlechtester**.
-  Weiter vorn: Fall Fabian 1.534 · 39,2 · Merz/EU-Haushalts-Blockade 1.113 (Breakout 14,1).
-- Lektion: Der einzige Titel ohne Frage-Anhängsel mit wörtlichem Zitat (Habeck) gewinnt. 5 von 6 Titeln mit
-  Frage-Schwanz („– was nun?", „Wie lange noch?", „Setzt sich Brüssel durch?") blieben ≤ 120. → Aussage + Zitat, keine Schluss-Frage.
+- **22 Abos (+2 seit 05:41) · 38.340 Views (+1.984) · 72 Videos.** 7 Tage: +8 Abos, +21.839 Views, 40 Videos.
+- Letzte Uploads (Views · VPH): Iran droht US-Basen 1 (gerade online) · Blatter über Infantino 15 · 5,0 ·
+  Putin empfängt Kushner „Darf Europa jetzt mitverhandeln?" 35 · 5,8 · Huang „– wer übernimmt jetzt?" 36 · 5,1 ·
+  **EU Abo-Fallen „Setzt sich Brüssel durch?" 13 · 0,7 = schlechtester**.
+  **Bester: Habeck „Die Trump-Regierung hat die Ukraine verraten" 787 · 31,7 (Breakout 6,1)**; davor Fall Fabian 1.616 · 33,0 (8,2) ·
+  Merz/EU-Haushalts-Blockade 1.127 (12,8) · Italien 300 Schulen 347 · 16,5 (5,3).
+- Lektion: Heute früh wieder 2 von 3 mit Frage-Schwanz (Putin, Huang) bei 35–36 Views. Das Zitat allein reicht aber nicht
+  (Blatter 15): Gewinner = DACH-Bezug (Merz, Habeck, DE-Gericht) + Konfliktverb/Zitat. Ferne Personen ohne DE-Folge tragen nicht.
 
 ## Heißeste DACH-Themen in Shorts (seit 11. Nov, vidIQ)
-1. **Aufrüstung & Kosten** – „Richard David Precht warnt vor dem finanziellen Ruin durch Aufrüstung!" 202,6K, **14.595 VPH** (Kanal 47K) ·
-   Rieck „KI-Nation bis 2030? …" 85,8K, 4.690 VPH. Wehretat/Bundeswehr-Haushalt mit Euro-Zahl.
-2. **Wehrdienst** – :newstime „Immer mehr Kriegsdienstverweigerer in Deutschland" 20,3K, 1.596 VPH, 129 Komm. ·
-   „Was wäre, wenn Deutschland in 16 Armeen zerfällt?" 20K, 2.054 VPH (Kanal 925 Abos!).
-3. **Abgaben/LKW-Maut & Geld** – LACROIX „Wer das Geld einsammelt, sollte auch sehen, wer dafür zahlt" 213,7K, 11.816 VPH ·
-   „Mehr Geld ab 2027? Diese Änderungen …" 15K, 964 VPH · GKV/Privatkasse 20,9K, 1.348 VPH. Änderungen 2027 mit Euro-Betrag.
-4. **Klima / Greta Thunberg** – NIUS „Greta Thunberg lacht über Klima-Proteste in Deutschland" 54,3K, 5.557 VPH.
-5. **11.11. Karneval Köln** – „11.11. Ausnahmezustand in Köln" 62,1K, 4.787 VPH (Bilanz Polizei/Stadt, neutral).
-6. **Füllkrug bricht ZDF-Interview ab** – ZDFheute 878K, **26x Breakout**, 4,7K VPH. Sport-Eklat mit Zitat trägt weiter.
-7. **Fall Lisa (13), Berlin** – :newstime „13-Jährige aus Berlin getötet – Täter und Opfer kannten sich nicht" 33,4K, 20x ·
-   ntv 342K, 17x. Nur Ermittlungs-/Justizstand, keine Opfer-Details, keine Täter-Spekulation.
-8. **Siegmund / Wahl Ministerpräsident Sachsen-Anhalt** – „Siegmund macht ernst: Erster Wahlgang?" 7,9K, 521 VPH, 19,6 % Engagement ·
-   HeimatBlick 22K, 5,2x. Neutral: Termin, Mehrheiten, Fakten.
-   Weitere: Schüsse BW/Hamburg (WELT Netzreporter 20,5K, 1.361 VPH) · China-Abhängigkeit Autoindustrie (18,4K, 1.154 VPH) ·
-   Unfall Bad Sassendorf (650 VPH) · Russell Brand verurteilt (43,8K).
+1. **Abgaben / LKW-Maut – wer zahlt?** LACROIX „Wer das Geld einsammelt, sollte auch sehen, wer dafür zahlt" 232,8K, **9.249 VPH**, 582 Komm.
+2. **Katherina Reiche (Wirtschaftsministerin)** – Diskurspunkt „Katherina Reiche macht klar, WER ihre Priorität ist" 112,8K, 4.962 VPH,
+   **1.238 Kommentare** (Kanal 35,9K). Ministerinnen-Aussage mit Zitat = Debattenstoff.
+3. **Standort / KI / Autoindustrie** – Rieck „KI-Nation bis 2030? …" 93,6K, 3.695 VPH · Kettner „Ohne chinesische Hilfe bald kein Auto
+   mehr aus Deutschland" 24,6K, 1.112 VPH · NIUS „BMW: Gewinn bricht um mehr als ein Drittel ein" 23,6K, 2,2x.
+4. **Klima / Greta Thunberg** – NIUS „Greta Thunberg lacht über Klima-Proteste in Deutschland" 61,5K, 3.899 VPH.
+5. **11.11. Karneval Köln** – „11.11. Ausnahmezustand in Köln" 64,4K, 3.218 VPH (Bilanz Polizei/Stadt, neutral).
+6. **Wehrdienst** – :newstime „Immer mehr Kriegsdienstverweigerer in Deutschland" 26,7K, 1.432 VPH, 192 Komm. (24 s!).
+7. **Füllkrug bricht ZDF-Interview ab** – ZDFheute 908,3K, **26x Breakout**, 7,7K VPH. Sport-Eklat mit Zitat läuft weiter.
+8. **Fall Lisa (13), Berlin** – ntv „„Reiner Zufall": Wie die Polizei die getötete Lisa fand" 343,6K, 17x, 5,9K VPH ·
+   :newstime 34,1K, 20x. Nur Ermittlungs-/Justizstand, keine Opfer-Details, keine Täter-Spekulation.
+   Weitere: Geld ab 2027 „💶 Mehr Geld ab 2027? Diese Änderungen …" 19,5K, 897 VPH · GKV/Privatkasse 23,6K, 1.049 VPH ·
+   Siegmund/Sachsen-Anhalt „Siegmund macht ernst: Erster Wahlgang?" 8K, 448 VPH, 20 % Engagement (neutral: Termin, Mehrheiten).
 
 ## Gewinner-Titelmuster (echte Titel)
-- **Name + Warnverb + Folge:** „Richard David Precht warnt vor dem finanziellen Ruin durch Aufrüstung!" (14,6K VPH)
-- **Zitat + Name + Handlung:** „„Nee danke, ciao": Füllkrug bricht ZDF-Interview ab" (878K, 26x)
-- **Trend-Aussage mit Zahl/Gruppe:** „Immer mehr Kriegsdienstverweigerer in Deutschland" (1,6K VPH, 24 s)
-- Regel: erstes Wort = Name, starkes Verb, ≤ 60 Zeichen, Aussage statt Frage-Schwanz, nur verifizierte Zitate.
+- **Name + „macht klar" + Spannungswort:** „Katherina Reiche macht klar, WER ihre Priorität ist" (5,0K VPH, 1.238 Komm.)
+- **Zitat + Name + Handlung:** „„Nee danke, ciao": Füllkrug bricht ZDF-Interview ab" (908K, 26x)
+- **Trend-Aussage mit Gruppe:** „Immer mehr Kriegsdienstverweigerer in Deutschland" (1,4K VPH)
+- Firmen-Fakt mit Zahl: „BMW: Gewinn bricht um mehr als ein Drittel ein" (2,2x).
+- Regel: erstes Wort = Name, starkes Verb, ≤ 60 Zeichen, Aussage statt Frage-Schwanz, nur verifizierte Zitate, DACH-Bezug.
 
-## Keywords (DE-Suchvolumen, vidIQ 12. Nov)
-nachrichten 52.338 · nachrichten aktuell 28.816 · welt nachrichten 2.878 (übrige Werte vom Tool leer).
-Ältere Referenz (8. Nov): afd 95K · ukraine 65K · trump 63K · berlin 61K · politik 18K.
-Tags aus Top-Videos: politik · news · nachrichten · aktuell · bundeswehr · deutschland · tagesaktuell.
+## Keywords (DE-Suchvolumen, vidIQ 12. Nov 05:41 – in diesem Lauf nicht neu abgefragt)
+nachrichten 52.338 · nachrichten aktuell 28.816 · welt nachrichten 2.878. Referenz 8. Nov: afd 95K · ukraine 65K · trump 63K · politik 18K.
+Tags aus Top-Videos: politik · news · nachrichten · aktuell · tagesaktuell · wirtschaft.
 
 ## Hinweise
 - Neutral bleiben: NIUS/AfD-nahe Kanäle liefern VPH-Daten, nicht die Tonalität. Keine Herkunfts-Zuspitzung, keine Gerüchte, keine Gewaltbilder.
-- Migrations-Outlier („Notlage auf der Insel …") bewusst nicht übernommen (Herkunfts-Framing).
+- Bewusst nicht übernommen: „US Stützpunkte in DE vor Angriff" (Spekulation), Migrations-Outlier (Herkunfts-Framing), Gastarbeiter-/Palästina-Clips.
+- Konkurrenz-Outlier (7 Kanäle, diese Woche): nur 1 Treffer (Füllkrug) – eineminutenachrichten „Ein angeschossener Polizist schaltete den
+  Attentäter aus!" 344,4K, 10x (Keyword-Suche).
