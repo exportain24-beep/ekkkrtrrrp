@@ -1,0 +1,1669 @@
+{
+ "slot": {
+  "id": "mittag",
+  "format": "single",
+  "time": "12:00",
+  "label": "am Mittag",
+  "focus": "Nur Tie-Breaker – immer zuerst die populärsten, meistberichteten Nachrichten. Bei Gleichstand bevorzugt: Der eine meistberichtete Aufreger des Mittags – bevorzugt Wirtschaft, Preise, Jobs, Technologie mit Wirkung auf die Menschen in DACH.",
+  "pillars": [
+   "WIRTSCHAFT",
+   "TECHNOLOGIE",
+   "POLITIK",
+   "WELT"
+  ],
+  "notify_subscribers": true
+ },
+ "slot_time": "2026-11-12T12:00:00+01:00",
+ "date_text": "Donnerstag, 12. November 2026",
+ "already_published": [
+  "Kalifornien kippt Milliardärssteuer",
+  "Nmecha verteidigt umstrittenen Torjubel",
+  "Lebenslang im Fall Fabian",
+  "Ukraine-Gespräche ohne Europa?",
+  "Klingbeil will Steuerklasse III kippen",
+  "Iran unter Verdacht: Kühlregal-Hacks",
+  "Ukraine-Gespräche: Erste Einigung?",
+  "Steuerklassen III und V vor dem Aus",
+  "Nvidia-Affäre: Jetzt warnt Deutschland",
+  "Aigner sagt der AfD ab",
+  "Linke will Emde aus Fraktion werfen",
+  "Bundeswehr sperrt China-Autos aus",
+  "Hegseth: Amtsenthebung gescheitert",
+  "Ältere fehlen 31 Tage im Jahr krank",
+  "E-Auto-Prämie: Doppelt so viel Geld",
+  "Habeck wirft Trump Ukraine-Verrat vor",
+  "Pistorius: Soldatinnen belästigt",
+  "Palmer sagt alle Auftritte ab",
+  "Drohmails: Italien räumt 300 Schulen",
+  "Prien plant Grenze beim Vorschuss",
+  "EU will Abo-Fallen verbieten",
+  "Nvidia bereitet Huangs Rauswurf vor",
+  "Putin empfängt Trumps Unterhändler",
+  "VW stoppt Projekt Gamechanger",
+  "Ökonomen heben Wachstumsprognose an",
+  "Weißes Haus droht den Demokraten",
+  "Blatter nennt Infantino Diktator"
+ ],
+ "candidates": [
+  {
+   "id": 0,
+   "score": 21.74,
+   "outlets": [
+    "tagesschau Wirtschaft",
+    "ZDFheute",
+    "Deutsche Welle",
+    "ORF",
+    "NZZ",
+    "WirtschaftsWoche",
+    "heise online",
+    "DER STANDARD",
+    "Golem"
+   ],
+   "regions": [
+    "AT",
+    "CH",
+    "DE",
+    "INT"
+   ],
+   "trend": [],
+   "newest": "2026-11-12T09:13:11+00:00",
+   "articles": [
+    {
+     "source": "tagesschau Wirtschaft",
+     "region": "DE",
+     "weight": 1.0,
+     "title": "Affäre von Nvidia-Chef Huang: Darum geht es beim Spionage-Verdacht",
+     "summary": "Der US-Chipkonzern Nvidia ermittelt gegen seinen Chef Jensen Huang wegen einer Affäre mit einer mutmaßlichen chinesischen Spionin. Welche Vorwürfe konkret im Raum stehen - und welche Folgen sie haben könnten.",
+     "link": "https://www.tagesschau.de/wirtschaft/unternehmen/faq-nvidia-spionage-100.html",
+     "image": "https://images.tagesschau.de/image/9d4d98a9-ed98-4d6a-9f9c-bd1d9782eb0d/AAABocCr9uU/AAABnSSvrFg/16x9-big/nvidia-logo-102.jpg?width=1920",
+     "aggregator": false,
+     "published": "2026-11-09T13:58:03+00:00"
+    },
+    {
+     "source": "tagesschau Wirtschaft",
+     "region": "DE",
+     "weight": 1.0,
+     "title": "Untersuchung gegen Nvidia-Chef Huang wegen möglicher Spionin aus China",
+     "summary": "Der KI-Chip-Gigant Nvidia hat nach Berichten über einen Spionageverdacht eine Untersuchung gegen seinen Gründer und Konzernchef Jensen Huang eingeleitet. Er soll eine Affäre mit einer mutmaßlichen chinesischen Spionin gehabt haben.",
+     "link": "https://www.tagesschau.de/wirtschaft/unternehmen/nvidia-spionage-pruefung-100.html",
+     "image": "https://images.tagesschau.de/image/34f93b54-ef67-4531-97e6-4a40dc5724cc/AAABob68p7E/AAABnSSvrFg/16x9-big/nvidia-184.jpg?width=1920",
+     "aggregator": false,
+     "published": "2026-11-09T03:32:51+00:00"
+    },
+    {
+     "source": "ZDFheute",
+     "region": "DE",
+     "weight": 1.0,
+     "title": "Affäre von Nvidia-Chef: FBI ermittelt",
+     "summary": "Wegen der Affäre von Nvidia-Chef Jensen Huang mit einer möglichen chinesischen Spionin ermittelt laut US-Präsident Donald Trump nun auch das FBI.",
+     "link": "https://www.zdfheute.de/video/wirtschaft-nvidia-fbi-100.html",
+     "image": "https://www.zdfheute.de/assets/huang-archiv-100~384x216?cb=1794316422266",
+     "aggregator": false,
+     "published": "2026-11-10T15:45:00+00:00"
+    },
+    {
+     "source": "ZDFheute",
+     "region": "DE",
+     "weight": 1.0,
+     "title": "Nvidia-Aufsichtsrat berät offenbar über Absetzung von Huang",
+     "summary": "Wegen der Affäre mit einer möglichen chinesischen Spionin könnte dem Nvidia-Chef die Absetzung drohen. Laut US-Berichten berät der Aufsichtsrat über die Zukunft von Jensen Huang.",
+     "link": "https://www.zdfheute.de/wirtschaft/unternehmen/nvidia-bericht-chefwechsel-jensen-huang-100.html",
+     "image": "https://www.zdfheute.de/assets/jensen-huang-nvidia-106~384x216?cb=1794464652864",
+     "aggregator": false,
+     "published": "2026-11-12T06:23:00+00:00"
+    },
+    {
+     "source": "Deutsche Welle",
+     "region": "INT",
+     "weight": 0.95,
+     "title": "Die Affäre des Nvidia-Chefs und die Folgen",
+     "summary": "Nvidia-Chef Jensen Huang hat sich für eine Affäre mit einer Frau entschuldigt, die nach Einschätzung der USA für China spioniert hat. Wie weitreichend sind die Folgen für das wertvollste Unternehmen der Welt?",
+     "link": "https://www.dw.com/de/die-affäre-des-nvidia-chefs-und-die-folgen/a-79900932?maca=de-rss-de-all-1119-xml-mrss",
+     "image": "https://static.dw.com/image/75070893_302.jpg",
+     "aggregator": false,
+     "published": "2026-11-09T16:24:00+00:00"
+    },
+    {
+     "source": "Deutsche Welle",
+     "region": "INT",
+     "weight": 0.95,
+     "title": "Nvidia-Chef Huang wegen Spionageverdachts unter Druck",
+     "summary": "Eine außereheliche Beziehung bringt den Chef des KI-Chipgiganten Nvidia in Bedrängnis. Die Frau soll für China spioniert haben. Der Konzern untersucht die Vorwürfe, während US-Präsident Trump Huang den Rücken stärkt.",
+     "link": "https://www.dw.com/de/nvidia-chef-huang-wegen-spionageverdachts-unter-druck/a-79895905?maca=de-rss-de-all-1119-xml-mrss",
+     "image": "https://static.dw.com/image/79708793_302.jpg",
+     "aggregator": false,
+     "published": "2026-11-09T08:34:00+00:00"
+    },
+    {
+     "source": "ORF",
+     "region": "AT",
+     "weight": 0.95,
+     "title": "Druck auf Nvidia-Chef Huang steigt",
+     "summary": "Bei Nvidia könnte sich laut Medienberichten schon bald die Zukunft von Firmenchef Jensen Huang entscheiden. Der langjährige Chef des weltweit führenden Anbieters von Chips für künstliche Intelligenz (KI) geriet wegen einer außerehelichen Affäre mit einer mutmaßlichen chinesischen Spionin unter Druck. Medienberichten zufolge sei eine weitere Affäre aufgeflogen. Nun drohe Huang der Rauswurf, hieß es mit Verweis auf eine mit der Sache vertraute Person.",
+     "link": "https://orf.at/stories/3447950/",
+     "image": null,
+     "aggregator": false,
+     "published": "2026-11-12T07:47:06+00:00"
+    },
+    {
+     "source": "NZZ",
+     "region": "CH",
+     "weight": 0.9,
+     "title": "DIE NEUESTEN ENTWICKLUNGEN - Spionageaffäre bei Nvidia: Mutmassliche Spionin angeblich in Peking +++ Aktie verzeichnet weitere Kursverluste",
+     "summary": "Der Nvidia-Chef Jensen Huang hatte mutmasslich eine Affäre mit einer chinesischen Spionin. Das Chip-Unternehmen leitet eine Untersuchung ein, derweil machen Berichte über eine weitere Liaison mit einer Angestellten die Runde. Die neuesten Entwicklungen",
+     "link": "https://www.nzz.ch/wirtschaft/spionageaffaere-bei-nvidia-der-kurs-des-chip-unternehmens-bricht-ein-ld.10058640",
+     "image": "https://img-msp-prod.nzz.ch/2026/11/08/29548df6-42ba-463e-ba0b-d7d14aecb6b7.jpg?width=200&height=200&fit=bounds&quality=75&auto=webp&crop=5305,5305,x1327,y0",
+     "aggregator": false,
+     "published": "2026-11-12T09:13:11+00:00"
+    }
+   ]
+  },
+  {
+   "id": 1,
+   "score": 20.95,
+   "outlets": [
+    "tagesschau",
+    "ZDFheute",
+    "Deutschlandfunk",
+    "SRF News",
+    "SPIEGEL",
+    "Süddeutsche",
+    "NZZ",
+    "WELT",
+    "n-tv",
+    "DIE ZEIT"
+   ],
+   "regions": [
+    "CH",
+    "DE",
+    "INT"
+   ],
+   "trend": [],
+   "newest": "2026-11-12T09:14:42+00:00",
+   "articles": [
+    {
+     "source": "tagesschau",
+     "region": "DE",
+     "weight": 1.0,
+     "title": "Historischer Sieg in Mississippi: \"Hatte den Mut, an Mississippi zu glauben\"",
+     "summary": "Seit 145 Jahren zieht erstmals ein schwarzer Demokrat für Mississippi in den US-Senat. Im Wahlkampf setzte Scott Colom auf die Mobilisierung von Nicht-Wählern - und Gespräche mit Trump-Unterstützern. Von Sandra Ratzow.",
+     "link": "https://www.tagesschau.de/ausland/amerika/usa-mississippi-schwarzer-senator-100.html",
+     "image": "https://images.tagesschau.de/image/eea9ed05-44d7-4646-b3c8-aef07e8eea3f/AAABoc7SXJ0/AAABnSSvrFg/16x9-big/colom-102.jpg?width=1920",
+     "aggregator": false,
+     "published": "2026-11-12T04:37:34+00:00"
+    },
+    {
+     "source": "tagesschau",
+     "region": "DE",
+     "weight": 1.0,
+     "title": "Historischer Sieg: Demokrat Colom holt Senatssitz in Mississippi",
+     "summary": "Erstmals seit mehr als vier Jahrzehnten hat ein Demokrat im südlichen US-Bundesstaat Mississippi eine Wahl für den US-Senat gewonnen. Colom gelang ein überraschender Sieg - er weitet damit die Mehrheit im Senat ab Januar auf 55 der 100 Sitze aus.",
+     "link": "https://www.tagesschau.de/ausland/amerika/demokrat-mississippi-sieg-100.html",
+     "image": "https://images.tagesschau.de/image/d7e2a493-7016-4e0f-b525-04c1f1dc300f/AAABocztN-E/AAABnSSvrFg/16x9-big/colom-100.jpg?width=1920",
+     "aggregator": false,
+     "published": "2026-11-12T02:08:44+00:00"
+    },
+    {
+     "source": "tagesschau Ausland",
+     "region": "INT",
+     "weight": 1.0,
+     "title": "Historischer Sieg in Mississippi: \"Hatte den Mut, an Mississippi zu glauben\"",
+     "summary": "Seit 145 Jahren zieht erstmals ein schwarzer Demokrat für Mississippi in den US-Senat. Im Wahlkampf setzte Scott Colom auf die Mobilisierung von Nicht-Wählern - und Gespräche mit Trump-Unterstützern. Von Sandra Ratzow.",
+     "link": "https://www.tagesschau.de/ausland/amerika/usa-mississippi-schwarzer-senator-100.html",
+     "image": "https://images.tagesschau.de/image/eea9ed05-44d7-4646-b3c8-aef07e8eea3f/AAABoc7SXJ0/AAABnSSvrFg/16x9-big/colom-102.jpg?width=1920",
+     "aggregator": false,
+     "published": "2026-11-12T04:37:34+00:00"
+    },
+    {
+     "source": "tagesschau Ausland",
+     "region": "INT",
+     "weight": 1.0,
+     "title": "Historischer Sieg: Demokrat Colom holt Senatssitz in Mississippi",
+     "summary": "Erstmals seit mehr als vier Jahrzehnten hat ein Demokrat im südlichen US-Bundesstaat Mississippi eine Wahl für den US-Senat gewonnen. Colom gelang ein überraschender Sieg - er weitet damit die Mehrheit im Senat ab Januar auf 55 der 100 Sitze aus.",
+     "link": "https://www.tagesschau.de/ausland/amerika/demokrat-mississippi-sieg-100.html",
+     "image": "https://images.tagesschau.de/image/d7e2a493-7016-4e0f-b525-04c1f1dc300f/AAABocztN-E/AAABnSSvrFg/16x9-big/colom-100.jpg?width=1920",
+     "aggregator": false,
+     "published": "2026-11-12T02:08:44+00:00"
+    },
+    {
+     "source": "ZDFheute",
+     "region": "DE",
+     "weight": 1.0,
+     "title": "Erstmals seit 1982 gewinnt wieder Demokrat in Mississippi",
+     "summary": "Erstmals seit 1982 gewinnt ein Demokrat einen Sitz im US-Senat in Mississippi. Scott Colom ist zudem der erste schwarze Senator aus dem südlichen Bundesstaat seit den 1880er Jahren.",
+     "link": "https://www.zdfheute.de/politik/ausland/usa-mississippi-scott-colom-midterms-demokraten-senat-100.html",
+     "image": "https://www.zdfheute.de/assets/scott-colom-100~384x216?cb=1794461982549",
+     "aggregator": false,
+     "published": "2026-11-12T07:45:00+00:00"
+    },
+    {
+     "source": "Deutschlandfunk",
+     "region": "DE",
+     "weight": 0.95,
+     "title": "Erstmals seit 1982 - Demokrat Scott Colom holt laut Medien Senatssitz in Mississippi",
+     "summary": "Gut eine Woche nach den US-Zwischenwahlen zeichnet sich im besonders knappen Rennen in Mississippi ein weiterer Erfolg der Demokraten ab. Nach übereinstimmenden Medienberichten zieht ihr Kandidat Colom für den südlichen Bundesstaat in den Senat in Washington ein.",
+     "link": "https://www.deutschlandfunk.de/demokrat-scott-colom-holt-laut-medien-senatssitz-in-mississippi-102.html",
+     "image": "https://bilder.deutschlandfunk.de/99/9f/e3/ff/999fe3ff-76be-4097-9df9-aebf5a87cb9e/mississippi-colom-100-1920x1920.jpg",
+     "aggregator": false,
+     "published": "2026-11-12T08:23:36+00:00"
+    },
+    {
+     "source": "SRF News",
+     "region": "CH",
+     "weight": 0.95,
+     "title": "Midterms 2026 – Demokrat Scott Colom gewinnt Senatssitz in Mississippi",
+     "summary": "Erstmals seit mehr als vier Jahrzehnten hat ein Demokrat im Bundesstaat Mississippi eine Wahl für den US-Senat gewonnen.",
+     "link": "https://www.srf.ch/news/international/usa/midterms-2026-demokrat-scott-colom-gewinnt-senatssitz-in-mississippi",
+     "image": "https://www.srf.ch/static/cms/images//320ws/5f28b5.webp",
+     "aggregator": false,
+     "published": "2026-11-11T23:31:59+00:00"
+    },
+    {
+     "source": "SPIEGEL",
+     "region": "DE",
+     "weight": 0.9,
+     "title": "Mississippi und die Midterms: Wie Scott Colom trotz aller Widerstände siegte",
+     "summary": "Als erster Schwarzer seit 145 Jahren zieht der Demokrat Scott Colom für Mississippi in den US-Senat ein. Geschafft hat er das mit unermüdlichem Klinkenputzen, einem viralen Wahlkampfvideo – und der unfreiwilligen Hilfe von Donald Trump.",
+     "link": "https://www.spiegel.de/ausland/midterms-in-den-usa-mississippi-wie-scott-colom-trotz-aller-widerstaende-siegte-a-edaaf9b7-8649-49f9-ba5e-a4657d9f51cc#ref=rss",
+     "image": "https://cdn.prod.www.spiegel.de/images/b165cb11-873c-4aa3-99c7-13b82f0003f5_w520_r2.08_fpx70_fpy85.jpg",
+     "aggregator": false,
+     "published": "2026-11-12T03:57:00+00:00"
+    }
+   ]
+  },
+  {
+   "id": 2,
+   "score": 17.07,
+   "outlets": [
+    "Deutschlandfunk",
+    "ORF",
+    "SPIEGEL",
+    "DER STANDARD",
+    "WELT"
+   ],
+   "regions": [
+    "AT",
+    "DE"
+   ],
+   "trend": [
+    "botschafter",
+    "Russlands Botschafter in den USA ist plötzlich gestorben",
+    "Er war erst seit Anfang 2025 im Amt Russischer US-Botschafter Dartschiew „plötzlich” gestorben"
+   ],
+   "newest": "2026-11-12T08:23:36+00:00",
+   "articles": [
+    {
+     "source": "Deutschlandfunk",
+     "region": "DE",
+     "weight": 0.95,
+     "title": "Moskau - Russischer Botschafter in den USA gestorben",
+     "summary": "Der russische Botschafter in den USA, Alexander Dartschijew, ist tot.",
+     "link": "https://www.deutschlandfunk.de/russischer-botschafter-in-den-usa-gestorben-100.html",
+     "image": "https://bilder.deutschlandfunk.de/FI/LE/_8/fe/FILE_8feade0e08bfe0e44c796a4c85f130cc/5004225-jpg-100-768x768.jpg",
+     "aggregator": false,
+     "published": "2026-11-12T08:23:36+00:00"
+    },
+    {
+     "source": "ORF",
+     "region": "AT",
+     "weight": 0.95,
+     "title": "Russischer Botschafter in den USA gestorben",
+     "summary": "",
+     "link": "https://orf.at/stories/3447927/",
+     "image": null,
+     "aggregator": false,
+     "published": "2026-11-11T17:04:14+00:00"
+    },
+    {
+     "source": "SPIEGEL",
+     "region": "DE",
+     "weight": 0.9,
+     "title": "Russland-USA: Moskau meldet Tod des Botschafters in Washington",
+     "summary": "Den Krieg gegen die Ukraine nannte er eine »notwendige Maßnahme«. Bis zuletzt warb Alexander Dartschijew in den USA für Putins Kurs. Nun meldet die russische Regierung, der Botschafter sei an den Folgen einer chronischen Erkrankung gestorben.",
+     "link": "https://www.spiegel.de/ausland/russland-wladimir-putins-botschafter-in-den-usa-ploetzlich-verstorben-a-e4d615bc-3921-4ece-9e08-442bf3e9354a#ref=rss",
+     "image": "https://cdn.prod.www.spiegel.de/images/17a33ba2-bc53-4de3-80e3-aeffedc1fc32_w520_r2.08_fpx40.67_fpy45.jpg",
+     "aggregator": false,
+     "published": "2026-11-12T06:23:00+00:00"
+    },
+    {
+     "source": "DER STANDARD",
+     "region": "AT",
+     "weight": 0.85,
+     "title": "Russlands US-Botschafter Alexander Dartschijew verstorben",
+     "summary": "US-Präsident Donald Trump schickt seine Verhandler Jared Kushner und Steve Witkoff nach Moskau",
+     "link": "https://www.derstandard.at/jetzt/livebericht/3000000348603/ukraine-verhandlungen-gehen-weiter-f-deeskalation-im-energiebereich?ref=rss",
+     "image": "https://i.ds.at/gDpwXQ/rs:fill:150:0/plain/lido-images/2026/11/11/9f6a6a14-0089-46ce-acd3-27e9214cf582.jpg",
+     "aggregator": false,
+     "published": "2026-11-11T04:40:31+00:00"
+    },
+    {
+     "source": "WELT",
+     "region": "DE",
+     "weight": 0.8,
+     "title": "Russlands Botschafter in den USA ist plötzlich gestorben",
+     "summary": "Der russische Botschafter in den USA, Alexander Dartischijew, ist nach Angaben des Moskauer Außenministeriums tot. Der 66-Jährige sei in Moskau einer chronischen Krankheit erlegen, schrieb Ministeriumssprecherin Maria Sacharowa auf Telegram.",
+     "link": "https://www.welt.de/politik/ausland/video6af56a585596369bf0edc0b8/erfahrener-diplomat-russlands-botschafter-in-den-usa-ist-ploetzlich-gestorben.html",
+     "image": "https://images.welt.de/6af56a585596369bf0edc0b8/63cf9ad871b3d0f705793e96914aa84e/ci16x9-w1200/apdpa-8d0844fef4a64343a73009d9353fe33b-jpg",
+     "aggregator": false,
+     "published": "2026-11-12T07:44:53+00:00"
+    }
+   ]
+  },
+  {
+   "id": 3,
+   "score": 16.56,
+   "outlets": [
+    "tagesschau",
+    "SPIEGEL",
+    "WELT",
+    "n-tv",
+    "NDR.de"
+   ],
+   "regions": [
+    "DE"
+   ],
+   "trend": [
+    "Empelde: Auto fährt in Menschengruppe - drei Verletzte",
+    "Großeinsatz bei Hannover: Auto rast in Menschengruppe - Fahrer auf der Flucht",
+    "Ronnenberg: Unbekannter fährt mit Auto in Menschengruppe und verletzt drei Menschen"
+   ],
+   "newest": "2026-11-12T09:16:46+00:00",
+   "articles": [
+    {
+     "source": "tagesschau",
+     "region": "DE",
+     "weight": 1.0,
+     "title": "Auto fährt in Ronnenberg in Menschengruppe: Drei Verletzte",
+     "summary": "Offenbar war das Fahrzeug am Abend schnell auf eine Menschengruppe in der Region Hannover zugefahren. Es soll vor der Tat Streitigkeiten gegeben haben. Die Polizei sucht nach Auto und Fahrer.",
+     "link": "https://www.tagesschau.de/inland/regional/niedersachsen/empelde-auto-faehrt-in-menschengruppe-drei-verletzte,empelde-100.html",
+     "image": "https://images.ndr.de/image/4a76d79a-4a99-4d88-80ba-94d551acd25a/AAABoc74d0s/AAABnSSvrFg/16x9-big/empelde-112.jpg?width=1920",
+     "aggregator": false,
+     "published": "2026-11-12T09:16:46+00:00"
+    },
+    {
+     "source": "SPIEGEL",
+     "region": "DE",
+     "weight": 0.9,
+     "title": "Ronnenberg: Unbekannter fährt mit Auto in Menschengruppe und verletzt drei Menschen",
+     "summary": "Wohl mit überhöhter Geschwindigkeit ist eine Person mit ihrem Wagen in eine Menschengruppe gefahren. Einer der Getroffenen kam ins Krankenhaus. Erst kürzlich hatte es einen ähnlichen Vorfall gegeben.",
+     "link": "https://www.spiegel.de/panorama/justiz/ronnenberg-unbekannter-faehrt-mit-auto-in-menschengruppe-und-verletzt-drei-menschen-a-fedb2d24-5990-4e99-b076-fbbdb4ac4e16#ref=rss",
+     "image": "https://cdn.prod.www.spiegel.de/images/849d2426-8241-470d-aceb-3aa045148155_w520_r2.08_fpx72.6_fpy44.94.jpg",
+     "aggregator": false,
+     "published": "2026-11-12T07:55:00+00:00"
+    },
+    {
+     "source": "WELT",
+     "region": "DE",
+     "weight": 0.8,
+     "title": "Autofahrer rast in Menschengruppe und flüchtet – drei Verletzte",
+     "summary": "Drei Männer werden verletzt, als ein Autofahrer in Ronnenberg nahe Hannover in eine Menschengruppe fährt. Vorausgegangen sein sollen Streitigkeiten. Der Fahrer flüchtet.",
+     "link": "https://www.welt.de/vermischtes/kriminalitaet/article6af5581fc45061d752ba712d/niedersachsen-autofahrer-rast-in-menschengruppe-und-fluechtet-drei-verletzte.html",
+     "image": "https://images.welt.de/6af5581fc45061d752ba712d/7a3072a1506505e0577e09a450c9db20/ci23x11-w1200/dpa-com-261112-936-143829-jpg",
+     "aggregator": false,
+     "published": "2026-11-12T06:52:22+00:00"
+    },
+    {
+     "source": "n-tv",
+     "region": "DE",
+     "weight": 0.8,
+     "title": "Fahrer flüchtet : Auto fährt in Menschengruppe und verletzt drei Personen",
+     "summary": "Schon wieder fährt ein Fahrzeug in der Region Hannover in eine Gruppe von Menschen. Die Hintergründe sind noch unklar. Der Fahrer ist geflüchtet. Erst vor wenigen Wochen kam es zu einem ähnlichen Fall.",
+     "link": "https://www.n-tv.de/panorama/Auto-faehrt-in-Menschengruppe-und-verletzt-drei-Personen-id31524096.html",
+     "image": "https://www.n-tv.de/img/31524064/1794476966/Img_4_3/250/632460358.jpg",
+     "aggregator": false,
+     "published": "2026-11-12T09:07:55+00:00"
+    },
+    {
+     "source": "NDR.de",
+     "region": "DE",
+     "weight": 0.6,
+     "title": "Empelde: Auto fährt in Menschengruppe - drei Verletzte",
+     "summary": "Empelde: Auto fährt in Menschengruppe - drei Verletzte NDR.de Ronnenberg: Unbekannter fährt mit Auto in Menschengruppe und verletzt drei Menschen Spiegel Niedersachsen: Autofahrer rast in Menschengruppe und flüchtet – drei Verletzte WELT Fahrer flüchtet : Auto fährt in Menschengruppe und verletzt drei Personen n-tv.de Auto fährt in Menschengruppe - Polizei sucht Auto und Fahrer mit Großaufgebot tagesschau.de",
+     "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQS0RhUmNGVm14S1RxYmRhUlNONjVlanRfYTZYSzdYZWpLd2Y2R3FZd3daWmg4cG5feU5zTURxRlpRZy1EOURYWEdtc0cwNTZ0WUxSeGhEam54VXN4aDJTS2NrZDROdHQwWnFtRHZRcTdMVFU2Qk9TV0J0TnRFcU1wQ1lENm50RGNnQVlpTm92OGNwYlc5MVJqLU9TemJzTGJxN1pQbkxTT0NzOVhUZnpvMkU4QVNzcDl2QUY5RG9pVnRTMWJUcHVwTF9xN2NEOGdMeGZzWkxrNlk?oc=5",
+     "image": null,
+     "aggregator": true,
+     "published": "2026-11-12T06:42:00+00:00"
+    }
+   ]
+  },
+  {
+   "id": 4,
+   "score": 13.51,
+   "outlets": [
+    "tagesschau",
+    "ORF",
+    "SRF News",
+    "DER STANDARD",
+    "n-tv",
+    "tagesschau.de"
+   ],
+   "regions": [
+    "AT",
+    "CH",
+    "DE",
+    "INT"
+   ],
+   "trend": [],
+   "newest": "2026-11-12T08:49:17+00:00",
+   "articles": [
+    {
+     "source": "tagesschau",
+     "region": "DE",
+     "weight": 1.0,
+     "title": "Im Stadtteil Brooklyn: Tote und Verletzte nach Gebäudeeinsturz in New York",
+     "summary": "Beim Einsturz eines mehrstöckigen Gebäudes in New York sind mindestens zwei Menschen ums Leben gekommen. Mehrere weitere wurden unter den Trümmern eingeschlossen.",
+     "link": "https://www.tagesschau.de/ausland/amerika/new-york-gebaeude-einsturz-104.html",
+     "image": "https://images.tagesschau.de/image/c721bd53-d8e5-4717-8c8b-8e3e325892e3/AAABoc3GsAQ/AAABnSSvrFg/16x9-big/new-york-gebaeude-einsturz-100.jpg?width=1920",
+     "aggregator": false,
+     "published": "2026-11-12T03:34:55+00:00"
+    },
+    {
+     "source": "tagesschau Ausland",
+     "region": "INT",
+     "weight": 1.0,
+     "title": "Im Stadtteil Brooklyn: Tote und Verletzte nach Gebäudeeinsturz in New York",
+     "summary": "Beim Einsturz eines mehrstöckigen Gebäudes in New York sind mindestens zwei Menschen ums Leben gekommen. Mehrere weitere wurden unter den Trümmern eingeschlossen.",
+     "link": "https://www.tagesschau.de/ausland/amerika/new-york-gebaeude-einsturz-104.html",
+     "image": "https://images.tagesschau.de/image/c721bd53-d8e5-4717-8c8b-8e3e325892e3/AAABoc3GsAQ/AAABnSSvrFg/16x9-big/new-york-gebaeude-einsturz-100.jpg?width=1920",
+     "aggregator": false,
+     "published": "2026-11-12T03:34:55+00:00"
+    },
+    {
+     "source": "ORF",
+     "region": "AT",
+     "weight": 0.95,
+     "title": "Mindestens zwei Tote bei Hauseinsturz in New York",
+     "summary": "",
+     "link": "https://orf.at/stories/3447952/",
+     "image": null,
+     "aggregator": false,
+     "published": "2026-11-12T05:25:11+00:00"
+    },
+    {
+     "source": "SRF News",
+     "region": "CH",
+     "weight": 0.95,
+     "title": "Im Stadtteil Brooklyn – Zwei Tote und 17 Verletzte bei Hauseinsturz in New York",
+     "summary": "Nach Angaben der Feuerwehr sind auch Kinder unter den Verletzten. Die Rettungsaktion ist noch im Gang.",
+     "link": "https://www.srf.ch/news/international/im-stadtteil-brooklyn-zwei-tote-und-17-verletzte-bei-hauseinsturz-in-new-york",
+     "image": "https://www.srf.ch/static/cms/images//320ws/872678.webp",
+     "aggregator": false,
+     "published": "2026-11-12T06:05:03+00:00"
+    },
+    {
+     "source": "DER STANDARD",
+     "region": "AT",
+     "weight": 0.85,
+     "title": "Mindestens zwei Tote bei Hauseinsturz in New York",
+     "summary": "Ein mehrstöckiges Wohnhaus im Stadtteil Brooklyn stürzte ein. Neben den Toten gibt es 17 weitere Verletzte",
+     "link": "https://www.derstandard.at/story/3000000348826/mindestens-zwei-tote-bei-hauseinsturz-in-new-york?ref=rss",
+     "image": "https://i.ds.at/vea4CQ/rs:fill:150:0/plain/lido-images/2026/11/12/26fe820c-5b96-4e7e-8b63-4b126e80320c.jpg",
+     "aggregator": false,
+     "published": "2026-11-12T04:54:16+00:00"
+    },
+    {
+     "source": "n-tv",
+     "region": "DE",
+     "weight": 0.8,
+     "title": "Nahe Baugrube als Ursache?: Mindestens zwei Tote bei Hauseinsturz in New York",
+     "summary": "In New York kommt es zu einem \"verheerenden Einsturz\", wie Bürgermeister Mamdani erklärt. Ein Wohnhaus in Brooklyn stürzt teilweise in eine Baugrube, zwei Menschen sterben. Während Retter nach Verschütteten suchen, suchen Ermittler nach der Ursache.",
+     "link": "https://www.n-tv.de/panorama/Mindestens-zwei-Tote-bei-Hauseinsturz-in-New-York-id31523828.html",
+     "image": "https://www.n-tv.de/img/31523839/1794475926/Img_4_3/250/632447794.jpg",
+     "aggregator": false,
+     "published": "2026-11-12T08:49:17+00:00"
+    },
+    {
+     "source": "tagesschau.de",
+     "region": "DE",
+     "weight": 0.6,
+     "title": "Im Stadtteil Brooklyn: Tote und Verletzte nach Gebäudeeinsturz in New York",
+     "summary": "Im Stadtteil Brooklyn: Tote und Verletzte nach Gebäudeeinsturz in New York tagesschau.de Nahe Baugrube als Ursache?: Mindestens zwei Tote bei Hauseinsturz in New York n-tv.de USA: Zwei Menschen sterben bei Einsturz von Wohnhaus in New York DIE ZEIT Verzweifelte Suche unter Trümmern: Tödlicher Hauseinsturz in New York BILD Der Tag: Mindestens zwei Tote und mehrere Verletzte bei Gebäudeeinsturz in New York n-tv.de",
+     "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxORG1hbGxObTRZdjJuUGlGYlA2NkdwWUJGcFZ5a3hESzkwSU0xMUg1S0swRXRFajdmS21mSGxuQTBiTWpwLS1wTktVaXhXMUwwaTdTeXNMMjA2R09KR3c2ekxGdlU5dkRKc2w5Vlc1QkJlc3BNMjdXb2VJQjdOZmRDT1ZSTQ?oc=5",
+     "image": null,
+     "aggregator": true,
+     "published": "2026-11-12T03:34:00+00:00"
+    }
+   ]
+  },
+  {
+   "id": 5,
+   "score": 13.05,
+   "outlets": [
+    "SPIEGEL",
+    "DER STANDARD"
+   ],
+   "regions": [
+    "AT",
+    "DE"
+   ],
+   "trend": [
+    "Nahost-Ticker: Iran droht mit Angriffen auf US-Stützpunkte auch in Europa",
+    "Iran droht mit Angriffen auf US-Stützpunkte auch in Europa",
+    "„Keine sichere Entfernung“: Iran droht mit Angriffen auf Stützpunkte bis Europa"
+   ],
+   "newest": "2026-11-12T09:15:00+00:00",
+   "articles": [
+    {
+     "source": "SPIEGEL",
+     "region": "DE",
+     "weight": 0.9,
+     "title": "Iran droht mit Angriffen auf US-Stützpunkte auch in Europa",
+     "summary": "Nach den Midterms ist unklar, wie es im Irankrieg weitergeht. US-Präsident Donald Trump hatte den Konflikt für praktisch beendet erklärt. Teheran widerspricht dem nun und droht der Weltmacht erneut mit Angriffen.",
+     "link": "https://www.spiegel.de/ausland/iran-droht-mit-angriffen-auf-us-stuetzpunkte-auch-in-europa-a-c1f311da-3602-4581-97af-29e89c00c491#ref=rss",
+     "image": "https://cdn.prod.www.spiegel.de/images/6ae0da1e-4e1f-4046-bf8b-0893a0e301b2_w520_r2.08_fpx66.58_fpy49.87.jpg",
+     "aggregator": false,
+     "published": "2026-11-12T09:15:00+00:00"
+    },
+    {
+     "source": "DER STANDARD",
+     "region": "AT",
+     "weight": 0.85,
+     "title": "Iran droht mit Angriffen auf US-Stützpunkte auch in Europa",
+     "summary": "Der Iran droht, den Konflikt mit den USA im Fall neuer Angriffe geografisch auszuweiten. Zudem fordert er ein Ende der Sanktionen",
+     "link": "https://www.derstandard.at/story/3000000348822/iran-teheran-droht-mit-angriffen-auf-us-st252tzpunkte-auch-in-europa?ref=rss",
+     "image": "https://i.ds.at/5Bn_Qg/rs:fill:150:0/plain/lido-images/2026/11/11/864196c1-47c3-4258-94e4-13d79d4e7300.jpg",
+     "aggregator": false,
+     "published": "2026-11-11T21:54:54+00:00"
+    }
+   ]
+  },
+  {
+   "id": 6,
+   "score": 11.13,
+   "outlets": [
+    "tagesschau",
+    "SRF News",
+    "DER STANDARD",
+    "n-tv"
+   ],
+   "regions": [
+    "AT",
+    "CH",
+    "DE"
+   ],
+   "trend": [],
+   "newest": "2026-11-12T09:10:31+00:00",
+   "articles": [
+    {
+     "source": "tagesschau",
+     "region": "DE",
+     "weight": 1.0,
+     "title": "Tote bei israelischem Angriff auf Krankenhaus im Gazastreifen",
+     "summary": "Tote bei israelischem Angriff auf Krankenhaus im Gazastreifen",
+     "link": "https://www.tagesschau.de/video/video-1682468.html",
+     "image": "https://images.tagesschau.de/image/eb32ef33-143e-4a9b-ab3e-6bf16ef78028/AAABoc8Faqo/AAABnSSvrFg/16x9-big/sendungsbild-1826390.jpg?width=1920",
+     "aggregator": false,
+     "published": "2026-11-12T09:10:31+00:00"
+    },
+    {
+     "source": "SRF News",
+     "region": "CH",
+     "weight": 0.95,
+     "title": "Krieg im Nahen Osten – Berichte: mehrere Tote bei Angriff auf Spital in Gaza",
+     "summary": "Eigentlich gilt im Gazastreifen eine Waffenruhe. Nun gibt es Berichte über einen israelischen Angriff auf ein Spital.",
+     "link": "https://www.srf.ch/news/international/nahost/krieg-im-nahen-osten-berichte-mehrere-tote-bei-angriff-auf-spital-in-gaza",
+     "image": "https://www.srf.ch/static/cms/images//320ws/4adab1.webp",
+     "aggregator": false,
+     "published": "2026-11-12T04:35:36+00:00"
+    },
+    {
+     "source": "DER STANDARD",
+     "region": "AT",
+     "weight": 0.85,
+     "title": "Mehrere Tote gemeldet: Israel griff Krankenhaus in Gaza an",
+     "summary": "Mindestens sechs Menschen sollen beim Angriff auf das Nasser-Krankenhaus verstorben sein. Israel will einen hochrangigen Hamas-Vertreter attackiert haben",
+     "link": "https://www.derstandard.at/story/3000000348830/nahost-mehrere-tote-bei-angriff-auf-krankenhaus-in-gaza?ref=rss",
+     "image": "https://i.ds.at/sBXyMQ/rs:fill:150:0/plain/lido-images/2026/11/12/2e956824-b976-4b0c-8cf7-bbd5cd4192dc.jpg",
+     "aggregator": false,
+     "published": "2026-11-12T05:19:35+00:00"
+    },
+    {
+     "source": "n-tv",
+     "region": "DE",
+     "weight": 0.8,
+     "title": "6 Tote und 20 Verletzte : Israel meldet Tötung von Hamas-Terroristen bei Angriff auf Krankenhaus",
+     "summary": "Zuletzt verstärkt das israelische Militär seine Luftangriffe auf den Gazastreifen wieder. Nun wird bei einem Angriff ein Krankenhaus getroffen. Sechs Menschen sterben. Die Opfer sollen laut israelischem Militär Hamas-Terroristen sein.",
+     "link": "https://www.n-tv.de/politik/Israel-meldet-Toetung-von-Hamas-Terroristen-bei-Angriff-auf-Krankenhaus-id31524034.html",
+     "image": "https://www.n-tv.de/img/31524005/1794476824/Img_4_3/250/629249659.jpg",
+     "aggregator": false,
+     "published": "2026-11-12T09:07:32+00:00"
+    }
+   ]
+  },
+  {
+   "id": 7,
+   "score": 10.18,
+   "outlets": [
+    "SPIEGEL",
+    "Handelsblatt",
+    "WirtschaftsWoche"
+   ],
+   "regions": [
+    "DE"
+   ],
+   "trend": [],
+   "newest": "2026-11-12T08:44:00+00:00",
+   "articles": [
+    {
+     "source": "SPIEGEL",
+     "region": "DE",
+     "weight": 0.9,
+     "title": "Bafin verhängt Millionenstrafe gegen Deutsche Bank wegen IT-Pannen bei Postbank-Kunden",
+     "summary": "Die Deutsche Bank soll wegen der Probleme bei der IT-Migration von Postbank-Kunden eine Strafe von acht Millionen Euro zahlen. Laut der Bundesanstalt für Finanzdienstleistungsaufsicht hat die Bank die Strafe akzeptiert.",
+     "link": "https://www.spiegel.de/wirtschaft/unternehmen/bafin-verhaengt-millionenstrafe-gegen-deutsche-bank-wegen-it-pannen-bei-postbank-kunden-a-1323fe0e-ee27-4137-a3d3-8429b0e1bf8a#ref=rss",
+     "image": "https://cdn.prod.www.spiegel.de/images/2d01df73-b63f-4a53-8c98-16115ca2c555_w520_r2.08_fpx55.24_fpy44.87.jpg",
+     "aggregator": false,
+     "published": "2026-11-12T08:44:00+00:00"
+    },
+    {
+     "source": "Handelsblatt",
+     "region": "DE",
+     "weight": 0.9,
+     "title": "Bafin verhängt Geldbuße: Millionenstrafe gegen Deutsche Bank wegen Postbank-IT-Pannen",
+     "summary": "Lange Wartezeiten, falsche Überweisungen, Probleme beim Depotübertrag - eine IT-Umstellung 2022/2023 sorgte bei Postbank-Kunden für viel Ärger. Nun muss die Deutsche Bank dafür eine Geldbuße zahlen.",
+     "link": "https://www.handelsblatt.com/politik/deutschland/bafin-verhaengt-geldbusse-millionenstrafe-gegen-deutsche-bank-wegen-postbank-it-pannen/100269325.html",
+     "image": "https://images.handelsblatt.com/Q90PXrWCfXkM/cover/900/506/85/86/0/0/0.5/0.5/deutsche-bank-und-postbank.jpg",
+     "aggregator": false,
+     "published": "2026-11-12T07:48:16+00:00"
+    },
+    {
+     "source": "Handelsblatt",
+     "region": "DE",
+     "weight": 0.9,
+     "title": "Bafin: Deutsche Bank muss nach IT-Problemen bei der Postbank eine Millionenstrafe zahlen",
+     "summary": "Die Bank soll Beschwerden nach der Integration der Postbank zu langsam bearbeitet haben. Mittlerweile sind die Probleme mit der IT behoben. Doch die Bafin verhängt eine Strafe.",
+     "link": "https://www.handelsblatt.com/finanzen/banken-versicherungen/banken/it-probleme-bei-der-postbank-bafin-verhaengt-millionenstrafe-fuer-die-deutsche-bank/100269298.html",
+     "image": "https://images.handelsblatt.com/gkL8HDAkmIZL/cover/900/506/0/0/111/111/0.5/0.5/deutsche-bank.jpg",
+     "aggregator": false,
+     "published": "2026-11-12T06:27:27+00:00"
+    },
+    {
+     "source": "WirtschaftsWoche",
+     "region": "DE",
+     "weight": 0.85,
+     "title": "BaFin-Bußgeld: Wegen Postbank-Integration – acht Millionen Euro Strafe für Deutsche Bank",
+     "summary": "Nach der Postbank-Migration verhängt die BaFin acht Millionen Euro Bußgeld gegen die Deutsche Bank. Diese sieht die Mängel als behoben an.",
+     "link": "https://www.wiwo.de/unternehmen/banken/bafin-bussgeld-acht-millionen-euro-strafe-fuer-deutsche-bank/100269315.html",
+     "image": "https://images.wiwo.de/aIa7jk2zo94x/cover/900/506/0/0/199/198/0.5/0.5/file-photo-the-logo-of-deutsche-bank-is-seen-in-brussels-belgium-december-6-2022.-reuters-yves-he.jpg",
+     "aggregator": false,
+     "published": "2026-11-12T07:44:28+00:00"
+    },
+    {
+     "source": "Spiegel",
+     "region": "DE",
+     "weight": 0.6,
+     "title": "Probleme für Postbank-Kunden: Bafin verhängt Millionenstrafe gegen Deutsche Bank wegen IT-Pannen",
+     "summary": "Probleme für Postbank-Kunden: Bafin verhängt Millionenstrafe gegen Deutsche Bank wegen IT-Pannen Spiegel Deutsche Bank: Bafin verhängt Strafe in Millionenhöhe gegen Deutsche Bank DIE ZEIT Deutsche Bank muss wegen Postbank-Migration Millionen-Strafe zahlen – Aktie im Fokus Finanzen.net IT-Probleme bei der Postbank: Bafin verhängt Millionenstrafe für die Deutsche Bank Handelsblatt Bafin rügt Kundenumgang: Postbank-Chaos kostet Deutsche Bank Millionen n-tv.de",
+     "link": "https://news.google.com/rss/articles/CBMiggJBVV95cUxPcG9yd0hjeUw3eTgySkFUNGducEhQekU1S2lZYkM3REFIRVhSRDYwMFU3VGFDTkZqVXducUhhWXNoQ1BpR0ExcUVzcmZFNXlKMU5oZ2ZtanNXenFpN3VvV0EyNWpiTVYwWElTWG0ySXdvMjBOVEhRV3lPLXFsdTNqOXhNZENWZVdpS2NfdnpoMDBWeXZJUm5aa2xCY0Y3cWt2c09mVUpNdmtfLTlDM0F3aE51QlVnOVJESkhqakktdUJKcVIxa2d4UVp2OHlscjdZNS1hbTh3QzBiZWx1MU1UWG5TTHNRcXJzWGNWX3R2MWVBQ191dTh1VVEwZWlWeXNjSEE?oc=5",
+     "image": null,
+     "aggregator": true,
+     "published": "2026-11-12T08:44:00+00:00"
+    }
+   ]
+  },
+  {
+   "id": 8,
+   "score": 9.91,
+   "outlets": [
+    "tagesschau",
+    "NZZ",
+    "DER STANDARD"
+   ],
+   "regions": [
+    "AT",
+    "CH",
+    "DE"
+   ],
+   "trend": [],
+   "newest": "2026-11-12T07:19:10+00:00",
+   "articles": [
+    {
+     "source": "tagesschau",
+     "region": "DE",
+     "weight": 1.0,
+     "title": "Russland und Ukraine vereinbaren Gefangenenaustausch",
+     "summary": "Bei den Ukraine-Gesprächen haben Moskau und Kiew einen weiteren Gefangenenaustausch vereinbart. Heute wollen die US-Gesandten Kushner und Witkoff zu Kremlchef Putin reisen. Dabei soll es auch darum gehen, die Europäer in die Gespräche einzubinden.",
+     "link": "https://www.tagesschau.de/ausland/asien/ukraine-russland-verhandlungen-abu-dhabi-104.html",
+     "image": "https://images.tagesschau.de/image/fb34507e-db2f-412f-8388-e9699241da24/AAABocn9QYE/AAABnSSvrFg/16x9-big/abu-dhabi-ukraine-gespraeche-102.jpg?width=1920",
+     "aggregator": false,
+     "published": "2026-11-12T05:09:26+00:00"
+    },
+    {
+     "source": "NZZ",
+     "region": "CH",
+     "weight": 0.9,
+     "title": "LIVE-TICKER - Krieg in der Ukraine: Kushner und Witkoff in Moskau angekommen +++ Medinski schliesst Gebietstausch mit Ukraine aus",
+     "summary": "Seit über vier Jahren führt Russland Krieg gegen die Ukraine. Die wichtigsten Entwicklungen im Überblick.",
+     "link": "https://www.nzz.ch/international/krieg-in-der-ukraine-die-neusten-entwicklungen-im-liveticker-ld.10021245",
+     "image": "https://img-msp-prod.nzz.ch/2026/11/12/ebab8976-91e3-435e-9d4f-b64efc454a1e.jpg?width=200&height=200&fit=bounds&quality=75&auto=webp&crop=960,960,x160,y0",
+     "aggregator": false,
+     "published": "2026-11-12T07:19:10+00:00"
+    },
+    {
+     "source": "DER STANDARD",
+     "region": "AT",
+     "weight": 0.85,
+     "title": "Mögliches Treffen mit Putin: US-Verhandler Kushner und Witkoff in Moskau",
+     "summary": "Nach den trilateralen Gesprächen zwischen der Ukraine, Russland und den USA gibt es weitere Angriffe. Die USA verhandeln weiter mit Russland",
+     "link": "https://www.derstandard.at/jetzt/livebericht/3000000348812/u?ref=rss",
+     "image": "https://i.ds.at/_wEdUg/rs:fill:150:0/plain/lido-images/2026/11/12/e78011de-8731-4dd9-ae22-322bba8598e8.jpg",
+     "aggregator": false,
+     "published": "2026-11-12T05:12:20+00:00"
+    }
+   ]
+  },
+  {
+   "id": 9,
+   "score": 9.23,
+   "outlets": [
+    "ORF",
+    "SPIEGEL",
+    "n-tv"
+   ],
+   "regions": [
+    "AT",
+    "DE"
+   ],
+   "trend": [],
+   "newest": "2026-11-12T09:11:00+00:00",
+   "articles": [
+    {
+     "source": "ORF",
+     "region": "AT",
+     "weight": 0.95,
+     "title": "Australien: Im Outback vermisster 17-Jähriger gerettet",
+     "summary": "",
+     "link": "https://orf.at/stories/3447956/",
+     "image": null,
+     "aggregator": false,
+     "published": "2026-11-12T05:53:56+00:00"
+    },
+    {
+     "source": "SPIEGEL",
+     "region": "DE",
+     "weight": 0.9,
+     "title": "Teenager nach sechs Tagen im Outback lebend gefunden",
+     "summary": "Er stürzte offenbar einen Abhang hinunter und wartete auf Rettung: Sechs Tage lang galt ein Jugendlicher aus Australien als vermisst. Er überlebte – wohl mithilfe einer Tüte Chips und Wasser aus einem Bach.",
+     "link": "https://www.spiegel.de/panorama/teenager-nach-sechs-tagen-im-outback-lebend-gefunden-a-316a91fa-6e78-475b-a5f5-e48b78dc2069#ref=rss",
+     "image": "https://cdn.prod.www.spiegel.de/images/05916a44-519d-41c2-819f-0f4a0ea45942_w520_r2.08_fpx59.21_fpy50.jpg",
+     "aggregator": false,
+     "published": "2026-11-12T09:11:00+00:00"
+    },
+    {
+     "source": "n-tv",
+     "region": "DE",
+     "weight": 0.8,
+     "title": "Rettungsheli stöbert Vermissten auf: Teenager überlebt im Outback mit etwas Wasser und einer Tüte Chips",
+     "summary": "Sechs Tage lang suchen Dutzende Retter den 17-jährigen William. Im australischen Buschland verlässt er ein Zeltlager und findet nicht zurück. Als er schließlich von einem Hubschrauber aufgestöbert wird, reckt er mit letzter Kraft den Daumen. Sein Überleben grenzt an ein Wunder.",
+     "link": "https://www.n-tv.de/panorama/Teenager-ueberlebt-im-Outback-mit-etwas-Wasser-und-einer-Tuete-Chips-id31523989.html",
+     "image": "https://www.n-tv.de/img/31524019/1794476851/Img_4_3/250/AP26316193697516.jpg",
+     "aggregator": false,
+     "published": "2026-11-12T08:55:53+00:00"
+    }
+   ]
+  },
+  {
+   "id": 10,
+   "score": 8.95,
+   "outlets": [
+    "Handelsblatt",
+    "NZZ",
+    "heise online"
+   ],
+   "regions": [
+    "CH",
+    "DE"
+   ],
+   "trend": [],
+   "newest": "2026-11-12T08:19:46+00:00",
+   "articles": [
+    {
+     "source": "Handelsblatt",
+     "region": "DE",
+     "weight": 0.9,
+     "title": "Robotik: Humanoide Roboter aus Deutschland: Agile Robots mit 8,5 Milliarden Dollar bewertet",
+     "summary": "Das Start-up sammelt 500 Millionen Dollar ein, allen voran vom japanischen Super-Investor Softbank. Dabei geht es um eine Technologie, bei der Deutschland weltweit führend bleiben könnte.",
+     "link": "https://www.handelsblatt.com/technik/ki/robotik-agile-robots-jetzt-mit-85-milliarden-dollar-bewertet/100265688.html",
+     "image": "https://images.handelsblatt.com/pZoYbvbICkCE/cover/900/506/0/0/130/131/0.5/0.5/agile-robots.jpg",
+     "aggregator": false,
+     "published": "2026-11-12T06:10:42+00:00"
+    },
+    {
+     "source": "NZZ",
+     "region": "CH",
+     "weight": 0.9,
+     "title": "MELDUNGEN WIRTSCHAFT - Das Finanzdepartement büsse Ex-CS-Präsident Urs Rohner +++ Münchner Start-up Agile Robots erhält 500 Millionen Dollar",
+     "summary": "Die neuesten Meldungen aus der Wirtschaft.",
+     "link": "https://www.nzz.ch/wirtschaft/wirtschaft-die-neuesten-meldungen-ld.10053841",
+     "image": "https://img-msp-prod.nzz.ch/2026/11/09/36813326-b1fc-4c52-8816-b27866e4dc2e.jpg?width=200&height=200&fit=bounds&quality=75&auto=webp&crop=3672,3672,x726,y0",
+     "aggregator": false,
+     "published": "2026-11-12T08:19:46+00:00"
+    },
+    {
+     "source": "heise online",
+     "region": "DE",
+     "weight": 0.85,
+     "title": "Robotik-Firma aus München mit 8,5 Milliarden Dollar bewertet",
+     "summary": "Das deutsche Robotikunternehmen Agile Robots ist nach einer neuen Finanzierungsrunde in Höhe von 500 Millionen US-Dollar nun 8,5 Milliarden Dollar wert.",
+     "link": "https://www.heise.de/news/Muenchner-Start-up-Agile-Robots-erhaelt-500-Millionen-Dollar-11521653.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
+     "image": null,
+     "aggregator": false,
+     "published": "2026-11-12T07:06:00+00:00"
+    }
+   ]
+  },
+  {
+   "id": 11,
+   "score": 8.67,
+   "outlets": [
+    "Deutschlandfunk",
+    "n-tv",
+    "Golem"
+   ],
+   "regions": [
+    "DE"
+   ],
+   "trend": [],
+   "newest": "2026-11-12T08:23:36+00:00",
+   "articles": [
+    {
+     "source": "Deutschlandfunk",
+     "region": "DE",
+     "weight": 0.95,
+     "title": "\"Gamechanger\"-Projekt - VW stoppt geplante Modernisierung der Autoproduktion in Wolfsburg",
+     "summary": "Volkswagen stellt ein umfassendes Projekt zur Modernisierung der Auto-Produktion ein.",
+     "link": "https://www.deutschlandfunk.de/vw-stoppt-geplante-modernisierung-der-autoproduktion-in-wolfsburg-106.html",
+     "image": "https://bilder.deutschlandfunk.de/29/71/37/6c/2971376c-aebc-48b6-b4f4-1648351d23f9/vw-sparpaket-100-1920x1920.jpg",
+     "aggregator": false,
+     "published": "2026-11-12T08:23:36+00:00"
+    },
+    {
+     "source": "n-tv",
+     "region": "DE",
+     "weight": 0.8,
+     "title": "Investitionen auf dem Prüfstand: VW stoppt Projekt \"Gamechanger\" - Betriebsrat droht mit Golf-Veto",
+     "summary": "Mit einem neuen Produktionsverfahren wollte Volkswagen einzelne Bauteile für E-Autos kostengünstiger herstellen. Doch der Konzern scheut nun die Anfangsinvestition. Kurz vor der Grundsteinlegung wird der Bau eines Fertigungszentrums abgeblasen. Der Betriebsrat schäumt.",
+     "link": "https://www.n-tv.de/wirtschaft/VW-stoppt-Gamechanger-in-Wolfsburg-Betriebsrat-droht-mit-Veto-gegen-Golf-Umzug-id31522400.html",
+     "image": "https://www.n-tv.de/img/31522408/1794411608/Img_4_3/250/2025-03-11T113636Z_321856443_RC2ZADANYT3C_RTRMADP_3_VOLKSWAGEN-RESULTS.jpg",
+     "aggregator": false,
+     "published": "2026-11-11T15:06:19+00:00"
+    },
+    {
+     "source": "Golem",
+     "region": "DE",
+     "weight": 0.75,
+     "title": "Produktion des ID.Golf: VW stoppt Projekt Gamechanger für Wolfsburg",
+     "summary": "Aus Kostengründen verzichtet VW auf ein neues Gussverfahren für den Elektro-Golf. Verwirrung gibt es um die ID.3-Produktion. ( Volkswagen ID. , Elektroauto )",
+     "link": "https://www.golem.de/news/produktion-des-id-golf-vw-stoppt-projekt-gamechanger-fuer-wolfsburg-2611-215105.html",
+     "image": "https://cpx.golem.de/cpx.php?class=17&amp;aid=215105&amp;page=1&amp;ts=1794417182",
+     "aggregator": false,
+     "published": "2026-11-11T17:13:02+00:00"
+    }
+   ]
+  },
+  {
+   "id": 12,
+   "score": 8.58,
+   "outlets": [
+    "ZEIT ONLINE",
+    "Handelsblatt"
+   ],
+   "regions": [
+    "DE"
+   ],
+   "trend": [],
+   "newest": "2026-11-12T09:20:28+00:00",
+   "articles": [
+    {
+     "source": "ZEIT ONLINE",
+     "region": "DE",
+     "weight": 0.9,
+     "title": "Metall- und Elektroindustrie: IG Metall beschließt ganztägige Warnstreiks",
+     "summary": "Zum erst zweiten Mal in ihrer Geschichte will die IG Metall ganztägig in hunderten Betrieben streiken. Gewerkschaftschefin Benner spricht von einem »harten Konflikt«.",
+     "link": "https://www.zeit.de/arbeit/2026-11/tarifkonflikt-metallindustrie-ig-metall-warnstreiks-arbeitgeber-gxe",
+     "image": "https://img.zeit.de/arbeit/2026-11/tarifkonflikt-metallindustrie-ig-metall-warnstreiks-arbeitgeber-gxe-foto-1/original__640x360",
+     "aggregator": false,
+     "published": "2026-11-12T09:20:28+00:00"
+    },
+    {
+     "source": "ZEIT ONLINE",
+     "region": "DE",
+     "weight": 0.9,
+     "title": "Erstmals seit acht Jahren: IG Metall beschließt ganztägige Warnstreiks",
+     "summary": "",
+     "link": "https://www.zeit.de/news/2026-11/12/ig-metall-beschliesst-ganztaegige-warnstreiks",
+     "image": "https://img.zeit.de/news/2026-11/12/ig-metall-beschliesst-ganztaegige-warnstreiks-image-group/original__640x360",
+     "aggregator": false,
+     "published": "2026-11-12T09:13:10+00:00"
+    },
+    {
+     "source": "Handelsblatt",
+     "region": "DE",
+     "weight": 0.9,
+     "title": "Erstmals seit acht Jahren: IG Metall beschließt ganztägige Warnstreiks",
+     "summary": "Im Tarifkonflikt der Metall- und Elektroindustrie lässt die IG Metall ihre Warnstreiks eskalieren. Statt weniger Stunden sollen die Beschäftigten nun ganze Tage ihre Arbeit liegenlassen.",
+     "link": "https://www.handelsblatt.com/politik/deutschland/erstmals-seit-acht-jahren-ig-metall-beschliesst-ganztaegige-warnstreiks/100269341.html",
+     "image": "https://images.handelsblatt.com/GeT7ak0qR6Va/cover/900/506/0/0/107/106/0.5/0.5/warnstreik-metall-und-elektroindustrie.jpg",
+     "aggregator": false,
+     "published": "2026-11-12T09:13:10+00:00"
+    }
+   ]
+  },
+  {
+   "id": 13,
+   "score": 8.47,
+   "outlets": [
+    "tagesschau Wirtschaft",
+    "ZDFheute"
+   ],
+   "regions": [
+    "DE"
+   ],
+   "trend": [],
+   "newest": "2026-11-12T08:59:56+00:00",
+   "articles": [
+    {
+     "source": "tagesschau Wirtschaft",
+     "region": "DE",
+     "weight": 1.0,
+     "title": "Wirtschaft vor acht vom 11.11.2026",
+     "summary": "Wirtschaft vor acht vom 11.11.2026",
+     "link": "https://www.tagesschau.de/video/video-1682292.html",
+     "image": "https://images.tagesschau.de/image/bfe557d1-7469-41a2-a068-aa2c2b3dc293/AAABocxAQyw/AAABnSSvrFg/16x9-big/sendungsbild-1826172.jpg?width=1920",
+     "aggregator": false,
+     "published": "2026-11-11T20:15:32+00:00"
+    },
+    {
+     "source": "tagesschau Wirtschaft",
+     "region": "DE",
+     "weight": 1.0,
+     "title": "Update Wirtschaft vom 12.11.2026",
+     "summary": "Update Wirtschaft vom 12.11.2026",
+     "link": "https://www.tagesschau.de/multimedia/sendung/tagesschau24/boerselive/video-1682464.html",
+     "image": "https://images.tagesschau.de/image/af9bb765-6887-4218-b874-78036cf27eb5/AAABoc78GYg/AAABnSSvrFg/16x9-big/sendungsbild-1826384.jpg?width=1920",
+     "aggregator": false,
+     "published": "2026-11-12T08:59:56+00:00"
+    },
+    {
+     "source": "ZDFheute",
+     "region": "DE",
+     "weight": 1.0,
+     "title": "Bundeswirtschaftsministerin Reiche beim Maschinenbaugipfel",
+     "summary": "Die Bundesministerin für Wirtschaft und Energie Katherina Reiche (CDU) spricht beim Deutschen Maschinenbau-Gipfel 2026.",
+     "link": "https://www.phoenix.de/php/mediaplayer/vod_embed.php?cmsid=5246873",
+     "image": "https://www.zdfheute.de/assets/teaser-phoenix-bundeswirtschaftsministerin-reiche-beim-maschinenbaugipfel-5246873-100~384x216?cb=1794312765173",
+     "aggregator": false,
+     "published": "2026-11-10T09:42:00+00:00"
+    }
+   ]
+  },
+  {
+   "id": 14,
+   "score": 8.38,
+   "outlets": [
+    "Deutschlandfunk",
+    "WELT",
+    "Spiegel"
+   ],
+   "regions": [
+    "DE"
+   ],
+   "trend": [],
+   "newest": "2026-11-12T08:44:00+00:00",
+   "articles": [
+    {
+     "source": "Deutschlandfunk",
+     "region": "DE",
+     "weight": 0.95,
+     "title": "Nach Bundeswehr-Untersuchung - Grüne fordern Dunkelfeldstudie zu Sexismus auch in der Polizei",
+     "summary": "Nach einer Studie über sexuelle Übergriffe in der Bundeswehr fordern die Grünen eine ähnliche Untersuchung auch in der Polizei.",
+     "link": "https://www.deutschlandfunk.de/gruene-fordern-dunkelfeldstudie-zu-sexismus-auch-in-der-polizei-102.html",
+     "image": "https://bilder.deutschlandfunk.de/FI/LE/_d/db/FILE_ddb0e735c81ec42e74b80213e2fb023e/imago0094130526h-jpg-102-512x512.jpg",
+     "aggregator": false,
+     "published": "2026-11-12T08:23:36+00:00"
+    },
+    {
+     "source": "WELT",
+     "region": "DE",
+     "weight": 0.8,
+     "title": "Ataman sieht „Macho-Problem“ bei Bundeswehr – Grüne fordern Sexismus-Studie für Polizei",
+     "summary": "Die Unabhängige Bundesbeauftragte für Antidiskriminierung, Ferda Ataman, hat nach der Vorstellung der Studie über sexuelle Übergriffe in der Bundeswehr Konsequenzen angemahnt.",
+     "link": "https://www.welt.de/politik/deutschland/video6af54b7350175c81de7a2529/sexuelle-belaestigung-im-dienst-ataman-sieht-macho-problem-bei-bundeswehr-gruene-fordern-sexismus-studie-fuer-polizei.html",
+     "image": "https://images.welt.de/6af54b7350175c81de7a2529/bfb9261e470d66d34dec086166cf9f09/ci16x9-w1200/dpa-com-261013-935-1673284-jpg",
+     "aggregator": false,
+     "published": "2026-11-12T08:08:17+00:00"
+    },
+    {
+     "source": "WELT",
+     "region": "DE",
+     "weight": 0.8,
+     "title": "Ataman sieht „Macho-Problem“ bei Bundeswehr – Grüne fordern Sexismus-Studie für Polizei",
+     "summary": "Die Bundesbeauftragte für Antidiskriminierung verlangt eine Null-Toleranz-Strategie gegen sexuelle Belästigung bei der Bundeswehr. Irene Mihalic von den Grünen fordert eine weitere Studie: Auch der Sexismus in der Polizei müsse erfasst werden.",
+     "link": "https://www.welt.de/politik/deutschland/article6af55853c45061d752ba7137/ferda-ataman-sieht-macho-problem-bei-bundeswehr-gruene-fordern-sexismus-studie-fuer-polizei.html",
+     "image": "https://images.welt.de/6af55853c45061d752ba7137/02515a5f7c807b2b3f904a504458f6fe/ci23x11-w1200/dpa-com-261013-935-1673284-jpg",
+     "aggregator": false,
+     "published": "2026-11-12T07:31:48+00:00"
+    },
+    {
+     "source": "Spiegel",
+     "region": "DE",
+     "weight": 0.6,
+     "title": "Nach Problemen bei Bundeswehr: Grünenpolitikerin Mihalic fordert Untersuchung zu Sexismus in der Polizei",
+     "summary": "Nach Problemen bei Bundeswehr: Grünenpolitikerin Mihalic fordert Untersuchung zu Sexismus in der Polizei Spiegel Dunkelfeldstudie: Grüne fordern Erhebung zu sexualisiertem Fehlverhalten in der Polizei DIE ZEIT Soldatinnen über Bundeswehr-Studie: „Alle meine Kameradinnen wurden belästigt“ BILD Sexuelle Belästigungen und Übergriffe Wie die Bundeswehr ein sicherer Ort für Frauen werden will Tagesspiegel Sexualisiertes Fehlverhalten: Die Bundeswehr hat ein strukturelles Problem tagesschau.de",
+     "link": "https://news.google.com/rss/articles/CBMihAJBVV95cUxPVTRBaTZmRWhSclhtOU9vM3pvT2ZTRDJHSmlUYUgxSF9SMlNxU1VQaUdHUGlabjh2NVRDOUtOUElZbHBWU3hxSTVDa0JnemZyVVhjdjI2U1pnaWpLVzQ3cFQwbkNzQUVhNFJWVnV5T21KblJXdW9rTk4xUmtPMVNrSlU4YmI0dnRnNlVSN1AwNXlzZlhjSjYtcUREOHhRX2JIOWF6azNxalJQbkNKdzFuRmxCdTUyd3p2VUxIUkphb0h0RUstTWlGWGE3TDN4TG5DMkFmZDVxTVg1RU1qZEM5WE1MWG1kQWtBUHNkdE16QmVJek4xS3M1Rl93c1hleXVMREpxVA?oc=5",
+     "image": null,
+     "aggregator": true,
+     "published": "2026-11-12T08:44:00+00:00"
+    }
+   ]
+  },
+  {
+   "id": 15,
+   "score": 8.31,
+   "outlets": [
+    "ZEIT ONLINE",
+    "WELT"
+   ],
+   "regions": [
+    "DE"
+   ],
+   "trend": [],
+   "newest": "2026-11-12T08:49:25+00:00",
+   "articles": [
+    {
+     "source": "ZEIT ONLINE",
+     "region": "DE",
+     "weight": 0.9,
+     "title": "U20-Eishockey-WM: Kanada verweigert Russlands Eishockeymannschaft Einreise zur U20-WM",
+     "summary": "Der Streit um Russlands Teilnahme an internationalen Eishockeyturnieren geht in die nächste Runde: Kanada will russischen Spielern für die U20-WM keine Visa ausstellen.",
+     "link": "https://www.zeit.de/sport/2026-11/u20-eishockey-wm-2027-kanada-russland-visa-boykott-gxe",
+     "image": "https://img.zeit.de/sport/2026-11/u20-eishockey-wm-2027-kanada-russland-visa-boykott-gxe-foto-1/original__640x360",
+     "aggregator": false,
+     "published": "2026-11-12T08:49:25+00:00"
+    },
+    {
+     "source": "WELT",
+     "region": "DE",
+     "weight": 0.8,
+     "title": "Keine Visa – Kanada verweigert Russlands Eishockey-Team die Einreise",
+     "summary": "Kanada verweigert Russlands U20-Eishockeyteam die Einreise und setzt damit die Zulassung durch den Sportgerichtshof außer Kraft. Mehrere Nationen drohen zudem mit Boykott. Auch in Deutschland spitzt sich das Thema zu.",
+     "link": "https://www.welt.de/sport/article6af5679250175c81de7a26e5/junioren-wm-keine-visa-kanada-verweigert-russlands-eishockey-team-die-einreise.html",
+     "image": "https://images.welt.de/6af5679250175c81de7a26e5/760c4d3df2abd365e9d5a63d46689794-master/ci23x11-w1200/dpa-com-261112-935-1737691-jpg",
+     "aggregator": false,
+     "published": "2026-11-12T07:37:30+00:00"
+    },
+    {
+     "source": "WELT",
+     "region": "DE",
+     "weight": 0.6,
+     "title": "Junioren-WM: Keine Visa – Kanada verweigert Russlands Eishockey-Team die Einreise",
+     "summary": "Junioren-WM: Keine Visa – Kanada verweigert Russlands Eishockey-Team die Einreise WELT Eishockey-WM: Eishockey-Teams verweigern WM-Spielplan wegen Teilnahme Russlands DIE ZEIT \"Keine Normalität\": Kanada will russischem Team WM-Teilnahme verweigern n-tv.de \"Drecksland\": TV-Experte teilt nach Ärger um Russland-Boykott aus T-Online „Keiner hat etwas gegen die Sportler Russlands, aber gegen den Krieg Putins“, meint ein Leser aus Weimar Thüringer Allgemeine",
+     "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNMm9FZ2JXM0x6Um9sZVFTcURzbTI4R1VRbW1TTXpOUnl1RjlpUXppUmtMRFJqWkxWbnluc3EzY2dxOU9BcTY5TG1aWjBUZWJ5SS1VejFfZGlRbzUzOGY3M3oxcmdXa2dDMWc2bjF3SHB1ZTFQaEJNWlJEdzNCS0RBSll0TFB5dTNiWFlsY244eHVmeVA2WUZNZWNNMXg4dXFBZUlOLW5ZaWRkcWhVanc1dXhvUTBpMzNMWWE2WEhkQW41Mk9JQ0FIMGliTTBhLUJEcDAwdENHcjM?oc=5",
+     "image": null,
+     "aggregator": true,
+     "published": "2026-11-12T07:38:35+00:00"
+    }
+   ]
+  },
+  {
+   "id": 16,
+   "score": 8.29,
+   "outlets": [
+    "tagesschau Inland",
+    "ZDFheute",
+    "Spiegel"
+   ],
+   "regions": [
+    "DE"
+   ],
+   "trend": [],
+   "newest": "2026-11-12T05:09:00+00:00",
+   "articles": [
+    {
+     "source": "tagesschau Inland",
+     "region": "DE",
+     "weight": 1.0,
+     "title": "Merz verteidigt Ablauf der Nominierung von Aigner",
+     "summary": "199 Tage hat es gedauert, bis sich Kanzler Merz hinter Aigner als Kandidatin zur Bundespräsidentin stellte. Im tagesthemen-Interview verteidigt er den Prozess, der \"störungsfrei\" und \"harmonisch\" abgelaufen sei. Aigner sei die Richtige für das Amt.",
+     "link": "https://www.tagesschau.de/inland/innenpolitik/merz-aigner-bundespraesidentin-100.html",
+     "image": "https://images.tagesschau.de/image/959a7fee-357f-4092-a4e7-843f1ce6ebbe/AAABocRXSAg/AAABnSSvrFg/16x9-big/sendungsbild-1825142.jpg?width=1920",
+     "aggregator": false,
+     "published": "2026-11-09T21:27:31+00:00"
+    },
+    {
+     "source": "tagesschau Inland",
+     "region": "DE",
+     "weight": 1.0,
+     "title": "Warum Merz sich doch für Aigner als Bundespräsidentin stark macht",
+     "summary": "Lange hatte der Kanzler gezögert - nun ist es offiziell: Die CDU überlässt das höchste Staatsamt der kleinen Schwesterpartei aus Bayern. Die viel befürchtete Kritik in den eigenen Reihen ist ausgeblieben. Von Jannik Pentz.",
+     "link": "https://www.tagesschau.de/inland/innenpolitik/merz-aigner-kandidatin-bundespraesidentin-100.html",
+     "image": "https://images.tagesschau.de/image/305b59b8-9dc9-460c-9bb4-6ba0b48f1eb8/AAABocDAhaM/AAABnSSvrFg/16x9-big/merz-aigner-118.jpg?width=1920",
+     "aggregator": false,
+     "published": "2026-11-09T14:48:54+00:00"
+    },
+    {
+     "source": "tagesschau Inland",
+     "region": "DE",
+     "weight": 1.0,
+     "title": "Aigner soll Bundespräsidentin werden: \"Meine Sprache wird klar sein und verständlich\"",
+     "summary": "Eine Bundespräsidentin \"mit Würde und Herz\": Kanzler Merz sieht Ilse Aigner als genau richtige Kandidatin. Die 61-Jährige zeigte sich bewegt von der Nominierung - und machte klar, wofür sie steht: eine Politik der Mitte.",
+     "link": "https://www.tagesschau.de/inland/innenpolitik/aigner-merz-bundespraesidentin-100.html",
+     "image": "https://images.tagesschau.de/image/5d5d22be-0a9e-4795-ba7f-4b4750b82e1d/AAABocCHU3k/AAABnSSvrFg/16x9-big/merz-aigner-114.jpg?width=1920",
+     "aggregator": false,
+     "published": "2026-11-09T14:45:20+00:00"
+    },
+    {
+     "source": "tagesschau Inland",
+     "region": "DE",
+     "weight": 1.0,
+     "title": "Bundespräsidenten-Wahl: Merz bricht sein Schweigen und schlägt Aigner vor",
+     "summary": "Lange hatte er darüber nachgedacht und sich zurückgehalten - am Abend sprach sich Kanzler Merz dann für Ilse Aigner als Bundespräsidentin aus. Heute wollen beide offiziell vor die Presse treten. Von Sabine Henkel.",
+     "link": "https://www.tagesschau.de/inland/innenpolitik/aigner-bundespraesidentin-100.html",
+     "image": "https://images.tagesschau.de/image/b9a1484e-0137-48fd-96c3-88255c4468fb/AAABoXhnvbQ/AAABnSSvrFg/16x9-big/merz-aigner-100.jpg?width=1920",
+     "aggregator": false,
+     "published": "2026-11-09T03:34:40+00:00"
+    },
+    {
+     "source": "tagesschau Inland",
+     "region": "DE",
+     "weight": 1.0,
+     "title": "Kanzler Merz will Aigner als Bundespräsidentin vorschlagen",
+     "summary": "Bislang hatte sich Kanzler Merz in der Frage zur Bundespräsidenten-Nachfolge zurückgehalten. Jetzt machte er es offiziell: Der CDU-Chef will am Montag Ilse Aigner dafür vorschlagen - als erste Frau in diesem Amt.",
+     "link": "https://www.tagesschau.de/inland/innenpolitik/aigner-bundespraesidentin-merz-100.html",
+     "image": "https://images.tagesschau.de/image/6da58f42-1c07-49a0-b569-a2efe0a6b4c1/AAABobzD-w8/AAABnSSvrFg/16x9-big/aigner-merz-102.jpg?width=1920",
+     "aggregator": false,
+     "published": "2026-11-08T20:05:22+00:00"
+    },
+    {
+     "source": "ZDFheute",
+     "region": "DE",
+     "weight": 1.0,
+     "title": "Merz: Aigner-Nominierung nicht \"holprig\"",
+     "summary": "Bundeskanzler Friedrich Merz (CDU) hat Kritik am Verfahren zur Nominierung von Ilse Aigner als Bundespräsidentin zurückgewiesen. Der Prozess sei \"alles andere als holprig\" gewesen.",
+     "link": "https://www.zdfheute.de/video/cdu-merz-aigner-nominierung-video-100.html",
+     "image": "https://www.zdfheute.de/assets/friedrich-merz-zdf-100~384x216?cb=1794263813940",
+     "aggregator": false,
+     "published": "2026-11-09T21:55:42+00:00"
+    },
+    {
+     "source": "ZDFheute",
+     "region": "DE",
+     "weight": 1.0,
+     "title": "Ilse Aigner will \"Nähe zu den Menschen...mit Herz und Verstand\"",
+     "summary": "Pressekonferenz mit Bundeskanzler Friedrich Merz (CDU) und Ilse Aigner (CSU) zu ihrer Nominierung für das Amt der Bundespräsidentin",
+     "link": "https://www.phoenix.de/steinmeiers-nachfolge-a-5246374.html",
+     "image": "https://www.zdfheute.de/assets/teaser-phoenix-ilse-aigner-will-naehe-zu-den-menschenmit-herz-und-verstand-5246437-100~384x216?cb=1794230569769",
+     "aggregator": false,
+     "published": "2026-11-09T12:11:00+00:00"
+    },
+    {
+     "source": "Spiegel",
+     "region": "DE",
+     "weight": 0.6,
+     "title": "(S+) Ukraine: SPD stellt sich im Haushaltsstreit hinter Kanzler Merz",
+     "summary": "(S+) Ukraine: SPD stellt sich im Haushaltsstreit hinter Kanzler Merz Spiegel Merz und der EU-Haushalt: Ein Bärendienst für die Ukraine taz.de Ukraine-Hilfen: Eine mächtige Drohung. Und eine verzweifelte DIE ZEIT Prag kontra Merz: Budget darf nicht an Ukraine-Hilfen hängen WELT Selenskyj benötigt 70 Milliarden zusätzlich - boerse.de boerse.de",
+     "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQb0d3Njk0V19EQXRMbkxrbWZvY3RMVGl3cHN4TWRXUndBSGZfb3Via0JLSDhxVkpTNnRwUmtiMDJHcEhjRld0b3pfc0lDdVR6Y01OX2dCbU84VHhCTmU3NFRxTFVUVC1XaE1iRnh4cUlBYzhhRTNhMU9ZbzcyZHEtOVJiblQyTDFnSlJrSzE2Z2JTSDJINExNc1otb2l2M2s5bzdLWGZ6c296RElTYVMyOG14czlQVDRtZ1JyN083TmV3ZGxLckRXNzY4NjV6dXZ3bVp1d2RjSERmbXBL?oc=5",
+     "image": null,
+     "aggregator": true,
+     "published": "2026-11-12T05:09:00+00:00"
+    }
+   ]
+  },
+  {
+   "id": 17,
+   "score": 7.94,
+   "outlets": [
+    "SRF News",
+    "SPIEGEL",
+    "DIE ZEIT"
+   ],
+   "regions": [
+    "CH",
+    "DE"
+   ],
+   "trend": [],
+   "newest": "2026-11-12T08:17:58+00:00",
+   "articles": [
+    {
+     "source": "SRF News",
+     "region": "CH",
+     "weight": 0.95,
+     "title": "Neu im Kino – «Ebenezer»: Das Comeback des Johnny Depp?",
+     "summary": "Mit der Verfilmung des Weihnachtsklassikers «A Christmas Carol» versucht der Hollywoodstar an alte Erfolge anzuknüpfen.",
+     "link": "https://www.srf.ch/kultur/film-serien/neu-im-kino-ebenezer-das-comeback-des-johnny-depp",
+     "image": "https://www.srf.ch/static/cms/images//320ws/5515aa.webp",
+     "aggregator": false,
+     "published": "2026-11-12T08:17:58+00:00"
+    },
+    {
+     "source": "SPIEGEL",
+     "region": "DE",
+     "weight": 0.9,
+     "title": "»Ebenezer«: Er war ein Paria, jetzt spielt Johnny Depp wieder eine Hauptrolle. Ist nun alles vergeben?",
+     "summary": "",
+     "link": "https://www.spiegel.de/kultur/kino/ebenezer-er-war-ein-paria-jetzt-spielt-johnny-depp-in-wieder-eine-hauptrolle-ist-nun-alles-vergeben-a-7a4d7cd9-c362-4f92-8a4a-139e68bb9447#ref=rss",
+     "image": "https://cdn.prod.www.spiegel.de/images/a766f11d-4fa4-43da-a2d7-62eb7baadc8c_w520_r2.08_fpx47.13_fpy54.98.jpg",
+     "aggregator": false,
+     "published": "2026-11-12T05:04:00+00:00"
+    },
+    {
+     "source": "DIE ZEIT",
+     "region": "DE",
+     "weight": 0.6,
+     "title": "Neu im Kino: «Humbug!» – Johnny Depp als kauziger Ebenezer Scrooge",
+     "summary": "Neu im Kino: «Humbug!» – Johnny Depp als kauziger Ebenezer Scrooge DIE ZEIT (S+) »Ebenezer«: Er war ein Paria, jetzt spielt Johnny Depp wieder eine Hauptrolle. Ist nun alles vergeben? Spiegel Statt Weihnachtszauber gibt es Horror: Johnny Depp überrascht als Ebenezer Scrooge NDR.de Neu im Kino: Das ist die Neuheit der Woche Radio Hamburg „Ich bin nicht mehr der Mann, der ich mal war“ Johnny Depps Hollywood-Comeback in „Ebenezer“ Tagesspiegel",
+     "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOYmdLZGNRaFluVlFmaWp0M2lMX1huYVVWRnBSQVNoNUxaRUMyVDh3U2NqdjNRZ2x2X1dNSHhjWU0zOTEzY1g1SmNBa21leVpRb2NfNjZ6YTlzN2NWZDU5RW92SUdLRl96Tm82OEIwU3RZZXJLQ0Nzd0J5SVVRYWxuOXZINmVLQ0dxUTZ5bg?oc=5",
+     "image": null,
+     "aggregator": true,
+     "published": "2026-11-11T21:00:04+00:00"
+    }
+   ]
+  },
+  {
+   "id": 18,
+   "score": 7.89,
+   "outlets": [
+    "tagesschau",
+    "WELT"
+   ],
+   "regions": [
+    "DE"
+   ],
+   "trend": [],
+   "newest": "2026-11-12T08:46:00+00:00",
+   "articles": [
+    {
+     "source": "tagesschau",
+     "region": "DE",
+     "weight": 1.0,
+     "title": "Großrazzia bei Rockerclub \"Gremium MC\" in Baden-Württemberg",
+     "summary": "Hunderte Polizisten haben am Morgen Wohnungen und Treffpunkte des Rockerclubs \"Gremium MC\" in Baden-Württemberg durchsucht. Grund der Razzia ist der Verdacht krimineller Aktivitäten.",
+     "link": "https://www.tagesschau.de/inland/regional/badenwuerttemberg/grossrazzia-rockerclub-baden-wuerttemberg-100.html",
+     "image": "https://images.tagesschau.de/image/f4ec994a-a188-4dc5-873e-c16058781fba/AAABoc7xScM/AAABnSSvrFg/16x9-big/swr-63586.jpg?width=1920",
+     "aggregator": false,
+     "published": "2026-11-12T08:46:00+00:00"
+    },
+    {
+     "source": "WELT",
+     "region": "DE",
+     "weight": 0.8,
+     "title": "Hunderte Polizisten im Einsatz – Großrazzia gegen Rockerclub in Baden-Württemberg",
+     "summary": "„Gremium MC“ gehört zu den größten Rockergruppen Deutschlands. Nun gehen Hunderte Polizisten in Baden-Württemberg gegen den Club vor.",
+     "link": "https://www.welt.de/vermischtes/kriminalitaet/article6af55a2c50175c81de7a2605/organisierte-kriminalitaet-hunderte-polizisten-im-einsatz-grossrazzia-gegen-rockerclub-in-baden-wuerttemberg.html",
+     "image": "https://images.welt.de/6af55a2c50175c81de7a2605/ca4857fbb4f3984011ce178fb3cba728-master/ci23x11-w1200/dpa-com-261112-936-143831-jpg",
+     "aggregator": false,
+     "published": "2026-11-12T07:34:36+00:00"
+    }
+   ]
+  },
+  {
+   "id": 19,
+   "score": 7.73,
+   "outlets": [
+    "ZDFheute",
+    "WELT",
+    "rbb24.de"
+   ],
+   "regions": [
+    "DE"
+   ],
+   "trend": [],
+   "newest": "2026-11-12T07:58:54+00:00",
+   "articles": [
+    {
+     "source": "ZDFheute",
+     "region": "DE",
+     "weight": 1.0,
+     "title": "Tatverdächtiger im Fall Lisa gestorben",
+     "summary": "Nach dem Tod der 13-jährigen Lisa ist der Tatverdächtige seinen Verletzungen erlegen. Er hatte laut Polizei versucht, sich selbst zu erschießen.",
+     "link": "https://www.zdfheute.de/panorama/kriminalitaet/schuelerin-berlin-lisa-verdaechtiger-tot-100.html",
+     "image": "https://www.zdfheute.de/assets/fall-lisa-tatort-bad-freienwalde-100~384x216?cb=1794389441664",
+     "aggregator": false,
+     "published": "2026-11-11T10:32:00+00:00"
+    },
+    {
+     "source": "WELT",
+     "region": "DE",
+     "weight": 0.8,
+     "title": "Mit polnischem Kennzeichen – Polizei veröffentlicht Fotos des möglichen Tatfahrzeugs im Fall Lisa T.",
+     "summary": "Im Fall der getöteten Lisa T. erhofft sich die Polizei durch Angaben zum möglichen Tatfahrzeug Hinweise darauf, wie die 13-Jährige von Berlin nach Brandenburg gelangte.",
+     "link": "https://www.welt.de/vermischtes/video6af571435596369bf0edc122/13-jaehrige-getoetet-mit-polnischem-kennzeichen-polizei-veroeffentlicht-fotos-des-moeglichen-tatfahrzeugs-im-fall-lisa-t.html",
+     "image": "https://images.welt.de/6af571435596369bf0edc122/4ad0db66ec503b44720ab6fc0f19d412/ci16x9-w1200/dpa-com-261106-936-139131-jpg",
+     "aggregator": false,
+     "published": "2026-11-12T07:58:54+00:00"
+    },
+    {
+     "source": "rbb24.de",
+     "region": "DE",
+     "weight": 0.6,
+     "title": "22-jähriger Tatverdächtiger im Fall Lisa T. im Krankenhaus gestorben",
+     "summary": "22-jähriger Tatverdächtiger im Fall Lisa T. im Krankenhaus gestorben rbb24.de Mit polnischem Kennzeichen – Polizei veröffentlicht Fotos des möglichen Tatfahrzeugs im Fall Lisa T. WELT Polizei bittet um Hinweise : Mögliches Tatfahrzeug im Fall Lisa T. sichergestellt n-tv.de Fall Lisa: Tatverdächtiger im Fall von getöteter Schülerin gestorben DIE ZEIT Tod von Lisa T.: Trauer in Berlin und im Oderbruch taz.de",
+     "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOY0JVWEFWTnF1UTVJMVZkbTc0R3NXdThCeUVZUGZsb1lNX3ZhU0VTRi1RTGJLeHgzck9OV1RTSy1NYnZieDh0OW93WDkzMlIwakxaSWVfVDRGQ1QxbFZ1MGh4Nm1iOWp6T0hsd01HMWtKbG5GR2FXbE9KSDN6T1F1RDl1UW53eFJRRnpyb1RiY0h4emJnOHpxRERMcWI5S05DY2NHbHNvMzVmSGs2YTNYZDZiMVF3YnRl?oc=5",
+     "image": null,
+     "aggregator": true,
+     "published": "2026-11-11T17:22:37+00:00"
+    }
+   ]
+  },
+  {
+   "id": 20,
+   "score": 7.67,
+   "outlets": [
+    "tagesschau Ausland",
+    "ORF"
+   ],
+   "regions": [
+    "AT",
+    "INT"
+   ],
+   "trend": [],
+   "newest": "2026-11-12T08:41:40+00:00",
+   "articles": [
+    {
+     "source": "tagesschau Ausland",
+     "region": "INT",
+     "weight": 1.0,
+     "title": "Straße von Hormus: Zwei Öltanker offenbar in Brand geraten",
+     "summary": "Teheran blockiert die Straße von Hormus seit Beginn des Iran-Krieges weitgehend. Doch immer wieder riskieren Öltanker die Passage durch die Meerenge. Nun sind laut Iran zwei Schiffe in Brand geraten.",
+     "link": "https://www.tagesschau.de/ausland/asien/iran-hormus-oeltanker-100.html",
+     "image": "https://images.tagesschau.de/image/9e3f005c-31ee-4b68-895b-ad06addf2ad8/AAABoasv5IE/AAABnSSvrFg/16x9-big/strasse-von-hormus-186.jpg?width=1920",
+     "aggregator": false,
+     "published": "2026-11-05T11:47:58+00:00"
+    },
+    {
+     "source": "ORF",
+     "region": "AT",
+     "weight": 0.95,
+     "title": "Iran meldet erneut brennende Öltanker in Straße von Hormus",
+     "summary": "",
+     "link": "https://orf.at/stories/3447972/",
+     "image": null,
+     "aggregator": false,
+     "published": "2026-11-12T08:41:40+00:00"
+    }
+   ]
+  },
+  {
+   "id": 21,
+   "score": 7.67,
+   "outlets": [
+    "SPIEGEL",
+    "n-tv"
+   ],
+   "regions": [
+    "DE"
+   ],
+   "trend": [],
+   "newest": "2026-11-12T08:41:12+00:00",
+   "articles": [
+    {
+     "source": "SPIEGEL",
+     "region": "DE",
+     "weight": 0.9,
+     "title": "Nvidia: Jensen Huang soll weitere Affäre gehabt haben und vor dem Rauswurf stehen",
+     "summary": "Laut mehreren US-Medien droht Jensen Huang beim Chipkonzern Nvidia die Ablösung. Zuvor waren Berichte über eine angebliche weitere Affäre des Firmenchefs bekannt geworden. Bei der Frau soll es sich um eine ihm unterstellte Person handeln.",
+     "link": "https://www.spiegel.de/wirtschaft/nvidia-jensen-huang-soll-weitere-affaere-gehabt-haben-abloesung-droht-a-6b2af3d6-fa09-4f81-bc22-f915c93985f7#ref=rss",
+     "image": "https://cdn.prod.www.spiegel.de/images/6a903780-9853-4861-ba60-eacfa20299dc_w520_r2.08_fpx33.35_fpy50.jpg",
+     "aggregator": false,
+     "published": "2026-11-12T00:06:00+00:00"
+    },
+    {
+     "source": "n-tv",
+     "region": "DE",
+     "weight": 0.8,
+     "title": "Berichte über zweite Affäre: Nvidia-Aufsichtsrat berät über den Rauswurf von Firmenchef Huang",
+     "summary": "Die Aktien des Chip-Riesen Nvidia sind nachbörslich um über acht Prozent abgerauscht. Grund dafür sind Berichte über eine mögliche Absetzung des Nvidia-Chefs Jensen Huang, nachdem eine mutmaßliche zweite Affäre publik wurde.",
+     "link": "https://www.n-tv.de/wirtschaft/Nvidia-Aufsichtsrat-beraet-ueber-den-Rauswurf-von-Firmenchef-Huang-id31523872.html",
+     "image": "https://www.n-tv.de/img/31523851/1794476121/Img_4_3/250/530451407.jpg",
+     "aggregator": false,
+     "published": "2026-11-12T08:41:12+00:00"
+    }
+   ]
+  },
+  {
+   "id": 22,
+   "score": 7.57,
+   "outlets": [
+    "tagesschau",
+    "Deutschlandfunk"
+   ],
+   "regions": [
+    "DE"
+   ],
+   "trend": [],
+   "newest": "2026-11-12T08:23:36+00:00",
+   "articles": [
+    {
+     "source": "tagesschau",
+     "region": "DE",
+     "weight": 1.0,
+     "title": "Wetter Deutschland: Wolken, Temperaturen, Wind und Aussichten",
+     "summary": "Am Donnerstag vom Süden bis in die Mitte oft stark bewölkt oder trüb und gebietsweise Regen. Im Norden und Nordwesten mal dichte Wolken, mal Sonnenschein und Richtung Küsten ein paar Schauer.",
+     "link": "https://www.tagesschau.de/wetter/deutschland/wettervorhersage-deutschland-100.html",
+     "image": "https://images.tagesschau.de/image/e7904a01-0786-494a-996d-b1dfd43b3049/AAABoc6hnTU/AAABnSSvrFg/16x9-big/teaserbild-124.jpg?width=1920",
+     "aggregator": false,
+     "published": "2026-11-12T07:22:31+00:00"
+    },
+    {
+     "source": "Deutschlandfunk",
+     "region": "DE",
+     "weight": 0.95,
+     "title": "Wetter - Bewölkt mit Schauern, 5 bis 13 Grad",
+     "summary": "Das Wetter: Im Norden wechselnd bewölkt mit Schauern. In der Mitte stark bewölkt und gebietsweise Regen, später auch im Süden. Dort Höchstwerte 9 bis 13 Grad, sonst 5 bis 9 Grad. Morgen verbreitet wechselnd bewölkt. Dabei im Norden Schauer oder kurze Graupelgewitter. 3 bis 9 Grad.",
+     "link": "https://www.deutschlandfunk.de/bewoelkt-mit-schauern-5-bis-13-grad-102.html",
+     "image": "https://bilder.deutschlandfunk.de/e5/f6/55/84/e5f65584-6dc2-4dce-979d-729a024cd599/wetter-grafik-nachrichten-100-768x768.jpg",
+     "aggregator": false,
+     "published": "2026-11-12T08:23:36+00:00"
+    }
+   ]
+  },
+  {
+   "id": 23,
+   "score": 7.57,
+   "outlets": [
+    "tagesschau Inland",
+    "Deutschlandfunk"
+   ],
+   "regions": [
+    "DE"
+   ],
+   "trend": [],
+   "newest": "2026-11-12T08:23:36+00:00",
+   "articles": [
+    {
+     "source": "tagesschau Inland",
+     "region": "DE",
+     "weight": 1.0,
+     "title": "EKD-Synode in Würzburg: Wie die Kirche Demokratie stärken will",
+     "summary": "Gegen Menschenfeindlichkeit: Die evangelische Kirche will die Demokratie stärken, mit Bildungsarbeit und Begegnungsräumen, vor allem auf dem Land. Das hat die Synode in Würzburg beschlossen. Doch Geld und Personal werden knapper. Von C. Wölfel.",
+     "link": "https://www.tagesschau.de/inland/gesellschaft/ekd-synode-122.html",
+     "image": "https://images.tagesschau.de/image/8daf5cdf-3b51-4153-88b9-43b617f57f6e/AAABocowM4k/AAABnSSvrFg/16x9-big/fehrs-ekd-synode-100.jpg?width=1920",
+     "aggregator": false,
+     "published": "2026-11-11T12:07:44+00:00"
+    },
+    {
+     "source": "Deutschlandfunk",
+     "region": "DE",
+     "weight": 0.95,
+     "title": "Abschluss EKD-Synode - Evangelische Kirche solidarisiert sich mit Christen im Westjordanland",
+     "summary": "Die Evangelische Kirche in Deutschland hat auf die Situation der Christen im Westjordanland aufmerksam gemacht.",
+     "link": "https://www.deutschlandfunk.de/evangelische-kirche-solidarisiert-sich-mit-christen-im-westjordanland-106.html",
+     "image": "https://bilder.deutschlandfunk.de/15/d1/72/61/15d17261-619c-4f55-8adf-9c5cb068dca9/synode-steinmeier-wuerzburg-100-1920x1920.jpg",
+     "aggregator": false,
+     "published": "2026-11-12T08:23:36+00:00"
+    }
+   ]
+  },
+  {
+   "id": 24,
+   "score": 7.57,
+   "outlets": [
+    "tagesschau Ausland",
+    "Deutschlandfunk"
+   ],
+   "regions": [
+    "DE",
+    "INT"
+   ],
+   "trend": [],
+   "newest": "2026-11-12T08:23:36+00:00",
+   "articles": [
+    {
+     "source": "tagesschau Ausland",
+     "region": "INT",
+     "weight": 1.0,
+     "title": "Zwei Tote bei russischen Luftangriffen",
+     "summary": "Russland hat die Ukraine in der Nacht erneut mit Luftangriffen überzogen. Dabei starben ukrainischen Angaben zufolge zwei Menschen. Zudem seien mehrere Umspannwerke getroffen worden, in mehreren Regionen fiel der Strom aus.",
+     "link": "https://www.tagesschau.de/ausland/europa/ukraine-russland-angriffe-206.html",
+     "image": "https://images.tagesschau.de/image/44ee44bc-83bf-408c-8a2e-d621a963c3dd/AAABocXiqEc/AAABnSSvrFg/16x9-big/ukraine-poltawa-102.jpg?width=1920",
+     "aggregator": false,
+     "published": "2026-11-10T14:42:40+00:00"
+    },
+    {
+     "source": "tagesschau Ausland",
+     "region": "INT",
+     "weight": 1.0,
+     "title": "Russische Luftangriffe: Erneut Hunderttausende Ukrainer ohne Strom",
+     "summary": "Erneut hat Russland die ukrainische Energieversorgung schwer getroffen. In der Region Dnipropetrowsk haben 600.000 Menschen keinen Strom. Das besetzte Atomkraftwerk Saporischschja muss mit Notstromaggregaten gekühlt werden.",
+     "link": "https://www.tagesschau.de/ausland/europa/ukraine-stromausfall-120.html",
+     "image": "https://images.tagesschau.de/image/191b788d-eaa3-44e0-8d43-2c000d71fd4a/AAABobrngk4/AAABnSSvrFg/16x9-big/stadt-stromausfall-100.jpg?width=1920",
+     "aggregator": false,
+     "published": "2026-11-08T12:05:57+00:00"
+    },
+    {
+     "source": "Deutschlandfunk",
+     "region": "DE",
+     "weight": 0.95,
+     "title": "Nahost - Mehrere Tote bei Luftangriff im Süden des Gazastreifens",
+     "summary": "Im Gaza-Streifen hat es erneut israelische Angriffe gegeben.",
+     "link": "https://www.deutschlandfunk.de/mehrere-tote-bei-luftangriff-im-sueden-des-gazastreifens-100.html",
+     "image": "https://bilder.deutschlandfunk.de/85/c0/00/3a/85c0003a-6d9f-4af7-82a1-8acece5a2d78/israel-gaza-stadt-gazastreifen-angriff-raketen-drohnen-100-1920x1920.jpg",
+     "aggregator": false,
+     "published": "2026-11-12T08:23:36+00:00"
+    }
+   ]
+  },
+  {
+   "id": 25,
+   "score": 7.57,
+   "outlets": [
+    "ZDFheute",
+    "Deutschlandfunk"
+   ],
+   "regions": [
+    "DE"
+   ],
+   "trend": [],
+   "newest": "2026-11-12T08:23:36+00:00",
+   "articles": [
+    {
+     "source": "ZDFheute",
+     "region": "DE",
+     "weight": 1.0,
+     "title": "Vorstellung Jahresgutachten der Wirtschaftsweisen",
+     "summary": "Vorstellung des Jahresgutachten 2026/2027 des Sachverständigenrates zur Begutachtung der gesamtwirtschaftlichen Entwicklung",
+     "link": "https://www.phoenix.de/php/mediaplayer/vod_embed.php?cmsid=5247132",
+     "image": "https://www.zdfheute.de/assets/teaser-phoenix-vorstellung-jahresgutachten-der-wirtschaftsweisen-5247132-100~384x216?cb=1794411843368",
+     "aggregator": false,
+     "published": "2026-11-11T15:30:00+00:00"
+    },
+    {
+     "source": "Deutschlandfunk",
+     "region": "DE",
+     "weight": 0.95,
+     "title": "Sachverständigenrat - Wirtschaftsweise erwarten für 2026 und 2027 wieder deutlich höheres Wachstum",
+     "summary": "Führende Ökonomen erwarten für dieses und kommendes Jahr ein spürbar stärkeres Wirtschaftswachstum in Deutschland.",
+     "link": "https://www.deutschlandfunk.de/wirtschaftsweise-erwarten-fuer-2026-und-2027-wieder-deutlich-hoeheres-wachstum-116.html",
+     "image": "https://bilder.deutschlandfunk.de/36/9f/87/fe/369f87fe-35f5-4de3-b769-db4bfd12f832/wirtschaftsweisen-sachverstaendigenrat-100-1920x1920.jpg",
+     "aggregator": false,
+     "published": "2026-11-12T08:23:36+00:00"
+    }
+   ]
+  },
+  {
+   "id": 26,
+   "score": 7.54,
+   "outlets": [
+    "tagesschau",
+    "Golem"
+   ],
+   "regions": [
+    "DE"
+   ],
+   "trend": [],
+   "newest": "2026-11-12T08:01:02+00:00",
+   "articles": [
+    {
+     "source": "tagesschau",
+     "region": "DE",
+     "weight": 1.0,
+     "title": "Weniger Kündigungsschutz, mehr Befristungen - das plant die Koalition",
+     "summary": "Mehr Befristungen, weniger Kündigungsschutz für Hochverdiener und mehr Spielraum für Bäckereien am Sonntag: Die Regierung will das Arbeitsrecht reformieren. Was sich ändern soll und was noch offen ist.",
+     "link": "https://www.tagesschau.de/inland/innenpolitik/arbeitsrecht-kuendigungsschutz-befristungen-reform-100.html",
+     "image": "https://images.tagesschau.de/image/dfc0f30c-25ff-49b1-bdea-42a4d6674e1a/AAABoTV2UZQ/AAABnSSvrFg/16x9-big/verkaeuferin-baeckerei-100.jpg?width=1920",
+     "aggregator": false,
+     "published": "2026-11-11T15:44:40+00:00"
+    },
+    {
+     "source": "tagesschau Inland",
+     "region": "DE",
+     "weight": 1.0,
+     "title": "Weniger Kündigungsschutz, mehr Befristungen - das plant die Koalition",
+     "summary": "Mehr Befristungen, weniger Kündigungsschutz für Hochverdiener und mehr Spielraum für Bäckereien am Sonntag: Die Regierung will das Arbeitsrecht reformieren. Was sich ändern soll und was noch offen ist.",
+     "link": "https://www.tagesschau.de/inland/innenpolitik/arbeitsrecht-kuendigungsschutz-befristungen-reform-100.html",
+     "image": "https://images.tagesschau.de/image/dfc0f30c-25ff-49b1-bdea-42a4d6674e1a/AAABoTV2UZQ/AAABnSSvrFg/16x9-big/verkaeuferin-baeckerei-100.jpg?width=1920",
+     "aggregator": false,
+     "published": "2026-11-11T15:44:40+00:00"
+    },
+    {
+     "source": "Golem",
+     "region": "DE",
+     "weight": 0.75,
+     "title": "Schweitzers Reformplan: Längere Befristungen, weniger Kündigungsschutz",
+     "summary": "Bundesarbeitsminister Alexander Schweitzer will Befristungen ausweiten, Sonntagsarbeit erleichtern und den Kündigungsschutz für Topverdiener lockern. ( Arbeit , Wirtschaft )",
+     "link": "https://www.golem.de/news/schweitzers-reformplan-laengere-befristungen-weniger-kuendigungsschutz-2611-215115.html",
+     "image": "https://cpx.golem.de/cpx.php?class=17&amp;aid=215115&amp;page=1&amp;ts=1794470462",
+     "aggregator": false,
+     "published": "2026-11-12T08:01:02+00:00"
+    }
+   ]
+  },
+  {
+   "id": 27,
+   "score": 7.37,
+   "outlets": [
+    "Handelsblatt",
+    "WirtschaftsWoche"
+   ],
+   "regions": [
+    "DE"
+   ],
+   "trend": [],
+   "newest": "2026-11-12T07:30:04+00:00",
+   "articles": [
+    {
+     "source": "Handelsblatt",
+     "region": "DE",
+     "weight": 0.9,
+     "title": "Drittes Quartal: Chemie-Industrie profitiert von höheren Preisen",
+     "summary": "Die Umsatzprognose der Chemiebranche fällt besser aus, doch die Produktion geht zurück und Stellen werden abgebaut. Warum Deutschland für viele Unternehmen weiter im roten Bereich bleibt.",
+     "link": "https://www.handelsblatt.com/politik/deutschland/drittes-quartal-chemie-industrie-profitiert-von-hoeheren-preisen/100269317.html",
+     "image": "https://images.handelsblatt.com/HSf-XjeoLtGe/cover/900/506/0/0/107/106/0.5/0.5/basf.jpg",
+     "aggregator": false,
+     "published": "2026-11-12T07:30:04+00:00"
+    },
+    {
+     "source": "WirtschaftsWoche",
+     "region": "DE",
+     "weight": 0.85,
+     "title": "Konjunktur: Chemie-Industrie profitiert von höheren Preisen – Produktion sinkt aber",
+     "summary": "Die Produktion in der Chemie leidet unter der schwachen Konjunktur in Europa. Die Unternehmen bauen auch im dritten Quartal Stellen ab.",
+     "link": "https://www.wiwo.de/unternehmen/industrie/drittes-quartal-chemie-industrie-profitiert-von-hoeheren-preisen/100269318.html",
+     "image": "https://images.wiwo.de/7IBFoEJcq2nl/cover/900/506/0/0/107/106/0.5/0.5/basf.jpg",
+     "aggregator": false,
+     "published": "2026-11-12T07:30:04+00:00"
+    }
+   ]
+  }
+ ]
+}
