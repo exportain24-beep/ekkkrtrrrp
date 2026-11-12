@@ -1,0 +1,57 @@
+{
+  "stories": [
+    {
+      "candidate_id": 1,
+      "pillar": "WELT",
+      "region": "EU",
+      "kicker": "MOSKAU",
+      "headline": "Putin empfängt Trumps Unterhändler",
+      "highlight": ["Putin"],
+      "voice": "Kushner und Witkoff reisen dafür heute nach Moskau. Zuvor vereinbarten Moskau und Kiew in Abu Dhabi den Austausch von mehr als tausend Gefangenen.",
+      "subline": "USA wollen die EU als festen Teil der Verhandlungen",
+      "entities": ["Wladimir Putin", "Jared Kushner", "Steve Witkoff", "Kreml"]
+    },
+    {
+      "candidate_id": 4,
+      "pillar": "WIRTSCHAFT",
+      "region": "DE",
+      "kicker": "WOLFSBURG",
+      "headline": "VW stoppt Projekt Gamechanger",
+      "highlight": ["Gamechanger"],
+      "voice": "Volkswagen stoppt in Wolfsburg das Projekt Gamechanger für den Elektro-Golf. Der Betriebsrat spricht von Tarifbruch und droht mit einem Golf-Veto.",
+      "subline": "Großgusszentrum kurz vor der Grundsteinlegung abgesagt",
+      "entities": ["Volkswagen", "Wolfsburg", "VW Golf"]
+    },
+    {
+      "candidate_id": 15,
+      "pillar": "WIRTSCHAFT",
+      "region": "DE",
+      "kicker": "KONJUNKTUR",
+      "headline": "Ökonomen heben Wachstumsprognose an",
+      "highlight": ["Wachstumsprognose"],
+      "voice": "Wirtschaftsweise korrigieren ihre Konjunkturprognose deutlich nach oben. Für dieses und das nächste Jahr erwarten sie wieder spürbar mehr Wachstum in Deutschland.",
+      "subline": "Jahresgutachten des Sachverständigenrats für 2026 und 2027",
+      "entities": ["Sachverständigenrat", "Bundesrepublik Deutschland"]
+    },
+    {
+      "candidate_id": 7,
+      "pillar": "POLITIK",
+      "region": "INT",
+      "kicker": "WASHINGTON",
+      "headline": "Weißes Haus droht den Demokraten",
+      "highlight": ["Weißes Haus"],
+      "voice": "Trumps Weißes Haus droht den Demokraten wegen geplanter Untersuchungen gegen den Präsidenten. Ab Januar stellen sie in beiden Kongresskammern die Mehrheit.",
+      "subline": "Demokraten kündigen nach den Midterms Ermittlungen an",
+      "entities": ["Weißes Haus", "Donald Trump", "Kapitol Washington"]
+    }
+  ],
+  "hook_text": "Putin empfängt Kushner",
+  "hook_voice": "Putin soll Europa an den Verhandlungstisch lassen.",
+  "youtube_title": "Putin empfängt Kushner: Darf Europa jetzt mitverhandeln?",
+  "description_lead": "Kremlchef Wladimir Putin empfängt heute die US-Gesandten Jared Kushner und Steve Witkoff in Moskau – die USA wollen die EU an den Verhandlungstisch holen. Außerdem: VW stoppt das Projekt Gamechanger in Wolfsburg, die Wirtschaftsweisen heben ihre Prognose an, und das Weiße Haus droht den Demokraten.",
+  "tags": ["Wladimir Putin", "Jared Kushner", "Steve Witkoff", "Moskau", "Gefangenenaustausch", "Volkswagen", "VW Gamechanger", "Wolfsburg", "Betriebsrat", "Wirtschaftsweise", "Konjunktur", "Donald Trump", "Weißes Haus", "nachrichten", "nachrichten aktuell"],
+  "hashtags": ["#putin", "#vw", "#nachrichten"],
+  "facebook_caption_line1": "Putin empfängt Trumps Unterhändler – die USA wollen Europa mit am Verhandlungstisch",
+  "facebook_question": "Sollte Europa bei den Verhandlungen über ein Kriegsende mit am Tisch sitzen?",
+  "comment_question": "Ja oder nein: Muss Europa bei den Gesprächen mit Putin mit am Tisch sitzen?"
+}
