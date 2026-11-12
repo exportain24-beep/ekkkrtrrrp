@@ -45,3 +45,14 @@
 - vidIQ-Watch Fb4hGpvbY9A: 2 s Titelkarte mit Datum, Hook-Wiederholung, TV-Standbild, Deutsch fehlerfrei.
 - 2026-11-12 05:41 Berlin · Growth-Brief A · Credits 5.440 · Abos 20 · Views 36.356 · Videos 69
 - 2026-11-12 13:42 Berlin · Growth-Brief A · Credits 5.410 · Abos 22 · Views 38.340 · Videos 72
+
+## 2026-11-12 (vidIQ: 6 Calls, 40 Credits, Rest ≈ 5.330) – FREEZE bis Audit 15. Nov: nur gemessen, nichts geändert
+- YT-Analytics bis 10. Nov: 10. Nov 4.878 Views / 1.912 engaged (39 %) / Ø-Wiedergabe 71,5 % / +2 Abos / −0 / 6 Shares · 9. Nov 5.158 / 63,3 %.
+- Traffic 5.–12. Nov: Shorts-Feed 18.374 (78 %), Suche 4.387 (19 %), andere YT-Seiten 213, Abo-Feed 76, extern 37.
+- YT je Upload-Tag (öffentlich, 22 UTC): 10. Nov Ø 415 (11 Videos, Summe 4.562) · 11. Nov Ø 274 (8, 2.189) · 12. Nov Ø 54 (8, 436, < 18 h).
+- FB je Upload-Tag (Plays, 19:59 UTC): 10. Nov Ø 984 (10.826) · 11. Nov Ø 220 (1.764) · 12. Nov Ø 120 (961).
+- Headline/4er (10.–12. Nov, 4 Videos): YT Ø 33 · FB Ø 5 — FOKUS (23 Videos): YT Ø 307 · FB Ø 588.
+- Bestes 11. Nov: Habeck „Ukraine verraten“ YT 1.297 / FB 2 · FB-Bestes Palmer 752 (YT 125). Schlechtestes: EU-Abo-Fallen YT 16 / FB 153; FB-Schlechtestes Habeck 2.
+- Bestes 12. Nov: Iran droht US-Basen YT 143 / FB 220 · Schlechtestes: Grenzkontrollen YT 8 (5 h) / Blatter FB 3.
+- vidIQ-Watch Co7Er77RFhc (Habeck): Name + „VERRAT!“ auf Frame 1, Fakt-Wechsel Sek. 3–4, Hochdeutsch fehlerfrei; nur Fotos.
+- vidIQ-Watch v1dyJz5ayWw (Abo-Fallen): Gebäude statt Gesicht, Themensprung Lootbox Sek. 2–5, unpassende Füllfotos; Deutsch korrekt.

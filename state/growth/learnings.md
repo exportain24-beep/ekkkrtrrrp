@@ -1,41 +1,37 @@
-# Learnings aus eigenen Daten (YouTube Analytics + FB-Plays) – Stand 11. Nov 2026, 23 Uhr (Nacht-Analyse)
-Datenlage: YT-Analytics bis 9. Nov (Verzug ~2 Tage); 10./11. Nov = öffentliche Zähler. Ziel: jeder Short ≥ 5.000 Views.
-Trend Upload-Tage (öffentlich): 8. Nov ≈ 10.700 · 9. Nov 5.333 · 10. Nov 3.953 · 11. Nov ≈ 1.100 (< 17 h). Es geht abwärts.
+# Learnings aus eigenen Daten (YouTube Analytics + FB-Plays) – Stand 12. Nov 2026, 23 Uhr (Nacht-Analyse)
+Datenlage: YT-Analytics bis 10. Nov (Verzug ~2 Tage); 11./12. Nov = öffentliche Zähler (YT 22 UTC, FB 19:59 UTC). FREEZE bis Audit 15. Nov: nur messen.
+Trend Upload-Tage YT: 10. Nov 4.562 (11 Videos) · 11. Nov 2.189 (8) · 12. Nov 436 (8, < 18 h; 11. Nov hatte zum gleichen Alter ≈ 1.100 → −60 %).
+Trend Upload-Tage FB: 10. Nov 10.826 (Fabian 9.267) · 11. Nov 1.764 · 12. Nov 961. Beide Plattformen fallen weiter.
 
 ## YouTube
-1. **Konfliktverb schlägt Ankündigung (11. Nov, alle 8 Hooks schon mit Namen vorn):** Habeck „… hat die Ukraine verraten“
-   569 in 13 h (44 VPH) · Italien räumt 300 Schulen 301 in 7 h (50 VPH). Dagegen: Palmer „sagt Termine ab“ 53 · Pistorius
-   „Soldatinnen berichten …“ 40 · Prien „will … streichen“ 34 in 5 h · Bundeswehr „verbannt China-Autos“ 21 · Emde 75
-   (Thema lief schon am 7. Nov). Gewinner 8.–10. Nov ebenso: Merz „droht“ 1.036 · „Lebenslang“ Fabian 1.437 · Trump
-   „Gebietsverluste“ 1.106. → Name + Konfliktverb (droht, wirft vor, verrät, stürzt, verurteilt) + Fakt. Nur aus den Quellen.
-2. **Engaged/Views 9. Nov:** Hook beginnt mit Person Ø 47 % (Kushner 53, Trump 49, Merz 48, Orbán 45, Huang 43, Trump 43)
-   vs. Ort/Sache vorn Ø 36 % (Krakau 32, Nvidia-Aktie 35, Plastiksteuer 37, Wahlmaschinen 38, Vodafone 39). Ziel ≥ 60 % – noch nie erreicht.
-3. **4er-Ausgaben sind tot: 4 von 4 seit 9. Nov abends 6–38 Views** (Tag in 45 s 7 + 6, morgen 38 + 21; 8. Nov noch 785–1.090).
-   vidIQ-Watch „Tag in 45 Sekunden“ 10. Nov (6 Views): 2 s statische Titelkarte mit Datum „DIENSTAG, 10. NOVEMBER 2026“,
-   Hook „… offenbar erste Einigung“, Story 1 wiederholt ihn („Abu Dhabi: … offenbar mit erster Einigung“), TV-Standbild
-   (tagesschau), Bild nur ⅓ des Formats, zu viele Textebenen. 3 von 4 Leads waren Wiederholungen (Nvidia, Ukraine).
-   → Validator prüft ab heute Füllwörter im Hook („die Schlagzeilen …“, „der Tag in …“) und Hook-Wiederholung in Story 1.
-   Offen (Technik, nicht Redaktion): Titelkarte mit Datum auf Frame 1 widerspricht dem Playbook – Besitzer prüfen lassen.
-4. **Retention-Kurven 8. Nov (4 neue):** Abfall bei 13–16 % Laufzeit (Sek. 4–5) in 3 von 4: Selenskyj 1,09 → 0,94,
-   Wolf 1,08 → 0,94, Trump-4er 1,14 → 1,04 (9–11 %), dazu Trump-4er 0,70 → 0,61 bei 39–41 % = Wechsel zu Story 2.
-   Dana White hält 1,09 bis 18 %, dann stetig. Enden 0,27–0,33 – kein Loop. Ø-Wiedergabe 56–62 %.
-   → Sek. 4–5 braucht Bildwechsel + harte Zahl (Beat 1), sonst Klippe. Loop-Fragen am Ende wirken derzeit nicht.
-5. **Tagesbilanz YT (Analytics):** 9. Nov 5.158 Views / 2.186 engaged (42 %) / +1 Abo · 8. Nov 7.721 / 3.260 (42 %) / +3.
-6. **Sensible Themen (Belästigung) auf YT schwach:** Pistorius 40, Palmer 53 (nur 2 Videos – beobachten, keine Regel).
-7. Wiederholung bleibt Killer: Emde 75 (2. Mal in 4 Tagen, erstes Video 1.073), FBI/Nvidia 38, Abu-Dhabi 279.
-8. Merz trägt weiter (3 von 3 ≥ 785). DE-Justiz mit Urteil trägt (Fabian 1.437 YT). Ferne Wirtschaft floppt (Milliardärssteuer 49).
+1. **12. Nov = nur „Verlierer-Themen“, 0 von 8 über 150:** Iran droht US-Basen 143 · Blatter 71 · Huang-Rauswurf 56 (Wiederholung, 4. Nvidia-Video)
+   · Dax 51 · Putin/Kushner-4er 48 · IG Metall 40 · Stromsteuer 19 · Grenzkontrollen 8 (5 h). Kein Gericht/Skandal/Konfliktzitat dabei.
+2. **Spätzünder – nie vor 24 h urteilen:** Habeck 569 nach 13 h → 1.297 nach 37 h (35 VPH) · Fabian 463 → 1.734 · Merz/EU 840 → 1.157.
+3. **vidIQ-Watch Habeck (bestes 11. Nov, 1.297):** Frame 1 = Name + „VERRAT!“ + ernstes Gesicht, Sek. 3–4 neuer Fakt („Trump + Putin
+   verstehen sich besser als mit Selenskyj“), Hochdeutsch und Bildschirmtext fehlerfrei. Risiko nur: reine Fotos.
+4. **vidIQ-Watch EU-Abo-Fallen (schlechtestes 11. Nov, 16):** Frame 1 = Gebäude ohne Gesicht, Sek. 2–5 Themensprung zu Lootboxen (2 Themen
+   im Hook), Füllfotos ohne Bezug (Lagerhalle 0:17, Militärflugzeug 0:14). Deutsch 100 % korrekt → Problem ist Thema + Bild, nicht Sprache.
+5. **Ø-Wiedergabe steigt, Reichweite nicht:** 10. Nov 71,5 % (9. Nov 63,3 · 8. Nov 59,1) bei 4.878 Views / 1.912 engaged (39 %) / +2 Abos.
+   Pro Video: Fabian 84,5 % · Klingbeil 79,3 % · Merz/EU 72,9 % · Kühlregal-Iran 34,6 % (78 Views). Retention allein reicht nicht – das Thema muss ziehen.
+6. **Suche wächst:** Traffic 5.–12. Nov Shorts-Feed 18.374 (78 %) · Suche 4.387 (19 %, vorher 3–5 %) · andere YT-Seiten 213 · Abo-Feed 76.
+   Personen-/Fall-Namen im Titel (Fabian, Habeck, Merz) werden gesucht.
+7. **4er-Ausgaben bleiben tot: 4 von 4 (10.–12. Nov) Ø 33 Views** (41 · 6 · 36 · 48) vs. FOKUS Ø 307 (23 Videos). Slot verzerrt (06:00/19:45).
+8. **Slots YT (UTC, 10.–12. Nov):** 13:30 1.734/125/40 · 09:00 202/1.297/71 · 07:30 1.157 (1×) · 18:30 91/16/19 · 06:00 41/36/48 → 06:00 und 18:30 am schwächsten.
+9. Wiederholung bleibt Killer: Nvidia 10.–12. Nov 41 · 56 (erstes Nvidia-Video 9. Nov 873); Emde 146.
+10. Konfliktverb + Name gewinnt weiter: Habeck „verraten“ 1.297 · Merz „droht“ 1.157 · „Lebenslang“ 1.734. Ankündigung/Institution floppt
+    (EU „will verbieten“ 16 · Prien „kappt“ 104 · Pistorius-Studie 75).
 
 ## Facebook
-9. **Vor 10 Uhr UTC stirbt FB – bestätigt am 11. Nov:** 05:15 Emde 5 · 06:00 China-Autos 5 · 09:00 Habeck 2 Plays
-   (Habeck auf YT 569!). Ab 11 Uhr UTC: Pistorius 219 · Palmer 287 · Italien 44 (früh). Jetzt 16 von 16 Vormittags-Posts ≤ 41 (außer Eisenkot).
-10. **FB-Riesen = emotionale Justiz/Skandal:** Orbán-Bruder 7.386 (415 Likes, 77 Komm.) · Fall Fabian 7.259 (229 Likes) ·
-    Eishockey-WM 7.684. Fabian ist der erste Doppel-Gewinner (YT 1.437 + FB 7.259) – Gerichtsurteil DE, klare Schuldfrage.
-11. FB 17:30 UTC (fokus-politik) 3 von 3 ≥ 398 (Wolf 398, Orbán 7.386, Klingbeil 453) – bester FB-Slot.
-12. FB mag Belästigungs-/Skandalthemen mehr als YT: Palmer 287 FB vs. 53 YT, Pistorius 219 vs. 40.
-13. YT-Gewinner ohne FB: Habeck 569/2, Merz/EU 1.030/14, Trump „andere Form“ 1.097/2 – Ursache v. a. der Slot (Regel 9).
+11. **FB-Riesen nur bei Justiz/Skandal:** Fabian 9.267 (273 Likes) · Orbán-Bruder 19.080 (780 Likes, 110 Komm.). Seit 11. Nov kein Post > 752.
+12. **FB 06:00 und 09:00 UTC tot (9 Posts):** 06:00 6/5/2 · 09:00 20/2/3 – auch Habeck (YT 1.297) nur 2 Plays. Ausnahme 05:15 Huang 203 (12. Nov).
+13. **Beste FB-Slots:** 13:30 9.267/752/207 · 17:30 470/365/115 · 12:15 416 · 15:30 345/188/107 · 11:00 20/292/220 · 18:30 256/153/104.
+14. FB mag Skandal/Personen-Druck mehr als YT: Palmer 752 FB vs. 125 YT · Pistorius 292 vs. 75 · Prien 365 vs. 104 · EU-Abo-Fallen 153 vs. 16.
+15. FB-Ø je Upload-Tag: 10. Nov 984 (Median 20) · 11. Nov 220 (Median 171) · 12. Nov 120 (Median 111) – Median stabil, es fehlen nur die Ausreißer.
+16. Doppel-Gewinner (YT ≥ 1.000 und FB ≥ 1.000) bisher nur Fabian (Gericht DE, klare Schuldfrage, 13:30 UTC).
 
-## Ältere Learnings (6.–10. Nov), weiterhin gültig
-- Erstes Wort = Name, nie Artikel/Rätsel (Validator seit 11. Nov). Satz 2 = neuer harter Fakt, nie alte Lage.
-- Ein Thema / eine Hauptperson höchstens 1× pro 24 h (Validator); Folgen nur mit hartem neuem Fakt.
-- Geld-Themen brauchen eine Euro-Zahl für den Zuschauer in Satz 2 (Klingbeil ohne Beispiel 272).
-- Abos nur bei > 75 % Wiedergabe; Traffic ~93 % Shorts-Feed → Hook + Retention entscheiden, nicht SEO.
+## Ältere Learnings (6.–11. Nov), weiterhin gültig
+- Hook beginnt mit Person: Engaged Ø 47 % vs. Ort/Sache Ø 36 % (9. Nov, 11 Videos). Erstes Wort = Name.
+- Sek. 4–5 Klippe in 3 von 4 Kurven (8. Nov) → Bildwechsel + harte Zahl in Beat 1. Loop-Fragen am Ende wirken nicht (Enden 0,27–0,33).
+- Ein Thema / eine Hauptperson höchstens 1× pro 24 h; Folgen nur mit hartem neuem Fakt.
+- Geld-Themen brauchen eine Euro-Zahl für den Zuschauer (Klingbeil 294 YT / 470 FB).
+- Abos nur bei > 75 % Wiedergabe; Merz trägt (3 von 3 ≥ 785 bis 10. Nov; Stromsteuer 12. Nov 19 – Bildschirm-Hook „STROMSTEUER GEPLATZT!“ ohne Namen).
