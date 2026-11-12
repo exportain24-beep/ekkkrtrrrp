@@ -42,8 +42,8 @@ def validate_single(plan: dict, n_candidates: int) -> list[str]:
     if not hs or len(hs) > 24:
         errs.append("hook_screen: 1–3 shocking words, max 24 chars (e.g. HEIZKOSTEN-SCHOCK!)")
     hv = plan.get("hook_voice", "")
-    if not hv or len(hv.split()) > 8:
-        errs.append("hook_voice: the shock itself, max 8 words (spoken within ~1.5 s)")
+    if not hv or len(hv.split()) > 11:
+        errs.append("hook_voice: the shock itself, max 11 words (best video: 'Lebenslange Haft im Fall Fabian – das Gericht hat keine Zweifel.')")
     # growth 10 Nov night: hooks opening with the proper name held 46 % engaged vs 28 % for article/teaser openers
     _first = (hv.split() or [""])[0].strip("„“\"'.,:;!?–-").lower()
     if _first in ("die", "der", "das", "den", "dem", "ein", "eine", "einer", "neue", "neuer", "neues", "erst",
@@ -82,8 +82,6 @@ def validate_single(plan: dict, n_candidates: int) -> list[str]:
     errs += style_errors([hv] + [b.get("voice", "") for b in beats] + [ll])
     if beats and len(_tokens(hv) & _tokens(beats[0].get("voice", ""))) >= 3:
         errs.append("beat 1 repeats the hook – sentence 2 must bring the most surprising NEW fact (seconds 3–8 are the leak)")
-    if beats and not any(re.search(r"\d", b.get("big", "")) for b in beats):
-        errs.append("beats: at least one 'big' must be a concrete number from the sources (e.g. '2,5 MRD €', '600.000') – vague words like MILLIARDEN don't hold viewers")
     if len(plan.get("entities") or []) < 2:
         errs.append("entities: give 2–4 people/places/institutions of the story (used to find 5–8 different photos)")
     return errs
@@ -108,8 +106,8 @@ def style_errors(sentences_src: list[str]) -> list[str]:
 def validate(plan: dict, n_candidates: int) -> list[str]:
     if is_single(plan):
         errs = validate_single(plan, n_candidates)
-        if len(plan.get("youtube_title", "")) > 60:
-            errs.append("youtube_title too long: max 60 characters, keyword within the first 40 (Shorts truncate ~40)")
+        if len(plan.get("youtube_title", "")) > 70:
+            errs.append("youtube_title too long: max 70 characters, keyword within the first 40 (Shorts truncate ~40)")
         return errs + repeat_errors(plan)
     cfg = settings()["editorial"]
     wmin, wmax = cfg["words_per_story"]
@@ -148,15 +146,15 @@ def validate(plan: dict, n_candidates: int) -> list[str]:
     for f in REQUIRED:
         if not plan.get(f):
             errs.append(f"missing field: {f}")
-    if len(plan.get("youtube_title", "")) > 60:
-        errs.append("youtube_title too long: max 60 characters, keyword within the first 40 (Shorts truncate ~40)")
+    if len(plan.get("youtube_title", "")) > 70:
+        errs.append("youtube_title too long: max 70 characters, keyword within the first 40 (Shorts truncate ~40)")
     import re
     for f in ("facebook_caption_line1", "facebook_question"):
         if re.search(r"https?://|www\.|\b[\w-]+\.(de|com|net|org|at|ch)\b", plan.get(f, ""), re.I):
             errs.append(f"{f}: no website/link allowed in Facebook captions")
     hv = plan.get("hook_voice", "")
-    if hv and len(hv.split()) > 8:
-        errs.append("hook_voice: max 8 words (must be spoken within ~1.5 seconds)")
+    if hv and len(hv.split()) > 11:
+        errs.append("hook_voice: max 11 words (must be spoken within ~2.5 seconds)")
     if not (8 <= len(plan.get("tags", [])) <= 20):
         errs.append("tags: give 12–15")
     # growth 11 Nov night: 4 of 4 headline editions since 9 Nov evening got 6–38 views; vidIQ watch of

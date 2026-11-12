@@ -23,8 +23,7 @@ from PIL import Image, ImageOps
 from .config import HEADERS, TMP, settings
 from .feeds import Story
 
-BAD_URL = re.compile(r"logo|placeholder|default|fallback|sprite|icon|avatar|blank|pixel|share-image-generic|og-image\.png"
-                     r"|sendungsbild|screenshot|standbild|livestream|tvbild|videostill", re.I)   # no TV stills (reuse risk)
+BAD_URL = re.compile(r"logo|placeholder|default|fallback|sprite|icon|avatar|blank|pixel|share-image-generic|og-image\.png", re.I)
 
 
 @dataclass
@@ -187,8 +186,8 @@ def collect(stories: list[Story], plan_stories: list[dict]) -> list[list[Photo]]
             hashes.append(h)
             used_credit[credit] = used_credit.get(credit, 0) + 1
             photos.append(Photo(dest, credit, *img.size))
-        if len(photos) < hi:   # fill up with free-licensed photos of the people/places named in the story
-            for ent in (ps.get("entities") or [])[:3]:
+        if len(photos) < lo:   # emergency filler only (13 Nov: archive portraits hurt the look)
+            for ent in (ps.get("entities") or [])[:2]:
                 for url, credit in commons_images(ent, n=hi - len(photos)):
                     if len(photos) >= hi:
                         break

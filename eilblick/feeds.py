@@ -317,8 +317,6 @@ def rank(stories: list[Story], trends: list[str], max_age_h: float, blocked: lis
             outlet_score * 2.0
             + min(agg, 4) * 0.6
             + trend_pts                         # Google Trends DE: matches + real search volume
-            + controversy                       # conflict / everyday-life impact words
-            + prominent                         # known names people search for
             + max(0.0, 3.0 - age_h / 3)        # freshness
             + (1.0 if regional else 0.0)
         )

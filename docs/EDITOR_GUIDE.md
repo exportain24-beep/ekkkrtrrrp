@@ -31,7 +31,7 @@ Output: `queue/<date>_<slot>/plan.json` (schema below). Then run
 Both platforms test each video on a small seed audience first and only widen reach if those viewers
 watch instead of swiping, watch to the end, and interact. Meta additionally ranks originality and asks viewers
 whether content matches their interests. So:
-1. **First 1–2 seconds decide everything (viewed vs. swiped away).** `hook_voice` (max 8 words, spoken within ~1.5 s) is spoken first:
+1. **First 1–2 seconds decide everything (viewed vs. swiped away).** `hook_voice` (max 11 words, the verdict/shock first) is spoken first:
    the strongest keyword/number + why it matters, e.g. "Inflation sinkt auf zwei Komma acht Prozent – die Schlagzeilen."
    No greeting, no channel intro before the news.
 2. **Retention / completion:** every sentence must carry new information; no filler words; strongest story first,
@@ -46,8 +46,8 @@ whether content matches their interests. So:
 7. **Learn from data:** read `state/performance.md` (best videos first) before writing. Repeat what works (topics,
    hook types, title patterns of the top videos), avoid what underperforms – but never repeat a title.
 8. **Consistency:** the schedule in `config/settings.yaml` stays – never post extra videos.
-   Since 11 Nov 2026: **8 Shorts per day** – 07:00 Morgen-Briefing (4 stories) and 7 FOKUS slots (06:15, 10:00, 12:00,
-   14:30, 16:30, 18:30, 19:30). 12/day halved the reach per video (9–10 Nov); fewer, stronger, never repeated.
+   Since 13 Nov 2026: **12 Shorts per day** – 07:00 Morgen-Briefing (4 stories) and 11 FOKUS slots (06:15, 08:30, 10:00,
+   12:00, 13:15, 14:30, 16:30, 18:30, 19:30, 20:45, 22:00). Never repeated (rule 12).
 
 ## Growth rules (vidIQ sprint, owner 8 Nov 2026 – read `state/growth/brief.md`, `learnings.md` and `docs/SHORTS_PLAYBOOK.md` first)
 Data: single-story Shorts get the most views/hour in DACH news (own FOKUS + competitors). So:
@@ -90,11 +90,11 @@ Data: single-story Shorts get the most views/hour in DACH news (own FOKUS + comp
    at most once per 24 h across all slots.** The validator blocks a plan whose lead story shares ≥ 2 key words with any video of
    the last 24 h. Only a hard, sourced new fact may override it: set `"new_development": "<the new fact>"` (and it must be the
    strongest story of the moment). When in doubt pick the next-hottest *different* story – the candidate list has 28.
-13. **First 1.5 seconds (VVSA 45 % viewed vs. 55 % swiped – benchmark ≥ 70 %):** `hook_voice` max 8 words; the first word is
+13. **First 1.5 seconds (VVSA 45 % viewed vs. 55 % swiped – benchmark ≥ 70 %):** `hook_voice` max 11 words; the first word is
    the person/number; `hook_screen` / `hook_text` must be readable in one glance (2–4 words). No date, no "Eilblick", no greeting.
 14. **No subscribe CTA, no end card:** asking for subscriptions lowers end retention and does not raise subs on Shorts; the loop
    back into the hook is the ending. (The "+ FOLGEN" overlay was removed on 11 Nov.)
-15. **Topic spread across the day:** the 8 videos should cover at least 5 different topics (e.g. Bundespolitik, Ukraine/Europa,
+15. **Topic spread across the day:** the 12 videos should cover at least 5 different topics (e.g. Bundespolitik, Ukraine/Europa,
    USA, Wirtschaft/Geld with a known person, Gesellschaft/Justiz, Sport only if it is the day's talk). Viewers who swipe
    through our Shorts tab must see variety, not the same face.
 
@@ -103,15 +103,16 @@ Data: single-story Shorts get the most views/hour in DACH news (own FOKUS + comp
      ✗ „Merz verschärft den Ton gegenüber den europäischen Partnern“ → ✓ „Merz droht Brüssel: Ohne Geld kein Haushalt.“
    - Kein Amts-/Papierdeutsch: nicht „im Rahmen“, „seitens“, „hinsichtlich“, „in Milliardenhöhe“, „laut Ministeriumskreisen“
      (→ „laut Finanzministerium“ / „wie das Ministerium bestätigt“), keine Substantivketten auf -ung/-heit/-keit.
-   - Konkret statt vage: „Milliarden fehlen“ ✗ → die Zahl aus den Quellen ✓. Mindestens ein `big` mit echter Zahl.
+   - Konkret statt vage: „Milliarden fehlen“ ✗ → die Zahl aus den Quellen ✓ (wenn es eine gibt; sonst ein starkes Wort wie LEBENSLANG).
    - Satz 2 wiederholt NIE den Hook – er bringt den überraschendsten neuen Fakt.
    - Direkte Ansprache, wo es passt: „Für Sie heißt das …“, „Ihr Netto …“ (Sie-Form, seriös).
    - Zahlen so schreiben, wie sie gesprochen werden („zwei Komma fünf Milliarden Euro“), Namen beim ersten Mal mit Funktion
      („Finanzminister Lars Klingbeil“), danach nur Nachname. Korrekte Ämter (Bundeskanzler Merz).
    - Laut lesen: Wenn ein Satz beim Vorlesen holpert, umbauen. Keine Schachtelsätze, keine Klammern, keine Abkürzungen,
      die man nicht spricht (ca., u. a., z. B.).
-17. **Bilder (11 Nov):** `entities` = 2–4 Personen/Orte/Institutionen der Geschichte (für 5–8 verschiedene Fotos). Keine
-   TV-Standbilder mit Moderatoren; das System filtert sie. Ein Foto einer Person, die in der Geschichte nicht vorkommt, ist ein Fehler.
+17. **Bilder (13 Nov):** echte aktuelle Pressefotos der Geschichte (Gericht, Tatort-Umgebung ohne Opfer, Person in der
+   aktuellen Situation) schlagen Porträts. `entities` = 2–4 Personen/Orte/Institutionen (nur Notfall-Füllung über Wikimedia).
+   Ein Foto einer Person, die in der Geschichte nicht vorkommt, ist ein Fehler.
 18. **Facebook ist ein eigener Markt:** `state/performance.md` zeigt FB plays/likes/comments. FB-Ausreißer
    (Eishockey-WM 7.684 Plays, Orbán-Bruder 3.691 – auf YouTube 460 bzw. 32) zeigen: FB belohnt Sport-Politik und
    Osteuropa/Skandal stärker. `facebook_caption_line1` darf deshalb einen eigenen, FB-tauglichen Aufhänger haben (gleiche Fakten).
@@ -145,6 +146,24 @@ Data: single-story Shorts get the most views/hour in DACH news (own FOKUS + comp
    „… berichten von …“ 40. Engaged/views 9 Nov: person-first hooks Ø 47 % (6 videos) vs. place/thing-first Ø 36 % (5).
    ✓ „Habeck wirft Trump Verrat vor.“ ✓ „Merz droht Brüssel.“ ✗ „Palmer sagt Termine ab.“ – find the conflict in the sources
    (who attacks whom, who loses what), never invent one.
+
+## WHAT WINS – our own data (13 Nov 2026, YouTube + Facebook) – read this before choosing a story
+| Video | YouTube | Facebook | why |
+|---|---|---|---|
+| Fall Fabian: Lebenslang für Gina H. | 1.712 | **9.106** plays, 268 likes | true crime + court verdict, child victim, motive, "LEBENSLANG!" as one-word hook, court photo |
+| Orbán-Bruder festgenommen: Menschenhandel | 44 | **17.640** plays, 736 likes, 108 comments | scandal + arrest of a powerful family, clear villain question |
+| Eishockey-WM 2027: Nein zu Russland | 531 | **7.684** | sport + politics conflict that every fan has an opinion on |
+| Trump: Ukraine wird „andere Form“ haben | 1.200 | – | war/peace with a shocking quote |
+| Merz droht EU mit Haushalts-Blockade | 1.143 | – | Chancellor threatens – conflict with a known face |
+| Habeck: „Trump-Regierung hat die Ukraine verraten“ | 1.021 | – | strong quote, accusation |
+| Selenskyj in Berlin / Kushner / Nvidia-Spionin | 865–1.490 | – | big names, war, scandal |
+**Losers (< 60 views):** Blatter/FIFA, DAX-Rekord, EU-Abo-Fallen, IG Metall, China-Autos der Bundeswehr, Vodafone-Jobs,
+Milliardärssteuer Kalifornien, Tagesrückblick-Wiederholungen – dry institutional/economic topics without a face, a victim or a fight.
+**So the order of preference among equally popular stories:** (1) crime & justice with a verdict/arrest (no gore, no
+victim details, no nationality framing), (2) scandal / downfall of a powerful person, (3) war & peace with Trump/Putin/
+Selenskyj/Merz and a sharp quote, (4) a known politician threatening/accusing/resigning, (5) money in your pocket
+(only if the number is big and personal). Dry economy, sports officials, EU regulation and US domestic politics without a
+DACH angle only if nothing else is big.
 
 ## Thumbnail = first impression (the system renders it from your fields)
 - Story 1 must be the strongest story **with good photos** (it provides the thumbnail photo and the hook).
@@ -185,7 +204,7 @@ Re-read your draft as the final editor ("Schlussredakteur"):
 
 ## SEO rules (German audience, triple layer: voice · on-screen text · metadata)
 - The main keyword of story 1 must appear in: the first spoken words, `hook_text`, and the start of `youtube_title`.
-- `youtube_title`: **max 60 characters, the keyword within the first 40** (Shorts show ~40), `Entity: curious fact` pattern, max 1 emoji, no hashtags, unique every time.
+- `youtube_title`: **max 70 characters, the keyword within the first 40** (Shorts show ~40), `Entity: curious fact` pattern, max 1 emoji, no hashtags, unique every time.
   Examples: `VW-Krise eskaliert: Schließen jetzt 3 Werke in Deutschland? 🚨`, `Rentenpaket beschlossen: Was sich ab Januar ändert`.
 - `description_lead`: 2 sentences containing the key entities of all stories (people search for names).
 - `tags`: 12–15 – first the concrete names/institutions/places of the stories (e.g. "Friedrich Merz", "Bundestag",
@@ -227,9 +246,9 @@ Field limits: `kicker` ≤ 18 chars UPPERCASE place/area · `headline` ≤ 38 ch
 (shown in red) · `subline` ≤ 70 chars · `entities` used for extra free-licence photos.
 
 
-## FOKUS format (every slot with `format: single` in config/settings.yaml – since 11 Nov 2026: 06:15, 10:00, 12:00, 14:30, 16:30, 18:30, 19:30)
+## FOKUS format (every slot with `format: single` in config/settings.yaml – since 13 Nov 2026: 06:15, 08:30, 10:00, 12:00, 13:15, 14:30, 16:30, 18:30, 19:30, 20:45, 22:00)
 The slot's format in candidates.json (`slot.format`) decides – it overrides any older wording in a task prompt.
-With 7 FOKUS slots a day (8 Shorts per day in total): every FOKUS must be a different story; check the last 24 h of state/runs/*.json first.
+With 11 FOKUS slots a day (12 Shorts per day in total): every FOKUS must be a different story; check the last 24 h of state/runs/*.json first.
 **One video = one real story, 30–35 seconds.** No list of headlines, no "Die Schlagzeilen …", no intro,
 no logo outro – the last sentence flows straight back into the first second (loop).
 Pick the ONE most popular, most-discussed real story right now from candidates.json (highest score / most outlets / Google-Trends; `slot.focus` is only a tie-breaker – never force a topic) (verified by ≥2 outlets, only facts
