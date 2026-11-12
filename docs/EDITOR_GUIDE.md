@@ -57,9 +57,9 @@ Data: single-story Shorts get the most views/hour in DACH news (own FOKUS + comp
    the first story must be the single strongest story, and every following `voice` must open with its own hook word
    (entity + surprise), never a weak bridge.
 2. **Story 1 carries everything alone:** `youtube_title`, `hook_text`, `hook_voice` and thumbnail are about story 1 only – never a list of topics.
-3. **Title = concrete statement of fact** (not an explainer question): entity first, strong verb, ≤ 60 characters,
-   at most one "!" and only if fully true. E.g. `Bundeswehr-Hubschrauber können nicht schießen!`, `Söder nach Aiwangers Tod: „Ich bin schockiert“`.
-   Use `nachrichten`/`aktuell`, person names, `AfD`, `Ukraine`, `Trump` in title/tags when the story really is about them.
+3. **Title (13 Nov: back to the growth-period style):** `Person/Thema: neugierig machender Fakt oder Frage` – like our
+   1K+ titles „Merz unter Druck: CDU-Basis sieht ‚Alarmstufe dunkelrot‘“, „Linke gegen eigene Abgeordnete: Muss Vanessa Emde
+   jetzt gehen?“, „Fall Fabian: Lebenslang für Gina H. – reichen Indizien für Mord?“. Questions are allowed again.
 4. **Serial stories:** if a story from `already_published` has a clear new development and is still hot, do the follow-up
    and say what is new ("Wende bei …", "Jetzt bestätigt: …").
 5. Never: nationality/origin framing that the story does not need, hate, rumours, graphic content – growth through sharpness, not agitation.

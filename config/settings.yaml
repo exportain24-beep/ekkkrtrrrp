@@ -210,5 +210,5 @@ seo:
     WIRTSCHAFT: {title: "Wirtschaft & Börse aktuell – DAX, Inflation, Energiepreise", description: "Wirtschaftsnachrichten: DAX, EZB, Inflation, Autoindustrie und Energiepreise – kompakt in Kurzform."}
     WELT: {title: "Weltnachrichten – NATO, EU & Geopolitik", description: "Internationale Nachrichten mit Bedeutung für Deutschland und Europa: NATO, EU, Welthandel und Zölle."}
     TECHNOLOGIE: {title: "Technologie & KI News – Digitales aus Deutschland", description: "Technik-Nachrichten: Künstliche Intelligenz, Cybersicherheit, Deutsche Bahn und digitale Infrastruktur."}
-  base_hashtags_youtube: ["#nachrichten", "#nachrichtenaktuell", "#eilblick"]
+  base_hashtags_youtube: ["#eilblick", "#nachrichten", "#deutschland"]   # 13 Nov: back to the growth-period hashtags
   base_hashtags_facebook: ["#Eilblick", "#Nachrichten", "#Deutschland"]
