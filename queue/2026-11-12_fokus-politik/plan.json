@@ -1,0 +1,69 @@
+{
+ "format": "single",
+ "candidate_id": 12,
+ "pillar": "POLITIK",
+ "region": "DE",
+ "kicker": "DRESDEN",
+ "hook_screen": "KONTROLLEN RECHTSWIDRIG!",
+ "hook_voice": "Dobrindts Grenzkontrollen waren rechtswidrig, urteilt ein Gericht!",
+ "beats": [
+  {
+   "voice": "Verwaltungsgericht Dresden: Kontrollen an den Grenzen zu Polen und Tschechien verstoßen in zwei Fällen gegen EU-Recht.",
+   "big": "2 Urteile",
+   "label": "gegen das Bundesinnenministerium"
+  },
+  {
+   "voice": "Geklagt haben ein Pole aus Görlitz und ein Brandenburger, kontrolliert von der Bundespolizei, auch auf der A siebzehn.",
+   "big": "A17",
+   "label": "Kontrolle im Mai bei Breitenau"
+  },
+  {
+   "voice": "Der Bund verlängert die Kontrollen immer wieder um sechs Monate, wegen illegaler Migration.",
+   "big": "6 Monate",
+   "label": "so oft verlängert der Bund"
+  },
+  {
+   "voice": "Endgültig ist das nicht: Die Berufung ist zugelassen.",
+   "big": "Berufung",
+   "label": "Oberverwaltungsgericht entscheidet"
+  }
+ ],
+ "loop_line": "Fallen die Grenzkontrollen jetzt – oder hält Dobrindt an ihnen fest?",
+ "headline": "Gericht: Grenzkontrollen rechtswidrig",
+ "highlight": [
+  "Grenzkontrollen"
+ ],
+ "entities": [
+  "Alexander Dobrindt",
+  "Görlitz",
+  "Bundespolizei",
+  "Verwaltungsgericht Dresden"
+ ],
+ "youtube_title": "Dobrindts Grenzkontrollen rechtswidrig: Fallen sie jetzt?",
+ "description_lead": "Das Verwaltungsgericht Dresden hat Grenzkontrollen zu Polen und Tschechien in zwei Fällen für rechtswidrig erklärt – eine Niederlage für das Bundesinnenministerium von Alexander Dobrindt. Geklagt hatten ein Pole aus Görlitz und ein Brandenburger; die Berufung zum Sächsischen Oberverwaltungsgericht ist zugelassen.",
+ "tags": [
+  "Alexander Dobrindt",
+  "Grenzkontrollen",
+  "Verwaltungsgericht Dresden",
+  "Bundesinnenministerium",
+  "Bundespolizei",
+  "Görlitz",
+  "Polen",
+  "Tschechien",
+  "A17",
+  "Schengen",
+  "EU-Recht",
+  "Migration",
+  "Urteil",
+  "nachrichten",
+  "aktuell"
+ ],
+ "hashtags": [
+  "#grenzkontrollen",
+  "#dobrindt",
+  "#urteil"
+ ],
+ "facebook_caption_line1": "Urteil in Dresden: Grenzkontrollen zu Polen und Tschechien waren rechtswidrig",
+ "facebook_question": "Sollten die Kontrollen an den Grenzen bleiben oder abgeschafft werden?",
+ "comment_question": "Grenzkontrollen beibehalten – ja oder nein?"
+}
