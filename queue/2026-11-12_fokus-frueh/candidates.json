@@ -1,0 +1,1670 @@
+{
+ "slot": {
+  "id": "fokus-frueh",
+  "format": "single",
+  "time": "06:15",
+  "label": "Fokus am Morgen",
+  "focus": "Nur Tie-Breaker – immer zuerst die populärsten, meistberichteten Nachrichten. Bei Gleichstand bevorzugt: Die wichtigste Eilmeldung der Nacht, die die Menschen in Deutschland, Österreich und der Schweiz heute betrifft.",
+  "notify_subscribers": false
+ },
+ "slot_time": "2026-11-12T06:15:00+01:00",
+ "date_text": "Donnerstag, 12. November 2026",
+ "already_published": [
+  "Amtsenthebung gegen Hegseth beantragt",
+  "FBI ermittelt in Nvidia-Affäre",
+  "Bund kauft Panzerbauer-Anteil",
+  "Preisdeckel für Ticketbörsen",
+  "Aigner offiziell nominiert",
+  "Merz droht mit EU-Haushaltsblockade",
+  "Schlesinger-Prozess beginnt in Berlin",
+  "Kalifornien kippt Milliardärssteuer",
+  "Nmecha verteidigt umstrittenen Torjubel",
+  "Lebenslang im Fall Fabian",
+  "Ukraine-Gespräche ohne Europa?",
+  "Klingbeil will Steuerklasse III kippen",
+  "Iran unter Verdacht: Kühlregal-Hacks",
+  "Ukraine-Gespräche: Erste Einigung?",
+  "Steuerklassen III und V vor dem Aus",
+  "Nvidia-Affäre: Jetzt warnt Deutschland",
+  "Aigner sagt der AfD ab",
+  "Linke will Emde aus Fraktion werfen",
+  "Bundeswehr sperrt China-Autos aus",
+  "Hegseth: Amtsenthebung gescheitert",
+  "Ältere fehlen 31 Tage im Jahr krank",
+  "E-Auto-Prämie: Doppelt so viel Geld",
+  "Habeck wirft Trump Ukraine-Verrat vor",
+  "Pistorius: Soldatinnen belästigt",
+  "Palmer sagt alle Auftritte ab",
+  "Drohmails: Italien räumt 300 Schulen",
+  "Prien plant Grenze beim Vorschuss",
+  "EU will Abo-Fallen verbieten"
+ ],
+ "candidates": [
+  {
+   "id": 0,
+   "score": 24.4,
+   "outlets": [
+    "tagesschau Wirtschaft",
+    "ZDFheute",
+    "Deutsche Welle",
+    "SPIEGEL",
+    "ZEIT ONLINE",
+    "Handelsblatt",
+    "NZZ",
+    "WirtschaftsWoche",
+    "heise online",
+    "DER STANDARD",
+    "Golem"
+   ],
+   "regions": [
+    "AT",
+    "CH",
+    "DE",
+    "INT"
+   ],
+   "trend": [],
+   "newest": "2026-11-12T01:02:49+00:00",
+   "articles": [
+    {
+     "source": "tagesschau Wirtschaft",
+     "region": "DE",
+     "weight": 1.0,
+     "title": "Affäre von Nvidia-Chef Huang: Darum geht es beim Spionage-Verdacht",
+     "summary": "Der US-Chipkonzern Nvidia ermittelt gegen seinen Chef Jensen Huang wegen einer Affäre mit einer mutmaßlichen chinesischen Spionin. Welche Vorwürfe konkret im Raum stehen - und welche Folgen sie haben könnten.",
+     "link": "https://www.tagesschau.de/wirtschaft/unternehmen/faq-nvidia-spionage-100.html",
+     "image": "https://images.tagesschau.de/image/9d4d98a9-ed98-4d6a-9f9c-bd1d9782eb0d/AAABocCr9uU/AAABnSSvrFg/16x9-big/nvidia-logo-102.jpg?width=1920",
+     "aggregator": false,
+     "published": "2026-11-09T13:58:03+00:00"
+    },
+    {
+     "source": "tagesschau Wirtschaft",
+     "region": "DE",
+     "weight": 1.0,
+     "title": "Untersuchung gegen Nvidia-Chef Huang wegen möglicher Spionin aus China",
+     "summary": "Der KI-Chip-Gigant Nvidia hat nach Berichten über einen Spionageverdacht eine Untersuchung gegen seinen Gründer und Konzernchef Jensen Huang eingeleitet. Er soll eine Affäre mit einer mutmaßlichen chinesischen Spionin gehabt haben.",
+     "link": "https://www.tagesschau.de/wirtschaft/unternehmen/nvidia-spionage-pruefung-100.html",
+     "image": "https://images.tagesschau.de/image/34f93b54-ef67-4531-97e6-4a40dc5724cc/AAABob68p7E/AAABnSSvrFg/16x9-big/nvidia-184.jpg?width=1920",
+     "aggregator": false,
+     "published": "2026-11-09T03:32:51+00:00"
+    },
+    {
+     "source": "ZDFheute",
+     "region": "DE",
+     "weight": 1.0,
+     "title": "Affäre von Nvidia-Chef: FBI ermittelt",
+     "summary": "Wegen der Affäre von Nvidia-Chef Jensen Huang mit einer möglichen chinesischen Spionin ermittelt laut US-Präsident Donald Trump nun auch das FBI.",
+     "link": "https://www.zdfheute.de/video/wirtschaft-nvidia-fbi-100.html",
+     "image": "https://www.zdfheute.de/assets/huang-archiv-100~384x216?cb=1794316422266",
+     "aggregator": false,
+     "published": "2026-11-10T15:45:00+00:00"
+    },
+    {
+     "source": "Deutsche Welle",
+     "region": "INT",
+     "weight": 0.95,
+     "title": "Die Affäre des Nvidia-Chefs und die Folgen",
+     "summary": "Nvidia-Chef Jensen Huang hat sich für eine Affäre mit einer Frau entschuldigt, die nach Einschätzung der USA für China spioniert hat. Wie weitreichend sind die Folgen für das wertvollste Unternehmen der Welt?",
+     "link": "https://www.dw.com/de/die-affäre-des-nvidia-chefs-und-die-folgen/a-79900932?maca=de-rss-de-all-1119-xml-mrss",
+     "image": "https://static.dw.com/image/75070893_302.jpg",
+     "aggregator": false,
+     "published": "2026-11-09T16:24:00+00:00"
+    },
+    {
+     "source": "Deutsche Welle",
+     "region": "INT",
+     "weight": 0.95,
+     "title": "Nvidia-Chef Huang wegen Spionageverdachts unter Druck",
+     "summary": "Eine außereheliche Beziehung bringt den Chef des KI-Chipgiganten Nvidia in Bedrängnis. Die Frau soll für China spioniert haben. Der Konzern untersucht die Vorwürfe, während US-Präsident Trump Huang den Rücken stärkt.",
+     "link": "https://www.dw.com/de/nvidia-chef-huang-wegen-spionageverdachts-unter-druck/a-79895905?maca=de-rss-de-all-1119-xml-mrss",
+     "image": "https://static.dw.com/image/79708793_302.jpg",
+     "aggregator": false,
+     "published": "2026-11-09T08:34:00+00:00"
+    },
+    {
+     "source": "SPIEGEL",
+     "region": "DE",
+     "weight": 0.9,
+     "title": "Nvidia – Jensen Huang: Wer ist Alice Huang, die Frau im Zentrum des mutmaßlichen Spionage-Falls?",
+     "summary": "Als Agentin des chinesischen Geheimdiensts soll sie Nvidia-Chef Jensen Huang ausspioniert haben. Aber so viel man über den schillernden Techboss weiß, so wenig ist über die Frau bekannt, die ihn nun in Schwierigkeiten bringt.",
+     "link": "https://www.spiegel.de/ausland/nvidia-jensen-huang-wer-ist-alice-huang-die-frau-im-zentrum-des-mutmasslichen-spionage-falls-a-e2ac78df-b6a3-4248-a836-753b92bd7776#ref=rss",
+     "image": "https://cdn.prod.www.spiegel.de/images/374245d4-babc-4937-ba30-22a605bb3e40_w520_r2.08_fpx46_fpy37.jpg",
+     "aggregator": false,
+     "published": "2026-11-11T17:12:00+00:00"
+    },
+    {
+     "source": "ZEIT ONLINE",
+     "region": "DE",
+     "weight": 0.9,
+     "title": "Chef von Nvidia: Nvidia diskutiert über mögliche Ablösung von Konzernchef Jensen Huang",
+     "summary": "Nach neuen Berichten über eine mutmaßliche Affäre berät der Verwaltungsrat laut US-Medien über die Zukunft von Jensen Huang. Offenbar sucht Nvidia bereits eine Nachfolge.",
+     "link": "https://www.zeit.de/wirtschaft/unternehmen/2026-11/nvidia-jensen-huang-unternehmenschef-verwaltungsrat-usa",
+     "image": "https://img.zeit.de/wirtschaft/unternehmen/2026-11/nvidia-jensen-huang-unternehmenschef-verwaltungsrat-usa-foto-1/original__640x360",
+     "aggregator": false,
+     "published": "2026-11-12T00:52:45+00:00"
+    },
+    {
+     "source": "Handelsblatt",
+     "region": "DE",
+     "weight": 0.9,
+     "title": "Börse: Nvidia-Aktie fällt nach Berichten über möglichen Chefwechsel",
+     "summary": "Die Affäre des Nvidia-Chefs Jensen Huang mit einer möglichen Spionin belastet den Chip-Konzern. Sein Börsenwert ist bereits deutlich gesunken - nach Medienberichten geht es nun weiter nach unten.",
+     "link": "https://www.handelsblatt.com/politik/deutschland/boerse-nvidia-aktie-faellt-nach-berichten-ueber-moeglichen-chefwechsel/100269255.html",
+     "image": "https://images.handelsblatt.com/CDhO88Z60oSe/cover/900/506/0/0/107/106/0.5/0.5/jensen-huang.jpg",
+     "aggregator": false,
+     "published": "2026-11-12T00:16:27+00:00"
+    }
+   ]
+  },
+  {
+   "id": 1,
+   "score": 18.03,
+   "outlets": [
+    "tagesschau",
+    "ZDFheute",
+    "Deutsche Welle",
+    "Deutschlandfunk",
+    "SPIEGEL",
+    "Handelsblatt",
+    "NZZ"
+   ],
+   "regions": [
+    "CH",
+    "DE",
+    "INT"
+   ],
+   "trend": [],
+   "newest": "2026-11-12T02:57:08+00:00",
+   "articles": [
+    {
+     "source": "tagesschau",
+     "region": "DE",
+     "weight": 1.0,
+     "title": "Russland und Ukraine vereinbaren Gefangenenaustausch",
+     "summary": "Bei den Ukraine-Gesprächen haben Moskau und Kiew einen weiteren Gefangenenaustausch vereinbart. Morgen wollen die US-Gesandten Kushner und Witkoff zu Kremlchef Putin reisen. Dabei soll es auch darum gehen, die Europäer in die Gespräche einzubinden.",
+     "link": "https://www.tagesschau.de/ausland/asien/ukraine-russland-verhandlungen-abu-dhabi-104.html",
+     "image": "https://images.tagesschau.de/image/fb34507e-db2f-412f-8388-e9699241da24/AAABocn9QYE/AAABnSSvrFg/16x9-big/abu-dhabi-ukraine-gespraeche-102.jpg?width=1920",
+     "aggregator": false,
+     "published": "2026-11-11T17:30:18+00:00"
+    },
+    {
+     "source": "ZDFheute",
+     "region": "DE",
+     "weight": 1.0,
+     "title": "Russland und Ukraine einigen sich auf Gefangenenaustausch",
+     "summary": "Moskau und Kiew haben nach russischen Angaben einen groß angelegten Austausch von Kriegsgefangenen vereinbart. Die US-Gesandten reisen nun weiter zu Putin nach Moskau.",
+     "link": "https://www.zdfheute.de/politik/ausland/gefangenenaustausch-gespraeche-ukraine-krieg-russland-100.html",
+     "image": "https://www.zdfheute.de/assets/gespraeche-ukraine-russland-abu-dhabi-100~384x216?cb=1794397227927",
+     "aggregator": false,
+     "published": "2026-11-11T13:03:00+00:00"
+    },
+    {
+     "source": "Deutsche Welle",
+     "region": "INT",
+     "weight": 0.95,
+     "title": "Selenskyj sieht Fortschritte bei Ukraine-Gesprächen in Abu Dhabi - News kompakt: Das Wichtigste kurz gefasst",
+     "summary": "Bei Gesprächen in Abu Dhabi wird wohl ein großer Gefangenenaustausch zwischen Ukraine und Russland vorbereitet. US-Verteidigungsminister Hegseth entgeht vorerst einem Amtsenthebungsverfahren. Der DW-Nachrichtenüberblick.",
+     "link": "https://www.dw.com/de/selenskyj-sieht-fortschritte-bei-ukraine-gesprächen-in-abu-dhabi-news-kompakt-das-wichtigste-kurz-gefasst/a-79914261?maca=de-rss-de-all-1119-xml-mrss",
+     "image": "https://static.dw.com/image/79871283_302.jpg",
+     "aggregator": false,
+     "published": "2026-11-11T08:09:00+00:00"
+    },
+    {
+     "source": "Deutschlandfunk",
+     "region": "DE",
+     "weight": 0.95,
+     "title": "Pendeldiplomatie - US-Unterhändler reisen zu Kremlchef Putin in Moskau",
+     "summary": "In Russland werden heute die US-Unterhändler Witkoff und Kushner erwartet.",
+     "link": "https://www.deutschlandfunk.de/us-unterhaendler-reisen-zu-kremlchef-putin-in-moskau-102.html",
+     "image": "https://bilder.deutschlandfunk.de/ff/ec/76/17/ffec7617-48af-4714-88fb-21427d4c5fad/wittkoll-kushner-usa-iran-100-1920x1920.jpg",
+     "aggregator": false,
+     "published": "2026-11-12T02:57:08+00:00"
+    },
+    {
+     "source": "SPIEGEL",
+     "region": "DE",
+     "weight": 0.9,
+     "title": "Russland - Ukraine: USA wollen Europäer an den Verhandlungstisch bringen",
+     "summary": "Die EU müsse »integraler Bestandteil« der Verhandlungen zwischen Moskau und Kyjiw sein: Kushner und Witkoff wollen Europa bei Gesprächen zu einem Kriegsende dabeihaben – Putin müssten sie aber noch überzeugen.",
+     "link": "https://www.spiegel.de/ausland/russland-ukraine-usa-wollen-europaeer-an-den-verhandlungstisch-bringen-a-2783d7a9-75f1-4d41-9797-2718e209e9d4#ref=rss",
+     "image": "https://cdn.prod.www.spiegel.de/images/f65cabd4-3623-480d-acb1-7236f52111d2_w520_r2.08_fpx49.3_fpy49.99.jpg",
+     "aggregator": false,
+     "published": "2026-11-11T18:22:00+00:00"
+    },
+    {
+     "source": "SPIEGEL",
+     "region": "DE",
+     "weight": 0.9,
+     "title": "News des Tages: Klimagipfel, Gefangenenaustausch, Wirtschaftswachstum",
+     "summary": "Der Kanzler feiert seinen Geburtstag mit der Familie statt auf der Weltklimakonferenz. Russland und die Ukraine vereinbaren einen Gefangenenaustausch. Und die Arbeitslosigkeit unter Akademikern steigt. Das ist die Lage am Mittwochabend.",
+     "link": "https://www.spiegel.de/politik/deutschland/news-des-tages-klimagipfel-gefangenenaustausch-wirtschaftswachstum-a-ddc8caa0-c4ab-40a7-80f5-ce6bcb8d072b#ref=rss",
+     "image": "https://cdn.prod.www.spiegel.de/images/40b26dbd-b890-4dab-9fd2-270a48980843_w520_r2.08_fpx45_fpy41.jpg",
+     "aggregator": false,
+     "published": "2026-11-11T16:33:00+00:00"
+    },
+    {
+     "source": "Handelsblatt",
+     "region": "DE",
+     "weight": 0.9,
+     "title": "Ukraine-Gespräche: Moskau und Kiew vereinbaren Austausch von mehr als 1000 Gefangenen",
+     "summary": "Der US-Gesandte Kushner hat die beendeten Ukraine-Gespräche in Abu Dhabi als „ersten guten Schritt“ bezeichnet. Weitere diplomatische Treffen sind geplant. Laut der russischen Nachrichtenagentur Tass sollen zudem Gefangene ausgetauscht werden.",
+     "link": "https://www.handelsblatt.com/video/politik/ukraine-gespraeche-moskau-und-kiew-vereinbaren-austausch-von-mehr-als-1000-gefangenen/100269181.html",
+     "image": null,
+     "aggregator": false,
+     "published": "2026-11-11T17:03:45+00:00"
+    },
+    {
+     "source": "Handelsblatt",
+     "region": "DE",
+     "weight": 0.9,
+     "title": "Verhandlungen über Kriegsende: Ukraine-Gespräche: USA wollen Europäer an den Tisch bringen",
+     "summary": "An zwei Tagen verhandelten Russen und Ukrainer unter US-Vermittlung. Die US-Gesandten wollen nun mit Kremlchef Putin und dem ukrainischen Präsidenten Selenskyj sprechen. Und sie haben ein Ziel.",
+     "link": "https://www.handelsblatt.com/politik/international/verhandlungen-ueber-kriegsende-ukraine-gespraeche-usa-wollen-europaeer-an-den-tisch-bringen/100268925.html",
+     "image": "https://images.handelsblatt.com/AezM5bsVy0JW/cover/900/506/0/0/107/106/0.5/0.5/ukraine-gespraeche-in-abu-dhabi.jpg",
+     "aggregator": false,
+     "published": "2026-11-11T16:14:01+00:00"
+    }
+   ]
+  },
+  {
+   "id": 2,
+   "score": 13.93,
+   "outlets": [
+    "tagesschau",
+    "Deutschlandfunk",
+    "Handelsblatt",
+    "DER STANDARD",
+    "n-tv",
+    "n-tv.de"
+   ],
+   "regions": [
+    "AT",
+    "DE",
+    "INT"
+   ],
+   "trend": [],
+   "newest": "2026-11-12T02:57:08+00:00",
+   "articles": [
+    {
+     "source": "tagesschau",
+     "region": "DE",
+     "weight": 1.0,
+     "title": "Papst Leo in Argentinien: Klartext gegen Mileis Kettensägen-Politik",
+     "summary": "Papst Leo XIV. ist in Argentinien von Millionen Menschen gefeiert worden. Bei seinem Besuch kritisierte er die Sozialpolitik von Präsident Milei deutlich. Aber erreicht die Botschaft auch den Empfänger? Von T. Kleinjung.",
+     "link": "https://www.tagesschau.de/ausland/amerika/papst-argentinien-milei-100.html",
+     "image": "https://images.tagesschau.de/image/247f2c44-c272-4230-911e-d186afb8ddee/AAABockvycw/AAABnSSvrFg/16x9-big/cordoba-papst-102.jpg?width=1920",
+     "aggregator": false,
+     "published": "2026-11-11T05:54:38+00:00"
+    },
+    {
+     "source": "tagesschau Ausland",
+     "region": "INT",
+     "weight": 1.0,
+     "title": "Papst Leo in Argentinien: Klartext gegen Mileis Kettensägen-Politik",
+     "summary": "Papst Leo XIV. ist in Argentinien von Millionen Menschen gefeiert worden. Bei seinem Besuch kritisierte er die Sozialpolitik von Präsident Milei deutlich. Aber erreicht die Botschaft auch den Empfänger? Von T. Kleinjung.",
+     "link": "https://www.tagesschau.de/ausland/amerika/papst-argentinien-milei-100.html",
+     "image": "https://images.tagesschau.de/image/247f2c44-c272-4230-911e-d186afb8ddee/AAABockvycw/AAABnSSvrFg/16x9-big/cordoba-papst-102.jpg?width=1920",
+     "aggregator": false,
+     "published": "2026-11-11T05:54:38+00:00"
+    },
+    {
+     "source": "Deutschlandfunk",
+     "region": "DE",
+     "weight": 0.95,
+     "title": "Argentinien - Mehr als zwei Millionen Menschen bei Papst-Messe",
+     "summary": "Papst Leo XIV. hat zum Abschluss seines Besuchs in Argentinien eine Freiluftmesse gefeiert.",
+     "link": "https://www.deutschlandfunk.de/mehr-als-zwei-millionen-menschen-bei-papst-messe-104.html",
+     "image": "https://bilder.deutschlandfunk.de/c8/8c/65/85/c88c6585-1f49-4582-8c6e-b2b010b0faba/papst-leo-argentinien-100-1920x1920.jpg",
+     "aggregator": false,
+     "published": "2026-11-12T02:57:08+00:00"
+    },
+    {
+     "source": "Handelsblatt",
+     "region": "DE",
+     "weight": 0.9,
+     "title": "Argentinien: Papst Leo bei Milei: Wirtschaftskritik ja, aber pragmatisch statt antikapitalistisch",
+     "summary": "Bei seiner Südamerika-Reise kritisiert Leo XIV. Argentiniens Präsidenten. Der Papst tritt dabei diplomatischer auf als sein Vorgänger und verbessert so das Ansehen der Kirche.",
+     "link": "https://www.handelsblatt.com/politik/international/argentinien-papst-leo-bei-milei-wirtschaftskritik-ja-aber-pragmatisch/100268730.html",
+     "image": "https://images.handelsblatt.com/9Ek-HzmWtBSJ/cover/900/506/0/0/173/172/0.5/0.5/pope-leo-xiv-shakes-hands-with-argentinas-president-javier-milei-as-he-meets-authorities-civil-soc.jpg",
+     "aggregator": false,
+     "published": "2026-11-11T17:00:42+00:00"
+    },
+    {
+     "source": "DER STANDARD",
+     "region": "AT",
+     "weight": 0.85,
+     "title": "Mehr als drei Millionen Menschen bei Papst-Messe in Argentinien",
+     "summary": "Es war die bisher größte Messe des Pontifikats von Papst Leo XIV. Die dritte und letzte Station seiner Südamerika-Reise ist Peru",
+     "link": "https://www.derstandard.at/story/3000000348815/mehr-als-drei-millionen-menschen-bei-papst-messe-in-argentinien?ref=rss",
+     "image": "https://i.ds.at/D-3wpw/rs:fill:150:0/plain/lido-images/2026/11/11/dea7d6e9-acfe-40e4-9c04-e0a8a1bd9932.jpg",
+     "aggregator": false,
+     "published": "2026-11-11T18:29:34+00:00"
+    },
+    {
+     "source": "n-tv",
+     "region": "DE",
+     "weight": 0.8,
+     "title": "Drei Millionen Pilger: Papst feiert in Argentinien größte Messe seines Pontifikats",
+     "summary": "Papst Leo XIV. hat am Wochenende eine große Südamerika-Reise angetreten. Zweite Station ist Argentinien. Millionen Menschen kommen zu seinen Messen. In seinen Predigten kritisiert er Staatschef Milei.",
+     "link": "https://www.n-tv.de/panorama/Papst-feiert-in-Argentinien-groesste-Messe-seines-Pontifikats-id31523516.html",
+     "image": "https://www.n-tv.de/img/31523512/1794423682/Img_4_3/250/AFP__20261111__D77C6ZR__v1__HighRes__ArgentinaVaticanReligionPopeVisit.jpg",
+     "aggregator": false,
+     "published": "2026-11-11T18:37:04+00:00"
+    },
+    {
+     "source": "n-tv.de",
+     "region": "DE",
+     "weight": 0.6,
+     "title": "Drei Millionen Pilger: Papst feiert in Argentinien größte Messe seines Pontifikats",
+     "summary": "Drei Millionen Pilger: Papst feiert in Argentinien größte Messe seines Pontifikats n-tv.de Papst Leo in Argentinien: Klartext gegen Mileis Kettensägen-Politik tagesschau.de In Lateinamerika taut Leo XIV. auf katholisch.de Argentinien: Nach der Kritik des Papstes ist Javier Milei auf sich allein gestellt WELT Folge 13: Papstkritik an Milei++\"Wir sind Kirche\" feiert RTL+",
+     "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQdlMwbE0xdDRUdlF6UE9WVG1WRU1MN0RleDZnZExLUVZ0T3FvU1hjbWJoRlViLVZHcVdDdEd0RDVCaEZ4bkNHZUNKN3VobG9TTHdETjJQNFBZWUVma3FaYWJsVjdINEFNdTk4WU9rUUs3d0VkZmh1ZDQ0NFlsUmZ6a2hsR2ptcTNnQlhCelJpSW8xaDhTbzZRRGNVaTRwdkkzbzUxNU1Tb0xadw?oc=5",
+     "image": null,
+     "aggregator": true,
+     "published": "2026-11-11T18:37:04+00:00"
+    }
+   ]
+  },
+  {
+   "id": 3,
+   "score": 12.4,
+   "outlets": [
+    "Handelsblatt",
+    "WirtschaftsWoche",
+    "n-tv",
+    "Golem"
+   ],
+   "regions": [
+    "DE"
+   ],
+   "trend": [
+    "gta vi",
+    "Aktien von Telekom und 1&1 uneins: Vorab-Downloads von GTA 6 treiben Datenverkehr in die Höhe",
+    "GTA VI: Vorab-Download treibt Internetverkehr in Frankfurt auf Rekordhöhe"
+   ],
+   "newest": "2026-11-11T18:13:21+00:00",
+   "articles": [
+    {
+     "source": "Handelsblatt",
+     "region": "DE",
+     "weight": 0.9,
+     "title": "Neues Videospiel: Vorab-Downloads von GTA 6 treiben Datenverkehr in die Höhe",
+     "summary": "Die Vorfreude auf „Grand Theft Auto VI“ ist groß. Noch vor dem offiziellen Erscheinungsdatum laden viele das Actionspiel herunter. Wie groß das Interesse ist, spüren auch die Internetanbieter.",
+     "link": "https://www.handelsblatt.com/technik/it-internet/neues-videospiel-vorab-downloads-von-gta-6-treiben-datenverkehr-in-die-hoehe/100269153.html",
+     "image": "https://images.handelsblatt.com/UOzg8pPmx92Y/cover/900/506/0/0/107/106/0.5/0.5/werbung-gta-6.jpg",
+     "aggregator": false,
+     "published": "2026-11-11T16:23:16+00:00"
+    },
+    {
+     "source": "WirtschaftsWoche",
+     "region": "DE",
+     "weight": 0.85,
+     "title": "Rockstar Games: Vorab-Downloads von GTA 6 treiben den Datenverkehr in die Höhe",
+     "summary": "Die Internet-Provider bekommen die Vorfreude auf das meist vorbestellte Spiel aller Zeiten beim Datenverkehr zu spüren – die Kampagnen in den Großstädten laufen.",
+     "link": "https://www.wiwo.de/unternehmen/dienstleister/gta-6-release-vorab-downloads-treiben-den-datenverkehr-in-die-hoehe/100269154.html",
+     "image": "https://images.wiwo.de/kOHpAMeTXvin/cover/900/506/0/0/313/312/0.5/0.5/archiv-06.11.2026-berlin-werbung-fuer-das-videospiel-grand-theft-auto-vi-von-rockstar-games-haen.jpg",
+     "aggregator": false,
+     "published": "2026-11-11T17:10:00+00:00"
+    },
+    {
+     "source": "n-tv",
+     "region": "DE",
+     "weight": 0.8,
+     "title": "Deutlich mehr Datenverkehr: Vorab-Downloads von GTA 6 lassen bei Telekom und Co. die Leitungen glühen",
+     "summary": "Nach vielen Jahren des Wartens erscheint ein neues Spiel der \"Grand Theft Auto\"-Reihe. Die Erwartungen der Fans sind riesig, sämtliche Verkaufsrekorde dürften fallen. Viele haben den Download bereits gestartet - gezockt werden kann aber erst später.",
+     "link": "https://www.n-tv.de/technik/Wegen-GTA-6-Leitungen-bei-Telekom-und-Co-gluehen-id31523173.html",
+     "image": "https://www.n-tv.de/img/31523233/1794418630/Img_4_3/250/imago0882050021h.jpg",
+     "aggregator": false,
+     "published": "2026-11-11T18:13:21+00:00"
+    },
+    {
+     "source": "Golem",
+     "region": "DE",
+     "weight": 0.75,
+     "title": "Downloadstart: DE-CIX verzeichnet wegen GTA VI neue Datenrekorde",
+     "summary": "Ein Spitzenwert von 22,30 Terabit pro Sekunde für den Vorab-Download für Grand Theft Auto VI. Auch weltweit verzeichnete der DE-CIX einen neuen Höchstwert. ( DE-CIX , Spiele )",
+     "link": "https://www.golem.de/news/downloadstart-de-cix-verzeichnet-wegen-gta-vi-neue-datenrekorde-2611-215089.html",
+     "image": "https://cpx.golem.de/cpx.php?class=17&amp;aid=215089&amp;page=1&amp;ts=1794401342",
+     "aggregator": false,
+     "published": "2026-11-11T12:49:02+00:00"
+    }
+   ]
+  },
+  {
+   "id": 4,
+   "score": 11.93,
+   "outlets": [
+    "tagesschau",
+    "ZDFheute",
+    "Deutschlandfunk",
+    "Süddeutsche"
+   ],
+   "regions": [
+    "DE"
+   ],
+   "trend": [],
+   "newest": "2026-11-12T02:57:08+00:00",
+   "articles": [
+    {
+     "source": "tagesschau",
+     "region": "DE",
+     "weight": 1.0,
+     "title": "Fünf Jahre nach Sturzflut: Eiskanal am Königssee wiedereröffnet",
+     "summary": "Fünf Jahre nach der Zerstörung durch eine Sturzflut wurde die Bob- und Rodelbahn am Königssee offiziell wieder in Betrieb genommen. Viele Kufensportler hatten lange auf diesen Tag gewartet – doch es gibt auch Kritik an dem Großprojekt.",
+     "link": "https://www.sportschau.de/regional/br/br-fuenf-jahre-nach-sturzflut-eiskanal-am-koenigssee-wiedereroeffnet-102.html",
+     "image": "https://images.tagesschau.de/image/ffbd7750-739e-4a52-a901-1a4258c5e6bc/AAABocthYQY/AAABnSSvrFg/16x9-big/bob-rodel-skeletonbahn-100.jpg?width=1920",
+     "aggregator": false,
+     "published": "2026-11-11T15:53:15+00:00"
+    },
+    {
+     "source": "ZDFheute",
+     "region": "DE",
+     "weight": 1.0,
+     "title": "Nach Zerstörung: Eiskanal am Königssee wiedereröffnet",
+     "summary": "Die Schlitten rasen wieder durch den Eiskanal: Markus Söder hat die Eisarena am Königssee wiedereröffnet. Seit 2021 war der Eiskanal in Folge schwerer Verwüstungen gesperrt.",
+     "link": "https://www.zdfheute.de/sport/wintersport/bob-rodeln-koenigssee-bahn-wiedereroeffnung-100.html",
+     "image": "https://www.zdfheute.de/assets/wiedereroeffnung-eisarena-100~384x216?cb=1794400758202",
+     "aggregator": false,
+     "published": "2026-11-11T12:24:22+00:00"
+    },
+    {
+     "source": "Deutschlandfunk",
+     "region": "DE",
+     "weight": 0.95,
+     "title": "Bob- und Rodelbahn - Eiskanal am Königssee wiedereröffnet",
+     "summary": "Fünf Jahre nach einer weitgehenden Zerstörung durch Geröll- und Wassermassen ist die Kunsteisbahn am Königssee wieder offiziell in Betrieb.",
+     "link": "https://www.deutschlandfunk.de/eiskanal-am-koenigssee-wiedereroeffnet-108.html",
+     "image": "https://bilder.deutschlandfunk.de/f4/87/32/6d/f487326d-40b2-40e9-8f2f-762a949d2362/koenigssee-bobbahn-100-1920x1920.jpg",
+     "aggregator": false,
+     "published": "2026-11-12T02:57:08+00:00"
+    },
+    {
+     "source": "Süddeutsche",
+     "region": "DE",
+     "weight": 0.9,
+     "title": "Bob- und Rodelbahn am Königssee: Ein zutiefst bayerischer Feiertag",
+     "summary": "Fünf Jahre, nachdem eine Sturzflut Teile der Bob- und Rodelbahn zerstört hat, können am Königssee wieder deutsche Meisterschaften ausgetragen werden. Es gewinnt, wie passend: Lokalmatador Felix Loch.",
+     "link": "https://www.sueddeutsche.de/sport/koenigssee-bobbahn-wiedereroeffnung-rodel-soeder-olympiasieger-li.3578247",
+     "image": "https://www.sueddeutsche.de/2026/11/11/20261467-ddaf-4856-82dd-40fa5b9b822e.jpg?rect=375%2C0%2C3493%2C2620&width=1000&fm=jpg&q=60",
+     "aggregator": false,
+     "published": "2026-11-11T14:25:19+00:00"
+    }
+   ]
+  },
+  {
+   "id": 5,
+   "score": 10.43,
+   "outlets": [
+    "Deutschlandfunk",
+    "WirtschaftsWoche",
+    "n-tv",
+    "Golem"
+   ],
+   "regions": [
+    "DE"
+   ],
+   "trend": [],
+   "newest": "2026-11-12T02:57:08+00:00",
+   "articles": [
+    {
+     "source": "Deutschlandfunk",
+     "region": "DE",
+     "weight": 0.95,
+     "title": "\"Gamechanger\"-Projekt - VW stoppt geplante Modernisierung der Autoproduktion in Wolfsburg",
+     "summary": "Volkswagen stellt ein umfassendes Projekt zur Modernisierung der Auto-Produktion ein.",
+     "link": "https://www.deutschlandfunk.de/vw-stoppt-geplante-modernisierung-der-autoproduktion-in-wolfsburg-106.html",
+     "image": "https://bilder.deutschlandfunk.de/29/71/37/6c/2971376c-aebc-48b6-b4f4-1648351d23f9/vw-sparpaket-100-1920x1920.jpg",
+     "aggregator": false,
+     "published": "2026-11-12T02:57:08+00:00"
+    },
+    {
+     "source": "WirtschaftsWoche",
+     "region": "DE",
+     "weight": 0.85,
+     "title": "Volkswagen: VW stoppt Produktionsprojekt „Gamechanger“",
+     "summary": "Volkswagen stoppt das Produktionsprojekt „Gamechanger“ und verzichtet auf das Großgusszentrum in Wolfsburg. Der Betriebsrat spricht von Tarifbruch.",
+     "link": "https://www.wiwo.de/unternehmen/auto/vw-stoppt-gamechanger-aus-fuer-grossguss-empoert-betriebsrat/100269111.html",
+     "image": "https://images.wiwo.de/ISl2Eq17GCKf/cover/900/506/6/42/0/0/0.5/0.5/dpatopbilder-29.10.2026-niedersachsen-wolfsburg-blick-auf-das-volkswagen-stammwerk-mit-dem-mark.jpg",
+     "aggregator": false,
+     "published": "2026-11-11T14:36:00+00:00"
+    },
+    {
+     "source": "n-tv",
+     "region": "DE",
+     "weight": 0.8,
+     "title": "Investitionen auf dem Prüfstand: VW stoppt Projekt \"Gamechanger\" - Betriebsrat droht mit Golf-Veto",
+     "summary": "Mit einem neuen Produktionsverfahren wollte Volkswagen einzelne Bauteile für E-Autos kostengünstiger herstellen. Doch der Konzern scheut nun die Anfangsinvestition. Kurz vor der Grundsteinlegung wird der Bau eines Fertigungszentrums abgeblasen. Der Betriebsrat schäumt.",
+     "link": "https://www.n-tv.de/wirtschaft/VW-stoppt-Projekt-Gamechanger-Betriebsrat-droht-mit-Golf-Veto-id31522400.html",
+     "image": "https://www.n-tv.de/img/31522408/1794411608/Img_4_3/250/2025-03-11T113636Z_321856443_RC2ZADANYT3C_RTRMADP_3_VOLKSWAGEN-RESULTS.jpg",
+     "aggregator": false,
+     "published": "2026-11-11T15:06:19+00:00"
+    },
+    {
+     "source": "Golem",
+     "region": "DE",
+     "weight": 0.75,
+     "title": "Produktion des ID.Golf: VW stoppt Projekt Gamechanger für Wolfsburg",
+     "summary": "Aus Kostengründen verzichtet VW auf ein neues Gussverfahren für den Elektro-Golf. Verwirrung gibt es um die ID.3-Produktion. ( Volkswagen ID. , Elektroauto )",
+     "link": "https://www.golem.de/news/produktion-des-id-golf-vw-stoppt-projekt-gamechanger-fuer-wolfsburg-2611-215105.html",
+     "image": "https://cpx.golem.de/cpx.php?class=17&amp;aid=215105&amp;page=1&amp;ts=1794417182",
+     "aggregator": false,
+     "published": "2026-11-11T17:13:02+00:00"
+    }
+   ]
+  },
+  {
+   "id": 6,
+   "score": 9.9,
+   "outlets": [
+    "tagesschau",
+    "ZDFheute",
+    "SPIEGEL",
+    "WELT"
+   ],
+   "regions": [
+    "DE"
+   ],
+   "trend": [
+    "betrug"
+   ],
+   "newest": "2026-11-11T18:38:00+00:00",
+   "articles": [
+    {
+     "source": "tagesschau",
+     "region": "DE",
+     "weight": 1.0,
+     "title": "Taten in Hamburg und Eningen: Mutmaßlicher Schütze war wegen Betrugs vor Gericht",
+     "summary": "Einen Tag nach den Schüssen in Hamburg werden mehr Details bekannt: So gab es ein Strafverfahren gegen den mutmaßlichen Schützen. Bei der angeschossenen Frau handelt es sich um seine Schwiegertochter.",
+     "link": "https://www.tagesschau.de/inland/regional/badenwuerttemberg/schuesse-hamburg-details-100.html",
+     "image": "https://images.tagesschau.de/image/e879f97f-1c29-4fa7-b676-07b5de1ccd76/AAABocw3rr0/AAABnSSvrFg/16x9-big/swr-ein-polizist-sichert-die-hafencity-in-der-naehe-der-elbphilharmonie-durch-schuesse-wurden-hier-am-dienstag-zwei-personen-verletzt-100.jpg?width=1920",
+     "aggregator": false,
+     "published": "2026-11-11T16:56:00+00:00"
+    },
+    {
+     "source": "ZDFheute",
+     "region": "DE",
+     "weight": 1.0,
+     "title": "Schüsse in Hamburg: Tatverdächtiger ist tot",
+     "summary": "Nach Schüssen in der Hamburger Hafencity ist der mutmaßliche Täter tot in einem Hotelzimmer in der Elbphilharmonie aufgefunden worden.",
+     "link": "https://www.zdfheute.de/video/hamburg-hilpert-verletzte-polizei-100.html",
+     "image": "https://www.zdfheute.de/assets/polizei-einsatz-elbphilharmonie-100~384x216?cb=1794320297681",
+     "aggregator": false,
+     "published": "2026-11-10T13:49:19+00:00"
+    },
+    {
+     "source": "SPIEGEL",
+     "region": "DE",
+     "weight": 0.9,
+     "title": "Hamburg und Eningen: Mutmaßlicher Schütze stand wegen Betrugs vor Gericht",
+     "summary": "Der 68-Jährige, der in Süddeutschland zwei Familienangehörige getötet und dann auf zwei Menschen in Hamburg geschossen haben soll, war justizbekannt. Sein Abschiedsbrief deutet auf einen Streit mit seinem Sohn hin.",
+     "link": "https://www.spiegel.de/panorama/justiz/hamburg-und-eningen-mutmasslicher-schuetze-stand-wegen-betrugs-vor-gericht-a-311d361d-080f-4772-b40f-064210045788#ref=rss",
+     "image": "https://cdn.prod.www.spiegel.de/images/fc28e7cc-5a90-4732-aec3-80860f9c8014_w520_r2.08_fpx33.34_fpy50.jpg",
+     "aggregator": false,
+     "published": "2026-11-11T18:38:00+00:00"
+    },
+    {
+     "source": "WELT",
+     "region": "DE",
+     "weight": 0.8,
+     "title": "Täter von Hamburg war wegen Betrugs verurteilt – Abschiedsbrief spricht von „erweitertem Suizid“",
+     "summary": "Der mutmaßliche Schütze von Hamburg war wegen Betrugs verurteilt. In seinem Abschiedsbrief nennt der 68-Jährige einen „erweiterten Suizid“ und einen Streit um seine Firma.",
+     "link": "https://www.welt.de/vermischtes/kriminalitaet/article6af49821db4e2fa8f6eb7c44/elbphilharmonie-taeter-von-hamburg-war-wegen-betrugs-verurteilt-abschiedsbrief-spricht-von-erweitertem-suizid.html",
+     "image": "https://images.welt.de/6af49821db4e2fa8f6eb7c44/09630a0f4aaee29c07b5fefb04133a69/ci23x11-w1200/dpa-com-261111-936-143067-jpg",
+     "aggregator": false,
+     "published": "2026-11-11T17:24:43+00:00"
+    }
+   ]
+  },
+  {
+   "id": 7,
+   "score": 9.78,
+   "outlets": [
+    "tagesschau",
+    "ZDFheute",
+    "ZEIT ONLINE"
+   ],
+   "regions": [
+    "DE"
+   ],
+   "trend": [],
+   "newest": "2026-11-12T02:11:46+00:00",
+   "articles": [
+    {
+     "source": "tagesschau",
+     "region": "DE",
+     "weight": 1.0,
+     "title": "tagesschau 20:00 Uhr",
+     "summary": "Dunkelfeldstudie bei der Bundeswehr berichtet von hoher Zahl an Fällen von sexualisiertem Fehlverhalten, Wirtschaftsweise korrigieren Konjunkturprognose für dieses und das kommende Jahr deutlich nach oben, Zahl der arbeitslosen Akademiker auf Höchststand, Deutschland rutscht im Klimaschutz-Index auf Rang 25, Russland und Ukraine vereinbaren bei Gesprächen in Abu Dhabi Gefangenenaustausch, Unabhängigkeitstag in Polen, \"Digital Fairness Act\": EU will mehr gegen manipulatives Marketing im Internet vorgehen, Das Wetter",
+     "link": "https://www.tagesschau.de/tagesschau_20_uhr/video-1682264.html",
+     "image": "https://images.tagesschau.de/image/78e7385b-b928-4782-9627-5a12b9ad925f/AAABocwU-0I/AAABnSSvrFg/16x9-big/sendungsbild-1826136.jpg?width=1920",
+     "aggregator": false,
+     "published": "2026-11-11T19:17:36+00:00"
+    },
+    {
+     "source": "tagesschau",
+     "region": "DE",
+     "weight": 1.0,
+     "title": "Dunkelfeldstudie bei der Bundeswehr - Viele Fälle von sexualisiertem Fehlverhalten",
+     "summary": "Einer Untersuchung zufolge ist sexualisiertes Fehlverhalten in der Bundeswehr weiter verbreitet als bislang bekannt - am häufigsten betroffen sind Soldatinnen. Recherchen von WDR, NDR und SZ geben Einblick in konkrete Fälle.",
+     "link": "https://www.tagesschau.de/investigativ/ndr-wdr/bundeswehr-sexuelle-belaestigung-100.html",
+     "image": "https://images.tagesschau.de/image/9e6172ca-7425-4d30-b9ff-6f0746c3826a/AAABocm11no/AAABnSSvrFg/16x9-big/soldatinnen-bundeswehr-100.jpg?width=1920",
+     "aggregator": false,
+     "published": "2026-11-11T10:13:35+00:00"
+    },
+    {
+     "source": "tagesschau",
+     "region": "DE",
+     "weight": 1.0,
+     "title": "Pistorius pocht auf \"null Toleranz\" gegenüber sexualisiertem Fehlverhalten in Bundeswehr",
+     "summary": "Angesichts der hohen Zahl an Fällen von sexualisiertem Fehlverhalten bei der Bundeswehr will Verteidigungsminister Pistorius mit \"null Toleranz\" dagegen vorgehen. Unter anderem durch bessere Prävention und eine externe Anlaufstelle für Betroffene.",
+     "link": "https://www.tagesschau.de/inland/innenpolitik/bundeswehr-dunkelfeldstudie-102.html",
+     "image": "https://images.tagesschau.de/image/5bd0a894-5037-4d9c-ba2d-07e9ef72d39c/AAABocoaOGc/AAABnSSvrFg/16x9-big/spd-pistorius-102.jpg?width=1920",
+     "aggregator": false,
+     "published": "2026-11-11T11:30:22+00:00"
+    },
+    {
+     "source": "tagesschau Inland",
+     "region": "DE",
+     "weight": 1.0,
+     "title": "Pistorius pocht auf \"null Toleranz\" gegenüber sexualisiertem Fehlverhalten in Bundeswehr",
+     "summary": "Angesichts der hohen Zahl an Fällen von sexualisiertem Fehlverhalten bei der Bundeswehr will Verteidigungsminister Pistorius mit \"null Toleranz\" dagegen vorgehen. Unter anderem durch bessere Prävention und eine externe Anlaufstelle für Betroffene.",
+     "link": "https://www.tagesschau.de/inland/innenpolitik/bundeswehr-dunkelfeldstudie-102.html",
+     "image": "https://images.tagesschau.de/image/5bd0a894-5037-4d9c-ba2d-07e9ef72d39c/AAABocoaOGc/AAABnSSvrFg/16x9-big/spd-pistorius-102.jpg?width=1920",
+     "aggregator": false,
+     "published": "2026-11-11T11:30:22+00:00"
+    },
+    {
+     "source": "ZDFheute",
+     "region": "DE",
+     "weight": 1.0,
+     "title": "Studie zu sexualisiertem Fehlverhalten in der Bundeswehr",
+     "summary": "Der Dunkelfeldstudie zu sexualisiertem Fehlverhalten in der Bundeswehr zufolge haben etwa Dreiviertel der Soldatinnen Belästigung erlebt. Laura Gille ist eine der Betroffenen.",
+     "link": "https://www.zdfheute.de/video/belaestigung-bundeswehr-video-100.html",
+     "image": "https://www.zdfheute.de/assets/bundeswehr-dunkelfeldstudie-100~384x216?cb=1794422641392",
+     "aggregator": false,
+     "published": "2026-11-11T16:10:16+00:00"
+    },
+    {
+     "source": "ZEIT ONLINE",
+     "region": "DE",
+     "weight": 0.9,
+     "title": "Dunkelfeldstudie: Grüne fordern Erhebung zu sexualisiertem Fehlverhalten in der Polizei",
+     "summary": "Laut einer Dunkelfeldstudie ist sexualisiertes Fehlverhalten in der Bundeswehr häufiger als erfasst. Grünenabgeordnete Mihalic fordert eine Untersuchung bei der Polizei.",
+     "link": "https://www.zeit.de/politik/deutschland/2026-11/sexismus-polizei-bundespolizei-bka-irene-mihalic-uli-groetsch",
+     "image": "https://img.zeit.de/politik/deutschland/2026-11/sexismus-polizei-bundespolizei-bka-irene-mihalic-uli-groetsch-foto-1/original__640x360",
+     "aggregator": false,
+     "published": "2026-11-12T02:11:46+00:00"
+    }
+   ]
+  },
+  {
+   "id": 8,
+   "score": 9.45,
+   "outlets": [
+    "tagesschau",
+    "SRF News",
+    "WELT"
+   ],
+   "regions": [
+    "CH",
+    "DE",
+    "INT"
+   ],
+   "trend": [],
+   "newest": "2026-11-12T03:35:49+00:00",
+   "articles": [
+    {
+     "source": "tagesschau",
+     "region": "DE",
+     "weight": 1.0,
+     "title": "Kommentar: Russland sägt an der europäischen Sicherheitsarchitektur",
+     "summary": "Bei den Verhandlungen in Abu Dhabi geht es längst nicht nur um die Ukraine, meint Stephan Laack. Russlands Forderungen zielten auch in Richtung der europäischen Sicherheitsarchitektur. Deshalb müssten alle Alarmglocken schrillen.",
+     "link": "https://www.tagesschau.de/kommentar/ukraine-verhandlungen-abu-dhabi-106.html",
+     "image": "https://images.tagesschau.de/image/09292528-071d-4c84-bbb7-7bc45af9744e/AAABocsPefo/AAABnSSvrFg/16x9-big/abu-dhabi-ukraine-gespraeche-106.jpg?width=1920",
+     "aggregator": false,
+     "published": "2026-11-11T15:14:57+00:00"
+    },
+    {
+     "source": "tagesschau Ausland",
+     "region": "INT",
+     "weight": 1.0,
+     "title": "Gespräche in Abu Dhabi: Gedämpfte Erwartungen der Ukraine",
+     "summary": "Heute beginnen trilaterale Verhandlungen in Abu Dhabi. Können die Gespräche mit den USA und Russland einen echten Frieden bringen - oder führen sie zu einer Schwächung der Ukraine? Die Erwartungen in der Ukraine sind gering. Von F. Kellermann.",
+     "link": "https://www.tagesschau.de/ausland/europa/ukraine-erwartungen-gespraeche-100.html",
+     "image": "https://images.tagesschau.de/image/359f2fcf-a8ed-44fb-99fc-36c901fb94da/AAABocLfjcw/AAABnSSvrFg/16x9-big/ukraine-kiew-flagge-100.jpg?width=1920",
+     "aggregator": false,
+     "published": "2026-11-10T01:13:48+00:00"
+    },
+    {
+     "source": "SRF News",
+     "region": "CH",
+     "weight": 0.95,
+     "title": "Verhandlungen zu Ukraine-Krieg – Die Gespräche in Abu Dhabi sind beendet – so geht es weiter",
+     "summary": "Delegationen aus Russland und der Ukraine haben erstmals wieder miteinander verhandelt. Die wichtigsten Punkte.",
+     "link": "https://www.srf.ch/news/international/verhandlungen-zu-ukraine-krieg-die-gespraeche-in-abu-dhabi-sind-beendet-so-geht-es-weiter",
+     "image": "https://www.srf.ch/static/cms/images//320ws/016f7d.webp",
+     "aggregator": false,
+     "published": "2026-11-11T15:03:00+00:00"
+    },
+    {
+     "source": "WELT",
+     "region": "DE",
+     "weight": 0.8,
+     "title": "Russland und Ukraine greifen gegenseitig ihre Hauptstädte an",
+     "summary": "Ungeachtet der Friedensgespräche in Abu Dhabi haben die Ukraine und Russland gegenseitig die Hauptstädte angegriffen. In Dublin besprechen die EU-Regierungschefs, wie der Krieg weiter finanziert werden soll.",
+     "link": "https://www.welt.de/politik/ausland/article6af5327050175c81de7a247f/trotz-friedensgespraeche-russland-und-ukraine-greifen-gegenseitig-ihre-hauptstaedte-an.html",
+     "image": "https://images.welt.de/6af5327050175c81de7a247f/153ddb8a6481b5d6e831574a04e2f21f-master/ci23x11-w1200/dpa-com-261107-99-202775-jpg",
+     "aggregator": false,
+     "published": "2026-11-12T03:35:49+00:00"
+    }
+   ]
+  },
+  {
+   "id": 9,
+   "score": 8.67,
+   "outlets": [
+    "tagesschau Ausland",
+    "Deutsche Welle",
+    "SPIEGEL"
+   ],
+   "regions": [
+    "DE",
+    "INT"
+   ],
+   "trend": [],
+   "newest": "2026-11-12T00:40:00+00:00",
+   "articles": [
+    {
+     "source": "tagesschau Ausland",
+     "region": "INT",
+     "weight": 1.0,
+     "title": "Israels neu gewähltes Parlament kommt erstmals zusammen",
+     "summary": "Nach der Wahl tritt Israels neues Parlament heute erstmals zusammen - inmitten der schwierigen Regierungsbildung. Netanjahu-Rivale Eisenkot hat dafür den Auftrag erhalten. Er hält auch eine Minderheitsregierung für möglich.",
+     "link": "https://www.tagesschau.de/ausland/asien/knesset-eisenkot-regierung-100.html",
+     "image": "https://images.tagesschau.de/image/4571547b-afbd-4563-a8da-4d48f0dc9eb6/AAABocRDlV0/AAABnSSvrFg/16x9-big/eisenkot-118.jpg?width=1920",
+     "aggregator": false,
+     "published": "2026-11-10T08:13:27+00:00"
+    },
+    {
+     "source": "tagesschau Ausland",
+     "region": "INT",
+     "weight": 1.0,
+     "title": "Israel: Oppositionsführer Eisenkot soll neue Regierung bilden",
+     "summary": "Nun ist es offiziell: Israels Präsident Herzog hat den Oppositionspolitiker Eisenkot mit der Regierungsbildung beauftragt. Der Ex-Militärchef appellierte an die anderen Parteien, \"unkonventionelle politische Schritte\" zu akzeptieren.",
+     "link": "https://www.tagesschau.de/ausland/asien/israel-auftrag-regierungsbildung-eisenkot-100.html",
+     "image": "https://images.tagesschau.de/image/17988e16-b321-4573-a2d7-f8ccec24da95/AAABobvLlHQ/AAABnSSvrFg/16x9-big/gadi-eisenkot-110.jpg?width=1920",
+     "aggregator": false,
+     "published": "2026-11-08T16:07:41+00:00"
+    },
+    {
+     "source": "Deutsche Welle",
+     "region": "INT",
+     "weight": 0.95,
+     "title": "Israel: Netanjahu-Rivale Gadi Eisenkot soll Regierung bilden",
+     "summary": "Die Machtverhältnisse im neu gewählten Parlament in Israel sind kompliziert. Dem Bündnis von Gadi Eisenkot fehlen 13 Mandate für eine eigene Regierungsmehrheit. Parteien der arabischen Minderheit könnten helfen.",
+     "link": "https://www.dw.com/de/israel-netanjahu-rivale-gadi-eisenkot-soll-regierung-bilden/a-79889744?maca=de-rss-de-all-1119-xml-mrss",
+     "image": "https://static.dw.com/image/79891763_302.jpg",
+     "aggregator": false,
+     "published": "2026-11-08T16:40:00+00:00"
+    },
+    {
+     "source": "SPIEGEL",
+     "region": "DE",
+     "weight": 0.9,
+     "title": "Israel: Gadi Eisenkot warnt Benjamin Netanyahu vor Alleingängen gegen Iran",
+     "summary": "Gadi Eisenkot ist mit der Regierungsbildung in Israel beauftragt. Nun kommt seine Ansage an Ministerpräsident Benjamin Netanyahu: Der soll bis zum Amtsantritt einer neuen Regierung keine riskanten Militärentscheidungen treffen.",
+     "link": "https://www.spiegel.de/ausland/israel-gadi-eisenkot-warnt-benjamin-netanyahu-vor-alleingaengen-gegen-iran-a-e6f48d28-6f33-4543-a133-a7f6874ccff5#ref=rss",
+     "image": "https://cdn.prod.www.spiegel.de/images/f567a9bf-29d1-4471-a408-86116e27996e_w520_r2.08_fpx30_fpy45.jpg",
+     "aggregator": false,
+     "published": "2026-11-12T00:40:00+00:00"
+    }
+   ]
+  },
+  {
+   "id": 10,
+   "score": 8.65,
+   "outlets": [
+    "tagesschau",
+    "ZDFheute",
+    "SRF News",
+    "WELT"
+   ],
+   "regions": [
+    "CH",
+    "DE",
+    "INT"
+   ],
+   "trend": [],
+   "newest": "2026-11-11T19:13:07+00:00",
+   "articles": [
+    {
+     "source": "tagesschau",
+     "region": "DE",
+     "weight": 1.0,
+     "title": "Bombendrohungen an Tausenden Schulen in Italien und Großbritannien",
+     "summary": "An Tausenden Schulen in Italien sind per E-Mail Bombendrohungen eingegangen. Auch in Großbritannien gibt es ähnliche Fälle. Die Behörden gehen von Falschmeldungen aus. Wer hinter den Drohungen steckt, ist unklar.",
+     "link": "https://www.tagesschau.de/ausland/europa/bombendrohungen-italien-100.html",
+     "image": "https://images.tagesschau.de/image/2922d359-4a44-4853-a7eb-d1205eadf710/AAABoctdHF0/AAABnSSvrFg/16x9-big/polizei-schule-rom-100.jpg?width=1920",
+     "aggregator": false,
+     "published": "2026-11-11T19:13:07+00:00"
+    },
+    {
+     "source": "tagesschau Ausland",
+     "region": "INT",
+     "weight": 1.0,
+     "title": "Bombendrohungen an Tausenden Schulen in Italien und Großbritannien",
+     "summary": "An Tausenden Schulen in Italien sind per E-Mail Bombendrohungen eingegangen. Auch in Großbritannien gibt es ähnliche Fälle. Die Behörden gehen von Falschmeldungen aus. Wer hinter den Drohungen steckt, ist unklar.",
+     "link": "https://www.tagesschau.de/ausland/europa/bombendrohungen-italien-100.html",
+     "image": "https://images.tagesschau.de/image/2922d359-4a44-4853-a7eb-d1205eadf710/AAABoctdHF0/AAABnSSvrFg/16x9-big/polizei-schule-rom-100.jpg?width=1920",
+     "aggregator": false,
+     "published": "2026-11-11T19:13:07+00:00"
+    },
+    {
+     "source": "ZDFheute",
+     "region": "DE",
+     "weight": 1.0,
+     "title": "Bombendrohungen an Tausenden Schulen in Europa wohl falsch",
+     "summary": "In Italien haben etwa 6.000 Schulen Bombendrohungen erhalten. Auch andere Länder sind betroffen. Behörden sehen keine konkrete Gefahr. Die Hintergründe sind aber noch unklar.",
+     "link": "https://www.zdfheute.de/politik/ausland/bomben-drohung-italien-nordirland-schottland-100.html",
+     "image": "https://www.zdfheute.de/assets/bombendrohungen-100~384x216?cb=1794415867865",
+     "aggregator": false,
+     "published": "2026-11-11T18:01:00+00:00"
+    },
+    {
+     "source": "SRF News",
+     "region": "CH",
+     "weight": 0.95,
+     "title": "Bedrohliche Mails eingegangen – Bombendrohungen an Hunderten Schulen in Italien",
+     "summary": "Die Drohungen gingen per E-Mail ein. Wer dahintersteckt, ist unklar. Nordirland und Schottland melden ähnliche Vorfälle.",
+     "link": "https://www.srf.ch/news/international/bedrohliche-mails-eingegangen-bombendrohungen-an-hunderten-schulen-in-italien",
+     "image": "https://www.srf.ch/static/cms/images//320ws/1494f1a.webp",
+     "aggregator": false,
+     "published": "2026-11-11T16:18:23+00:00"
+    },
+    {
+     "source": "WELT",
+     "region": "DE",
+     "weight": 0.8,
+     "title": "„Hybride Kriegsführung“ – Bombendrohungen an 6000 Schulen in Italien",
+     "summary": "Italienische Behörden prüfen Bombendrohungen an mehr als 6000 Schulen. Regierungschefin Giorgia Meloni koordiniert die Maßnahmen. Hinweise auf eine konkrete Gefahr gibt es nicht.",
+     "link": "https://www.welt.de/vermischtes/article6af4578ee22aeb948141fc32/italien-schueler-evakuiert-bombendrohungen-an-hunderten-schulen.html",
+     "image": "https://images.welt.de/6af4578ee22aeb948141fc32/a69cdd62e05470b75d9bc8d1acdbe281/ci23x11-w1200/1794408724131-afp-d76h89e-jpg",
+     "aggregator": false,
+     "published": "2026-11-11T17:06:00+00:00"
+    }
+   ]
+  },
+  {
+   "id": 11,
+   "score": 8.4,
+   "outlets": [
+    "tagesschau",
+    "ZDFheute",
+    "SPIEGEL",
+    "Tagesspiegel"
+   ],
+   "regions": [
+    "DE"
+   ],
+   "trend": [],
+   "newest": "2026-11-11T18:35:00+00:00",
+   "articles": [
+    {
+     "source": "tagesschau",
+     "region": "DE",
+     "weight": 1.0,
+     "title": "Familienministerin Prien plant Einkommensgrenze beim Unterhaltsvorschuss",
+     "summary": "Einkommensgrenze, statt verkürzter Zahlung: Familienministerin Prien hat einen Gesetzentwurf zum Unterhaltsvorschuss vorgelegt. Elternteile, die nicht zahlen, sollen stärker in die Pflicht genommen werden - etwa mit Fahrverboten.",
+     "link": "https://www.tagesschau.de/inland/innenpolitik/prien-unterhaltsvorschuss-gesetzentwurf-100.html",
+     "image": "https://images.tagesschau.de/image/bf49d1d8-09c6-4e67-a91c-3c7420d908a7/AAABoctarJo/AAABnSSvrFg/16x9-big/prien-160.jpg?width=1920",
+     "aggregator": false,
+     "published": "2026-11-11T18:01:47+00:00"
+    },
+    {
+     "source": "tagesschau Inland",
+     "region": "DE",
+     "weight": 1.0,
+     "title": "Familienministerin Prien plant Einkommensgrenze beim Unterhaltsvorschuss",
+     "summary": "Einkommensgrenze, statt verkürzter Zahlung: Familienministerin Prien hat einen Gesetzentwurf zum Unterhaltsvorschuss vorgelegt. Elternteile, die nicht zahlen, sollen stärker in die Pflicht genommen werden - etwa mit Fahrverboten.",
+     "link": "https://www.tagesschau.de/inland/innenpolitik/prien-unterhaltsvorschuss-gesetzentwurf-100.html",
+     "image": "https://images.tagesschau.de/image/bf49d1d8-09c6-4e67-a91c-3c7420d908a7/AAABoctarJo/AAABnSSvrFg/16x9-big/prien-160.jpg?width=1920",
+     "aggregator": false,
+     "published": "2026-11-11T18:01:47+00:00"
+    },
+    {
+     "source": "ZDFheute",
+     "region": "DE",
+     "weight": 1.0,
+     "title": "Elterngeldreform: Prien plant Grenze bei Unterhaltsvorschuss",
+     "summary": "Nach der Kritik an den geplanten Kürzungen beim Elterngeld rudert Familienministerin Prien teilweise zurück. Kommen soll jedoch eine Einkommensgrenze für Unterhaltsvorschüsse.",
+     "link": "https://www.zdfheute.de/politik/deutschland/reform-elterngeld-entwurf-koalition-vaeter-100.html",
+     "image": "https://www.zdfheute.de/assets/vater-kind-park-100~384x216?cb=1751894267613",
+     "aggregator": false,
+     "published": "2026-11-11T18:35:00+00:00"
+    },
+    {
+     "source": "SPIEGEL",
+     "region": "DE",
+     "weight": 0.9,
+     "title": "Unterhaltsvorschuss: Karin Prien plant Vorschuss nur noch bis 40.000 Euro",
+     "summary": "Wenn ein Elternteil keinen Unterhalt zahlt, springt der Staat ein. Das Familienministerium will dafür nun eine Einkommensgrenze einführen. Säumige Elternteile sollen mehr in die Pflicht genommen werden.",
+     "link": "https://www.spiegel.de/politik/deutschland/unterhaltsvorschuss-karin-prien-plant-vorschuss-nur-noch-bis-40-000-euro-a-520a2ba7-effe-47f7-a4dc-a376d96a3f2e#ref=rss",
+     "image": "https://cdn.prod.www.spiegel.de/images/9cb166bf-ac83-4476-8e15-9cd28a93290c_w520_r2.08_fpx35.93_fpy50.jpg",
+     "aggregator": false,
+     "published": "2026-11-11T15:46:00+00:00"
+    },
+    {
+     "source": "Tagesspiegel",
+     "region": "DE",
+     "weight": 0.6,
+     "title": "Tausende Alleinerziehende betroffen Familienministerium will Unterhaltsvorschuss an Einkommensgrenze binden",
+     "summary": "Tausende Alleinerziehende betroffen Familienministerium will Unterhaltsvorschuss an Einkommensgrenze binden Tagesspiegel Familienministerin Prien plant Einkommensgrenze beim Unterhaltsvorschuss tagesschau.de Familienpolitik: Unterhaltsvorschuss soll an Einkommensgrenze gebunden werden DIE ZEIT Unterhaltsvorschuss: Karin Prien plant Vorschuss nur noch bis 40.000 Euro Spiegel Elterngeldreform: Prien plant Grenze bei Unterhaltsvorschuss ZDFheute",
+     "link": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxOVUsyUU5zS2JFTmRJWXdMZS1FRHdmMENZQzI2Y2xQb3NuRDd6eTk3Sk5DWUVMYXNXM09KZGlYLW9LeVNLV2RDRFlfYnZiU2o4ZXhBZ21wS2JEbXQ3TUQ1dE9aeHRQN2lGNjdoczZYanQzbTFpNWh3YUU4U01oUkljd2hvNjBvb3RZWk5SLW0wWXNjU3YyZEEzdzVRNG81SVk0aEZCaTlMV3pNTC1SdExUZEVwV1JORkpySDRYQXhjcFJvMjlscHNOZWdIYjJCa0p0R0o5Q195NHNhQlJHYmx3OVJBR1JFOW1xdEdwcEptaGpVWDQ?oc=5",
+     "image": null,
+     "aggregator": true,
+     "published": "2026-11-11T18:05:00+00:00"
+    }
+   ]
+  },
+  {
+   "id": 12,
+   "score": 8.05,
+   "outlets": [
+    "ORF",
+    "Handelsblatt",
+    "WELT"
+   ],
+   "regions": [
+    "AT",
+    "DE"
+   ],
+   "trend": [],
+   "newest": "2026-11-12T00:00:49+00:00",
+   "articles": [
+    {
+     "source": "ORF",
+     "region": "AT",
+     "weight": 0.95,
+     "title": "Bericht: Nvidia bereitet Huang-Entlassung vor",
+     "summary": "",
+     "link": "https://orf.at/stories/3447951/",
+     "image": null,
+     "aggregator": false,
+     "published": "2026-11-11T22:43:06+00:00"
+    },
+    {
+     "source": "Handelsblatt",
+     "region": "DE",
+     "weight": 0.9,
+     "title": "Nvidia: US-Medien berichten von weiterer Affäre – Nvidia-Verwaltungsrat bereitet offenbar Rauswurf von Jensen Huang vor",
+     "summary": "Laut der New York Times soll Huang eine weitere Affäre gehabt haben. Der Nvidia-Verwaltungsrat könnte schon in Kürze über die Zukunft des CEOs entscheiden. Die Aktie rutscht nachbörslich ab.",
+     "link": "https://www.handelsblatt.com/technik/ki/nvidia-nvidia-verwaltungsrat-bereitet-offenbar-rauswurf-von-jensen-huang-vor/100269242.html",
+     "image": "https://images.handelsblatt.com/cBDLPuXalWNk/cover/900/506/0/0/105/104/0.5/0.5/jensen-huang-chief-executive-officer-of-nvidia-corp.-delivers-the-keynote-address-at-the-nvidia-gt.jpg",
+     "aggregator": false,
+     "published": "2026-11-11T22:57:22+00:00"
+    },
+    {
+     "source": "WELT",
+     "region": "DE",
+     "weight": 0.8,
+     "title": "Nvidia bereitet nach Affären die Entlassung von Firmenchef Huang vor – Aktie verliert",
+     "summary": "Die Aktie von Nvidia gab noch einmal um acht Prozentpunkte nach. Grund ist ein Bericht, dass der KI-Chipkonzern die Entlassung seines CEO Jensen Huang vorbereitet. Er war in zwei Affären verstrickt.",
+     "link": "https://www.welt.de/wirtschaft/article6af5001450175c81de7a23ca/spionagefall-nvidia-bereitet-nach-affaeren-die-entlassung-von-firmenchef-huang-vor-aktie-verliert.html",
+     "image": "https://images.welt.de/6af5001450175c81de7a23ca/6c95833472f3ee242489360f58c58c53-master/ci23x11-w1200/2026-11-10t202952z-1573905204-rc2u8iadechf-rtrmadp-3-usa-stocks-nvidia-jpg",
+     "aggregator": false,
+     "published": "2026-11-12T00:00:49+00:00"
+    }
+   ]
+  },
+  {
+   "id": 13,
+   "score": 7.74,
+   "outlets": [
+    "tagesschau",
+    "ZEIT ONLINE"
+   ],
+   "regions": [
+    "DE",
+    "INT"
+   ],
+   "trend": [],
+   "newest": "2026-11-12T03:34:55+00:00",
+   "articles": [
+    {
+     "source": "tagesschau",
+     "region": "DE",
+     "weight": 1.0,
+     "title": "Im Stadtteil Brooklyn: Tote und Verletzte nach Gebäudeeinsturz in New York",
+     "summary": "Beim Einsturz eines mehrstöckigen Gebäudes in New York sind mindestens zwei Menschen ums Leben gekommen. Mehrere weitere wurden unter den Trümmern eingeschlossen.",
+     "link": "https://www.tagesschau.de/ausland/amerika/new-york-gebaeude-einsturz-104.html",
+     "image": "https://images.tagesschau.de/image/c721bd53-d8e5-4717-8c8b-8e3e325892e3/AAABoc3GsAQ/AAABnSSvrFg/16x9-big/new-york-gebaeude-einsturz-100.jpg?width=1920",
+     "aggregator": false,
+     "published": "2026-11-12T03:34:55+00:00"
+    },
+    {
+     "source": "tagesschau Ausland",
+     "region": "INT",
+     "weight": 1.0,
+     "title": "Im Stadtteil Brooklyn: Tote und Verletzte nach Gebäudeeinsturz in New York",
+     "summary": "Beim Einsturz eines mehrstöckigen Gebäudes in New York sind mindestens zwei Menschen ums Leben gekommen. Mehrere weitere wurden unter den Trümmern eingeschlossen.",
+     "link": "https://www.tagesschau.de/ausland/amerika/new-york-gebaeude-einsturz-104.html",
+     "image": "https://images.tagesschau.de/image/c721bd53-d8e5-4717-8c8b-8e3e325892e3/AAABoc3GsAQ/AAABnSSvrFg/16x9-big/new-york-gebaeude-einsturz-100.jpg?width=1920",
+     "aggregator": false,
+     "published": "2026-11-12T03:34:55+00:00"
+    },
+    {
+     "source": "ZEIT ONLINE",
+     "region": "DE",
+     "weight": 0.9,
+     "title": "Unglück in Brooklyn: Mindestens zwei Tote bei Hauseinsturz in New York",
+     "summary": "",
+     "link": "https://www.zeit.de/news/2026-11/12/mindestens-zwei-tote-bei-hauseinsturz-in-new-york",
+     "image": "https://img.zeit.de/news/2026-11/12/mindestens-zwei-tote-bei-hauseinsturz-in-new-york-image-group/original__640x360",
+     "aggregator": false,
+     "published": "2026-11-12T03:08:52+00:00"
+    },
+    {
+     "source": "ZEIT ONLINE",
+     "region": "DE",
+     "weight": 0.9,
+     "title": "USA: Zwei Menschen sterben bei Einsturz von Wohnhaus in New York",
+     "summary": "In Brooklyn ist ein mehrstöckiges Wohngebäude aus bisher unbekanntem Grund eingestürzt. Mindestens zwei Personen sind gestorben, mehrere wurden von den Trümmern verletzt.",
+     "link": "https://www.zeit.de/gesellschaft/zeitgeschehen/2026-11/gebaeudeeinsturz-new-york-brooklyn-wohnhaus",
+     "image": "https://img.zeit.de/gesellschaft/zeitgeschehen/2026-11/gebaeudeeinsturz-new-york-brooklyn-wohnhaus-foto-1/original__640x360",
+     "aggregator": false,
+     "published": "2026-11-12T02:51:11+00:00"
+    }
+   ]
+  },
+  {
+   "id": 14,
+   "score": 7.63,
+   "outlets": [
+    "tagesschau",
+    "Deutschlandfunk"
+   ],
+   "regions": [
+    "DE"
+   ],
+   "trend": [],
+   "newest": "2026-11-12T02:57:08+00:00",
+   "articles": [
+    {
+     "source": "tagesschau",
+     "region": "DE",
+     "weight": 1.0,
+     "title": "EKD-Synode in Würzburg: Wie die Kirche Demokratie stärken will",
+     "summary": "Gegen Menschenfeindlichkeit: Die evangelische Kirche will die Demokratie stärken, mit Bildungsarbeit und Begegnungsräumen, vor allem auf dem Land. Das hat die Synode in Würzburg beschlossen. Doch Geld und Personal werden knapper. Von C. Wölfel.",
+     "link": "https://www.tagesschau.de/inland/gesellschaft/ekd-synode-122.html",
+     "image": "https://images.tagesschau.de/image/8daf5cdf-3b51-4153-88b9-43b617f57f6e/AAABocowM4k/AAABnSSvrFg/16x9-big/fehrs-ekd-synode-100.jpg?width=1920",
+     "aggregator": false,
+     "published": "2026-11-11T12:07:44+00:00"
+    },
+    {
+     "source": "tagesschau Inland",
+     "region": "DE",
+     "weight": 1.0,
+     "title": "EKD-Synode in Würzburg: Wie die Kirche Demokratie stärken will",
+     "summary": "Gegen Menschenfeindlichkeit: Die evangelische Kirche will die Demokratie stärken, mit Bildungsarbeit und Begegnungsräumen, vor allem auf dem Land. Das hat die Synode in Würzburg beschlossen. Doch Geld und Personal werden knapper. Von C. Wölfel.",
+     "link": "https://www.tagesschau.de/inland/gesellschaft/ekd-synode-122.html",
+     "image": "https://images.tagesschau.de/image/8daf5cdf-3b51-4153-88b9-43b617f57f6e/AAABocowM4k/AAABnSSvrFg/16x9-big/fehrs-ekd-synode-100.jpg?width=1920",
+     "aggregator": false,
+     "published": "2026-11-11T12:07:44+00:00"
+    },
+    {
+     "source": "Deutschlandfunk",
+     "region": "DE",
+     "weight": 0.95,
+     "title": "Abschluss EKD-Synode - Evangelische Kirche solidarisiert sich mit Christen im Westjordanland",
+     "summary": "Die Evangelische Kirche in Deutschland hat auf die Situation der Christen im Westjordanland aufmerksam gemacht.",
+     "link": "https://www.deutschlandfunk.de/evangelische-kirche-solidarisiert-sich-mit-christen-im-westjordanland-106.html",
+     "image": "https://bilder.deutschlandfunk.de/15/d1/72/61/15d17261-619c-4f55-8adf-9c5cb068dca9/synode-steinmeier-wuerzburg-100-1920x1920.jpg",
+     "aggregator": false,
+     "published": "2026-11-12T02:57:08+00:00"
+    }
+   ]
+  },
+  {
+   "id": 15,
+   "score": 7.63,
+   "outlets": [
+    "tagesschau",
+    "Deutschlandfunk"
+   ],
+   "regions": [
+    "DE"
+   ],
+   "trend": [],
+   "newest": "2026-11-12T02:57:08+00:00",
+   "articles": [
+    {
+     "source": "tagesschau",
+     "region": "DE",
+     "weight": 1.0,
+     "title": "Wetter Deutschland: Wolken, Temperaturen, Wind und Aussichten",
+     "summary": "Am Donnerstag vom Süden bis in die Mitte oft stark bewölkt. In der Mitte dabei hier und da Regen oder Nieselregen. In der zweiten Tageshälfte ganz im Süden neue Regenfälle. Im Norden wechselhaft.",
+     "link": "https://www.tagesschau.de/wetter/deutschland/wettervorhersage-deutschland-100.html",
+     "image": "https://images.tagesschau.de/image/e7904a01-0786-494a-996d-b1dfd43b3049/AAABocudxA0/AAABnSSvrFg/16x9-big/teaserbild-124.jpg?width=1920",
+     "aggregator": false,
+     "published": "2026-11-11T17:18:24+00:00"
+    },
+    {
+     "source": "Deutschlandfunk",
+     "region": "DE",
+     "weight": 0.95,
+     "title": "Wetter - Bewölkt mit Schauern, 5 bis 13 Grad",
+     "summary": "Das Wetter: Im Norden wechselnd bewölkt mit Schauern. In der Mitte stark bewölkt und gebietsweise Regen, später auch im Süden. Dort Höchstwerte 9 bis 13 Grad, sonst 5 bis 9 Grad. Morgen verbreitet wechselnd bewölkt. Dabei im Norden Schauer oder kurze Graupelgewitter. 3 bis 9 Grad.",
+     "link": "https://www.deutschlandfunk.de/bewoelkt-mit-schauern-5-bis-13-grad-102.html",
+     "image": "https://bilder.deutschlandfunk.de/e5/f6/55/84/e5f65584-6dc2-4dce-979d-729a024cd599/wetter-grafik-nachrichten-100-768x768.jpg",
+     "aggregator": false,
+     "published": "2026-11-12T02:57:08+00:00"
+    }
+   ]
+  },
+  {
+   "id": 16,
+   "score": 7.63,
+   "outlets": [
+    "ZDFheute",
+    "Deutschlandfunk"
+   ],
+   "regions": [
+    "DE"
+   ],
+   "trend": [],
+   "newest": "2026-11-12T02:57:08+00:00",
+   "articles": [
+    {
+     "source": "ZDFheute",
+     "region": "DE",
+     "weight": 1.0,
+     "title": "Vorstellung Jahresgutachten der Wirtschaftsweisen",
+     "summary": "Vorstellung des Jahresgutachten 2026/2027 des Sachverständigenrates zur Begutachtung der gesamtwirtschaftlichen Entwicklung",
+     "link": "https://www.phoenix.de/php/mediaplayer/vod_embed.php?cmsid=5247132",
+     "image": "https://www.zdfheute.de/assets/teaser-phoenix-vorstellung-jahresgutachten-der-wirtschaftsweisen-5247132-100~384x216?cb=1794411843368",
+     "aggregator": false,
+     "published": "2026-11-11T15:30:00+00:00"
+    },
+    {
+     "source": "Deutschlandfunk",
+     "region": "DE",
+     "weight": 0.95,
+     "title": "Sachverständigenrat - Wirtschaftsweise erwarten für 2026 und 2027 wieder deutlich höheres Wachstum",
+     "summary": "Führende Ökonomen erwarten für dieses und kommendes Jahr ein spürbar stärkeres Wirtschaftswachstum in Deutschland.",
+     "link": "https://www.deutschlandfunk.de/wirtschaftsweise-erwarten-fuer-2026-und-2027-wieder-deutlich-hoeheres-wachstum-116.html",
+     "image": "https://bilder.deutschlandfunk.de/36/9f/87/fe/369f87fe-35f5-4de3-b769-db4bfd12f832/wirtschaftsweisen-sachverstaendigenrat-100-1920x1920.jpg",
+     "aggregator": false,
+     "published": "2026-11-12T02:57:08+00:00"
+    }
+   ]
+  },
+  {
+   "id": 17,
+   "score": 7.6,
+   "outlets": [
+    "Deutsche Welle",
+    "WELT"
+   ],
+   "regions": [
+    "DE",
+    "INT"
+   ],
+   "trend": [],
+   "newest": "2026-11-12T00:44:59+00:00",
+   "articles": [
+    {
+     "source": "Deutsche Welle",
+     "region": "INT",
+     "weight": 0.95,
+     "title": "US-Republikaner stoppen Impeachment gegen Hegseth",
+     "summary": "US-Präsident Donald Trump zeigt sich hocherfreut: Vorerst gibt es kein Parlamentsverfahren, Verteidigungsminister Pete Hegseth aus dem Amt zu drängen. Ein entsprechender Versuch scheiterte bereits im Anfangsstadium.",
+     "link": "https://www.dw.com/de/us-republikaner-stoppen-impeachment-gegen-hegseth/a-79916312?maca=de-rss-de-all-1119-xml-mrss",
+     "image": "https://static.dw.com/image/79916427_302.jpg",
+     "aggregator": false,
+     "published": "2026-11-11T10:21:00+00:00"
+    },
+    {
+     "source": "WELT",
+     "region": "DE",
+     "weight": 0.8,
+     "title": "Lautes Lachen am Denkmal – Soldat rügt Gruppe um Hegseth",
+     "summary": "Am Veteranentag nahmen US-Verteidigungsminister Pete Hegseth und US-Präsident Donald Trump an einer Gedenkfeier teil. Auf dem Nationalfriedhof wurde die Gruppe von einem Wachsoldaten lautstark zurechtgewiesen.",
+     "link": "https://www.welt.de/politik/ausland/article6af50541c45061d752ba6f71/veteranentag-lautes-lachen-am-denkmal-soldat-ruegt-gruppe-um-hegseth.html",
+     "image": "https://images.welt.de/6af50541c45061d752ba6f71/43256d506a0c27b7a4978326ae938767-master/ci23x11-w1200/1794426116339-2304646681-jpg",
+     "aggregator": false,
+     "published": "2026-11-12T00:44:59+00:00"
+    }
+   ]
+  },
+  {
+   "id": 18,
+   "score": 7.51,
+   "outlets": [
+    "ZEIT ONLINE",
+    "Handelsblatt"
+   ],
+   "regions": [
+    "DE"
+   ],
+   "trend": [],
+   "newest": "2026-11-12T03:30:06+00:00",
+   "articles": [
+    {
+     "source": "ZEIT ONLINE",
+     "region": "DE",
+     "weight": 0.9,
+     "title": "Haushaltsberatung: Die Nacht der Milliarden im Bundestag",
+     "summary": "",
+     "link": "https://www.zeit.de/news/2026-11/12/die-nacht-der-milliarden-im-bundestag",
+     "image": "https://img.zeit.de/news/2026-11/12/die-nacht-der-milliarden-im-bundestag-image-group/original__640x360",
+     "aggregator": false,
+     "published": "2026-11-12T03:30:06+00:00"
+    },
+    {
+     "source": "Handelsblatt",
+     "region": "DE",
+     "weight": 0.9,
+     "title": "Haushaltsberatung: Die Nacht der Milliarden im Bundestag",
+     "summary": "Noch immer sind nicht alle Wünsche finanziert. Der Haushaltsausschuss hat noch zu tun, bevor der Etat für 2027 steht. Die Sitzung dürfte bis in die Nacht gehen.",
+     "link": "https://www.handelsblatt.com/politik/deutschland/haushaltsberatung-die-nacht-der-milliarden-im-bundestag/100269269.html",
+     "image": "https://images.handelsblatt.com/AxisV4QhzX8G/cover/900/506/0/0/80/80/0.5/0.5/haushaltsausschuss-zum-bundeshaushalt-2026.jpg",
+     "aggregator": false,
+     "published": "2026-11-12T03:30:06+00:00"
+    }
+   ]
+  },
+  {
+   "id": 19,
+   "score": 7.43,
+   "outlets": [
+    "Deutschlandfunk",
+    "Handelsblatt"
+   ],
+   "regions": [
+    "DE"
+   ],
+   "trend": [],
+   "newest": "2026-11-12T02:57:08+00:00",
+   "articles": [
+    {
+     "source": "Deutschlandfunk",
+     "region": "DE",
+     "weight": 0.95,
+     "title": "Regierungsbefragung - Unterhaltsvorschuss nur noch bis 40.000 Euro Einkommen - aber weiterhin bis zum 18. Geburtstag des Kindes",
+     "summary": "Das Bundesfamilienministerium hat Pläne für eine umstrittene Einschränkung beim Unterhaltsvorschuss für Alleinerziehende aufgegeben.",
+     "link": "https://www.deutschlandfunk.de/unterhaltsvorschuss-nur-noch-bis-40-000-euro-einkommen-aber-weiterhin-bis-zum-18-geburtstag-des-kind-104.html",
+     "image": "https://bilder.deutschlandfunk.de/0f/4a/6e/2d/0f4a6e2d-ba42-4ff9-b8d2-2af5a87344da/karin-prien-unterhalt-berlin-100-1920x1920.jpg",
+     "aggregator": false,
+     "published": "2026-11-12T02:57:08+00:00"
+    },
+    {
+     "source": "Handelsblatt",
+     "region": "DE",
+     "weight": 0.9,
+     "title": "Sparmaßnahmen: Entwurf: Unterhaltsvorschuss nur noch bis 40.000 Euro",
+     "summary": "Wenn der andere Elternteil keinen Unterhalt zahlt, springt der Staat für Kinder Alleinerziehender ein. Ein Gesetzentwurf sieht nun eine Einkommensgrenze vor – beschlossen ist aber noch nichts.",
+     "link": "https://www.handelsblatt.com/politik/deutschland/sparmassnahmen-entwurf-unterhaltsvorschuss-nur-noch-bis-40000-euro/100269166.html",
+     "image": "https://images.handelsblatt.com/MpVbS3iO44jb/cover/900/506/8/8/0/0/0.5/0.5/mutter-mit-kind.jpg",
+     "aggregator": false,
+     "published": "2026-11-11T16:00:44+00:00"
+    }
+   ]
+  },
+  {
+   "id": 20,
+   "score": 7.25,
+   "outlets": [
+    "Handelsblatt",
+    "DER STANDARD"
+   ],
+   "regions": [
+    "AT",
+    "DE"
+   ],
+   "trend": [],
+   "newest": "2026-11-11T23:41:53+00:00",
+   "articles": [
+    {
+     "source": "Handelsblatt",
+     "region": "DE",
+     "weight": 0.9,
+     "title": "Warnung an USA: Iran droht mit Angriffen auf US-Stützpunkte auch in Europa",
+     "summary": "Der Iran droht mit Attacken auf US-Militärstützpunkte von Westasien bis Europa, sollten die USA erneut einen Krieg starten. Auch Donald Trumps jüngste Äußerungen finden in Teheran keinen Anklang.",
+     "link": "https://www.handelsblatt.com/politik/international/warnung-an-usa-iran-droht-mit-angriffen-auf-us-stuetzpunkte-auch-in-europa/100269249.html",
+     "image": "https://images.handelsblatt.com/aKQ0iBxMRXnD/cover/900/506/0/0/107/106/0.5/0.5/iran-krieg-strasse-von-hormus.jpg",
+     "aggregator": false,
+     "published": "2026-11-11T23:41:53+00:00"
+    },
+    {
+     "source": "DER STANDARD",
+     "region": "AT",
+     "weight": 0.85,
+     "title": "Teheran droht mit Angriffen auf US-Stützpunkte auch in Europa",
+     "summary": "Der Iran droht, den Konflikt mit den USA im Fall neuer Angriffe geografisch auszuweiten. Zudem fordert Teheran ein Ende der Sanktionen",
+     "link": "https://www.derstandard.at/story/3000000348822/iran-teheran-droht-mit-angriffen-auf-us-st252tzpunkte-auch-in-europa?ref=rss",
+     "image": "https://i.ds.at/5Bn_Qg/rs:fill:150:0/plain/lido-images/2026/11/11/864196c1-47c3-4258-94e4-13d79d4e7300.jpg",
+     "aggregator": false,
+     "published": "2026-11-11T21:54:54+00:00"
+    }
+   ]
+  },
+  {
+   "id": 21,
+   "score": 7.0,
+   "outlets": [
+    "Handelsblatt",
+    "WirtschaftsWoche",
+    "DER STANDARD"
+   ],
+   "regions": [
+    "AT",
+    "DE"
+   ],
+   "trend": [],
+   "newest": "2026-11-11T19:22:17+00:00",
+   "articles": [
+    {
+     "source": "Handelsblatt",
+     "region": "DE",
+     "weight": 0.9,
+     "title": "Versicherer: Allianz erhöht Gewinnprognose – Rekordgewinn nach neun Monaten",
+     "summary": "Der Versicherer hat in den ersten drei Quartalen mehr als 14 Milliarden Euro Gewinn gemacht. Finanzvorständin Coste-Lepoutre gibt ihre zuletzt vorsichtige Haltung bei der Prognose auf.",
+     "link": "https://www.handelsblatt.com/finanzen/banken-versicherungen/versicherung-allianz-erhoeht-gewinnprognose-rekordgewinn-nach-neun-monaten/100266550.html",
+     "image": "https://images.handelsblatt.com/10U1E1mfCQTT/cover/900/506/0/0/262/363/0.5/0.5/claire-marie-coste-lepoutremitglied-des-vorstands-der-allianz-se-finance-risk-actuarial-legal.jpg",
+     "aggregator": false,
+     "published": "2026-11-11T18:58:28+00:00"
+    },
+    {
+     "source": "WirtschaftsWoche",
+     "region": "DE",
+     "weight": 0.85,
+     "title": "Versicherer: Allianz schraubt Gewinnprognose nach oben",
+     "summary": "Der Versicherungskonzern erhöht vor der Bekanntgabe der Quartalszahlen seine Gewinnprognose. Damit werden die Erwartungen von Analysten übertroffen.",
+     "link": "https://www.wiwo.de/unternehmen/versicherer/versicherer-allianz-schraubt-gewinnprognose-nach-oben/100269222.html",
+     "image": "https://images.wiwo.de/eKmkrUpxJVeQ/cover/900/506/0/0/138/137/0.5/0.5/archiv-09.11.2022-bayern-unterfoehring-ein-schild-mit-der-aufschrift-allianz.-zu-dpa-allian.jpg",
+     "aggregator": false,
+     "published": "2026-11-11T19:22:17+00:00"
+    },
+    {
+     "source": "DER STANDARD",
+     "region": "AT",
+     "weight": 0.85,
+     "title": "Allianz schraubt Gewinnprognose nach oben",
+     "summary": "In den ersten neun Monaten stieg der operative Gewinn auf den Rekordwert von 14,1 Milliarden Euro. Am Donnerstag werden die vollständigen Geschäftszahlen präsentiert",
+     "link": "https://www.derstandard.at/story/3000000348816/allianz-schraubt-gewinnprognose-nach-oben?ref=rss",
+     "image": "https://i.ds.at/CiLnXw/rs:fill:150:0/plain/lido-images/2026/11/11/e6b12a85-a969-4a9f-bf41-248fed2a7dec.jpg",
+     "aggregator": false,
+     "published": "2026-11-11T18:59:23+00:00"
+    },
+    {
+     "source": "Handelsblatt",
+     "region": "DE",
+     "weight": 0.6,
+     "title": "Versicherung: Allianz erhöht Gewinnprognose – Rekordgewinn nach neun Monaten",
+     "summary": "Versicherung: Allianz erhöht Gewinnprognose – Rekordgewinn nach neun Monaten Handelsblatt Allianz hebt Gewinnprognose für 2026 an – Aktie legt zu Finanzen.net Allianz erzielt Rekordergebnis von 14,1 Milliarden Euro und erhöht den Ausblick für das Gesamtjahr 2026 Allianz.com Allianz-Aktie: Es geht wieder stark bergauf WELT EQS-Adhoc: Allianz SE: Allianz erzielt Rekordergebnis von 14,1 Milliarden Euro und erhöht den Ausblick für das Gesamtjahr 2026 (deutsch) Von dpa-AFX Investing.com Deutsch",
+     "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxOb1h1WTdVay1MMkhWcldla0NQZnF3dXdTMFZMbXRsYnZndHVJbmE2LUNpYlRZUlNUODVJeDF6T0NFLUVvVFBVWXNyTjdnU0RUdDRSRGRhNnBNWDB6cl9PNS1FdG9aLUlrblYzTE1Qb3lWa2JFM2M4Q1A1V3J4ZVVkVXp1a2xsV0x3bnI3Y2R1enVCVHlQU3lKU2M5V01LZTRQYmpDdUFJX3BFXzRicE9rb1ZDUHA2elU4SllrYmtPMDNLbXpHNjJSZUt5S0kyMmNVcXU3bkE2MlJxbFlTeUlxZENpOA?oc=5",
+     "image": null,
+     "aggregator": true,
+     "published": "2026-11-11T18:58:28+00:00"
+    }
+   ]
+  },
+  {
+   "id": 22,
+   "score": 6.95,
+   "outlets": [
+    "tagesschau",
+    "DER STANDARD"
+   ],
+   "regions": [
+    "AT",
+    "DE"
+   ],
+   "trend": [],
+   "newest": "2026-11-11T22:12:19+00:00",
+   "articles": [
+    {
+     "source": "tagesschau",
+     "region": "DE",
+     "weight": 1.0,
+     "title": "Übergriffe in der Bundeswehr: Wie Pistorius auf die hohe Zahl reagieren will",
+     "summary": "Übergriffe in der Bundeswehr: Wie Pistorius auf die hohe Zahl reagieren will",
+     "link": "https://www.tagesschau.de/video/video-1682060.html",
+     "image": "https://images.tagesschau.de/image/f8a17767-9ee4-40ae-b347-216042e1a1ec/AAABoctJi34/AAABnSSvrFg/16x9-big/gille-100.jpg?width=1920",
+     "aggregator": false,
+     "published": "2026-11-11T16:08:37+00:00"
+    },
+    {
+     "source": "tagesschau",
+     "region": "DE",
+     "weight": 1.0,
+     "title": "Verteidigungsminister Pistorius, SPD, zu den Übergriffen bei der Bundeswehr",
+     "summary": "Verteidigungsminister Pistorius, SPD, zu den Übergriffen bei der Bundeswehr",
+     "link": "https://www.tagesschau.de/tagesthemen/video-1682338.html",
+     "image": "https://images.tagesschau.de/image/05a2174b-5730-454b-90e3-3afdfe7e7d4d/AAABocyq2QM/AAABnSSvrFg/16x9-big/sendungsbild-1826210.jpg?width=1920",
+     "aggregator": false,
+     "published": "2026-11-11T22:12:19+00:00"
+    },
+    {
+     "source": "DER STANDARD",
+     "region": "AT",
+     "weight": 0.85,
+     "title": "Studie offenbart erschreckendes Ausmaß sexueller Übergriffe bei deutscher Bundeswehr",
+     "summary": "Verteidigungsminister Pistorius hat das Dunkelfeld sexueller Übergriffe erstmals ausgeleuchtet. Nun steht er unter Druck, wirksame Maßnahmen gegen ein tiefverwurzeltes Problem zu ergreifen",
+     "link": "https://www.derstandard.at/story/3000000348646/studie-offenbart-erschreckendes-ausmass-sexueller-uebergriffe-bei-deutscher-bundeswehr?ref=rss",
+     "image": "https://i.ds.at/pFSraQ/rs:fill:150:0/plain/lido-images/2026/11/11/942d9f10-2fbe-4eb9-9a46-ab9627df4477.jpg",
+     "aggregator": false,
+     "published": "2026-11-11T10:24:00+00:00"
+    }
+   ]
+  },
+  {
+   "id": 23,
+   "score": 6.87,
+   "outlets": [
+    "DER STANDARD",
+    "WELT"
+   ],
+   "regions": [
+    "AT",
+    "DE"
+   ],
+   "trend": [],
+   "newest": "2026-11-11T23:09:44+00:00",
+   "articles": [
+    {
+     "source": "DER STANDARD",
+     "region": "AT",
+     "weight": 0.85,
+     "title": "Russlands US-Botschafter Alexander Dartschijew verstorben",
+     "summary": "US-Präsident Donald Trump schickt seine Verhandler Jared Kushner und Steve Witkoff nach Moskau",
+     "link": "https://www.derstandard.at/jetzt/livebericht/3000000348603/ukraine-verhandlungen-gehen-weiter-f-deeskalation-im-energiebereich?ref=rss",
+     "image": "https://i.ds.at/gDpwXQ/rs:fill:150:0/plain/lido-images/2026/11/11/9f6a6a14-0089-46ce-acd3-27e9214cf582.jpg",
+     "aggregator": false,
+     "published": "2026-11-11T04:40:31+00:00"
+    },
+    {
+     "source": "WELT",
+     "region": "DE",
+     "weight": 0.8,
+     "title": "Russlands US-Botschafter in Moskau plötzlich verstorben",
+     "summary": "Er sollte eine Annäherung Russlands an die Regierung von US-Präsident Donald Trump vorantreiben. Dafür hatte ihn Putin persönlich zum Botschafter in Washington ernannt. Jetzt ist Alexander Darchiev im Alter von 66 Jahren überraschend gestorben.",
+     "link": "https://www.welt.de/politik/ausland/article6af4f2ccc45061d752ba6f0b/erfahrener-diplomat-russlands-us-botschafter-in-moskau-ploetzlich-verstorben.html",
+     "image": "https://images.welt.de/6af4f2ccc45061d752ba6f0b/a18436ea9679876f63e2ccc4f4d2f400-master/ci23x11-w1200/apdpa-8d0844fef4a64343a73009d9353fe33b-jpg",
+     "aggregator": false,
+     "published": "2026-11-11T23:09:44+00:00"
+    }
+   ]
+  },
+  {
+   "id": 24,
+   "score": 6.68,
+   "outlets": [
+    "tagesschau Inland",
+    "WELT"
+   ],
+   "regions": [
+    "DE"
+   ],
+   "trend": [],
+   "newest": "2026-11-11T23:12:51+00:00",
+   "articles": [
+    {
+     "source": "tagesschau Inland",
+     "region": "DE",
+     "weight": 1.0,
+     "title": "Zucker-, Plastik- und Stromsteuer: Die offenen Baustellen im Haushalt",
+     "summary": "Nachdem Finanzminister Klingbeil die Plastiksteuer angekündigt hatte, scheint jetzt wieder alles offen. Auch bei der Krypto- und Zuckersteuer ist offenbar alles im Fluss. Worüber die Koalition diskutiert. Von Lissy Kaufmann.",
+     "link": "https://www.tagesschau.de/inland/innenpolitik/haushalt-steuerplaene-bundesregierung-100.html",
+     "image": "https://images.tagesschau.de/image/53742820-1f56-4d79-8620-8fc02c70097d/AAABocGYltE/AAABnSSvrFg/16x9-big/lars-klingbeil-236.jpg?width=1920",
+     "aggregator": false,
+     "published": "2026-11-09T16:24:36+00:00"
+    },
+    {
+     "source": "WELT",
+     "region": "DE",
+     "weight": 0.6,
+     "title": "Koalitionsgerangel: Keine Steuer auf Zucker und Plastik – aber CDU verliert im Streit um Senkung der Stromsteuer",
+     "summary": "Koalitionsgerangel: Keine Steuer auf Zucker und Plastik – aber CDU verliert im Streit um Senkung der Stromsteuer WELT (S+) Haushalt 2027: Regierung kann sich vorerst nicht auf Senkung der Stromsteuer einigen Spiegel Haushaltsberatung - Die Nacht der Milliarden im Bundestag - Politik - SZ.de SZ.de Haushalt 2027: Zuckersteuer kommt, Plastiksteuer fällt aus BILD Bundeshaushalt 2027: Friedrich Merz läuft wieder einmal gegen die Wand DIE ZEIT",
+     "link": "https://news.google.com/rss/articles/CBMilAJBVV95cUxQTExoNG1tbnMyY0FfUUVDN1pLTnpLSGtXWWhWU2I0ZzJzSWhIOWFydk9Ud2ZoejVJdzROTlB6UExzeXZacnhDRDg2MDhjd1ZJUEM2UFRfY2Q1clVkNzlfV3BoMllkOWVjdWhZTmE5WVhNQ05sMmFBTUlzUTUyc21JZlBvd1RfeEhDNkhuckxINVU5YWR4N0hPUmJDVm5aa0wtcEhYUC1UQTRQbVJNN0hHMnpTWmpnbzlUbkZybzc5dHFoZzBzeGwtcFVsVlM1aE53blJnTk5JLXJGX0tnTXNtQ1I4OV9kckp4WTNQNXZrS0pGc0t4SVdrbUZ3NVlhZS1oOGd3WDVRUnlMNnRrYzNGUWZHbmI?oc=5",
+     "image": null,
+     "aggregator": true,
+     "published": "2026-11-11T23:12:51+00:00"
+    }
+   ]
+  },
+  {
+   "id": 25,
+   "score": 6.4,
+   "outlets": [
+    "tagesschau",
+    "heise online",
+    "DER STANDARD"
+   ],
+   "regions": [
+    "AT",
+    "DE"
+   ],
+   "trend": [],
+   "newest": "2026-11-11T15:36:42+00:00",
+   "articles": [
+    {
+     "source": "tagesschau",
+     "region": "DE",
+     "weight": 1.0,
+     "title": "Schluss mit Abo-Fallen: Neue EU-Regeln für Games und Social Media",
+     "summary": "EU-Entwurf für \"Digital Fairness Act\" gegen unlautere Methoden im Netz",
+     "link": "https://www.tagesschau.de/video/video-1682036.html",
+     "image": "https://images.tagesschau.de/image/0bfef87e-3c1b-4340-b114-fd3351b2f0a1/AAABoctIWWk/AAABnSSvrFg/16x9-big/tastatur-154.jpg?width=1920",
+     "aggregator": false,
+     "published": "2026-11-11T15:36:42+00:00"
+    },
+    {
+     "source": "heise online",
+     "region": "DE",
+     "weight": 0.85,
+     "title": "Digital Fairness Act: EU-Offensive gegen Abo-Fallen, Lootboxen und Dark Patterns",
+     "summary": "Die EU-Kommission will Schluss machen mit Psychotricks, manipulativen Designs und Abzocke im Web: Sie plant die härtesten Verbraucherschutzregeln seit Jahren.",
+     "link": "https://www.heise.de/news/Digital-Fairness-Act-EU-Offensive-gegen-Abo-Fallen-Lootboxen-und-Dark-Patterns-11520754.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
+     "image": null,
+     "aggregator": false,
+     "published": "2026-11-11T11:45:00+00:00"
+    },
+    {
+     "source": "DER STANDARD",
+     "region": "AT",
+     "weight": 0.85,
+     "title": "Schluss mit Klickfallen und Geister-Abos: EU will zehn Online-Unsitten verbieten",
+     "summary": "Der Digital Fairness Act soll Kaufpanik, versteckte Gebühren und falsche Rabatte stoppen. Lootboxen sollen für Kinder gänzlich verschwinden",
+     "link": "https://www.derstandard.at/story/3000000348642/schluss-mit-klickfallen-und-geister-abos-eu-will-zehn-online-unsitten-verbieten?ref=rss",
+     "image": "https://i.ds.at/ZLDu9w/rs:fill:150:0/plain/lido-images/2026/11/11/96773ba0-b93d-4b30-918e-1549be5fa4d4.jpg",
+     "aggregator": false,
+     "published": "2026-11-11T09:12:25+00:00"
+    }
+   ]
+  },
+  {
+   "id": 26,
+   "score": 6.13,
+   "outlets": [
+    "ORF",
+    "DER STANDARD"
+   ],
+   "regions": [
+    "AT"
+   ],
+   "trend": [],
+   "newest": "2026-11-11T21:50:35+00:00",
+   "articles": [
+    {
+     "source": "ORF",
+     "region": "AT",
+     "weight": 0.95,
+     "title": "Justizproteste: Sporrer kündigt mehr Ressourcen an",
+     "summary": "",
+     "link": "https://orf.at/stories/3447945/",
+     "image": null,
+     "aggregator": false,
+     "published": "2026-11-11T21:26:19+00:00"
+    },
+    {
+     "source": "DER STANDARD",
+     "region": "AT",
+     "weight": 0.85,
+     "title": "Sporrer kündigt deutlich mehr Ressourcen für Justiz an",
+     "summary": "Staatsanwaltschaften und Gerichte sollen deutlich mehr Personal bekommen. Ihren Posten als Justizministerin sieht Sporrer nach dem Wechsel an der SPÖ-Spitze nicht gefährdet",
+     "link": "https://www.derstandard.at/story/3000000348823/justiz-proteste-sporrer-k252ndigt-deutlich-mehr-ressourcen-an?ref=rss",
+     "image": "https://i.ds.at/OBgBMA/rs:fill:150:0/plain/lido-images/2026/11/11/77282fc9-7a5e-418b-8da4-bd569e08c156.jpg",
+     "aggregator": false,
+     "published": "2026-11-11T21:50:35+00:00"
+    }
+   ]
+  },
+  {
+   "id": 27,
+   "score": 6.0,
+   "outlets": [
+    "tagesschau",
+    "ZDFheute"
+   ],
+   "regions": [
+    "DE"
+   ],
+   "trend": [],
+   "newest": "2026-11-11T16:25:00+00:00",
+   "articles": [
+    {
+     "source": "tagesschau",
+     "region": "DE",
+     "weight": 1.0,
+     "title": "Nach Vorwürfen - Boris Palmer verzichtet auf öffentliche Auftritte",
+     "summary": "Gegen Tübingens Oberbürgermeister Palmer wird wegen des Vorwurfs der sexuellen Belästigung ermittelt. Nun zieht er sich vorerst aus der Öffentlichkeit zurück. Auch ein Ehrenamt lässt er auf Wunsch des Ministerpräsidenten ruhen.",
+     "link": "https://www.tagesschau.de/inland/regional/badenwuerttemberg/tuebinger-ob-boris-palmer-rueckzug-100.html",
+     "image": "https://images.tagesschau.de/image/1f5930ac-bcb5-486c-a660-8ee34704b1d2/AAABocw3tTw/AAABnSSvrFg/16x9-big/swr-boris-palmer-verzichtet-vorerst-auf-oeffentliche-auftritte-als-tuebinger-ob-100.jpg?width=1920",
+     "aggregator": false,
+     "published": "2026-11-11T14:15:00+00:00"
+    },
+    {
+     "source": "ZDFheute",
+     "region": "DE",
+     "weight": 1.0,
+     "title": "Pistorius über sexuelle Belästigung in der Bundeswehr",
+     "summary": "Verteidigungsminister Boris Pistorius veröffentlicht Ergebnisse zu einer Studie über sexuelle Belästigung in der Bundeswehr. Diese würden \"unerfreuliche Ergebnisse\" zutage fördern.",
+     "link": "https://www.zdfheute.de/video/pistorius-bundeswehr-belaestigung-100.html",
+     "image": "https://www.zdfheute.de/assets/pistorius-verteidigung-pk-100~384x216?cb=1794393420789",
+     "aggregator": false,
+     "published": "2026-11-11T10:03:45+00:00"
+    },
+    {
+     "source": "ZDFheute",
+     "region": "DE",
+     "weight": 1.0,
+     "title": "Tübingen: OB Palmer verzichtet auf öffentliche Auftritte",
+     "summary": "Boris Palmer will nach einem Vorwurf sexueller Belästigung politische und repräsentative Auftritte aussetzen. 22 Tübinger Gemeinderatsmitgliedern reicht das nicht.",
+     "link": "https://www.zdfheute.de/politik/deutschland/palmer-verzicht-oeffentlichkeit-vorwurf-belaestigung-100.html",
+     "image": "https://www.zdfheute.de/assets/boris-palmer-172~384x216?cb=1794413691675",
+     "aggregator": false,
+     "published": "2026-11-11T16:25:00+00:00"
+    }
+   ]
+  }
+ ]
+}
