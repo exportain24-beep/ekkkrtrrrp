@@ -1,0 +1,26 @@
+{
+  "format": "single",
+  "candidate_id": 12,
+  "pillar": "WIRTSCHAFT",
+  "region": "INT",
+  "kicker": "NVIDIA",
+  "new_development": "Nvidia-Verwaltungsrat bereitet laut US-Medien die Entlassung von Jensen Huang vor; New York Times berichtet von weiterer Affäre; Aktie fällt erneut um acht Prozent (11./12. Nov)",
+  "hook_screen": "HUANG VOR DEM AUS!",
+  "hook_voice": "Huang droht der Rauswurf bei Nvidia.",
+  "beats": [
+    {"voice": "Nvidias Verwaltungsrat bereitet laut US-Medien die Entlassung des Konzernchefs vor. Die Aktie verliert noch einmal acht Prozent.", "big": "−8 %", "label": "Nvidia-Aktie nach dem Bericht"},
+    {"voice": "Die New York Times berichtet von einer weiteren Affäre Huangs. Zuvor ging es um eine Beziehung mit einer mutmaßlichen chinesischen Spionin.", "big": "2 Affären", "label": "Vorwürfe gegen Jensen Huang"},
+    {"voice": "Das FBI ermittelt bereits im Spionage-Fall. Der Verwaltungsrat könnte schon in Kürze über Huangs Zukunft entscheiden.", "big": "FBI", "label": "ermittelt im Spionage-Fall"}
+  ],
+  "loop_line": "Nvidia sucht offenbar schon eine Nachfolge – doch wer kann Huang ersetzen?",
+  "headline": "Nvidia bereitet Huangs Rauswurf vor",
+  "highlight": ["Rauswurf"],
+  "entities": ["Jensen Huang", "Nvidia", "Santa Clara"],
+  "youtube_title": "Nvidia-Chef Huang vor dem Rauswurf – wer übernimmt jetzt?",
+  "description_lead": "Der Verwaltungsrat von Nvidia bereitet laut US-Medien die Entlassung von Konzernchef Jensen Huang vor, die Aktie fällt erneut. Die New York Times berichtet von einer weiteren Affäre, das FBI ermittelt im Spionage-Fall um eine mutmaßliche chinesische Spionin.",
+  "tags": ["Jensen Huang", "Nvidia", "Nvidia Aktie", "Nvidia Chef", "Huang Entlassung", "Verwaltungsrat", "FBI", "New York Times", "Spionage", "China", "KI-Chips", "Börse", "nachrichten", "aktuell"],
+  "hashtags": ["#nvidia", "#jensenhuang", "#börse"],
+  "facebook_caption_line1": "Nvidia vor dem Machtwechsel: Konzernchef Jensen Huang droht nach zwei Affären der Rauswurf",
+  "facebook_question": "Sollte ein Konzernchef wegen privater Affären gehen müssen, wenn ein Spionageverdacht im Raum steht?",
+  "comment_question": "Muss Huang gehen – ja oder nein?"
+}
