@@ -1,0 +1,69 @@
+{
+ "format": "single",
+ "candidate_id": 15,
+ "pillar": "POLITIK",
+ "region": "DE",
+ "kicker": "BERLIN",
+ "hook_screen": "STROMSTEUER GEPLATZT!",
+ "hook_voice": "Merz' Stromsteuer-Versprechen scheitert – die Union tobt!",
+ "beats": [
+  {
+   "voice": "Fünf Komma vier Milliarden Euro fehlen: Union und SPD finden keine Gegenfinanzierung. Für Privathaushalte sinkt die Stromsteuer vorerst nicht.",
+   "big": "5,4 MRD €",
+   "label": "fehlen für die Senkung für alle"
+  },
+  {
+   "voice": "In der Union hat es ordentlich geknallt. Ihr Ärger trifft die SPD: „Ganz ehrlich, das ist doch ein Witz.“",
+   "big": "„EIN WITZ“",
+   "label": "Union geht auf die SPD los"
+  },
+  {
+   "voice": "Auch die Opposition nimmt sich Kanzler Merz vor. Er hatte die Senkung für alle versprochen.",
+   "big": "MERZ",
+   "label": "unter Druck aus den eigenen Ländern"
+  },
+  {
+   "voice": "Merz will sie jetzt im Koalitionsausschuss durchsetzen. Der tagt am Dienstag.",
+   "big": "DIENSTAG",
+   "label": "Koalitionsausschuss entscheidet"
+  }
+ ],
+ "loop_line": "Hält Merz sein Versprechen – oder zahlen Sie weiter die volle Stromsteuer?",
+ "headline": "Stromsteuer-Senkung vorerst gescheitert",
+ "highlight": [
+  "Stromsteuer"
+ ],
+ "entities": [
+  "Friedrich Merz",
+  "CDU",
+  "SPD",
+  "Bundestag"
+ ],
+ "youtube_title": "Merz unter Druck: Stromsteuer-Senkung für alle gescheitert",
+ "description_lead": "Die versprochene Senkung der Stromsteuer für alle Bürger kommt vorerst nicht: Union und SPD finden keine Gegenfinanzierung für rund 5,4 Milliarden Euro. In der Union um Kanzler Friedrich Merz und CDU-Politiker Paul Ziemiak wächst der Ärger über die SPD – Merz will die Senkung nun im Koalitionsausschuss durchsetzen.",
+ "tags": [
+  "Friedrich Merz",
+  "Stromsteuer",
+  "Stromsteuer Senkung",
+  "Union",
+  "CDU",
+  "SPD",
+  "Lars Klingbeil",
+  "Paul Ziemiak",
+  "Koalitionsausschuss",
+  "Strompreis",
+  "Bundeshaushalt",
+  "Entlastung",
+  "Bundesregierung",
+  "nachrichten",
+  "aktuell"
+ ],
+ "hashtags": [
+  "#stromsteuer",
+  "#merz",
+  "#strompreis"
+ ],
+ "facebook_caption_line1": "Stromsteuer-Senkung für alle vorerst gescheitert – in der Union knallt es",
+ "facebook_question": "Sollte die Stromsteuer für alle Bürger sinken, auch wenn dafür an anderer Stelle gespart werden muss?",
+ "comment_question": "Glauben Sie, dass die Stromsteuer für alle noch sinkt – ja oder nein?"
+}
