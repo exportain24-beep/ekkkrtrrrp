@@ -43,3 +43,4 @@
 - Retention 8. Nov: Abfall Sek. 4–5 in 3/4 Kurven (Selenskyj, Wolf, Trump-4er), Enden 0,27–0,33; Konfliktverb-Regel → rule 23.
 - FB 11. Nov: vor 10 UTC 5/5/2 Plays, ab 11 UTC 219/287 · FB 17:30 UTC 3/3 ≥ 398.
 - vidIQ-Watch Fb4hGpvbY9A: 2 s Titelkarte mit Datum, Hook-Wiederholung, TV-Standbild, Deutsch fehlerfrei.
+- 2026-11-12 05:41 Berlin · Growth-Brief A · Credits 5.440 · Abos 20 · Views 36.356 · Videos 69
