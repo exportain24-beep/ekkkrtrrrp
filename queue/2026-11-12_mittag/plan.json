@@ -1,0 +1,26 @@
+{
+  "format": "single",
+  "candidate_id": 5,
+  "pillar": "WELT",
+  "region": "INT",
+  "kicker": "TEHERAN",
+  "hook_screen": "US-BASEN IM VISIER",
+  "hook_voice": "Iran droht US-Stützpunkten auch in Europa.",
+  "beats": [
+    {"voice": "Teheran warnt: Für die USA gebe es „keine sichere Entfernung“. Bei neuen Angriffen will Iran den Konflikt bis nach Europa ausweiten.", "big": "EUROPA", "label": "Ziel: US-Stützpunkte auch hier"},
+    {"voice": "Damit widerspricht Teheran US-Präsident Donald Trump. Er hatte den Iran-Krieg für praktisch beendet erklärt.", "big": "TRUMP", "label": "erklärte den Krieg für fast beendet"},
+    {"voice": "Zugleich fordert Iran ein Ende der Sanktionen. Die Straße von Hormus blockiert Teheran seit Kriegsbeginn weitgehend.", "big": "HORMUS", "label": "Meerenge seit Kriegsbeginn blockiert"},
+    {"voice": "Dort sind jetzt offenbar zwei Öltanker in Brand geraten.", "big": "2 TANKER", "label": "offenbar in Brand geraten"}
+  ],
+  "loop_line": "Nach den Midterms ist offen, wie es weitergeht. Wie ernst meint Iran diese Drohung?",
+  "headline": "Iran droht US-Stützpunkten in Europa",
+  "highlight": ["Iran"],
+  "entities": ["Iran", "Teheran", "Donald Trump", "Straße von Hormus"],
+  "youtube_title": "Iran droht US-Basen in Europa: „Keine sichere Entfernung“",
+  "description_lead": "Iran droht mit Angriffen auf US-Stützpunkte auch in Europa und widerspricht damit US-Präsident Donald Trump, der den Iran-Krieg für praktisch beendet erklärt hatte. Teheran fordert ein Ende der Sanktionen, in der Straße von Hormus sind offenbar zwei Öltanker in Brand geraten.",
+  "tags": ["Iran", "Teheran", "Donald Trump", "USA", "US-Stützpunkte", "Europa", "Straße von Hormus", "Iran-Krieg", "Sanktionen", "Öltanker", "Nahost", "nachrichten", "aktuell", "Sicherheit"],
+  "hashtags": ["#iran", "#trump", "#europa"],
+  "facebook_caption_line1": "Iran droht: Auch US-Stützpunkte in Europa sind nicht sicher",
+  "facebook_question": "Wie ernst sollte Europa die Drohung aus Teheran nehmen?",
+  "comment_question": "Nehmen Sie die Drohung des Iran ernst – ja oder nein?"
+}
