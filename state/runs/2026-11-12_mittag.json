@@ -1,0 +1,25 @@
+{
+ "date": "2026-11-12",
+ "slot": "mittag",
+ "publish_at": "2026-11-12T11:00:00+00:00",
+ "title": "Iran droht US-Basen in Europa: „Keine sichere Entfernung“",
+ "duration": 33.7,
+ "stories": [
+  {
+   "headline": "Iran droht US-Stützpunkten in Europa",
+   "region": "INT",
+   "pillar": "WELT"
+  }
+ ],
+ "comment": {
+  "text": "Nehmen Sie die Drohung des Iran ernst – ja oder nein?",
+  "done": false
+ },
+ "youtube_id": "oDDqiBE-jI4",
+ "facebook_id": "2544774059377595",
+ "buffer": {
+  "twitter": "6af587cbbe2095778d9c830a",
+  "tiktok": "6af587cc6311ec67c81c28e2"
+ },
+ "created": "2026-11-12T09:33:00.269988+00:00"
+}
