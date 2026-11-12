@@ -1,0 +1,26 @@
+{
+  "format": "single",
+  "candidate_id": 3,
+  "pillar": "WIRTSCHAFT",
+  "region": "DE",
+  "kicker": "TARIFSTREIT",
+  "hook_screen": "24 STUNDEN STREIK!",
+  "hook_voice": "IG Metall droht mit Ganztags-Streiks in Hunderten Betrieben.",
+  "beats": [
+    {"voice": "Zum ersten Mal seit acht Jahren sollen Beschäftigte der Metall- und Elektroindustrie einen ganzen Tag die Arbeit niederlegen.", "big": "8 JAHRE", "label": "erstmals wieder ganztägige Warnstreiks"},
+    {"voice": "Drei Verhandlungsrunden brachten keinen Durchbruch. Die Gewerkschaft wirft den Arbeitgebern Blockade vor: Sie hätten „Beton angerührt“.", "big": "3 RUNDEN", "label": "ohne Ergebnis im Tarifstreit"},
+    {"voice": "Die Arbeitgeber reagieren mit scharfer Kritik. In Hunderten Betrieben soll nun vierundzwanzig Stunden lang die Arbeit ruhen.", "big": "24 STD.", "label": "Warnstreik statt weniger Stunden"},
+    {"voice": "Die Streiks sind ab sofort möglich. Wo genau gestreikt wird, ist noch nicht bekannt.", "big": "AB SOFORT", "label": "Orte noch nicht bekannt"}
+  ],
+  "loop_line": "Welche Werke stehen zuerst still – und trifft es auch Ihre Region?",
+  "headline": "IG Metall droht mit Ganztags-Streiks",
+  "highlight": ["IG Metall"],
+  "entities": ["IG Metall", "Metall- und Elektroindustrie", "Warnstreik"],
+  "youtube_title": "„Beton angerührt“: IG Metall droht mit 24-Stunden-Streiks",
+  "description_lead": "Die IG Metall hat im Tarifstreit der Metall- und Elektroindustrie erstmals seit acht Jahren ganztägige Warnstreiks beschlossen – in Hunderten Betrieben. Nach drei ergebnislosen Verhandlungsrunden wirft die Gewerkschaft den Arbeitgebern eine Blockadehaltung vor, die Arbeitgeber reagieren mit scharfer Kritik.",
+  "tags": ["IG Metall", "Warnstreik", "Streik", "Tarifstreit", "Metall- und Elektroindustrie", "Gewerkschaft", "Arbeitgeber", "Tarifverhandlungen", "Industrie", "Deutschland", "Arbeit", "nachrichten", "aktuell", "Wirtschaft"],
+  "hashtags": ["#igmetall", "#streik", "#warnstreik"],
+  "facebook_caption_line1": "Erstmals seit acht Jahren: IG Metall droht mit 24-Stunden-Streiks",
+  "facebook_question": "Sind ganztägige Warnstreiks im Tarifstreit gerechtfertigt?",
+  "comment_question": "Haben Sie Verständnis für ganztägige Warnstreiks – ja oder nein?"
+}
