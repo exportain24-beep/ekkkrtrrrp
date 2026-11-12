@@ -1,0 +1,40 @@
+{
+ "date": "2026-11-12",
+ "slot": "morgen",
+ "publish_at": "2026-11-12T06:00:00+00:00",
+ "title": "Putin empfängt Kushner: Darf Europa jetzt mitverhandeln?",
+ "duration": 42.0,
+ "stories": [
+  {
+   "headline": "Putin empfängt Trumps Unterhändler",
+   "region": "EU",
+   "pillar": "WELT"
+  },
+  {
+   "headline": "VW stoppt Projekt Gamechanger",
+   "region": "DE",
+   "pillar": "WIRTSCHAFT"
+  },
+  {
+   "headline": "Ökonomen heben Wachstumsprognose an",
+   "region": "DE",
+   "pillar": "WIRTSCHAFT"
+  },
+  {
+   "headline": "Weißes Haus droht den Demokraten",
+   "region": "INT",
+   "pillar": "POLITIK"
+  }
+ ],
+ "comment": {
+  "text": "Ja oder nein: Muss Europa bei den Gesprächen mit Putin mit am Tisch sitzen?",
+  "done": false
+ },
+ "youtube_id": "EQy_AcSwf6o",
+ "facebook_id": "1750597312683494",
+ "buffer": {
+  "twitter": "6af540d5cb4c7286fd13aa20",
+  "tiktok": "6af540d6bc9f3773a1beb1c9"
+ },
+ "created": "2026-11-12T04:30:14.933243+00:00"
+}
