@@ -1,0 +1,25 @@
+{
+ "date": "2026-11-12",
+ "slot": "abend",
+ "publish_at": "2026-11-12T15:30:00+00:00",
+ "title": "Dax knackt 27.000 Punkte: Rekord trotz Nvidia-Absturz",
+ "duration": 37.5,
+ "stories": [
+  {
+   "headline": "Dax knackt erstmals 27.000 Punkte",
+   "region": "DE",
+   "pillar": "WIRTSCHAFT"
+  }
+ ],
+ "comment": {
+  "text": "Schafft der Dax noch dieses Jahr die 28.000 – ja oder nein?",
+  "done": false
+ },
+ "youtube_id": "e_AVPJPKLQo",
+ "facebook_id": "1999375061026331",
+ "buffer": {
+  "twitter": "6af5c7999984f61a5416539b",
+  "tiktok": "6af5c79a8c721512232005a1"
+ },
+ "created": "2026-11-12T14:05:14.723993+00:00"
+}
