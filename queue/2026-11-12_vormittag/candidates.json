@@ -1,0 +1,1715 @@
+{
+ "slot": {
+  "id": "vormittag",
+  "format": "single",
+  "time": "10:00",
+  "label": "am Vormittag",
+  "focus": "Nur Tie-Breaker – immer zuerst die populärsten, meistberichteten Nachrichten. Bei Gleichstand bevorzugt: Die eine Nachricht, die seit dem Morgen am stärksten hochkocht – bevorzugt neue Entwicklungen großer laufender Geschichten.",
+  "pillars": [
+   "POLITIK",
+   "WIRTSCHAFT",
+   "WELT",
+   "TECHNOLOGIE"
+  ],
+  "notify_subscribers": false
+ },
+ "slot_time": "2026-11-12T10:00:00+01:00",
+ "date_text": "Donnerstag, 12. November 2026",
+ "already_published": [
+  "Schlesinger-Prozess beginnt in Berlin",
+  "Kalifornien kippt Milliardärssteuer",
+  "Nmecha verteidigt umstrittenen Torjubel",
+  "Lebenslang im Fall Fabian",
+  "Ukraine-Gespräche ohne Europa?",
+  "Klingbeil will Steuerklasse III kippen",
+  "Iran unter Verdacht: Kühlregal-Hacks",
+  "Ukraine-Gespräche: Erste Einigung?",
+  "Steuerklassen III und V vor dem Aus",
+  "Nvidia-Affäre: Jetzt warnt Deutschland",
+  "Aigner sagt der AfD ab",
+  "Linke will Emde aus Fraktion werfen",
+  "Bundeswehr sperrt China-Autos aus",
+  "Hegseth: Amtsenthebung gescheitert",
+  "Ältere fehlen 31 Tage im Jahr krank",
+  "E-Auto-Prämie: Doppelt so viel Geld",
+  "Habeck wirft Trump Ukraine-Verrat vor",
+  "Pistorius: Soldatinnen belästigt",
+  "Palmer sagt alle Auftritte ab",
+  "Drohmails: Italien räumt 300 Schulen",
+  "Prien plant Grenze beim Vorschuss",
+  "EU will Abo-Fallen verbieten",
+  "Nvidia bereitet Huangs Rauswurf vor",
+  "Putin empfängt Trumps Unterhändler",
+  "VW stoppt Projekt Gamechanger",
+  "Ökonomen heben Wachstumsprognose an",
+  "Weißes Haus droht den Demokraten"
+ ],
+ "candidates": [
+  {
+   "id": 0,
+   "score": 18.27,
+   "outlets": [
+    "tagesschau",
+    "Deutsche Welle",
+    "Deutschlandfunk",
+    "SPIEGEL",
+    "NZZ",
+    "DER STANDARD",
+    "tagesschau.de"
+   ],
+   "regions": [
+    "AT",
+    "CH",
+    "DE",
+    "INT"
+   ],
+   "trend": [
+    "Kirill Dmitrijew: Witkoff und Kushner für Gespräch mit Putin in Moskau eingetroffen"
+   ],
+   "newest": "2026-11-12T07:19:10+00:00",
+   "articles": [
+    {
+     "source": "tagesschau",
+     "region": "DE",
+     "weight": 1.0,
+     "title": "Russland und Ukraine vereinbaren Gefangenenaustausch",
+     "summary": "Bei den Ukraine-Gesprächen haben Moskau und Kiew einen weiteren Gefangenenaustausch vereinbart. Heute wollen die US-Gesandten Kushner und Witkoff zu Kremlchef Putin reisen. Dabei soll es auch darum gehen, die Europäer in die Gespräche einzubinden.",
+     "link": "https://www.tagesschau.de/ausland/asien/ukraine-russland-verhandlungen-abu-dhabi-104.html",
+     "image": "https://images.tagesschau.de/image/fb34507e-db2f-412f-8388-e9699241da24/AAABocn9QYE/AAABnSSvrFg/16x9-big/abu-dhabi-ukraine-gespraeche-102.jpg?width=1920",
+     "aggregator": false,
+     "published": "2026-11-12T05:09:26+00:00"
+    },
+    {
+     "source": "Deutsche Welle",
+     "region": "INT",
+     "weight": 0.95,
+     "title": "Selenskyj sieht Fortschritte bei Ukraine-Gesprächen in Abu Dhabi - News kompakt: Das Wichtigste kurz gefasst",
+     "summary": "Bei Gesprächen in Abu Dhabi wird wohl ein großer Gefangenenaustausch zwischen Ukraine und Russland vorbereitet. US-Verteidigungsminister Hegseth entgeht vorerst einem Amtsenthebungsverfahren. Der DW-Nachrichtenüberblick.",
+     "link": "https://www.dw.com/de/selenskyj-sieht-fortschritte-bei-ukraine-gesprächen-in-abu-dhabi-news-kompakt-das-wichtigste-kurz-gefasst/a-79914261?maca=de-rss-de-all-1119-xml-mrss",
+     "image": "https://static.dw.com/image/79871283_302.jpg",
+     "aggregator": false,
+     "published": "2026-11-11T08:09:00+00:00"
+    },
+    {
+     "source": "Deutschlandfunk",
+     "region": "DE",
+     "weight": 0.95,
+     "title": "Pendeldiplomatie - US-Unterhändler reisen zu Kremlchef Putin in Moskau",
+     "summary": "In Russland werden heute die US-Unterhändler Witkoff und Kushner erwartet.",
+     "link": "https://www.deutschlandfunk.de/us-unterhaendler-reisen-zu-kremlchef-putin-in-moskau-102.html",
+     "image": "https://bilder.deutschlandfunk.de/ff/ec/76/17/ffec7617-48af-4714-88fb-21427d4c5fad/wittkoll-kushner-usa-iran-100-1920x1920.jpg",
+     "aggregator": false,
+     "published": "2026-11-12T07:16:32+00:00"
+    },
+    {
+     "source": "SPIEGEL",
+     "region": "DE",
+     "weight": 0.9,
+     "title": "Russland - Ukraine: USA wollen Europäer an den Verhandlungstisch bringen",
+     "summary": "Die EU müsse »integraler Bestandteil« der Verhandlungen zwischen Moskau und Kyjiw sein: Kushner und Witkoff wollen Europa bei Gesprächen zu einem Kriegsende dabeihaben – Putin müssten sie aber noch überzeugen.",
+     "link": "https://www.spiegel.de/ausland/russland-ukraine-usa-wollen-europaeer-an-den-verhandlungstisch-bringen-a-2783d7a9-75f1-4d41-9797-2718e209e9d4#ref=rss",
+     "image": "https://cdn.prod.www.spiegel.de/images/f65cabd4-3623-480d-acb1-7236f52111d2_w520_r2.08_fpx49.3_fpy49.99.jpg",
+     "aggregator": false,
+     "published": "2026-11-11T18:22:00+00:00"
+    },
+    {
+     "source": "NZZ",
+     "region": "CH",
+     "weight": 0.9,
+     "title": "LIVE-TICKER - Krieg in der Ukraine: Kushner und Witkoff in Moskau angekommen +++ Medinski schliesst Gebietstausch mit Ukraine aus",
+     "summary": "Seit über vier Jahren führt Russland Krieg gegen die Ukraine. Die wichtigsten Entwicklungen im Überblick.",
+     "link": "https://www.nzz.ch/international/krieg-in-der-ukraine-die-neusten-entwicklungen-im-liveticker-ld.10021245",
+     "image": "https://img-msp-prod.nzz.ch/2026/11/12/ebab8976-91e3-435e-9d4f-b64efc454a1e.jpg?width=200&height=200&fit=bounds&quality=75&auto=webp&crop=960,960,x160,y0",
+     "aggregator": false,
+     "published": "2026-11-12T07:19:10+00:00"
+    },
+    {
+     "source": "DER STANDARD",
+     "region": "AT",
+     "weight": 0.85,
+     "title": "Mögliches Treffen mit Putin: US-Verhandler Kushner und Witkoff in Moskau",
+     "summary": "Nach den trilateralen Gesprächen zwischen der Ukraine, Russland und den USA gibt es weitere Angriffe. Die USA verhandeln weiter mit Russland",
+     "link": "https://www.derstandard.at/jetzt/livebericht/3000000348812/u?ref=rss",
+     "image": "https://i.ds.at/_wEdUg/rs:fill:150:0/plain/lido-images/2026/11/12/e78011de-8731-4dd9-ae22-322bba8598e8.jpg",
+     "aggregator": false,
+     "published": "2026-11-12T05:12:20+00:00"
+    },
+    {
+     "source": "tagesschau.de",
+     "region": "DE",
+     "weight": 0.6,
+     "title": "Russland und Ukraine vereinbaren Gefangenenaustausch",
+     "summary": "Russland und Ukraine vereinbaren Gefangenenaustausch tagesschau.de „Strikte Anweisungen“ aus Moskau – hinter den Kulissen bei den Friedensverhandlungen WELT Kirill Dmitriev: Witkoff und Kushner für Gespräch mit Putin in Moskau eingetroffen DIE ZEIT Trumps Unterhändler fordern von Putin Beteiligung Europas tagesschau.de Putin will mehr als die Ukraine RND.de",
+     "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNSWRySnFQNzFMUFpDOTloQVlXeVFCVmJ1V3JjRGVHc19NalJCUmxjNHNNbUdrUEVLTXVKZ2VRdE9xdmdudnpERnZYVUo5NVJra1dRMS04d2FvcmMtbHNqM2xkZWh1VkJXa3pGay1zUDJ6Nk4tcHFTdVJCT1ltU0tiT005VzZxVnJEZk10OUNDYW56Zk0?oc=5",
+     "image": null,
+     "aggregator": true,
+     "published": "2026-11-12T05:09:00+00:00"
+    }
+   ]
+  },
+  {
+   "id": 1,
+   "score": 15.96,
+   "outlets": [
+    "tagesschau",
+    "ZDFheute",
+    "Deutschlandfunk",
+    "SRF News",
+    "SPIEGEL",
+    "Süddeutsche",
+    "DIE ZEIT"
+   ],
+   "regions": [
+    "CH",
+    "DE",
+    "INT"
+   ],
+   "trend": [],
+   "newest": "2026-11-12T07:16:32+00:00",
+   "articles": [
+    {
+     "source": "tagesschau",
+     "region": "DE",
+     "weight": 1.0,
+     "title": "Historischer Sieg in Mississippi: \"Hatte den Mut, an Mississippi zu glauben\"",
+     "summary": "Seit 145 Jahren zieht erstmals ein schwarzer Demokrat für Mississippi in den US-Senat. Im Wahlkampf setzte Scott Colom auf die Mobilisierung von Nicht-Wählern - und Gespräche mit Trump-Unterstützern. Von Sandra Ratzow.",
+     "link": "https://www.tagesschau.de/ausland/amerika/usa-mississippi-schwarzer-senator-100.html",
+     "image": "https://images.tagesschau.de/image/eea9ed05-44d7-4646-b3c8-aef07e8eea3f/AAABoc4AghA/AAABnSSvrFg/16x9-big/colom-102.jpg?width=1920",
+     "aggregator": false,
+     "published": "2026-11-12T04:37:34+00:00"
+    },
+    {
+     "source": "tagesschau",
+     "region": "DE",
+     "weight": 1.0,
+     "title": "Historischer Sieg: Demokrat Colom holt Senatssitz in Mississippi",
+     "summary": "Erstmals seit mehr als vier Jahrzehnten hat ein Demokrat im südlichen US-Bundesstaat Mississippi eine Wahl für den US-Senat gewonnen. Colom gelang ein überraschender Sieg - er weitet damit die Mehrheit im Senat ab Januar auf 55 der 100 Sitze aus.",
+     "link": "https://www.tagesschau.de/ausland/amerika/demokrat-mississippi-sieg-100.html",
+     "image": "https://images.tagesschau.de/image/d7e2a493-7016-4e0f-b525-04c1f1dc300f/AAABocztN-E/AAABnSSvrFg/16x9-big/colom-100.jpg?width=1920",
+     "aggregator": false,
+     "published": "2026-11-12T02:08:44+00:00"
+    },
+    {
+     "source": "tagesschau Ausland",
+     "region": "INT",
+     "weight": 1.0,
+     "title": "Historischer Sieg in Mississippi: \"Hatte den Mut, an Mississippi zu glauben\"",
+     "summary": "Seit 145 Jahren zieht erstmals ein schwarzer Demokrat für Mississippi in den US-Senat. Im Wahlkampf setzte Scott Colom auf die Mobilisierung von Nicht-Wählern - und Gespräche mit Trump-Unterstützern. Von Sandra Ratzow.",
+     "link": "https://www.tagesschau.de/ausland/amerika/usa-mississippi-schwarzer-senator-100.html",
+     "image": "https://images.tagesschau.de/image/eea9ed05-44d7-4646-b3c8-aef07e8eea3f/AAABoc4AghA/AAABnSSvrFg/16x9-big/colom-102.jpg?width=1920",
+     "aggregator": false,
+     "published": "2026-11-12T04:37:34+00:00"
+    },
+    {
+     "source": "tagesschau Ausland",
+     "region": "INT",
+     "weight": 1.0,
+     "title": "Historischer Sieg: Demokrat Colom holt Senatssitz in Mississippi",
+     "summary": "Erstmals seit mehr als vier Jahrzehnten hat ein Demokrat im südlichen US-Bundesstaat Mississippi eine Wahl für den US-Senat gewonnen. Colom gelang ein überraschender Sieg - er weitet damit die Mehrheit im Senat ab Januar auf 55 der 100 Sitze aus.",
+     "link": "https://www.tagesschau.de/ausland/amerika/demokrat-mississippi-sieg-100.html",
+     "image": "https://images.tagesschau.de/image/d7e2a493-7016-4e0f-b525-04c1f1dc300f/AAABocztN-E/AAABnSSvrFg/16x9-big/colom-100.jpg?width=1920",
+     "aggregator": false,
+     "published": "2026-11-12T02:08:44+00:00"
+    },
+    {
+     "source": "ZDFheute",
+     "region": "DE",
+     "weight": 1.0,
+     "title": "Erstmals seit 1982 gewinnt wieder Demokrat in Mississippi",
+     "summary": "Erstmals seit 1982 gewinnt ein Demokrat einen Sitz im US-Senat in Mississippi. Scott Colom ist zudem der erste schwarze Senator aus dem südlichen Bundesstaat seit den 1880er Jahren.",
+     "link": "https://www.zdfheute.de/politik/ausland/usa-mississippi-scott-colom-midterms-demokraten-senat-100.html",
+     "image": "https://www.zdfheute.de/assets/scott-colom-100~384x216?cb=1794461982549",
+     "aggregator": false,
+     "published": "2026-11-12T06:38:00+00:00"
+    },
+    {
+     "source": "Deutschlandfunk",
+     "region": "DE",
+     "weight": 0.95,
+     "title": "Erstmals seit 1982 - Demokrat Scott Colom holt laut Medien Senatssitz in Mississippi",
+     "summary": "Gut eine Woche nach den US-Zwischenwahlen zeichnet sich im besonders knappen Rennen in Mississippi ein weiterer Erfolg der Demokraten ab. Nach übereinstimmenden Medienberichten zieht ihr Kandidat Colom für den südlichen Bundesstaat in den Senat in Washington ein.",
+     "link": "https://www.deutschlandfunk.de/demokrat-scott-colom-holt-laut-medien-senatssitz-in-mississippi-102.html",
+     "image": "https://bilder.deutschlandfunk.de/99/9f/e3/ff/999fe3ff-76be-4097-9df9-aebf5a87cb9e/mississippi-colom-100-1920x1920.jpg",
+     "aggregator": false,
+     "published": "2026-11-12T07:16:32+00:00"
+    },
+    {
+     "source": "SRF News",
+     "region": "CH",
+     "weight": 0.95,
+     "title": "Midterms 2026 – Demokrat Scott Colom gewinnt Senatssitz in Mississippi",
+     "summary": "Erstmals seit mehr als vier Jahrzehnten hat ein Demokrat im Bundesstaat Mississippi eine Wahl für den US-Senat gewonnen.",
+     "link": "https://www.srf.ch/news/international/usa/midterms-2026-demokrat-scott-colom-gewinnt-senatssitz-in-mississippi",
+     "image": "https://www.srf.ch/static/cms/images//320ws/5f28b5.webp",
+     "aggregator": false,
+     "published": "2026-11-11T23:31:59+00:00"
+    },
+    {
+     "source": "SPIEGEL",
+     "region": "DE",
+     "weight": 0.9,
+     "title": "Midterms in den USA - Mississippi: Wie Scott Colom trotz aller Widerstände siegte",
+     "summary": "Als erster Schwarzer seit 145 Jahren zieht der Demokrat Scott Colom für Mississippi in den US-Senat ein. Geschafft hat er das mit unermüdlichem Klinkenputzen, einem viralen Wahlkampfvideo – und der unfreiwilligen Hilfe von Donald Trump.",
+     "link": "https://www.spiegel.de/ausland/midterms-in-den-usa-mississippi-wie-scott-colom-trotz-aller-widerstaende-siegte-a-edaaf9b7-8649-49f9-ba5e-a4657d9f51cc#ref=rss",
+     "image": "https://cdn.prod.www.spiegel.de/images/b165cb11-873c-4aa3-99c7-13b82f0003f5_w520_r2.08_fpx70_fpy85.jpg",
+     "aggregator": false,
+     "published": "2026-11-12T03:57:00+00:00"
+    }
+   ]
+  },
+  {
+   "id": 2,
+   "score": 13.94,
+   "outlets": [
+    "tagesschau",
+    "Handelsblatt",
+    "NZZ",
+    "DER STANDARD",
+    "WELT"
+   ],
+   "regions": [
+    "AT",
+    "CH",
+    "DE",
+    "INT"
+   ],
+   "trend": [],
+   "newest": "2026-11-12T07:12:59+00:00",
+   "articles": [
+    {
+     "source": "tagesschau",
+     "region": "DE",
+     "weight": 1.0,
+     "title": "Trumps Unterhändler fordern von Putin Beteiligung Europas",
+     "summary": "Bei den Gesprächen über die Zukunft der Ukraine in Abu Dhabi saßen die Europäer nicht mit am Tisch. Nun besuchen die US-Gesandten Moskau - nach eigenen Worten, um Putin von einer Beteiligung Europas zu überzeugen.",
+     "link": "https://www.tagesschau.de/ausland/europa/witkoff-kushner-putin-ukraine-100.html",
+     "image": "https://images.tagesschau.de/image/a2ca40d2-91d6-4b2c-bc82-aa01f28553c3/AAABoc6O0ak/AAABnSSvrFg/16x9-big/witkoff-kushner-dmitriew-100.jpg?width=1920",
+     "aggregator": false,
+     "published": "2026-11-12T07:00:29+00:00"
+    },
+    {
+     "source": "tagesschau Ausland",
+     "region": "INT",
+     "weight": 1.0,
+     "title": "Trumps Unterhändler fordern von Putin Beteiligung Europas",
+     "summary": "Bei den Gesprächen über die Zukunft der Ukraine in Abu Dhabi saßen die Europäer nicht mit am Tisch. Nun besuchen die US-Gesandten Moskau - nach eigenen Worten, um Putin von einer Beteiligung Europas zu überzeugen.",
+     "link": "https://www.tagesschau.de/ausland/europa/witkoff-kushner-putin-ukraine-100.html",
+     "image": "https://images.tagesschau.de/image/a2ca40d2-91d6-4b2c-bc82-aa01f28553c3/AAABoc6O0ak/AAABnSSvrFg/16x9-big/witkoff-kushner-dmitriew-100.jpg?width=1920",
+     "aggregator": false,
+     "published": "2026-11-12T07:00:29+00:00"
+    },
+    {
+     "source": "tagesschau Ausland",
+     "region": "INT",
+     "weight": 1.0,
+     "title": "Verhandlungen in Abu Dhabi über Ende des Ukraine-Krieges haben begonnen",
+     "summary": "In Abu Dhabi haben die Gespräche über ein Ende des Krieges in der Ukraine begonnen. Zuletzt hatte US-Präsident Trump eine \"große Übereinkunft\" versprochen. Aber was meinte er damit? Und was hieße das für Europa? Von Carsten Kühntopp.",
+     "link": "https://www.tagesschau.de/ausland/amerika/dreiergespraeche-usa-russland-ukraine-100.html",
+     "image": "https://images.tagesschau.de/image/5b75b2a0-6a74-45d1-b50a-1bcb869c8f44/AAABocTyvy0/AAABnSSvrFg/16x9-big/trump-putin-256.jpg?width=1920",
+     "aggregator": false,
+     "published": "2026-11-10T08:18:50+00:00"
+    },
+    {
+     "source": "tagesschau Ausland",
+     "region": "INT",
+     "weight": 1.0,
+     "title": "Ukraine-Gespräche in Abu Dhabi: EU kündigt Teilnahme an",
+     "summary": "Ab Dienstag soll in Abu Dhabi über einen möglichen Frieden in der Ukraine verhandelt werden. Auch Vertreter Europas haben sich dazu angekündigt. Moskau will lieber nur mit den USA reden.",
+     "link": "https://www.tagesschau.de/ausland/europa/ukraine-verhandlungen-abu-dhabi-100.html",
+     "image": "https://images.tagesschau.de/image/bcbfacd2-b7ac-4314-9d86-ec6d822e9492/AAABobwG94w/AAABnSSvrFg/16x9-big/abu-dhabi-103.jpg?width=1920",
+     "aggregator": false,
+     "published": "2026-11-09T13:52:00+00:00"
+    },
+    {
+     "source": "Handelsblatt",
+     "region": "DE",
+     "weight": 0.9,
+     "title": "Lage im Überblick: Trumps Abgesandte mit heikler Botschaft bei Putin",
+     "summary": "Bei den Gesprächen in Abu Dhabi saßen Europäer nicht mit am Verhandlungstisch. Nun sollen Trumps Unterhändler Putin umstimmen – doch Moskau verfolgt eigene Pläne.",
+     "link": "https://www.handelsblatt.com/politik/international/lage-im-ueberblick-trumps-abgesandte-mit-heikler-botschaft-bei-putin/100269283.html",
+     "image": "https://images.handelsblatt.com/uaQNEspB35Zt/cover/900/506/0/0/107/106/0.5/0.5/ukraine-gespraeche-in-abu-dhabi.jpg",
+     "aggregator": false,
+     "published": "2026-11-12T07:12:59+00:00"
+    },
+    {
+     "source": "NZZ",
+     "region": "CH",
+     "weight": 0.9,
+     "title": "KOMMENTAR - Das grosse Täuschungsmanöver von Abu Dhabi: Trump und Putin inszenieren Verhandlungen nur zum Schein",
+     "summary": "Auf dem Papier geht es um «Frieden», aber in Wirklichkeit spielen Washington und Moskau auf Zeit. Die Europäer sollten nicht darauf hereinfallen.",
+     "link": "https://www.nzz.ch/meinung/taeuschungsmanoever-von-abu-dhabi-trump-und-putin-inszenieren-verhandlungen-nur-zum-schein-ld.10061075",
+     "image": "https://img-msp-prod.nzz.ch/2026/11/10/ff692e9a-7ac5-455c-80b0-da3274734974.jpg?width=200&height=200&fit=bounds&quality=75&auto=webp&crop=1744,1744,x567,y0",
+     "aggregator": false,
+     "published": "2026-11-12T04:30:00+00:00"
+    },
+    {
+     "source": "DER STANDARD",
+     "region": "AT",
+     "weight": 0.85,
+     "title": "Herumnudeln mit der Wehrdienstreform",
+     "summary": "Trump will gerade die Ukraine und Europa an Putin verschenken. Wir bringen keine ordentliche Wehrdienstreform zustande",
+     "link": "https://www.derstandard.at/story/3000000348550/herumnudeln-mit-wehrdienstreform?ref=rss",
+     "image": "https://i.ds.at/9ibztQ/rs:fill:150:0/plain/lido-images/2026/11/10/de16c2c0-34bc-477e-8257-eeafe6f38f71.jpg",
+     "aggregator": false,
+     "published": "2026-11-11T11:00:00+00:00"
+    },
+    {
+     "source": "WELT",
+     "region": "DE",
+     "weight": 0.8,
+     "title": "„Im Endeffekt wollen die Russen eine Entmilitarisierung Osteuropas“",
+     "summary": "Nach den Ukraine-Gesprächen in Abu Dhabi reisen die US-Gesandten Kushner und Witkoff nach Moskau. „Sie werden Putin auffordern, die Europäer mit in diesen Verhandlungsprozess zu integrieren“, so Korrespondent Christoph Wanner.",
+     "link": "https://www.welt.de/politik/ausland/video6af55a2850175c81de7a2601/kushner-und-witkoff-in-moskau-im-endeffekt-wollen-die-russen-eine-entmilitarisierung-osteuropas.html",
+     "image": "https://images.welt.de/6af55a2850175c81de7a2601/10a9036bcb28eced843d0388112f0d99/ci16x9-w1200/dpa-com-261111-99-246747-jpg",
+     "aggregator": false,
+     "published": "2026-11-12T07:01:46+00:00"
+    }
+   ]
+  },
+  {
+   "id": 3,
+   "score": 12.66,
+   "outlets": [
+    "tagesschau",
+    "ORF",
+    "SRF News",
+    "DER STANDARD",
+    "WELT"
+   ],
+   "regions": [
+    "AT",
+    "CH",
+    "DE",
+    "INT"
+   ],
+   "trend": [],
+   "newest": "2026-11-12T06:05:03+00:00",
+   "articles": [
+    {
+     "source": "tagesschau",
+     "region": "DE",
+     "weight": 1.0,
+     "title": "Im Stadtteil Brooklyn: Tote und Verletzte nach Gebäudeeinsturz in New York",
+     "summary": "Beim Einsturz eines mehrstöckigen Gebäudes in New York sind mindestens zwei Menschen ums Leben gekommen. Mehrere weitere wurden unter den Trümmern eingeschlossen.",
+     "link": "https://www.tagesschau.de/ausland/amerika/new-york-gebaeude-einsturz-104.html",
+     "image": "https://images.tagesschau.de/image/c721bd53-d8e5-4717-8c8b-8e3e325892e3/AAABoc3GsAQ/AAABnSSvrFg/16x9-big/new-york-gebaeude-einsturz-100.jpg?width=1920",
+     "aggregator": false,
+     "published": "2026-11-12T03:34:55+00:00"
+    },
+    {
+     "source": "tagesschau Ausland",
+     "region": "INT",
+     "weight": 1.0,
+     "title": "Im Stadtteil Brooklyn: Tote und Verletzte nach Gebäudeeinsturz in New York",
+     "summary": "Beim Einsturz eines mehrstöckigen Gebäudes in New York sind mindestens zwei Menschen ums Leben gekommen. Mehrere weitere wurden unter den Trümmern eingeschlossen.",
+     "link": "https://www.tagesschau.de/ausland/amerika/new-york-gebaeude-einsturz-104.html",
+     "image": "https://images.tagesschau.de/image/c721bd53-d8e5-4717-8c8b-8e3e325892e3/AAABoc3GsAQ/AAABnSSvrFg/16x9-big/new-york-gebaeude-einsturz-100.jpg?width=1920",
+     "aggregator": false,
+     "published": "2026-11-12T03:34:55+00:00"
+    },
+    {
+     "source": "ORF",
+     "region": "AT",
+     "weight": 0.95,
+     "title": "Mindestens zwei Tote bei Hauseinsturz in New York",
+     "summary": "",
+     "link": "https://orf.at/stories/3447952/",
+     "image": null,
+     "aggregator": false,
+     "published": "2026-11-12T05:25:11+00:00"
+    },
+    {
+     "source": "SRF News",
+     "region": "CH",
+     "weight": 0.95,
+     "title": "Im Stadtteil Brooklyn – Zwei Tote und 17 Verletzte bei Hauseinsturz in New York",
+     "summary": "Nach Angaben der Feuerwehr sind auch Kinder unter den Verletzten. Die Rettungsaktion ist noch im Gang.",
+     "link": "https://www.srf.ch/news/international/im-stadtteil-brooklyn-zwei-tote-und-17-verletzte-bei-hauseinsturz-in-new-york",
+     "image": "https://www.srf.ch/static/cms/images//320ws/872678.webp",
+     "aggregator": false,
+     "published": "2026-11-12T06:05:03+00:00"
+    },
+    {
+     "source": "DER STANDARD",
+     "region": "AT",
+     "weight": 0.85,
+     "title": "Mindestens zwei Tote bei Hauseinsturz in New York",
+     "summary": "Ein mehrstöckiges Wohnhaus im Stadtteil Brooklyn stürzte ein. Neben den Toten gibt es 17 weitere Verletzte",
+     "link": "https://www.derstandard.at/story/3000000348826/mindestens-zwei-tote-bei-hauseinsturz-in-new-york?ref=rss",
+     "image": "https://i.ds.at/vea4CQ/rs:fill:150:0/plain/lido-images/2026/11/12/26fe820c-5b96-4e7e-8b63-4b126e80320c.jpg",
+     "aggregator": false,
+     "published": "2026-11-12T04:54:16+00:00"
+    },
+    {
+     "source": "WELT",
+     "region": "DE",
+     "weight": 0.8,
+     "title": "Mindestens zwei Tote bei Hauseinsturz in Brooklyn",
+     "summary": "Beim Einsturz eines Hauses im New Yorker Stadtteil Brooklyn sind mindestens zwei Menschen ums Leben gekommen. Mindestens 17 Bewohner wurden verletzt, vier davon lebensgefährlich. Ob noch Menschen unter den Trümmern liegen, ist unklar.",
+     "link": "https://www.welt.de/vermischtes/video6af54bbe50175c81de7a2535/new-york-mindestens-zwei-tote-bei-hauseinsturz-in-brooklyn.html",
+     "image": "https://images.welt.de/6af54bbe50175c81de7a2535/3cd8c4fedc90a5a31fc1f88246f89419/ci16x9-w1200/apdpa-23c93bc8b3c14174afe145f17688ef0c-jpg",
+     "aggregator": false,
+     "published": "2026-11-12T05:39:45+00:00"
+    }
+   ]
+  },
+  {
+   "id": 4,
+   "score": 12.66,
+   "outlets": [
+    "ZDFheute",
+    "Deutsche Welle",
+    "Deutschlandfunk",
+    "SPIEGEL"
+   ],
+   "regions": [
+    "DE",
+    "INT"
+   ],
+   "trend": [],
+   "newest": "2026-11-12T07:16:32+00:00",
+   "articles": [
+    {
+     "source": "ZDFheute",
+     "region": "DE",
+     "weight": 1.0,
+     "title": "Pistorius über sexuelle Belästigung in der Bundeswehr",
+     "summary": "Verteidigungsminister Boris Pistorius veröffentlicht Ergebnisse zu einer Studie über sexuelle Belästigung in der Bundeswehr. Diese würden \"unerfreuliche Ergebnisse\" zutage fördern.",
+     "link": "https://www.zdfheute.de/video/pistorius-bundeswehr-belaestigung-100.html",
+     "image": "https://www.zdfheute.de/assets/pistorius-verteidigung-pk-100~384x216?cb=1794393420789",
+     "aggregator": false,
+     "published": "2026-11-11T10:03:45+00:00"
+    },
+    {
+     "source": "ZDFheute",
+     "region": "DE",
+     "weight": 1.0,
+     "title": "Tübingen: OB Palmer verzichtet auf öffentliche Auftritte",
+     "summary": "Boris Palmer will nach einem Vorwurf sexueller Belästigung politische und repräsentative Auftritte aussetzen. 22 Tübinger Gemeinderatsmitgliedern reicht das nicht.",
+     "link": "https://www.zdfheute.de/politik/deutschland/palmer-verzicht-oeffentlichkeit-vorwurf-belaestigung-100.html",
+     "image": "https://www.zdfheute.de/assets/boris-palmer-172~384x216?cb=1794413691675",
+     "aggregator": false,
+     "published": "2026-11-11T16:25:00+00:00"
+    },
+    {
+     "source": "ZDFheute",
+     "region": "DE",
+     "weight": 1.0,
+     "title": "Pistorius: \"Es geht um Sicherheit für alle in der Truppe\"",
+     "summary": "Eine Studie zeigt: Drei von vier Bundeswehrsoldatinnen sind in ihrer Dienstzeit schon einmal sexuell belästigt worden. Wie will Verteidigungsminister Pistorius dagegen vorgehen?",
+     "link": "https://www.zdfheute.de/politik/deutschland/pistorius-bundeswehr-sexuelle-belaestigung-studie-100.html",
+     "image": "https://www.zdfheute.de/assets/pistorius-168~384x216?cb=1794411830904",
+     "aggregator": false,
+     "published": "2026-11-11T21:11:00+00:00"
+    },
+    {
+     "source": "ZDFheute",
+     "region": "DE",
+     "weight": 1.0,
+     "title": "Bundeswehr-Studie offenbart Ausmaß sexueller Belästigung",
+     "summary": "Sexuelle Belästigung in der Bundeswehr ist einer neuen Studie zufolge noch weitaus verbreiteter als bislang bekannt. Verteidigungsminister Pistorius forderte \"null Toleranz\".",
+     "link": "https://www.zdfheute.de/politik/deutschland/bundeswehr-dunkelfeldstudie-sexuelle-belaestigung-boris-pistorius-100.html",
+     "image": "https://www.zdfheute.de/assets/bundeswehrsoldaten-128~384x216?cb=1794422538850",
+     "aggregator": false,
+     "published": "2026-11-11T14:05:00+00:00"
+    },
+    {
+     "source": "ZDFheute",
+     "region": "DE",
+     "weight": 1.0,
+     "title": "Pistorius: \"Null Toleranz bei sexuellem Fehlverhalten in der Bundeswehr\"",
+     "summary": "Statement von Boris Pistorius (SPD, Bundesverteidigungsminister) zurDunkelfeldstudie über sexuelle Belästigungen in der Bundeswehr",
+     "link": "https://www.phoenix.de/sendungen/ereignisse/phoenix-vor-ort/ua-boris-pistorius-bundes-a-5240705.html",
+     "image": "https://www.zdfheute.de/assets/teaser-phoenix-pistorius-null-toleranz-bei-sexuellem-fehlverhalten-in-der-bundeswehr-5247042-100~384x216?cb=1794399237295",
+     "aggregator": false,
+     "published": "2026-11-11T10:03:00+00:00"
+    },
+    {
+     "source": "Deutsche Welle",
+     "region": "INT",
+     "weight": 0.95,
+     "title": "Bundeswehr-Studie zeigt Ausmaß sexueller Belästigung in der Truppe",
+     "summary": "Sexualisiertes Fehlverhalten ist in der Bundeswehr weiter verbreitet als bislang bekannt. Betroffen sind vor allem jüngere Frauen. Verteidigungsminister Boris Pistorius fordert \"null Toleranz\".",
+     "link": "https://www.dw.com/de/bundeswehr-studie-zeigt-ausmaß-sexueller-belästigung-in-der-truppe/a-79919828?maca=de-rss-de-all-1119-xml-mrss",
+     "image": "https://static.dw.com/image/79914984_302.jpg",
+     "aggregator": false,
+     "published": "2026-11-11T15:54:00+00:00"
+    },
+    {
+     "source": "Deutschlandfunk",
+     "region": "DE",
+     "weight": 0.95,
+     "title": "Nach Bundeswehr-Untersuchung - Grüne fordern Dunkelfeldstudie zu Sexismus auch in der Polizei",
+     "summary": "Nach einer Studie über sexuelle Übergriffe in der Bundeswehr fordern die Grünen eine ähnliche Untersuchung auch in der Polizei.",
+     "link": "https://www.deutschlandfunk.de/gruene-fordern-dunkelfeldstudie-zu-sexismus-auch-in-der-polizei-102.html",
+     "image": "https://bilder.deutschlandfunk.de/FI/LE/_d/db/FILE_ddb0e735c81ec42e74b80213e2fb023e/imago0094130526h-jpg-102-512x512.jpg",
+     "aggregator": false,
+     "published": "2026-11-12T07:16:32+00:00"
+    },
+    {
+     "source": "SPIEGEL",
+     "region": "DE",
+     "weight": 0.9,
+     "title": "Boris Pistorius: Schafft der Verteidigungsminister die Wende beim Kampf gegen sexuelles Fehlverhalten in der Bundeswehr?",
+     "summary": "Sexualisiertes Fehlverhalten in der Bundeswehr ist weitverbreitet, das belegt eine neue Studie. Verteidigungsminister Boris Pistorius zeigt sich schockiert, ungewohnt dünnhäutig. Sein Aktionsplan zielt auf eine Schwachstelle der Truppe.",
+     "link": "https://www.spiegel.de/politik/deutschland/boris-pistorius-schafft-der-verteidigungsminister-die-wende-beim-kampf-gegen-sexuelles-fehlverhalten-in-der-bundeswehr-a-375d7184-5ee3-4aaa-8eaa-edc21847a3de#ref=rss",
+     "image": "https://cdn.prod.www.spiegel.de/images/4294db76-8a0c-4a1a-8aed-80e6524c7880_w520_r2.08_fpx43.34_fpy45.jpg",
+     "aggregator": false,
+     "published": "2026-11-11T18:04:00+00:00"
+    }
+   ]
+  },
+  {
+   "id": 5,
+   "score": 11.36,
+   "outlets": [
+    "Deutschlandfunk",
+    "ORF",
+    "SPIEGEL",
+    "ZEIT ONLINE"
+   ],
+   "regions": [
+    "AT",
+    "DE"
+   ],
+   "trend": [],
+   "newest": "2026-11-12T07:16:32+00:00",
+   "articles": [
+    {
+     "source": "Deutschlandfunk",
+     "region": "DE",
+     "weight": 0.95,
+     "title": "Moskau - Russischer Botschafter in den USA gestorben",
+     "summary": "Der russische Botschafter in den USA, Alexander Daritschijew, ist tot.",
+     "link": "https://www.deutschlandfunk.de/russischer-botschafter-in-den-usa-gestorben-100.html",
+     "image": "https://bilder.deutschlandfunk.de/FI/LE/_8/fe/FILE_8feade0e08bfe0e44c796a4c85f130cc/5004225-jpg-100-768x768.jpg",
+     "aggregator": false,
+     "published": "2026-11-12T07:16:32+00:00"
+    },
+    {
+     "source": "ORF",
+     "region": "AT",
+     "weight": 0.95,
+     "title": "Russischer Botschafter in den USA gestorben",
+     "summary": "",
+     "link": "https://orf.at/stories/3447927/",
+     "image": null,
+     "aggregator": false,
+     "published": "2026-11-11T17:04:14+00:00"
+    },
+    {
+     "source": "SPIEGEL",
+     "region": "DE",
+     "weight": 0.9,
+     "title": "Russland: Wladimir Putins Botschafter in den USA »plötzlich« verstorben",
+     "summary": "Den Krieg gegen die Ukraine nannte er eine »notwendigen Maßnahme«. Bis zuletzt warb Alexander Dartschijew in den USA für Putins Kurs. Nun meldet die russische Regierung, der Botschafter sei an den Folgen einer chronischen Erkrankung gestorben.",
+     "link": "https://www.spiegel.de/ausland/russland-wladimir-putins-botschafter-in-den-usa-ploetzlich-verstorben-a-e4d615bc-3921-4ece-9e08-442bf3e9354a#ref=rss",
+     "image": "https://cdn.prod.www.spiegel.de/images/17a33ba2-bc53-4de3-80e3-aeffedc1fc32_w520_r2.08_fpx40.67_fpy45.jpg",
+     "aggregator": false,
+     "published": "2026-11-12T06:23:00+00:00"
+    },
+    {
+     "source": "ZEIT ONLINE",
+     "region": "DE",
+     "weight": 0.9,
+     "title": "Kirill Dmitrijew: Witkoff und Kushner für Gespräch mit Putin in Moskau eingetroffen",
+     "summary": "Die Unterhändler der USA, Steve Witkoff und Jared Kushner, sind in Moskau eingetroffen. Sie treffen den russischen Staatschef Putin für Gespräche über die Ukraine.",
+     "link": "https://www.zeit.de/politik/ausland/2026-11/kirill-dmitriev-jared-kushner-steve-witkoff-moskau-wladimir-putin-gxe",
+     "image": "https://img.zeit.de/politik/ausland/2026-11/kirill-dmitriev-jared-kushner-steve-witkoff-moskau-wladimir-putin-gxe-foto-1/original__640x360",
+     "aggregator": false,
+     "published": "2026-11-12T06:55:01+00:00"
+    }
+   ]
+  },
+  {
+   "id": 6,
+   "score": 11.02,
+   "outlets": [
+    "tagesschau",
+    "ZDFheute",
+    "SRF News",
+    "WELT"
+   ],
+   "regions": [
+    "CH",
+    "DE",
+    "INT"
+   ],
+   "trend": [],
+   "newest": "2026-11-12T05:57:11+00:00",
+   "articles": [
+    {
+     "source": "tagesschau",
+     "region": "DE",
+     "weight": 1.0,
+     "title": "Bombendrohungen an Tausenden Schulen in Italien und Großbritannien",
+     "summary": "An Tausenden Schulen in Italien sind per E-Mail Bombendrohungen eingegangen. Auch in Großbritannien gibt es ähnliche Fälle. Die Behörden gehen von Falschmeldungen aus. Wer hinter den Drohungen steckt, ist unklar.",
+     "link": "https://www.tagesschau.de/ausland/europa/bombendrohungen-italien-100.html",
+     "image": "https://images.tagesschau.de/image/2922d359-4a44-4853-a7eb-d1205eadf710/AAABoctdHF0/AAABnSSvrFg/16x9-big/polizei-schule-rom-100.jpg?width=1920",
+     "aggregator": false,
+     "published": "2026-11-11T19:13:07+00:00"
+    },
+    {
+     "source": "tagesschau Ausland",
+     "region": "INT",
+     "weight": 1.0,
+     "title": "Bombendrohungen an Tausenden Schulen in Italien und Großbritannien",
+     "summary": "An Tausenden Schulen in Italien sind per E-Mail Bombendrohungen eingegangen. Auch in Großbritannien gibt es ähnliche Fälle. Die Behörden gehen von Falschmeldungen aus. Wer hinter den Drohungen steckt, ist unklar.",
+     "link": "https://www.tagesschau.de/ausland/europa/bombendrohungen-italien-100.html",
+     "image": "https://images.tagesschau.de/image/2922d359-4a44-4853-a7eb-d1205eadf710/AAABoctdHF0/AAABnSSvrFg/16x9-big/polizei-schule-rom-100.jpg?width=1920",
+     "aggregator": false,
+     "published": "2026-11-11T19:13:07+00:00"
+    },
+    {
+     "source": "ZDFheute",
+     "region": "DE",
+     "weight": 1.0,
+     "title": "Bombendrohungen an Tausenden Schulen in Europa wohl falsch",
+     "summary": "In Italien haben etwa 6.000 Schulen Bombendrohungen erhalten. Auch andere Länder sind betroffen. Behörden sehen keine konkrete Gefahr. Die Hintergründe sind aber noch unklar.",
+     "link": "https://www.zdfheute.de/politik/ausland/bomben-drohung-italien-nordirland-schottland-100.html",
+     "image": "https://www.zdfheute.de/assets/bombendrohungen-100~384x216?cb=1794415867865",
+     "aggregator": false,
+     "published": "2026-11-11T18:01:00+00:00"
+    },
+    {
+     "source": "SRF News",
+     "region": "CH",
+     "weight": 0.95,
+     "title": "Bedrohliche Mails eingegangen – Bombendrohungen an Hunderten Schulen in Italien",
+     "summary": "Die Drohungen gingen per E-Mail ein. Wer dahintersteckt, ist unklar. Nordirland und Schottland melden ähnliche Vorfälle.",
+     "link": "https://www.srf.ch/news/international/bedrohliche-mails-eingegangen-bombendrohungen-an-hunderten-schulen-in-italien",
+     "image": "https://www.srf.ch/static/cms/images//320ws/1494f1a.webp",
+     "aggregator": false,
+     "published": "2026-11-11T16:18:23+00:00"
+    },
+    {
+     "source": "WELT",
+     "region": "DE",
+     "weight": 0.8,
+     "title": "„Strategie, um Angst und Besorgnis zu schüren“ – Bombendrohungen gegen 6300 Schulen",
+     "summary": "Nach mehreren Bombendrohungen sind in Italien Tausende Schulen geräumt worden. Es gebe keinerlei Hinweise auf eine konkrete Gefahr, erklärte Regierungschefin Giorgia Meloni. Auch Schulen in Großbritannien und Irland erhielten Drohungen.",
+     "link": "https://www.welt.de/politik/ausland/video6af54abdc45061d752ba70bb/italien-strategie-um-angst-und-besorgnis-zu-schueren-bombendrohungen-gegen-6300-schulen.html",
+     "image": "https://images.welt.de/6af54abdc45061d752ba70bb/88f7601ebb32ef838613fbeaf7d6c5c5/ci16x9-w1200/1794408724131-afp-d76h89e-jpg",
+     "aggregator": false,
+     "published": "2026-11-12T05:57:11+00:00"
+    }
+   ]
+  },
+  {
+   "id": 7,
+   "score": 10.66,
+   "outlets": [
+    "Deutschlandfunk",
+    "WirtschaftsWoche",
+    "n-tv",
+    "Golem"
+   ],
+   "regions": [
+    "DE"
+   ],
+   "trend": [],
+   "newest": "2026-11-12T07:16:32+00:00",
+   "articles": [
+    {
+     "source": "Deutschlandfunk",
+     "region": "DE",
+     "weight": 0.95,
+     "title": "\"Gamechanger\"-Projekt - VW stoppt geplante Modernisierung der Autoproduktion in Wolfsburg",
+     "summary": "Volkswagen stellt ein umfassendes Projekt zur Modernisierung der Auto-Produktion ein.",
+     "link": "https://www.deutschlandfunk.de/vw-stoppt-geplante-modernisierung-der-autoproduktion-in-wolfsburg-106.html",
+     "image": "https://bilder.deutschlandfunk.de/29/71/37/6c/2971376c-aebc-48b6-b4f4-1648351d23f9/vw-sparpaket-100-1920x1920.jpg",
+     "aggregator": false,
+     "published": "2026-11-12T07:16:32+00:00"
+    },
+    {
+     "source": "WirtschaftsWoche",
+     "region": "DE",
+     "weight": 0.85,
+     "title": "Volkswagen: VW stoppt Produktionsprojekt „Gamechanger“",
+     "summary": "Volkswagen stoppt das Produktionsprojekt „Gamechanger“ und verzichtet auf das Großgusszentrum in Wolfsburg. Der Betriebsrat spricht von Tarifbruch.",
+     "link": "https://www.wiwo.de/unternehmen/auto/vw-stoppt-gamechanger-aus-fuer-grossguss-empoert-betriebsrat/100269111.html",
+     "image": "https://images.wiwo.de/ISl2Eq17GCKf/cover/900/506/6/42/0/0/0.5/0.5/dpatopbilder-29.10.2026-niedersachsen-wolfsburg-blick-auf-das-volkswagen-stammwerk-mit-dem-mark.jpg",
+     "aggregator": false,
+     "published": "2026-11-11T14:36:00+00:00"
+    },
+    {
+     "source": "n-tv",
+     "region": "DE",
+     "weight": 0.8,
+     "title": "Investitionen auf dem Prüfstand: VW stoppt Projekt \"Gamechanger\" - Betriebsrat droht mit Golf-Veto",
+     "summary": "Mit einem neuen Produktionsverfahren wollte Volkswagen einzelne Bauteile für E-Autos kostengünstiger herstellen. Doch der Konzern scheut nun die Anfangsinvestition. Kurz vor der Grundsteinlegung wird der Bau eines Fertigungszentrums abgeblasen. Der Betriebsrat schäumt.",
+     "link": "https://www.n-tv.de/wirtschaft/VW-stoppt-Projekt-Gamechanger-Betriebsrat-droht-mit-Golf-Veto-id31522400.html",
+     "image": "https://www.n-tv.de/img/31522408/1794411608/Img_4_3/250/2025-03-11T113636Z_321856443_RC2ZADANYT3C_RTRMADP_3_VOLKSWAGEN-RESULTS.jpg",
+     "aggregator": false,
+     "published": "2026-11-11T15:06:19+00:00"
+    },
+    {
+     "source": "Golem",
+     "region": "DE",
+     "weight": 0.75,
+     "title": "Produktion des ID.Golf: VW stoppt Projekt Gamechanger für Wolfsburg",
+     "summary": "Aus Kostengründen verzichtet VW auf ein neues Gussverfahren für den Elektro-Golf. Verwirrung gibt es um die ID.3-Produktion. ( Volkswagen ID. , Elektroauto )",
+     "link": "https://www.golem.de/news/produktion-des-id-golf-vw-stoppt-projekt-gamechanger-fuer-wolfsburg-2611-215105.html",
+     "image": "https://cpx.golem.de/cpx.php?class=17&amp;aid=215105&amp;page=1&amp;ts=1794417182",
+     "aggregator": false,
+     "published": "2026-11-11T17:13:02+00:00"
+    }
+   ]
+  },
+  {
+   "id": 8,
+   "score": 10.16,
+   "outlets": [
+    "tagesschau",
+    "Deutschlandfunk",
+    "Süddeutsche"
+   ],
+   "regions": [
+    "DE"
+   ],
+   "trend": [],
+   "newest": "2026-11-12T07:16:32+00:00",
+   "articles": [
+    {
+     "source": "tagesschau",
+     "region": "DE",
+     "weight": 1.0,
+     "title": "Fünf Jahre nach Sturzflut: Eiskanal am Königssee wiedereröffnet",
+     "summary": "Fünf Jahre nach der Zerstörung durch eine Sturzflut wurde die Bob- und Rodelbahn am Königssee offiziell wieder in Betrieb genommen. Viele Kufensportler hatten lange auf diesen Tag gewartet – doch es gibt auch Kritik an dem Großprojekt.",
+     "link": "https://www.sportschau.de/regional/br/br-fuenf-jahre-nach-sturzflut-eiskanal-am-koenigssee-wiedereroeffnet-102.html",
+     "image": "https://images.tagesschau.de/image/ffbd7750-739e-4a52-a901-1a4258c5e6bc/AAABocthYQY/AAABnSSvrFg/16x9-big/bob-rodel-skeletonbahn-100.jpg?width=1920",
+     "aggregator": false,
+     "published": "2026-11-11T15:53:15+00:00"
+    },
+    {
+     "source": "Deutschlandfunk",
+     "region": "DE",
+     "weight": 0.95,
+     "title": "Bob- und Rodelbahn - Eiskanal am Königssee wiedereröffnet",
+     "summary": "Fünf Jahre nach einer weitgehenden Zerstörung durch Geröll- und Wassermassen ist die Kunsteisbahn am Königssee wieder offiziell in Betrieb.",
+     "link": "https://www.deutschlandfunk.de/eiskanal-am-koenigssee-wiedereroeffnet-108.html",
+     "image": "https://bilder.deutschlandfunk.de/f4/87/32/6d/f487326d-40b2-40e9-8f2f-762a949d2362/koenigssee-bobbahn-100-1920x1920.jpg",
+     "aggregator": false,
+     "published": "2026-11-12T07:16:32+00:00"
+    },
+    {
+     "source": "Süddeutsche",
+     "region": "DE",
+     "weight": 0.9,
+     "title": "Bob- und Rodelbahn am Königssee: Ein zutiefst bayerischer Feiertag",
+     "summary": "Fünf Jahre, nachdem eine Sturzflut Teile der Bob- und Rodelbahn zerstört hat, können am Königssee wieder deutsche Meisterschaften ausgetragen werden. Es gewinnt, wie passend: Lokalmatador Felix Loch.",
+     "link": "https://www.sueddeutsche.de/sport/koenigssee-bobbahn-wiedereroeffnung-rodel-soeder-olympiasieger-li.3578247",
+     "image": "https://www.sueddeutsche.de/2026/11/11/20261467-ddaf-4856-82dd-40fa5b9b822e.jpg?rect=375%2C0%2C3493%2C2620&width=1000&fm=jpg&q=60",
+     "aggregator": false,
+     "published": "2026-11-11T14:25:19+00:00"
+    }
+   ]
+  },
+  {
+   "id": 9,
+   "score": 9.75,
+   "outlets": [
+    "tagesschau",
+    "ZEIT ONLINE",
+    "WELT"
+   ],
+   "regions": [
+    "DE"
+   ],
+   "trend": [],
+   "newest": "2026-11-12T06:57:16+00:00",
+   "articles": [
+    {
+     "source": "tagesschau",
+     "region": "DE",
+     "weight": 1.0,
+     "title": "Auto fährt in Ronnenberg in Menschengruppe: Drei Verletzte",
+     "summary": "Offenbar war das Fahrzeug am Abend schnell auf die Gruppe in der Region Hannover zugefahren. Es soll vor der Tat Streitigkeiten gegeben haben. Die Polizei sucht nach Auto und Fahrer.",
+     "link": "https://www.tagesschau.de/inland/regional/niedersachsen/empelde-auto-faehrt-in-menschengruppe-drei-verletzte,empelde-100.html",
+     "image": "https://images.ndr.de/image/32d41f4e-d7e2-4396-851e-be9f5bca09ee/AAABoc5R0N4/AAABnSSvrFg/16x9-big/empelde-102.jpg?width=1920",
+     "aggregator": false,
+     "published": "2026-11-12T06:42:34+00:00"
+    },
+    {
+     "source": "ZEIT ONLINE",
+     "region": "DE",
+     "weight": 0.9,
+     "title": "Plauen: Auto fährt in Straßenbahnhaltestelle – Mann schwer verletzt",
+     "summary": "",
+     "link": "https://www.zeit.de/news/2026-11/12/auto-faehrt-in-strassenbahnhaltestelle-mann-schwer-verletzt",
+     "image": "https://img.zeit.de/news/2026-11/12/auto-faehrt-in-strassenbahnhaltestelle-mann-schwer-verletzt-image-group/original__640x360",
+     "aggregator": false,
+     "published": "2026-11-12T06:57:16+00:00"
+    },
+    {
+     "source": "WELT",
+     "region": "DE",
+     "weight": 0.8,
+     "title": "Autofahrer rast in Menschengruppe und flüchtet – drei Verletzte",
+     "summary": "Drei Männer werden verletzt, als ein Autofahrer in Ronnenberg nahe Hannover in eine Menschengruppe fährt. Vorausgegangen sein sollen Streitigkeiten. Der Fahrer flüchtet.",
+     "link": "https://www.welt.de/vermischtes/kriminalitaet/article6af5581fc45061d752ba712d/niedersachsen-autofahrer-rast-in-menschengruppe-und-fluechtet-drei-verletzte.html",
+     "image": "https://images.welt.de/6af5581fc45061d752ba712d/7a3072a1506505e0577e09a450c9db20/ci23x11-w1200/dpa-com-261112-936-143829-jpg",
+     "aggregator": false,
+     "published": "2026-11-12T06:52:22+00:00"
+    },
+    {
+     "source": "WELT",
+     "region": "DE",
+     "weight": 0.8,
+     "title": "Auto rast in Menschengruppe, Fahrer flüchtet",
+     "summary": "Im niedersächsischen Ronnenberg sind drei Männer verletzt worden, als ein Auto mit überhöhter Geschwindigkeit in eine Menschengruppe fuhr. Der Fahrer konnte unerkannt mit dem Auto flüchten, wie eine Sprecherin der Polizei sagte.",
+     "link": "https://www.welt.de/vermischtes/video6af54a1cc45061d752ba70a5/niedersachsen-auto-rast-in-menschengruppe-fahrer-fluechtet.html",
+     "image": "https://images.welt.de/6af54a1cc45061d752ba70a5/5b30a6ce28756600a0efd0d98d1fef53/ci16x9-w1200/dpa-com-261112-936-143829-jpg",
+     "aggregator": false,
+     "published": "2026-11-12T05:34:13+00:00"
+    }
+   ]
+  },
+  {
+   "id": 10,
+   "score": 9.05,
+   "outlets": [
+    "SRF News",
+    "ZEIT ONLINE",
+    "WELT"
+   ],
+   "regions": [
+    "CH",
+    "DE"
+   ],
+   "trend": [],
+   "newest": "2026-11-12T06:38:53+00:00",
+   "articles": [
+    {
+     "source": "SRF News",
+     "region": "CH",
+     "weight": 0.95,
+     "title": "Markige Worte des Vorgängers – Blatter teilt gegen Infantino aus: «Er ist ein Diktator»",
+     "summary": "Eine Woche vor Ablauf der Bewerbungsfrist fürs Fifa-Präsidium macht Sepp Blatter Stimmung gegen Gianni Infantino.",
+     "link": "https://www.srf.ch/sport/fussball/fussball-allgemein/markige-worte-des-vorgaengers-blatter-teilt-gegen-infantino-aus-er-ist-ein-diktator",
+     "image": "https://www.srf.ch/static/cms/images//320ws/e321e1.webp",
+     "aggregator": false,
+     "published": "2026-11-11T18:55:05+00:00"
+    },
+    {
+     "source": "ZEIT ONLINE",
+     "region": "DE",
+     "weight": 0.9,
+     "title": "Fußball: Sepp Blatter bezeichnet Gianni Infantino als Diktator",
+     "summary": "Der frühere Fifa-Präsident Joseph Blatter hat deutliche Kritik an seinem Nachfolger geübt. Er nannte Gianni Infantino einen »Diktator«, der gegen Statuten verstoßen habe.",
+     "link": "https://www.zeit.de/sport/2026-11/joseph-blatter-gianni-infantino-fifa-vorwuerfe-diktator-gxe",
+     "image": "https://img.zeit.de/sport/2026-11/joseph-blatter-gianni-infantino-fifa-vorwuerfe-diktator-gxe-foto-1/original__640x360",
+     "aggregator": false,
+     "published": "2026-11-12T06:38:53+00:00"
+    },
+    {
+     "source": "WELT",
+     "region": "DE",
+     "weight": 0.8,
+     "title": "„Er ist ein Diktator, unberührbar“ – was Blatter über Infantino verrät",
+     "summary": "Sepp Blatter erzählt davon, wie er mit Gianni Infantino Wein getrunken und Käse gegessen hat. Alles andere, was er über seinen Nachfolger als Fifa-Präsident berichtet, ist vernichtend.",
+     "link": "https://www.welt.de/sport/article6af53df650175c81de7a24d1/fifa-boss-er-ist-ein-diktator-unberuehrbar-was-blatter-ueber-infantino-verraet.html",
+     "image": "https://images.welt.de/6af53df650175c81de7a24d1/3c1d341e861dd658e56efd717ca027f7-master/ci23x11-w1200/1790666593383-afp-c9ma2g8-jpg",
+     "aggregator": false,
+     "published": "2026-11-12T04:25:49+00:00"
+    }
+   ]
+  },
+  {
+   "id": 11,
+   "score": 8.95,
+   "outlets": [
+    "tagesschau Inland",
+    "ZDFheute",
+    "Spiegel"
+   ],
+   "regions": [
+    "DE"
+   ],
+   "trend": [],
+   "newest": "2026-11-12T05:09:00+00:00",
+   "articles": [
+    {
+     "source": "tagesschau Inland",
+     "region": "DE",
+     "weight": 1.0,
+     "title": "Merz verteidigt Ablauf der Nominierung von Aigner",
+     "summary": "199 Tage hat es gedauert, bis sich Kanzler Merz hinter Aigner als Kandidatin zur Bundespräsidentin stellte. Im tagesthemen-Interview verteidigt er den Prozess, der \"störungsfrei\" und \"harmonisch\" abgelaufen sei. Aigner sei die Richtige für das Amt.",
+     "link": "https://www.tagesschau.de/inland/innenpolitik/merz-aigner-bundespraesidentin-100.html",
+     "image": "https://images.tagesschau.de/image/959a7fee-357f-4092-a4e7-843f1ce6ebbe/AAABocRXSAg/AAABnSSvrFg/16x9-big/sendungsbild-1825142.jpg?width=1920",
+     "aggregator": false,
+     "published": "2026-11-09T21:27:31+00:00"
+    },
+    {
+     "source": "tagesschau Inland",
+     "region": "DE",
+     "weight": 1.0,
+     "title": "Warum Merz sich doch für Aigner als Bundespräsidentin stark macht",
+     "summary": "Lange hatte der Kanzler gezögert - nun ist es offiziell: Die CDU überlässt das höchste Staatsamt der kleinen Schwesterpartei aus Bayern. Die viel befürchtete Kritik in den eigenen Reihen ist ausgeblieben. Von Jannik Pentz.",
+     "link": "https://www.tagesschau.de/inland/innenpolitik/merz-aigner-kandidatin-bundespraesidentin-100.html",
+     "image": "https://images.tagesschau.de/image/305b59b8-9dc9-460c-9bb4-6ba0b48f1eb8/AAABocDAhaM/AAABnSSvrFg/16x9-big/merz-aigner-118.jpg?width=1920",
+     "aggregator": false,
+     "published": "2026-11-09T14:48:54+00:00"
+    },
+    {
+     "source": "tagesschau Inland",
+     "region": "DE",
+     "weight": 1.0,
+     "title": "Aigner soll Bundespräsidentin werden: \"Meine Sprache wird klar sein und verständlich\"",
+     "summary": "Eine Bundespräsidentin \"mit Würde und Herz\": Kanzler Merz sieht Ilse Aigner als genau richtige Kandidatin. Die 61-Jährige zeigte sich bewegt von der Nominierung - und machte klar, wofür sie steht: eine Politik der Mitte.",
+     "link": "https://www.tagesschau.de/inland/innenpolitik/aigner-merz-bundespraesidentin-100.html",
+     "image": "https://images.tagesschau.de/image/5d5d22be-0a9e-4795-ba7f-4b4750b82e1d/AAABocCHU3k/AAABnSSvrFg/16x9-big/merz-aigner-114.jpg?width=1920",
+     "aggregator": false,
+     "published": "2026-11-09T14:45:20+00:00"
+    },
+    {
+     "source": "tagesschau Inland",
+     "region": "DE",
+     "weight": 1.0,
+     "title": "Bundespräsidenten-Wahl: Merz bricht sein Schweigen und schlägt Aigner vor",
+     "summary": "Lange hatte er darüber nachgedacht und sich zurückgehalten - am Abend sprach sich Kanzler Merz dann für Ilse Aigner als Bundespräsidentin aus. Heute wollen beide offiziell vor die Presse treten. Von Sabine Henkel.",
+     "link": "https://www.tagesschau.de/inland/innenpolitik/aigner-bundespraesidentin-100.html",
+     "image": "https://images.tagesschau.de/image/b9a1484e-0137-48fd-96c3-88255c4468fb/AAABoXhnvbQ/AAABnSSvrFg/16x9-big/merz-aigner-100.jpg?width=1920",
+     "aggregator": false,
+     "published": "2026-11-09T03:34:40+00:00"
+    },
+    {
+     "source": "tagesschau Inland",
+     "region": "DE",
+     "weight": 1.0,
+     "title": "Kanzler Merz will Aigner als Bundespräsidentin vorschlagen",
+     "summary": "Bislang hatte sich Kanzler Merz in der Frage zur Bundespräsidenten-Nachfolge zurückgehalten. Jetzt machte er es offiziell: Der CDU-Chef will am Montag Ilse Aigner dafür vorschlagen - als erste Frau in diesem Amt.",
+     "link": "https://www.tagesschau.de/inland/innenpolitik/aigner-bundespraesidentin-merz-100.html",
+     "image": "https://images.tagesschau.de/image/6da58f42-1c07-49a0-b569-a2efe0a6b4c1/AAABobzD-w8/AAABnSSvrFg/16x9-big/aigner-merz-102.jpg?width=1920",
+     "aggregator": false,
+     "published": "2026-11-08T20:05:22+00:00"
+    },
+    {
+     "source": "ZDFheute",
+     "region": "DE",
+     "weight": 1.0,
+     "title": "Merz: Aigner-Nominierung nicht \"holprig\"",
+     "summary": "Bundeskanzler Friedrich Merz (CDU) hat Kritik am Verfahren zur Nominierung von Ilse Aigner als Bundespräsidentin zurückgewiesen. Der Prozess sei \"alles andere als holprig\" gewesen.",
+     "link": "https://www.zdfheute.de/video/cdu-merz-aigner-nominierung-video-100.html",
+     "image": "https://www.zdfheute.de/assets/friedrich-merz-zdf-100~384x216?cb=1794263813940",
+     "aggregator": false,
+     "published": "2026-11-09T21:55:42+00:00"
+    },
+    {
+     "source": "ZDFheute",
+     "region": "DE",
+     "weight": 1.0,
+     "title": "Ilse Aigner will \"Nähe zu den Menschen...mit Herz und Verstand\"",
+     "summary": "Pressekonferenz mit Bundeskanzler Friedrich Merz (CDU) und Ilse Aigner (CSU) zu ihrer Nominierung für das Amt der Bundespräsidentin",
+     "link": "https://www.phoenix.de/steinmeiers-nachfolge-a-5246374.html",
+     "image": "https://www.zdfheute.de/assets/teaser-phoenix-ilse-aigner-will-naehe-zu-den-menschenmit-herz-und-verstand-5246437-100~384x216?cb=1794230569769",
+     "aggregator": false,
+     "published": "2026-11-09T12:11:00+00:00"
+    },
+    {
+     "source": "Spiegel",
+     "region": "DE",
+     "weight": 0.6,
+     "title": "(S+) Ukraine: SPD stellt sich im Haushaltsstreit hinter Kanzler Merz",
+     "summary": "(S+) Ukraine: SPD stellt sich im Haushaltsstreit hinter Kanzler Merz Spiegel Merz und der EU-Haushalt: Ein Bärendienst für die Ukraine taz.de Ukraine-Hilfen: Eine mächtige Drohung. Und eine verzweifelte DIE ZEIT Selenskyj benötigt 70 Milliarden zusätzlich - boerse.de boerse.de Prag kontra Merz: Budget darf nicht an Ukraine-Hilfen hängen WELT",
+     "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQb0d3Njk0V19EQXRMbkxrbWZvY3RMVGl3cHN4TWRXUndBSGZfb3Via0JLSDhxVkpTNnRwUmtiMDJHcEhjRld0b3pfc0lDdVR6Y01OX2dCbU84VHhCTmU3NFRxTFVUVC1XaE1iRnh4cUlBYzhhRTNhMU9ZbzcyZHEtOVJiblQyTDFnSlJrSzE2Z2JTSDJINExNc1otb2l2M2s5bzdLWGZ6c296RElTYVMyOG14czlQVDRtZ1JyN083TmV3ZGxLckRXNzY4NjV6dXZ3bVp1d2RjSERmbXBL?oc=5",
+     "image": null,
+     "aggregator": true,
+     "published": "2026-11-12T05:09:00+00:00"
+    }
+   ]
+  },
+  {
+   "id": 12,
+   "score": 8.86,
+   "outlets": [
+    "ORF",
+    "SRF News",
+    "DER STANDARD"
+   ],
+   "regions": [
+    "AT",
+    "CH"
+   ],
+   "trend": [],
+   "newest": "2026-11-12T05:29:08+00:00",
+   "articles": [
+    {
+     "source": "ORF",
+     "region": "AT",
+     "weight": 0.95,
+     "title": "Bericht: Mehrere Tote bei Angriff auf Spital in Gaza",
+     "summary": "",
+     "link": "https://orf.at/stories/3447953/",
+     "image": null,
+     "aggregator": false,
+     "published": "2026-11-12T05:29:08+00:00"
+    },
+    {
+     "source": "SRF News",
+     "region": "CH",
+     "weight": 0.95,
+     "title": "Krieg im Nahen Osten – Berichte: mehrere Tote bei Angriff auf Spital in Gaza",
+     "summary": "Eigentlich gilt im Gazastreifen eine Waffenruhe. Nun gibt es Berichte über einen israelischen Angriff auf ein Spital.",
+     "link": "https://www.srf.ch/news/international/nahost/krieg-im-nahen-osten-berichte-mehrere-tote-bei-angriff-auf-spital-in-gaza",
+     "image": "https://www.srf.ch/static/cms/images//320ws/4adab1.webp",
+     "aggregator": false,
+     "published": "2026-11-12T04:35:36+00:00"
+    },
+    {
+     "source": "DER STANDARD",
+     "region": "AT",
+     "weight": 0.85,
+     "title": "Mehrere Tote gemeldet: Israel griff Krankenhaus in Gaza an",
+     "summary": "Mindestens sechs Menschen sollen beim Angriff auf das Nasser-Krankenhaus verstorben sein. Israel will einen hochrangigen Hamas-Vertreter attackiert haben",
+     "link": "https://www.derstandard.at/story/3000000348830/nahost-mehrere-tote-bei-angriff-auf-krankenhaus-in-gaza?ref=rss",
+     "image": "https://i.ds.at/sBXyMQ/rs:fill:150:0/plain/lido-images/2026/11/12/2e956824-b976-4b0c-8cf7-bbd5cd4192dc.jpg",
+     "aggregator": false,
+     "published": "2026-11-12T05:19:35+00:00"
+    }
+   ]
+  },
+  {
+   "id": 13,
+   "score": 8.15,
+   "outlets": [
+    "SRF News",
+    "NZZ"
+   ],
+   "regions": [
+    "CH"
+   ],
+   "trend": [],
+   "newest": "2026-11-12T07:14:13+00:00",
+   "articles": [
+    {
+     "source": "SRF News",
+     "region": "CH",
+     "weight": 0.95,
+     "title": "CS-Beschattungsaffäre – Credit Suisse: Bund büsst Ex-Präsident Urs Rohner",
+     "summary": "Der langjährige Verwaltungsratspräsident der CS soll gegenüber der Finanzmarktaufsicht falsche Aussagen gemacht haben.",
+     "link": "https://www.srf.ch/news/wirtschaft/cs-beschattungsaffaere-credit-suisse-bund-buesst-ex-praesident-urs-rohner",
+     "image": "https://www.srf.ch/static/cms/images//320ws/4011c3.webp",
+     "aggregator": false,
+     "published": "2026-11-12T04:57:03+00:00"
+    },
+    {
+     "source": "NZZ",
+     "region": "CH",
+     "weight": 0.9,
+     "title": "MELDUNGEN WIRTSCHAFT - Das Finanzdepartement wirft Urs Rohner falsche Angaben vor und büsst den Ex-Präsidenten der Credit Suisse",
+     "summary": "Die neuesten Meldungen aus der Wirtschaft.",
+     "link": "https://www.nzz.ch/wirtschaft/wirtschaft-die-neuesten-meldungen-ld.10053841",
+     "image": "https://img-msp-prod.nzz.ch/2026/11/09/36813326-b1fc-4c52-8816-b27866e4dc2e.jpg?width=200&height=200&fit=bounds&quality=75&auto=webp&crop=3672,3672,x726,y0",
+     "aggregator": false,
+     "published": "2026-11-12T07:14:13+00:00"
+    }
+   ]
+  },
+  {
+   "id": 14,
+   "score": 8.13,
+   "outlets": [
+    "ORF",
+    "SPIEGEL",
+    "n-tv"
+   ],
+   "regions": [
+    "AT",
+    "DE"
+   ],
+   "trend": [],
+   "newest": "2026-11-12T03:54:00+00:00",
+   "articles": [
+    {
+     "source": "ORF",
+     "region": "AT",
+     "weight": 0.95,
+     "title": "Geplante Untersuchungen: Weißes Haus warnt Demokraten",
+     "summary": "",
+     "link": "https://orf.at/stories/3447935/",
+     "image": null,
+     "aggregator": false,
+     "published": "2026-11-11T19:05:51+00:00"
+    },
+    {
+     "source": "SPIEGEL",
+     "region": "DE",
+     "weight": 0.9,
+     "title": "Donald Trump: Weißes Haus versucht Demokraten vor Untersuchungen einzuschüchtern",
+     "summary": "Nach dem Triumph bei den Midterms können die Demokraten der US-Regierung bald auf die Finger schauen. Das passt dem Weißen Haus so gar nicht. Entsprechend scharf wird dort der Ton.",
+     "link": "https://www.spiegel.de/ausland/donald-trump-weisses-haus-versucht-demokraten-vor-untersuchungen-einzuschuechtern-a-91e6ffce-21a2-4954-8566-70a84bd08147#ref=rss",
+     "image": "https://cdn.prod.www.spiegel.de/images/d92c01cb-debd-483f-887a-f8f93137f93b_w520_r2.08_fpx39.34_fpy55.01.jpg",
+     "aggregator": false,
+     "published": "2026-11-12T03:54:00+00:00"
+    },
+    {
+     "source": "n-tv",
+     "region": "DE",
+     "weight": 0.8,
+     "title": "\"Sollte ihn ins Grab verfolgen\": Biden: Trump schmierte mir nach Wahlsieg Honig ums Maul",
+     "summary": "Joe Bidens Memoiren erscheinen am 17. November. Darin spricht der Demokrat über seine Zeit im Weißen Haus und seinen Vorgänger und Nachfolger als US-Präsident. Biden findet vernichtende Worte für Donald Trump - und erzählt von einem skurrilen Treffen mit dem Republikaner.",
+     "link": "https://www.n-tv.de/politik/Biden-Trump-schmierte-mir-nach-Wahlsieg-Honig-ums-Maul-id31520929.html",
+     "image": "https://www.n-tv.de/img/31522298/1794410494/Img_4_3/250/492960338.jpg",
+     "aggregator": false,
+     "published": "2026-11-11T14:22:00+00:00"
+    },
+    {
+     "source": "n-tv",
+     "region": "DE",
+     "weight": 0.8,
+     "title": "Kriminalität statt Kontrolle?: Weißes Haus droht Demokraten wegen Untersuchungen gegen Trump",
+     "summary": "Im Januar übernehmen die Demokraten die Mehrheit in beiden Kongresskammern. Bereits jetzt kündigen sie Untersuchungen gegen US-Präsident Trump und sein Umfeld an. Das Weiße Haus versucht schon im Vorfeld, weitreichende Ermittlungen abzuwenden - mit Einschüchterung?",
+     "link": "https://www.n-tv.de/politik/Weisses-Haus-droht-Demokraten-wegen-Untersuchungen-gegen-Trump-id31522012.html",
+     "image": "https://www.n-tv.de/img/31522513/1794412563/Img_4_3/250/AP26312849673127.jpg",
+     "aggregator": false,
+     "published": "2026-11-11T16:13:56+00:00"
+    }
+   ]
+  },
+  {
+   "id": 15,
+   "score": 7.9,
+   "outlets": [
+    "ORF",
+    "DER STANDARD"
+   ],
+   "regions": [
+    "AT"
+   ],
+   "trend": [],
+   "newest": "2026-11-12T06:48:42+00:00",
+   "articles": [
+    {
+     "source": "ORF",
+     "region": "AT",
+     "weight": 0.95,
+     "title": "Spionagegesetz: Justizministerin Sporrer im Studio",
+     "summary": "",
+     "link": "https://orf.at/stories/3447934/",
+     "image": null,
+     "aggregator": false,
+     "published": "2026-11-11T19:05:15+00:00"
+    },
+    {
+     "source": "DER STANDARD",
+     "region": "AT",
+     "weight": 0.85,
+     "title": "Justizministerin Sporrer: Spionagegesetz soll \"abschreckende Wirkung\" erzielen",
+     "summary": "Die Strafmündigkeit möchte Sporrer nicht von 14 auf zwölf senken. Kinder gehörten erzogen und nicht eingesperrt, sagte sie in der \"ZiB 2\". Ihren Posten sieht sie nicht in Gefahr",
+     "link": "https://www.derstandard.at/story/3000000348831/justizministerin-sporrer-spionagegesetz-soll-abschreckende-wirkung-erzielen?ref=rss",
+     "image": "https://i.ds.at/eNZPOQ/rs:fill:150:0/plain/lido-images/2026/11/12/bf0fd405-7f44-49a8-bc9c-7a606673e90b.jpg",
+     "aggregator": false,
+     "published": "2026-11-12T06:48:42+00:00"
+    }
+   ]
+  },
+  {
+   "id": 16,
+   "score": 7.89,
+   "outlets": [
+    "tagesschau",
+    "Deutschlandfunk"
+   ],
+   "regions": [
+    "DE"
+   ],
+   "trend": [],
+   "newest": "2026-11-12T07:22:31+00:00",
+   "articles": [
+    {
+     "source": "tagesschau",
+     "region": "DE",
+     "weight": 1.0,
+     "title": "Wetter Deutschland: Wolken, Temperaturen, Wind und Aussichten",
+     "summary": "Am Donnerstag vom Süden bis in die Mitte oft stark bewölkt oder trüb und gebietsweise Regen. Im Norden und Nordwesten mal dichte Wolken, mal Sonnenschein und Richtung Küsten ein paar Schauer.",
+     "link": "https://www.tagesschau.de/wetter/deutschland/wettervorhersage-deutschland-100.html",
+     "image": "https://images.tagesschau.de/image/e7904a01-0786-494a-996d-b1dfd43b3049/AAABoc6hnTU/AAABnSSvrFg/16x9-big/teaserbild-124.jpg?width=1920",
+     "aggregator": false,
+     "published": "2026-11-12T07:22:31+00:00"
+    },
+    {
+     "source": "Deutschlandfunk",
+     "region": "DE",
+     "weight": 0.95,
+     "title": "Wetter - Bewölkt mit Schauern, 5 bis 13 Grad",
+     "summary": "Das Wetter: Im Norden wechselnd bewölkt mit Schauern. In der Mitte stark bewölkt und gebietsweise Regen, später auch im Süden. Dort Höchstwerte 9 bis 13 Grad, sonst 5 bis 9 Grad. Morgen verbreitet wechselnd bewölkt. Dabei im Norden Schauer oder kurze Graupelgewitter. 3 bis 9 Grad.",
+     "link": "https://www.deutschlandfunk.de/bewoelkt-mit-schauern-5-bis-13-grad-102.html",
+     "image": "https://bilder.deutschlandfunk.de/e5/f6/55/84/e5f65584-6dc2-4dce-979d-729a024cd599/wetter-grafik-nachrichten-100-768x768.jpg",
+     "aggregator": false,
+     "published": "2026-11-12T07:16:32+00:00"
+    }
+   ]
+  },
+  {
+   "id": 17,
+   "score": 7.86,
+   "outlets": [
+    "tagesschau Inland",
+    "Deutschlandfunk"
+   ],
+   "regions": [
+    "DE"
+   ],
+   "trend": [],
+   "newest": "2026-11-12T07:16:32+00:00",
+   "articles": [
+    {
+     "source": "tagesschau Inland",
+     "region": "DE",
+     "weight": 1.0,
+     "title": "EKD-Synode in Würzburg: Wie die Kirche Demokratie stärken will",
+     "summary": "Gegen Menschenfeindlichkeit: Die evangelische Kirche will die Demokratie stärken, mit Bildungsarbeit und Begegnungsräumen, vor allem auf dem Land. Das hat die Synode in Würzburg beschlossen. Doch Geld und Personal werden knapper. Von C. Wölfel.",
+     "link": "https://www.tagesschau.de/inland/gesellschaft/ekd-synode-122.html",
+     "image": "https://images.tagesschau.de/image/8daf5cdf-3b51-4153-88b9-43b617f57f6e/AAABocowM4k/AAABnSSvrFg/16x9-big/fehrs-ekd-synode-100.jpg?width=1920",
+     "aggregator": false,
+     "published": "2026-11-11T12:07:44+00:00"
+    },
+    {
+     "source": "Deutschlandfunk",
+     "region": "DE",
+     "weight": 0.95,
+     "title": "Abschluss EKD-Synode - Evangelische Kirche solidarisiert sich mit Christen im Westjordanland",
+     "summary": "Die Evangelische Kirche in Deutschland hat auf die Situation der Christen im Westjordanland aufmerksam gemacht.",
+     "link": "https://www.deutschlandfunk.de/evangelische-kirche-solidarisiert-sich-mit-christen-im-westjordanland-106.html",
+     "image": "https://bilder.deutschlandfunk.de/15/d1/72/61/15d17261-619c-4f55-8adf-9c5cb068dca9/synode-steinmeier-wuerzburg-100-1920x1920.jpg",
+     "aggregator": false,
+     "published": "2026-11-12T07:16:32+00:00"
+    }
+   ]
+  },
+  {
+   "id": 18,
+   "score": 7.86,
+   "outlets": [
+    "tagesschau Ausland",
+    "Deutschlandfunk"
+   ],
+   "regions": [
+    "DE",
+    "INT"
+   ],
+   "trend": [],
+   "newest": "2026-11-12T07:16:32+00:00",
+   "articles": [
+    {
+     "source": "tagesschau Ausland",
+     "region": "INT",
+     "weight": 1.0,
+     "title": "Zwei Tote bei russischen Luftangriffen",
+     "summary": "Russland hat die Ukraine in der Nacht erneut mit Luftangriffen überzogen. Dabei starben ukrainischen Angaben zufolge zwei Menschen. Zudem seien mehrere Umspannwerke getroffen worden, in mehreren Regionen fiel der Strom aus.",
+     "link": "https://www.tagesschau.de/ausland/europa/ukraine-russland-angriffe-206.html",
+     "image": "https://images.tagesschau.de/image/44ee44bc-83bf-408c-8a2e-d621a963c3dd/AAABocXiqEc/AAABnSSvrFg/16x9-big/ukraine-poltawa-102.jpg?width=1920",
+     "aggregator": false,
+     "published": "2026-11-10T14:42:40+00:00"
+    },
+    {
+     "source": "tagesschau Ausland",
+     "region": "INT",
+     "weight": 1.0,
+     "title": "Russische Luftangriffe: Erneut Hunderttausende Ukrainer ohne Strom",
+     "summary": "Erneut hat Russland die ukrainische Energieversorgung schwer getroffen. In der Region Dnipropetrowsk haben 600.000 Menschen keinen Strom. Das besetzte Atomkraftwerk Saporischschja muss mit Notstromaggregaten gekühlt werden.",
+     "link": "https://www.tagesschau.de/ausland/europa/ukraine-stromausfall-120.html",
+     "image": "https://images.tagesschau.de/image/191b788d-eaa3-44e0-8d43-2c000d71fd4a/AAABobrngk4/AAABnSSvrFg/16x9-big/stadt-stromausfall-100.jpg?width=1920",
+     "aggregator": false,
+     "published": "2026-11-08T12:05:57+00:00"
+    },
+    {
+     "source": "Deutschlandfunk",
+     "region": "DE",
+     "weight": 0.95,
+     "title": "Nahost - Mehrere Tote bei Luftangriff im Süden des Gazastreifens",
+     "summary": "Im Gaza-Streifen hat es erneut israelische Angriffe gegeben.",
+     "link": "https://www.deutschlandfunk.de/mehrere-tote-bei-luftangriff-im-sueden-des-gazastreifens-100.html",
+     "image": "https://bilder.deutschlandfunk.de/85/c0/00/3a/85c0003a-6d9f-4af7-82a1-8acece5a2d78/israel-gaza-stadt-gazastreifen-angriff-raketen-drohnen-100-1920x1920.jpg",
+     "aggregator": false,
+     "published": "2026-11-12T07:16:32+00:00"
+    }
+   ]
+  },
+  {
+   "id": 19,
+   "score": 7.86,
+   "outlets": [
+    "ZDFheute",
+    "Deutschlandfunk"
+   ],
+   "regions": [
+    "DE"
+   ],
+   "trend": [],
+   "newest": "2026-11-12T07:16:32+00:00",
+   "articles": [
+    {
+     "source": "ZDFheute",
+     "region": "DE",
+     "weight": 1.0,
+     "title": "Vorstellung Jahresgutachten der Wirtschaftsweisen",
+     "summary": "Vorstellung des Jahresgutachten 2026/2027 des Sachverständigenrates zur Begutachtung der gesamtwirtschaftlichen Entwicklung",
+     "link": "https://www.phoenix.de/php/mediaplayer/vod_embed.php?cmsid=5247132",
+     "image": "https://www.zdfheute.de/assets/teaser-phoenix-vorstellung-jahresgutachten-der-wirtschaftsweisen-5247132-100~384x216?cb=1794411843368",
+     "aggregator": false,
+     "published": "2026-11-11T15:30:00+00:00"
+    },
+    {
+     "source": "Deutschlandfunk",
+     "region": "DE",
+     "weight": 0.95,
+     "title": "Sachverständigenrat - Wirtschaftsweise erwarten für 2026 und 2027 wieder deutlich höheres Wachstum",
+     "summary": "Führende Ökonomen erwarten für dieses und kommendes Jahr ein spürbar stärkeres Wirtschaftswachstum in Deutschland.",
+     "link": "https://www.deutschlandfunk.de/wirtschaftsweise-erwarten-fuer-2026-und-2027-wieder-deutlich-hoeheres-wachstum-116.html",
+     "image": "https://bilder.deutschlandfunk.de/36/9f/87/fe/369f87fe-35f5-4de3-b769-db4bfd12f832/wirtschaftsweisen-sachverstaendigenrat-100-1920x1920.jpg",
+     "aggregator": false,
+     "published": "2026-11-12T07:16:32+00:00"
+    }
+   ]
+  },
+  {
+   "id": 20,
+   "score": 7.5,
+   "outlets": [
+    "tagesschau",
+    "WELT"
+   ],
+   "regions": [
+    "DE"
+   ],
+   "trend": [],
+   "newest": "2026-11-12T05:35:26+00:00",
+   "articles": [
+    {
+     "source": "tagesschau",
+     "region": "DE",
+     "weight": 1.0,
+     "title": "Weniger Kündigungsschutz, mehr Befristungen - das plant die Koalition",
+     "summary": "Mehr Befristungen, weniger Kündigungsschutz für Hochverdiener und mehr Spielraum für Bäckereien am Sonntag: Die Regierung will das Arbeitsrecht reformieren. Was sich ändern soll und was noch offen ist.",
+     "link": "https://www.tagesschau.de/inland/innenpolitik/arbeitsrecht-kuendigungsschutz-befristungen-reform-100.html",
+     "image": "https://images.tagesschau.de/image/dfc0f30c-25ff-49b1-bdea-42a4d6674e1a/AAABoTV2UZQ/AAABnSSvrFg/16x9-big/verkaeuferin-baeckerei-100.jpg?width=1920",
+     "aggregator": false,
+     "published": "2026-11-11T15:44:40+00:00"
+    },
+    {
+     "source": "tagesschau Inland",
+     "region": "DE",
+     "weight": 1.0,
+     "title": "Weniger Kündigungsschutz, mehr Befristungen - das plant die Koalition",
+     "summary": "Mehr Befristungen, weniger Kündigungsschutz für Hochverdiener und mehr Spielraum für Bäckereien am Sonntag: Die Regierung will das Arbeitsrecht reformieren. Was sich ändern soll und was noch offen ist.",
+     "link": "https://www.tagesschau.de/inland/innenpolitik/arbeitsrecht-kuendigungsschutz-befristungen-reform-100.html",
+     "image": "https://images.tagesschau.de/image/dfc0f30c-25ff-49b1-bdea-42a4d6674e1a/AAABoTV2UZQ/AAABnSSvrFg/16x9-big/verkaeuferin-baeckerei-100.jpg?width=1920",
+     "aggregator": false,
+     "published": "2026-11-11T15:44:40+00:00"
+    },
+    {
+     "source": "WELT",
+     "region": "DE",
+     "weight": 0.8,
+     "title": "Längere Befristung, weniger Kündigungsschutz – Schweitzer legt Entwurf für Arbeitsmarktreform vor",
+     "summary": "Die Bundesregierung will mit einem neuen Gesetz Befristungen von Arbeitsverhältnissen erleichtern. Zudem soll mit dem Gesetzentwurf von Arbeitsminister Alexander Schweitzer (SPD) unter anderem der Kündigungsschutz für Hochverdiener gelockert werden.",
+     "link": "https://www.welt.de/politik/deutschland/video6af549d0c45061d752ba709b/arbeitsminister-laengere-befristung-weniger-kuendigungsschutz-schweitzer-legt-entwurf-fuer-arbeitsmarktreform-vor.html",
+     "image": "https://images.welt.de/6af549d0c45061d752ba709b/40263268cff7c33f7ca37a753bcf88a9/ci16x9-w1200/dpa-com-261104-936-137299-jpg",
+     "aggregator": false,
+     "published": "2026-11-12T05:35:26+00:00"
+    }
+   ]
+  },
+  {
+   "id": 21,
+   "score": 7.46,
+   "outlets": [
+    "tagesschau",
+    "NZZ"
+   ],
+   "regions": [
+    "CH",
+    "DE",
+    "INT"
+   ],
+   "trend": [],
+   "newest": "2026-11-12T06:22:25+00:00",
+   "articles": [
+    {
+     "source": "tagesschau",
+     "region": "DE",
+     "weight": 1.0,
+     "title": "Polens Rechte ziehen mit \"Unabhängigkeitsmarsch\" durch Warschau",
+     "summary": "Am polnischen Unabhängigkeitstag findet traditionell eine Großdemonstration von Rechtsnationalisten statt. Der sogenannte Unabhängigkeitsmarsch durch Warschau ist umstritten - und zieht doch Hunderttausende an. Von P. Milling.",
+     "link": "https://www.tagesschau.de/ausland/europa/umstrittener-marsch-zu-unabhaengigkeitstag-in-polen-100.html",
+     "image": "https://images.tagesschau.de/image/98bae2e6-2616-4261-9545-a53d6ca085df/AAABocvloh8/AAABnSSvrFg/16x9-big/menschen-marsch-warschau-100.jpg?width=1920",
+     "aggregator": false,
+     "published": "2026-11-11T19:26:10+00:00"
+    },
+    {
+     "source": "tagesschau Ausland",
+     "region": "INT",
+     "weight": 1.0,
+     "title": "Polens Rechte ziehen mit \"Unabhängigkeitsmarsch\" durch Warschau",
+     "summary": "Am polnischen Unabhängigkeitstag findet traditionell eine Großdemonstration von Rechtsnationalisten statt. Der sogenannte Unabhängigkeitsmarsch durch Warschau ist umstritten - und zieht doch Hunderttausende an. Von P. Milling.",
+     "link": "https://www.tagesschau.de/ausland/europa/umstrittener-marsch-zu-unabhaengigkeitstag-in-polen-100.html",
+     "image": "https://images.tagesschau.de/image/98bae2e6-2616-4261-9545-a53d6ca085df/AAABocvloh8/AAABnSSvrFg/16x9-big/menschen-marsch-warschau-100.jpg?width=1920",
+     "aggregator": false,
+     "published": "2026-11-11T19:26:10+00:00"
+    },
+    {
+     "source": "NZZ",
+     "region": "CH",
+     "weight": 0.9,
+     "title": "«Unabhängigkeitsmarsch» in Polen: Hunderttausende Anhänger der Rechten ziehen durch Warschau",
+     "summary": "Ein Streit um den Rechtsstaat überschattet den polnischen Nationalfeiertag am 11. November. Wie jedes Jahr organisieren polnische Rechte einen Marsch durch die Hauptstadt Warschau.",
+     "link": "https://www.nzz.ch/international/unabhaengigkeitsmarsch-in-polen-hunderttausende-anhaenger-der-rechten-ziehen-durch-warschau-ld.10061504",
+     "image": "https://img-msp-prod.nzz.ch/2026/11/11/8b256374-4bd0-438e-b701-e374291592dd.jpg?width=200&height=200&fit=bounds&quality=75&auto=webp&crop=3104,3104,x776,y0",
+     "aggregator": false,
+     "published": "2026-11-12T06:22:25+00:00"
+    }
+   ]
+  },
+  {
+   "id": 22,
+   "score": 7.46,
+   "outlets": [
+    "tagesschau Ausland",
+    "Deutsche Welle",
+    "SPIEGEL"
+   ],
+   "regions": [
+    "DE",
+    "INT"
+   ],
+   "trend": [],
+   "newest": "2026-11-12T00:40:00+00:00",
+   "articles": [
+    {
+     "source": "tagesschau Ausland",
+     "region": "INT",
+     "weight": 1.0,
+     "title": "Israels neu gewähltes Parlament kommt erstmals zusammen",
+     "summary": "Nach der Wahl tritt Israels neues Parlament heute erstmals zusammen - inmitten der schwierigen Regierungsbildung. Netanjahu-Rivale Eisenkot hat dafür den Auftrag erhalten. Er hält auch eine Minderheitsregierung für möglich.",
+     "link": "https://www.tagesschau.de/ausland/asien/knesset-eisenkot-regierung-100.html",
+     "image": "https://images.tagesschau.de/image/4571547b-afbd-4563-a8da-4d48f0dc9eb6/AAABocRDlV0/AAABnSSvrFg/16x9-big/eisenkot-118.jpg?width=1920",
+     "aggregator": false,
+     "published": "2026-11-10T08:13:27+00:00"
+    },
+    {
+     "source": "Deutsche Welle",
+     "region": "INT",
+     "weight": 0.95,
+     "title": "Israel: Netanjahu-Rivale Gadi Eisenkot soll Regierung bilden",
+     "summary": "Die Machtverhältnisse im neu gewählten Parlament in Israel sind kompliziert. Dem Bündnis von Gadi Eisenkot fehlen 13 Mandate für eine eigene Regierungsmehrheit. Parteien der arabischen Minderheit könnten helfen.",
+     "link": "https://www.dw.com/de/israel-netanjahu-rivale-gadi-eisenkot-soll-regierung-bilden/a-79889744?maca=de-rss-de-all-1119-xml-mrss",
+     "image": "https://static.dw.com/image/79891763_302.jpg",
+     "aggregator": false,
+     "published": "2026-11-08T16:40:00+00:00"
+    },
+    {
+     "source": "SPIEGEL",
+     "region": "DE",
+     "weight": 0.9,
+     "title": "Israel: Gadi Eisenkot warnt Benjamin Netanyahu vor Alleingängen gegen Iran",
+     "summary": "Gadi Eisenkot ist mit der Regierungsbildung in Israel beauftragt. Nun kommt seine Ansage an Ministerpräsident Benjamin Netanyahu: Der soll bis zum Amtsantritt einer neuen Regierung keine riskanten Militärentscheidungen treffen.",
+     "link": "https://www.spiegel.de/ausland/israel-gadi-eisenkot-warnt-benjamin-netanyahu-vor-alleingaengen-gegen-iran-a-e6f48d28-6f33-4543-a133-a7f6874ccff5#ref=rss",
+     "image": "https://cdn.prod.www.spiegel.de/images/f567a9bf-29d1-4471-a408-86116e27996e_w520_r2.08_fpx30_fpy45.jpg",
+     "aggregator": false,
+     "published": "2026-11-12T00:40:00+00:00"
+    }
+   ]
+  },
+  {
+   "id": 23,
+   "score": 7.46,
+   "outlets": [
+    "SRF News",
+    "WELT"
+   ],
+   "regions": [
+    "CH",
+    "DE"
+   ],
+   "trend": [],
+   "newest": "2026-11-12T05:45:45+00:00",
+   "articles": [
+    {
+     "source": "SRF News",
+     "region": "CH",
+     "weight": 0.95,
+     "title": "Wohnungsnot in Spanien – Generalstreik legt Teile des Landes lahm – Krawalle in Barcelona",
+     "summary": "Hunderttausende streiken gegen die Wohnungsnot und für höhere Löhne. Gegen Abend kam es auch zu Ausschreitungen.",
+     "link": "https://www.srf.ch/news/international/wohnungsnot-in-spanien-generalstreik-legt-teile-des-landes-lahm-krawalle-in-barcelona",
+     "image": "https://www.srf.ch/static/cms/images//320ws/4b6705a.webp",
+     "aggregator": false,
+     "published": "2026-11-11T21:33:21+00:00"
+    },
+    {
+     "source": "WELT",
+     "region": "DE",
+     "weight": 0.8,
+     "title": "Zehntausende Spanier demonstrieren gegen Wohnungskrise – Ausschreitungen in Barcelona",
+     "summary": "In Spanien haben landesweit Zehntausende Menschen gegen die Wohnungskrise demonstriert. In Barcelona kam es nach einer friedlichen Kundgebung zu massiven Ausschreitungen.",
+     "link": "https://www.welt.de/politik/ausland/video6af54b9150175c81de7a252d/landesweite-proteste-zehntausende-spanier-demonstrieren-gegen-wohnungskrise-ausschreitungen-in-barcelona.html",
+     "image": "https://images.welt.de/6af54b9150175c81de7a252d/fd8c38f36784c5d69544b8e17895e18d/ci16x9-w1200/dpa-com-261111-99-248258-jpg",
+     "aggregator": false,
+     "published": "2026-11-12T05:45:45+00:00"
+    }
+   ]
+  },
+  {
+   "id": 24,
+   "score": 7.4,
+   "outlets": [
+    "Handelsblatt",
+    "heise online"
+   ],
+   "regions": [
+    "DE"
+   ],
+   "trend": [],
+   "newest": "2026-11-12T07:06:00+00:00",
+   "articles": [
+    {
+     "source": "Handelsblatt",
+     "region": "DE",
+     "weight": 0.9,
+     "title": "Robotik: Humanoide Roboter aus Deutschland: Agile Robots mit 8,5 Milliarden Dollar bewertet",
+     "summary": "Das Start-up sammelt 500 Millionen Dollar ein, allen voran vom japanischen Super-Investor Softbank. Dabei geht es um eine Technologie, bei der Deutschland weltweit führend bleiben könnte.",
+     "link": "https://www.handelsblatt.com/technik/ki/robotik-agile-robots-jetzt-mit-85-milliarden-dollar-bewertet/100265688.html",
+     "image": "https://images.handelsblatt.com/pZoYbvbICkCE/cover/900/506/0/0/130/131/0.5/0.5/agile-robots.jpg",
+     "aggregator": false,
+     "published": "2026-11-12T06:10:42+00:00"
+    },
+    {
+     "source": "heise online",
+     "region": "DE",
+     "weight": 0.85,
+     "title": "Münchner Start-up Agile Robots erhält 500 Millionen Dollar",
+     "summary": "Das deutsche Robotikunternehmen Agile Robots ist nach einer neuen Finanzierungsrunde in Höhe von 500 Millionen US-Dollar nun 8,5 Milliarden Dollar wert.",
+     "link": "https://www.heise.de/news/Muenchner-Start-up-Agile-Robots-erhaelt-500-Millionen-Dollar-11521653.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
+     "image": null,
+     "aggregator": false,
+     "published": "2026-11-12T07:06:00+00:00"
+    }
+   ]
+  },
+  {
+   "id": 25,
+   "score": 7.31,
+   "outlets": [
+    "Handelsblatt",
+    "WirtschaftsWoche"
+   ],
+   "regions": [
+    "DE"
+   ],
+   "trend": [],
+   "newest": "2026-11-12T06:49:14+00:00",
+   "articles": [
+    {
+     "source": "Handelsblatt",
+     "region": "DE",
+     "weight": 0.9,
+     "title": "Versicherer: Allianz erhöht Gewinnprognose – Rekordgewinn nach neun Monaten",
+     "summary": "Der Versicherer hat in den ersten drei Quartalen mehr als 14 Milliarden Euro Gewinn gemacht. Finanzvorständin Coste-Lepoutre gibt ihre zuletzt vorsichtige Haltung bei der Prognose auf.",
+     "link": "https://www.handelsblatt.com/finanzen/banken-versicherungen/versicherung-allianz-erhoeht-gewinnprognose-rekordgewinn-nach-neun-monaten/100266550.html",
+     "image": "https://images.handelsblatt.com/10U1E1mfCQTT/cover/900/506/0/0/262/363/0.5/0.5/claire-marie-coste-lepoutremitglied-des-vorstands-der-allianz-se-finance-risk-actuarial-legal.jpg",
+     "aggregator": false,
+     "published": "2026-11-12T06:49:14+00:00"
+    },
+    {
+     "source": "WirtschaftsWoche",
+     "region": "DE",
+     "weight": 0.85,
+     "title": "Versicherer: Allianz schraubt Gewinnprognose nach oben",
+     "summary": "Der Versicherungskonzern erhöht vor der Bekanntgabe der Quartalszahlen seine Gewinnprognose. Damit werden die Erwartungen von Analysten übertroffen.",
+     "link": "https://www.wiwo.de/unternehmen/versicherer/versicherer-allianz-schraubt-gewinnprognose-nach-oben/100269222.html",
+     "image": "https://images.wiwo.de/eKmkrUpxJVeQ/cover/900/506/0/0/138/137/0.5/0.5/archiv-09.11.2022-bayern-unterfoehring-ein-schild-mit-der-aufschrift-allianz.-zu-dpa-allian.jpg",
+     "aggregator": false,
+     "published": "2026-11-11T19:22:17+00:00"
+    }
+   ]
+  },
+  {
+   "id": 26,
+   "score": 6.82,
+   "outlets": [
+    "ORF",
+    "Handelsblatt"
+   ],
+   "regions": [
+    "AT",
+    "DE"
+   ],
+   "trend": [],
+   "newest": "2026-11-12T04:45:46+00:00",
+   "articles": [
+    {
+     "source": "ORF",
+     "region": "AT",
+     "weight": 0.95,
+     "title": "Medien: Nvidia bereitet Huangs Entlassung vor",
+     "summary": "",
+     "link": "https://orf.at/stories/3447951/",
+     "image": null,
+     "aggregator": false,
+     "published": "2026-11-11T22:43:06+00:00"
+    },
+    {
+     "source": "Handelsblatt",
+     "region": "DE",
+     "weight": 0.9,
+     "title": "Aktie des Chip-Riesen sackt ab: Medien: Nvidia-Aufseher beraten über Firmenchef Huang",
+     "summary": "Jensen Huang ist das Gesicht des Chip-Riesen, der zum Motor des KI-Booms wurde. Nvidia ohne den Firmenchef war bis vor kurzem noch undenkbar - könnte er dennoch wegen Affären seinen Job verlieren?",
+     "link": "https://www.handelsblatt.com/politik/deutschland/aktie-des-chip-riesen-sackt-ab-medien-nvidia-aufseher-beraten-ueber-firmenchef-huang/100269255.html",
+     "image": "https://images.handelsblatt.com/vKTn5qVuforp/cover/900/506/0/0/185/184/0.5/0.5/nvidia-gtc-berlin.jpg",
+     "aggregator": false,
+     "published": "2026-11-12T04:45:46+00:00"
+    }
+   ]
+  },
+  {
+   "id": 27,
+   "score": 6.8,
+   "outlets": [
+    "tagesschau",
+    "ZDFheute",
+    "SPIEGEL"
+   ],
+   "regions": [
+    "DE"
+   ],
+   "trend": [],
+   "newest": "2026-11-11T18:38:00+00:00",
+   "articles": [
+    {
+     "source": "tagesschau",
+     "region": "DE",
+     "weight": 1.0,
+     "title": "Taten in Hamburg und Eningen: Mutmaßlicher Schütze war wegen Betrugs vor Gericht",
+     "summary": "Einen Tag nach den Schüssen in Hamburg werden mehr Details bekannt: So gab es ein Strafverfahren gegen den mutmaßlichen Schützen. Bei der angeschossenen Frau handelt es sich um seine Schwiegertochter.",
+     "link": "https://www.tagesschau.de/inland/regional/badenwuerttemberg/schuesse-hamburg-details-100.html",
+     "image": "https://images.tagesschau.de/image/e879f97f-1c29-4fa7-b676-07b5de1ccd76/AAABocw3rr0/AAABnSSvrFg/16x9-big/swr-ein-polizist-sichert-die-hafencity-in-der-naehe-der-elbphilharmonie-durch-schuesse-wurden-hier-am-dienstag-zwei-personen-verletzt-100.jpg?width=1920",
+     "aggregator": false,
+     "published": "2026-11-11T16:56:00+00:00"
+    },
+    {
+     "source": "ZDFheute",
+     "region": "DE",
+     "weight": 1.0,
+     "title": "Schüsse in Hamburg: Tatverdächtiger ist tot",
+     "summary": "Nach Schüssen in der Hamburger Hafencity ist der mutmaßliche Täter tot in einem Hotelzimmer in der Elbphilharmonie aufgefunden worden.",
+     "link": "https://www.zdfheute.de/video/hamburg-hilpert-verletzte-polizei-100.html",
+     "image": "https://www.zdfheute.de/assets/polizei-einsatz-elbphilharmonie-100~384x216?cb=1794320297681",
+     "aggregator": false,
+     "published": "2026-11-10T13:49:19+00:00"
+    },
+    {
+     "source": "SPIEGEL",
+     "region": "DE",
+     "weight": 0.9,
+     "title": "Hamburg und Eningen: Mutmaßlicher Schütze stand wegen Betrugs vor Gericht",
+     "summary": "Der 68-Jährige, der in Süddeutschland zwei Familienangehörige getötet und dann auf zwei Menschen in Hamburg geschossen haben soll, war justizbekannt. Sein Abschiedsbrief deutet auf einen Streit mit seinem Sohn hin.",
+     "link": "https://www.spiegel.de/panorama/justiz/hamburg-und-eningen-mutmasslicher-schuetze-stand-wegen-betrugs-vor-gericht-a-311d361d-080f-4772-b40f-064210045788#ref=rss",
+     "image": "https://cdn.prod.www.spiegel.de/images/fc28e7cc-5a90-4732-aec3-80860f9c8014_w520_r2.08_fpx33.34_fpy50.jpg",
+     "aggregator": false,
+     "published": "2026-11-11T18:38:00+00:00"
+    }
+   ]
+  }
+ ]
+}
