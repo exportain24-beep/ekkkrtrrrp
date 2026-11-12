@@ -1,0 +1,26 @@
+{
+  "format": "single",
+  "candidate_id": 6,
+  "pillar": "WIRTSCHAFT",
+  "region": "DE",
+  "kicker": "FRANKFURT",
+  "hook_screen": "27.000 PUNKTE!",
+  "hook_voice": "Dax knackt erstmals in seiner Geschichte siebenundzwanzigtausend Punkte.",
+  "beats": [
+    {"voice": "Am Vormittag stieg der deutsche Leitindex zeitweise auf gut siebenundzwanzigtausend Punkte. So hoch stand er noch nie.", "big": "27.001", "label": "Punkte – Allzeithoch am Vormittag"},
+    {"voice": "Rückenwind kommt von sinkenden Ölpreisen, starken Firmenbilanzen und neuen Friedenshoffnungen.", "big": "ÖLPREIS ↓", "label": "sinkende Ölpreise treiben die Kurse"},
+    {"voice": "Siemens zählt zu den größten Gewinnern. Nvidia dagegen trübt die Stimmung: Der Kurseinbruch zieht Technologiewerte nach unten.", "big": "SIEMENS", "label": "unter den größten Gewinnern"},
+    {"voice": "Auch die Wirtschaftsweisen sind optimistischer: Sie erwarten für dieses und nächstes Jahr deutlich mehr Wachstum in Deutschland.", "big": "2026/27", "label": "Wirtschaftsweise erwarten mehr Wachstum"}
+  ],
+  "loop_line": "Der Rekord steht – doch hält der Dax die siebenundzwanzigtausend bis zum Jahresende?",
+  "headline": "Dax knackt erstmals 27.000 Punkte",
+  "highlight": ["Dax"],
+  "entities": ["DAX", "Frankfurter Wertpapierbörse", "Siemens", "Sachverständigenrat"],
+  "youtube_title": "Dax knackt 27.000 Punkte: Rekord trotz Nvidia-Absturz",
+  "description_lead": "Der Dax hat erstmals in seiner Geschichte die Marke von 27.000 Punkten übersprungen – getragen von sinkenden Ölpreisen, starken Firmenbilanzen und Friedenshoffnungen, mit Siemens unter den größten Gewinnern. Der Kurseinbruch bei Nvidia belastet Technologiewerte, die Wirtschaftsweisen erwarten für 2026 und 2027 deutlich mehr Wachstum in Deutschland.",
+  "tags": ["Dax", "Dax Rekord", "27.000 Punkte", "Börse", "Frankfurter Börse", "Siemens", "Nvidia", "Wirtschaftsweise", "Aktien", "Ölpreis", "Wirtschaftswachstum", "Wirtschaft", "nachrichten", "nachrichten aktuell"],
+  "hashtags": ["#dax", "#börse", "#aktien"],
+  "facebook_caption_line1": "Historischer Börsentag: Der Dax springt erstmals über 27.000 Punkte",
+  "facebook_question": "Ist der Rekord ein echtes Signal für den Aufschwung – oder nur eine Momentaufnahme?",
+  "comment_question": "Schafft der Dax noch dieses Jahr die 28.000 – ja oder nein?"
+}
