@@ -372,8 +372,10 @@ def cmd_social(folder: Path, video: Path) -> int:
     ep = E.load(folder / "episode.json")
     res = folder / "result.md"
     txt = res.read_text(encoding="utf-8") if res.exists() else ""
-    if "Facebook ✓" in txt:
-        log("already posted to Facebook – skip")
+    skip = {k for k, mark in (("facebook", "Facebook ✓"), ("tiktok", "tiktok ✓"), ("twitter", "twitter ✓"))
+            if mark in txt}
+    if len(skip) == 3:
+        log("already posted everywhere – skip")
         return 0
     m = re.search(r"youtu\.be/([\w-]{11})", txt)
     when = publish_time(ep)
@@ -385,7 +387,7 @@ def cmd_social(folder: Path, video: Path) -> int:
     dur = float(subprocess.run(["ffprobe", "-v", "error", "-show_entries", "format=duration", "-of", "csv=p=0",
                                 str(video)], capture_output=True, text=True).stdout or 480)
     ep["_minutes"] = round(dur / 60)
-    lines = publish_all(ep, video, thumb, when, public_now, m.group(1) if m else None, f"fokus-{folder.name}")
+    lines = publish_all(ep, video, thumb, when, public_now, m.group(1) if m else None, f"fokus-{folder.name}", skip)
     res.write_text(txt.rstrip("\n") + "\n" + "\n".join(lines) + "\n", encoding="utf-8")
     log("\n".join(lines))
     return 0

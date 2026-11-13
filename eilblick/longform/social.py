@@ -67,24 +67,42 @@ def facebook_video(ep: dict, mp4: Path, thumb: Path, when: datetime, public_now:
     return vid
 
 
-def buffer_posts(ep: dict, mp4: Path, when: datetime, public_now: bool, yt_id: str | None, tag: str) -> dict:
+def x_trailer(mp4: Path) -> Path:
+    """X allows max 2:20 → first 2:15 of the documentary with a soft fade-out."""
+    import subprocess
+    out = mp4.with_name(mp4.stem + "_x.mp4")
+    if not out.exists():
+        subprocess.run(["ffmpeg", "-y", "-v", "error", "-i", str(mp4), "-t", "135",
+                        "-vf", "fade=t=out:st=133:d=2", "-af", "afade=t=out:st=132:d=3",
+                        "-c:v", "libx264", "-preset", "veryfast", "-crf", "23", "-c:a", "aac", "-b:a", "160k",
+                        "-movflags", "+faststart", str(out)], check=True)
+    return out
+
+
+def buffer_posts(ep: dict, mp4: Path, when: datetime, public_now: bool, yt_id: str | None, tag: str,
+                 skip: set | None = None) -> dict:
     from .. import upload_buffer as bf
+    skip = skip or set()
     if not bf.key():
         return {"buffer": "no BUFFER_API_KEY"}
     tags = " ".join(ep["hashtags"])
     tiktok = f"{ep['youtube_title']} – der ganze Hintergrund in {ep.get('_minutes', 8)} Minuten. {tags} #Nachrichten #Deutschland"
-    x = f"{ep['youtube_title']}\n\nDer Hintergrundbericht von EILBLICK FOKUS"
+    x = f"{ep['youtube_title']}\n\nDie ersten Minuten – der ganze Hintergrundbericht von EILBLICK FOKUS"
     if yt_id:
         x += f": https://youtu.be/{yt_id}"
     x = (x + f"\n{tags}")[:270]
     due = None if public_now else when.astimezone(timezone.utc).isoformat().replace("+00:00", "Z")
     out = {}
-    url = bf.host_video(mp4, tag)
+    urls = {}
     for c in bf.channels():
         svc = c["service"].lower()
-        if svc not in ("tiktok", "twitter", "x"):
+        if svc not in ("tiktok", "twitter", "x") or svc in skip:
             continue
         text = tiktok if svc == "tiktok" else x
+        kind = "tiktok" if svc == "tiktok" else "x"
+        if kind not in urls:
+            urls[kind] = bf.host_video(mp4 if kind == "tiktok" else x_trailer(mp4), tag)
+        url = urls[kind]
         meta = bf.metadata_for(svc, ep["youtube_title"])
         try:
             try:
@@ -100,9 +118,12 @@ def buffer_posts(ep: dict, mp4: Path, when: datetime, public_now: bool, yt_id: s
 
 
 def publish_all(ep: dict, mp4: Path, thumb: Path, when: datetime, public_now: bool,
-                yt_id: str | None, tag: str) -> list[str]:
+                yt_id: str | None, tag: str, skip: set | None = None) -> list[str]:
     lines = []
-    if os.environ.get("FB_PAGE_TOKEN"):
+    skip = skip or set()
+    if "facebook" in skip:
+        pass
+    elif os.environ.get("FB_PAGE_TOKEN"):
         try:
             v = facebook_video(ep, mp4, thumb, when, public_now)
             lines.append(f"- Facebook ✓ Video {v} ({'sofort' if public_now else 'geplant'})")
@@ -111,7 +132,7 @@ def publish_all(ep: dict, mp4: Path, thumb: Path, when: datetime, public_now: bo
     else:
         lines.append("- Facebook – kein FB_PAGE_TOKEN")
     try:
-        for svc, st in buffer_posts(ep, mp4, when, public_now, yt_id, tag).items():
+        for svc, st in buffer_posts(ep, mp4, when, public_now, yt_id, tag, skip).items():
             lines.append(f"- {svc} {st}")
     except Exception as e:
         lines.append(f"- Buffer ✗ {str(e)[:200]}")
