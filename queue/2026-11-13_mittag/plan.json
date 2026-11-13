@@ -1,0 +1,23 @@
+{
+  "format": "single",
+  "candidate_id": 3,
+  "pillar": "POLITIK", "region": "DE", "kicker": "EISHOCKEY-WM",
+  "hook_screen": "RUSSLAND DROHT",
+  "hook_voice": "Russland droht Deutschland mit Schadenersatz wegen der Eishockey-WM.",
+  "beats": [
+    {"voice": "Verbandschef Wladislaw Tretjak sagt nach einem Treffen mit Putin: Bleibt Russland ausgeschlossen, fordert Moskau Entschädigung und Sanktionen gegen die Veranstalter.", "big": "SANKTIONEN", "label": "Moskau droht den WM-Veranstaltern"},
+    {"voice": "Putin selbst legt nach. Die Gegenseite missachte sämtliche Grundsätze der Olympischen Charta.", "big": "PUTIN", "label": "„Olympische Charta missachtet“"},
+    {"voice": "Die Bundesregierung sagt: Mit Russland ist die Heim-WM zweitausendsiebenundzwanzig faktisch nicht möglich.", "big": "WM 2027", "label": "Heim-WM in Deutschland in Gefahr"},
+    {"voice": "Auslöser: Der Internationale Sportgerichtshof hat Russland wieder zugelassen. Finnland und weitere Länder wollen nicht gegen Russland spielen.", "big": "BOYKOTT", "label": "Finnland & Co. verweigern das Spiel"}
+  ],
+  "loop_line": "Jetzt muss der Weltverband entscheiden – platzt die Heim-WM?",
+  "headline": "Russland droht WM-Gastgeber Deutschland", "highlight": ["Russland"],
+  "entities": ["Wladimir Putin", "Wladislaw Tretjak", "Deutscher Eishockey-Bund", "IIHF"],
+  "youtube_title": "Russland droht Deutschland: Platzt jetzt die Eishockey-WM 2027?",
+  "description_lead": "Im Streit um die Eishockey-WM 2027 droht Russlands Verbandschef Wladislaw Tretjak Gastgeber Deutschland mit Schadenersatz und Sanktionen, Kremlchef Wladimir Putin wirft der Gegenseite vor, die Olympische Charta zu missachten. Die Bundesregierung hält die Heim-WM mit Russland für faktisch nicht möglich, der Deutsche Eishockey-Bund drängt die IIHF auf eine schnelle Entscheidung.",
+  "tags": ["Eishockey-WM 2027", "Russland", "Wladimir Putin", "Wladislaw Tretjak", "Deutscher Eishockey-Bund", "DEB", "IIHF", "Bundesregierung", "Sportgerichtshof", "Finnland", "Eishockey", "Schadenersatz", "Sanktionen", "Sportpolitik", "Nachrichten aktuell"],
+  "hashtags": ["#eishockey", "#russland", "#nachrichten"],
+  "facebook_caption_line1": "Putin legt nach: Russland droht Deutschland mit Schadenersatz und Sanktionen, falls das Team von der Eishockey-WM 2027 ausgeschlossen wird",
+  "facebook_question": "Soll Russland bei der Eishockey-WM in Deutschland mitspielen dürfen?",
+  "comment_question": "Russland bei der Heim-WM 2027: Ausschließen – ja oder nein?"
+}
