@@ -16,6 +16,9 @@ on:
         description: "Rebuild even if already published"
         type: boolean
         default: false
+      mode:
+        description: "build = render + upload · after = post comment + playlist once the premiere is public"
+        default: "build"
 
 permissions:
   contents: write
@@ -41,14 +44,22 @@ jobs:
         with:
           python-version: "3.12"
           cache: pip
+      - name: After premiere – comment + playlist
+        if: github.event.inputs.mode == 'after'
+        run: |
+          pip install -q -r requirements.txt
+          python -m eilblick.longform after ${{ github.event.inputs.folder }}
       - name: Install ffmpeg + Python packages
+        if: github.event.inputs.mode != 'after'
         timeout-minutes: 15
         run: |
           bash tools/install_ffmpeg.sh
           pip install -q -r requirements.txt
       - name: Validate episode
+        if: github.event.inputs.mode != 'after'
         run: python -m eilblick.longform validate ${{ github.event.inputs.folder }}
       - name: Build & publish
+        if: github.event.inputs.mode != 'after'
         run: |
           ARGS="run ${{ github.event.inputs.folder }}"
           if [ "${{ github.event.inputs.upload }}" = "false" ]; then ARGS="$ARGS --no-upload"; fi

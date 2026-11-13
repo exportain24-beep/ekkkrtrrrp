@@ -248,21 +248,24 @@
    "commons": "Evelyn Palla",
    "credit": "Bild: zdfheute.de",
    "page": "https://www.zdfheute.de/wirtschaft/palla-bahn-sanierung-dauer-100.html",
-   "source_url": "https://www.zdfheute.de/wirtschaft/palla-bahn-sanierung-dauer-100.html"
+   "source_url": "https://www.zdfheute.de/wirtschaft/palla-bahn-sanierung-dauer-100.html",
+   "person": true
   },
   {
    "id": "p6",
    "commons": "Patrick Schnieder CDU",
    "credit": "Bild: zdfheute.de",
    "page": "https://www.zdfheute.de/politik/deutschland/schnieder-bahn-zustand-verkehrsminister-demokratie-100.html",
-   "source_url": "https://www.zdfheute.de/politik/deutschland/schnieder-bahn-zustand-verkehrsminister-demokratie-100.html"
+   "source_url": "https://www.zdfheute.de/politik/deutschland/schnieder-bahn-zustand-verkehrsminister-demokratie-100.html",
+   "person": true
   },
   {
    "id": "p7",
    "commons": "Steffen Bilger",
    "credit": "Bild: trans.info",
    "page": "https://trans.info/de/steffen-bilger-verkehrsminister-492691",
-   "source_url": "https://trans.info/de/steffen-bilger-verkehrsminister-492691"
+   "source_url": "https://trans.info/de/steffen-bilger-verkehrsminister-492691",
+   "person": true
   },
   {
    "id": "p8",
@@ -273,12 +276,12 @@
   },
   {
    "id": "p9",
-   "commons": "Hebelstellwerk Deutsche Bahn",
+   "commons": "Stellwerk",
    "credit": "Wikimedia Commons"
   },
   {
    "id": "p10",
-   "commons": "stillgelegte Bahnstrecke Deutschland Gleis",
+   "commons": "stillgelegte Bahnstrecke",
    "credit": "Wikimedia Commons"
   },
   {
@@ -321,7 +324,7 @@
   },
   {
    "id": "p17",
-   "commons": "Eisenbahnweiche Deutschland",
+   "commons": "Weiche Eisenbahn",
    "credit": "Wikimedia Commons"
   },
   {
@@ -333,10 +336,8 @@
   },
   {
    "id": "p19",
-   "commons": "Bahnhof Reisende warten Bahnsteig Deutschland",
-   "credit": "Bild: tageskarte.io",
-   "page": "https://www.tageskarte.io/tourismus/detail/deutsche-bahn-wieder-unpuenktlicher.html",
-   "source_url": "https://www.tageskarte.io/tourismus/detail/deutsche-bahn-wieder-unpuenktlicher.html"
+   "commons": "Hauptbahnhof Reisende Bahnsteig",
+   "credit": "Wikimedia Commons"
   }
  ],
  "cold_open": [

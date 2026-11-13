@@ -4,7 +4,7 @@ Titel: Fast jeder zweite ICE zu spät: Warum die Bahn scheitert
 Dauer: 8.83 min · 99 Bildwechsel · Ø 5.4 s
 Wörter: 1111
 
-YouTube: https://youtu.be/yfVqQVR8WFg (geplant 13.11. 18:00 Berlin)
+Ersetzt (Fotofehler): https://youtu.be/yfVqQVR8WFg (geplant 13.11. 18:00 Berlin)
 - thumbnail ✓
 - captions ✓
 - comment ✗ YouTube comment failed 403: {

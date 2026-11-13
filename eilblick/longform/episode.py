@@ -181,7 +181,7 @@ def validate(ep: dict) -> tuple[list[str], list[str]]:
         warn.append(f"photos not used: {sorted(unused)}")
     # --- repetition
     old = registry().get(ep["topic"])
-    if old:
+    if old and old.get("date") != ep["date"]:      # a rebuild of the same episode is not a repeat
         try:
             if date.fromisoformat(ep["date"]) - date.fromisoformat(old["date"]) < timedelta(days=60):
                 err.append(f"topic '{ep['topic']}' already done on {old['date']} (60-day rule)")

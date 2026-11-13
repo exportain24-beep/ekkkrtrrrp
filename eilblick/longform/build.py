@@ -70,8 +70,16 @@ def fetch_photos(ep: dict, offline: bool) -> tuple[dict, list[dict]]:
                      "source_url": p.get("source_url") or p.get("page") or used, "image_url": used})
     if len(out) < max(6, len(ep["photos"]) // 2):
         raise RuntimeError(f"only {len(out)} of {len(ep['photos'])} photos could be loaded")
-    # replace missing ids by working ones (round robin) so no scene breaks
-    ok = list(out)
+    # replace missing ids by working ones (round robin) so no scene breaks –
+    # never with a portrait: a politician must not appear in a scene about something else
+    persons = {p["id"] for p in ep["photos"] if p.get("person")}
+    for sc in E.all_scenes(ep):
+        for v in E.visuals(sc):
+            if v.get("lower_third"):
+                persons.update(v.get("photos", []))
+            if v.get("type") == "quote" and v.get("photo"):
+                persons.add(v["photo"])
+    ok = [k for k in out if k not in persons] or list(out)
     for k, p in enumerate(ep["photos"]):
         if p["id"] not in out:
             out[p["id"]] = out[ok[k % len(ok)]]
@@ -273,6 +281,8 @@ def cmd_run(folder: Path, upload: bool, offline: bool, force: bool) -> int:
              f"Dauer: {doc.total / 60:.2f} min · {len(doc.pieces)} Bildwechsel · Ø {doc.total / len(doc.pieces):.1f} s",
              f"Wörter: {E.word_count(ep)}", ""]
     vid = None
+    old_txt = res.read_text(encoding="utf-8") if res.exists() else ""
+    old_ids = re.findall(r"youtu\.be/([\w-]{11})", old_txt) if force else []
     if upload and not offline:
         from .. import upload_youtube as yt
         when = publish_time(ep)
@@ -281,24 +291,25 @@ def cmd_run(folder: Path, upload: bool, offline: bool, force: bool) -> int:
         vid = yt.upload(mp4, ep["youtube_title"], desc, ep["tags"], when, notify=True)
         lines.append(f"YouTube: https://youtu.be/{vid} (geplant {when.astimezone(BERLIN):%d.%m. %H:%M} Berlin)")
         for step, fn in (("thumbnail", lambda: yt.set_thumbnail(vid, thumb)),
-                         ("captions", lambda: yt.upload_captions(vid, cap)),
-                         ("comment", lambda: yt.comment(vid, ep["pinned_comment"]))):
+                         ("captions", lambda: yt.upload_captions(vid, cap))):
             try:
                 fn()
                 lines.append(f"- {step} ✓")
             except Exception as e:
                 lines.append(f"- {step} ✗ {str(e)[:160]}")
-        try:
-            pl_path = ROOT / "state" / "playlists.json"
-            store = json.loads(pl_path.read_text()) if pl_path.exists() else {}
-            defs = {"FOKUS": settings()["longform"]["playlist"]}
-            store = yt.ensure_playlists(defs, store)
-            pl_path.write_text(json.dumps(store, indent=1))
-            yt.add_to_playlist(store["FOKUS"], vid)
-            lines.append("- playlist ✓")
-        except Exception as e:
-            lines.append(f"- playlist ✗ {str(e)[:160]}")
+        lines.append("- Kommentar + Playlist folgen nach der Premiere (python -m eilblick.longform after)")
         E.register(ep, vid)
+        # --force rebuild: the replaced (still scheduled, never public) upload is removed
+        for old in old_ids:
+            if old == vid:
+                continue
+            try:
+                import requests
+                r = requests.delete("https://www.googleapis.com/youtube/v3/videos", params={"id": old},
+                                    headers={"Authorization": f"Bearer {yt.access_token()}"}, timeout=30)
+                lines.append(f"- alte Version {old} gelöscht ({r.status_code})")
+            except Exception as e:
+                lines.append(f"- alte Version {old} nicht gelöscht: {str(e)[:120]}")
     lines += ["", "## Titel-Optionen", *[f"- {x}" for x in ep["title_options"]],
               "", "## Kommentar (bitte in YouTube Studio anpinnen)", ep["pinned_comment"],
               "", "## Begleit-Short (Idee)", ep["short_hook"]]
@@ -306,6 +317,39 @@ def cmd_run(folder: Path, upload: bool, offline: bool, force: bool) -> int:
     log("\n".join(lines))
     if TMP.exists():
         shutil.rmtree(TMP)     # owner rule: news photos are temporary
+    return 0
+
+
+def cmd_after(folder: Path) -> int:
+    """After the premiere (video public): post the comment + add to the playlist. Idempotent."""
+    from .. import upload_youtube as yt
+    ep = E.load(folder / "episode.json")
+    res = folder / "result.md"
+    txt = res.read_text(encoding="utf-8") if res.exists() else ""
+    m = re.search(r"youtu\.be/([\w-]{11})", txt)
+    if not m:
+        log("no video id in result.md")
+        return 1
+    vid, lines = m.group(1), []
+    if "comment ✓" not in txt:
+        try:
+            yt.comment(vid, ep["pinned_comment"])
+            lines.append("- comment ✓ (nach Premiere)")
+        except Exception as e:
+            lines.append(f"- comment ✗ {str(e)[:160]}")
+    if "playlist ✓" not in txt:
+        try:
+            pl_path = ROOT / "state" / "playlists.json"
+            store = json.loads(pl_path.read_text()) if pl_path.exists() else {}
+            store = yt.ensure_playlists({"FOKUS": settings()["longform"]["playlist"]}, store)
+            pl_path.write_text(json.dumps(store, indent=1))
+            yt.add_to_playlist(store["FOKUS"], vid)
+            lines.append("- playlist ✓ (nach Premiere)")
+        except Exception as e:
+            lines.append(f"- playlist ✗ {str(e)[:160]}")
+    if lines:
+        res.write_text(txt.rstrip("\n") + "\n" + "\n".join(lines) + "\n", encoding="utf-8")
+    log("\n".join(lines) or "nothing to do")
     return 0
 
 
@@ -319,12 +363,16 @@ def main(argv=None) -> int:
     r.add_argument("--no-upload", action="store_true")
     r.add_argument("--offline", action="store_true")
     r.add_argument("--force", action="store_true")
+    af = sub.add_parser("after")
+    af.add_argument("folder")
     a = ap.parse_args(argv)
     folder = Path(a.folder)
     if not folder.is_absolute():
         folder = ROOT / folder
     if a.cmd == "validate":
         return cmd_validate(folder)
+    if a.cmd == "after":
+        return cmd_after(folder)
     return cmd_run(folder, not a.no_upload, a.offline, a.force)
 
 
