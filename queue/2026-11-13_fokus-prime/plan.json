@@ -1,0 +1,68 @@
+{
+  "format": "single",
+  "candidate_id": 7,
+  "pillar": "POLITIK",
+  "region": "EU",
+  "kicker": "DUBLIN",
+  "hook_screen": "MERZ: „GESETZT!“",
+  "hook_voice": "Merz beansprucht Deutschlands Platz am Ukraine-Verhandlungstisch.",
+  "beats": [
+    {
+      "voice": "Kanzler Merz sagt beim EU-Treffen in Dublin: Bei Gesprächen über ein Kriegsende ist Deutschland gesetzt.",
+      "big": "GESETZT",
+      "label": "Merz über Deutschlands Rolle"
+    },
+    {
+      "voice": "Moskau hat zugestimmt: Die Europäer sollen vollwertig mitverhandeln. In Abu Dhabi saßen deutsche Berater nicht am Tisch.",
+      "big": "ABU DHABI",
+      "label": "Deutsche Berater nur am Rand"
+    },
+    {
+      "voice": "Streit in Dublin: Wer vertritt die EU? Kleinere Staaten sind erbost über Merz' Ultimatum zur Ukraine-Finanzierung.",
+      "big": "ULTIMATUM",
+      "label": "Merz setzt EU-Partner unter Druck"
+    },
+    {
+      "voice": "Für neue Ukraine-Hilfen bekommt Merz trotzdem Rückendeckung.",
+      "big": "RÜCKENDECKUNG",
+      "label": "für Merz' Finanzierungsplan"
+    }
+  ],
+  "loop_line": "Offen bleibt: Wer spricht am Ende für Europa?",
+  "headline": "Merz will an den Ukraine-Tisch",
+  "highlight": [
+    "Merz"
+  ],
+  "entities": [
+    "Friedrich Merz",
+    "Dublin",
+    "Europäischer Rat",
+    "Abu Dhabi"
+  ],
+  "youtube_title": "Merz will an den Ukraine-Tisch: Wer spricht jetzt für Europa?",
+  "description_lead": "Bundeskanzler Friedrich Merz sieht Deutschland bei künftigen Gesprächen über ein Ende des Ukraine-Kriegs als „gesetzt“ – das sagte er beim informellen EU-Treffen in Dublin. Moskau hat einer vollwertigen Beteiligung der Europäer zugestimmt, doch in der EU ist Streit darüber entbrannt, wer Europa vertritt.",
+  "tags": [
+    "Friedrich Merz",
+    "Merz",
+    "Ukraine",
+    "Dublin",
+    "EU-Gipfel",
+    "Abu Dhabi",
+    "Friedensgespräche",
+    "Ukraine-Krieg",
+    "Russland",
+    "Putin",
+    "Europäische Union",
+    "Ukraine-Hilfen",
+    "Verhandlungen",
+    "Bundeskanzler"
+  ],
+  "hashtags": [
+    "#merz",
+    "#ukraine",
+    "#politik"
+  ],
+  "facebook_caption_line1": "Merz in Dublin: „Deutschland ist gesetzt“ – Streit in der EU, wer mit Russland verhandelt",
+  "facebook_question": "Wer sollte Europa bei den Ukraine-Friedensgesprächen vertreten?",
+  "comment_question": "Soll Deutschland selbst mit am Verhandlungstisch sitzen – ja oder nein?"
+}
