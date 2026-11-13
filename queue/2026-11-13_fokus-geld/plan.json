@@ -1,0 +1,23 @@
+{
+  "format": "single",
+  "candidate_id": 10,
+  "pillar": "WIRTSCHAFT", "region": "DE", "kicker": "BUNDESHAUSHALT",
+  "hook_screen": "560 MILLIARDEN!",
+  "hook_voice": "Klingbeils Rekordhaushalt steht – aber ohne Senkung der Stromsteuer.",
+  "beats": [
+    {"voice": "Rund fünfhundertsechzig Milliarden Euro will der Bund zweitausendsiebenundzwanzig ausgeben – so viel wie nie.", "big": "560 Mrd. €", "label": "Rekordausgaben des Bundes für 2027"},
+    {"voice": "Der Haushaltsausschuss hat den Etat in der Nacht gebilligt – nach mehr als fünfzehn Stunden Sitzung.", "big": "15+ Std.", "label": "Bereinigungssitzung die ganze Nacht"},
+    {"voice": "Für Sie heißt das: Die Senkung der Stromsteuer ist weiter nicht im Haushalt.", "big": "OHNE", "label": "Stromsteuer-Senkung bleibt draußen"},
+    {"voice": "Eine Frage ist noch offen, der Etat steht nur vorläufig. Das letzte Wort hat der Bundestag.", "big": "Bundestag", "label": "muss den Etat noch beschließen"}
+  ],
+  "loop_line": "Rekordausgaben, aber keine Entlastung beim Strom – wer zahlt am Ende die Rechnung?",
+  "headline": "Rekordhaushalt: 560 Milliarden Euro", "highlight": ["Rekordhaushalt"],
+  "entities": ["Lars Klingbeil", "Haushaltsausschuss", "Bundestag"],
+  "youtube_title": "Klingbeils Rekordhaushalt: 560 Milliarden – wer zahlt die Rechnung?",
+  "description_lead": "Der Haushaltsausschuss des Bundestags hat den Bundeshaushalt 2027 von Finanzminister Lars Klingbeil mit rund 560 Milliarden Euro vorläufig gebilligt – nach einer Sitzung von mehr als 15 Stunden. Die Senkung der Stromsteuer ist weiter nicht enthalten, das letzte Wort hat der Bundestag.",
+  "tags": ["Lars Klingbeil", "Bundeshaushalt 2027", "Haushaltsausschuss", "Bundestag", "Bundesregierung", "Haushalt", "Rekordhaushalt", "Stromsteuer", "Strompreis", "Staatsausgaben", "Bundesfinanzen", "Steuern", "Geld", "Nachrichten aktuell"],
+  "hashtags": ["#haushalt", "#klingbeil", "#stromsteuer"],
+  "facebook_caption_line1": "Rekordhaushalt: 560 Milliarden Euro – aber keine Senkung der Stromsteuer",
+  "facebook_question": "Setzt der Bund beim Haushalt 2027 die richtigen Prioritäten?",
+  "comment_question": "560 Milliarden Euro, aber keine Stromsteuer-Senkung: Richtig oder falsch?"
+}
