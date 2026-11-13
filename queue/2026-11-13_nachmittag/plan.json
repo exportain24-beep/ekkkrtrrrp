@@ -1,0 +1,23 @@
+{
+  "format": "single",
+  "candidate_id": 4,
+  "pillar": "POLITIK", "region": "DE", "kicker": "BERLIN",
+  "hook_screen": "REICHELT-AUTO ANGEZÜNDET",
+  "hook_voice": "Julian Reichelts Auto angezündet – der Staatsschutz ermittelt.",
+  "beats": [
+    {"voice": "Der Wagen des Nius-Chefredakteurs brannte in der Nacht zu Freitag in Berlin. Das Auto ist zerstört.", "big": "BERLIN", "label": "Auto in der Nacht zu Freitag zerstört"},
+    {"voice": "Die Polizei bestätigt Brandstiftung. Die Ermittlungen hat der Staatsschutz übernommen.", "big": "BRANDSTIFTUNG", "label": "Polizei bestätigt – Staatsschutz ermittelt"},
+    {"voice": "Reichelt spricht von einem gezielten Anschlag. Für ihn ist es ein Einschüchterungsversuch gegen freie Medien, die sich dem Linksextremismus entgegenstellen.", "big": "„ANSCHLAG“", "label": "Reichelt: Einschüchterungsversuch"},
+    {"voice": "Die Täter sind unbekannt, die Hintergründe der Tat noch unklar.", "big": "UNBEKANNT", "label": "Täter und Motiv noch offen"}
+  ],
+  "loop_line": "Ein gezielter Anschlag auf einen Journalisten – wer steckt dahinter?",
+  "headline": "Auto von Julian Reichelt angezündet", "highlight": ["Reichelt"],
+  "entities": ["Julian Reichelt", "Nius", "Polizei Berlin"],
+  "youtube_title": "Reichelts Auto angezündet: Gezielter Anschlag auf den Nius-Chef?",
+  "description_lead": "In Berlin ist in der Nacht zu Freitag das Auto von Nius-Chefredakteur Julian Reichelt angezündet worden, die Polizei bestätigt Brandstiftung und der Staatsschutz ermittelt. Reichelt spricht von einem gezielten Anschlag und einem Einschüchterungsversuch gegen freie Medien – Täter und Hintergründe sind noch unklar.",
+  "tags": ["Julian Reichelt", "Nius", "Berlin", "Staatsschutz", "Polizei Berlin", "Brandanschlag", "Brandstiftung", "Pressefreiheit", "Journalist", "Anschlag", "Medien", "Nachrichten aktuell", "Politik"],
+  "hashtags": ["#reichelt", "#berlin", "#nachrichten"],
+  "facebook_caption_line1": "Brandanschlag in Berlin: Das Auto von Nius-Chef Julian Reichelt ist in der Nacht abgebrannt – der Staatsschutz ermittelt",
+  "facebook_question": "Wie sicher sind Journalisten in Deutschland noch?",
+  "comment_question": "Anschlag auf Journalisten: Muss der Staat Medienleute besser schützen – ja oder nein?"
+}
