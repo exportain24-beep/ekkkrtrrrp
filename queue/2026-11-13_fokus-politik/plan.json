@@ -1,0 +1,26 @@
+{
+  "format": "single",
+  "candidate_id": 5,
+  "pillar": "WIRTSCHAFT",
+  "region": "DE",
+  "kicker": "DORTMUND",
+  "hook_screen": "AUS FÜR RHEINMETALL!",
+  "hook_voice": "BVB beendet Rheinmetall-Deal – nach Dauerkritik der eigenen Fans.",
+  "beats": [
+    {"voice": "Borussia Dortmund verlängert den Vertrag mit dem Rüstungskonzern Rheinmetall nicht. Im Sommer zweitausendsiebenundzwanzig ist nach drei Jahren Schluss.", "big": "SOMMER 2027", "label": "dann endet der Sponsorenvertrag"},
+    {"voice": "Den Ausschlag gab die anhaltende Kritik von Fans und Mitgliedern. Seit dem Start vor zweieinhalb Jahren war der Deal umstritten.", "big": "FAN-PROTEST", "label": "gab den Ausschlag"},
+    {"voice": "Brisant: Präsident Hans-Joachim Watzke stand lange hinter dem Geschäft.", "big": "WATZKE", "label": "verteidigte den Deal lange"},
+    {"voice": "Der Klub räumt ein: Ohne Rheinmetall werden die finanziellen Spielräume kleiner.", "big": "WENIGER GELD", "label": "laut BVB kleinere finanzielle Spielräume"}
+  ],
+  "loop_line": "Haben also die Fans gewonnen – und was kostet das den BVB?",
+  "headline": "BVB beendet Rheinmetall-Deal",
+  "highlight": ["Rheinmetall"],
+  "entities": ["Borussia Dortmund", "Rheinmetall", "Hans-Joachim Watzke", "Signal Iduna Park"],
+  "youtube_title": "BVB beendet Rheinmetall-Deal: Haben die Fans gewonnen?",
+  "description_lead": "Borussia Dortmund verlängert die umstrittene Sponsoring-Partnerschaft mit dem Rüstungskonzern Rheinmetall nicht – der Vertrag endet im Sommer 2027. Ausschlaggebend war die Kritik von Fans und Mitgliedern, obwohl BVB-Präsident Hans-Joachim Watzke lange hinter dem Geschäft stand.",
+  "tags": ["Borussia Dortmund", "BVB", "Rheinmetall", "Hans-Joachim Watzke", "Dortmund", "Bundesliga", "Sponsoring", "Rüstungskonzern", "BVB Rheinmetall", "Fußball und Politik", "Rüstung", "Fanprotest", "BVB Fans"],
+  "hashtags": ["#bvb", "#rheinmetall", "#bundesliga"],
+  "facebook_caption_line1": "Aus für Rheinmetall beim BVB: Fans setzen sich gegen den Rüstungsdeal durch",
+  "facebook_question": "Gehört ein Rüstungskonzern als Sponsor in den Profifußball?",
+  "comment_question": "Richtige Entscheidung vom BVB – ja oder nein?"
+}
