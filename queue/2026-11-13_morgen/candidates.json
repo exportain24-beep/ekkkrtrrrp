@@ -1,0 +1,1949 @@
+{
+ "slot": {
+  "id": "morgen",
+  "time": "07:00",
+  "badge": "MORGEN-BRIEFING",
+  "label": "am Morgen",
+  "focus": "Nur Tie-Breaker – immer zuerst die populärsten, meistberichteten Nachrichten. Bei Gleichstand bevorzugt: Wichtigste Nachrichten der Nacht und des Morgens: internationale Eilmeldungen der Nacht und die größte politische Schlagzeile in Deutschland.",
+  "pillars": [
+   "POLITIK",
+   "WELT",
+   "WIRTSCHAFT",
+   "TECHNOLOGIE"
+  ],
+  "notify_subscribers": true
+ },
+ "slot_time": "2026-11-13T07:00:00+01:00",
+ "date_text": "Freitag, 13. November 2026",
+ "already_published": [
+  "Bundeswehr sperrt China-Autos aus",
+  "Hegseth: Amtsenthebung gescheitert",
+  "Ältere fehlen 31 Tage im Jahr krank",
+  "E-Auto-Prämie: Doppelt so viel Geld",
+  "Habeck wirft Trump Ukraine-Verrat vor",
+  "Pistorius: Soldatinnen belästigt",
+  "Palmer sagt alle Auftritte ab",
+  "Drohmails: Italien räumt 300 Schulen",
+  "Prien plant Grenze beim Vorschuss",
+  "EU will Abo-Fallen verbieten",
+  "Nvidia bereitet Huangs Rauswurf vor",
+  "Putin empfängt Trumps Unterhändler",
+  "VW stoppt Projekt Gamechanger",
+  "Ökonomen heben Wachstumsprognose an",
+  "Weißes Haus droht den Demokraten",
+  "Blatter nennt Infantino Diktator",
+  "Iran droht US-Stützpunkten in Europa",
+  "IG Metall droht mit Ganztags-Streiks",
+  "Dax knackt erstmals 27.000 Punkte",
+  "Gericht: Grenzkontrollen rechtswidrig",
+  "Stromsteuer-Senkung vorerst gescheitert",
+  "Mercedes stoppt Investitionen"
+ ],
+ "candidates": [
+  {
+   "id": 0,
+   "score": 18.11,
+   "outlets": [
+    "tagesschau",
+    "ZDFheute",
+    "ORF",
+    "SRF News",
+    "Süddeutsche",
+    "WirtschaftsWoche",
+    "heise online",
+    "DER STANDARD"
+   ],
+   "regions": [
+    "AT",
+    "CH",
+    "DE",
+    "INT"
+   ],
+   "trend": [],
+   "newest": "2026-11-13T02:36:47+00:00",
+   "articles": [
+    {
+     "source": "tagesschau",
+     "region": "DE",
+     "weight": 1.0,
+     "title": "Nvidia: Huang-Affäre könnte zu Trump-Skandal werden",
+     "summary": "Laut Medienberichten wurde Trump zwei Mal von der Affäre des Nvidia-Chefs Huang mit einer mutmaßlichen chinesischen Spionin unterrichtet. Doch der Präsident beteuert, von nichts gewusst zu haben. Von C. Kühntopp.",
+     "link": "https://www.tagesschau.de/ausland/amerika/nvidia-trump-100.html",
+     "image": "https://images.tagesschau.de/image/f9401978-bea2-4fa5-9226-a0299084e01c/AAABodJ-FtA/AAABnSSvrFg/16x9-big/huang-trump-102.jpg?width=1920",
+     "aggregator": false,
+     "published": "2026-11-13T02:36:47+00:00"
+    },
+    {
+     "source": "tagesschau",
+     "region": "DE",
+     "weight": 1.0,
+     "title": "Nvidia-Chef Huang tritt nach Spionageaffäre zurück",
+     "summary": "Der Chef des weltgrößten Chipkonzerns Nvidia, Jensen Huang, tritt wegen einer Affäre mit einer mutmaßlichen chinesischen Spionin zurück. Seine Aufgaben übernehme vorübergehend die bisherige Finanzchefin Colette Kress, teilte der US-Konzern mit.",
+     "link": "https://www.tagesschau.de/wirtschaft/unternehmen/nvidia-huang-ruecktritt-100.html",
+     "image": "https://images.tagesschau.de/image/427ba347-9971-42c5-b988-2e7d573ee1df/AAABoc6Zlzc/AAABnSSvrFg/16x9-big/jensen-huang-112.jpg?width=1920",
+     "aggregator": false,
+     "published": "2026-11-12T17:20:04+00:00"
+    },
+    {
+     "source": "tagesschau Ausland",
+     "region": "INT",
+     "weight": 1.0,
+     "title": "Nvidia: Huang-Affäre könnte zu Trump-Skandal werden",
+     "summary": "Laut Medienberichten wurde Trump zwei Mal von der Affäre des Nvidia-Chefs Huang mit einer mutmaßlichen chinesischen Spionin unterrichtet. Doch der Präsident beteuert, von nichts gewusst zu haben. Von C. Kühntopp.",
+     "link": "https://www.tagesschau.de/ausland/amerika/nvidia-trump-100.html",
+     "image": "https://images.tagesschau.de/image/f9401978-bea2-4fa5-9226-a0299084e01c/AAABodJ-FtA/AAABnSSvrFg/16x9-big/huang-trump-102.jpg?width=1920",
+     "aggregator": false,
+     "published": "2026-11-13T02:36:47+00:00"
+    },
+    {
+     "source": "tagesschau Wirtschaft",
+     "region": "DE",
+     "weight": 1.0,
+     "title": "Nvidia-Chef Huang tritt nach Spionageaffäre zurück",
+     "summary": "Der Chef des weltgrößten Chipkonzerns Nvidia, Jensen Huang, tritt wegen einer Affäre mit einer mutmaßlichen chinesischen Spionin zurück. Seine Aufgaben übernehme vorübergehend die bisherige Finanzchefin Colette Kress, teilte der US-Konzern mit.",
+     "link": "https://www.tagesschau.de/wirtschaft/unternehmen/nvidia-huang-ruecktritt-100.html",
+     "image": "https://images.tagesschau.de/image/427ba347-9971-42c5-b988-2e7d573ee1df/AAABoc6Zlzc/AAABnSSvrFg/16x9-big/jensen-huang-112.jpg?width=1920",
+     "aggregator": false,
+     "published": "2026-11-12T17:20:04+00:00"
+    },
+    {
+     "source": "tagesschau Wirtschaft",
+     "region": "DE",
+     "weight": 1.0,
+     "title": "Affäre von Nvidia-Chef Huang: Darum geht es beim Spionage-Verdacht",
+     "summary": "Der US-Chipkonzern Nvidia ermittelt gegen seinen Chef Jensen Huang wegen einer Affäre mit einer mutmaßlichen chinesischen Spionin. Welche Vorwürfe konkret im Raum stehen - und welche Folgen sie haben könnten.",
+     "link": "https://www.tagesschau.de/wirtschaft/unternehmen/faq-nvidia-spionage-100.html",
+     "image": "https://images.tagesschau.de/image/9d4d98a9-ed98-4d6a-9f9c-bd1d9782eb0d/AAABocCr9uU/AAABnSSvrFg/16x9-big/nvidia-logo-102.jpg?width=1920",
+     "aggregator": false,
+     "published": "2026-11-09T13:58:03+00:00"
+    },
+    {
+     "source": "tagesschau Wirtschaft",
+     "region": "DE",
+     "weight": 1.0,
+     "title": "Untersuchung gegen Nvidia-Chef Huang wegen möglicher Spionin aus China",
+     "summary": "Der KI-Chip-Gigant Nvidia hat nach Berichten über einen Spionageverdacht eine Untersuchung gegen seinen Gründer und Konzernchef Jensen Huang eingeleitet. Er soll eine Affäre mit einer mutmaßlichen chinesischen Spionin gehabt haben.",
+     "link": "https://www.tagesschau.de/wirtschaft/unternehmen/nvidia-spionage-pruefung-100.html",
+     "image": "https://images.tagesschau.de/image/34f93b54-ef67-4531-97e6-4a40dc5724cc/AAABob68p7E/AAABnSSvrFg/16x9-big/nvidia-184.jpg?width=1920",
+     "aggregator": false,
+     "published": "2026-11-09T03:32:51+00:00"
+    },
+    {
+     "source": "ZDFheute",
+     "region": "DE",
+     "weight": 1.0,
+     "title": "Spionage-Affäre: Nvidia-Chef Huang tritt zurück",
+     "summary": "Nvidia-Chef Huang gibt nach einer Affäre mit einer möglichen chinesischen Spionin seinen Posten auf. Finanzchefin Kress übernimmt vorübergehend.",
+     "link": "https://www.zdfheute.de/wirtschaft/unternehmen/nvidia-chef-huang-ruecktritt-100.html",
+     "image": "https://www.zdfheute.de/assets/jensen-huang-104~384x216?cb=1794504343696",
+     "aggregator": false,
+     "published": "2026-11-12T21:50:00+00:00"
+    },
+    {
+     "source": "ZDFheute",
+     "region": "DE",
+     "weight": 1.0,
+     "title": "China-Affäre: Spionierte sie den Nvidia-Chef für Peking aus?",
+     "summary": "Die Affäre von Tech-Boss Jensen Huang erschüttert den Chip-Giganten Nvidia. Was ist über die Frau im Zentrum des Skandals bekannt, die womöglich für Chinas Geheimdienst arbeitete?",
+     "link": "https://www.zdfheute.de/wirtschaft/unternehmen/nvidia-affaere-china-spionage-alice-huang-100.html",
+     "image": "https://www.zdfheute.de/assets/alice-huang-und-jensen-huang-100~384x216?cb=1794481856796",
+     "aggregator": false,
+     "published": "2026-11-12T13:14:00+00:00"
+    }
+   ]
+  },
+  {
+   "id": 1,
+   "score": 15.58,
+   "outlets": [
+    "tagesschau",
+    "ZDFheute",
+    "Deutschlandfunk",
+    "SPIEGEL",
+    "WirtschaftsWoche",
+    "WELT",
+    "Handelsblatt"
+   ],
+   "regions": [
+    "DE"
+   ],
+   "trend": [],
+   "newest": "2026-11-13T04:18:57+00:00",
+   "articles": [
+    {
+     "source": "tagesschau",
+     "region": "DE",
+     "weight": 1.0,
+     "title": "Mercedes stoppt Investitionen in Deutschland - und prüft Schließungen",
+     "summary": "In den Verhandlungen um Kostensenkungen bei Mercedes ist keine Lösung in Sicht. Jetzt erhöht der Konzern den Druck: Der Vorstand legt alle Investitionen in deutsche Standorte auf Eis - und will Werksschließungen prüfen.",
+     "link": "https://www.tagesschau.de/wirtschaft/unternehmen/mercedes-stopp-investitionen-100.html",
+     "image": "https://images.tagesschau.de/image/a1c69cbc-7a7c-413d-aae2-f16786e0d57e/AAABodDagME/AAABnSSvrFg/16x9-big/mercedes-montage-100.jpg?width=1920",
+     "aggregator": false,
+     "published": "2026-11-12T18:44:38+00:00"
+    },
+    {
+     "source": "tagesschau Wirtschaft",
+     "region": "DE",
+     "weight": 1.0,
+     "title": "Mercedes stoppt Investitionen in Deutschland - und prüft Schließungen",
+     "summary": "In den Verhandlungen um Kostensenkungen bei Mercedes ist keine Lösung in Sicht. Jetzt erhöht der Konzern den Druck: Der Vorstand legt alle Investitionen in deutsche Standorte auf Eis - und will Werksschließungen prüfen.",
+     "link": "https://www.tagesschau.de/wirtschaft/unternehmen/mercedes-stopp-investitionen-100.html",
+     "image": "https://images.tagesschau.de/image/a1c69cbc-7a7c-413d-aae2-f16786e0d57e/AAABodDagME/AAABnSSvrFg/16x9-big/mercedes-montage-100.jpg?width=1920",
+     "aggregator": false,
+     "published": "2026-11-12T18:44:38+00:00"
+    },
+    {
+     "source": "ZDFheute",
+     "region": "DE",
+     "weight": 1.0,
+     "title": "Mercedes stoppt alle neuen Investitionen in Deutschland",
+     "summary": "Mercedes Benz stoppt alle neuen Investitionen in Deutschland. Wegen hoher Kosten und stockender Spar-Gespräche bringt der Vorstand sogar Werksschließungen ins Spiel.",
+     "link": "https://www.zdfheute.de/wirtschaft/unternehmen/mercedes-sparmassnahmen-100.html",
+     "image": "https://www.zdfheute.de/assets/aid-image-69512413-hires-102~384x216?cb=1794504129652",
+     "aggregator": false,
+     "published": "2026-11-12T21:10:00+00:00"
+    },
+    {
+     "source": "Deutschlandfunk",
+     "region": "DE",
+     "weight": 0.95,
+     "title": "Automobilindustrie - Mercedes stoppt alle neuen Investitionen in Deutschland und prüft Werksschließungen",
+     "summary": "Der Autobauer Mercedes stoppt alle neuen Investitionen in Deutschland. Wie der Konzern mitteilte, fiel die Entscheidung angesichts hoher Preise und stockender Verhandlungen mit der Arbeitnehmerseite über Kostensenkungen.",
+     "link": "https://www.deutschlandfunk.de/mercedes-stoppt-alle-neuen-investitionen-in-deutschland-und-prueft-werksschliessungen-102.html",
+     "image": "https://bilder.deutschlandfunk.de/15/d7/be/18/15d7be18-b9c8-4c79-a578-441089eb4129/mercedes-benz-100-1920x1920.jpg",
+     "aggregator": false,
+     "published": "2026-11-13T04:18:57+00:00"
+    },
+    {
+     "source": "SPIEGEL",
+     "region": "DE",
+     "weight": 0.9,
+     "title": "Mercedes-Benz: Konzern stoppt Investitionen in deutsche Werke und prüft Schließungen",
+     "summary": "Der Streit zwischen Management und Arbeitnehmervertretung bei Mercedes-Benz eskaliert. Intern droht der Vorstand drastische Maßnahmen an: Künftige Fahrzeuge könnten »ausschließlich im Ausland« produziert werden.",
+     "link": "https://www.spiegel.de/wirtschaft/unternehmen/mercedes-benz-konzern-stoppt-investitionen-in-deutsche-werke-und-prueft-schliessungen-a-e7f79c73-ef81-4715-a6ad-a7033a1fac75#ref=rss",
+     "image": "https://cdn.prod.www.spiegel.de/images/f29380cb-71c1-4dbc-aeb9-4e4a06a7a6c3_w520_r2.08_fpx33.94_fpy49.99.jpg",
+     "aggregator": false,
+     "published": "2026-11-12T18:09:00+00:00"
+    },
+    {
+     "source": "WirtschaftsWoche",
+     "region": "DE",
+     "weight": 0.85,
+     "title": "Automobilindustrie: Mercedes prüft mögliche Werksschließungen in Deutschland",
+     "summary": "Mercedes-Benz stoppt vorerst alle weiteren Investitionen in deutsche Standorte. Zugleich prüft der Konzern, welche Werke er sich noch leisten kann – wie nah sind Schließungen?",
+     "link": "https://www.wiwo.de/unternehmen/auto/automobilindustrie-mercedes-prueft-moegliche-werksschliessungen-in-deutschland/100269502.html",
+     "image": "https://images.wiwo.de/3UARaJLaPSBR/cover/900/506/0/0/251/251/0.5/0.5/archiv-30.04.2026-baden-wuerttemberg-sindelfingen-ein-mercedes-benz-arbeiter-montiert-im-mercede.jpg",
+     "aggregator": false,
+     "published": "2026-11-12T16:24:00+00:00"
+    },
+    {
+     "source": "WELT",
+     "region": "DE",
+     "weight": 0.8,
+     "title": "„Sie trauen dem Standort Deutschland nicht mehr“ – Auto-Riese stoppt alle weiteren Investitionen",
+     "summary": "Der Mercedes-Vorstand stoppt alle weiteren Investitionen in die deutschen Standorte. Im Kostenstreit mit den Arbeitnehmervertretern prüft der Konzern, welche Werke er sich noch leisten kann. WELT-Politikredakteur Maximilian Heimerzheim analysiert die Hintergründe.",
+     "link": "https://www.welt.de/videos/video6af5f878c45061d752ba8d04/mercedes-benz-sie-trauen-dem-standort-deutschland-nicht-mehr-auto-riese-stoppt-alle-weiteren-investitionen.html",
+     "image": "https://images.welt.de/6af5f878c45061d752ba8d04/d248a12b4c477fd62deac65e82a6295e/ci16x9-w1200/heimerzheim-png",
+     "aggregator": false,
+     "published": "2026-11-12T17:59:04+00:00"
+    },
+    {
+     "source": "Handelsblatt",
+     "region": "DE",
+     "weight": 0.6,
+     "title": "Mercedes: Autohersteller stoppt alle Investitionen in Deutschland",
+     "summary": "Mercedes: Autohersteller stoppt alle Investitionen in Deutschland Handelsblatt Mercedes-Benz prüft Werksschließungen: Zwei Werke könnten schließen BILD Mercedes stoppt Investitionen in Deutschland - und prüft Schließungen tagesschau.de Mercedes-Benz: Mercedes stoppt alle neuen Investitionen in deutsche Standorte DIE ZEIT Autoindustrie: Der große Auto-Machtkampf beginnt – Mercedes und VW auf Konfrontation mit der IG Metall WELT",
+     "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPQXJIRy1sazVqNzZLSERRdlB5TkxKUlJXUVA3dWwxTi1HZ0pMUjdGTW1SSHdEOEMxY1pZTmVYaU55eEVMTkIyWHJNYnhfVHJSRmVTRDZGMThmZHRnOHVLYm1lLXB2STdhSk9ZVEw4akVwQ2dqb01RaGFHSjl2a3FZcHJRWndJVWYyZU5NM1lPOXdURkI2SnVybTlraEQ5SVR3T1RLV051OTZsZDBiSjRkTjlueXFueXdwNXRQYmpZa2hXX2tNVUJDMjF3?oc=5",
+     "image": null,
+     "aggregator": true,
+     "published": "2026-11-12T15:57:46+00:00"
+    }
+   ]
+  },
+  {
+   "id": 2,
+   "score": 13.38,
+   "outlets": [
+    "tagesschau Ausland",
+    "ZDFheute",
+    "Deutschlandfunk",
+    "NZZ",
+    "DER STANDARD"
+   ],
+   "regions": [
+    "AT",
+    "CH",
+    "DE",
+    "INT"
+   ],
+   "trend": [],
+   "newest": "2026-11-13T04:18:57+00:00",
+   "articles": [
+    {
+     "source": "tagesschau Ausland",
+     "region": "INT",
+     "weight": 1.0,
+     "title": "Historischer Sieg in Mississippi: \"Hatte den Mut, an Mississippi zu glauben\"",
+     "summary": "Seit 145 Jahren zieht erstmals ein schwarzer Demokrat für Mississippi in den US-Senat. Im Wahlkampf setzte Scott Colom auf die Mobilisierung von Nicht-Wählern - und Gespräche mit Trump-Unterstützern. Von Sandra Ratzow.",
+     "link": "https://www.tagesschau.de/ausland/amerika/usa-mississippi-schwarzer-senator-100.html",
+     "image": "https://images.tagesschau.de/image/eea9ed05-44d7-4646-b3c8-aef07e8eea3f/AAABoc7SXJ0/AAABnSSvrFg/16x9-big/colom-102.jpg?width=1920",
+     "aggregator": false,
+     "published": "2026-11-12T04:37:34+00:00"
+    },
+    {
+     "source": "tagesschau Ausland",
+     "region": "INT",
+     "weight": 1.0,
+     "title": "Historischer Sieg: Demokrat Colom holt Senatssitz in Mississippi",
+     "summary": "Erstmals seit mehr als vier Jahrzehnten hat ein Demokrat im südlichen US-Bundesstaat Mississippi eine Wahl für den US-Senat gewonnen. Colom gelang ein überraschender Sieg - er weitet damit die Mehrheit im Senat ab Januar auf 55 der 100 Sitze aus.",
+     "link": "https://www.tagesschau.de/ausland/amerika/demokrat-mississippi-sieg-100.html",
+     "image": "https://images.tagesschau.de/image/d7e2a493-7016-4e0f-b525-04c1f1dc300f/AAABocztN-E/AAABnSSvrFg/16x9-big/colom-100.jpg?width=1920",
+     "aggregator": false,
+     "published": "2026-11-12T02:08:44+00:00"
+    },
+    {
+     "source": "ZDFheute",
+     "region": "DE",
+     "weight": 1.0,
+     "title": "Erstmals seit 1982 gewinnt wieder Demokrat in Mississippi",
+     "summary": "Erstmals seit 1982 gewinnt ein Demokrat einen Sitz im US-Senat in Mississippi. Scott Colom ist zudem der erste schwarze Senator aus dem südlichen Bundesstaat seit den 1880er Jahren.",
+     "link": "https://www.zdfheute.de/politik/ausland/usa-mississippi-scott-colom-midterms-demokraten-senat-100.html",
+     "image": "https://www.zdfheute.de/assets/scott-colom-100~384x216?cb=1794461982549",
+     "aggregator": false,
+     "published": "2026-11-12T07:45:00+00:00"
+    },
+    {
+     "source": "Deutschlandfunk",
+     "region": "DE",
+     "weight": 0.95,
+     "title": "Erstmals seit 1982 - Demokrat Scott Colom holt laut Medien Senatssitz in Mississippi",
+     "summary": "In den USA ist Scott Colom von der Demokratischen Partei als Sieger der Senatswahl im Bundesstaat Mississippi ausgerufen worden.",
+     "link": "https://www.deutschlandfunk.de/demokrat-scott-colom-holt-laut-medien-senatssitz-in-mississippi-122.html",
+     "image": "https://bilder.deutschlandfunk.de/99/9f/e3/ff/999fe3ff-76be-4097-9df9-aebf5a87cb9e/mississippi-colom-100-1920x1920.jpg",
+     "aggregator": false,
+     "published": "2026-11-13T04:18:57+00:00"
+    },
+    {
+     "source": "NZZ",
+     "region": "CH",
+     "weight": 0.9,
+     "title": "Scott Colom schreibt Geschichte: Nach 152 Jahren schickt Mississippi wieder einen schwarzen Senator nach Washington",
+     "summary": "Im konservativen Gliedstaat schien ein Erfolg der Demokraten undenkbar. Doch Colom hat seine Kontrahentin nach allen Regeln der Kunst ausmanövriert. Damit macht er den Erdrutschsieg seiner Partei bei den Zwischenwahlen perfekt.",
+     "link": "https://www.nzz.ch/international/demokrat-holt-senatssitz-in-mississippi-erstmals-seit-1982-ld.10061692",
+     "image": "https://img-msp-prod.nzz.ch/2026/11/12/894f53a3-ed49-47cb-8d9b-de16a77f57fc.jpg?width=200&height=200&fit=bounds&quality=75&auto=webp&crop=2632,2632,x0,y0",
+     "aggregator": false,
+     "published": "2026-11-12T17:56:54+00:00"
+    },
+    {
+     "source": "DER STANDARD",
+     "region": "AT",
+     "weight": 0.85,
+     "title": "Scott Colom schafft in Mississippi die Senats-Sensation",
+     "summary": "Der schwarze Demokrat hat mit seinem Wahlkampf einige historische Wegmarken überschritten – an seinen Sieg hatte dabei kaum jemand geglaubt",
+     "link": "https://www.derstandard.at/story/3000000348904/scott-colom-schafft-in-mississippi-die-senats-sensation?ref=rss",
+     "image": "https://i.ds.at/02Dw7Q/rs:fill:150:0/plain/lido-images/2026/11/12/e775b7c9-1388-4819-bf55-c518bfdd2f79.jpg",
+     "aggregator": false,
+     "published": "2026-11-12T16:39:00+00:00"
+    }
+   ]
+  },
+  {
+   "id": 3,
+   "score": 13.08,
+   "outlets": [
+    "tagesschau",
+    "Deutschlandfunk",
+    "SPIEGEL",
+    "Handelsblatt",
+    "WELT"
+   ],
+   "regions": [
+    "DE"
+   ],
+   "trend": [],
+   "newest": "2026-11-13T04:18:57+00:00",
+   "articles": [
+    {
+     "source": "tagesschau",
+     "region": "DE",
+     "weight": 1.0,
+     "title": "Bayerischer Drohnenhersteller Quantum Systems meldet Cyberangriff",
+     "summary": "Der bayerische Rüstungskonzern Quantum Systems ist nach eigenen Angaben Opfer eines Cyberangriffs geworden. Der Vorfall fand im Oktober statt. Laut einem Medienbericht hat die Bundeswehr bereits reagiert.",
+     "link": "https://www.tagesschau.de/inland/quantum-systems-cyberangriff-100.html",
+     "image": "https://images.tagesschau.de/image/7aa52c28-02c2-447e-8843-707c8a2139e5/AAABodGXxPU/AAABnSSvrFg/16x9-big/quantum-systems-100.jpg?width=1920",
+     "aggregator": false,
+     "published": "2026-11-12T21:09:07+00:00"
+    },
+    {
+     "source": "tagesschau Inland",
+     "region": "DE",
+     "weight": 1.0,
+     "title": "Bayerischer Drohnenhersteller Quantum Systems meldet Cyberangriff",
+     "summary": "Der bayerische Rüstungskonzern Quantum Systems ist nach eigenen Angaben Opfer eines Cyberangriffs geworden. Der Vorfall fand im Oktober statt. Laut einem Medienbericht hat die Bundeswehr bereits reagiert.",
+     "link": "https://www.tagesschau.de/inland/quantum-systems-cyberangriff-100.html",
+     "image": "https://images.tagesschau.de/image/7aa52c28-02c2-447e-8843-707c8a2139e5/AAABodGXxPU/AAABnSSvrFg/16x9-big/quantum-systems-100.jpg?width=1920",
+     "aggregator": false,
+     "published": "2026-11-12T21:09:07+00:00"
+    },
+    {
+     "source": "Deutschlandfunk",
+     "region": "DE",
+     "weight": 0.95,
+     "title": "Bayerisches Unternehmen - Drohnenhersteller Quantum Systems meldet Cyberangriff",
+     "summary": "Der deutsche Drohnenhersteller Quantum Systems ist nach eigenen Angaben Opfer eines Cyberangriffs geworden.",
+     "link": "https://www.deutschlandfunk.de/drohnenhersteller-quantum-systems-meldet-cyberangriff-100.html",
+     "image": "https://bilder.deutschlandfunk.de/5e/3f/71/44/5e3f7144-35eb-4f23-b2b5-cf91c040042e/quantum-systems-waffen-drohnen-100-1920x1920.jpg",
+     "aggregator": false,
+     "published": "2026-11-13T04:18:57+00:00"
+    },
+    {
+     "source": "SPIEGEL",
+     "region": "DE",
+     "weight": 0.9,
+     "title": "Massiver Cyberangriff auf deutschen Drohnenhersteller Quantum Systems",
+     "summary": "Unbekannten ist es gelungen, ein Schadprogramm auf einem internen Updateserver des Drohnenherstellers Quantum Systems zu deponieren, einem Lieferanten der Bundeswehr. Dort nimmt man den Vorfall sehr ernst.",
+     "link": "https://www.spiegel.de/politik/massiver-cyberangriff-auf-drohnenhersteller-quantum-systems-a-354b0289-2281-4af6-a532-ee03b45d8b30#ref=rss",
+     "image": "https://cdn.prod.www.spiegel.de/images/16b5ae40-49b8-4733-abdd-36cdbbff1cfb_w520_r2.08_fpx37.33_fpy49.99.jpg",
+     "aggregator": false,
+     "published": "2026-11-12T20:05:00+00:00"
+    },
+    {
+     "source": "Handelsblatt",
+     "region": "DE",
+     "weight": 0.9,
+     "title": "Rüstungs-Start-up: Drohnenhersteller Quantum Systems meldet massiven Cyberangriff",
+     "summary": "Die Rüstungsfirma aus Bayern meldet einen Angriff durch „feindliche Akteure“. Die Bundeswehr hat den Einsatz der Drohnen des Unternehmens zunächst ausgesetzt.",
+     "link": "https://www.handelsblatt.com/technik/forschung-innovation/quantum-systems-drohnenhersteller-meldet-massiven-cyberangriff/100269533.html",
+     "image": "https://images.handelsblatt.com/lBC73kExfDPC/cover/900/506/0/0/347/347/0.5/0.5/vector-drohne-von-quantum-systems-neue-kriegsdynamik-koennte-nicht-mehr-einzufangen-sein..jpg",
+     "aggregator": false,
+     "published": "2026-11-12T20:46:19+00:00"
+    },
+    {
+     "source": "WELT",
+     "region": "DE",
+     "weight": 0.8,
+     "title": "Deutscher Drohnenhersteller meldet Hackerangriff durch „feindliche Akteure“",
+     "summary": "Der Cyberangriff auf Quantum Systems betrifft einen wichtigen Lieferanten für die Ukraine. Die Bundeswehr zog laut „Financial Times“ Drohnen des Unternehmens vorsorglich aus dem Verkehr.",
+     "link": "https://www.welt.de/politik/ausland/article6af61e5dd03b96b78bace121/quantum-systems-deutscher-drohnenhersteller-meldet-hackerangriff-durch-feindliche-akteure.html",
+     "image": "https://images.welt.de/6af61e5dd03b96b78bace121/e74078111f7f905af313fbe09975943f-master/ci23x11-w1200/dpa-com-261112-935-1739599-jpg",
+     "aggregator": false,
+     "published": "2026-11-12T20:36:06+00:00"
+    }
+   ]
+  },
+  {
+   "id": 4,
+   "score": 11.78,
+   "outlets": [
+    "tagesschau",
+    "Deutschlandfunk",
+    "DER STANDARD",
+    "WELT",
+    "DIE ZEIT"
+   ],
+   "regions": [
+    "AT",
+    "DE"
+   ],
+   "trend": [],
+   "newest": "2026-11-13T04:18:57+00:00",
+   "articles": [
+    {
+     "source": "tagesschau",
+     "region": "DE",
+     "weight": 1.0,
+     "title": "Auch Outlook betroffen: Microsoft-Dienste weltweit mit Störungen",
+     "summary": "Ein großflächiger Ausfall von Microsoft-Diensten, darunter Outlook: Innerhalb der Anwendungspalette des Technologiekonzerns kommt es weltweit zu Störungen. Das Unternehmen arbeite mit Hochdruck an einer Lösung.",
+     "link": "https://www.tagesschau.de/wirtschaft/unternehmen/microsoft-outlook-ausfall-100.html",
+     "image": "https://images.tagesschau.de/image/f88dd7d2-f43e-4a23-85cb-139aab8c4930/AAABodHzeW4/AAABnSSvrFg/16x9-big/microsoft-210.jpg?width=1920",
+     "aggregator": false,
+     "published": "2026-11-13T03:22:07+00:00"
+    },
+    {
+     "source": "tagesschau Wirtschaft",
+     "region": "DE",
+     "weight": 1.0,
+     "title": "Auch Outlook betroffen: Microsoft-Dienste weltweit mit Störungen",
+     "summary": "Ein großflächiger Ausfall von Microsoft-Diensten, darunter Outlook: Innerhalb der Anwendungspalette des Technologiekonzerns kommt es weltweit zu Störungen. Das Unternehmen arbeite mit Hochdruck an einer Lösung.",
+     "link": "https://www.tagesschau.de/wirtschaft/unternehmen/microsoft-outlook-ausfall-100.html",
+     "image": "https://images.tagesschau.de/image/f88dd7d2-f43e-4a23-85cb-139aab8c4930/AAABodHzeW4/AAABnSSvrFg/16x9-big/microsoft-210.jpg?width=1920",
+     "aggregator": false,
+     "published": "2026-11-13T03:22:07+00:00"
+    },
+    {
+     "source": "Deutschlandfunk",
+     "region": "DE",
+     "weight": 0.95,
+     "title": "US-Technologiekonzern - Microsoft: Stundenlanger Ausfall beeinträchtigt Outlook und Teams",
+     "summary": "Das US-Technologieunternehmen Microsoft ist von einer Störung betroffen.",
+     "link": "https://www.deutschlandfunk.de/microsoft-stundenlanger-ausfall-beeintraechtigt-outlook-und-teams-100.html",
+     "image": "https://bilder.deutschlandfunk.de/a4/f5/ed/c6/a4f5edc6-d7a1-4630-9814-1680b0415896/microsoft-logo-100-1920x1920.jpg",
+     "aggregator": false,
+     "published": "2026-11-13T04:18:57+00:00"
+    },
+    {
+     "source": "DER STANDARD",
+     "region": "AT",
+     "weight": 0.85,
+     "title": "Störung bei Microsoft Outlook und 365: Nutzer weltweit betroffen",
+     "summary": "Es kam zu einem größeren Ausfall von verschiedenen Microsoft-Diensten. Laut dem US-Softwarebetreiber wird an einer Behebung gearbeitet. Wie lang das dauert, ist unklar",
+     "link": "https://www.derstandard.at/story/3000000349041/ausfall-bei-microsoft-outlook-356-und-teams-tausende-nutzer-betroffen?ref=rss",
+     "image": "https://i.ds.at/0xlKxw/rs:fill:150:0/plain/lido-images/2026/11/12/0ddb0ed6-4fa7-43c3-8e5b-b337f42aa8be.jpg",
+     "aggregator": false,
+     "published": "2026-11-12T19:37:35+00:00"
+    },
+    {
+     "source": "WELT",
+     "region": "DE",
+     "weight": 0.8,
+     "title": "Zehntausende Microsoft-Nutzer von E-Mail-Störung betroffen",
+     "summary": "Da klemmt irgendwo die Mail... Zehntausenden Microsoft-Nutzern ging das so, weltweit. Eine großflächige Störung beim E-Mail-Dienst Outlook war schuld daran. Microsoft bemüht sich um eine Problembehebung.",
+     "link": "https://www.welt.de/vermischtes/article6af64ed25a72dceba1d60d27/outlook-klemmt-zehntausende-microsoft-nutzer-von-e-mail-stoerung-betroffen.html",
+     "image": "https://images.welt.de/6af64ed25a72dceba1d60d27/76caeedb121284d8cad9f2d7fff941e1-master/ci23x11-w1200/1794524621324-2304841025-jpg",
+     "aggregator": false,
+     "published": "2026-11-12T23:51:26+00:00"
+    },
+    {
+     "source": "DIE ZEIT",
+     "region": "DE",
+     "weight": 0.6,
+     "title": "Outlook: Microsoft meldet weltweite Störung von Outlook und Teams",
+     "summary": "Outlook: Microsoft meldet weltweite Störung von Outlook und Teams DIE ZEIT Auch Outlook betroffen: Microsoft-Dienste weltweit mit Störungen tagesschau.de Microsoft 365: Globaler Ausfall legt Outlook, Teams und Copilot lahm BILD Microsoft: Großstörung sperrt weltweit Zehntausende Nutzer aus Spiegel Microsoft-365-Störung: Serverausfälle legen Teams, Exchange und Copilot lahm heise online",
+     "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNRzdBM2tBb21xZjZCUUYtX0trZmdId0VSTi1mVnp5ODNyNThkeUNDQVJ4TDVwdDZURWJZWmEwUEpNVzlDejVlcndrOEpScUlJUFpkNXd2UEpwYWJOcjdhY3Y1NzdmQTc5cnRPdVFkRk5qYTdibklaQi1jUkdUVW50RjYySWJaZmtiWHc2RVR0ZXhZRUE?oc=5",
+     "image": null,
+     "aggregator": true,
+     "published": "2026-11-13T04:06:52+00:00"
+    }
+   ]
+  },
+  {
+   "id": 5,
+   "score": 11.28,
+   "outlets": [
+    "Deutschlandfunk",
+    "ORF",
+    "SPIEGEL",
+    "DER STANDARD"
+   ],
+   "regions": [
+    "AT",
+    "DE"
+   ],
+   "trend": [],
+   "newest": "2026-11-13T04:18:57+00:00",
+   "articles": [
+    {
+     "source": "Deutschlandfunk",
+     "region": "DE",
+     "weight": 0.95,
+     "title": "Nahost - Israel verbietet französischem Präsidentschaftskandidaten Mélenchon die Einreise",
+     "summary": "Frankreichs linkspopulistischer Präsidentschaftskandidat Mélenchon darf nicht mehr nach Israel einreisen.",
+     "link": "https://www.deutschlandfunk.de/israel-verbietet-franzoesischem-praesidentschaftskandidaten-m-lenchon-die-einreise-104.html",
+     "image": "https://bilder.deutschlandfunk.de/fa/3d/2b/f6/fa3d2bf6-6482-49f7-9d65-d49f9feff7f2/frankreich-wahlkampf-parlamentswahl-jean-luc-melenchon-nupes-100-1920x1920.jpg",
+     "aggregator": false,
+     "published": "2026-11-13T04:18:57+00:00"
+    },
+    {
+     "source": "ORF",
+     "region": "AT",
+     "weight": 0.95,
+     "title": "Israel verbietet Melenchon Einreise",
+     "summary": "",
+     "link": "https://orf.at/stories/3448036/",
+     "image": null,
+     "aggregator": false,
+     "published": "2026-11-12T18:02:37+00:00"
+    },
+    {
+     "source": "SPIEGEL",
+     "region": "DE",
+     "weight": 0.9,
+     "title": "Israel verbietet Jean-Luc Mélenchon wegen antiisraelischer Haltung Einreise",
+     "summary": "Wegen »Ritualmordlegenden gegen Israel« hat Außenminister Gideon Sa’ar dem französischen Präsidentschaftskandidaten Jean-Luc Mélenchon die Einreise verboten. Der reagiert trotzig.",
+     "link": "https://www.spiegel.de/ausland/israel-verbietet-jean-luc-melenchon-wegen-antiisraelischer-haltung-einreise-a-61502964-7e0f-412a-9b40-b41a9754bf01#ref=rss",
+     "image": "https://cdn.prod.www.spiegel.de/images/66bbb771-a584-422b-ae80-80f3c52fdb2f_w520_r2.08_fpx66.67_fpy50.jpg",
+     "aggregator": false,
+     "published": "2026-11-12T20:54:00+00:00"
+    },
+    {
+     "source": "DER STANDARD",
+     "region": "AT",
+     "weight": 0.85,
+     "title": "Israel verbietet französischem Präsidentschaftskandidaten Einreise",
+     "summary": "Grund sei die \"extrem antiisraelische Haltung\" von Jean-Luc Mélenchon und seiner Partei La France Insoumise (LFI), wie Israels Außenminister Saar mitteilte",
+     "link": "https://www.derstandard.at/story/3000000349037/israel-verbietet-franz246sischem-pr228sidentschaftskandidaten-einreise?ref=rss",
+     "image": "https://i.ds.at/rkzrPg/rs:fill:150:0/plain/lido-images/2026/11/12/e4d1c4e7-c64f-4c1f-9692-b30ffbe772c7.jpg",
+     "aggregator": false,
+     "published": "2026-11-12T18:05:49+00:00"
+    }
+   ]
+  },
+  {
+   "id": 6,
+   "score": 11.21,
+   "outlets": [
+    "tagesschau",
+    "Deutsche Welle",
+    "ORF",
+    "Handelsblatt"
+   ],
+   "regions": [
+    "AT",
+    "DE",
+    "INT"
+   ],
+   "trend": [],
+   "newest": "2026-11-13T03:13:31+00:00",
+   "articles": [
+    {
+     "source": "tagesschau",
+     "region": "DE",
+     "weight": 1.0,
+     "title": "Erneut Bombendrohungen gegen hunderte Schulen in Italien",
+     "summary": "In Italien sind erneut Bombendrohungen an Schulen gesendet worden. Es sollen etwa 1.600 Einrichtungen betroffen sein. Die Regierung will Gebäude künftig nur noch räumen lassen, wenn konkrete Hinweise auf eine Gefahr vorliegen.",
+     "link": "https://www.tagesschau.de/ausland/europa/italien-schulen-bombendrohungen-100.html",
+     "image": "https://images.tagesschau.de/image/8daf501f-6a2c-4fe2-90f0-33638f979a13/AAABodCYN_Q/AAABnSSvrFg/16x9-big/schule-italien-evakuiert-100.jpg?width=1920",
+     "aggregator": false,
+     "published": "2026-11-12T14:25:28+00:00"
+    },
+    {
+     "source": "tagesschau Ausland",
+     "region": "INT",
+     "weight": 1.0,
+     "title": "Erneut Bombendrohungen gegen hunderte Schulen in Italien",
+     "summary": "In Italien sind erneut Bombendrohungen an Schulen gesendet worden. Es sollen etwa 1.600 Einrichtungen betroffen sein. Die Regierung will Gebäude künftig nur noch räumen lassen, wenn konkrete Hinweise auf eine Gefahr vorliegen.",
+     "link": "https://www.tagesschau.de/ausland/europa/italien-schulen-bombendrohungen-100.html",
+     "image": "https://images.tagesschau.de/image/8daf501f-6a2c-4fe2-90f0-33638f979a13/AAABodCYN_Q/AAABnSSvrFg/16x9-big/schule-italien-evakuiert-100.jpg?width=1920",
+     "aggregator": false,
+     "published": "2026-11-12T14:25:28+00:00"
+    },
+    {
+     "source": "tagesschau Ausland",
+     "region": "INT",
+     "weight": 1.0,
+     "title": "Bombendrohungen an Tausenden Schulen in Italien und Großbritannien",
+     "summary": "An Tausenden Schulen in Italien sind per E-Mail Bombendrohungen eingegangen. Auch in Großbritannien gibt es ähnliche Fälle. Die Behörden gehen von Falschmeldungen aus. Wer hinter den Drohungen steckt, ist unklar.",
+     "link": "https://www.tagesschau.de/ausland/europa/bombendrohungen-italien-100.html",
+     "image": "https://images.tagesschau.de/image/2922d359-4a44-4853-a7eb-d1205eadf710/AAABoctdHF0/AAABnSSvrFg/16x9-big/polizei-schule-rom-100.jpg?width=1920",
+     "aggregator": false,
+     "published": "2026-11-11T19:13:07+00:00"
+    },
+    {
+     "source": "Deutsche Welle",
+     "region": "INT",
+     "weight": 0.95,
+     "title": "Italien, Schottland und Nordirland: Schulen nach Bombenalarm evakuiert",
+     "summary": "Die Serie der Bombendrohungen in Europa setzt sich fort. Diesmal gab es falschen Alarm an Hunderten Schulen. Waren es staatliche Akteure, Trittbrettfahrer oder Scherzbolde?",
+     "link": "https://www.dw.com/de/italien-schottland-und-nordirland-schulen-nach-bombenalarm-evakuiert/a-79919504?maca=de-rss-de-all-1119-xml-mrss",
+     "image": "https://static.dw.com/image/79919315_302.jpg",
+     "aggregator": false,
+     "published": "2026-11-11T13:59:00+00:00"
+    },
+    {
+     "source": "ORF",
+     "region": "AT",
+     "weight": 0.95,
+     "title": "Neue Bombendrohungen gegen Schulen in Italien",
+     "summary": "",
+     "link": "https://orf.at/stories/3447995/",
+     "image": null,
+     "aggregator": false,
+     "published": "2026-11-12T11:41:09+00:00"
+    },
+    {
+     "source": "Handelsblatt",
+     "region": "DE",
+     "weight": 0.9,
+     "title": "Kriminalität: „Zeitalter der Unsicherheit“ – Italien rätselt über Welle an Bombendrohungen gegen Schulen",
+     "summary": "Erst Hackerangriffe auf europäische Supermärkte, dann Drohungen gegen Flugzeuge, nun gegen italienische Schulen. Die Regierung in Rom spricht von einer „breiter angelegten Strategie“.",
+     "link": "https://www.handelsblatt.com/politik/international/sicherheit-italien-raetselt-ueber-welle-an-bombendrohungen-gegen-schulen/100269330.html",
+     "image": "https://images.handelsblatt.com/BCJykrjL1Mks/cover/900/506/0/0/313/312/0.5/0.5/bomb-threats-evacuate-schools-in-downtown-milan-students-and-police-are-pictured-outside-istituto-ca.jpg",
+     "aggregator": false,
+     "published": "2026-11-13T03:13:31+00:00"
+    }
+   ]
+  },
+  {
+   "id": 7,
+   "score": 11.08,
+   "outlets": [
+    "tagesschau Ausland",
+    "ZDFheute",
+    "Deutsche Welle",
+    "SRF News",
+    "DER STANDARD"
+   ],
+   "regions": [
+    "AT",
+    "CH",
+    "DE",
+    "INT"
+   ],
+   "trend": [],
+   "newest": "2026-11-12T21:07:19+00:00",
+   "articles": [
+    {
+     "source": "tagesschau Ausland",
+     "region": "INT",
+     "weight": 1.0,
+     "title": "Im Stadtteil Brooklyn: Tote und Verletzte nach Gebäudeeinsturz in New York",
+     "summary": "Nach dem Einsturz eines mehrstöckigen Gebäudes in New York ist die Zahl der Toten auf mindestens acht gestiegen. Mehrere weitere Menschen wurden unter den Trümmern eingeschlossen. Bürgermeister Mamdani sprach den Betroffenen sein Mitgefühl aus.",
+     "link": "https://www.tagesschau.de/ausland/amerika/new-york-gebaeude-einsturz-104.html",
+     "image": "https://images.tagesschau.de/image/c721bd53-d8e5-4717-8c8b-8e3e325892e3/AAABoc3GsAQ/AAABnSSvrFg/16x9-big/new-york-gebaeude-einsturz-100.jpg?width=1920",
+     "aggregator": false,
+     "published": "2026-11-12T18:54:49+00:00"
+    },
+    {
+     "source": "ZDFheute",
+     "region": "DE",
+     "weight": 1.0,
+     "title": "Hauseinsturz in New York: Zahl der Toten steigt weiter",
+     "summary": "Infolge des Einsturzes eines Wohnhauses im New Yorker Stadtbezirk Brooklyn ist die Zahl der Toten auf mindestens acht gestiegen. Unter den Opfern sind auch zwei Kinder.",
+     "link": "https://www.zdfheute.de/video/brooklyn-einsturz-wohnhaus-tote-video-100.html",
+     "image": "https://www.zdfheute.de/assets/gebaeudeeinsturz-brooklny-100~384x216?cb=1794516421915",
+     "aggregator": false,
+     "published": "2026-11-12T20:47:38+00:00"
+    },
+    {
+     "source": "Deutsche Welle",
+     "region": "INT",
+     "weight": 0.95,
+     "title": "Mehrere Tote bei Hauseinsturz in New York",
+     "summary": "\"Das ganze Gebäude fing an zu schwanken, und dann ist es einfach eingestürzt\", sagt eine Zeugin des Unglücks. Für die Feuerwehrleute ist es ein gefährlicher Einsatz. Suchhunde sollen mögliche Verschüttete finden.",
+     "link": "https://www.dw.com/de/mehrere-tote-bei-hauseinsturz-in-new-york/a-79927649?maca=de-rss-de-all-1119-xml-mrss",
+     "image": "https://static.dw.com/image/79925717_302.jpg",
+     "aggregator": false,
+     "published": "2026-11-12T10:34:00+00:00"
+    },
+    {
+     "source": "SRF News",
+     "region": "CH",
+     "weight": 0.95,
+     "title": "Im Stadtteil Brooklyn – Acht Tote und 18 Verletzte bei Hauseinsturz in New York",
+     "summary": "Nach Angaben der Feuerwehr sind zwei Kinder unter den Toten. Die Rettungsaktion ist noch im Gang.",
+     "link": "https://www.srf.ch/news/international/im-stadtteil-brooklyn-acht-tote-und-18-verletzte-bei-hauseinsturz-in-new-york",
+     "image": "https://www.srf.ch/static/cms/images//320ws/872678.webp",
+     "aggregator": false,
+     "published": "2026-11-12T21:07:19+00:00"
+    },
+    {
+     "source": "DER STANDARD",
+     "region": "AT",
+     "weight": 0.85,
+     "title": "Mindestens acht Tote bei Hauseinsturz in New York",
+     "summary": "Ein mehrstöckiges Wohnhaus im Stadtteil Brooklyn stürzte ein. Neben den Toten gibt es 18 weitere Verletzte",
+     "link": "https://www.derstandard.at/story/3000000348826/mindestens-zwei-tote-bei-hauseinsturz-in-new-york?ref=rss",
+     "image": "https://i.ds.at/bTVcrg/rs:fill:150:0/plain/lido-images/2026/11/12/9504fc98-6363-4429-87f4-8e6a3ff171c0.jpg",
+     "aggregator": false,
+     "published": "2026-11-12T04:54:16+00:00"
+    }
+   ]
+  },
+  {
+   "id": 8,
+   "score": 10.95,
+   "outlets": [
+    "SRF News",
+    "Handelsblatt",
+    "heise online",
+    "n-tv"
+   ],
+   "regions": [
+    "CH",
+    "DE"
+   ],
+   "trend": [],
+   "newest": "2026-11-13T04:14:15+00:00",
+   "articles": [
+    {
+     "source": "SRF News",
+     "region": "CH",
+     "weight": 0.95,
+     "title": "Software-Riese Microsoft – Stundenlanger Ausfall beeinträchtigt Outlook und Teams",
+     "summary": "Betroffen ist der Cloud-Dienst Microsoft 365 – dazu gehören unter anderem Outlook, Teams oder der KI-Assistent Co-Pilot.",
+     "link": "https://www.srf.ch/news/wirtschaft/software-riese-microsoft-stundenlanger-ausfall-beeintraechtigt-outlook-und-teams",
+     "image": "https://www.srf.ch/static/cms/images//320ws/e87ada.webp",
+     "aggregator": false,
+     "published": "2026-11-13T04:14:15+00:00"
+    },
+    {
+     "source": "Handelsblatt",
+     "region": "DE",
+     "weight": 0.9,
+     "title": "Störung: Ausfall bei Microsoft beeinträchtigt Outlook und Teams",
+     "summary": "Viele Unternehmen und Verbraucher nutzen ihre E-Mails über den Outlook-Dienst von Microsoft. Der ist am Donnerstag stundenlang nicht erreichbar. Auch die Produkte Teams und Copilot sind betroffen.",
+     "link": "https://www.handelsblatt.com/technik/it-internet/stoerung-ausfall-bei-microsoft-beeintraechtigt-outlook-und-teams/100269552.html",
+     "image": "https://images.handelsblatt.com/wze77-o-ugPL/cover/900/506/0/0/155/155/0.5/0.5/chicago-illinois-november-12-in-this-photo-illustration-an-error-message-is-shown-when-trying-t.jpg",
+     "aggregator": false,
+     "published": "2026-11-13T00:35:34+00:00"
+    },
+    {
+     "source": "heise online",
+     "region": "DE",
+     "weight": 0.85,
+     "title": "Microsoft-365-Störung: Serverausfälle legen Teams, Exchange und Copilot lahm",
+     "summary": "Eine Störung bei Microsoft 365 beeinträchtigt weltweit zahlreiche Cloud-Dienste wie Exchange Online, Teams, SharePoint, Copilot und Defender XDR.",
+     "link": "https://www.heise.de/news/Microsoft-365-Stoerung-Serverausfaelle-legen-Teams-Exchange-und-Copilot-lahm-11523565.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
+     "image": null,
+     "aggregator": false,
+     "published": "2026-11-12T21:01:00+00:00"
+    },
+    {
+     "source": "n-tv",
+     "region": "DE",
+     "weight": 0.8,
+     "title": "Unter anderem Outlook betroffen: Störung legt Microsofts Cloud-Dienste stundenlang lahm",
+     "summary": "Eine weitreichende Störung bei Microsofts Cloud-Diensten beeinträchtigt über mehrere Stunden netzwerkbasierte Anwendungen wie Outlook oder Teams. Zwischenzeitlich scheint es so, als würden die Systeme sich erholen - doch nachhaltig ist das nicht.",
+     "link": "https://www.n-tv.de/technik/Stoerung-legt-Microsofts-Cloud-Dienste-stundenlang-lahm-id31528456.html",
+     "image": "https://www.n-tv.de/img/31528779/1794543675/Img_4_3/250/image.jpg",
+     "aggregator": false,
+     "published": "2026-11-13T03:21:14+00:00"
+    }
+   ]
+  },
+  {
+   "id": 9,
+   "score": 10.28,
+   "outlets": [
+    "tagesschau",
+    "Deutschlandfunk",
+    "NZZ",
+    "STERN.de"
+   ],
+   "regions": [
+    "CH",
+    "DE",
+    "INT"
+   ],
+   "trend": [],
+   "newest": "2026-11-13T04:18:57+00:00",
+   "articles": [
+    {
+     "source": "tagesschau",
+     "region": "DE",
+     "weight": 1.0,
+     "title": "Krieg gegen die Ukraine: Putin beharrt auf Gebietsansprüchen",
+     "summary": "Bei einem Treffen mit den US-Unterhändlern Witkoff und Kushner hat der russische Präsident Putin seinen Anspruch auf ukrainische Gebiete erneuert. Eine mögliche Beteiligung Europas an Friedensgesprächen schloss er nicht aus.",
+     "link": "https://www.tagesschau.de/ausland/europa/ukraine-russland-putin-witkoff-kushner-100.html",
+     "image": "https://images.tagesschau.de/image/2a64b33d-f350-4060-a602-5e2ee57627fc/AAABoc_vwsU/AAABnSSvrFg/16x9-big/putin-witkoff-kushner-104.jpg?width=1920",
+     "aggregator": false,
+     "published": "2026-11-12T16:29:23+00:00"
+    },
+    {
+     "source": "tagesschau Ausland",
+     "region": "INT",
+     "weight": 1.0,
+     "title": "Krieg gegen die Ukraine: Putin beharrt auf Gebietsansprüchen",
+     "summary": "Bei einem Treffen mit den US-Unterhändlern Witkoff und Kushner hat der russische Präsident Putin seinen Anspruch auf ukrainische Gebiete erneuert. Eine mögliche Beteiligung Europas an Friedensgesprächen schloss er nicht aus.",
+     "link": "https://www.tagesschau.de/ausland/europa/ukraine-russland-putin-witkoff-kushner-100.html",
+     "image": "https://images.tagesschau.de/image/2a64b33d-f350-4060-a602-5e2ee57627fc/AAABoc_vwsU/AAABnSSvrFg/16x9-big/putin-witkoff-kushner-104.jpg?width=1920",
+     "aggregator": false,
+     "published": "2026-11-12T16:29:23+00:00"
+    },
+    {
+     "source": "Deutschlandfunk",
+     "region": "DE",
+     "weight": 0.95,
+     "title": "Treffen mit US-Gesandten in Moskau - Kremlchef Putin beharrt auf Gebietsforderungen und schließt entmilitarisierte Zonen zwischen Russland und der Ukraine aus",
+     "summary": "Einen Tag nach den Ukraine-Gesprächen in Abu Dhabi hat der russische Präsident Putin in Moskau gestern eine Unterredung mit den US-Gesandten Witkoff und Kushner geführt.",
+     "link": "https://www.deutschlandfunk.de/kremlchef-putin-beharrt-auf-gebietsforderungen-und-schliesst-entmilitarisierte-zonen-zwischen-russla-102.html",
+     "image": "https://bilder.deutschlandfunk.de/d8/5f/32/1c/d85f321c-43c3-4c6c-8bbc-c6f697935c06/putin-kushner-witkoff-moskau-100-1920x1920.jpg",
+     "aggregator": false,
+     "published": "2026-11-13T04:18:57+00:00"
+    },
+    {
+     "source": "NZZ",
+     "region": "CH",
+     "weight": 0.9,
+     "title": "LIVE-TICKER - Krieg in der Ukraine: Putin laut Kushner bereit für Europäer am Verhandlungstisch",
+     "summary": "Seit über vier Jahren führt Russland Krieg gegen die Ukraine. Die wichtigsten Entwicklungen im Überblick.",
+     "link": "https://www.nzz.ch/international/krieg-in-der-ukraine-die-neusten-entwicklungen-im-liveticker-ld.10021245",
+     "image": "https://img-msp-prod.nzz.ch/2026/11/12/ebab8976-91e3-435e-9d4f-b64efc454a1e.jpg?width=200&height=200&fit=bounds&quality=75&auto=webp&crop=960,960,x160,y0",
+     "aggregator": false,
+     "published": "2026-11-13T02:41:04+00:00"
+    },
+    {
+     "source": "STERN.de",
+     "region": "DE",
+     "weight": 0.6,
+     "title": "Nach Ukraine-Gesprächen in Abu Dhabi: „Das ist ein Erfolg Russlands“",
+     "summary": "Nach Ukraine-Gesprächen in Abu Dhabi: „Das ist ein Erfolg Russlands“ STERN.de Krieg gegen die Ukraine: Putin beharrt auf Gebietsansprüchen tagesschau.de Ukrainekrieg: Europa soll künftig bei Gesprächen von Ukraine und Russland dabei sein DIE ZEIT Ukrainekrieg: Witkoff kündigt Beteiligung Europas an Verhandlungen an Spiegel Ukraine-Krieg: Europa soll erstmals mitverhandeln BILD",
+     "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQUFhjc0hDbmRVZXZpa2pIcWV0dXF0c1hUMFpuei1pUzdBak5FOGloS2IxQm5hbEFYaXAxa09NYWI1WTRYUFUtdGZ0TzRuRV9BV2ZLRVdreXhTbkQzRFJtbmVSUTZvN1FNbWJ6cE9tLVBkNHkwRm1CY2JSbndDRlpraW84X0VlbG96N2p1cTkySHZJWjU1TFI4WHN5RHo3VmxHbTEycU5nbFZfNVRqMXFsS3hVNWo0YVBHY3ZxXw?oc=5",
+     "image": null,
+     "aggregator": true,
+     "published": "2026-11-12T14:22:00+00:00"
+    }
+   ]
+  },
+  {
+   "id": 10,
+   "score": 9.64,
+   "outlets": [
+    "ZDFheute",
+    "Deutsche Welle",
+    "ORF",
+    "heise online"
+   ],
+   "regions": [
+    "AT",
+    "DE",
+    "INT"
+   ],
+   "trend": [],
+   "newest": "2026-11-12T22:47:52+00:00",
+   "articles": [
+    {
+     "source": "ZDFheute",
+     "region": "DE",
+     "weight": 1.0,
+     "title": "Wie es nach dem Rückzug Huangs weitergehen könnte",
+     "summary": "Eine mutmaßliche Spionage-Affäre, ein gestürzter Tech-Star und ein Konzern im Ausnahmezustand: Was der Abgang von Jensen Huang für Nvidia, die KI-Branche und Deutschland bedeutet.",
+     "link": "https://www.zdfheute.de/wirtschaft/unternehmen/nvidia-zukunft-ruecktritt-jensen-huang-100.html",
+     "image": "https://www.zdfheute.de/assets/jensen-huang-nvidia-stockholm-100~384x216?cb=1794512835924",
+     "aggregator": false,
+     "published": "2026-11-12T20:26:00+00:00"
+    },
+    {
+     "source": "Deutsche Welle",
+     "region": "INT",
+     "weight": 0.95,
+     "title": "Jensen Huang: Spionageaffäre und Affären: Nvidia verliert seinen Star-CEO",
+     "summary": "Jensen Huang, der Nvidia zum Weltmarktführer bei KI-Chips gemacht hat, tritt als CEO zurück. Wie wirkt sich der Abgang dieser Leitfigur auf das Unternehmen und den KI-Wettlauf der USA mit China aus?",
+     "link": "https://www.dw.com/de/jensen-huang-spionageaffäre-und-affären-nvidia-verliert-seinen-star-ceo/a-79933045?maca=de-rss-de-all-1119-xml-mrss",
+     "image": "https://static.dw.com/image/79708779_302.jpg",
+     "aggregator": false,
+     "published": "2026-11-12T16:26:00+00:00"
+    },
+    {
+     "source": "ORF",
+     "region": "AT",
+     "weight": 0.95,
+     "title": "Finanzchefin Kress soll Nvidia auf Kurs halten",
+     "summary": "Der Rückzug von Nvidia-Gründer Jensen Huang nach seinen Affären bringt Finanzchefin Colette Kress beim Chipriesen nach 13 Jahren ins Rampenlicht. Mit dem rasanten Aufstieg der Firma zum Motor des KI-Booms spielte sie angesichts der explosiven Umsatzentwicklung bereits eine Schlüsselrolle. Jetzt muss sie als kommissarische Chefin jedoch plötzlich das ganze Unternehmen managen – dieses war bisher komplett auf die Führungsrolle von Huang zugeschnitten.",
+     "link": "https://orf.at/stories/3448035/",
+     "image": null,
+     "aggregator": false,
+     "published": "2026-11-12T22:47:52+00:00"
+    },
+    {
+     "source": "heise online",
+     "region": "DE",
+     "weight": 0.85,
+     "title": "heise+ | Nvidia ohne Jensen Huang: Wie laufen die Geschäfte weiter?",
+     "summary": "Nvidia versucht, die Affäre um den zurückgetreten CEO Jensen Huang in den Griff zu bekommen. Wie könnte es nun weitergehen?",
+     "link": "https://www.heise.de/news/Nvidia-ohne-Jensen-Huang-Wie-laufen-die-Geschaefte-weiter-11523360.html?wt_mc=rss.red.ho.ho.atom.beitrag_plus.beitrag_plus",
+     "image": null,
+     "aggregator": false,
+     "published": "2026-11-12T17:30:00+00:00"
+    }
+   ]
+  },
+  {
+   "id": 11,
+   "score": 9.57,
+   "outlets": [
+    "tagesschau",
+    "ZDFheute",
+    "ORF",
+    "SRF News",
+    "tagesschau.de"
+   ],
+   "regions": [
+    "AT",
+    "CH",
+    "DE"
+   ],
+   "trend": [],
+   "newest": "2026-11-12T19:53:16+00:00",
+   "articles": [
+    {
+     "source": "tagesschau",
+     "region": "DE",
+     "weight": 1.0,
+     "title": "tagesschau 20:00 Uhr",
+     "summary": "Union und SPD ringen über den Bundeshaushalt 2027, Gipfel der Europäischen Politischen Gemeinschaft in Dublin, Nvidia-Chef Huang tritt nach Spionageaffäre zurück, Mercedes-Benz will Investitionen in deutsche Standorte stoppen, In Deutschland verschulden sich laut Schuldneratlas 2026 immer mehr Menschen, Die Nations League, Das Wetter",
+     "link": "https://www.tagesschau.de/tagesschau_20_uhr/video-1682890.html",
+     "image": "https://images.tagesschau.de/image/399db44f-a528-4584-a2ac-0bc277f383fb/AAABodE7ZjE/AAABnSSvrFg/16x9-big/sendungsbild-1826664.jpg?width=1920",
+     "aggregator": false,
+     "published": "2026-11-12T19:50:06+00:00"
+    },
+    {
+     "source": "ZDFheute",
+     "region": "DE",
+     "weight": 1.0,
+     "title": "Europäische politische Gemeinschaft: Doorsteps von u.a. Bundeskanzler Merz",
+     "summary": "Doorsteps der Staats- und Regierungschef:innen vor dem 9. Treffen der europäischen politischen Gemeinschaft in Dublin.",
+     "link": "https://www.phoenix.de/php/mediaplayer/vod_embed.php?cmsid=5247405",
+     "image": "https://www.zdfheute.de/assets/teaser-phoenix-europaeische-politische-gemeinschaft-doorsteps-von-ua-bundeskanzler-merz-5247405-100~384x216?cb=1794500038437",
+     "aggregator": false,
+     "published": "2026-11-12T15:48:00+00:00"
+    },
+    {
+     "source": "ORF",
+     "region": "AT",
+     "weight": 0.95,
+     "title": "Nvidia-Chef Huang tritt zurück",
+     "summary": "",
+     "link": "https://orf.at/stories/3448017/",
+     "image": null,
+     "aggregator": false,
+     "published": "2026-11-12T13:55:26+00:00"
+    },
+    {
+     "source": "SRF News",
+     "region": "CH",
+     "weight": 0.95,
+     "title": "Verhandlungen zu Ukraine-Krieg – «Über Europa kann nicht ohne Europa gesprochen werden»",
+     "summary": "Am Treffen der Europäischen Politischen Gemeinschaft in Dublin dominiert ein Thema: Die Verhandlungen zum Ukraine-Krieg.",
+     "link": "https://www.srf.ch/news/international/ukraine/verhandlungen-zu-ukraine-krieg-ueber-europa-kann-nicht-ohne-europa-gesprochen-werden",
+     "image": "https://www.srf.ch/static/cms/images//320ws/5ed18e.webp",
+     "aggregator": false,
+     "published": "2026-11-12T19:53:16+00:00"
+    },
+    {
+     "source": "tagesschau.de",
+     "region": "DE",
+     "weight": 0.6,
+     "title": "Nvidia-Chef Huang tritt nach Spionageaffäre zurück",
+     "summary": "Nvidia-Chef Huang tritt nach Spionageaffäre zurück tagesschau.de Nvidia: Huang-Affäre könnte zu Trump-Skandal werden tagesschau.de Nvidia-Affäre: Jensen Huang und Trumps Handelsminister Lutnick müssen sich im Senat erklären Spiegel Nvidia: Insider berichten von dritter Affäre Jensen Huangs – wieder mit einer Nvidia-Mitarbeiterin WELT Nvidia-Skandal: Singapur verbietet mutmaßlicher Spionin Alice Huang die Wiedereinreise DIE ZEIT",
+     "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPWUhqQzY4a0J4MDFUYnBRS3p4dUpqSzliSU04Sm5qRHB0RWl5bXhPWkpNU0NlcUFmVkRmMzNJb1VOeUhmOXJNXzNoejB3dWVMNThjeXpVV0ctTndnaXFWYkRhYzVqQ0UxZEZ4MFRLSThZb1lNQXV0MkV2aTFoa01kMVVvMk11RE9f?oc=5",
+     "image": null,
+     "aggregator": true,
+     "published": "2026-11-12T17:20:00+00:00"
+    }
+   ]
+  },
+  {
+   "id": 12,
+   "score": 9.51,
+   "outlets": [
+    "tagesschau Inland",
+    "Deutsche Welle",
+    "SRF News"
+   ],
+   "regions": [
+    "CH",
+    "DE",
+    "INT"
+   ],
+   "trend": [],
+   "newest": "2026-11-13T03:30:06+00:00",
+   "articles": [
+    {
+     "source": "tagesschau Inland",
+     "region": "DE",
+     "weight": 1.0,
+     "title": "Warum sitzt Deutschland in Abu Dhabi nicht am Verhandlungstisch?",
+     "summary": "Derzeit treffen sich in Abu Dhabi Vertreter der Ukraine, Russlands und der USA, um Gespräche über ein Ende des Krieges wieder aufzunehmen. Europa scheint im Abseits, obwohl Deutschland der größte Unterstützer der Ukraine ist. Von N. Markwald.",
+     "link": "https://www.tagesschau.de/inland/innenpolitik/deutschland-rolle-ukraine-gespraeche-100.html",
+     "image": "https://images.tagesschau.de/image/59c612e1-678f-4aed-bbfb-7469096f2544/AAABocTEhrw/AAABnSSvrFg/16x9-big/merz-selenskyj-144.jpg?width=1920",
+     "aggregator": false,
+     "published": "2026-11-10T14:15:52+00:00"
+    },
+    {
+     "source": "tagesschau Ausland",
+     "region": "INT",
+     "weight": 1.0,
+     "title": "Gespräche in Abu Dhabi: Gedämpfte Erwartungen der Ukraine",
+     "summary": "Heute beginnen trilaterale Verhandlungen in Abu Dhabi. Können die Gespräche mit den USA und Russland einen echten Frieden bringen - oder führen sie zu einer Schwächung der Ukraine? Die Erwartungen in der Ukraine sind gering. Von F. Kellermann.",
+     "link": "https://www.tagesschau.de/ausland/europa/ukraine-erwartungen-gespraeche-100.html",
+     "image": "https://images.tagesschau.de/image/359f2fcf-a8ed-44fb-99fc-36c901fb94da/AAABocLfjcw/AAABnSSvrFg/16x9-big/ukraine-kiew-flagge-100.jpg?width=1920",
+     "aggregator": false,
+     "published": "2026-11-10T01:13:48+00:00"
+    },
+    {
+     "source": "Deutsche Welle",
+     "region": "INT",
+     "weight": 0.95,
+     "title": "Gespräche in Abu Dhabi: Was haben sie der Ukraine gebracht?",
+     "summary": "Die ersten trilateralen Gespräche zwischen der Ukraine, den USA und Russland seit neun Monaten endeten mit einer Einigung über einen Gefangenenaustausch. Ist das Ergebnis ein echter Erfolg und ein Schritt zum Frieden?",
+     "link": "https://www.dw.com/de/gespräche-in-abu-dhabi-was-haben-sie-der-ukraine-gebracht/a-79927783?maca=de-rss-de-all-1119-xml-mrss",
+     "image": "https://static.dw.com/image/79918396_302.jpg",
+     "aggregator": false,
+     "published": "2026-11-12T12:07:00+00:00"
+    },
+    {
+     "source": "SRF News",
+     "region": "CH",
+     "weight": 0.95,
+     "title": "Krieg in der Ukraine – Selenski will Europa mit am Verhandlungstisch haben",
+     "summary": "Wolodimir Selenski hofft bei den nächsten Friedensgesprächen mit Russland auf Verhandlungen über eine Waffenruhe.",
+     "link": "https://www.srf.ch/news/international/ukraine/krieg-in-der-ukraine-selenski-will-europa-mit-am-verhandlungstisch-haben",
+     "image": "https://www.srf.ch/static/cms/images//320ws/bc52212.webp",
+     "aggregator": false,
+     "published": "2026-11-13T03:30:06+00:00"
+    },
+    {
+     "source": "SRF News",
+     "region": "CH",
+     "weight": 0.95,
+     "title": "Verhandlungen zu Ukraine-Krieg – Die Gespräche in Abu Dhabi sind beendet – so geht es weiter",
+     "summary": "Delegationen aus Russland und der Ukraine haben erstmals wieder miteinander verhandelt. Die wichtigsten Punkte.",
+     "link": "https://www.srf.ch/news/international/verhandlungen-zu-ukraine-krieg-die-gespraeche-in-abu-dhabi-sind-beendet-so-geht-es-weiter",
+     "image": "https://www.srf.ch/static/cms/images//320ws/016f7d.webp",
+     "aggregator": false,
+     "published": "2026-11-11T15:03:00+00:00"
+    }
+   ]
+  },
+  {
+   "id": 13,
+   "score": 9.48,
+   "outlets": [
+    "Deutschlandfunk",
+    "ORF",
+    "DER STANDARD"
+   ],
+   "regions": [
+    "AT",
+    "DE"
+   ],
+   "trend": [],
+   "newest": "2026-11-13T04:18:57+00:00",
+   "articles": [
+    {
+     "source": "Deutschlandfunk",
+     "region": "DE",
+     "weight": 0.95,
+     "title": "Dublin - Charta von 39 Europäischen Staaten: Erst nach Ende des Ukraine-Kriegs mit Russland über zentrale Sicherheitsfragen sprechen",
+     "summary": "Deutschland und zahlreiche weitere europäische Staaten wollen erst nach einem Ende des Ukraine-Kriegs mit Russland über zentrale Sicherheitsfragen sprechen.",
+     "link": "https://www.deutschlandfunk.de/charta-von-39-europaeischen-staaten-erst-nach-ende-des-ukraine-kriegs-mit-russland-ueber-zentrale-si-100.html",
+     "image": "https://bilder.deutschlandfunk.de/f6/f9/4e/99/f6f94e99-092d-42b9-bcd9-90453fd4fe48/europaeische-politische-gemeinschaft-dublin-100-1920x1920.jpg",
+     "aggregator": false,
+     "published": "2026-11-13T04:18:57+00:00"
+    },
+    {
+     "source": "ORF",
+     "region": "AT",
+     "weight": 0.95,
+     "title": "Europäische Staaten: „Schlüsselprinzipien“ für Sicherheit",
+     "summary": "",
+     "link": "https://orf.at/stories/3448032/",
+     "image": null,
+     "aggregator": false,
+     "published": "2026-11-12T16:23:03+00:00"
+    },
+    {
+     "source": "DER STANDARD",
+     "region": "AT",
+     "weight": 0.85,
+     "title": "39 europäische Länder beschließen Charta mit \"Schlüsselprinzipien\" für Sicherheit",
+     "summary": "Auf Initiative von Frankreich wurde festgelegt, wie die Sicherheit von Europa in Zukunft gefestigt werden soll. Europäische Staaten sollen größere Verantwortung übernehmen",
+     "link": "https://www.derstandard.at/story/3000000349050/39-europ228ische-l228nder-legen-schl252sselprinzipien-f252r-sicherheit-fest?ref=rss",
+     "image": "https://i.ds.at/bKIuJg/rs:fill:150:0/plain/lido-images/2026/11/12/46d4bc6c-0185-4224-9303-3bfe3f5e94d1.jpg",
+     "aggregator": false,
+     "published": "2026-11-12T22:13:17+00:00"
+    }
+   ]
+  },
+  {
+   "id": 14,
+   "score": 9.4,
+   "outlets": [
+    "SPIEGEL",
+    "WirtschaftsWoche",
+    "DER STANDARD",
+    "WELT",
+    "n-tv"
+   ],
+   "regions": [
+    "AT",
+    "DE"
+   ],
+   "trend": [],
+   "newest": "2026-11-12T18:49:17+00:00",
+   "articles": [
+    {
+     "source": "SPIEGEL",
+     "region": "DE",
+     "weight": 0.9,
+     "title": "VW verdient offenbar nur noch zwölf Euro pro verkauftem Auto",
+     "summary": "Sonderbelastungen drücken bei Volkswagen die Gewinnmarge einer Studie zufolge praktisch auf null. Der Konzern steht beim Verdienst demnach auch nicht besonders gut da, wenn man die Zusatzlasten herausrechnet.",
+     "link": "https://www.spiegel.de/wirtschaft/unternehmen/vw-verdient-offenbar-nur-noch-zwoelf-euro-pro-verkauftem-auto-a-0ac7334b-310b-4179-9a69-4ba1d62ddf7b#ref=rss",
+     "image": "https://cdn.prod.www.spiegel.de/images/c483d2cb-256f-4374-b70b-a3f4d803b53d_w520_r2.08_fpx33.34_fpy50.jpg",
+     "aggregator": false,
+     "published": "2026-11-12T15:59:00+00:00"
+    },
+    {
+     "source": "WirtschaftsWoche",
+     "region": "DE",
+     "weight": 0.85,
+     "title": "Automobilindustrie: VW verdient nur noch zwölf Euro je verkauftem Auto",
+     "summary": "Volkswagen kämpft mit schwachen Renditen und hohen Sonderbelastungen. Auch bei vielen anderen Autobauern schrumpfen die Gewinne.",
+     "link": "https://www.wiwo.de/unternehmen/auto/automobilindustrie-vw-verdient-nur-noch-zwoelf-euro-je-verkauftem-auto/100269483.html",
+     "image": "https://images.wiwo.de/dZJ08s4EyA-G/cover/900/506/0/0/209/209/0.5/0.5/glaeserne-manufaktur-von-volkswagen-dresden-10.09.2026-das-logo-von-volkswagen-ist-an-der-glaesernen.jpg",
+     "aggregator": false,
+     "published": "2026-11-12T15:36:30+00:00"
+    },
+    {
+     "source": "DER STANDARD",
+     "region": "AT",
+     "weight": 0.85,
+     "title": "Deutscher Autobauer VW verdient laut Studie nur noch zwölf Euro pro verkauftem Auto",
+     "summary": "Grund dafür seien die Sonderbelastungen in Höhe von 8,7 Milliarden Euro. Im Branchendurchschnitt liegen die Gewinne pro Auto bei 1.363 Euro",
+     "link": "https://www.derstandard.at/story/3000000349002/vw-verdient-nur-noch-zw246lf-euro-je-verkauftem-auto-studie?ref=rss",
+     "image": "https://i.ds.at/pLD5eg/rs:fill:150:0/plain/lido-images/2026/11/12/fa519c16-7ee0-4e55-a573-4eaaecfa05a7.jpg",
+     "aggregator": false,
+     "published": "2026-11-12T15:21:25+00:00"
+    },
+    {
+     "source": "WELT",
+     "region": "DE",
+     "weight": 0.8,
+     "title": "VW verdient offenbar nur noch zwölf Euro pro verkauftem Auto – Mercedes macht das 350‑Fache",
+     "summary": "Volkswagen liegt beim Gewinn einer Studie zufolge weit unter dem Branchenschnitt. Je Auto verdient der Autobauer nur noch zwölf Euro. Mercedes hingegen konnte seinen Gewinn pro Auto um 31 Prozent steigern.",
+     "link": "https://www.welt.de/wirtschaft/article6af60601c45061d752ba8ed5/vw-verdient-offenbar-nur-noch-zwoelf-euro-pro-verkauftem-auto.html",
+     "image": "https://images.welt.de/6af60601c45061d752ba8ed5/c181b9a08ccf8354d5d985de4cff3eae-master/ci23x11-w1200/2026-10-29t134538z-1979940284-rc219oa2k0lz-rtrmadp-3-volkswagen-india-tax-jpg",
+     "aggregator": false,
+     "published": "2026-11-12T18:49:17+00:00"
+    },
+    {
+     "source": "n-tv",
+     "region": "DE",
+     "weight": 0.8,
+     "title": "Wegen hoher Sonderbelastungen: VW soll pro verkauftem Auto nur Mini-Betrag verdienen",
+     "summary": "Wenn ein Volkswagen verkauft wird, verdient der Konzern daran laut einer Untersuchung fast nichts. Bei zwei großen deutschen Konkurrenten sieht es hingegen deutlich besser aus.",
+     "link": "https://www.n-tv.de/wirtschaft/VW-soll-pro-verkauftem-Auto-nur-Mini-Betrag-verdienen-id31527106.html",
+     "image": "https://www.n-tv.de/img/31527269/1794500121/Img_4_3/250/81912354.jpg",
+     "aggregator": false,
+     "published": "2026-11-12T15:56:23+00:00"
+    }
+   ]
+  },
+  {
+   "id": 15,
+   "score": 9.38,
+   "outlets": [
+    "Deutschlandfunk",
+    "Handelsblatt",
+    "WirtschaftsWoche"
+   ],
+   "regions": [
+    "DE"
+   ],
+   "trend": [],
+   "newest": "2026-11-13T04:18:57+00:00",
+   "articles": [
+    {
+     "source": "Deutschlandfunk",
+     "region": "DE",
+     "weight": 0.95,
+     "title": "Börsen - EU-Parlament stimmt gegen neue Schutzregeln für Kleinanleger",
+     "summary": "Das Europäische Parlament hat mit knapper Mehrheit überraschend gegen neue Schutz- und Transparenzregeln für Kleinanleger gestimmt.",
+     "link": "https://www.deutschlandfunk.de/eu-parlament-stimmt-gegen-neue-schutzregeln-fuer-kleinanleger-108.html",
+     "image": "https://bilder.deutschlandfunk.de/NO/VA/_2/11/NOVA_211d3968845cdcc3ed34b23f1cf76591/craft-12401608-asset-100-1920x1920.jpg",
+     "aggregator": false,
+     "published": "2026-11-13T04:18:57+00:00"
+    },
+    {
+     "source": "Handelsblatt",
+     "region": "DE",
+     "weight": 0.9,
+     "title": "Kapitalmärkte: EU-Parlament stimmt gegen neue Schutzregeln für Kleinanleger",
+     "summary": "Mehr Infos zu Finanzprodukten sollten Anlegern helfen. EU-Abgeordnete lehnten neue Regeln aber ab - sie sehen zu viel Bürokratie und zu wenig Schutz. Was hinter dem überraschenden Nein steckt.",
+     "link": "https://www.handelsblatt.com/politik/deutschland/kapitalmaerkte-eu-parlament-stimmt-gegen-neue-schutzregeln-fuer-kleinanleger/100269489.html",
+     "image": "https://images.handelsblatt.com/9xUW7ABQ2bqc/cover/900/506/0/0/104/104/0.5/0.5/europaeisches-parlament.jpg",
+     "aggregator": false,
+     "published": "2026-11-12T17:51:47+00:00"
+    },
+    {
+     "source": "WirtschaftsWoche",
+     "region": "DE",
+     "weight": 0.85,
+     "title": "Kapitalmärkte: EU-Parlament stimmt gegen neue Schutzregeln für Kleinanleger",
+     "summary": "Mehr Infos zu Finanzprodukten sollten Anlegern helfen. EU-Abgeordnete lehnten neue Regeln aber ab – sie sehen zu viel Bürokratie und zu wenig Schutz. Was hinter dem überraschenden Nein steckt.",
+     "link": "https://www.wiwo.de/politik/europa/kapitalmaerkte-eu-parlament-stimmt-gegen-neue-schutzregeln-fuer-kleinanleger/100269492.html",
+     "image": "https://images.wiwo.de/UOQbtnXeZ0Dn/cover/900/506/0/0/305/304/0.5/0.5/archiv-21.05.2026-belgien-bruessel-eine-person-laeuft-vor-dem-europaeischen-parlament-in-bruessel-v.jpg",
+     "aggregator": false,
+     "published": "2026-11-12T15:42:04+00:00"
+    }
+   ]
+  },
+  {
+   "id": 16,
+   "score": 9.31,
+   "outlets": [
+    "tagesschau",
+    "ZEIT ONLINE",
+    "Süddeutsche"
+   ],
+   "regions": [
+    "DE",
+    "INT"
+   ],
+   "trend": [],
+   "newest": "2026-11-13T03:31:17+00:00",
+   "articles": [
+    {
+     "source": "tagesschau",
+     "region": "DE",
+     "weight": 1.0,
+     "title": "US-Unterhändler kündigen Europas Beteiligung bei Ukraine-Verhandlungen an",
+     "summary": "Von Putin zu Selenskyj - die US-Unterhändler Kushner und Witkoff kommen mit Ankündigungen aus Moskau nach Dublin. Bei den Verhandlungen sollen künftig auch die Europäer teilnehmen.",
+     "link": "https://www.tagesschau.de/ausland/europa/epg-ukraine-usa-europa-100.html",
+     "image": "https://images.tagesschau.de/image/e23f9c75-5489-413a-b3d2-c23c8e6f730d/AAABodH246k/AAABnSSvrFg/16x9-big/dublin-epg-100.jpg?width=1920",
+     "aggregator": false,
+     "published": "2026-11-13T02:19:34+00:00"
+    },
+    {
+     "source": "tagesschau",
+     "region": "DE",
+     "weight": 1.0,
+     "title": "EPG-Treffen in Dublin: Momentum für Friedensverhandlungen?",
+     "summary": "Das Treffen in Dublin bringt neue Dynamik in die Friedensverhandlungen - am Abend kommen noch die US-Unterhändler Witkoff und Kushner aus Moskau angereist. NATO-Chef Rutte sieht Fortschritte. Von K. Schmid.",
+     "link": "https://www.tagesschau.de/ausland/europa/epg-dublin-momentum-100.html",
+     "image": "https://images.tagesschau.de/image/199ed634-ce58-43da-a5cb-c7b673f628a0/AAABodI8Qn0/AAABnSSvrFg/16x9-big/epg-dublin-100.jpg?width=1920",
+     "aggregator": false,
+     "published": "2026-11-13T01:22:12+00:00"
+    },
+    {
+     "source": "tagesschau Ausland",
+     "region": "INT",
+     "weight": 1.0,
+     "title": "EPG-Treffen in Dublin: Momentum für Friedensverhandlungen?",
+     "summary": "Das Treffen in Dublin bringt neue Dynamik in die Friedensverhandlungen - am Abend kommen noch die US-Unterhändler Witkoff und Kushner aus Moskau angereist. NATO-Chef Rutte sieht Fortschritte. Von K. Schmid.",
+     "link": "https://www.tagesschau.de/ausland/europa/epg-dublin-momentum-100.html",
+     "image": "https://images.tagesschau.de/image/199ed634-ce58-43da-a5cb-c7b673f628a0/AAABodI8Qn0/AAABnSSvrFg/16x9-big/epg-dublin-100.jpg?width=1920",
+     "aggregator": false,
+     "published": "2026-11-13T01:22:12+00:00"
+    },
+    {
+     "source": "tagesschau Ausland",
+     "region": "INT",
+     "weight": 1.0,
+     "title": "US-Unterhändler kündigen Europas Beteiligung bei Ukraine-Verhandlungen an",
+     "summary": "Von Putin zu Selenskyj - die US-Unterhändler Kushner und Witkoff kommen mit Ankündigungen aus Moskau nach Dublin. Bei den Verhandlungen sollen künftig auch die Europäer teilnehmen.",
+     "link": "https://www.tagesschau.de/ausland/europa/epg-ukraine-usa-europa-100.html",
+     "image": "https://images.tagesschau.de/image/e23f9c75-5489-413a-b3d2-c23c8e6f730d/AAABodH246k/AAABnSSvrFg/16x9-big/dublin-epg-100.jpg?width=1920",
+     "aggregator": false,
+     "published": "2026-11-13T02:19:34+00:00"
+    },
+    {
+     "source": "ZEIT ONLINE",
+     "region": "DE",
+     "weight": 0.9,
+     "title": "Ukrainekrieg: Europa soll künftig bei Gesprächen von Ukraine und Russland dabei sein",
+     "summary": "Die US-Unterhändler Kushner und Witkoff treffen in Dublin Selenskyj sowie Vertreter Europas. Kushner kündigt den größten Gefangenenaustausch im Ukrainekrieg an.",
+     "link": "https://www.zeit.de/politik/ausland/2026-11/ukraine-russland-gespraeche-usa-jared-kushner-steve-witkoff-waffenruhe-gefangenenaustausch",
+     "image": "https://img.zeit.de/politik/ausland/2026-11/ukraine-russland-gespraeche-usa-jared-kushner-steve-witkoff-waffenruhe-gefangenenaustausch-foto-1/original__640x360",
+     "aggregator": false,
+     "published": "2026-11-13T03:31:17+00:00"
+    },
+    {
+     "source": "Süddeutsche",
+     "region": "DE",
+     "weight": 0.9,
+     "title": "Krieg in der Ukraine: USA: Putin will Europa an den Verhandlungstisch lassen",
+     "summary": "Der US-Unterhändler Jared Kushner, Schwiegersohn von Donald Trump, berichtet in Dublin von der Zustimmung des Kreml. Wer die Europäer bei einem Treffen zu Ukraine-Friedensgesprächen vertritt, ist offen.",
+     "link": "https://www.sueddeutsche.de/politik/ukraine-krieg-newsblog-selenskij-stoerungen-starshield-dublin-europaeer-li.3571967",
+     "image": "https://www.sueddeutsche.de/2026/11/13/1fb6ad3c-59e7-4ad4-bce8-aaa6c54798b4.jpg?rect=222%2C0%2C3556%2C2667&width=1000&fm=jpg&q=60",
+     "aggregator": false,
+     "published": "2026-11-13T03:02:11+00:00"
+    }
+   ]
+  },
+  {
+   "id": 17,
+   "score": 9.28,
+   "outlets": [
+    "Deutschlandfunk",
+    "SPIEGEL",
+    "WELT"
+   ],
+   "regions": [
+    "DE"
+   ],
+   "trend": [],
+   "newest": "2026-11-13T04:18:57+00:00",
+   "articles": [
+    {
+     "source": "Deutschlandfunk",
+     "region": "DE",
+     "weight": 0.95,
+     "title": "Spionageaffäre - US-Senat lädt Ex-Nvidia-Chef Jensen Huang und Handelsminister Howard Lutnick vor",
+     "summary": "Der in eine Spionageaffäre verwickelte Ex-Chef des Chipherstellers Nvidia, Huang, ist aufgefordert worden, im ​Bankenausschuss des US-Senats auszusagen.",
+     "link": "https://www.deutschlandfunk.de/us-senat-laedt-ex-nvidia-chef-jensen-huang-und-handelsminister-howard-lutnick-vor-102.html",
+     "image": "https://bilder.deutschlandfunk.de/3f/35/97/88/3f359788-e2f4-4bb5-a266-31356967057e/nvidia-jensen-huang-102-1920x1920.jpg",
+     "aggregator": false,
+     "published": "2026-11-13T04:18:57+00:00"
+    },
+    {
+     "source": "SPIEGEL",
+     "region": "DE",
+     "weight": 0.9,
+     "title": "Nvidia-Affäre: Jensen Huang und Trumps Handelsminister Lutnick müssen sich im Senat erklären",
+     "summary": "Es gibt dringende Fragen zur nationalen Sicherheit: Der Skandal um Nvidia ist für den abgetretenen Jensen Huang noch längst nicht ausgestanden. Und auch Minister Howard Lutnick muss sich erklären.",
+     "link": "https://www.spiegel.de/ausland/nvidia-affaere-jensen-huang-und-trumps-handelsminister-lutnick-muessen-sich-im-senat-erklaeren-a-14e96682-03e3-4763-a673-f16a0bcfd5d1#ref=rss",
+     "image": "https://cdn.prod.www.spiegel.de/images/a9150c3b-fe78-423d-a8ff-0b353e7265fa_w520_r2.08_fpx37.36_fpy50.jpg",
+     "aggregator": false,
+     "published": "2026-11-13T04:04:00+00:00"
+    },
+    {
+     "source": "WELT",
+     "region": "DE",
+     "weight": 0.8,
+     "title": "Ex-Chef Jensen Huang hatte weitere Affären – Vorladung vom US-Senat",
+     "summary": "Insider berichten von einer dritten Affäre des Ex-Nvidia-Chefs Jensen Huang. Jetzt lädt ihn der Bankenausschuss des US-Senats vor. Durch den Skandal gerät Handelsminister Howard Lutnick schwer unter Druck.",
+     "link": "https://www.welt.de/wirtschaft/article6af62a7550175c81de7a4694/nvidia-insider-berichten-von-dritter-affaere-jensen-huangs-wieder-mit-einer-nvidia-mitarbeiterin.html",
+     "image": "https://images.welt.de/6af62a7550175c81de7a4694/40393f8af5c6be459a14eee1ec77f2b6-master/ci23x11-w1200/2026-11-12t150504z-281352652-rc2er4aen808-rtrmadp-3-nvidia-ceo-jpg",
+     "aggregator": false,
+     "published": "2026-11-12T21:33:08+00:00"
+    }
+   ]
+  },
+  {
+   "id": 18,
+   "score": 9.05,
+   "outlets": [
+    "ORF",
+    "SRF News",
+    "SPIEGEL",
+    "NZZ"
+   ],
+   "regions": [
+    "AT",
+    "CH",
+    "DE"
+   ],
+   "trend": [],
+   "newest": "2026-11-12T21:19:48+00:00",
+   "articles": [
+    {
+     "source": "ORF",
+     "region": "AT",
+     "weight": 0.95,
+     "title": "Schüsse in Washington: Ein Toter, mehrere Verletzte",
+     "summary": "",
+     "link": "https://orf.at/stories/3448021/",
+     "image": null,
+     "aggregator": false,
+     "published": "2026-11-12T14:16:50+00:00"
+    },
+    {
+     "source": "SRF News",
+     "region": "CH",
+     "weight": 0.95,
+     "title": "Hintergründe unklar – Mehrere Menschen in Washington angeschossen – ein Toter",
+     "summary": "Bei Schüssen in der US-Hauptstadt wurden vier Personen verletzt. Der mutmassliche Täter starb laut Polizei.",
+     "link": "https://www.srf.ch/news/international/hintergruende-unklar-mehrere-menschen-in-washington-angeschossen-ein-toter",
+     "image": "https://www.srf.ch/static/cms/images//320ws/6669f4.webp",
+     "aggregator": false,
+     "published": "2026-11-12T21:19:48+00:00"
+    },
+    {
+     "source": "SPIEGEL",
+     "region": "DE",
+     "weight": 0.9,
+     "title": "Washington, D.C.: Tote und Verletzte nach Schüssen",
+     "summary": "In einem beliebten Viertel der US-Hauptstadt sind in und um ein Fitnessstudio Schüsse gefallen. Ein Mensch starb, vier wurden verletzt. Auch der mutmaßliche Schütze soll tot sein.",
+     "link": "https://www.spiegel.de/panorama/justiz/washington-d-c-tote-und-verletzte-nach-schuessen-a-be122998-7870-4981-889f-8b6f1e785d7c#ref=rss",
+     "image": "https://cdn.prod.www.spiegel.de/images/686e35d8-373b-40b2-9429-7cc9a5a46e1f_w520_r2.08_fpx30.73_fpy49.84.jpg",
+     "aggregator": false,
+     "published": "2026-11-12T17:11:00+00:00"
+    },
+    {
+     "source": "NZZ",
+     "region": "CH",
+     "weight": 0.9,
+     "title": "DIE NEUESTEN ENTWICKLUNGEN - Gewalt und Waffen in den USA: Ein Toter und mehrere Verletzte nach Schüssen in Washington",
+     "summary": "In keinem anderen Land sind Schusswaffen und die damit verübten Massaker so verbreitet wie in den USA. Warum ist das so? Dies sind die Nachrichten sowie die wichtigsten Zahlen und Fakten zur amerikanischen Schusswaffengewalt.",
+     "link": "https://www.nzz.ch/international/gewalt-und-waffen-in-den-usa-laut-medien-fuenf-tote-bei-gewalttat-an-grundschule-in-oregon-ld.1699190",
+     "image": "https://img-msp-prod.nzz.ch/2026/10/16/1a2fcc58-c544-44d7-85b2-6a3a3316f0d4.jpg?width=200&height=200&fit=bounds&quality=75&auto=webp&crop=2800,2800,x0,y0",
+     "aggregator": false,
+     "published": "2026-11-12T16:07:40+00:00"
+    }
+   ]
+  },
+  {
+   "id": 19,
+   "score": 8.78,
+   "outlets": [
+    "Handelsblatt",
+    "WELT",
+    "n-tv"
+   ],
+   "regions": [
+    "DE"
+   ],
+   "trend": [],
+   "newest": "2026-11-13T03:42:44+00:00",
+   "articles": [
+    {
+     "source": "Handelsblatt",
+     "region": "DE",
+     "weight": 0.9,
+     "title": "Ukraine-Krieg: USA: Putin will Europäer an den Verhandlungstisch lassen",
+     "summary": "Welcher Europäer würde bei einem Treffen von Putin, Selenskyj und Trump mit am Tisch sitzen? Neue Entwicklungen bringen zusätzliche Brisanz in eine ohnehin schwierige Debatte.",
+     "link": "https://www.handelsblatt.com/politik/international/ukraine-krieg-usa-putin-will-europaeer-an-den-verhandlungstisch-lassen/100269283.html",
+     "image": "https://images.handelsblatt.com/3CXly6fLT2W0/cover/900/506/0/0/107/106/0.5/0.5/witkoff-und-kushner-treffen-selenskyj-in-dublin.jpg",
+     "aggregator": false,
+     "published": "2026-11-13T02:14:14+00:00"
+    },
+    {
+     "source": "WELT",
+     "region": "DE",
+     "weight": 0.8,
+     "title": "Putin bereit für Europäer am Verhandlungstisch – Selenskyj sieht das als Fortschritt",
+     "summary": "Wladimir Putin soll zugestimmt haben, dass die Europäer künftig mit einer Stimme mit am Tisch sitzen, wenn es um Verhandlungen über ein Ende des Ukraine-Krieges geht. Aus Moskau klingt das etwas verhaltener.",
+     "link": "https://www.welt.de/politik/ausland/article6af64bb850175c81de7a47da/us-unterhaendler-putin-bereit-fuer-europaeer-am-verhandlungstisch-selenskyj-sieht-das-als-fortschritt.html",
+     "image": "https://images.welt.de/6af64bb850175c81de7a47da/ee042f3c155dfe56f7c25af9c68ee93f-master/ci23x11-w1200/1794521652313-afp-d7c63v7-jpg",
+     "aggregator": false,
+     "published": "2026-11-12T23:40:02+00:00"
+    },
+    {
+     "source": "n-tv",
+     "region": "DE",
+     "weight": 0.8,
+     "title": "Ankündigung von Kushner: Putin will Europäer angeblich an den Verhandlungstisch lassen",
+     "summary": "Bislang sind die Europäer nur Zaungäste, wenn unter der Führung der USA über einen Waffenstillstand in der Ukraine verhandelt wird. In Zukunft sollen Vertreter des Kontinents mitreden, verspricht US-Unterhändler Kushner. Das wirft allerdings schwierige Fragen auf.",
+     "link": "https://www.n-tv.de/politik/Putin-will-Europaeer-angeblich-an-den-Verhandlungstisch-lassen-id31528778.html",
+     "image": "https://www.n-tv.de/img/31528788/1794544496/Img_4_3/250/image.jpg",
+     "aggregator": false,
+     "published": "2026-11-13T03:42:44+00:00"
+    }
+   ]
+  },
+  {
+   "id": 20,
+   "score": 8.6,
+   "outlets": [
+    "tagesschau",
+    "ZDFheute",
+    "SPIEGEL",
+    "NZZ"
+   ],
+   "regions": [
+    "CH",
+    "DE",
+    "INT"
+   ],
+   "trend": [],
+   "newest": "2026-11-12T18:26:00+00:00",
+   "articles": [
+    {
+     "source": "tagesschau",
+     "region": "DE",
+     "weight": 1.0,
+     "title": "Jugendlicher überlebt sechs Tage im australischen Outback",
+     "summary": "Fast eine Woche haben 100 Einsatzkräfte im australischen Busch nach einem vermissten Teenager gesucht. Jetzt wurde er aus der Luft entdeckt - lebend, nur mit ein paar Kratzern und Sonnenbrand.",
+     "link": "https://www.tagesschau.de/ausland/australien-teenager-wildnis-100.html",
+     "image": "https://images.tagesschau.de/image/e434b1b1-41b0-4e99-8b75-839f51b23de7/AAABodCbceE/AAABnSSvrFg/16x9-big/rettung-william-australien-100.jpg?width=1920",
+     "aggregator": false,
+     "published": "2026-11-12T11:23:50+00:00"
+    },
+    {
+     "source": "tagesschau Ausland",
+     "region": "INT",
+     "weight": 1.0,
+     "title": "Jugendlicher überlebt sechs Tage im australischen Outback",
+     "summary": "Fast eine Woche haben 100 Einsatzkräfte im australischen Busch nach einem vermissten Teenager gesucht. Jetzt wurde er aus der Luft entdeckt - lebend, nur mit ein paar Kratzern und Sonnenbrand.",
+     "link": "https://www.tagesschau.de/ausland/australien-teenager-wildnis-100.html",
+     "image": "https://images.tagesschau.de/image/e434b1b1-41b0-4e99-8b75-839f51b23de7/AAABodCbceE/AAABnSSvrFg/16x9-big/rettung-william-australien-100.jpg?width=1920",
+     "aggregator": false,
+     "published": "2026-11-12T11:23:50+00:00"
+    },
+    {
+     "source": "ZDFheute",
+     "region": "DE",
+     "weight": 1.0,
+     "title": "17-Jähriger überlebt sechs Tage im australischen Outback",
+     "summary": "Rettungskräfte haben den 17-jährigen William von einem Felsen im australischen Outback gerettet. Bei einem Campingausflug war er einen Abhang hinuntergestürzt.",
+     "link": "https://www.zdfheute.de/video/teenager-ueberlebt-outback-video-100.html",
+     "image": "https://www.zdfheute.de/assets/teenager-outback-rettung-100~384x216?cb=1794485831797",
+     "aggregator": false,
+     "published": "2026-11-12T17:05:00+00:00"
+    },
+    {
+     "source": "SPIEGEL",
+     "region": "DE",
+     "weight": 0.9,
+     "title": "Australien: Vermisster Jugendlicher nach sechs Tagen im Outback lebend gefunden",
+     "summary": "Sechs Tage und Nächte war der 17-jährige William im australischen Buschland verschollen – ohne Handy. Diese Aufnahmen zeigen den Moment seiner Rettung.",
+     "link": "https://www.spiegel.de/ausland/australien-vermisster-jugendlicher-nach-sechs-tagen-im-outback-lebend-gefunden-a-89620def-7815-4e93-9cca-a200c32805eb#ref=rss",
+     "image": "https://cdn.prod.www.spiegel.de/images/7afd93fc-c36a-4ccc-b78e-b7eba8745881_w520_r2.08_fpx50_fpy50.63.jpg",
+     "aggregator": false,
+     "published": "2026-11-12T18:26:00+00:00"
+    },
+    {
+     "source": "NZZ",
+     "region": "CH",
+     "weight": 0.9,
+     "title": "VIDEO - Jugendlicher überlebt sechs Tage alleine im australischen Outback",
+     "summary": "Ein Jugendlicher verschwand in Australien bei einem Campingausflug – fast eine Woche später fanden ihn Einsatzkräfte in Cowwarr lebend. Abgesehen von Sonnenbrand und ein paar Kratzern überstand der junge Mann die Tage in der Wildnis unbeschadet.",
+     "link": "https://www.nzz.ch/shorts/jugendlicher-ueberlebt-sechs-tage-alleine-im-australischen-outback-ld.10062353",
+     "image": "https://img-msp-prod.nzz.ch/2026/11/12/b388852d-18bb-49c8-8658-bdd7c724e8aa.jpg?width=200&height=200&fit=bounds&quality=75&auto=webp&crop=1080,1080,x0,y316",
+     "aggregator": false,
+     "published": "2026-11-12T16:38:38+00:00"
+    }
+   ]
+  },
+  {
+   "id": 21,
+   "score": 8.53,
+   "outlets": [
+    "ZDFheute",
+    "Süddeutsche",
+    "WELT",
+    "n-tv"
+   ],
+   "regions": [
+    "DE"
+   ],
+   "trend": [],
+   "newest": "2026-11-12T20:59:03+00:00",
+   "articles": [
+    {
+     "source": "ZDFheute",
+     "region": "DE",
+     "weight": 1.0,
+     "title": "Klopp: Nmecha will auf \"Kronen\"-Jubel verzichten",
+     "summary": "Der umstrittene Torjubel von Felix Nmecha beschäftigt auch das DFB-Team. Vor dem Serbien-Spiel verkündet Bundestrainer Klopp das Ergebnis seines Gesprächs mit dem BVB-Star.",
+     "link": "https://www.zdfheute.de/sport/fussball-nations-league/klopp-nmecha-torjubel-verzicht-100.html",
+     "image": "https://www.zdfheute.de/assets/felix-nmecha-torjubel-102~384x216?cb=1794510036471",
+     "aggregator": false,
+     "published": "2026-11-12T18:56:00+00:00"
+    },
+    {
+     "source": "Süddeutsche",
+     "region": "DE",
+     "weight": 0.9,
+     "title": "Jürgen Klopp zu Felix Nmecha: „Deswegen wird er so nicht mehr jubeln“",
+     "summary": "Am Abend vor dem Nationsleague-Spiel in Belgrad gibt Bundestrainer Jürgen Klopp Einblicke in die Hintergründe zu Felix Nmechas umstrittener Kronen-Geste – und ein offenbar klärendes Gespräch.",
+     "link": "https://www.sueddeutsche.de/sport/klopp-nmecha-gespraech-serbien-deutschland-li.3579648",
+     "image": "https://www.sueddeutsche.de/2026/11/12/2f73b6e4-a449-41a0-b3cf-15d222c1ca7a.jpg?rect=223%2C0%2C3555%2C2666&width=1000&fm=jpg&q=60",
+     "aggregator": false,
+     "published": "2026-11-12T20:59:03+00:00"
+    },
+    {
+     "source": "WELT",
+     "region": "DE",
+     "weight": 0.8,
+     "title": "„Er will so nicht mehr jubeln“ – Klopp enthüllt Nmecha-Entscheidung",
+     "summary": "Vor dem Spiel in Serbien wird Jürgen Klopp zum Wirbel um Felix Nmechas Torjubel befragt. Er habe den BVB-Spieler konfrontiert, sagt der Bundestrainer. Ergebnis: Nmecha wird auf seine umstrittene Geste in Zukunft wohl verzichten.",
+     "link": "https://www.welt.de/sport/fussball/article6af606c450175c81de7a44f3/juergen-klopp-enthuellt-entscheidung-bei-felix-nmecha-er-will-so-nicht-mehr-jubeln.html",
+     "image": "https://images.welt.de/6af606c450175c81de7a44f3/3a5c20a0c1175a4690df9a55e088a0cc-master/ci23x11-w1200/621291826-jpg",
+     "aggregator": false,
+     "published": "2026-11-12T19:07:24+00:00"
+    },
+    {
+     "source": "n-tv",
+     "region": "DE",
+     "weight": 0.8,
+     "title": "\"Hab mir nichts dabei gedacht\": Polarisierender DFB-Star: Jürgen Klopp einigt sich mit Felix Nmecha",
+     "summary": "Felix Nmecha und sein umstrittener Jubel beherrschen seit Tagen die Medien. Auch beim DFB ist die \"Kronen\"-Geste des BVB-Stars Thema. Jürgen Klopp erklärt, wie das Gespräch mit Nmecha gelaufen ist und welche Konsequenzen es gibt.",
+     "link": "https://www.n-tv.de/sport/fussball/Polarisierender-DFB-Star-Juergen-Klopp-einigt-sich-mit-Felix-Nmecha-id31528152.html",
+     "image": "https://www.n-tv.de/img/31513346/1794510425/Img_4_3/250/image.jpg",
+     "aggregator": false,
+     "published": "2026-11-12T18:54:00+00:00"
+    },
+    {
+     "source": "n-tv",
+     "region": "DE",
+     "weight": 0.8,
+     "title": "\"... weil es die Fans spaltet\": Watzke fordert von Nmecha Verzicht auf umstrittenen Jubel",
+     "summary": "Felix Nmecha entfacht mit seinem Kronenjubel viel Wirbel. BVB-Boss Hans-Joachim Watzke hält die Geste für unangemessen und formuliert einen Rat an den Spieler.",
+     "link": "https://www.n-tv.de/sport/fussball/Watzke-fordert-von-Nmecha-Verzicht-auf-umstrittenen-Jubel-id31527008.html",
+     "image": "https://www.n-tv.de/img/31516041/1794345867/Img_4_3/250/632146108.jpg",
+     "aggregator": false,
+     "published": "2026-11-12T15:08:20+00:00"
+    }
+   ]
+  },
+  {
+   "id": 22,
+   "score": 8.3,
+   "outlets": [
+    "tagesschau",
+    "SRF News",
+    "heise online",
+    "DER STANDARD"
+   ],
+   "regions": [
+    "AT",
+    "CH",
+    "DE"
+   ],
+   "trend": [],
+   "newest": "2026-11-12T18:21:38+00:00",
+   "articles": [
+    {
+     "source": "tagesschau",
+     "region": "DE",
+     "weight": 1.0,
+     "title": "Rücktritt von Nvidia-Chef Huang: Vom Sympathieträger zum Sicherheitsrisiko",
+     "summary": "Er war nicht nur Chef, sondern auch Gesicht von Nvidia: Jensen Huang formte den Chip-Riesen maßgeblich - als \"sympathischer Tech-Bro\" mit guten Kontakten zur Trump-Regierung. Bis er zum Risiko wurde. Von Gabi Biesinger.",
+     "link": "https://www.tagesschau.de/wirtschaft/unternehmen/nvidia-huang-rolle-100.html",
+     "image": "https://images.tagesschau.de/image/62a459a4-de47-412c-bc99-10728c9a25e5/AAABodAPyYk/AAABnSSvrFg/16x9-big/huang-120.jpg?width=1920",
+     "aggregator": false,
+     "published": "2026-11-12T16:17:54+00:00"
+    },
+    {
+     "source": "tagesschau Wirtschaft",
+     "region": "DE",
+     "weight": 1.0,
+     "title": "Rücktritt von Nvidia-Chef Huang: Vom Sympathieträger zum Sicherheitsrisiko",
+     "summary": "Er war nicht nur Chef, sondern auch Gesicht von Nvidia: Jensen Huang formte den Chip-Riesen maßgeblich - als \"sympathischer Tech-Bro\" mit guten Kontakten zur Trump-Regierung. Bis er zum Risiko wurde. Von Gabi Biesinger.",
+     "link": "https://www.tagesschau.de/wirtschaft/unternehmen/nvidia-huang-rolle-100.html",
+     "image": "https://images.tagesschau.de/image/62a459a4-de47-412c-bc99-10728c9a25e5/AAABodAPyYk/AAABnSSvrFg/16x9-big/huang-120.jpg?width=1920",
+     "aggregator": false,
+     "published": "2026-11-12T16:17:54+00:00"
+    },
+    {
+     "source": "SRF News",
+     "region": "CH",
+     "weight": 0.95,
+     "title": "Rückblick nach Rücktritt – Von Grafikchips zu KI: Der Aufstieg von Nvidia unter Jensen Huang",
+     "summary": "Vor seinem Rücktritt prägte Jensen Huang Nvidia über Jahrzehnte. Ein Blick zurück auf einen eindrucksvollen Aufstieg.",
+     "link": "https://www.srf.ch/news/wirtschaft/rueckblick-nach-ruecktritt-von-grafikchips-zu-ki-der-aufstieg-von-nvidia-unter-jensen-huang",
+     "image": "https://www.srf.ch/static/cms/images//320ws/6c2f8d7.webp",
+     "aggregator": false,
+     "published": "2026-11-12T18:21:38+00:00"
+    },
+    {
+     "source": "heise online",
+     "region": "DE",
+     "weight": 0.85,
+     "title": "Gerüchte um Nvidia-Nachfolge: Wer wird CEO?",
+     "summary": "Nach dem Rücktritt von Nvidia-Chef Jensen Huang wird spekuliert, wer seine Nachfolge antreten könnte. Es gibt ein paar Kandidaten – unter anderem von Apple.",
+     "link": "https://www.heise.de/news/Geruechte-um-Nvidia-Nachfolge-Wer-wird-CEO-11523074.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
+     "image": null,
+     "aggregator": false,
+     "published": "2026-11-12T16:56:00+00:00"
+    },
+    {
+     "source": "DER STANDARD",
+     "region": "AT",
+     "weight": 0.85,
+     "title": "Rücktritt von Nvidia-Chef Huang: Was wusste Trump vom Spionageverdacht?",
+     "summary": "Jensen Huang war nicht nur der bedeutendste Vorstandschef des KI-Booms, sondern auch ein enger Ratgeber von US-Präsident Donald Trump. Kommt Trump nun in Bedrängnis?",
+     "link": "https://www.derstandard.at/story/3000000349033/ruecktritt-von-nvidia-chef-huang-was-wusste-trump-vom-spionageverdacht?ref=rss",
+     "image": "https://i.ds.at/zNkSFQ/rs:fill:150:0/plain/lido-images/2026/11/12/4f5f1ce6-be30-4ced-a133-ab386d4571f1.jpg",
+     "aggregator": false,
+     "published": "2026-11-12T17:48:59+00:00"
+    }
+   ]
+  },
+  {
+   "id": 23,
+   "score": 8.28,
+   "outlets": [
+    "ZDFheute",
+    "SPIEGEL",
+    "DER STANDARD",
+    "n-tv"
+   ],
+   "regions": [
+    "AT",
+    "DE"
+   ],
+   "trend": [],
+   "newest": "2026-11-12T19:55:01+00:00",
+   "articles": [
+    {
+     "source": "ZDFheute",
+     "region": "DE",
+     "weight": 1.0,
+     "title": "Hier wird US-Minister Hegseth zurechtgewiesen",
+     "summary": "Ein Wachposten weist Pete Hegseth und seine Begleiter auf dem Nationalfriedhof Arlington zurecht. Die Gruppe hatte am Grab des unbekannten Soldaten gelacht und geplaudert.",
+     "link": "https://www.zdfheute.de/video/panorama-pete-hegseth-nationalfriedhof-arlington-100.html",
+     "image": "https://www.zdfheute.de/assets/pete-hegseth-138~384x216?cb=1794469545909",
+     "aggregator": false,
+     "published": "2026-11-12T11:00:00+00:00"
+    },
+    {
+     "source": "SPIEGEL",
+     "region": "DE",
+     "weight": 0.9,
+     "title": "USA: Hegseth zeichnet Soldaten aus, der ihn anbrüllte",
+     "summary": "Den Chef zurechtzuweisen, erfordert Mut. Ein US-Soldat hat es lautstark gewagt, als am Grab des unbekannten Soldaten aus einer Gruppe um Verteidigungsminister Hegseth Lachen zu hören war. Nun wurde er ausgezeichnet, vom Angebrüllten selbst.",
+     "link": "https://www.spiegel.de/ausland/usa-hegseth-zeichnet-soldaten-aus-der-ihn-anbruellte-a-b0079820-bb3e-4068-921a-035f59f0f56a#ref=rss",
+     "image": "https://cdn.prod.www.spiegel.de/images/3d8e3890-b6f2-4e10-a3ca-686d9c8227a0_w520_r2.08_fpx66.02_fpy44.99.jpg",
+     "aggregator": false,
+     "published": "2026-11-12T18:47:00+00:00"
+    },
+    {
+     "source": "DER STANDARD",
+     "region": "AT",
+     "weight": 0.85,
+     "title": "Laut am Friedhof gelacht: Soldat weist Gruppe um US-Verteidigungsminister Hegseth zurecht",
+     "summary": "Auf einem Video ist lautstark zu hören, wie der Soldat auf dem Nationalfriedhof Arlington eine Besuchergruppe um Pete Hegseth zur Ordnung ruft. Nach einem gemeinsamen Foto war lautes Lachen zu hören",
+     "link": "https://www.derstandard.at/story/3000000348828/lautes-lachen-am-denkmal-soldat-r252gt-gruppe-um-hegseth?ref=rss",
+     "image": "https://i.ds.at/ay72qg/rs:fill:150:0/plain/lido-images/2026/11/12/e92d902d-23db-4ed4-b9c2-8450609fd5fd.jpg",
+     "aggregator": false,
+     "published": "2026-11-12T05:01:41+00:00"
+    },
+    {
+     "source": "n-tv",
+     "region": "DE",
+     "weight": 0.8,
+     "title": "Schlechtes Benehmen auf Friedhof: Hegseth zeichnet Soldaten aus, der ihn angeschnauzt hat",
+     "summary": "Ausgerechnet Pete Hegseth und seine Begleiter werden auf dem Nationalfriedhof in Arlington von einem Soldaten zurechtgewiesen. Für den US-Verteidigungsminister ein peinlicher Moment. Der Wachmann wird anschließend von ihm ausgezeichnet.",
+     "link": "https://www.n-tv.de/politik/Hegseth-zeichnet-Soldaten-aus-der-ihn-angeschnauzt-hat-id31528221.html",
+     "image": "https://www.n-tv.de/img/31528307/1794514888/Img_4_3/250/HW708MYWMAAlIfL.jpg",
+     "aggregator": false,
+     "published": "2026-11-12T19:55:01+00:00"
+    }
+   ]
+  },
+  {
+   "id": 24,
+   "score": 7.88,
+   "outlets": [
+    "tagesschau",
+    "Deutschlandfunk"
+   ],
+   "regions": [
+    "DE"
+   ],
+   "trend": [],
+   "newest": "2026-11-13T04:18:57+00:00",
+   "articles": [
+    {
+     "source": "tagesschau",
+     "region": "DE",
+     "weight": 1.0,
+     "title": "DFB in der Nations League: Gruda könnte Klopps nächster Debütant werden",
+     "summary": "Bei der DFB-Elf könnte es im Nations-League-Spiel am Freitag in Belgrad gegen Serbien einen weiteren Debütanten geben: Brajan Gruda, Offensivspieler von RB Leipzig. Trainer Klopp nennt ihn einen \"geilen Zocker\".",
+     "link": "https://www.sportschau.de/fussball/nationalmannschaft/brajan-gruda-ein-geiler-zocker-fuer-juergen-klopp,gruda-dfb-team-nations-league-100.html",
+     "image": "https://images.sportschau.de/image/f8babb57-9da6-4a80-8a02-5937ad2274ac/AAABoc-qab0/AAABnSSvrFg/16x9-big/gruda-122.jpg?width=1920",
+     "aggregator": false,
+     "published": "2026-11-12T12:11:58+00:00"
+    },
+    {
+     "source": "Deutschlandfunk",
+     "region": "DE",
+     "weight": 0.95,
+     "title": "Nations League - Fußball-Nationalmannschaft trifft auf Serbien - Klopp hofft auf Sieg",
+     "summary": "Die deutsche Fußball-Nationalmannschaft trifft am Abend in der Nations League auf Serbien.",
+     "link": "https://www.deutschlandfunk.de/fussball-nationalmannschaft-trifft-auf-serbien-klopp-hofft-auf-sieg-102.html",
+     "image": "https://bilder.deutschlandfunk.de/17/c1/a5/75/17c1a575-c5cc-4e3b-98aa-2a8132c3dbec/dfb-bundestrainer-juergen-klopp-100-1920x1920.jpg",
+     "aggregator": false,
+     "published": "2026-11-13T04:18:57+00:00"
+    }
+   ]
+  },
+  {
+   "id": 25,
+   "score": 7.88,
+   "outlets": [
+    "ZDFheute",
+    "Deutschlandfunk"
+   ],
+   "regions": [
+    "DE"
+   ],
+   "trend": [],
+   "newest": "2026-11-13T04:18:57+00:00",
+   "articles": [
+    {
+     "source": "ZDFheute",
+     "region": "DE",
+     "weight": 1.0,
+     "title": "Rede Ursula von der Leyen auf der COP31",
+     "summary": "Rede von EU-Kommissionspräsidentin Ursula von der Leyen auf der Weltklimakonferenz (COP31) in Antalya",
+     "link": "https://www.phoenix.de/php/mediaplayer/vod_embed.php?cmsid=5247151",
+     "image": "https://www.zdfheute.de/assets/teaser-phoenix-rede-ursula-von-der-leyen-auf-der-cop31-5247151-100~384x216?cb=1794416637055",
+     "aggregator": false,
+     "published": "2026-11-11T16:44:00+00:00"
+    },
+    {
+     "source": "ZDFheute",
+     "region": "DE",
+     "weight": 1.0,
+     "title": "Rede UN-Generalsekretär Guterres auf der COP31",
+     "summary": "Rede von UN-Generalsekretär António Guterres auf der Weltklimakonferenz COP31 in Antalya",
+     "link": "https://www.phoenix.de/php/mediaplayer/vod_embed.php?cmsid=5247139",
+     "image": "https://www.zdfheute.de/assets/teaser-phoenix-rede-un-generalsekretaer-guterres-auf-der-cop31-5247139-100~384x216?cb=1794413638898",
+     "aggregator": false,
+     "published": "2026-11-11T15:46:00+00:00"
+    },
+    {
+     "source": "Deutschlandfunk",
+     "region": "DE",
+     "weight": 0.95,
+     "title": "COP31 - Inselstaaten sehen in der Klimakrise ihr Überleben bedroht",
+     "summary": "Auf der Weltklimakonferenz in Antalya hat der Inselstaat Seychellen die Klimakrise als existenzbedrohend bezeichnet.",
+     "link": "https://www.deutschlandfunk.de/inselstaaten-sehen-in-der-klimakrise-ihr-ueberleben-bedroht-106.html",
+     "image": "https://bilder.deutschlandfunk.de/FI/LE/_7/b6/FILE_7b6b735641220d7a669a2fb066f95b5e/imago71356934h-jpg-100-768x768.jpg",
+     "aggregator": false,
+     "published": "2026-11-13T04:18:57+00:00"
+    }
+   ]
+  },
+  {
+   "id": 26,
+   "score": 7.78,
+   "outlets": [
+    "Deutschlandfunk",
+    "SRF News"
+   ],
+   "regions": [
+    "CH",
+    "DE"
+   ],
+   "trend": [],
+   "newest": "2026-11-13T04:18:57+00:00",
+   "articles": [
+    {
+     "source": "Deutschlandfunk",
+     "region": "DE",
+     "weight": 0.95,
+     "title": "Nahostkonflikt - Ärzte ohne Grenzen kritisiert Luftangriff auf Krankenhaus im Gazastreifen",
+     "summary": "Die Hilfsorganisation Ärzte ohne Grenzen hat den israelischen Luftangriff auf ein Krankenhaus im Gazastreifen kritisiert.",
+     "link": "https://www.deutschlandfunk.de/aerzte-ohne-grenzen-kritisiert-luftangriff-auf-krankenhaus-im-gazastreifen-102.html",
+     "image": "https://bilder.deutschlandfunk.de/bf/69/e0/91/bf69e091-7d96-4acd-84a6-7cd37c760c69/nasser-krankenhaus-angriff-100-1920x1920.jpg",
+     "aggregator": false,
+     "published": "2026-11-13T04:18:57+00:00"
+    },
+    {
+     "source": "SRF News",
+     "region": "CH",
+     "weight": 0.95,
+     "title": "Krieg im Nahen Osten – Hilfsorganisation Ärzte ohne Grenzen kritisiert Israel scharf",
+     "summary": "Nach dem Luftangriff auf ein Krankenhaus macht die Hilfsorganisation Ärzte ohne Grenzen Israel schwere Vorwürfe.",
+     "link": "https://www.srf.ch/news/international/nahost/krieg-im-nahen-osten-hilfsorganisation-aerzte-ohne-grenzen-kritisiert-israel-scharf-1",
+     "image": "https://www.srf.ch/static/cms/images//320ws/d5a280.webp",
+     "aggregator": false,
+     "published": "2026-11-13T04:08:47+00:00"
+    }
+   ]
+  },
+  {
+   "id": 27,
+   "score": 7.58,
+   "outlets": [
+    "Deutschlandfunk",
+    "WirtschaftsWoche"
+   ],
+   "regions": [
+    "DE"
+   ],
+   "trend": [],
+   "newest": "2026-11-13T04:18:57+00:00",
+   "articles": [
+    {
+     "source": "Deutschlandfunk",
+     "region": "DE",
+     "weight": 0.95,
+     "title": "Militärische Infrastruktur - Bundeswehr soll schneller bauen dürfen",
+     "summary": "Die Bundeswehr soll künftig schneller bauen können.",
+     "link": "https://www.deutschlandfunk.de/bundeswehr-soll-schneller-bauen-duerfen-104.html",
+     "image": "https://bilder.deutschlandfunk.de/7f/a0/72/92/7fa07292-08ab-424f-a733-abe20a7f709a/soldaten-122-1920x1920.jpg",
+     "aggregator": false,
+     "published": "2026-11-13T04:18:57+00:00"
+    },
+    {
+     "source": "WirtschaftsWoche",
+     "region": "DE",
+     "weight": 0.85,
+     "title": "Gesetzesänderung: Mehr Tempo bei Bundeswehr-Infrastruktur",
+     "summary": "Die Bundeswehr soll größer werden. Deshalb soll es künftig auch schneller gehen, wenn der Bau neuer Truppenunterkünfte notwendig wird.",
+     "link": "https://www.wiwo.de/politik/deutschland/gesetzesaenderung-mehr-tempo-bei-bundeswehr-infrastruktur/100269527.html",
+     "image": "https://images.wiwo.de/f0trFYUzqtoJ/cover/900/506/0/0/0/625/0.5/0.5/archiv-13.09.2024-bayern-hof-eine-deutsche-flagge-weht-am-eingang-der-oberfranken-kaserne.-zu.jpg",
+     "aggregator": false,
+     "published": "2026-11-12T18:55:25+00:00"
+    }
+   ]
+  }
+ ]
+}
