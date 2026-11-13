@@ -1,0 +1,1534 @@
+{
+ "date": "2026-11-13",
+ "publish_berlin": "now",
+ "topic": "altersarmut-rente",
+ "title_options": [
+  "Ein Leben lang gearbeitet – und trotzdem arm im Alter",
+  "773.735 Rentner beim Sozialamt: Warum die Rente nicht reicht",
+  "Altersarmut: Warum Österreichs Rentner mehr bekommen"
+ ],
+ "youtube_title": "Ein Leben lang gearbeitet – und trotzdem arm im Alter",
+ "title_card": {
+  "kicker": "HINTERGRUND · RENTE",
+  "title": "Arm trotz Rente – wie konnte es so weit kommen?"
+ },
+ "thumbnail": {
+  "words": "ARM TROTZ RENTE",
+  "highlight": [
+   "ARM"
+  ],
+  "sub": "Fast jeder Fünfte über 65",
+  "photo": "p1"
+ },
+ "description_intro": "Noch nie haben so viele Rentnerinnen und Rentner Grundsicherung gebraucht: 773.735 Menschen im Juni 2026. Fast jeder Fünfte über 65 ist armutsgefährdet – und viele beantragen aus Scham nicht einmal die Hilfe, die ihnen zusteht. Wir zeigen, woher die Altersarmut kommt, warum Frauen besonders betroffen sind, was die Rentenreform ändern soll und warum Österreich höhere Renten zahlt. Wichtig: Grundsicherung im Alter ist ein Rechtsanspruch. Der Antrag läuft über das örtliche Sozialamt.",
+ "tags": [
+  "Altersarmut",
+  "Rente",
+  "Grundsicherung im Alter",
+  "Rentner",
+  "Rentenreform 2026",
+  "Rentenkommission",
+  "Rentenniveau",
+  "Gender Pension Gap",
+  "Frauen Rente",
+  "Tafel",
+  "Armut Deutschland",
+  "Rente Österreich",
+  "Alexander Schweitzer",
+  "Friedrich Merz Rente",
+  "Rente mit 67",
+  "verdeckte Armut",
+  "Sozialamt",
+  "Doku Rente",
+  "Eilblick Fokus"
+ ],
+ "hashtags": [
+  "#Altersarmut",
+  "#Rente",
+  "#Grundsicherung",
+  "#EilblickFokus"
+ ],
+ "pinned_comment": "Ehrliche Frage: Wer ein Leben lang gearbeitet hat, sollte im Alter nicht zur Tafel müssen. Muss der Staat mehr zahlen – oder müssen wir alle länger arbeiten? Was ist eure Meinung?",
+ "short_hook": "Zahl zählt hoch auf 773.735 – 'So viele Rentner brauchen jetzt Hilfe vom Sozialamt. Und 60 Prozent der Berechtigten beantragen sie nicht einmal.' Split-Screen Deutschland 1.120 € vs. Österreich 1.646 € (30 s, verweist auf die Doku)",
+ "sources": [
+  {
+   "id": "s1",
+   "outlet": "buergergeld.org",
+   "title": "Zu wenig Rente: 773.735 Rentner brauchen Grundsicherung im Alter",
+   "url": "https://www.buergergeld.org/?p=61867"
+  },
+  {
+   "id": "s2",
+   "outlet": "buergergeld.org",
+   "title": "Grundsicherung im Alter: Zahl der armen Rentner steigt weiter (Destatis PM 104/2026)",
+   "url": "https://www.buergergeld.org/?p=59525"
+  },
+  {
+   "id": "s3",
+   "outlet": "echo24.de",
+   "title": "Ab wie viel Euro Rente man als arm gilt – Tafel Deutschland warnt",
+   "url": "https://www.echo24.de/verbraucher/rente-arm-geld-altersarmut-2026-tafel-deutschland-senioren-grundsicherung-bmas-umfrage-vermoegen-aufloesen-verdi-94266379.html"
+  },
+  {
+   "id": "s4",
+   "outlet": "bundestag.de",
+   "title": "Drucksache 21/6107 (Zahlen Destatis zur Armutsgefährdung ab 65)",
+   "url": "https://dserver.bundestag.de/btd/21/061/2106107.pdf"
+  },
+  {
+   "id": "s5",
+   "outlet": "echo24.de",
+   "title": "Alarmierende Zahlen: Jeder Fünfte von Altersarmut betroffen",
+   "url": "https://www.echo24.de/verbraucher/senioren-armutsgefaehrdet-alarmierende-zahlen-jeder-fuenfte-in-deutschland-von-altersarmut-betroffen-rentner-94156649.html"
+  },
+  {
+   "id": "s6",
+   "outlet": "buergergeld.org",
+   "title": "Armutsgefährdung ab 65: Frauen 21,3 %, Männer 17,3 %",
+   "url": "https://www.buergergeld.org/?p=60149"
+  },
+  {
+   "id": "s7",
+   "outlet": "financer.de",
+   "title": "Rentenlücke Deutschland: Statistiken 2026 (Destatis, DRV)",
+   "url": "https://financer.de/persoenliche-finanzen/rentenluecke-deutschland-statistiken/"
+  },
+  {
+   "id": "s8",
+   "outlet": "dasinvestment.com",
+   "title": "Gender Pension Gap und Teilzeitquote 2025 (Destatis)",
+   "url": "https://www.dasinvestment.com/renten-ersparnisse-private-vorsorge-altersvorsorge-blackrock/"
+  },
+  {
+   "id": "s9",
+   "outlet": "cash-online.de",
+   "title": "Rentenkommission: Fahrplan der 33 Empfehlungen",
+   "url": "https://www.cash-online.de/tabellen/rente/rentenkommission-fahrplan/"
+  },
+  {
+   "id": "s10",
+   "outlet": "buerger-geld.org",
+   "title": "Rentenreform fast fertig: Rente nach 45 Jahren noch offen (Stand 5.11.2026)",
+   "url": "https://www.buerger-geld.org/?p=50386"
+  },
+  {
+   "id": "s11",
+   "outlet": "gegen-hartz.de",
+   "title": "Verdeckte Armut: 60 Prozent stellen keinen Antrag (DIW)",
+   "url": "https://www.gegen-hartz.de/news/millionen-stellen-keinen-antrag-auf-buergergeld-grundsicherung"
+  },
+  {
+   "id": "s12",
+   "outlet": "gegen-hartz.de",
+   "title": "Rentenkommission: Grundsicherung soll leichter werden (Empfehlung 18)",
+   "url": "https://www.gegen-hartz.de/?p=231996"
+  },
+  {
+   "id": "s13",
+   "outlet": "gegen-hartz.de",
+   "title": "Mit dieser Rente gilt man 2026 als arm",
+   "url": "https://www.gegen-hartz.de/?p=224099"
+  },
+  {
+   "id": "s14",
+   "outlet": "berliner-kurier.de",
+   "title": "Berliner Tafel: So viele arme Rentner brauchen Essensspenden",
+   "url": "https://www.berliner-kurier.de/berlin/arme-rentner-essen-berliner-tafel-li.10030995"
+  },
+  {
+   "id": "s15",
+   "outlet": "nordkurier.de",
+   "title": "Rente reicht nicht: Immer mehr Senioren über 65 arbeiten (dpa)",
+   "url": "https://www.nordkurier.de/politik/rente-reicht-nicht-immer-mehr-senioren-ueber-65-muessen-weiter-schuften-4507513"
+  },
+  {
+   "id": "s16",
+   "outlet": "datev.de",
+   "title": "Destatis: 14 % der Rentner von 65 bis 74 erwerbstätig",
+   "url": "https://www.datev.de/web/de/berufsgruppenuebergreifend/nachrichten/ndsr/wirtschaft/14---der-rentnerinnen-und-rentner-im-alter-von-65-bis-74-jahren-"
+  },
+  {
+   "id": "s17",
+   "outlet": "berliner-zeitung.de",
+   "title": "Immer mehr Rentner arbeiten",
+   "url": "https://www.berliner-zeitung.de/article/erwerbstaetigkeit-von-rentnern-10263849"
+  },
+  {
+   "id": "s18",
+   "outlet": "destatis.de",
+   "title": "Rente und mehr – Themenseite",
+   "url": "https://www.destatis.de/DE/Im-Fokus/Rente/_inhalt.html"
+  },
+  {
+   "id": "s19",
+   "outlet": "stuttgarter-zeitung.de",
+   "title": "Merz und Bas kündigen vollständige Umsetzung der Renten-Vorschläge an",
+   "url": "https://www.stuttgarter-zeitung.de/politik/rentenalter-soll-steigen-merz-und-bas-kuendigen-vollstaendige-umsetzung-der-renten-vorschlaege-an-79200064.html"
+  },
+  {
+   "id": "s20",
+   "outlet": "bundesregierung.de",
+   "title": "Pressekonferenz zur Übergabe des Berichts der Alterssicherungskommission",
+   "url": "https://www.bundesregierung.de/breg-de/suche/pressekonferenz-mit-kanzler-merz-bericht-rentenkommission-2444532"
+  },
+  {
+   "id": "s21",
+   "outlet": "infranken.de",
+   "title": "Rente vor Runderneuerung – gegen viele Widerstände (dpa)",
+   "url": "https://www.infranken.de/deutschland/bei-rentenreform-sind-nun-merz-und-bas-am-zug-art-6370380"
+  },
+  {
+   "id": "s22",
+   "outlet": "bundesregierung.de",
+   "title": "Alexander Schweitzer ist neuer Arbeits- und Sozialminister",
+   "url": "https://www.bundesregierung.de/breg-de/aktuelles/schweitzer-bundesminister-2456990"
+  },
+  {
+   "id": "s23",
+   "outlet": "stuttgarter-zeitung.de",
+   "title": "Rentenreform 2026 verzögert sich",
+   "url": "https://www.stuttgarter-zeitung.de/politik/rentenreform-2026-verzoegert-sich-das-ist-der-aktuelle-stand-79563419.html"
+  },
+  {
+   "id": "s24",
+   "outlet": "volksstimme.de",
+   "title": "Wie Jung und Alt von den Rentenplänen betroffen sind (dpa)",
+   "url": "https://www.volksstimme.de/deutschland-und-welt/deutschland/wie-jung-und-alt-von-den-rentenplanen-betroffen-sind-4272051"
+  },
+  {
+   "id": "s25",
+   "outlet": "wirtschaftsdienst.eu",
+   "title": "Österreichs Rentenpolitik: Vom Nachbarn lernen?",
+   "url": "https://www.wirtschaftsdienst.eu/inhalt/jahr/2024/heft/10/beitrag/oesterreichs-rentenpolitik-vom-nachbarn-lernen.html"
+  },
+  {
+   "id": "s26",
+   "outlet": "buerger-geld.org",
+   "title": "Rente im Vergleich: Warum Österreich mehr zahlt",
+   "url": "https://www.buerger-geld.org/news/rente/rente-systemvergleich-oesterreich-gegen-deutschland-wer-liegt-vorn/"
+  },
+  {
+   "id": "s27",
+   "outlet": "heidelberg24.de",
+   "title": "Bis zu 80 Prozent Rente: Warum Österreich mehr zahlt",
+   "url": "https://www.heidelberg24.de/politik-und-wirtschaft/bis-zu-80-prozent-rente-warum-oesterreich-mehr-zahlt-als-deutschland-zr-94430923.html"
+  },
+  {
+   "id": "s28",
+   "outlet": "wirtschaftsrat.de",
+   "title": "Rentenvergleich Europa (Dezember 2025)",
+   "url": "https://wirtschaftsrat.de/de/documents/3374/2025_12_Wirtschaftsrat_Rentenvergleich_Europa.pdf"
+  },
+  {
+   "id": "s29",
+   "outlet": "echo24.de",
+   "title": "Bas tritt als SPD-Chefin und Arbeitsministerin zurück",
+   "url": "https://www.echo24.de/welt/bas-tritt-als-spd-chefin-und-arbeitsministerin-zurueck-zr-94535974.html"
+  },
+  {
+   "id": "s30",
+   "outlet": "igmetall.de",
+   "title": "Was wir bei der Rente von Österreich lernen können",
+   "url": "https://www.igmetall.de/politik-und-gesellschaft/sozialpolitik/rente/was-wir-bei-der-rente-von-oesterreich-lernen-koennen"
+  },
+  {
+   "id": "s31",
+   "outlet": "buergergeld.org",
+   "title": "Bitter: Rentner machen 18 % der Tafelkunden aus",
+   "url": "https://www.buergergeld.org/news/bitter-rentner-machen-18-der-tafelkunden-aus/"
+  },
+  {
+   "id": "s32",
+   "outlet": "buerger-geld.org",
+   "title": "Warum Österreichs Rentner 2026 deutlich mehr Geld haben",
+   "url": "https://www.buerger-geld.org/?p=37247"
+  }
+ ],
+ "photos": [
+  {
+   "id": "p1",
+   "page": "https://www.leinetal24.de/wirtschaft/rentnerinnen-mit-renten-unter-armutsgrenze-altersarmut-mehrheit-der-zr-94409345.html",
+   "commons": "Seniorin allein Wohnung",
+   "credit": "Bild: leinetal24.de"
+  },
+  {
+   "id": "p2",
+   "page": "https://www.echo24.de/verbraucher/senioren-armutsgefaehrdet-alarmierende-zahlen-jeder-fuenfte-in-deutschland-von-altersarmut-betroffen-rentner-94156649.html",
+   "commons": "älterer Mann Parkbank",
+   "credit": "Bild: echo24.de"
+  },
+  {
+   "id": "p3",
+   "page": "https://www.echo24.de/verbraucher/rente-arm-geld-altersarmut-2026-tafel-deutschland-senioren-grundsicherung-bmas-umfrage-vermoegen-aufloesen-verdi-94266379.html",
+   "commons": "Tafel Lebensmittelausgabe",
+   "credit": "Bild: echo24.de"
+  },
+  {
+   "id": "p4",
+   "page": "https://www.buergergeld.org/?p=61867",
+   "commons": "Sozialamt Deutschland",
+   "credit": "Bild: buergergeld.org"
+  },
+  {
+   "id": "p5",
+   "page": "https://www.zdfheute.de/politik/deutschland/rente-kommission-bericht-eintrittsalter-beitragszahler-100.html",
+   "commons": "Senioren Parkbank Deutschland",
+   "credit": "Bild: zdfheute.de"
+  },
+  {
+   "id": "p6",
+   "person": true,
+   "page": "https://www.stuttgarter-zeitung.de/politik/rentenalter-soll-steigen-merz-und-bas-kuendigen-vollstaendige-umsetzung-der-renten-vorschlaege-an-79200064.html",
+   "commons": "Friedrich Merz 2025",
+   "credit": "Bild: stuttgarter-zeitung.de"
+  },
+  {
+   "id": "p7",
+   "person": true,
+   "page": "https://www.zdfheute.de/politik/deutschland/alexander-schweitzer-baerbel-bas-spd-arbeitsminister-100.html",
+   "commons": "Alexander Schweitzer SPD",
+   "credit": "Bild: zdfheute.de"
+  },
+  {
+   "id": "p8",
+   "page": "https://www.nordkurier.de/politik/rente-reicht-nicht-immer-mehr-senioren-ueber-65-muessen-weiter-schuften-4507513",
+   "commons": "älterer Arbeitnehmer",
+   "credit": "Bild: nordkurier.de"
+  },
+  {
+   "id": "p9",
+   "page": "https://www.berliner-kurier.de/berlin/arme-rentner-essen-berliner-tafel-li.10030995",
+   "commons": "Berliner Tafel",
+   "credit": "Bild: berliner-kurier.de"
+  },
+  {
+   "id": "p10",
+   "page": "https://www.hessenschau.de/gesellschaft/viele-tafeln-in-hessen-verhaengen-aufnahmestopp---20000-kinder-von-spenden-abhaengig-v1,tafel-120.html",
+   "commons": "Tafel Lebensmittel Spenden",
+   "credit": "Bild: hessenschau.de"
+  },
+  {
+   "id": "p11",
+   "page": "https://www.igmetall.de/politik-und-gesellschaft/sozialpolitik/rente/was-wir-bei-der-rente-von-oesterreich-lernen-koennen",
+   "commons": "Wien Innere Stadt",
+   "credit": "Bild: igmetall.de"
+  },
+  {
+   "id": "p12",
+   "page": "https://www.heidelberg24.de/politik-und-wirtschaft/bis-zu-80-prozent-rente-warum-oesterreich-mehr-zahlt-als-deutschland-zr-94430923.html",
+   "commons": "Wien Stephansdom",
+   "credit": "Bild: heidelberg24.de"
+  },
+  {
+   "id": "p13",
+   "page": "https://www.stuttgarter-zeitung.de/politik/rentenreform-2026-verzoegert-sich-das-ist-der-aktuelle-stand-79563419.html",
+   "commons": "älteres Paar spazieren",
+   "credit": "Bild: stuttgarter-zeitung.de"
+  },
+  {
+   "id": "p14",
+   "page": "https://www.gegen-hartz.de/news/millionen-stellen-keinen-antrag-auf-buergergeld-grundsicherung",
+   "commons": "Antrag Formular Behörde",
+   "credit": "Bild: gegen-hartz.de"
+  },
+  {
+   "id": "p15",
+   "page": "https://www.techbook.de/shop-pay/shops-marktplaetze/supermarkt-senioren-rabatt",
+   "commons": "Supermarkt Kasse",
+   "credit": "Bild: techbook.de"
+  },
+  {
+   "id": "p16",
+   "page": "https://www.echo24.de/welt/gender-pension-gap-2025-was-die-zahl-bedeutet-und-was-frauen-jetzt-tun-koennen-zr-94491372.html",
+   "commons": "Seniorin Portemonnaie",
+   "credit": "Bild: echo24.de"
+  },
+  {
+   "id": "p17",
+   "page": "https://www.leinetal24.de/wirtschaft/36-prozent-weniger-rente-was-frauen-selbst-beeinflussen-koennen-zr-94446787.html",
+   "commons": "Rentnerin",
+   "credit": "Bild: leinetal24.de"
+  },
+  {
+   "id": "p18",
+   "page": "https://www.beck-aktuell.de/heute-im-recht/rechtspolitik-gesetzgebung/neuer-arbeitsminister-alexander-schweitzer-bas-nachfolger-bundestag-2026-10-14",
+   "commons": "Bundestag Plenarsaal",
+   "credit": "Bild: beck-aktuell.de"
+  },
+  {
+   "id": "p19",
+   "page": "https://www.volksstimme.de/deutschland-und-welt/deutschland/wie-jung-und-alt-von-den-rentenplanen-betroffen-sind-4272051",
+   "commons": "Generationen Großvater",
+   "credit": "Bild: volksstimme.de"
+  },
+  {
+   "id": "p20",
+   "page": "https://www.berliner-zeitung.de/article/erwerbstaetigkeit-von-rentnern-10263849",
+   "commons": "Rentner Arbeit Minijob",
+   "credit": "Bild: berliner-zeitung.de"
+  }
+ ],
+ "cold_open": [
+  {
+   "voice": "Stellen Sie sich eine Frau vor. Vierzig Jahre Arbeit, zwei Kinder großgezogen, die Mutter gepflegt. Und am Ende reicht das Geld nicht bis zum Monatsende.",
+   "sources": [
+    "s7"
+   ],
+   "visual": [
+    {
+     "type": "photo",
+     "photos": [
+      "p1",
+      "p16"
+     ],
+     "headline": "Ein Leben lang gearbeitet"
+    }
+   ]
+  },
+  {
+   "voice": "Das ist kein Einzelfall. In Deutschland ist fast jeder Fünfte über 65 armutsgefährdet. Noch nie brauchten so viele Rentner Hilfe vom Sozialamt.",
+   "sources": [
+    "s4",
+    "s1"
+   ],
+   "visual": [
+    {
+     "type": "counter",
+     "value": 773735,
+     "label": "Menschen mit Grundsicherung im Alter – Rekord, Juni 2026",
+     "source": "Statistisches Bundesamt"
+    },
+    {
+     "type": "photo",
+     "photos": [
+      "p2"
+     ],
+     "headline": "Arm trotz Rente",
+     "highlight": [
+      "Arm"
+     ]
+    }
+   ]
+  },
+  {
+   "voice": "Wie konnte es so weit kommen – in einem der reichsten Länder der Welt? Und was muss sich ändern?",
+   "sources": [
+    "s3"
+   ],
+   "visual": [
+    {
+     "type": "photo",
+     "photos": [
+      "p3",
+      "p13"
+     ],
+     "headline": "Wie konnte es so weit kommen?"
+    }
+   ]
+  }
+ ],
+ "acts": [
+  {
+   "title": "Der Auslöser",
+   "scenes": [
+    {
+     "voice": "Im Juni 2026 bezogen 773.735 Menschen Grundsicherung im Alter. So viele wie nie zuvor. Binnen eines Jahres kamen gut 24.000 hinzu.",
+     "sources": [
+      "s1"
+     ],
+     "visual": [
+      {
+       "type": "bars",
+       "title": "Grundsicherung im Alter – Empfänger",
+       "items": [
+        [
+         "2020",
+         564000
+        ],
+        [
+         "Dez. 2025",
+         764065
+        ],
+        [
+         "Juni 2026",
+         773735
+        ]
+       ],
+       "source": "Statistisches Bundesamt"
+      },
+      {
+       "type": "photo",
+       "photos": [
+        "p4"
+       ],
+       "headline": "Rekord beim Sozialamt"
+      }
+     ]
+    },
+    {
+     "voice": "Grundsicherung bedeutet: Die eigene Rente reicht nicht zum Leben. Das Sozialamt stockt auf. Für Alleinstehende gibt es 2026 einen Regelsatz von 563 Euro, dazu Miete und Heizung.",
+     "sources": [
+      "s3"
+     ],
+     "visual": [
+      {
+       "type": "counter",
+       "value": 563,
+       "suffix": " €",
+       "label": "Regelsatz Grundsicherung im Monat 2026 – plus Miete und Heizung",
+       "source": "Bundesregierung"
+      },
+      {
+       "type": "photo",
+       "photos": [
+        "p15"
+       ],
+       "headline": "563 Euro für den ganzen Monat"
+      }
+     ]
+    },
+    {
+     "voice": "Eine Erhöhung gab es in diesem Jahr nicht. Für die Regelsätze gab es eine Nullrunde.",
+     "sources": [
+      "s3"
+     ],
+     "visual": [
+      {
+       "type": "statement",
+       "text": "2026: Nullrunde beim Regelsatz",
+       "highlight": [
+        "Nullrunde"
+       ]
+      },
+      {
+       "type": "photo",
+       "photos": [
+        "p15",
+        "p2"
+       ]
+      }
+     ]
+    },
+    {
+     "voice": "Als armutsgefährdet gilt nach EU-Definition, wer allein lebt und weniger als 1.446 Euro netto im Monat hat.",
+     "sources": [
+      "s3"
+     ],
+     "visual": [
+      {
+       "type": "counter",
+       "value": 1446,
+       "prefix": "< ",
+       "suffix": " €",
+       "label": "Armutsgefährdungsschwelle für Alleinlebende, netto im Monat",
+       "source": "Statistisches Bundesamt / EU-SILC"
+      }
+     ]
+    },
+    {
+     "voice": "Bei den Menschen ab 65 lag die Quote 2025 bei 19,5 Prozent. In der Gesamtbevölkerung waren es 16,1 Prozent.",
+     "sources": [
+      "s4"
+     ],
+     "visual": [
+      {
+       "type": "bars",
+       "title": "Armutsgefährdungsquote 2025",
+       "unit": " %",
+       "items": [
+        [
+         "Gesamtbevölkerung",
+         16.1
+        ],
+        [
+         "Ab 75 Jahren",
+         19.1
+        ],
+        [
+         "Ab 65 Jahren",
+         19.5
+        ]
+       ],
+       "source": "Destatis, EU-SILC 2025"
+      }
+     ]
+    },
+    {
+     "voice": "Hinter dieser Zahl stehen rund 3,45 Millionen ältere Menschen. Menschen, die oft jahrzehntelang gearbeitet haben.",
+     "sources": [
+      "s5"
+     ],
+     "visual": [
+      {
+       "type": "counter",
+       "value": 3.45,
+       "decimals": 2,
+       "suffix": " Mio.",
+       "label": "armutsgefährdete Menschen ab 65 (vorläufig, 2025)",
+       "source": "Statistisches Bundesamt"
+      },
+      {
+       "type": "photo",
+       "photos": [
+        "p13"
+       ],
+       "headline": "3,45 Millionen Schicksale"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "title": "Die Wurzeln",
+   "scenes": [
+    {
+     "voice": "Altersarmut beginnt nicht mit 67. Sie beginnt Jahrzehnte früher: mit niedrigen Löhnen, mit Teilzeit, mit Lücken im Lebenslauf.",
+     "sources": [
+      "s7"
+     ],
+     "visual": [
+      {
+       "type": "photo",
+       "photos": [
+        "p8",
+        "p20"
+       ],
+       "headline": "Altersarmut beginnt im Berufsleben"
+      }
+     ]
+    },
+    {
+     "voice": "Die gesetzliche Rente folgt einem einfachen Prinzip. Wer ein Jahr lang den Durchschnittslohn verdient, bekommt einen Entgeltpunkt. Wer weniger verdient, bekommt weniger.",
+     "sources": [
+      "s26"
+     ],
+     "visual": [
+      {
+       "type": "statement",
+       "text": "Wenig Lohn heute – wenig Rente morgen",
+       "highlight": [
+        "wenig",
+        "Rente"
+       ]
+      },
+      {
+       "type": "photo",
+       "photos": [
+        "p14"
+       ]
+      }
+     ]
+    },
+    {
+     "voice": "Das Rentenniveau ist bis 2031 auf 48 Prozent festgeschrieben. Selbst nach 45 Beitragsjahren mit Durchschnittslohn gibt es also knapp die Hälfte des Durchschnittseinkommens.",
+     "sources": [
+      "s9",
+      "s26"
+     ],
+     "visual": [
+      {
+       "type": "counter",
+       "value": 48,
+       "suffix": " %",
+       "label": "Rentenniveau – gesichert bis 2031",
+       "source": "Rentenpaket 2025"
+      },
+      {
+       "type": "photo",
+       "photos": [
+        "p5"
+       ],
+       "headline": "Knapp die Hälfte des Lohns"
+      }
+     ]
+    },
+    {
+     "voice": "Die sogenannte Standardrente nach 45 Jahren liegt bei 1.835,55 Euro brutto im Monat. Doch das ist ein Rechenwert. Die meisten Menschen erreichen ihn nicht.",
+     "sources": [
+      "s7"
+     ],
+     "visual": [
+      {
+       "type": "counter",
+       "value": 1835.55,
+       "decimals": 2,
+       "suffix": " €",
+       "label": "Standardrente brutto nach 45 Jahren mit Durchschnittslohn",
+       "source": "Deutsche Rentenversicherung"
+      },
+      {
+       "type": "photo",
+       "photos": [
+        "p19"
+       ],
+       "headline": "Ein Rechenwert, den viele nie erreichen"
+      }
+     ]
+    },
+    {
+     "voice": "Doch viele erreichen diese 45 Jahre nie. Über zehn Millionen Menschen bekommen weniger als 1.100 Euro gesetzliche Rente. Manche haben zusätzlich eine Betriebsrente oder das Einkommen des Partners.",
+     "sources": [
+      "s13"
+     ],
+     "visual": [
+      {
+       "type": "counter",
+       "value": 54,
+       "suffix": " %",
+       "label": "der Rentenempfänger bekommen weniger als 1.100 € gesetzliche Rente",
+       "source": "Deutsche Rentenversicherung / gegen-hartz.de"
+      },
+      {
+       "type": "photo",
+       "photos": [
+        "p2",
+        "p19"
+       ],
+       "headline": "Weniger als 1.100 Euro"
+      }
+     ]
+    },
+    {
+     "voice": "Am härtesten trifft es Frauen. 21,3 Prozent der Frauen ab 65 sind armutsgefährdet. Bei den Männern sind es 17,3 Prozent.",
+     "sources": [
+      "s6"
+     ],
+     "visual": [
+      {
+       "type": "compare",
+       "title": "Armutsgefährdet ab 65 (2025)",
+       "left": {
+        "label": "Männer",
+        "value": "17,3 %",
+        "photo": "p13"
+       },
+       "right": {
+        "label": "Frauen",
+        "value": "21,3 %",
+        "photo": "p17"
+       },
+       "source": "Destatis"
+      }
+     ]
+    },
+    {
+     "voice": "Frauen erhalten im Schnitt 24 Prozent weniger Alterseinkünfte als Männer. Ohne Witwenrenten liegt die Lücke sogar bei 36 Prozent.",
+     "sources": [
+      "s7"
+     ],
+     "visual": [
+      {
+       "type": "bars",
+       "title": "Rentenlücke Frauen gegenüber Männern",
+       "unit": " %",
+       "items": [
+        [
+         "Alle Alterseinkünfte",
+         24.2
+        ],
+        [
+         "Ohne Witwenrenten",
+         36.0
+        ]
+       ],
+       "source": "Destatis, EU-SILC 2025"
+      },
+      {
+       "type": "photo",
+       "photos": [
+        "p16"
+       ],
+       "headline": "36 % weniger eigene Rente",
+       "highlight": [
+        "36"
+       ]
+      }
+     ]
+    },
+    {
+     "voice": "Dahinter stehen Jahre der Kindererziehung, der Pflege, der Teilzeit. 49 Prozent der Frauen arbeiten in Teilzeit, bei Männern sind es 12 Prozent. Diese Arbeit war wichtig – aber sie bringt kaum Rentenpunkte.",
+     "sources": [
+      "s8"
+     ],
+     "visual": [
+      {
+       "type": "compare",
+       "title": "Teilzeitquote 2025",
+       "left": {
+        "label": "Männer",
+        "value": "12 %",
+        "photo": "p8"
+       },
+       "right": {
+        "label": "Frauen",
+        "value": "49 %",
+        "photo": "p1"
+       },
+       "source": "Destatis"
+      },
+      {
+       "type": "photo",
+       "photos": [
+        "p17"
+       ],
+       "headline": "Fürsorge ohne Rentenpunkte"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "title": "Warum das System scheitert",
+   "scenes": [
+    {
+     "voice": "Eigentlich gibt es ein Sicherheitsnetz. Doch viele nutzen es nicht. Laut einer Studie des DIW Berlin beantragen rund 60 Prozent der Berechtigten keine Grundsicherung im Alter.",
+     "sources": [
+      "s11"
+     ],
+     "visual": [
+      {
+       "type": "counter",
+       "value": 60,
+       "suffix": " %",
+       "label": "der Berechtigten beantragen keine Grundsicherung im Alter",
+       "source": "DIW Berlin"
+      },
+      {
+       "type": "photo",
+       "photos": [
+        "p14"
+       ],
+       "headline": "Die unsichtbare Armut"
+      }
+     ]
+    },
+    {
+     "voice": "Die Forscher nennen einen häufigen Grund: Scham. Dazu kommen fehlende Informationen und komplizierte Anträge.",
+     "sources": [
+      "s11"
+     ],
+     "visual": [
+      {
+       "type": "statement",
+       "text": "Der häufigste Grund: Scham",
+       "highlight": [
+        "Scham"
+       ]
+      },
+      {
+       "type": "photo",
+       "photos": [
+        "p1"
+       ],
+       "headline": "Lieber verzichten als zum Amt"
+      }
+     ]
+    },
+    {
+     "voice": "Viele glauben auch, ihre Kinder müssten dann zahlen. Das ist in aller Regel falsch. Doch die Grundsicherung kommt nicht automatisch. Wer keinen Antrag stellt, bekommt nichts.",
+     "sources": [
+      "s12",
+      "s13"
+     ],
+     "visual": [
+      {
+       "type": "photo",
+       "photos": [
+        "p14",
+        "p4"
+       ],
+       "headline": "Ohne Antrag kein Geld"
+      }
+     ]
+    },
+    {
+     "voice": "Wie groß die Not ist, sieht man an den Tafeln. Rund 20 Prozent der Menschen, die dort Lebensmittel holen, sind Rentnerinnen und Rentner. Die Tafel geht von einer deutlich höheren Dunkelziffer aus.",
+     "sources": [
+      "s3"
+     ],
+     "visual": [
+      {
+       "type": "counter",
+       "value": 20,
+       "prefix": "≈ ",
+       "suffix": " %",
+       "label": "der Tafel-Kunden sind Rentnerinnen und Rentner",
+       "source": "Tafel Deutschland"
+      },
+      {
+       "type": "photo",
+       "photos": [
+        "p9",
+        "p10"
+       ],
+       "headline": "Rentner an der Tafel"
+      }
+     ]
+    },
+    {
+     "voice": "Und selbst die Tafeln stoßen an ihre Grenzen. Fast ein Drittel nimmt keine neuen Kunden mehr auf oder führt Wartelisten.",
+     "sources": [
+      "s31"
+     ],
+     "visual": [
+      {
+       "type": "statement",
+       "text": "Fast jede dritte Tafel: Aufnahmestopp",
+       "highlight": [
+        "Aufnahmestopp"
+       ]
+      },
+      {
+       "type": "photo",
+       "photos": [
+        "p10"
+       ],
+       "headline": "Warteliste für Lebensmittel"
+      }
+     ]
+    },
+    {
+     "voice": "Ehrenamtliche der Berliner Tafel berichten, dass die Hemmschwelle bei älteren Menschen oft besonders groß ist.",
+     "sources": [
+      "s14"
+     ],
+     "visual": [
+      {
+       "type": "photo",
+       "photos": [
+        "p9"
+       ],
+       "layout": "framed",
+       "headline": "Die Hemmschwelle ist groß"
+      }
+     ]
+    },
+    {
+     "voice": "Immer mehr Ältere arbeiten weiter. 2025 waren rund 1,88 Millionen Menschen über 65 erwerbstätig. Fünf Jahre zuvor waren es 1,28 Millionen.",
+     "sources": [
+      "s15"
+     ],
+     "visual": [
+      {
+       "type": "bars",
+       "title": "Erwerbstätige über 65",
+       "unit": " Mio.",
+       "items": [
+        [
+         "2020",
+         1.28
+        ],
+        [
+         "2025",
+         1.88
+        ]
+       ],
+       "source": "Statistisches Bundesamt",
+       "decimals": 2
+      },
+      {
+       "type": "photo",
+       "photos": [
+        "p20"
+       ],
+       "headline": "Arbeiten statt Ruhestand"
+      }
+     ]
+    },
+    {
+     "voice": "Rund 229.000 Menschen arbeiteten sogar noch mit über 75 Jahren.",
+     "sources": [
+      "s15"
+     ],
+     "visual": [
+      {
+       "type": "counter",
+       "value": 229000,
+       "label": "Erwerbstätige über 75 Jahren im Jahr 2025",
+       "source": "Statistisches Bundesamt"
+      }
+     ]
+    },
+    {
+     "voice": "Nicht alle tun das aus Not. Viele arbeiten gern weiter, sagt das Statistische Bundesamt. Doch zwei Drittel der angestellten Rentner haben nur einen Minijob.",
+     "sources": [
+      "s17",
+      "s16"
+     ],
+     "visual": [
+      {
+       "type": "photo",
+       "photos": [
+        "p8",
+        "p20"
+       ],
+       "headline": "Zwei Drittel im Minijob"
+      }
+     ]
+    },
+    {
+     "voice": "Mehr als jeder dritte Empfänger der Grundsicherung hat keinen deutschen Pass, darunter viele Geflüchtete aus der Ukraine. Doch auch die Zahl der deutschen Empfänger stieg in zehn Jahren um knapp ein Fünftel.",
+     "sources": [
+      "s1",
+      "s2"
+     ],
+     "visual": [
+      {
+       "type": "bars",
+       "title": "Deutsche Empfänger Grundsicherung im Alter",
+       "items": [
+        [
+         "2015",
+         411129
+        ],
+        [
+         "2025",
+         488670
+        ]
+       ],
+       "source": "Statistisches Bundesamt"
+      },
+      {
+       "type": "photo",
+       "photos": [
+        "p19"
+       ]
+      }
+     ]
+    },
+    {
+     "voice": "Und der Druck wächst. Die geburtenstarken Jahrgänge gehen erst jetzt nach und nach in Rente. Bis Ende der 2030er-Jahre dürfte es mindestens 20,5 Millionen Menschen über 65 geben.",
+     "sources": [
+      "s1",
+      "s18"
+     ],
+     "visual": [
+      {
+       "type": "counter",
+       "value": 20.5,
+       "decimals": 1,
+       "prefix": "≥ ",
+       "suffix": " Mio.",
+       "label": "Menschen über 65 bis Ende der 2030er-Jahre",
+       "source": "Statistisches Bundesamt"
+      },
+      {
+       "type": "photo",
+       "photos": [
+        "p19"
+       ],
+       "headline": "Die Babyboomer kommen"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "title": "Was Bürger fordern – was Politik tut",
+   "scenes": [
+    {
+     "voice": "Die Bundesregierung setzte eine Rentenkommission ein. Am 23. Juni 2026 legte sie 33 Vorschläge vor.",
+     "sources": [
+      "s19"
+     ],
+     "visual": [
+      {
+       "type": "photo",
+       "photos": [
+        "p6"
+       ],
+       "layout": "framed",
+       "headline": "33 Vorschläge für die Rente",
+       "lower_third": {
+        "name": "Rentenkommission",
+        "role": "Bericht vom 23. Juni 2026"
+       }
+      }
+     ]
+    },
+    {
+     "voice": "Dazu gehören: Rente mit 67,5 bis zum Jahr 2041, danach gekoppelt an die Lebenserwartung. Das Aus für die abschlagsfreie Rente nach 45 Jahren. Und eine verpflichtende Kapitalrente.",
+     "sources": [
+      "s9",
+      "s10"
+     ],
+     "visual": [
+      {
+       "type": "timeline",
+       "title": "Was die Kommission vorschlägt",
+       "events": [
+        [
+         "2031",
+         "Rentenniveau 48 % gesichert"
+        ],
+        [
+         "2040",
+         "Kapitalrente soll Niveau anheben"
+        ],
+        [
+         "2041",
+         "Rente mit 67,5"
+        ]
+       ]
+      },
+      {
+       "type": "photo",
+       "photos": [
+        "p5"
+       ]
+      }
+     ]
+    },
+    {
+     "voice": "Gegen verdeckte Armut empfiehlt die Kommission einen einfacheren und unbürokratischen Zugang zur Grundsicherung.",
+     "sources": [
+      "s12"
+     ],
+     "visual": [
+      {
+       "type": "statement",
+       "text": "Grundsicherung: einfacher und unbürokratischer",
+       "highlight": [
+        "einfacher"
+       ]
+      }
+     ]
+    },
+    {
+     "voice": "Bundeskanzler Friedrich Merz will das Paket vollständig umsetzen. Er warnte bei der Übergabe:",
+     "sources": [
+      "s20"
+     ],
+     "visual": [
+      {
+       "type": "quote",
+       "text": "Ohne Reformen würde unweigerlich das Rentenniveau sinken und würden die Beiträge steigen.",
+       "who": "Friedrich Merz (CDU), Bundeskanzler",
+       "photo": "p6"
+      }
+     ]
+    },
+    {
+     "voice": "Widerspruch kam auch aus der eigenen Koalition. Manuela Schwesig von der SPD sagte:",
+     "sources": [
+      "s21"
+     ],
+     "visual": [
+      {
+       "type": "quote",
+       "text": "Diese Vorschläge können nicht einfach 1:1 umgesetzt werden.",
+       "who": "Manuela Schwesig (SPD), Juni 2026",
+       "photo": "p18"
+      }
+     ]
+    },
+    {
+     "voice": "Kritik kommt auch von Linken und Grünen. Die Gewerkschaft Verdi sagt: Altersarmut ist politisch gemacht. Die Senioren-Union begrüßt die Vorschläge dagegen ausdrücklich.",
+     "sources": [
+      "s21",
+      "s3"
+     ],
+     "visual": [
+      {
+       "type": "compare",
+       "title": "Die Reaktionen",
+       "left": {
+        "label": "Kritik",
+        "value": "Verdi, Linke, Grüne",
+        "photo": "p18"
+       },
+       "right": {
+        "label": "Zustimmung",
+        "value": "Senioren-Union",
+        "photo": "p13"
+       },
+       "source": "dpa"
+      },
+      {
+       "type": "photo",
+       "photos": [
+        "p13"
+       ]
+      }
+     ]
+    },
+    {
+     "voice": "Im Oktober trat Arbeitsministerin Bärbel Bas zurück. Seit dem 13. Oktober führt Alexander Schweitzer von der SPD das Ministerium. Er muss die Reform jetzt vorlegen.",
+     "sources": [
+      "s29",
+      "s22"
+     ],
+     "visual": [
+      {
+       "type": "photo",
+       "photos": [
+        "p7",
+        "p2"
+       ],
+       "layout": "framed",
+       "headline": "Neuer Minister, alte Baustelle",
+       "lower_third": {
+        "name": "Alexander Schweitzer",
+        "role": "Bundesminister für Arbeit und Soziales (SPD)"
+       }
+      }
+     ]
+    },
+    {
+     "voice": "Der Zeitplan: Das Kabinett soll noch vor Weihnachten entscheiden. Der Bundestag wohl erst im Frühjahr 2027.",
+     "sources": [
+      "s23",
+      "s10"
+     ],
+     "visual": [
+      {
+       "type": "timeline",
+       "title": "Der Fahrplan",
+       "events": [
+        [
+         "Juni 2026",
+         "Bericht der Kommission"
+        ],
+        [
+         "Okt. 2026",
+         "Ministerwechsel"
+        ],
+        [
+         "Dez. 2026",
+         "Kabinettsbeschluss geplant"
+        ],
+        [
+         "2027",
+         "Bundestag"
+        ]
+       ]
+      }
+     ]
+    },
+    {
+     "voice": "Wer heute schon in Rente ist oder bald geht, hat von der Kapitalrente wenig. Sie soll das Rentenniveau erst ab 2040 anheben.",
+     "sources": [
+      "s24"
+     ],
+     "visual": [
+      {
+       "type": "photo",
+       "photos": [
+        "p13",
+        "p2"
+       ],
+       "headline": "Für heutige Rentner zu spät?"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "title": "Wie andere Länder es lösen",
+   "scenes": [
+    {
+     "voice": "Ein Blick nach Österreich. Dort lag die durchschnittliche gesetzliche Pension 2022 bei rund 1.646 Euro brutto. In Deutschland waren es 1.120 Euro.",
+     "sources": [
+      "s25"
+     ],
+     "visual": [
+      {
+       "type": "bars",
+       "title": "Durchschnittliche gesetzliche Rente 2022",
+       "unit": " €",
+       "items": [
+        [
+         "Deutschland",
+         1120
+        ],
+        [
+         "Österreich",
+         1646
+        ]
+       ],
+       "source": "Wirtschaftsdienst / DRV",
+       "highlight": "Deutschland",
+       "highlight_last": false
+      },
+      {
+       "type": "photo",
+       "photos": [
+        "p11"
+       ],
+       "headline": "Österreich: rund 500 Euro mehr"
+      }
+     ]
+    },
+    {
+     "voice": "Warum? Österreich verlangt einen höheren Beitrag: 22,8 Prozent vom Lohn. In Deutschland sind es 18,6 Prozent.",
+     "sources": [
+      "s30"
+     ],
+     "visual": [
+      {
+       "type": "compare",
+       "title": "Rentenbeitrag vom Bruttolohn",
+       "left": {
+        "label": "Deutschland",
+        "value": "18,6 %",
+        "photo": "p20"
+       },
+       "right": {
+        "label": "Österreich",
+        "value": "22,8 %",
+        "photo": "p12"
+       },
+       "source": "IG Metall / DRV"
+      }
+     ]
+    },
+    {
+     "voice": "Und fast alle zahlen ein. In Österreich sind 94 Prozent der Erwerbstätigen in der gesetzlichen Rente versichert. In Deutschland sind es 79 Prozent, ohne Minijobber.",
+     "sources": [
+      "s25"
+     ],
+     "visual": [
+      {
+       "type": "bars",
+       "title": "Anteil Erwerbstätiger in der gesetzlichen Rente",
+       "unit": " %",
+       "items": [
+        [
+         "Deutschland",
+         79
+        ],
+        [
+         "Österreich",
+         94
+        ]
+       ],
+       "source": "Wirtschaftsdienst",
+       "highlight": "Deutschland",
+       "highlight_last": false
+      },
+      {
+       "type": "photo",
+       "photos": [
+        "p5"
+       ]
+      }
+     ]
+    },
+    {
+     "voice": "Dazu kommt: In Österreich zahlen alle Berufsgruppen in ein gemeinsames System ein. In Deutschland sind Beamte und viele Selbstständige nicht in der gesetzlichen Rente.",
+     "sources": [
+      "s32",
+      "s25"
+     ],
+     "visual": [
+      {
+       "type": "photo",
+       "photos": [
+        "p11",
+        "p18"
+       ],
+       "headline": "Ein System für alle"
+      }
+     ]
+    },
+    {
+     "voice": "Das Modell hat aber einen Preis. Die Abschläge für einen früheren Ruhestand sind höher. Und wer weniger als 15 Versicherungsjahre hat, bekommt dort keine reguläre Pension.",
+     "sources": [
+      "s26"
+     ],
+     "visual": [
+      {
+       "type": "statement",
+       "text": "Unter 15 Versicherungsjahren: keine Pension",
+       "highlight": [
+        "15"
+       ]
+      },
+      {
+       "type": "photo",
+       "photos": [
+        "p12"
+       ],
+       "headline": "Höhere Hürden in Österreich"
+      }
+     ]
+    },
+    {
+     "voice": "Kleine Renten fallen so aus der österreichischen Statistik heraus. Das hebt den Durchschnitt zusätzlich, sagen Kritiker wie der Wirtschaftsrat.",
+     "sources": [
+      "s28"
+     ],
+     "visual": [
+      {
+       "type": "photo",
+       "photos": [
+        "p11",
+        "p12"
+       ],
+       "layout": "split",
+       "headline": "Der Vergleich hat einen Haken"
+      }
+     ]
+    },
+    {
+     "voice": "Trotzdem ist der Abstand bei der Armut sichtbar. Die Altersarmutsquote liegt in Österreich bei 15 Prozent, in Deutschland bei 18 Prozent.",
+     "sources": [
+      "s27"
+     ],
+     "visual": [
+      {
+       "type": "bars",
+       "title": "Altersarmutsquote",
+       "unit": " %",
+       "items": [
+        [
+         "Österreich",
+         15
+        ],
+        [
+         "Deutschland",
+         18
+        ]
+       ],
+       "source": "heidelberg24 / Vergleichsstudie"
+      }
+     ]
+    },
+    {
+     "voice": "Kanzler Merz verweist auf Skandinavien. Die Skandinavier haben es geschafft, sagte er bei der Übergabe des Berichts.",
+     "sources": [
+      "s20",
+      "s24"
+     ],
+     "visual": [
+      {
+       "type": "photo",
+       "photos": [
+        "p5",
+        "p19"
+       ],
+       "headline": "Vorbild Skandinavien?"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "title": "Szenario 2030",
+   "scenes": [
+    {
+     "voice": "Was bedeutet das für die kommenden Jahre? Die Haltelinie von 48 Prozent gilt bis 2031. Danach ist offen, wie es weitergeht.",
+     "sources": [
+      "s9"
+     ],
+     "visual": [
+      {
+       "type": "statement",
+       "text": "Nach 2031: alles offen",
+       "highlight": [
+        "2031:"
+       ]
+      },
+      {
+       "type": "photo",
+       "photos": [
+        "p13"
+       ]
+      }
+     ]
+    },
+    {
+     "voice": "Im besseren Fall wird der Zugang zur Grundsicherung einfach und fast automatisch. Wer Anspruch hat, bekommt das Geld, ohne sich schämen zu müssen.",
+     "sources": [
+      "s12"
+     ],
+     "visual": [
+      {
+       "type": "photo",
+       "photos": [
+        "p5",
+        "p19"
+       ],
+       "headline": "Szenario A: Hilfe ohne Scham"
+      }
+     ]
+    },
+    {
+     "voice": "Im schlechteren Fall steigt die Zahl der armen Rentner weiter. Mehr Babyboomer, mehr kleine Renten, längere Schlangen vor den Tafeln.",
+     "sources": [
+      "s1",
+      "s3"
+     ],
+     "visual": [
+      {
+       "type": "photo",
+       "photos": [
+        "p10",
+        "p9"
+       ],
+       "headline": "Szenario B: Die Not wächst"
+      }
+     ]
+    },
+    {
+     "voice": "Viele Menschen sagen: Wer ein Leben lang gearbeitet hat, muss im Alter davon leben können. Die Politik muss nun zeigen, wie sie das erreichen will.",
+     "sources": [
+      "s3"
+     ],
+     "visual": [
+      {
+       "type": "statement",
+       "text": "Wer ein Leben lang arbeitet, muss davon leben können",
+       "highlight": [
+        "leben"
+       ]
+      },
+      {
+       "type": "photo",
+       "photos": [
+        "p17"
+       ]
+      }
+     ]
+    },
+    {
+     "voice": "Wenn Sie selbst betroffen sind: Grundsicherung im Alter ist ein Rechtsanspruch, kein Almosen. Der Antrag läuft über das örtliche Sozialamt.",
+     "sources": [
+      "s12"
+     ],
+     "visual": [
+      {
+       "type": "photo",
+       "photos": [
+        "p1"
+       ],
+       "layout": "framed",
+       "headline": "Grundsicherung ist ein Rechtsanspruch"
+      }
+     ]
+    },
+    {
+     "voice": "Was meinen Sie: Muss der Staat mehr tun? Oder müssen wir alle länger arbeiten? Schreiben Sie es in die Kommentare. Alle Quellen stehen in der Beschreibung.",
+     "sources": [
+      "s19"
+     ],
+     "visual": [
+      {
+       "type": "statement",
+       "text": "Mehr Staat – oder länger arbeiten?",
+       "highlight": [
+        "länger"
+       ]
+      },
+      {
+       "type": "photo",
+       "photos": [
+        "p20"
+       ]
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

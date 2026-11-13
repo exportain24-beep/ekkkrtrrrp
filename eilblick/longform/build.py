@@ -227,6 +227,8 @@ def description(ep: dict, doc: R.Doc) -> str:
 
 
 def publish_time(ep: dict) -> datetime:
+    if str(ep.get("publish_berlin", "")).lower() == "now":      # owner test: publish immediately
+        return datetime.now(timezone.utc)
     hh, mm = map(int, ep.get("publish_berlin", settings().get("longform", {}).get("publish_berlin", "18:00")).split(":"))
     d = datetime.fromisoformat(ep["date"]).date()
     return datetime(d.year, d.month, d.day, hh, mm, tzinfo=BERLIN)
@@ -286,10 +288,12 @@ def cmd_run(folder: Path, upload: bool, offline: bool, force: bool) -> int:
     if upload and not offline:
         from .. import upload_youtube as yt
         when = publish_time(ep)
-        if when < datetime.now(timezone.utc) + timedelta(minutes=15):
+        public_now = str(ep.get("publish_berlin", "")).lower() == "now"
+        if not public_now and when < datetime.now(timezone.utc) + timedelta(minutes=15):
             when = datetime.now(timezone.utc) + timedelta(minutes=20)
         vid = yt.upload(mp4, ep["youtube_title"], desc, ep["tags"], when, notify=True)
-        lines.append(f"YouTube: https://youtu.be/{vid} (geplant {when.astimezone(BERLIN):%d.%m. %H:%M} Berlin)")
+        lines.append(f"YouTube: https://youtu.be/{vid} " + ("(sofort öffentlich)" if public_now else
+                     f"(geplant {when.astimezone(BERLIN):%d.%m. %H:%M} Berlin)"))
         for step, fn in (("thumbnail", lambda: yt.set_thumbnail(vid, thumb)),
                          ("captions", lambda: yt.upload_captions(vid, cap))):
             try:
@@ -297,7 +301,8 @@ def cmd_run(folder: Path, upload: bool, offline: bool, force: bool) -> int:
                 lines.append(f"- {step} ✓")
             except Exception as e:
                 lines.append(f"- {step} ✗ {str(e)[:160]}")
-        lines.append("- Kommentar + Playlist folgen nach der Premiere (python -m eilblick.longform after)")
+        if not public_now:
+            lines.append("- Kommentar + Playlist folgen nach der Premiere (python -m eilblick.longform after)")
         E.register(ep, vid)
         # --force rebuild: the replaced (still scheduled, never public) upload is removed
         for old in old_ids:
@@ -315,6 +320,8 @@ def cmd_run(folder: Path, upload: bool, offline: bool, force: bool) -> int:
               "", "## Begleit-Short (Idee)", ep["short_hook"]]
     res.write_text("\n".join(lines) + "\n", encoding="utf-8")
     log("\n".join(lines))
+    if vid and str(ep.get("publish_berlin", "")).lower() == "now":
+        cmd_after(folder)
     if TMP.exists():
         shutil.rmtree(TMP)     # owner rule: news photos are temporary
     return 0
