@@ -393,6 +393,40 @@ def cmd_social(folder: Path, video: Path) -> int:
     return 0
 
 
+def cmd_quota() -> int:
+    """ElevenLabs balance (read-only, spends nothing). Writes state/longform/quota.md – no secrets."""
+    import os
+    import requests
+    h = {"xi-api-key": os.environ["ELEVENLABS_API_KEY"]}
+    sub = requests.get("https://api.elevenlabs.io/v1/user/subscription", headers=h, timeout=30)
+    lines = [f"# ElevenLabs Kontingent ({datetime.now(BERLIN):%d.%m.%Y %H:%M} Berlin)", "",
+             f"HTTP {sub.status_code}"]
+    if sub.ok:
+        j = sub.json()
+        used, lim = j.get("character_count"), j.get("character_limit")
+        lines.append(f"- Tarif: {j.get('tier')} · Status: {j.get('status')}")
+        if used is not None and lim is not None:
+            lines.append(f"- Zeichen/Credits verbraucht: {used:,} von {lim:,} · übrig: {lim - used:,}")
+        if j.get("next_character_count_reset_unix"):
+            lines.append(f"- Nächster Reset: {datetime.fromtimestamp(j['next_character_count_reset_unix'], BERLIN):%d.%m.%Y %H:%M}")
+        for k in ("can_extend_character_limit", "allowed_to_extend_character_limit", "max_character_limit_extension",
+                  "currency", "billing_period", "character_refresh_period", "has_open_invoices"):
+            if k in j:
+                lines.append(f"- {k}: {j[k]}")
+        inv = j.get("next_invoice") or {}
+        if inv:
+            lines.append(f"- next_invoice: {inv}")
+        lines += ["", "Rohdaten (ohne Schlüssel):", "```", json.dumps(
+            {k: v for k, v in j.items() if "key" not in k.lower()}, ensure_ascii=False, indent=1)[:3000], "```"]
+    else:
+        lines.append(sub.text[:300])
+    out = ROOT / "state" / "longform" / "quota.md"
+    out.parent.mkdir(parents=True, exist_ok=True)
+    out.write_text("\n".join(lines) + "\n", encoding="utf-8")
+    log("\n".join(lines))
+    return 0
+
+
 def main(argv=None) -> int:
     ap = argparse.ArgumentParser(prog="eilblick.longform")
     sub = ap.add_subparsers(dest="cmd", required=True)
@@ -405,10 +439,13 @@ def main(argv=None) -> int:
     r.add_argument("--force", action="store_true")
     af = sub.add_parser("after")
     af.add_argument("folder")
+    sub.add_parser("quota")
     so = sub.add_parser("social")
     so.add_argument("folder")
     so.add_argument("--video", required=True)
     a = ap.parse_args(argv)
+    if a.cmd == "quota":
+        return cmd_quota()
     folder = Path(a.folder)
     if not folder.is_absolute():
         folder = ROOT / folder

@@ -53,6 +53,11 @@ jobs:
         with:
           python-version: "3.12"
           cache: pip
+      - name: ElevenLabs balance (read-only)
+        if: github.event.inputs.mode == 'quota'
+        run: |
+          pip install -q -r requirements.txt
+          python -m eilblick.longform quota
       - name: After premiere – comment + playlist
         if: github.event.inputs.mode == 'after'
         run: |
@@ -67,16 +72,16 @@ jobs:
           ls -la /tmp/art
           python -m eilblick.longform social ${{ github.event.inputs.folder }} --video "$(ls /tmp/art/*.mp4 | head -1)"
       - name: Install ffmpeg + Python packages
-        if: github.event.inputs.mode != 'after' && github.event.inputs.mode != 'social'
+        if: github.event.inputs.mode == 'build' || github.event.inputs.mode == ''
         timeout-minutes: 15
         run: |
           bash tools/install_ffmpeg.sh
           pip install -q -r requirements.txt
       - name: Validate episode
-        if: github.event.inputs.mode != 'after' && github.event.inputs.mode != 'social'
+        if: github.event.inputs.mode == 'build' || github.event.inputs.mode == ''
         run: python -m eilblick.longform validate ${{ github.event.inputs.folder }}
       - name: Build & publish
-        if: github.event.inputs.mode != 'after' && github.event.inputs.mode != 'social'
+        if: github.event.inputs.mode == 'build' || github.event.inputs.mode == ''
         run: |
           ARGS="run ${{ github.event.inputs.folder }}"
           if [ "${{ github.event.inputs.upload }}" = "false" ]; then ARGS="$ARGS --no-upload"; fi
