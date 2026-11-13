@@ -1,0 +1,1871 @@
+{
+ "slot": {
+  "id": "fokus-politik",
+  "format": "single",
+  "time": "18:30",
+  "label": "Fokus Politik",
+  "focus": "Nur Tie-Breaker – immer zuerst die populärsten, meistberichteten Nachrichten. Bei Gleichstand bevorzugt: Die eine große politische oder sicherheitspolitische Enthüllung bzw. Eilmeldung des Tages aus Berlin, Wien, Bern oder Brüssel (Regierung, Kanzleramt, Hackerangriffe, Spionage, große Entscheidungen, Skandale).",
+  "notify_subscribers": false
+ },
+ "slot_time": "2026-11-13T18:30:00+01:00",
+ "date_text": "Freitag, 13. November 2026",
+ "already_published": [
+  "EU will Abo-Fallen verbieten",
+  "Nvidia bereitet Huangs Rauswurf vor",
+  "Putin empfängt Trumps Unterhändler",
+  "VW stoppt Projekt Gamechanger",
+  "Ökonomen heben Wachstumsprognose an",
+  "Weißes Haus droht den Demokraten",
+  "Blatter nennt Infantino Diktator",
+  "Iran droht US-Stützpunkten in Europa",
+  "IG Metall droht mit Ganztags-Streiks",
+  "Dax knackt erstmals 27.000 Punkte",
+  "Gericht: Grenzkontrollen rechtswidrig",
+  "Stromsteuer-Senkung vorerst gescheitert",
+  "Mercedes stoppt Investitionen",
+  "Bundeswehr stoppt Drohnen nach Hack",
+  "Putin lässt Europa an den Tisch",
+  "Microsoft: Outlook und Teams gestört",
+  "VW verdient nur zwölf Euro pro Auto",
+  "Rekordhaushalt: 560 Milliarden Euro",
+  "BND soll im Ausland sabotieren",
+  "Russland droht WM-Gastgeber Deutschland",
+  "Auto von Julian Reichelt angezündet"
+ ],
+ "candidates": [
+  {
+   "id": 0,
+   "score": 18.04,
+   "outlets": [
+    "tagesschau",
+    "ZDFheute",
+    "Deutsche Welle",
+    "ORF",
+    "Handelsblatt",
+    "NZZ",
+    "WirtschaftsWoche",
+    "Golem"
+   ],
+   "regions": [
+    "AT",
+    "CH",
+    "DE",
+    "INT"
+   ],
+   "trend": [],
+   "newest": "2026-11-13T14:43:02+00:00",
+   "articles": [
+    {
+     "source": "tagesschau",
+     "region": "DE",
+     "weight": 1.0,
+     "title": "Was über den Ausfall von Microsoft-Diensten bekannt ist",
+     "summary": "Eine stundenlange Großstörung hat weltweit Dienste des US-Softwarekonzerns Microsoft lahmgelegt, unter anderem das E-Mail-Programm Outlook. Wen es getroffen hat und welche Hintergründe vermutet werden - ein Überblick.",
+     "link": "https://www.tagesschau.de/wirtschaft/unternehmen/faq-ausfall-microsoft-dienste-weltweit-100.html",
+     "image": "https://images.tagesschau.de/image/cf43b90e-dedd-4716-a8b6-a8f22d964037/AAABoYa7d7o/AAABnSSvrFg/16x9-big/microsoft-196.jpg?width=1920",
+     "aggregator": false,
+     "published": "2026-11-13T14:43:02+00:00"
+    },
+    {
+     "source": "tagesschau",
+     "region": "DE",
+     "weight": 1.0,
+     "title": "Auch Outlook betroffen: Weltweite Störungen bei Microsoft-Diensten",
+     "summary": "Ein massiver weltweiter Ausfall von Microsoft-Diensten wie Outlook und Teams stört seit Donnerstag den Betrieb von Unternehmen und Behörden rund um den Globus. Maßnahmen zur Behebung des Problems verlaufen laut Microsoft \"nicht wie erhofft\".",
+     "link": "https://www.tagesschau.de/wirtschaft/digitales/microsoft-outlook-ausfall-100.html",
+     "image": "https://images.tagesschau.de/image/f88dd7d2-f43e-4a23-85cb-139aab8c4930/AAABodHzeW4/AAABnSSvrFg/16x9-big/microsoft-210.jpg?width=1920",
+     "aggregator": false,
+     "published": "2026-11-13T08:07:39+00:00"
+    },
+    {
+     "source": "tagesschau Wirtschaft",
+     "region": "DE",
+     "weight": 1.0,
+     "title": "Was über den Ausfall von Microsoft-Diensten bekannt ist",
+     "summary": "Eine stundenlange Großstörung hat weltweit Dienste des US-Softwarekonzerns Microsoft lahmgelegt, unter anderem das E-Mail-Programm Outlook. Wen es getroffen hat und welche Hintergründe vermutet werden - ein Überblick.",
+     "link": "https://www.tagesschau.de/wirtschaft/unternehmen/faq-ausfall-microsoft-dienste-weltweit-100.html",
+     "image": "https://images.tagesschau.de/image/cf43b90e-dedd-4716-a8b6-a8f22d964037/AAABoYa7d7o/AAABnSSvrFg/16x9-big/microsoft-196.jpg?width=1920",
+     "aggregator": false,
+     "published": "2026-11-13T14:43:02+00:00"
+    },
+    {
+     "source": "ZDFheute",
+     "region": "DE",
+     "weight": 1.0,
+     "title": "Weltweite Ausfälle: Microsoft meldet \"Fortschritte\"",
+     "summary": "Eine großflächige Störung bei Microsofts Outlook und weiteren Diensten bereitet Nutzern weltweit Probleme. Nun meldet Microsoft \"Fortschritte\" bei der Fehlerbehebung.",
+     "link": "https://www.zdfheute.de/wirtschaft/stoerung-outlook-teams-microsoft-100.html",
+     "image": "https://www.zdfheute.de/assets/microsoft-usa-100~384x216?cb=1794534017985",
+     "aggregator": false,
+     "published": "2026-11-13T12:26:00+00:00"
+    },
+    {
+     "source": "Deutsche Welle",
+     "region": "INT",
+     "weight": 0.95,
+     "title": "Microsoft sieht nach Panne keinen Hinweis auf Cyber-Angriff",
+     "summary": "Ein Ausfall von Diensten des US-Techkonzerns Microsoft hat weltweit für Störungen bei Firmen und privaten Anwendern gesorgt. Der Konzern findet bislang keine Anzeichen für eine Cyberattacke.",
+     "link": "https://www.dw.com/de/microsoft-sieht-nach-panne-keinen-hinweis-auf-cyber-angriff/a-79940856?maca=de-rss-de-all-1119-xml-mrss",
+     "image": "https://static.dw.com/image/79937613_302.jpg",
+     "aggregator": false,
+     "published": "2026-11-13T14:26:00+00:00"
+    },
+    {
+     "source": "ORF",
+     "region": "AT",
+     "weight": 0.95,
+     "title": "Langsame Erholung bei Microsoft-Diensten",
+     "summary": "Microsoft hat auch am Freitag versucht, die seit Donnerstagabend aufgetretenen Ausfälle bei Diensten aus dem Cloud-Paket Microsoft 365 zu beheben. Es gebe weitere Fortschritte, hieß es am Nachmittag, nun arbeite man an der Stabilisierung und Erhöhung der Kapazitäten. Der Datenverkehr wurde inzwischen wieder schrittweise aufgenommen. Die Störung betraf Nutzer und Nutzerinnen weltweit – in Nord- und Südamerika sowie in Teilen Europas, Asiens und Afrikas.",
+     "link": "https://orf.at/stories/3448080/",
+     "image": null,
+     "aggregator": false,
+     "published": "2026-11-13T11:10:27+00:00"
+    },
+    {
+     "source": "Handelsblatt",
+     "region": "DE",
+     "weight": 0.9,
+     "title": "Cloud-Probleme: Langer Ausfall bei Microsoft löst gravierende Störungen aus",
+     "summary": "Unternehmen und Verbraucher müssen weltweit wegen einer Großstörung bei Microsoft massive Einschränkungen hinnehmen. Nach vielen Stunden kommen die Dienste wieder ins Laufen.",
+     "link": "https://www.handelsblatt.com/technik/it-internet/cloud-probleme-langer-ausfall-bei-microsoft-loest-gravierende-stoerungen-aus/100269542.html",
+     "image": "https://images.handelsblatt.com/byph4d3wTYgq/cover/900/506/0/0/125/125/0.5/0.5/microsoft-stoerung.jpg",
+     "aggregator": false,
+     "published": "2026-11-13T14:08:48+00:00"
+    },
+    {
+     "source": "Handelsblatt",
+     "region": "DE",
+     "weight": 0.9,
+     "title": "Beeinträchtigung oder Ausfall?: Dienste down? - Was Ihnen Microsofts Statusseite verrät",
+     "summary": "Großstörung bei Microsoft: Da ist der Informationsbedarf groß, auch bei Privatanwendern. Wo Sie den aktuellen Status der Microsoft-Dienste von Copilot bis OneDrive abrufen können - und was er verrät.",
+     "link": "https://www.handelsblatt.com/technik/it-internet/beeintraechtigung-oder-ausfall-dienste-down-was-ihnen-microsofts-statusseite-verraet/100269758.html",
+     "image": "https://images.handelsblatt.com/Xs6siZJjH5ul/cover/900/506/0/0/86/86/0.5/0.5/status-seite-fuer-microsofts-online-dienste.jpg",
+     "aggregator": false,
+     "published": "2026-11-13T13:34:43+00:00"
+    }
+   ]
+  },
+  {
+   "id": 1,
+   "score": 15.72,
+   "outlets": [
+    "tagesschau",
+    "ZDFheute",
+    "Deutschlandfunk",
+    "Süddeutsche",
+    "Handelsblatt",
+    "DER STANDARD",
+    "BR"
+   ],
+   "regions": [
+    "AT",
+    "DE"
+   ],
+   "trend": [],
+   "newest": "2026-11-13T16:08:16+00:00",
+   "articles": [
+    {
+     "source": "tagesschau",
+     "region": "DE",
+     "weight": 1.0,
+     "title": "Cyberangriff auf Quantum Systems: Wie wurde der Drohnenhersteller zum Ziel?",
+     "summary": "Nach dem Cyberangriff auf den bayerischen Drohnenhersteller Quantum Systems läuft die Suche nach den Tätern. Vieles deutet auf einen russischen Hintergrund hin. Das Unternehmen ist wichtiger Ausrüster des ukrainischen Militärs. Von Stephan Lina.",
+     "link": "https://www.tagesschau.de/wirtschaft/unternehmen/quantum-systems-cyberangriff-102.html",
+     "image": "https://images.tagesschau.de/image/76e76dc2-084b-4083-b0f6-0170948898c1/AAABodV3-1Q/AAABnSSvrFg/16x9-big/quantum-systems-102.jpg?width=1920",
+     "aggregator": false,
+     "published": "2026-11-13T16:02:19+00:00"
+    },
+    {
+     "source": "tagesschau",
+     "region": "DE",
+     "weight": 1.0,
+     "title": "Bayerischer Drohnenhersteller Quantum Systems meldet Cyberangriff",
+     "summary": "Der bayerische Rüstungskonzern Quantum Systems ist nach eigenen Angaben Opfer eines Cyberangriffs geworden. Der Vorfall fand im Oktober statt. Laut einem Medienbericht hat die Bundeswehr bereits reagiert.",
+     "link": "https://www.tagesschau.de/inland/quantum-systems-cyberangriff-100.html",
+     "image": "https://images.tagesschau.de/image/7aa52c28-02c2-447e-8843-707c8a2139e5/AAABodGXxPU/AAABnSSvrFg/16x9-big/quantum-systems-100.jpg?width=1920",
+     "aggregator": false,
+     "published": "2026-11-12T21:09:07+00:00"
+    },
+    {
+     "source": "tagesschau Inland",
+     "region": "DE",
+     "weight": 1.0,
+     "title": "Bayerischer Drohnenhersteller Quantum Systems meldet Cyberangriff",
+     "summary": "Der bayerische Rüstungskonzern Quantum Systems ist nach eigenen Angaben Opfer eines Cyberangriffs geworden. Der Vorfall fand im Oktober statt. Laut einem Medienbericht hat die Bundeswehr bereits reagiert.",
+     "link": "https://www.tagesschau.de/inland/quantum-systems-cyberangriff-100.html",
+     "image": "https://images.tagesschau.de/image/7aa52c28-02c2-447e-8843-707c8a2139e5/AAABodGXxPU/AAABnSSvrFg/16x9-big/quantum-systems-100.jpg?width=1920",
+     "aggregator": false,
+     "published": "2026-11-12T21:09:07+00:00"
+    },
+    {
+     "source": "tagesschau Wirtschaft",
+     "region": "DE",
+     "weight": 1.0,
+     "title": "Cyberangriff auf Quantum Systems: Wie wurde der Drohnenhersteller zum Ziel?",
+     "summary": "Nach dem Cyberangriff auf den bayerischen Drohnenhersteller Quantum Systems läuft die Suche nach den Tätern. Vieles deutet auf einen russischen Hintergrund hin. Das Unternehmen ist wichtiger Ausrüster des ukrainischen Militärs. Von Stephan Lina.",
+     "link": "https://www.tagesschau.de/wirtschaft/unternehmen/quantum-systems-cyberangriff-102.html",
+     "image": "https://images.tagesschau.de/image/76e76dc2-084b-4083-b0f6-0170948898c1/AAABodV3-1Q/AAABnSSvrFg/16x9-big/quantum-systems-102.jpg?width=1920",
+     "aggregator": false,
+     "published": "2026-11-13T16:02:19+00:00"
+    },
+    {
+     "source": "ZDFheute",
+     "region": "DE",
+     "weight": 1.0,
+     "title": "Quantum Systems: Cyberangriff auf deutschen Drohnenhersteller",
+     "summary": "Quantum Systems beliefert auch die Ukraine mit Drohnen. Das Start-up aus Bayern hat nach eigenen Angaben nun einen Cyberangriff feindlicher Akteure eingedämmt.",
+     "link": "https://www.zdfheute.de/wirtschaft/unternehmen/cyberangriff-quantum-systems-ruestungs-start-up-100.html",
+     "image": "https://www.zdfheute.de/assets/quantum-systems-muenchen-100~384x216?cb=1794560183696",
+     "aggregator": false,
+     "published": "2026-11-13T10:30:00+00:00"
+    },
+    {
+     "source": "Deutschlandfunk",
+     "region": "DE",
+     "weight": 0.95,
+     "title": "Bayerisches Unternehmen - Drohnenhersteller Quantum Systems meldet Cyberangriff",
+     "summary": "Der deutsche Drohnenhersteller Quantum Systems ist nach eigenen Angaben Opfer eines Cyberangriffs geworden.",
+     "link": "https://www.deutschlandfunk.de/drohnenhersteller-quantum-systems-meldet-cyberangriff-100.html",
+     "image": "https://bilder.deutschlandfunk.de/5e/3f/71/44/5e3f7144-35eb-4f23-b2b5-cf91c040042e/quantum-systems-waffen-drohnen-100-1920x1920.jpg",
+     "aggregator": false,
+     "published": "2026-11-13T16:08:16+00:00"
+    },
+    {
+     "source": "Süddeutsche",
+     "region": "DE",
+     "weight": 0.9,
+     "title": "Quantum Systems: Ein Cyberangriff, der viele Fragen aufwirft",
+     "summary": "Im Oktober wurde der Münchner Drohnenhersteller Quantum Systems gehackt. Betroffen von der schadhaften Software war auch die Bundeswehr, weshalb auch der Verfassungsschutz alarmiert ist.",
+     "link": "https://www.sueddeutsche.de/wirtschaft/quantum-systems-hackerangriff-drohnen-bundeswehr-muenchen-li.3579860",
+     "image": "https://www.sueddeutsche.de/2026/11/13/ebcf35a2-9a3c-4986-b128-77bfcdc78410.jpg?rect=221%2C0%2C3557%2C2668&width=1000&fm=jpg&q=60",
+     "aggregator": false,
+     "published": "2026-11-13T12:48:41+00:00"
+    },
+    {
+     "source": "Handelsblatt",
+     "region": "DE",
+     "weight": 0.9,
+     "title": "Drohnenhersteller: Generalstaatsanwalt ermittelt nach Cyberattacke auf Quantum",
+     "summary": "Der Drohnenhersteller Quantum Systems ist langjähriger Lieferant der ukrainischen Streitkräfte - und wurde Ziel der Cyberattacke eines „feindseligen Akteurs“. Nun ermittelt eine zivile Stelle.",
+     "link": "https://www.handelsblatt.com/politik/deutschland/drohnenhersteller-generalstaatsanwalt-ermittelt-nach-cyberattacke-auf-quantum/100269774.html",
+     "image": "https://images.handelsblatt.com/3ogJPgiqkHG-/cover/900/506/0/0/107/106/0.5/0.5/drohnen-vorfuehrung-von-quantum-systems.jpg",
+     "aggregator": false,
+     "published": "2026-11-13T14:44:44+00:00"
+    }
+   ]
+  },
+  {
+   "id": 2,
+   "score": 14.82,
+   "outlets": [
+    "ZDFheute",
+    "Deutschlandfunk",
+    "SRF News",
+    "NZZ",
+    "DER STANDARD",
+    "n-tv"
+   ],
+   "regions": [
+    "AT",
+    "CH",
+    "DE"
+   ],
+   "trend": [],
+   "newest": "2026-11-13T16:08:16+00:00",
+   "articles": [
+    {
+     "source": "ZDFheute",
+     "region": "DE",
+     "weight": 1.0,
+     "title": "Russland droht Gastgeber Deutschland",
+     "summary": "Russlands Eishockey-Verband droht Deutschland bei einem Ausschluss von der Weltmeisterschaft mit Schadenersatz. Putin erhebt Vorwürfe.",
+     "link": "https://www.zdfheute.de/sport/eishockey-wm-russland-putin-deutschland-streit-100.html",
+     "image": "https://www.zdfheute.de/assets/eishockey-wm-bully-typical-100~384x216?cb=1794566208065",
+     "aggregator": false,
+     "published": "2026-11-13T10:32:00+00:00"
+    },
+    {
+     "source": "Deutschlandfunk",
+     "region": "DE",
+     "weight": 0.95,
+     "title": "Eishockey-Streit - Russland droht Gastgeber Deutschland mit Schadenersatzforderungen im Fall von WM-Ausschluss",
+     "summary": "Der russische Eishockeyverband hat dem Deutschen Eishockey-Bund für den Fall eines Ausschlusses von der WM im kommenden Jahr mit Schadenersatzforderungen gedroht.",
+     "link": "https://www.deutschlandfunk.de/russland-droht-gastgeber-deutschland-mit-schadenersatzforderungen-im-fall-von-wm-ausschluss-102.html",
+     "image": "https://bilder.deutschlandfunk.de/78/5c/ab/c9/785cabc9-ab8b-4b01-b182-e6e10b1040e9/eishockey-russland-100-1920x1920.jpg",
+     "aggregator": false,
+     "published": "2026-11-13T16:08:16+00:00"
+    },
+    {
+     "source": "SRF News",
+     "region": "CH",
+     "weight": 0.95,
+     "title": "Putin: Grundsätze missachtet – Eishockey-Streit: Russland droht WM-Gastgeber Deutschland",
+     "summary": "Im Zoff um die WM-Teilnahme legt Russlands Eishockey-Chef mit Drohungen gegen den nächsten Gastgeber nach.",
+     "link": "https://www.srf.ch/sport/eishockey/eishockey-allgemein/putin-grundsaetze-missachtet-eishockey-streit-russland-droht-wm-gastgeber-deutschland",
+     "image": "https://www.srf.ch/static/cms/images//320ws/828e05.webp",
+     "aggregator": false,
+     "published": "2026-11-13T08:08:22+00:00"
+    },
+    {
+     "source": "NZZ",
+     "region": "CH",
+     "weight": 0.9,
+     "title": "DIE NEUESTEN ENTWICKLUNGEN - Streit um Russlands WM-Teilnahme: Russischer Eishockeyverband droht Gastgeber Deutschland",
+     "summary": "Der Internationale Sportgerichtshof hat den Ausschluss Russlands von Eishockey-Weltmeisterschaften aufgehoben. Doch zahlreiche Länder wehren sich gegen die Rückkehr der Russen. Was bedeutet das für das kommende Turnier? Die wichtigsten Fragen und Antworten.",
+     "link": "https://www.nzz.ch/sport/streit-um-russlands-wm-teilnahme-russischer-eishockeyverband-droht-gastgeber-deutschland-ld.10063174",
+     "image": "https://img-msp-prod.nzz.ch/2026/11/13/95a06955-07d8-49a3-83c2-0987b431553c.jpg?width=200&height=200&fit=bounds&quality=75&auto=webp&crop=3158,3158,x809,y0",
+     "aggregator": false,
+     "published": "2026-11-13T14:59:26+00:00"
+    },
+    {
+     "source": "DER STANDARD",
+     "region": "AT",
+     "weight": 0.85,
+     "title": "Eishockey: Russland droht WM-Gastgeber Deutschland",
+     "summary": "Schadenersatzforderungen sollen gestellt werden, wenn das russische Team nicht antreten darf. Putin: Grundsätze der Olympischen Charta missachtet",
+     "link": "https://www.derstandard.at/story/3000000349089/eishockey-russland-droht-wm-gastgeber-deutschland?ref=rss",
+     "image": "https://i.ds.at/WAfiCg/rs:fill:150:0/plain/lido-images/2026/11/13/28605832-b569-47ed-8b99-127d4177384a.jpg",
+     "aggregator": false,
+     "published": "2026-11-13T08:57:18+00:00"
+    },
+    {
+     "source": "n-tv",
+     "region": "DE",
+     "weight": 0.8,
+     "title": "WM-Ausschluss?: Russischer Verband und Putin drohen Deutschland im Eishockey-Zoff",
+     "summary": "Im Streit um die WM-Teilnahme legt Russlands Eishockey-Chef mit Drohungen gegen den nächsten Gastgeber nach. Auch Kremlchef Wladimir Putin äußert Vorwürfe. Die hitzige Debatte geht weiter.",
+     "link": "https://www.n-tv.de/sport/Russischer-Verband-und-Putin-drohen-Deutschland-im-Eishockey-Zoff-id31529306.html",
+     "image": "https://www.n-tv.de/img/3364041/1794559764/Img_4_3/250/image.jpg",
+     "aggregator": false,
+     "published": "2026-11-13T08:37:39+00:00"
+    }
+   ]
+  },
+  {
+   "id": 3,
+   "score": 13.0,
+   "outlets": [
+    "tagesschau Inland",
+    "Deutsche Welle",
+    "SRF News",
+    "DER STANDARD",
+    "n-tv"
+   ],
+   "regions": [
+    "AT",
+    "CH",
+    "DE",
+    "INT"
+   ],
+   "trend": [],
+   "newest": "2026-11-13T16:04:27+00:00",
+   "articles": [
+    {
+     "source": "tagesschau Inland",
+     "region": "DE",
+     "weight": 1.0,
+     "title": "Warum sitzt Deutschland in Abu Dhabi nicht am Verhandlungstisch?",
+     "summary": "Derzeit treffen sich in Abu Dhabi Vertreter der Ukraine, Russlands und der USA, um Gespräche über ein Ende des Krieges wieder aufzunehmen. Europa scheint im Abseits, obwohl Deutschland der größte Unterstützer der Ukraine ist. Von N. Markwald.",
+     "link": "https://www.tagesschau.de/inland/innenpolitik/deutschland-rolle-ukraine-gespraeche-100.html",
+     "image": "https://images.tagesschau.de/image/59c612e1-678f-4aed-bbfb-7469096f2544/AAABocTEhrw/AAABnSSvrFg/16x9-big/merz-selenskyj-144.jpg?width=1920",
+     "aggregator": false,
+     "published": "2026-11-10T14:15:52+00:00"
+    },
+    {
+     "source": "tagesschau Ausland",
+     "region": "INT",
+     "weight": 1.0,
+     "title": "Gespräche in Abu Dhabi: Gedämpfte Erwartungen der Ukraine",
+     "summary": "Heute beginnen trilaterale Verhandlungen in Abu Dhabi. Können die Gespräche mit den USA und Russland einen echten Frieden bringen - oder führen sie zu einer Schwächung der Ukraine? Die Erwartungen in der Ukraine sind gering. Von F. Kellermann.",
+     "link": "https://www.tagesschau.de/ausland/europa/ukraine-erwartungen-gespraeche-100.html",
+     "image": "https://images.tagesschau.de/image/359f2fcf-a8ed-44fb-99fc-36c901fb94da/AAABocLfjcw/AAABnSSvrFg/16x9-big/ukraine-kiew-flagge-100.jpg?width=1920",
+     "aggregator": false,
+     "published": "2026-11-10T01:13:48+00:00"
+    },
+    {
+     "source": "Deutsche Welle",
+     "region": "INT",
+     "weight": 0.95,
+     "title": "Gespräche in Abu Dhabi: Was haben sie der Ukraine gebracht?",
+     "summary": "Die ersten trilateralen Gespräche zwischen der Ukraine, den USA und Russland seit neun Monaten endeten mit einer Einigung über einen Gefangenenaustausch. Ist das Ergebnis ein echter Erfolg und ein Schritt zum Frieden?",
+     "link": "https://www.dw.com/de/gespräche-in-abu-dhabi-was-haben-sie-der-ukraine-gebracht/a-79927783?maca=de-rss-de-all-1119-xml-mrss",
+     "image": "https://static.dw.com/image/79918396_302.jpg",
+     "aggregator": false,
+     "published": "2026-11-12T12:07:00+00:00"
+    },
+    {
+     "source": "SRF News",
+     "region": "CH",
+     "weight": 0.95,
+     "title": "Verhandlungen zu Ukraine-Krieg – Die Gespräche in Abu Dhabi sind beendet – so geht es weiter",
+     "summary": "Delegationen aus Russland und der Ukraine haben erstmals wieder miteinander verhandelt. Die wichtigsten Punkte.",
+     "link": "https://www.srf.ch/news/international/verhandlungen-zu-ukraine-krieg-die-gespraeche-in-abu-dhabi-sind-beendet-so-geht-es-weiter",
+     "image": "https://www.srf.ch/static/cms/images//320ws/016f7d.webp",
+     "aggregator": false,
+     "published": "2026-11-11T15:03:00+00:00"
+    },
+    {
+     "source": "DER STANDARD",
+     "region": "AT",
+     "weight": 0.85,
+     "title": "Putin hat Trump und Europa mit seinem Krieg gegen die Ukraine in eine fatale Falle gelockt",
+     "summary": "In Abu Dhabi ging es nicht um Frieden für die Ukraine, sondern um Russlands Einfluss auf Europa. Dieses könnte bald vor einem gefährlichen Dilemma stehen",
+     "link": "https://www.derstandard.at/story/3000000349111/putin-hat-trump-und-europa-mit-seinem-krieg-gegen-die-ukraine-in-eine-fatale-falle-gelockt?ref=rss",
+     "image": "https://i.ds.at/r6DN-w/rs:fill:150:0/plain/lido-images/2026/11/13/4db24d30-4a50-4680-9692-7892b86552d1.jpg",
+     "aggregator": false,
+     "published": "2026-11-13T16:04:27+00:00"
+    },
+    {
+     "source": "n-tv",
+     "region": "DE",
+     "weight": 0.8,
+     "title": "Teilnahmegarantie für Berlin?: Merz: Europa wird bei Ukraine-Verhandlungen mit am Tisch sitzen",
+     "summary": "Bei den Gesprächen zwischen der Ukraine, Russland und den USA in Abu Dhabi sind deutsche Sicherheitsberater zwar vor Ort, sitzen aber nicht am Verhandlungstisch. Kanzler Merz ist zuversichtlich, dass das in Zukunft anders sein wird. Doch volles Vertrauen scheint er mit Blick auf die USA nicht zu haben.",
+     "link": "https://www.n-tv.de/politik/Merz-Europa-wird-bei-Ukraine-Verhandlungen-mit-am-Tisch-sitzen-id31531104.html",
+     "image": "https://www.n-tv.de/img/31531162/1794580260/Img_4_3/250/632643937.jpg",
+     "aggregator": false,
+     "published": "2026-11-13T14:30:24+00:00"
+    }
+   ]
+  },
+  {
+   "id": 4,
+   "score": 12.88,
+   "outlets": [
+    "ORF",
+    "SRF News",
+    "SPIEGEL",
+    "Handelsblatt",
+    "DER STANDARD"
+   ],
+   "regions": [
+    "AT",
+    "CH",
+    "DE"
+   ],
+   "trend": [],
+   "newest": "2026-11-13T15:43:46+00:00",
+   "articles": [
+    {
+     "source": "ORF",
+     "region": "AT",
+     "weight": 0.95,
+     "title": "IEA: Ölversorgung erholt sich erstmals seit Iran-Krieg",
+     "summary": "",
+     "link": "https://orf.at/stories/3448097/",
+     "image": null,
+     "aggregator": false,
+     "published": "2026-11-13T13:21:22+00:00"
+    },
+    {
+     "source": "SRF News",
+     "region": "CH",
+     "weight": 0.95,
+     "title": "Krieg im Nahen Osten – Ölversorgung erholt sich erstmals seit Beginn des Iran-Kriegs",
+     "summary": "Der Ölmarkt zeige erste vorsichtige Anzeichen einer Marktstabilisierung, teilte die IEA in Paris mit.",
+     "link": "https://www.srf.ch/news/international/nahost/krieg-im-nahen-osten-oelversorgung-erholt-sich-erstmals-seit-beginn-des-iran-kriegs",
+     "image": "https://www.srf.ch/static/cms/images//320ws/d90155.webp",
+     "aggregator": false,
+     "published": "2026-11-13T13:09:43+00:00"
+    },
+    {
+     "source": "SPIEGEL",
+     "region": "DE",
+     "weight": 0.9,
+     "title": "Iran: Öl-Versorgung erholt sich erstmals seit Beginn des Kriegs etwas",
+     "summary": "Auf den Ölmärkten herrscht seit dem Ausbruch des Irankrieges Ausnahmezustand. Nun übersteigt das weltweite Angebot laut IEA erstmals wieder die Nachfrage.",
+     "link": "https://www.spiegel.de/wirtschaft/oel-versorgung-erholt-sich-erstmals-seit-beginn-des-irankriegs-etwas-a-115c8f18-2361-4368-8f4e-6b1462aa4652#ref=rss",
+     "image": "https://cdn.prod.www.spiegel.de/images/b394db67-9e71-4142-9cfb-325c617bd321_w520_r2.08_fpx47.68_fpy49.99.jpg",
+     "aggregator": false,
+     "published": "2026-11-13T13:47:00+00:00"
+    },
+    {
+     "source": "Handelsblatt",
+     "region": "DE",
+     "weight": 0.9,
+     "title": "Ölmarkt: Ölversorgung erholt sich erstmals seit Iran-Krieg",
+     "summary": "Die Internationale Energie-Agentur (IEA) sieht nach Monaten erstmals wieder Bewegung hin zu stabileren Ölmärkten. Doch die Erholung verläuft nicht in allen Bereichen gleich.",
+     "link": "https://www.handelsblatt.com/politik/international/oelmarkt-oelversorgung-erholt-sich-erstmals-seit-iran-krieg/100269743.html",
+     "image": "https://images.handelsblatt.com/ZqYSMxSDqGkT/cover/900/506/0/0/625/0/0.5/0.5/archiv-12.03.2026-niedersachsen-wilhelmshaven-kesselwagen-stehen-vor-grossen-lagertanks-auf-dem.jpg",
+     "aggregator": false,
+     "published": "2026-11-13T13:20:44+00:00"
+    },
+    {
+     "source": "Handelsblatt",
+     "region": "DE",
+     "weight": 0.9,
+     "title": "Export zieht wieder an: IEA: Ölversorgung erholt sich erstmals seit Iran-Krieg",
+     "summary": "Die Internationale Energie-Agentur sieht nach Monaten erstmals wieder Bewegung hin zu stabileren Ölmärkten. Doch die Erholung verläuft nicht in allen Bereichen gleich.",
+     "link": "https://www.handelsblatt.com/politik/deutschland/export-zieht-wieder-an-iea-oelversorgung-erholt-sich-erstmals-seit-iran-krieg/100269744.html",
+     "image": "https://images.handelsblatt.com/0tcuS-P5e10m/cover/900/506/0/0/107/106/0.5/0.5/iea-oelversorgung-erholt-sich-erstmals-seit-iran-krieg.jpg",
+     "aggregator": false,
+     "published": "2026-11-13T13:00:26+00:00"
+    },
+    {
+     "source": "DER STANDARD",
+     "region": "AT",
+     "weight": 0.85,
+     "title": "Energieagentur: Ölversorgung erholt sich erstmals seit Iran-Krieg",
+     "summary": "Vorräte stiegen im Oktober um 52 Millionen Barrel",
+     "link": "https://www.derstandard.at/story/3000000349177/energieagentur-oelversorgung-erholt-sich-erstmals-seit-iran-krieg?ref=rss",
+     "image": "https://i.ds.at/2UoTTw/rs:fill:150:0/plain/lido-images/2026/11/13/5f1b7714-3906-4ca5-832f-556caa2fc476.jpg",
+     "aggregator": false,
+     "published": "2026-11-13T15:43:46+00:00"
+    }
+   ]
+  },
+  {
+   "id": 5,
+   "score": 12.72,
+   "outlets": [
+    "Deutschlandfunk",
+    "SPIEGEL",
+    "Handelsblatt",
+    "DER STANDARD",
+    "n-tv"
+   ],
+   "regions": [
+    "AT",
+    "DE"
+   ],
+   "trend": [],
+   "newest": "2026-11-13T16:08:16+00:00",
+   "articles": [
+    {
+     "source": "Deutschlandfunk",
+     "region": "DE",
+     "weight": 0.95,
+     "title": "Fußball-Bundesligist - BVB beendet umstrittene Partnerschaft mit Rheinmetall",
+     "summary": "Borussia Dortmund beendet seine umstrittene Sponsoringpartnerschaft mit dem Rüstungskonzern Rheinmetall. Der im Sommer 2027 auslaufende Vertrag soll nach drei Jahren nicht verlängert werden, teilten der Fußball-Bundesligist und das Düsseldorfer Unternehmen mit.",
+     "link": "https://www.deutschlandfunk.de/bvb-beendet-umstrittene-partnerschaft-mit-rheinmetall-100.html",
+     "image": "https://bilder.deutschlandfunk.de/04/1d/35/4e/041d354e-9471-409e-8a2b-77d4cead88e0/bvb-logo-100-1920x1920.jpg",
+     "aggregator": false,
+     "published": "2026-11-13T16:08:16+00:00"
+    },
+    {
+     "source": "SPIEGEL",
+     "region": "DE",
+     "weight": 0.9,
+     "title": "Rheinmetall: Borussia Dortmund beendet umstrittene Partnerschaft",
+     "summary": "Bei vielen Dortmund-Fans dürfte die Erleichterung größer sein als nach einem knappen Heimsieg: Der Vertrag des BVB mit Rheinmetall wird nicht verlängert. Das reduziert laut Club jedoch die »finanziellen Spielräume«.",
+     "link": "https://www.spiegel.de/sport/fussball/borussia-dortmund-bvb-beendet-umstrittene-partnerschaft-mit-rheinmetall-a-5e3992d3-304a-4650-8ae2-a0f096b03ffe#ref=rss",
+     "image": "https://cdn.prod.www.spiegel.de/images/b8db56cd-e7da-4074-baf4-d2a6a77be278_w520_r2.08_fpx33.34_fpy50.jpg",
+     "aggregator": false,
+     "published": "2026-11-13T13:50:00+00:00"
+    },
+    {
+     "source": "Handelsblatt",
+     "region": "DE",
+     "weight": 0.9,
+     "title": "Rüstung: BVB beendet umstrittene Partnerschaft mit Rheinmetall",
+     "summary": "Der Bundesligist verlängert den Deal mit dem Rüstungskonzern nach Kritik von Fans und Mitgliedern nicht. Vor allem Borussia-Präsident Watzke stand lange hinter dem Geschäft.",
+     "link": "https://www.handelsblatt.com/unternehmen/industrie/ruestung-bvb-beendet-umstrittene-partnerschaft-mit-rheinmetall/100269747.html",
+     "image": "https://images.handelsblatt.com/m2av0JZ9lpJb/cover/900/506/0/0/441/178/0.5/0.5/archiv-27.11.2023-nordrhein-westfalen-dortmund-fussball-bundesliga-hauptversammlung-borussia-d.jpg",
+     "aggregator": false,
+     "published": "2026-11-13T13:14:44+00:00"
+    },
+    {
+     "source": "DER STANDARD",
+     "region": "AT",
+     "weight": 0.85,
+     "title": "Aus für umstrittenen Sponsoring-Deal mit Rheinmetall bei Borussia Dortmund",
+     "summary": "Es gibt keine Fortsetzung der Kooperation mit dem Rüstungskonzern. Ausschlaggebend war die anhaltende Kritik der BVB-Fans an der Partnerschaft",
+     "link": "https://www.derstandard.at/story/3000000349192/aus-fuer-umstrittenen-sponsoring-deal-mit-rheinmetall-bei-borussia-dortmund?ref=rss",
+     "image": "https://i.ds.at/qRvphw/rs:fill:150:0/plain/lido-images/2026/11/13/44d8ec73-d59f-4de5-b48b-91461f8a6c42.jpg",
+     "aggregator": false,
+     "published": "2026-11-13T15:49:00+00:00"
+    },
+    {
+     "source": "n-tv",
+     "region": "DE",
+     "weight": 0.8,
+     "title": "Umstrittenes Sponsoring: BVB beendet Zusammenarbeit mit Rheinmetall",
+     "summary": "Vor zweieinhalb Jahren geht Borussia Dortmund einen Deal mit dem Rüstungskonzern Rheinmetall ein. Das bringt dem Klub viel Kritik ein. Nun steht das Ende der Zusammenarbeit bevor.",
+     "link": "https://www.n-tv.de/sport/fussball/Keine-Verlaengerung-BVB-trennt-sich-von-Sponsor-Rheinmetall-id31530133.html",
+     "image": "https://www.n-tv.de/img/31530142/1794569747/Img_4_3/250/image.jpg",
+     "aggregator": false,
+     "published": "2026-11-13T11:16:27+00:00"
+    }
+   ]
+  },
+  {
+   "id": 6,
+   "score": 11.84,
+   "outlets": [
+    "tagesschau",
+    "ZDFheute",
+    "Handelsblatt",
+    "Golem",
+    "tagesschau.de"
+   ],
+   "regions": [
+    "DE"
+   ],
+   "trend": [],
+   "newest": "2026-11-13T16:11:18+00:00",
+   "articles": [
+    {
+     "source": "tagesschau",
+     "region": "DE",
+     "weight": 1.0,
+     "title": "Bundestag beschließt erweiterte Befugnisse für Nachrichtendienste",
+     "summary": "Bundestag beschließt erweiterte Befugnisse für Nachrichtendienste",
+     "link": "https://www.tagesschau.de/video/video-1683306.html",
+     "image": "https://images.tagesschau.de/image/0b2151e3-7080-42e2-9372-f480b040d20c/AAABodWta_o/AAABnSSvrFg/16x9-big/sendungsbild-1827072.jpg?width=1920",
+     "aggregator": false,
+     "published": "2026-11-13T16:11:18+00:00"
+    },
+    {
+     "source": "tagesschau",
+     "region": "DE",
+     "weight": 1.0,
+     "title": "Bundestag beschließt Reform: Mehr Befugnisse für die Nachrichtendienste",
+     "summary": "Heimlich Wohnungen betreten, Hackerangriffe, Falschinformationen: Deutsche Nachrichtendienste bekommen mehr Befugnisse. Der Bundestag hat die Reform nun beschlossen. Damit reagiert die Koalition auf die verschärfte Bedrohung.",
+     "link": "https://www.tagesschau.de/inland/innenpolitik/nachrichtendienst-reform-beschlossen-100.html",
+     "image": "https://images.tagesschau.de/image/d8498805-a053-4ad6-8618-dc875355bcbf/AAABoNPzfmk/AAABnSSvrFg/16x9-big/bundesnachrichtendienst-128.jpg?width=1920",
+     "aggregator": false,
+     "published": "2026-11-13T13:11:16+00:00"
+    },
+    {
+     "source": "tagesschau",
+     "region": "DE",
+     "weight": 1.0,
+     "title": "Reform der Nachrichtendienste: \"Jahrhundertwerk\" oder \"Monster\"?",
+     "summary": "Der Bundestag stimmt heute über eine Reform der Nachrichtendienste ab. Sie sollen mehr Befugnisse erhalten. Innenminister Dobrindt spricht von einem \"Jahrhundertwerk\" - andere von einem \"Monster\". Von Markus Sambale.",
+     "link": "https://www.tagesschau.de/inland/innenpolitik/bundesregierung-reform-nachrichtendienste-100.html",
+     "image": "https://images.tagesschau.de/image/72de333d-c45d-4e96-8883-3f8c64ed8f65/AAABm34Zn24/AAABnSSvrFg/16x9-big/handy-laptop-100.jpg?width=1920",
+     "aggregator": false,
+     "published": "2026-11-13T04:23:02+00:00"
+    },
+    {
+     "source": "tagesschau Inland",
+     "region": "DE",
+     "weight": 1.0,
+     "title": "Bundestag beschließt Reform: Mehr Befugnisse für die Nachrichtendienste",
+     "summary": "Heimlich Wohnungen betreten, Hackerangriffe, Falschinformationen: Deutsche Nachrichtendienste bekommen mehr Befugnisse. Der Bundestag hat die Reform nun beschlossen. Damit reagiert die Koalition auf die verschärfte Bedrohung.",
+     "link": "https://www.tagesschau.de/inland/innenpolitik/nachrichtendienst-reform-beschlossen-100.html",
+     "image": "https://images.tagesschau.de/image/d8498805-a053-4ad6-8618-dc875355bcbf/AAABoNPzfmk/AAABnSSvrFg/16x9-big/bundesnachrichtendienst-128.jpg?width=1920",
+     "aggregator": false,
+     "published": "2026-11-13T13:11:16+00:00"
+    },
+    {
+     "source": "tagesschau Inland",
+     "region": "DE",
+     "weight": 1.0,
+     "title": "Reform der Nachrichtendienste: \"Jahrhundertwerk\" oder \"Monster\"?",
+     "summary": "Der Bundestag stimmt heute über eine Reform der Nachrichtendienste ab. Sie sollen mehr Befugnisse erhalten. Innenminister Dobrindt spricht von einem \"Jahrhundertwerk\" - andere von einem \"Monster\". Von Markus Sambale.",
+     "link": "https://www.tagesschau.de/inland/innenpolitik/bundesregierung-reform-nachrichtendienste-100.html",
+     "image": "https://images.tagesschau.de/image/72de333d-c45d-4e96-8883-3f8c64ed8f65/AAABm34Zn24/AAABnSSvrFg/16x9-big/handy-laptop-100.jpg?width=1920",
+     "aggregator": false,
+     "published": "2026-11-13T04:23:02+00:00"
+    },
+    {
+     "source": "ZDFheute",
+     "region": "DE",
+     "weight": 1.0,
+     "title": "Bundestag beschließt große Geheimdienstreform",
+     "summary": "Der Bundestag hat deutlich erweiterte Befugnisse für die deutschen Nachrichtendienste beschlossen. BND und Verfassungsschutz dürfen künftig etwa mit eigenen Hacks zurückschlagen.",
+     "link": "https://www.zdfheute.de/politik/deutschland/nachrichtendienst-reform-bundestag-bnd-gesetz-100.html",
+     "image": "https://www.zdfheute.de/assets/zentrale-des-bundesnachrichtendienstes-in-berlin-100~384x216?cb=1794572084742",
+     "aggregator": false,
+     "published": "2026-11-13T13:40:00+00:00"
+    },
+    {
+     "source": "Handelsblatt",
+     "region": "DE",
+     "weight": 0.9,
+     "title": "Sicherheitspolitik: Bundestag beschließt weitreichende Geheimdienstreform",
+     "summary": "Verfassungsschutz und BND erhalten neue Befugnisse im In- und Ausland für verdeckte Gegenmaßnahmen. Die Opposition warnt vor einem zu weitreichenden Eingriff.",
+     "link": "https://www.handelsblatt.com/politik/deutschland/sicherheitspolitik-bundestag-beschliesst-weitreichende-geheimdienstreform/100269721.html",
+     "image": "https://images.handelsblatt.com/J-oTXK6X-sjU/cover/900/506/0/0/0/713/0.5/0.5/13.11.2026-berlin-alexander-dobrindt-csu-bundesinnenminister-spricht-in-der-109.-plenarsitzung.jpg",
+     "aggregator": false,
+     "published": "2026-11-13T12:47:24+00:00"
+    },
+    {
+     "source": "Handelsblatt",
+     "region": "DE",
+     "weight": 0.9,
+     "title": "Bundestag: Geheimdienste erhalten mehr Befugnisse im Inland und Ausland",
+     "summary": "Verdeckte Wohnungseingriffe und die Abwehr von Hackergruppen: Die Nachrichtendienste erhalten neue Werkzeuge im Kampf gegen Terroristen und Spione. Aber es gibt Grenzen.",
+     "link": "https://www.handelsblatt.com/politik/deutschland/bundestag-geheimdienste-erhalten-mehr-befugnisse-im-inland-und-ausland/100269726.html",
+     "image": "https://images.handelsblatt.com/fBTdxhPIbtHj/cover/900/506/0/0/102/101/0.5/0.5/bundestag.jpg",
+     "aggregator": false,
+     "published": "2026-11-13T12:06:17+00:00"
+    }
+   ]
+  },
+  {
+   "id": 7,
+   "score": 11.74,
+   "outlets": [
+    "Handelsblatt",
+    "WirtschaftsWoche"
+   ],
+   "regions": [
+    "DE"
+   ],
+   "trend": [
+    "elterngeld",
+    "Elterngeld-Reform: Kabinett beschließt Veränderungen beim Elterngeld",
+    "Kabinett einigt sich auf Elterngeldreform"
+   ],
+   "newest": "2026-11-13T15:36:00+00:00",
+   "articles": [
+    {
+     "source": "Handelsblatt",
+     "region": "DE",
+     "weight": 0.9,
+     "title": "Gesetzesänderung: Kabinett einigt sich auf Elterngeldreform",
+     "summary": "Mehr Geld in den ersten Monaten, danach weniger: Die geplante Neuregelung verändert die Berechnung des Elterngeldes. Was Eltern künftig erwartet – und warum Kritiker warnen.",
+     "link": "https://www.handelsblatt.com/politik/deutschland/gesetzesaenderung-kabinett-einigt-sich-auf-elterngeldreform/100269780.html",
+     "image": "https://images.handelsblatt.com/oCdp3QkQO4fI/cover/900/506/0/0/106/105/0.5/0.5/kabinett-einigt-sich-auf-elterngeldreform.jpg",
+     "aggregator": false,
+     "published": "2026-11-13T14:56:48+00:00"
+    },
+    {
+     "source": "WirtschaftsWoche",
+     "region": "DE",
+     "weight": 0.85,
+     "title": "Gesetzesänderung: Kabinett einigt sich auf Elterngeldreform – das ist geplant",
+     "summary": "Mehr Geld in den ersten Monaten, danach weniger: Die geplante Neuregelung verändert die Berechnung des Elterngeldes. Was Eltern künftig erwartet – und warum Kritiker warnen.",
+     "link": "https://www.wiwo.de/politik/deutschland/gesetzesaenderung-kabinett-einigt-sich-auf-elterngeldreform/100269781.html",
+     "image": "https://images.wiwo.de/fK3hiqwvk75B/cover/900/506/0/0/106/105/0.5/0.5/kabinett-einigt-sich-auf-elterngeldreform.jpg",
+     "aggregator": false,
+     "published": "2026-11-13T15:36:00+00:00"
+    }
+   ]
+  },
+  {
+   "id": 8,
+   "score": 11.42,
+   "outlets": [
+    "tagesschau",
+    "ZDFheute",
+    "Deutschlandfunk",
+    "n-tv"
+   ],
+   "regions": [
+    "DE",
+    "INT"
+   ],
+   "trend": [],
+   "newest": "2026-11-13T16:08:16+00:00",
+   "articles": [
+    {
+     "source": "tagesschau",
+     "region": "DE",
+     "weight": 1.0,
+     "title": "Fall Nvidia: US-Senatsausschuss lädt Handelsminister Lutnick und Huang vor",
+     "summary": "Der Chef ist zurückgetreten - doch die Aufarbeitung der Spionageaffäre um Jensen Huang und Nvidia beginnt erst. Huang und Handelsminister Lutnick sollen vor dem US-Senat aussagen. Es geht um mögliche Chip-Lieferungen nach China.",
+     "link": "https://www.tagesschau.de/ausland/amerika/nvidia-huang-us-handelsausschuss-100.html",
+     "image": "https://images.tagesschau.de/image/4f5c3720-697a-42e7-b683-4a6d6dd31036/AAABodO7cug/AAABnSSvrFg/16x9-big/huang-lutnick-100.jpg?width=1920",
+     "aggregator": false,
+     "published": "2026-11-13T07:27:43+00:00"
+    },
+    {
+     "source": "tagesschau Ausland",
+     "region": "INT",
+     "weight": 1.0,
+     "title": "Fall Nvidia: US-Senatsausschuss lädt Handelsminister Lutnick und Huang vor",
+     "summary": "Der Chef ist zurückgetreten - doch die Aufarbeitung der Spionageaffäre um Jensen Huang und Nvidia beginnt erst. Huang und Handelsminister Lutnick sollen vor dem US-Senat aussagen. Es geht um mögliche Chip-Lieferungen nach China.",
+     "link": "https://www.tagesschau.de/ausland/amerika/nvidia-huang-us-handelsausschuss-100.html",
+     "image": "https://images.tagesschau.de/image/4f5c3720-697a-42e7-b683-4a6d6dd31036/AAABodO7cug/AAABnSSvrFg/16x9-big/huang-lutnick-100.jpg?width=1920",
+     "aggregator": false,
+     "published": "2026-11-13T07:27:43+00:00"
+    },
+    {
+     "source": "tagesschau Wirtschaft",
+     "region": "DE",
+     "weight": 1.0,
+     "title": "Fall Nvidia: US-Senatsausschuss lädt Handelsminister Lutnick und Huang vor",
+     "summary": "Der Chef ist zurückgetreten - doch die Aufarbeitung der Spionageaffäre um Jensen Huang und Nvidia beginnt erst. Huang und Handelsminister Lutnick sollen vor dem US-Senat aussagen. Es geht um mögliche Chip-Lieferungen nach China.",
+     "link": "https://www.tagesschau.de/ausland/amerika/nvidia-huang-us-handelsausschuss-100.html",
+     "image": "https://images.tagesschau.de/image/4f5c3720-697a-42e7-b683-4a6d6dd31036/AAABodO7cug/AAABnSSvrFg/16x9-big/huang-lutnick-100.jpg?width=1920",
+     "aggregator": false,
+     "published": "2026-11-13T07:27:43+00:00"
+    },
+    {
+     "source": "ZDFheute",
+     "region": "DE",
+     "weight": 1.0,
+     "title": "US-Senat lädt Ex-Nvidia-Chef vor",
+     "summary": "Milliardenschwere Chip-Lieferungen und der Verdacht auf Verstöße gegen US-Exportverbote: Ex-Nvidia-Chef Huang und Handelsminister Lutnick sollen vor dem US-Senat Stellung beziehen.",
+     "link": "https://www.zdfheute.de/politik/ausland/nvidia-chef-huang-vorladung-us-senat-100.html",
+     "image": "https://www.zdfheute.de/assets/26-action-pressaction-51297675-jpgu12-11-nvidia-ceo-huang-in-tokyo-100~384x216?cb=1794520376539",
+     "aggregator": false,
+     "published": "2026-11-13T08:22:00+00:00"
+    },
+    {
+     "source": "Deutschlandfunk",
+     "region": "DE",
+     "weight": 0.95,
+     "title": "Spionageaffäre - US-Senat lädt Ex-Nvidia-Chef Jensen Huang und Handelsminister Howard Lutnick vor",
+     "summary": "Der in eine Spionageaffäre verwickelte Ex-Chef des Chipherstellers Nvidia, Huang, ist aufgefordert worden, im ​Bankenausschuss des US-Senats auszusagen.",
+     "link": "https://www.deutschlandfunk.de/us-senat-laedt-ex-nvidia-chef-jensen-huang-und-handelsminister-howard-lutnick-vor-102.html",
+     "image": "https://bilder.deutschlandfunk.de/3f/35/97/88/3f359788-e2f4-4bb5-a266-31356967057e/nvidia-jensen-huang-102-1920x1920.jpg",
+     "aggregator": false,
+     "published": "2026-11-13T16:08:16+00:00"
+    },
+    {
+     "source": "n-tv",
+     "region": "DE",
+     "weight": 0.8,
+     "title": "\"Intergalaktische Freak-Show\": Nvidia-Eklat: Huangs Fall könnte noch weite Kreise ziehen",
+     "summary": "Der Chipkonzern Nvidia muss künftig ohne Jensen Huang auskommen und dringend überlegen, wer den charismatischen Chef ersetzen kann. Sein Fall könnte Folgen bis ins US-Kabinett haben. Wie geht es nun weiter?",
+     "link": "https://www.n-tv.de/wirtschaft/Nvidia-Eklat-Huangs-Fall-koennte-noch-weite-Kreise-ziehen-id31529287.html",
+     "image": "https://www.n-tv.de/img/31529381/1794560082/Img_4_3/250/632692942.jpg",
+     "aggregator": false,
+     "published": "2026-11-13T08:57:36+00:00"
+    }
+   ]
+  },
+  {
+   "id": 9,
+   "score": 11.12,
+   "outlets": [
+    "ZDFheute",
+    "Deutschlandfunk",
+    "DER STANDARD",
+    "n-tv"
+   ],
+   "regions": [
+    "AT",
+    "DE"
+   ],
+   "trend": [],
+   "newest": "2026-11-13T16:08:16+00:00",
+   "articles": [
+    {
+     "source": "ZDFheute",
+     "region": "DE",
+     "weight": 1.0,
+     "title": "Auto von \"Nius\"-Chefredakteur Reichelt angezündet",
+     "summary": "In Berlin ist das Auto von \"Nius\"-Chefredakteur Julian Reichelt angezündet worden. Er sprach von einem \"gezielten Anschlag\". Die Hintergründe der Tat sind noch unklar.",
+     "link": "https://www.zdfheute.de/panorama/reichelt-nius-auto-angezuendet-100.html",
+     "image": "https://www.zdfheute.de/assets/aid-image-74450996-hires-102~384x216?cb=1794567306185",
+     "aggregator": false,
+     "published": "2026-11-13T11:36:00+00:00"
+    },
+    {
+     "source": "Deutschlandfunk",
+     "region": "DE",
+     "weight": 0.95,
+     "title": "Vandalismus - Brandanschlag auf Auto von \"Nius\"-Chefredakteur Reichelt",
+     "summary": "Auf das Auto des Chefredakteurs des rechtspopulistischen Portal \"Nius\", Julian Reichelt, hat es in der Nacht in Berlin einen Brandanschlag gegeben.",
+     "link": "https://www.deutschlandfunk.de/brandanschlag-auf-auto-von-nius-chefredakteur-reichelt-100.html",
+     "image": "https://bilder.deutschlandfunk.de/a1/e8/35/e9/a1e835e9-5c40-468c-8973-7c1186494a37/chefredakteur-nius-reichelt-auto-anschlag-brandstiftung-100-1920x1920.jpg",
+     "aggregator": false,
+     "published": "2026-11-13T16:08:16+00:00"
+    },
+    {
+     "source": "DER STANDARD",
+     "region": "AT",
+     "weight": 0.85,
+     "title": "Brandanschlag auf Auto von \"Nius\"-Chefredakteur Julian Reichelt",
+     "summary": "Reichelt sieht einen \"Einschüchterungsversuch gegen freie Medien, die sich dem Linksextremismus entgegenstellen\"",
+     "link": "https://www.derstandard.at/story/3000000349137/brandanschlag-auf-auto-von-nius-chefredakteur-julian-reichelt?ref=rss",
+     "image": "https://i.ds.at/LDHzbw/rs:fill:150:0/plain/lido-images/2026/11/13/31c83be8-98a3-490b-bef5-bca7a0657ba3.jpg",
+     "aggregator": false,
+     "published": "2026-11-13T11:28:50+00:00"
+    },
+    {
+     "source": "n-tv",
+     "region": "DE",
+     "weight": 0.8,
+     "title": "Staatsschutz ermittelt: Auto von Julian Reichelt abgebrannt",
+     "summary": "In der Nacht zu Freitag brennt das Auto von \"Nius\"-Chefredakteur Julian Reichelt in Berlin. Er selbst spricht von einem gezielten Anschlag. Die Ermittlungen übernimmt der Staatsschutz.",
+     "link": "https://www.n-tv.de/mediathek/audio/panorama/Julian-Reichelts-Auto-brennt-id31529841.html",
+     "image": "https://www.n-tv.de/img/31529826/1794566716/Img_4_3/250/632738026.jpg",
+     "aggregator": false,
+     "published": "2026-11-13T10:18:45+00:00"
+    }
+   ]
+  },
+  {
+   "id": 10,
+   "score": 10.77,
+   "outlets": [
+    "ZEIT ONLINE",
+    "Handelsblatt",
+    "WirtschaftsWoche"
+   ],
+   "regions": [
+    "DE"
+   ],
+   "trend": [
+    "Fast 170 Millionen Euro: Licht und Schatten im Stader Haushalt"
+   ],
+   "newest": "2026-11-13T16:17:13+00:00",
+   "articles": [
+    {
+     "source": "ZEIT ONLINE",
+     "region": "DE",
+     "weight": 0.9,
+     "title": "Bundesagentur für Arbeit: Schulden der Agentur für Arbeit bis Ende 2027 bei 18,7 Milliarden Euro",
+     "summary": "Die hohe Arbeitslosigkeit belastet den Haushalt der Bundesagentur für Arbeit. Bis Ende 2027 dürften die Schulden der Behörde auf 18,7 Milliarden Euro anwachsen.",
+     "link": "https://www.zeit.de/arbeit/2026-11/bundesagentur-fuer-arbeit-haushalt-schulden-arbeitslosigkeit",
+     "image": "https://img.zeit.de/arbeit/2026-11/bundesagentur-fuer-arbeit-haushalt-schulden-arbeitslosigkeit-foto-1/original__640x360",
+     "aggregator": false,
+     "published": "2026-11-13T16:17:13+00:00"
+    },
+    {
+     "source": "Handelsblatt",
+     "region": "DE",
+     "weight": 0.9,
+     "title": "Arbeitsmarkt: Bundesagentur für Arbeit hat neue Verwaltungsratschefin",
+     "summary": "Die Behörde ist von Arbeitnehmern und Arbeitgebern selbstverwaltet - bei den Arbeitgebern gab es einen Wechsel.",
+     "link": "https://www.handelsblatt.com/politik/deutschland/arbeitsmarkt-bundesagentur-fuer-arbeit-hat-neue-verwaltungsratschefin/100269730.html",
+     "image": "https://images.handelsblatt.com/p0TU29TRoDOa/cover/900/506/0/0/107/106/0.5/0.5/neue-vorsitzende-verwaltungsrat-der-bundesagentur-fuer-arbeit.jpg",
+     "aggregator": false,
+     "published": "2026-11-13T13:19:51+00:00"
+    },
+    {
+     "source": "WirtschaftsWoche",
+     "region": "DE",
+     "weight": 0.85,
+     "title": "Gesundheit, Pflege, Arbeitslosigkeit: Wie ein milliardenschwerer Finanzkniff Stabilität vortäuscht",
+     "summary": "Die Sozialkassen erhalten Milliardenkredite, die Bundesagentur für Arbeit 2027 nun sogar acht statt fünf Milliarden Euro. Ohne das Geld müsste der Bund Beiträge erhöhen oder Leistungen kürzen.",
+     "link": "https://www.wiwo.de/politik/deutschland/haushalt-so-taeuscht-ein-milliardenschwerer-finanzkniff-stabilitaet-vor/100262280.html",
+     "image": "https://images.wiwo.de/kduwTXfpE12r/cover/900/506/209/171/1233/2630/0.5/0.5/germany-berlin-berlin-mitte-regierungsviertel-berlin-reichstag-parliament-building-the-dome-ar.jpg",
+     "aggregator": false,
+     "published": "2026-11-13T12:58:00+00:00"
+    }
+   ]
+  },
+  {
+   "id": 11,
+   "score": 10.62,
+   "outlets": [
+    "Deutschlandfunk",
+    "ZEIT ONLINE"
+   ],
+   "regions": [
+    "DE"
+   ],
+   "trend": [
+    "elterngeld",
+    "Elterngeld-Reform: Kabinett beschließt Veränderungen beim Elterngeld"
+   ],
+   "newest": "2026-11-13T16:08:16+00:00",
+   "articles": [
+    {
+     "source": "Deutschlandfunk",
+     "region": "DE",
+     "weight": 0.95,
+     "title": "Kinderbetreuung - Bundesregierung beschließt Veränderungen beim Elterngeld",
+     "summary": "Die Bundesregierung hat eine Reform des Elterngeldes auf den Weg gebracht.",
+     "link": "https://www.deutschlandfunk.de/bundesregierung-beschliesst-veraenderungen-beim-elterngeld-102.html",
+     "image": "https://bilder.deutschlandfunk.de/23/e5/f8/c5/23e5f8c5-437b-414c-9eb7-e9f9cc0953c3/vater-baby-100-1920x1920.jpg",
+     "aggregator": false,
+     "published": "2026-11-13T16:08:16+00:00"
+    },
+    {
+     "source": "ZEIT ONLINE",
+     "region": "DE",
+     "weight": 0.9,
+     "title": "Elterngeld-Reform: Kabinett beschließt Veränderungen beim Elterngeld",
+     "summary": "Das Elterngeld soll weiterhin bis zu 14 Monate lang gezahlt werden. Das Bundeskabinett billigte einen überarbeiteten Referentenentwurf des Familienministeriums.",
+     "link": "https://www.zeit.de/politik/deutschland/2026-11/elterngeld-reform-bezugsdauer-vaeter-einkommen-gxe",
+     "image": "https://img.zeit.de/politik/deutschland/2026-11/elterngeld-reform-bezugsdauer-vaeter-einkommen-gxe-foto-1/original__640x360",
+     "aggregator": false,
+     "published": "2026-11-13T15:54:29+00:00"
+    }
+   ]
+  },
+  {
+   "id": 12,
+   "score": 10.12,
+   "outlets": [
+    "tagesschau",
+    "Deutschlandfunk",
+    "heise online",
+    "tagesschau.de"
+   ],
+   "regions": [
+    "DE"
+   ],
+   "trend": [],
+   "newest": "2026-11-13T16:08:16+00:00",
+   "articles": [
+    {
+     "source": "tagesschau",
+     "region": "DE",
+     "weight": 1.0,
+     "title": "DHL erhöht Preise für Pakete und Päckchen für Privatkunden ab 2027",
+     "summary": "Wer seinen Liebsten etwas schicken möchte, der muss ab dem kommenden Jahr deutlich tiefer in die Tasche greifen. Denn der deutsche Marktführer DHL erhöht seine Portopreise deutlich - vor allem für Päckchen.",
+     "link": "https://www.tagesschau.de/wirtschaft/verbraucher/post-hebt-paketpreise-privatkunden-an-2027-100.html",
+     "image": "https://images.tagesschau.de/image/93a78d54-04e4-4269-9a3b-5b17d6e7896d/AAABodSZXEw/AAABnSSvrFg/16x9-big/paket-126.jpg?width=1920",
+     "aggregator": false,
+     "published": "2026-11-13T12:20:30+00:00"
+    },
+    {
+     "source": "tagesschau Wirtschaft",
+     "region": "DE",
+     "weight": 1.0,
+     "title": "DHL erhöht Preise für Pakete und Päckchen für Privatkunden ab 2027",
+     "summary": "Wer seinen Liebsten etwas schicken möchte, der muss ab dem kommenden Jahr deutlich tiefer in die Tasche greifen. Denn der deutsche Marktführer DHL erhöht seine Portopreise deutlich - vor allem für Päckchen.",
+     "link": "https://www.tagesschau.de/wirtschaft/verbraucher/post-hebt-paketpreise-privatkunden-an-2027-100.html",
+     "image": "https://images.tagesschau.de/image/93a78d54-04e4-4269-9a3b-5b17d6e7896d/AAABodSZXEw/AAABnSSvrFg/16x9-big/paket-126.jpg?width=1920",
+     "aggregator": false,
+     "published": "2026-11-13T12:20:30+00:00"
+    },
+    {
+     "source": "Deutschlandfunk",
+     "region": "DE",
+     "weight": 0.95,
+     "title": "Logistikkonzern - DHL hebt Paketpreise für Verbraucher 2027 an",
+     "summary": "Der Logistikkonzern DHL erhöht zum neuen Jahr zahlreiche Paketpreise.",
+     "link": "https://www.deutschlandfunk.de/dhl-hebt-paketpreise-fuer-verbraucher-2027-an-102.html",
+     "image": "https://bilder.deutschlandfunk.de/18/f2/5e/d9/18f25ed9-4174-46a4-8442-eb958fcbd295/paketzentrum-100-1920x1920.jpg",
+     "aggregator": false,
+     "published": "2026-11-13T16:08:16+00:00"
+    },
+    {
+     "source": "heise online",
+     "region": "DE",
+     "weight": 0.85,
+     "title": "DHL: Paketpreise für Privatkunden steigen 2027 – vor allem in der Filiale",
+     "summary": "Die Deutsche Post erhöht zum 1. Januar 2027 die Paketpreise für Privatkunden. Vor allem in der Filiale wird es teurer, online bleiben viele Preise stabil.",
+     "link": "https://www.heise.de/news/DHL-Paketpreise-fuer-Privatkunden-steigen-2027-vor-allem-in-der-Filiale-11524318.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
+     "image": null,
+     "aggregator": false,
+     "published": "2026-11-13T11:54:00+00:00"
+    },
+    {
+     "source": "tagesschau.de",
+     "region": "DE",
+     "weight": 0.6,
+     "title": "DHL erhöht Preise für Pakete und Päckchen für Privatkunden ab 2027",
+     "summary": "DHL erhöht Preise für Pakete und Päckchen für Privatkunden ab 2027 tagesschau.de 13. Nov. 26: Mehr Leistung für Päckchen, neue Preisvorteile online: Deutsche Post AG passt Paketpreise für Privatkunden zum 1. Januar 2027 moderat an DHL Group DHL kündigt deutliche Preiserhöhungen zum Jahreswechsel an Spiegel Deutsche Post: DHL erhöht Paketpreise zum Jahreswechsel DIE ZEIT Deutsche Post ändert Preise für Pakete: Wer Packstationen nutzt, spart Geld - Wirtschaft - SZ.de SZ.de",
+     "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPaUc3TnZPZWV5TjRFTkNIWnVqT0tIcUVVc1pScFRlYVVkVG11SDJBUGI1NWpYdDlyS19qcFZfYmFHV1lwbTdJYXJiTEJ4TFhvMHpLUHFVY2RYNl8xRGdZVjVUU2I4OWNoOHBzeENRRF9CaDhFQUFGQVI4bkgtQkc1eTcyQXFRMXhkMUpZcTZZNUV1RnN3bjc1UWowVGJ6UV9xcEE?oc=5",
+     "image": null,
+     "aggregator": true,
+     "published": "2026-11-13T12:20:00+00:00"
+    }
+   ]
+  },
+  {
+   "id": 13,
+   "score": 9.82,
+   "outlets": [
+    "tagesschau",
+    "ZDFheute",
+    "Deutschlandfunk"
+   ],
+   "regions": [
+    "DE"
+   ],
+   "trend": [],
+   "newest": "2026-11-13T16:08:16+00:00",
+   "articles": [
+    {
+     "source": "tagesschau",
+     "region": "DE",
+     "weight": 1.0,
+     "title": "DFB in der Nations League: Gruda könnte Klopps nächster Debütant werden",
+     "summary": "Bei der DFB-Elf könnte es im Nations-League-Spiel am Freitag in Belgrad gegen Serbien einen weiteren Debütanten geben: Brajan Gruda, Offensivspieler von RB Leipzig. Trainer Klopp nennt ihn einen \"geilen Zocker\".",
+     "link": "https://www.sportschau.de/fussball/nationalmannschaft/brajan-gruda-ein-geiler-zocker-fuer-juergen-klopp,gruda-dfb-team-nations-league-100.html",
+     "image": "https://images.sportschau.de/image/f8babb57-9da6-4a80-8a02-5937ad2274ac/AAABoc-qab0/AAABnSSvrFg/16x9-big/gruda-122.jpg?width=1920",
+     "aggregator": false,
+     "published": "2026-11-12T12:11:58+00:00"
+    },
+    {
+     "source": "ZDFheute",
+     "region": "DE",
+     "weight": 1.0,
+     "title": "Warum Deutschland heute vor leeren Rängen spielt",
+     "summary": "Das wegweisende Nations-Lague-Spiel der DFB-Elf gegen Serbien wird in Belgrad unter weitgehend leeren Rängen ausgetragen. Warum ist das so und was sagt Bundestrainer Klopp dazu?",
+     "link": "https://www.zdfheute.de/sport/fussball-nations-league-serbien-stadion-leere-raenge-uefa-strafe-100.html",
+     "image": "https://www.zdfheute.de/assets/belgrad-stadion-100~384x216?cb=1794560496471",
+     "aggregator": false,
+     "published": "2026-11-13T09:08:00+00:00"
+    },
+    {
+     "source": "Deutschlandfunk",
+     "region": "DE",
+     "weight": 0.95,
+     "title": "Nations League - Fußball-Nationalmannschaft trifft auf Serbien - Klopp hofft auf Sieg",
+     "summary": "Die deutsche Fußball-Nationalmannschaft trifft am Abend in der Nations League auf Serbien.",
+     "link": "https://www.deutschlandfunk.de/fussball-nationalmannschaft-trifft-auf-serbien-klopp-hofft-auf-sieg-102.html",
+     "image": "https://bilder.deutschlandfunk.de/17/c1/a5/75/17c1a575-c5cc-4e3b-98aa-2a8132c3dbec/dfb-bundestrainer-juergen-klopp-100-1920x1920.jpg",
+     "aggregator": false,
+     "published": "2026-11-13T16:08:16+00:00"
+    }
+   ]
+  },
+  {
+   "id": 14,
+   "score": 9.39,
+   "outlets": [
+    "ZDFheute",
+    "ZEIT ONLINE",
+    "n-tv"
+   ],
+   "regions": [
+    "DE"
+   ],
+   "trend": [],
+   "newest": "2026-11-13T16:20:56+00:00",
+   "articles": [
+    {
+     "source": "ZDFheute",
+     "region": "DE",
+     "weight": 1.0,
+     "title": "AfD will Fußball-Weltmeister als Bundespräsidenten nominieren",
+     "summary": "Thomas Berthold soll für die AfD bei der Wahl des Bundespräsidenten antreten. Das erfuhr das ZDF aus AfD-Kreisen.",
+     "link": "https://www.zdfheute.de/politik/deutschland/wahl-bundespraesident-afd-kandidat-thomas-berthold-100.html",
+     "image": "https://www.zdfheute.de/assets/thomas-berthold-118~384x216?cb=1794577307545",
+     "aggregator": false,
+     "published": "2026-11-13T14:12:00+00:00"
+    },
+    {
+     "source": "ZEIT ONLINE",
+     "region": "DE",
+     "weight": 0.9,
+     "title": "Thomas Berthold: AfD nominiert Ex-Fußballprofi Berthold für Bundespräsidentenwahl",
+     "summary": "Die AfD will offenbar Thomas Berthold für das Amt des Bundespräsidenten nominieren. Der frühere Fußball-Weltmeister wurde während der Coronapandemie politisch aktiv.",
+     "link": "https://www.zeit.de/politik/deutschland/2026-11/afd-bundespraesident-kandidat-thomas-berthold",
+     "image": "https://img.zeit.de/politik/deutschland/2026-11/afd-bundespraesident-kandidat-thomas-berthold-foto-1/original__640x360",
+     "aggregator": false,
+     "published": "2026-11-13T15:27:21+00:00"
+    },
+    {
+     "source": "n-tv",
+     "region": "DE",
+     "weight": 0.8,
+     "title": "\"Aus der Mitte der Gesellschaft\": AfD will Fußball-Weltmeister Thomas Berthold als Steinmeier-Nachfolger",
+     "summary": "Ein Fußball-Weltmeister von 1990 soll offenbar für die AfD ins Rennen um das höchste Staatsamt gehen. Thomas Berthold, einst Verteidiger im Nationaltrikot, fiel zuletzt mit scharfer Kritik an den Corona-Maßnahmen auf.",
+     "link": "https://www.n-tv.de/politik/AfD-will-Fussball-Weltmeister-Thomas-Berthold-als-Steinmeier-Nachfolger-id31532013.html",
+     "image": "https://www.n-tv.de/img/31531740/1794585189/Img_4_3/250/weltmeister.jpg",
+     "aggregator": false,
+     "published": "2026-11-13T16:20:56+00:00"
+    }
+   ]
+  },
+  {
+   "id": 15,
+   "score": 9.18,
+   "outlets": [
+    "tagesschau",
+    "ORF",
+    "n-tv"
+   ],
+   "regions": [
+    "AT",
+    "DE"
+   ],
+   "trend": [],
+   "newest": "2026-11-13T15:25:18+00:00",
+   "articles": [
+    {
+     "source": "tagesschau",
+     "region": "DE",
+     "weight": 1.0,
+     "title": "Anklage gegen drei Menschen erhoben",
+     "summary": "Im Fall der Schüsse in Stade mit sechs Toten ist Anklage gegen drei Menschen erhoben worden - unter anderem gegen die Lebensgefährtin des mutmaßlichen Täters sowie die Fahrerin des Fluchtwagens.",
+     "link": "https://www.tagesschau.de/inland/regional/niedersachsen/sechsfach-mord-in-stade-mutter-soll-tat-aktiv-unterstuetzt-haben,stade-406.html",
+     "image": "https://images.ndr.de/image/342552fc-3b95-4b5d-b02e-4699fa44e3e0/AAABnxfj5Nc/AAABnSSvrFg/16x9-big/stade-222.jpg?width=1920",
+     "aggregator": false,
+     "published": "2026-11-13T15:25:18+00:00"
+    },
+    {
+     "source": "ORF",
+     "region": "AT",
+     "weight": 0.95,
+     "title": "Sechs Tote in Stade: Anklage gegen zwei Frauen",
+     "summary": "",
+     "link": "https://orf.at/stories/3448096/",
+     "image": null,
+     "aggregator": false,
+     "published": "2026-11-13T13:10:25+00:00"
+    },
+    {
+     "source": "n-tv",
+     "region": "DE",
+     "weight": 0.8,
+     "title": "\"Opfer waren arglos\": Amoktat mit sechs Toten in Stade: Zwei Frauen angeklagt",
+     "summary": "Bei einem Gespräch in einer Mutter-Kind-Einrichtung in Niedersachsen soll ein Mann sechs Menschen getötet haben. Zwei Frauen sollen von den Absichten gewusst und ihn unterstützt haben. Jetzt erhebt die Staatsanwaltschaft Anklage wegen Mordes und Beihilfe zum Mord.",
+     "link": "https://www.n-tv.de/panorama/Amoktat-mit-sechs-Toten-in-Stade-Zwei-Frauen-angeklagt-id31530674.html",
+     "image": "https://www.n-tv.de/img/31530682/1794575543/Img_4_3/250/632764096.jpg",
+     "aggregator": false,
+     "published": "2026-11-13T13:14:03+00:00"
+    }
+   ]
+  },
+  {
+   "id": 16,
+   "score": 9.12,
+   "outlets": [
+    "Deutschlandfunk",
+    "heise online",
+    "n-tv"
+   ],
+   "regions": [
+    "DE"
+   ],
+   "trend": [],
+   "newest": "2026-11-13T16:08:16+00:00",
+   "articles": [
+    {
+     "source": "Deutschlandfunk",
+     "region": "DE",
+     "weight": 0.95,
+     "title": "Bundesstatistiker - Zahl der Firmenpleiten im August angestiegen - Höchster Stand seit 13 Jahren",
+     "summary": "Die Zahl der Unternehmens-Insolvenzen in Deutschland ist im August weiter angestiegen.",
+     "link": "https://www.deutschlandfunk.de/zahl-der-firmenpleiten-im-august-angestiegen-hoechster-stand-seit-13-jahren-102.html",
+     "image": "https://bilder.deutschlandfunk.de/c9/98/72/f5/c99872f5-49e8-4e9c-b9c3-341a31196932/insolvenz-insolvenzverfahren-100-1920x1920.jpg",
+     "aggregator": false,
+     "published": "2026-11-13T16:08:16+00:00"
+    },
+    {
+     "source": "heise online",
+     "region": "DE",
+     "weight": 0.85,
+     "title": "Arbeitslosigkeit bei ITlern: Höchster Stand seit zehn Jahren",
+     "summary": "Die Wirtschaft in Deutschland schwächelt – und das lässt auch die Zahl der Arbeitslosen in der IT weiter ansteigen.",
+     "link": "https://www.heise.de/news/Arbeitslosigkeit-bei-ITlern-Hoechster-Stand-seit-zehn-Jahren-11521166.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
+     "image": null,
+     "aggregator": false,
+     "published": "2026-11-11T15:04:00+00:00"
+    },
+    {
+     "source": "n-tv",
+     "region": "DE",
+     "weight": 0.8,
+     "title": "\"Kaum Luft für Wachstum\": Zahl der Firmenpleiten steigt weiter - höchster Stand seit 13 Jahren",
+     "summary": "Die Insolvenzwelle rollt weiter: Mehr als 2000 beantragte Verfahren registrieren die Amtsgerichte im August, über vier Prozent mehr als im August 2025. Laut der Deutschen Industrie- und Handelskammer ist keine Entspannung in Sicht.",
+     "link": "https://www.n-tv.de/wirtschaft/Zahl-der-Firmenpleiten-steigt-weiter-hoechster-Stand-seit-13-Jahren-id31529950.html",
+     "image": "https://www.n-tv.de/img/31530216/1794570680/Img_4_3/250/620572339.jpg",
+     "aggregator": false,
+     "published": "2026-11-13T14:11:09+00:00"
+    }
+   ]
+  },
+  {
+   "id": 17,
+   "score": 9.08,
+   "outlets": [
+    "tagesschau",
+    "Handelsblatt",
+    "heise online",
+    "tagesschau.de"
+   ],
+   "regions": [
+    "DE"
+   ],
+   "trend": [],
+   "newest": "2026-11-13T13:19:29+00:00",
+   "articles": [
+    {
+     "source": "tagesschau",
+     "region": "DE",
+     "weight": 1.0,
+     "title": "Weltweit mehr Urlaubsanträge vor Start des Videospiels \"GTA VI\"",
+     "summary": "13 Jahre nach seiner letzten Version steht das neue Videospiel \"Grand Theft Auto VI\" vor der Premiere. Software-Anbieter berichten von weltweit gestiegenen Urlaubsanträgen im Vorfeld. Der Entwickler hofft auf ein Milliardengeschäft.",
+     "link": "https://www.tagesschau.de/wirtschaft/verbraucher/weltweit-mehr-urlaubsantraege-start-gta6-100.html",
+     "image": "https://images.tagesschau.de/image/12af396e-7e92-45b4-86cc-bc2d73c912e3/AAABodOvJLM/AAABnSSvrFg/16x9-big/gta-122.jpg?width=1920",
+     "aggregator": false,
+     "published": "2026-11-13T09:12:03+00:00"
+    },
+    {
+     "source": "tagesschau Wirtschaft",
+     "region": "DE",
+     "weight": 1.0,
+     "title": "Weltweit mehr Urlaubsanträge vor Start des Videospiels \"GTA VI\"",
+     "summary": "13 Jahre nach seiner letzten Version steht das neue Videospiel \"Grand Theft Auto VI\" vor der Premiere. Software-Anbieter berichten von weltweit gestiegenen Urlaubsanträgen im Vorfeld. Der Entwickler hofft auf ein Milliardengeschäft.",
+     "link": "https://www.tagesschau.de/wirtschaft/verbraucher/weltweit-mehr-urlaubsantraege-start-gta6-100.html",
+     "image": "https://images.tagesschau.de/image/12af396e-7e92-45b4-86cc-bc2d73c912e3/AAABodOvJLM/AAABnSSvrFg/16x9-big/gta-122.jpg?width=1920",
+     "aggregator": false,
+     "published": "2026-11-13T09:12:03+00:00"
+    },
+    {
+     "source": "Handelsblatt",
+     "region": "DE",
+     "weight": 0.9,
+     "title": "Computerspiel: Softwareanbieter: Mehr Urlaubsanträge rund um GTA-6-Start",
+     "summary": "Es hat Jahre gedauert, bis bald das Videospiel „Grand Theft Auto VI“ erscheinen soll. Entsprechend groß ist die Vorfreude bei Gamern - mit Folgen.",
+     "link": "https://www.handelsblatt.com/politik/deutschland/computerspiel-softwareanbieter-mehr-urlaubsantraege-rund-um-gta-6-start/100269752.html",
+     "image": "https://images.handelsblatt.com/BYmIhM8GUCsM/cover/900/506/0/0/122/122/0.5/0.5/person-haelt-einen-controller-der-xbox-series-x-in-den-haenden.jpg",
+     "aggregator": false,
+     "published": "2026-11-13T13:19:29+00:00"
+    },
+    {
+     "source": "heise online",
+     "region": "DE",
+     "weight": 0.85,
+     "title": "Bereit für GTA 6: Die Checkliste zum Release von Grand Theft Auto VI",
+     "summary": "GTA 6 steht in den Startlöchern und Millionen von Spielern warten sehnsüchtig auf den Release. Wir zeigen, was man vor dem Launch des Spiels wissen muss.",
+     "link": "https://www.heise.de/bestenlisten/ratgeber/bereit-fuer-gta-6-die-checkliste-zum-release-von-grand-theft-auto-vi/3ht03fp?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
+     "image": null,
+     "aggregator": false,
+     "published": "2026-11-12T16:00:00+00:00"
+    },
+    {
+     "source": "tagesschau.de",
+     "region": "DE",
+     "weight": 0.6,
+     "title": "Weltweit mehr Urlaubsanträge vor Start des Videospiels \"GTA VI\"",
+     "summary": "Weltweit mehr Urlaubsanträge vor Start des Videospiels \"GTA VI\" tagesschau.de Wie der Release von GTA 6 den Internetverkehr antreibt – und wie Xbox-Spieler schon früher spielen hessenschau.de Warten auf Grand Theft Auto 6 der Freitag „GTA 6“: Logitech gibt Mitarbeitern einen Urlaubstag extra zum Zocken BILD Hype um Grand Theft Auto VI - Was erzählen Videospiele? SWR",
+     "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNWWdJZ05zaVF5WG9XUklqaFktU19uLXl6MkNNTjlmN1NFN0lXUTVxQjhUaERkZlNTbjZMaTVmNmZLdDItWjhYRlJsU1JWM0JPS2VFaldELWMxTUtOdUl6SGxDX3FSRGU5SThBVkVtd2FrclJYV2hTeE55emdTVExMTVdXZkJ4d2xQMi1YUHBoRlludW1TZHM0QlExTzRVWkk?oc=5",
+     "image": null,
+     "aggregator": true,
+     "published": "2026-11-13T09:12:00+00:00"
+    }
+   ]
+  },
+  {
+   "id": 18,
+   "score": 8.98,
+   "outlets": [
+    "tagesschau Ausland",
+    "Süddeutsche",
+    "DER STANDARD",
+    "MDR.de"
+   ],
+   "regions": [
+    "AT",
+    "DE",
+    "INT"
+   ],
+   "trend": [],
+   "newest": "2026-11-13T13:00:57+00:00",
+   "articles": [
+    {
+     "source": "tagesschau Ausland",
+     "region": "INT",
+     "weight": 1.0,
+     "title": "Trumps Unterhändler fordern von Putin Beteiligung Europas",
+     "summary": "Bei den Gesprächen über die Zukunft der Ukraine in Abu Dhabi saßen die Europäer nicht mit am Tisch. Nun besuchen die US-Gesandten Moskau - nach eigenen Worten, um Putin von einer Beteiligung Europas zu überzeugen.",
+     "link": "https://www.tagesschau.de/ausland/europa/witkoff-kushner-putin-ukraine-100.html",
+     "image": "https://images.tagesschau.de/image/a2ca40d2-91d6-4b2c-bc82-aa01f28553c3/AAABoc6O0ak/AAABnSSvrFg/16x9-big/witkoff-kushner-dmitriew-100.jpg?width=1920",
+     "aggregator": false,
+     "published": "2026-11-12T07:00:29+00:00"
+    },
+    {
+     "source": "Süddeutsche",
+     "region": "DE",
+     "weight": 0.9,
+     "title": "Friedensgespräche: Europa sucht den Ukraine-Verhandler",
+     "summary": "Nun hat auch Moskau zugestimmt: Die Europäer sollen bei den Gesprächen über ein Ende des Kriegs in der Ukraine vollwertig mit am Tisch sitzen. Aber wen sollen sie schicken? Und worüber genau soll geredet werden?",
+     "link": "https://www.sueddeutsche.de/politik/eu-ukraine-russland-usa-verhandlungen-frieden-li.3579883",
+     "image": "https://www.sueddeutsche.de/2026/11/13/bc0d7a60-8e46-4fe6-8d07-6111d51e18e1.jpg?rect=440%2C393%2C2528%2C1896&width=1000&fm=jpg&q=60",
+     "aggregator": false,
+     "published": "2026-11-13T12:13:49+00:00"
+    },
+    {
+     "source": "DER STANDARD",
+     "region": "AT",
+     "weight": 0.85,
+     "title": "Zerstört Trump die Nato für Putin?",
+     "summary": "Wir sprechen über die inzwischen beendeten Verhandlungen zwischen der Ukraine und Russland",
+     "link": "https://www.derstandard.at/story/3000000348937/zerstoert-trump-die-nato-fuer-putin?ref=rss",
+     "image": "https://i.ds.at/BKkLCA/rs:fill:150:0/plain/lido-images/2026/11/11/6256fd83-eb68-444f-9692-a863bb81c8be.jpg",
+     "aggregator": false,
+     "published": "2026-11-12T15:20:04+00:00"
+    },
+    {
+     "source": "MDR.de",
+     "region": "DE",
+     "weight": 0.6,
+     "title": "Ukraine-News: Putin nach US-Angaben zu Gesprächen mit Europa bereit",
+     "summary": "Ukraine-News: Putin nach US-Angaben zu Gesprächen mit Europa bereit MDR.de Ukrainekrieg: Europa soll künftig bei Gesprächen von Ukraine und Russland dabei sein DIE ZEIT Ukraine-Verhandlungen: Warum Europas Zukunft auf dem Spiel steht WELT Krieg gegen die Ukraine: Putin beharrt auf Gebietsansprüchen tagesschau.de Ukraine: Steve Witkoff kündigt Beteiligung Europas an Verhandlungen an Spiegel",
+     "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPbWxmQml1U2pIeUg5bXhLNGNOaVFCSnpDYmhmZVByM0xSVXkyWlJwM252cWFsTEI3UGJ0MGEzZUJud1NoZjdaOUI3VnBER2JfRUJNOFJxVDk3NzVQSjVIaEhmMFZQVnRrWjBva3dsNDVTWDFzZkJQOFdtdmZjbWozMlJ0OGdmOGVmSU95MTlPTTI4QUxPMDB4OV9fOF96UkU1MkpDNktZeDlid0h0RXpSaVdzaUdPWURlNFhYZnZSU1FKcE9LSnlzNWxYUlBiZw?oc=5",
+     "image": null,
+     "aggregator": true,
+     "published": "2026-11-13T13:00:57+00:00"
+    }
+   ]
+  },
+  {
+   "id": 19,
+   "score": 8.94,
+   "outlets": [
+    "tagesschau",
+    "ZDFheute",
+    "Deutsche Welle",
+    "sportschau.de"
+   ],
+   "regions": [
+    "DE",
+    "INT"
+   ],
+   "trend": [],
+   "newest": "2026-11-13T11:43:00+00:00",
+   "articles": [
+    {
+     "source": "tagesschau",
+     "region": "DE",
+     "weight": 1.0,
+     "title": "Klopp über Nmecha: \"Wird so nicht mehr jubeln\"",
+     "summary": "Bundestrainer Jürgen Klopp hat mit Fußball-Nationalspieler Felix Nmecha eine Übereinkunft zum Torjubel bei Länderspielen getroffen: Der Mittelfeldspieler wird nicht mehr den umstrittenen Kronen-Jubel zeigen.",
+     "link": "https://www.sportschau.de/fussball/nationalmannschaft/klopp-ueber-nmecha-deswegen-wird-er-so-nicht-mehr-jubeln,nmecha-dfb-team-nations-league-100.html",
+     "image": "https://images.sportschau.de/image/0ccd1232-88c0-473a-aa2e-1c740ff9cf53/AAABodQGl7Q/AAABnSSvrFg/16x9-big/dfb-660.jpg?width=1920",
+     "aggregator": false,
+     "published": "2026-11-13T09:05:55+00:00"
+    },
+    {
+     "source": "ZDFheute",
+     "region": "DE",
+     "weight": 1.0,
+     "title": "BVB reagiert auf Torjubel von Nmecha",
+     "summary": "Eine imaginäre Krone für Jesus: Mit dieser Geste feiert Nationalspieler Felix Nmecha seine Tore. Jetzt sorgt der Jubel auch innerhalb seines Vereins Borussia Dortmund für Kritik.",
+     "link": "https://www.zdfheute.de/video/fussball-felix-nmecha-torjubel-kritik-bvb-dortmund-100.html",
+     "image": "https://www.zdfheute.de/assets/felix-nmecha-124~384x216?cb=1794437087978",
+     "aggregator": false,
+     "published": "2026-11-12T05:40:00+00:00"
+    },
+    {
+     "source": "Deutsche Welle",
+     "region": "INT",
+     "weight": 0.95,
+     "title": "Klopp nach Gespräch mit Nmecha: \"Er wird so nicht mehr jubeln\"",
+     "summary": "Die Jubelgeste von Felix Nmecha hatte für Diskussionen über ihn und das Netzwerk \"Ballers in God\" gesorgt. Vor dem Nations-League-Spiel in Serbien legt Bundestrainer Jürgen Klopp das Thema ad acta - doch Fragen bleiben.",
+     "link": "https://www.dw.com/de/klopp-nach-gespräch-mit-nmecha-er-wird-so-nicht-mehr-jubeln/a-79938854?maca=de-rss-de-all-1119-xml-mrss",
+     "image": "https://static.dw.com/image/79941757_302.jpg",
+     "aggregator": false,
+     "published": "2026-11-13T11:43:00+00:00"
+    },
+    {
+     "source": "sportschau.de",
+     "region": "DE",
+     "weight": 0.6,
+     "title": "Klopp über Nmecha: \"Wird so nicht mehr jubeln\"",
+     "summary": "Klopp über Nmecha: \"Wird so nicht mehr jubeln\" sportschau.de Ist religiöser Torjubel angemessen? Deutsche haben klare Meinung WEB.DE Debatte um Felix Nmecha: Queere VfB-Fans sorgen sich um Vielfalt im Stadion SWR Glaube ist kein Foul: Lasst Felix jubeln! openPetition Felix Nmecha: BVB-Star reagiert auf Kritik am Torjubel – „Meine Botschaft war niemals Hass“ WELT",
+     "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxQYTNWRzNtWHNFa0RCOGEtMnlJQmczVlJhemFIenNkTzRuc1ctcmRaR1k2VkdQYUpQOGkzVXJZa1p0cjJIbnBOWng5NWYyMzRBcWxSV0FuN0k2bjVQU1VsZHZLSmNWbWhCVVNONml5ZTltUzRucW9hYU93ajJNc0NWZnB6OER5NlF1Y2dEdF9ia21wTzJlRGwxdDRtaWFmUElBT215MmlEb0ZyU1ZROWdLN2tJVnVXcVNGSUF3TWtTTzJNQUMtVFpwMnRjSkRkaGpWVVZPUW5VaGlEblZiNnJEQjJGVlE?oc=5",
+     "image": null,
+     "aggregator": true,
+     "published": "2026-11-13T09:05:00+00:00"
+    }
+   ]
+  },
+  {
+   "id": 20,
+   "score": 8.91,
+   "outlets": [
+    "tagesschau Ausland",
+    "DER STANDARD",
+    "n-tv"
+   ],
+   "regions": [
+    "AT",
+    "DE",
+    "INT"
+   ],
+   "trend": [],
+   "newest": "2026-11-13T15:13:20+00:00",
+   "articles": [
+    {
+     "source": "tagesschau Ausland",
+     "region": "INT",
+     "weight": 1.0,
+     "title": "Angriff auf Krankenhaus mit sechs Toten galt laut Israel Hamas",
+     "summary": "Bei einem Angriff Israels auf eine Klinik in Gaza sind nach Behördenangaben sechs Menschen gestorben. Laut Israel nutzte die Hamas die Gebäude als Kommando- und Folterzentrum. Ein Mitglied der Terrororganisation sei Ziel des Angriffs gewesen.",
+     "link": "https://www.tagesschau.de/ausland/asien/gaza-israel-angriff-krankenhaus-100.html",
+     "image": "https://images.tagesschau.de/image/b158188e-3a00-49d2-b62b-ae695b61a15b/AAABoc8UAW4/AAABnSSvrFg/16x9-big/truemmer-gaza-104.jpg?width=1920",
+     "aggregator": false,
+     "published": "2026-11-12T12:50:17+00:00"
+    },
+    {
+     "source": "DER STANDARD",
+     "region": "AT",
+     "weight": 0.85,
+     "title": "Sechs Tote nach israelischem Angriff auf Krankenhaus in Gaza bestätigt",
+     "summary": "Das Nasser-Krankenhaus meldete den Tod von sechs Menschen. Bei anderen Angriffen der israelischen Armee sind fünf weitere Menschen in Gaza gestorben",
+     "link": "https://www.derstandard.at/story/3000000349059/sechs-tote-nach-israelischem-angriff-auf-krankenhaus-in-gaza-bestaetigt?ref=rss",
+     "image": "https://i.ds.at/LbGL8w/rs:fill:150:0/plain/lido-images/2026/11/13/a8f02c81-1736-41e0-b095-28dfa68dfb40.jpg",
+     "aggregator": false,
+     "published": "2026-11-13T06:04:09+00:00"
+    },
+    {
+     "source": "n-tv",
+     "region": "DE",
+     "weight": 0.8,
+     "title": "Ziel war laut Israel Hamas: Ärzte ohne Grenzen: Angriff auf Gaza-Klinik durch nichts zu rechtfertigen",
+     "summary": "Das Nasser-Krankenhaus ist die letzte zumindest in Teilen funktionierende Klinik im Süden des Gazastreifens. Bei einem erneuten israelischen Angriff werden offenbar Patienten und ein Chirurg getötet. Das israelische Militär sagt, es habe auf Hamas-Mitglieder gezielt.",
+     "link": "https://www.n-tv.de/politik/Aerzte-ohne-Grenzen-Angriff-auf-Gaza-Klinik-durch-nichts-zu-rechtfertigen-id31531380.html",
+     "image": "https://www.n-tv.de/img/31531553/1794583638/Img_4_3/250/632590075.jpg",
+     "aggregator": false,
+     "published": "2026-11-13T15:13:20+00:00"
+    }
+   ]
+  },
+  {
+   "id": 21,
+   "score": 8.82,
+   "outlets": [
+    "Handelsblatt",
+    "heise online",
+    "n-tv"
+   ],
+   "regions": [
+    "DE"
+   ],
+   "trend": [],
+   "newest": "2026-11-13T15:33:00+00:00",
+   "articles": [
+    {
+     "source": "Handelsblatt",
+     "region": "DE",
+     "weight": 0.9,
+     "title": "Sicherheit: Bundestag beschließt Geheimdienstreform",
+     "summary": "Der Bundestag hat am Freitag eine weitreichende Reform deutscher Geheimdienste beschlossen. Das Bundesamt für Verfassungsschutz und der Bundesnachrichtendienst dürfen nun bei besonderen Gefahren aktiv und verdeckt gegen Angreifer vorgehen.",
+     "link": "https://www.handelsblatt.com/video/politik/sicherheit-bundestag-beschliesst-geheimdienstreform/100269768.html",
+     "image": null,
+     "aggregator": false,
+     "published": "2026-11-13T14:07:44+00:00"
+    },
+    {
+     "source": "heise online",
+     "region": "DE",
+     "weight": 0.85,
+     "title": "Lizenz zum Einbruch: Bundestag winkt umkämpfte Geheimdienstreform durch",
+     "summary": "Trotz Warnungen vor Grundrechtsbrüchen erhalten BND und Verfassungsschutz weitreichende Befugnisse für Wohnungseinbrüche, KI-Überwachung und Datenmanipulation.",
+     "link": "https://www.heise.de/news/Lizenz-zum-Einbruch-Bundestag-winkt-umkaempfte-Geheimdienstreform-durch-11524886.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
+     "image": null,
+     "aggregator": false,
+     "published": "2026-11-13T15:33:00+00:00"
+    },
+    {
+     "source": "n-tv",
+     "region": "DE",
+     "weight": 0.8,
+     "title": "Sicherheit! Freiheit! Stasi 2.0!: Reform der Geheimdienste nach hitziger Debatte beschlossen",
+     "summary": "Bundesnachrichtendienst und Verfassungsschutz erhalten mehr Befugnisse. Um Sicherheit zu gewähren und Freiheit zu schützen, sagen Union und SPD. Um die Freiheit einzuschränken, sagen Linke und AfD. Dazwischen stehen die Grünen.",
+     "link": "https://www.n-tv.de/politik/Reform-der-Geheimdienste-nach-hitziger-Debatte-beschlossen-id31530535.html",
+     "image": "https://www.n-tv.de/img/31530618/1794575042/Img_4_3/250/452578846.jpg",
+     "aggregator": false,
+     "published": "2026-11-13T13:18:00+00:00"
+    }
+   ]
+  },
+  {
+   "id": 22,
+   "score": 8.66,
+   "outlets": [
+    "SRF News",
+    "Süddeutsche",
+    "heise online"
+   ],
+   "regions": [
+    "CH",
+    "DE"
+   ],
+   "trend": [],
+   "newest": "2026-11-13T14:10:10+00:00",
+   "articles": [
+    {
+     "source": "SRF News",
+     "region": "CH",
+     "weight": 0.95,
+     "title": "– Ausfall bei Microsoft dauert an – kein Anzeichen für Cyberangriff",
+     "summary": "Betroffen ist der Cloud-Dienst Microsoft 365 – dazu gehören unter anderem Outlook, Teams oder der KI-Assistent Copilot.",
+     "link": "https://www.srf.ch/news/wirtschaft/software-riese-microsoft-ausfall-bei-microsoft-dauert-an-kein-anzeichen-fuer-cyberangriff",
+     "image": "https://www.srf.ch/static/cms/images//320ws/e87ada.webp",
+     "aggregator": false,
+     "published": "2026-11-13T08:14:56+00:00"
+    },
+    {
+     "source": "Süddeutsche",
+     "region": "DE",
+     "weight": 0.9,
+     "title": "Microsoft: So etwas passiert, wenn sich die ganze Welt einem Konzern ausliefert",
+     "summary": "Führt der Ausfall von Outlook, Teams und Copilot dazu, dass Menschen, Behörden, Geheimdienste und Kliniken ihr Vertrauen in das Unternehmen verlieren? Falls ja: Es kann ihm egal sein.",
+     "link": "https://www.sueddeutsche.de/meinung/microsoft-stoerung-outlook-teams-monopol-kommentar-li.3580142",
+     "image": "https://www.sueddeutsche.de/2026/11/13/fc415641-9e4f-4396-a110-f4fa04ff9715.jpg?rect=591%2C0%2C2752%2C2064&width=1000&fm=jpg&q=60",
+     "aggregator": false,
+     "published": "2026-11-13T14:10:10+00:00"
+    },
+    {
+     "source": "heise online",
+     "region": "DE",
+     "weight": 0.85,
+     "title": "Microsoft-365-Störung: Serverausfälle legen Teams, Exchange und Copilot lahm",
+     "summary": "Eine Störung bei Microsoft 365 beeinträchtigt weltweit zahlreiche Cloud-Dienste wie Exchange Online, Teams, SharePoint, Copilot und Defender XDR.",
+     "link": "https://www.heise.de/news/Microsoft-365-Stoerung-Serverausfaelle-legen-Teams-Exchange-und-Copilot-lahm-11523565.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
+     "image": null,
+     "aggregator": false,
+     "published": "2026-11-12T21:01:00+00:00"
+    }
+   ]
+  },
+  {
+   "id": 23,
+   "score": 8.52,
+   "outlets": [
+    "tagesschau Ausland",
+    "ZDFheute",
+    "SPIEGEL"
+   ],
+   "regions": [
+    "DE",
+    "INT"
+   ],
+   "trend": [],
+   "newest": "2026-11-13T12:32:00+00:00",
+   "articles": [
+    {
+     "source": "tagesschau Ausland",
+     "region": "INT",
+     "weight": 1.0,
+     "title": "Jugendlicher überlebt sechs Tage im australischen Outback",
+     "summary": "Fast eine Woche haben 100 Einsatzkräfte im australischen Busch nach einem vermissten Teenager gesucht. Jetzt wurde er aus der Luft entdeckt - lebend, nur mit ein paar Kratzern und Sonnenbrand.",
+     "link": "https://www.tagesschau.de/ausland/australien-teenager-wildnis-100.html",
+     "image": "https://images.tagesschau.de/image/e434b1b1-41b0-4e99-8b75-839f51b23de7/AAABodCbceE/AAABnSSvrFg/16x9-big/rettung-william-australien-100.jpg?width=1920",
+     "aggregator": false,
+     "published": "2026-11-12T11:23:50+00:00"
+    },
+    {
+     "source": "ZDFheute",
+     "region": "DE",
+     "weight": 1.0,
+     "title": "17-Jähriger überlebt sechs Tage im australischen Outback",
+     "summary": "Rettungskräfte haben den 17-jährigen William von einem Felsen im australischen Outback gerettet. Bei einem Campingausflug war er einen Abhang hinuntergestürzt.",
+     "link": "https://www.zdfheute.de/video/teenager-ueberlebt-outback-video-100.html",
+     "image": "https://www.zdfheute.de/assets/teenager-outback-rettung-100~384x216?cb=1794485831797",
+     "aggregator": false,
+     "published": "2026-11-12T17:05:00+00:00"
+    },
+    {
+     "source": "SPIEGEL",
+     "region": "DE",
+     "weight": 0.9,
+     "title": "Australien: Chips, Bachwasser und ein Lied – wie ein Teenager im australischen Busch überlebte",
+     "summary": "Ein Teenager wird nach sechs Tagen in der Wildnis wiedergefunden. Er ist sonnenverbrannt und dehydriert, aber er lebt. Geholfen haben wohl Chips, Bachwasser und ein besonderes Lied.",
+     "link": "https://www.spiegel.de/ausland/australien-chips-bachwasser-und-ein-lied-wie-ein-teenager-im-australischen-busch-ueberlebte-a-472c0376-845d-465f-b817-4fdbb918d710#ref=rss",
+     "image": "https://cdn.prod.www.spiegel.de/images/73f2427a-9ff3-48f3-9d31-18de424cb973_w520_r2.08_fpx52.02_fpy50.jpg",
+     "aggregator": false,
+     "published": "2026-11-13T12:32:00+00:00"
+    }
+   ]
+  },
+  {
+   "id": 24,
+   "score": 8.16,
+   "outlets": [
+    "tagesschau",
+    "n-tv",
+    "Tagesspiegel"
+   ],
+   "regions": [
+    "DE"
+   ],
+   "trend": [],
+   "newest": "2026-11-13T16:16:02+00:00",
+   "articles": [
+    {
+     "source": "tagesschau",
+     "region": "DE",
+     "weight": 1.0,
+     "title": "Steffen Krach: Staatsanwaltschaft beantragt Aufhebung der Immunität",
+     "summary": "Die Staatsanwaltschaft Hannover will die Immunität von Berlins SPD-Fraktionschef Steffen Krach aufheben lassen. Gegen ihn wird unter anderem wegen des Verdachts der Vorteilsannahme ermittelt.",
+     "link": "https://www.tagesschau.de/inland/regional/berlin/steffen-krach-immunitaet-100.html",
+     "image": "https://images.tagesschau.de/image/48527451-0f61-4fe6-a215-d579f3318ad8/AAABodTEFp0/AAABnSSvrFg/16x9-big/krach-152.jpg?width=1920",
+     "aggregator": false,
+     "published": "2026-11-13T16:16:02+00:00"
+    },
+    {
+     "source": "n-tv",
+     "region": "DE",
+     "weight": 0.8,
+     "title": "Antrag wohl überflüssig: Staatsanwaltschaft beantragt Aufhebung von Krachs Immunität",
+     "summary": "Rot-Rot-Grün verhandelt in Berlin derzeit den Koalitionsvertrag. SPD-Chef Krach steht im Zentrum eines Ermittlungsverfahrens in seiner früheren Heimat Hannover. Ermittler wenden sich nun an das Landesparlament. Offenbar ein überflüssiger Schritt.",
+     "link": "https://www.n-tv.de/politik/Staatsanwaltschaft-beantragt-Aufhebung-der-Immunitaet-von-Berliner-SPD-Chef-Krach-id31530792.html",
+     "image": "https://www.n-tv.de/img/31530778/1794576573/Img_4_3/250/632551450.jpg",
+     "aggregator": false,
+     "published": "2026-11-13T16:15:00+00:00"
+    },
+    {
+     "source": "Tagesspiegel",
+     "region": "DE",
+     "weight": 0.6,
+     "title": "Nach Prüfung der Parlamentspräsidentin Ermittlungen gegen Steffen Krach können fortgesetzt werden",
+     "summary": "Nach Prüfung der Parlamentspräsidentin Ermittlungen gegen Steffen Krach können fortgesetzt werden Tagesspiegel Staatsanwaltschaft Hannover: Staatsanwaltschaft beantragt Aufhebung von Steffen Krachs Immunität DIE ZEIT Trotz Immunität: Ermittlungen gegen Krach können weitergehen WELT Staatsanwaltschaft Hannover beantragt Aufhebung von Krachs Immunität Spiegel Steffen Krach: Staatsanwaltschaft will Immunität aufheben BILD",
+     "link": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxNS3ZldVgzSUVBMVVzZTl2Q1ZqX2prQjRVZVRta3dSc2N6UGU4MThFWENFZmRDLXlXWm81anhpd1ZmVjlEaXltcktHNldNTnFrNEFNTHlpYUZ2Y0VrSm1EbFBidTA0TTZFekh5MzBtaXhnN01vdzY3elFyVFNTRWFuSEFTN0FfOFRKMXlMUkFSS0FxV0RFaXZQQ21tWExhelhraG96cWlSeVdpV1FwWERyOHhrRG1BR2RMaGtWcmxVOEg4NmdVUGM0ZkVrVDZ2b2ZxNE5MZjRzeWVkeDlnQkpaMmRxY1IwX2VteWEyRy02UzBZMVhSNEVN?oc=5",
+     "image": null,
+     "aggregator": true,
+     "published": "2026-11-13T14:39:00+00:00"
+    }
+   ]
+  },
+  {
+   "id": 25,
+   "score": 8.15,
+   "outlets": [
+    "tagesschau",
+    "WELT",
+    "DIE ZEIT"
+   ],
+   "regions": [
+    "DE",
+    "INT"
+   ],
+   "trend": [],
+   "newest": "2026-11-13T16:13:23+00:00",
+   "articles": [
+    {
+     "source": "tagesschau",
+     "region": "DE",
+     "weight": 1.0,
+     "title": "Merz beansprucht Teilnahme an künftigen Ukraine-Gesprächen",
+     "summary": "Der Krieg gegen die Ukraine steht im Fokus des EU-Treffens in Dublin. Kanzler Merz erhält für seinen Vorstoß zur Finanzierung neuer Ukraine-Hilfen Rückendeckung - bei Gesprächen über ein Kriegsende sieht er Deutschland als \"gesetzt\" an.",
+     "link": "https://www.tagesschau.de/ausland/europa/ukraine-gipfel-eu-dublin-merz-100.html",
+     "image": "https://images.tagesschau.de/image/613de0f2-fee8-4cf4-a734-9b3483edb868/AAABodWQyBc/AAABnSSvrFg/16x9-big/merz-dublin-100.jpg?width=1920",
+     "aggregator": false,
+     "published": "2026-11-13T16:13:23+00:00"
+    },
+    {
+     "source": "tagesschau",
+     "region": "DE",
+     "weight": 1.0,
+     "title": "Informelles Treffen in Dublin: Wie einig ist sich die EU in puncto Ukraine?",
+     "summary": "Beim Treffen der Staat- und Regierungschefs in Dublin steht die Ukraine weiter im Fokus. Vor allem über weitere Finanzhilfen wird diskutiert. Kanzler Merz hat dabei klare Vorstellungen. Von Kathrin Schmid.",
+     "link": "https://www.tagesschau.de/ausland/europa/eu-treffen-dublin-ukraine-100.html",
+     "image": "https://images.tagesschau.de/image/4641a0a1-a6c2-4cde-a51b-c67e7e440bb0/AAABodRFmpE/AAABnSSvrFg/16x9-big/merz-selenskyj-146.jpg?width=1920",
+     "aggregator": false,
+     "published": "2026-11-13T09:38:13+00:00"
+    },
+    {
+     "source": "tagesschau Ausland",
+     "region": "INT",
+     "weight": 1.0,
+     "title": "Merz beansprucht Teilnahme an künftigen Ukraine-Gesprächen",
+     "summary": "Der Krieg gegen die Ukraine steht im Fokus des EU-Treffens in Dublin. Kanzler Merz erhält für seinen Vorstoß zur Finanzierung neuer Ukraine-Hilfen Rückendeckung - bei Gesprächen über ein Kriegsende sieht er Deutschland als \"gesetzt\" an.",
+     "link": "https://www.tagesschau.de/ausland/europa/ukraine-gipfel-eu-dublin-merz-100.html",
+     "image": "https://images.tagesschau.de/image/613de0f2-fee8-4cf4-a734-9b3483edb868/AAABodWQyBc/AAABnSSvrFg/16x9-big/merz-dublin-100.jpg?width=1920",
+     "aggregator": false,
+     "published": "2026-11-13T16:13:23+00:00"
+    },
+    {
+     "source": "tagesschau Ausland",
+     "region": "INT",
+     "weight": 1.0,
+     "title": "Informelles Treffen in Dublin: Wie einig ist sich die EU in puncto Ukraine?",
+     "summary": "Beim Treffen der Staat- und Regierungschefs in Dublin steht die Ukraine weiter im Fokus. Vor allem über weitere Finanzhilfen wird diskutiert. Kanzler Merz hat dabei klare Vorstellungen. Von Kathrin Schmid.",
+     "link": "https://www.tagesschau.de/ausland/europa/eu-treffen-dublin-ukraine-100.html",
+     "image": "https://images.tagesschau.de/image/4641a0a1-a6c2-4cde-a51b-c67e7e440bb0/AAABodRFmpE/AAABnSSvrFg/16x9-big/merz-selenskyj-146.jpg?width=1920",
+     "aggregator": false,
+     "published": "2026-11-13T09:38:13+00:00"
+    },
+    {
+     "source": "WELT",
+     "region": "DE",
+     "weight": 0.8,
+     "title": "„Wie will er da heil herauskommen?“ – Jetzt sitzt Merz in der Falle, die er sich selbst gestellt hat",
+     "summary": "Der Druck auf die EU, eine Lösung für die Finanzierung der Ukraine zu finden, steigt. Auch, weil Kanzler Merz seinen Kollegen ein Ultimatum gestellt hat. Insbesondere kleine Länder sind erbost. Eine zweite Frage wiegt noch schwerer.",
+     "link": "https://www.welt.de/politik/ausland/plus6af70fdc9849eea0701e1abd/ukraine-wie-will-er-da-heil-herauskommen-jetzt-sitzt-merz-in-der-falle-die-er-sich-selbst-gestellt-hat.html",
+     "image": "https://images.welt.de/6af70fdc9849eea0701e1abd/a962a5644ad9ed8d08dcac9d522fdab3-master/ci23x11-w1200/dpa-com-261113-99-266093-jpg",
+     "aggregator": false,
+     "published": "2026-11-13T14:32:51+00:00"
+    },
+    {
+     "source": "DIE ZEIT",
+     "region": "DE",
+     "weight": 0.6,
+     "title": "Ukrainekrieg: Merz geht von deutscher Teilnahme an Ukraine-Friedensgesprächen aus",
+     "summary": "Ukrainekrieg: Merz geht von deutscher Teilnahme an Ukraine-Friedensgesprächen aus DIE ZEIT Streit in Dublin: Wer vertritt die EU bei Russland-Verhandlungen? FAZ Friedrich Merz: Deutschland bei Ukraine-Verhandlungen dabei BILD Merz beansprucht Teilnahme an künftigen Ukraine-Gesprächen tagesschau.de Ukraine-Ticker: Berlin stellt neue Mittel für Winterhilfe bereit BR",
+     "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQMDhQRkVBaTVDM29WV09lS0xvNEh2eE9HY19sQzZOb3V1c3lDcmJ1bHdHcHVyTmxMZm1YTk9tSGJhVlhnSVVYRHIyWFg3cWl2cE9lUmlWQmJoUXFFN2hHcE9VZ2VCNXlkUFZCTzhBS19VX3hMT1AxcFBqTmd1ZmdGVHFlYncyeTcxbUJlNWdtSGhITHdRSXEyZmhYVzFUUUtEbzhNUEJUV29QQklRVk45d3pjV19kQ1ZUYXc?oc=5",
+     "image": null,
+     "aggregator": true,
+     "published": "2026-11-13T13:10:48+00:00"
+    }
+   ]
+  },
+  {
+   "id": 26,
+   "score": 8.03,
+   "outlets": [
+    "tagesschau",
+    "ZDFheute",
+    "heise online"
+   ],
+   "regions": [
+    "DE"
+   ],
+   "trend": [],
+   "newest": "2026-11-13T11:23:00+00:00",
+   "articles": [
+    {
+     "source": "tagesschau",
+     "region": "DE",
+     "weight": 1.0,
+     "title": "Mercedes stoppt Investitionen in Deutschland - und prüft Schließungen",
+     "summary": "In den Verhandlungen um Kostensenkungen bei Mercedes ist keine Lösung in Sicht. Jetzt erhöht der Konzern den Druck: Der Vorstand legt alle Investitionen in deutsche Standorte auf Eis - und will Werksschließungen prüfen.",
+     "link": "https://www.tagesschau.de/wirtschaft/unternehmen/mercedes-stopp-investitionen-100.html",
+     "image": "https://images.tagesschau.de/image/a1c69cbc-7a7c-413d-aae2-f16786e0d57e/AAABodDagME/AAABnSSvrFg/16x9-big/mercedes-montage-100.jpg?width=1920",
+     "aggregator": false,
+     "published": "2026-11-12T18:44:38+00:00"
+    },
+    {
+     "source": "ZDFheute",
+     "region": "DE",
+     "weight": 1.0,
+     "title": "Mercedes-Sparkurs: Jetzt spricht der Betriebsrat",
+     "summary": "Mercedes stoppt vorerst alle Investitionen in deutsche Standorte, der Druck auf Betriebsrat und IG Metall steigt. Sie lehnen den Plan ab, das sei mit ihnen \"nicht zu machen\".",
+     "link": "https://www.zdfheute.de/wirtschaft/unternehmen/investitionen-deutschland-kostensenkungen-werksschliessungen-stopp-100.html",
+     "image": "https://www.zdfheute.de/assets/mercedes-benz-logo-106~384x216?cb=1785218206711",
+     "aggregator": false,
+     "published": "2026-11-13T11:23:00+00:00"
+    },
+    {
+     "source": "heise online",
+     "region": "DE",
+     "weight": 0.85,
+     "title": "Mercedes stoppt Investitionen in Deutschland und prüft Werksschließungen",
+     "summary": "Ohne Einigung mit Betriebsrat und IG Metall will Mercedes nicht mehr in deutsche Werke investieren. Ein Montage- und ein Powertrain-Werk stehen zur Disposition.",
+     "link": "https://www.heise.de/news/Mercedes-stoppt-Investitionen-in-Deutschland-und-prueft-Werksschliessungen-11523770.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
+     "image": null,
+     "aggregator": false,
+     "published": "2026-11-13T08:42:00+00:00"
+    }
+   ]
+  },
+  {
+   "id": 27,
+   "score": 7.92,
+   "outlets": [
+    "Deutschlandfunk",
+    "Golem"
+   ],
+   "regions": [
+    "DE"
+   ],
+   "trend": [],
+   "newest": "2026-11-13T16:08:16+00:00",
+   "articles": [
+    {
+     "source": "Deutschlandfunk",
+     "region": "DE",
+     "weight": 0.95,
+     "title": "Autoindustrie - Mercedes-Benz prüft jetzt \"konkret und detailliert\" Werksschließungen",
+     "summary": "Der Autohersteller Mercedes-Benz will seine Kosten senken und prüft jetzt - wie es heißt - \"konkret und detailliert\" die Schließung von Werken in Deutschland. Der Schritt war bereits angedroht worden. Das Unternehmen verlangt von den Arbeitnehmern weit reichende Zugeständnisse.",
+     "link": "https://www.deutschlandfunk.de/mercedes-benz-prueft-jetzt-konkret-und-detailliert-werksschliessungen-100.html",
+     "image": "https://bilder.deutschlandfunk.de/0c/8f/17/1f/0c8f171f-93ce-4819-ae5b-1aaf560fdf3b/mercedes-benz-auto-autohersteller-bilanz-jahreszahlen-gewinnrueckgang-stern-gewinneinbruch-china-100-1920x1920.jpg",
+     "aggregator": false,
+     "published": "2026-11-13T16:08:16+00:00"
+    },
+    {
+     "source": "Golem",
+     "region": "DE",
+     "weight": 0.75,
+     "title": "Autohersteller: Mercedes stoppt alle Investitionen in Deutschland",
+     "summary": "Mercedes-Benz setzt alle weiteren Investitionen in seinen deutschen Werken vorerst aus. Es drohen Werksschließungen. ( Mercedes Benz , Wirtschaft )",
+     "link": "https://www.golem.de/news/autohersteller-mercedes-stoppt-alle-investitionen-in-deutschland-2611-215158.html",
+     "image": "https://cpx.golem.de/cpx.php?class=17&amp;aid=215158&amp;page=1&amp;ts=1794505802",
+     "aggregator": false,
+     "published": "2026-11-12T17:50:02+00:00"
+    },
+    {
+     "source": "Deutschlandfunk",
+     "region": "DE",
+     "weight": 0.6,
+     "title": "Autoindustrie - Mercedes-Benz prüft jetzt \"konkret und detailliert\" Werksschließungen",
+     "summary": "Autoindustrie - Mercedes-Benz prüft jetzt \"konkret und detailliert\" Werksschließungen Deutschlandfunk Mercedes stoppt alle weiteren Investitionen in Deutschland – Werksschließungen werden geprüft WELT Mercedes-Benz: IG Metall fordert von Mercedes Gespräche über Investitionsstopp DIE ZEIT Krise: Mercedes stellt selbst Werk Sindelfingen in Frage FAZ Mercedes-Benz stoppt Investitionen und prüft Werksschließungen rbb24.de",
+     "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPdE1UV1NGOGRuS0dyck1neXY5X0s1X2dWVUFPX1J5NTdKQ0NWbzg2Y1lRWWVUWTFKSlZVaWZqS1FpT2UxNlYtcUdEa3FKSzRoZlUyMVpGS3d0MW8wYnlkRUU4UTQ1SXZ2dDhRQmdvZkJ6RVhBd0hwdW5GYXd2TWVBd2RpXzBhLUFVZk9ET3NmOFVycDNJa3hkR2FCdk9ta3dpVU0wbk1xdGM2VnBxb0E?oc=5",
+     "image": null,
+     "aggregator": true,
+     "published": "2026-11-13T16:08:16+00:00"
+    }
+   ]
+  }
+ ]
+}
