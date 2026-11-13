@@ -18,7 +18,7 @@ Trend Upload-Tage FB: 10. Nov Ø 1.047 (11.512) · 11. Nov Ø 224 · 12. Nov Ø 
 8. **Ø-Wiedergabe hoch, Engaged-Quote sinkt:** 11. Nov 3.290 Views / 1.128 engaged (34 %) / 68,6 % / +2 Abos / 11 Shares
    (10. Nov 4.878 / 39 % / 71,5 %). Top-Retention 7 T: Huang-Affäre 84,0 % · Fabian 83,5 % · Steuerklasse III 82,8 %.
 9. **Suche bleibt stark:** Traffic 6.–13. Nov Shorts-Feed 20.432 (77 %) · Suche 5.481 (21 %) · andere YT-Seiten 240 · Abo-Feed 123 · extern 50.
-10. Abos bleiben das Problem: 7-T-Top-60 zusammen +12 Abos bei ≈ 32.000 Views (0,04 %).
+10. Abos bleiben das Problem: 7 Tage (6.–13. Nov) nur +10 Abos bei 26.363 Views (0,04 %).
 11. Slots YT 13. Nov (UTC): 07:30 959 · 05:15 654 · 13:30 640 · 18:30 373 (4 h) · 19:45 272 (2,5 h) · 17:30 217 · 11:00 90 · 09:00 54 · 06:00 51.
 
 ## Facebook
