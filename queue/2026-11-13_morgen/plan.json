@@ -1,0 +1,57 @@
+{
+  "stories": [
+    {
+      "candidate_id": 3,
+      "pillar": "POLITIK",
+      "region": "DE",
+      "kicker": "BAYERN",
+      "headline": "Bundeswehr stoppt Drohnen nach Hack",
+      "highlight": ["Drohnen"],
+      "voice": "Quantum Systems aus Bayern meldet einen Cyberangriff durch „feindliche Akteure“. Unbekannte platzierten Schadsoftware auf einem internen Update-Server. Die Firma beliefert Bundeswehr und Ukraine.",
+      "subline": "Drohnen des Herstellers vorsorglich aus dem Verkehr gezogen",
+      "entities": ["Quantum Systems", "Bundeswehr", "Drohne"]
+    },
+    {
+      "candidate_id": 16,
+      "pillar": "WELT",
+      "region": "EU",
+      "kicker": "DUBLIN",
+      "headline": "Putin lässt Europa an den Tisch",
+      "highlight": ["Putin"],
+      "voice": "Putin lässt Europa an den Verhandlungstisch – so berichtet US-Unterhändler Kushner in Dublin. Doch der Kremlchef beharrt auf ukrainischen Gebieten und lehnt entmilitarisierte Zonen ab.",
+      "subline": "Wer Europa bei den Gesprächen vertritt, ist noch offen",
+      "entities": ["Wladimir Putin", "Jared Kushner", "Dublin"]
+    },
+    {
+      "candidate_id": 4,
+      "pillar": "TECHNOLOGIE",
+      "region": "INT",
+      "kicker": "STÖRUNG",
+      "headline": "Microsoft: Outlook und Teams gestört",
+      "highlight": ["Outlook"],
+      "voice": "Microsoft kämpft mit einer weltweiten Störung: Outlook, Teams und Copilot fielen stundenlang aus. Zehntausende Nutzer sind betroffen, der Konzern arbeitet an einer Lösung.",
+      "subline": "Ausfall bei Microsoft 365 – Systeme erholen sich nur zeitweise",
+      "entities": ["Microsoft", "Microsoft Outlook", "Microsoft Teams"]
+    },
+    {
+      "candidate_id": 14,
+      "pillar": "WIRTSCHAFT",
+      "region": "DE",
+      "kicker": "WOLFSBURG",
+      "headline": "VW verdient nur zwölf Euro pro Auto",
+      "highlight": ["zwölf Euro"],
+      "voice": "Volkswagen verdient laut einer Studie nur zwölf Euro pro Auto. Schuld sind Sonderlasten von acht Komma sieben Milliarden Euro. Mercedes verdient dreihundertfünfzigmal so viel.",
+      "subline": "Branchenschnitt liegt bei 1.363 Euro Gewinn pro Auto",
+      "entities": ["Volkswagen", "Mercedes-Benz", "Wolfsburg"]
+    }
+  ],
+  "hook_text": "Bundeswehr stoppt Drohnen",
+  "hook_voice": "Bundeswehr stoppt Drohnen nach Hackerangriff auf Lieferanten.",
+  "youtube_title": "Bundeswehr stoppt Drohnen: Wer hat Quantum Systems gehackt?",
+  "description_lead": "Nach einem Cyberangriff auf den bayerischen Drohnenhersteller Quantum Systems setzt die Bundeswehr dessen Drohnen vorsorglich aus – die Firma spricht von „feindlichen Akteuren“. Außerdem: Putin lässt laut Jared Kushner Europa an den Verhandlungstisch, eine weltweite Microsoft-Störung legt Outlook und Teams lahm, und Volkswagen verdient laut Studie nur zwölf Euro pro Auto.",
+  "tags": ["Quantum Systems", "Bundeswehr", "Drohnen", "Cyberangriff", "Hackerangriff", "Wladimir Putin", "Jared Kushner", "Ukraine", "Microsoft", "Outlook Störung", "Teams", "Volkswagen", "Mercedes", "nachrichten", "nachrichten aktuell"],
+  "hashtags": ["#bundeswehr", "#cyberangriff", "#nachrichten"],
+  "facebook_caption_line1": "Hackerangriff auf Drohnen-Lieferanten: Bundeswehr zieht Drohnen von Quantum Systems aus dem Verkehr",
+  "facebook_question": "Ist die Bundeswehr ausreichend gegen Hackerangriffe auf ihre Lieferanten geschützt?",
+  "comment_question": "Ja oder nein: Ist die Bundeswehr gut genug gegen Hackerangriffe geschützt?"
+}
