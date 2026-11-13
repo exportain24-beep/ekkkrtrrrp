@@ -1,0 +1,26 @@
+{
+  "format": "single",
+  "candidate_id": 1,
+  "pillar": "WIRTSCHAFT",
+  "region": "DE",
+  "kicker": "AUTOINDUSTRIE",
+  "hook_screen": "MERCEDES-STOPP!",
+  "hook_voice": "Mercedes stoppt alle Investitionen in deutsche Werke.",
+  "beats": [
+    {"voice": "Der Vorstand prüft jetzt, welche Werke er sich noch leisten kann. Auch Schließungen sind im Spiel.", "big": "WERKE?", "label": "Schließungen werden geprüft"},
+    {"voice": "Intern droht die Konzernspitze: Künftige Autos könnten ausschließlich im Ausland gebaut werden.", "big": "AUSLAND", "label": "Neue Modelle nur noch im Ausland?"},
+    {"voice": "Der Grund: Die Gespräche mit der Arbeitnehmerseite über Kostensenkungen stocken.", "big": "KOSTEN", "label": "Sparstreit mit Arbeitnehmern stockt"},
+    {"voice": "Für die Beschäftigten in den deutschen Werken wächst damit der Druck.", "big": "STOPP", "label": "Alle neuen Investitionen auf Eis"}
+  ],
+  "loop_line": "Ob wirklich Werke schließen, entscheidet sich am Verhandlungstisch – noch ist alles offen.",
+  "headline": "Mercedes stoppt Investitionen",
+  "highlight": ["Mercedes"],
+  "entities": ["Mercedes-Benz", "Mercedes-Benz Group"],
+  "youtube_title": "Mercedes stoppt alle Investitionen: Schließen jetzt deutsche Werke?",
+  "description_lead": "Mercedes-Benz legt alle neuen Investitionen in deutsche Standorte auf Eis und prüft Werksschließungen. Hintergrund ist der festgefahrene Streit mit der Arbeitnehmerseite über Kostensenkungen.",
+  "tags": ["Mercedes", "Mercedes-Benz", "Mercedes Werksschließung", "Investitionsstopp", "Autoindustrie", "Autobauer", "Standort Deutschland", "Werksschließungen", "Betriebsrat", "Kostensenkung", "Arbeitsplätze", "Wirtschaft", "Nachrichten", "Autobranche"],
+  "hashtags": ["#mercedes", "#autoindustrie", "#wirtschaft"],
+  "facebook_caption_line1": "Mercedes legt alle Investitionen in Deutschland auf Eis – Werksschließungen werden geprüft.",
+  "facebook_question": "Ist der Standort Deutschland für Autobauer noch zu halten?",
+  "comment_question": "Glauben Sie, dass Mercedes tatsächlich Werke in Deutschland schließt – ja oder nein?"
+}
