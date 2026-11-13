@@ -54,6 +54,15 @@ def de_num(x: float, decimals: int = 0) -> str:
     return s.replace(",", "§").replace(".", ",").replace("§", ".")
 
 
+def clean(text: str) -> str:
+    """Credits from Commons/HTML can carry entities, control or exotic characters that break text layout."""
+    import html
+    import re
+    t = html.unescape(str(text))
+    t = re.sub(r"[^\w\s.,:;/()&@'’+\-–·|!?„“\"©]", "", t)
+    return re.sub(r"\s+", " ", t).strip()
+
+
 def wrap(text: str, fnt, max_w: int) -> list[str]:
     lines, cur = [], ""
     for w in text.split():
@@ -493,8 +502,12 @@ def overlays(fr: Image.Image, t: float, doc: Doc, p: Piece, credit: str) -> None
     if credit:
         fc = font("med", 22)
         txt = credit if credit.lower().startswith(("bild", "foto")) else f"Bild: {credit}"
-        txt = txt[:110]
-        tw = fc.getlength(txt)
+        txt = clean(txt)[:110]
+        try:
+            tw = fc.getlength(txt)
+        except Exception:
+            txt = txt.encode("ascii", "ignore").decode()
+            tw = fc.getlength(txt)
         d.rectangle([W - 60 - tw - 20, 1002, W - 60, 1032], fill=(0, 0, 0, 150))
         d.text((W - 70, 1017), txt, font=fc, fill=(220, 220, 225), anchor="rm")
 

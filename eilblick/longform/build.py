@@ -57,7 +57,7 @@ def fetch_photos(ep: dict, offline: bool) -> tuple[dict, list[dict]]:
                 got = _download(u, d / f"{p['id']}.jpg", 900)
                 if got:
                     img, used = got[0], u
-                    p["credit"] = cr      # outlet credit, or real author + licence from the Commons API
+                    p["credit"] = R.clean(cr)      # outlet credit, or real author + licence from the Commons API
                     break
         if img is None:
             log(f"  ! photo {p['id']} failed – will be replaced")
