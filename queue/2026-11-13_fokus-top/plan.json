@@ -1,0 +1,67 @@
+{
+  "format": "single",
+  "candidate_id": 14,
+  "pillar": "WIRTSCHAFT",
+  "region": "DE",
+  "kicker": "PAKETPREISE",
+  "hook_screen": "PAKET-SCHOCK!",
+  "hook_voice": "DHL macht das kleine Päckchen am Schalter einen Euro teurer.",
+  "beats": [
+    {
+      "voice": "Ab dem ersten Januar kostet es in der Filiale fünf Euro neunzehn statt vier Euro neunzehn. Fast ein Viertel mehr.",
+      "big": "5,19 €",
+      "label": "Päckchen S in der Filiale ab 1. Januar"
+    },
+    {
+      "voice": "Auch das Paket bis zehn Kilo steigt am Schalter um zwei Euro, auf zwölf Euro neunundvierzig.",
+      "big": "+2 €",
+      "label": "Paket bis 10 kg in der Filiale"
+    },
+    {
+      "voice": "Für Sie heißt das: Online frankieren spart. Dort bleiben viele Preise stabil, das kleine Päckchen kostet vier Euro neunundvierzig.",
+      "big": "4,49 €",
+      "label": "Päckchen S online"
+    },
+    {
+      "voice": "Noch muss die Bundesnetzagentur zustimmen.",
+      "big": "BNetzA",
+      "label": "muss die neuen Preise genehmigen"
+    }
+  ],
+  "loop_line": "Also: Lohnt sich der Gang zur Filiale überhaupt noch?",
+  "headline": "DHL erhöht die Paketpreise",
+  "highlight": [
+    "DHL"
+  ],
+  "entities": [
+    "DHL",
+    "Deutsche Post",
+    "Bundesnetzagentur"
+  ],
+  "youtube_title": "DHL erhöht Paketpreise: Lohnt sich die Filiale jetzt noch?",
+  "description_lead": "DHL erhöht zum 1. Januar 2027 die Preise für Pakete und Päckchen von Privatkunden – vor allem in der Filiale: Das Päckchen S kostet dort 5,19 statt 4,19 Euro, das Paket bis 10 kg 12,49 statt 10,49 Euro. Online bleiben viele Preise stabil; die Bundesnetzagentur muss die neuen Preise noch genehmigen.",
+  "tags": [
+    "DHL",
+    "Deutsche Post",
+    "Bundesnetzagentur",
+    "Paketpreise",
+    "Päckchen",
+    "Porto",
+    "Portoerhöhung",
+    "Paketpreise 2027",
+    "Preiserhöhung",
+    "Verbraucher",
+    "Weihnachtspakete",
+    "Post Filiale",
+    "Geld",
+    "Nachrichten aktuell"
+  ],
+  "hashtags": [
+    "#dhl",
+    "#porto",
+    "#verbraucher"
+  ],
+  "facebook_caption_line1": "DHL erhöht die Preise: Päckchen am Schalter ab Januar einen Euro teurer",
+  "facebook_question": "Frankieren Sie Ihre Pakete schon online – oder gehen Sie lieber in die Filiale?",
+  "comment_question": "Ein Euro mehr fürs Päckchen am Schalter: Gerechtfertigt oder zu viel?"
+}
