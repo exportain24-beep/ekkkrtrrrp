@@ -20,3 +20,6 @@ Ehrliche Frage: Wer ein Leben lang gearbeitet hat, sollte im Alter nicht zur Taf
 Zahl zählt hoch auf 773.735 – 'So viele Rentner brauchen jetzt Hilfe vom Sozialamt. Und 60 Prozent der Berechtigten beantragen sie nicht einmal.' Split-Screen Deutschland 1.120 € vs. Österreich 1.646 € (30 s, verweist auf die Doku)
 - comment ✓ (nach Premiere)
 - playlist ✓ (nach Premiere)
+- Facebook ✓ Video 1496316029225095 (sofort)
+- twitter ✗ Buffer createPost: Invalid post: Video must be no longer than 2m 20s for X (Twitter).
+- tiktok ✓ 6af71ce04f78da1d8ba95bb0
