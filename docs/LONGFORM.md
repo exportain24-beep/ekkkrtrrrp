@@ -1,5 +1,20 @@
 # EILBLICK FOKUS – daily 16:9 documentary (6–9 min)
 
+> **STATUS: PAUSED by the owner (13.11.2026).** The daily desk task is disabled. Do not produce
+> episodes until the owner says to switch it on again.
+>
+> **MUST-DO before reactivation (owner requirement):**
+> 1. **Real background music** throughout every episode. The synthesised ambient bed (sound.py, −17/−29 dB)
+>    is effectively inaudible – the owner found the episodes without music "very bad". Use a proper,
+>    licence-free documentary score (tense/serious, changes mood per act, louder in cold open, title and
+>    chapter cards, ducked to about −20 dB under the voice, never silent).
+> 2. Photo variety: one photo max. twice per episode; more page/commons candidates per slot so failed
+>    downloads do not cause repeats.
+> 3. No article lead images that show children (even from behind).
+>
+> Published so far: 13.11.2026 Deutsche Bahn (youtu.be/OLzrxfBuKrI) and Altersarmut (youtu.be/t11uLwOfNhU),
+> each on YouTube, Facebook (16:9 page video, no link), TikTok and X (2:15 trailer + YouTube link).
+
 One investigative report per day on a long-running German problem that people are
 talking about. Published on YouTube at **18:00 Berlin** (= 23:00 Dhaka in winter, 22:00 Dhaka in summer). Completely separate from the Shorts system.
 
