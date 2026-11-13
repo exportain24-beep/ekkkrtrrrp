@@ -1,37 +1,38 @@
-# Learnings aus eigenen Daten (YouTube Analytics + FB-Plays) – Stand 12. Nov 2026, 23 Uhr (Nacht-Analyse)
-Datenlage: YT-Analytics bis 10. Nov (Verzug ~2 Tage); 11./12. Nov = öffentliche Zähler (YT 22 UTC, FB 19:59 UTC). FREEZE bis Audit 15. Nov: nur messen.
-Trend Upload-Tage YT: 10. Nov 4.562 (11 Videos) · 11. Nov 2.189 (8) · 12. Nov 436 (8, < 18 h; 11. Nov hatte zum gleichen Alter ≈ 1.100 → −60 %).
-Trend Upload-Tage FB: 10. Nov 10.826 (Fabian 9.267) · 11. Nov 1.764 · 12. Nov 961. Beide Plattformen fallen weiter.
+# Learnings aus eigenen Daten (YouTube Analytics + FB-Plays) – Stand 13. Nov 2026, 23 Uhr (Nacht-Analyse)
+Datenlage: YT-Analytics bis 11. Nov (Verzug ~2 Tage); 12./13. Nov = öffentliche Zähler (YT 22:18 UTC, FB 19:24 UTC). FREEZE bis Audit 15. Nov: nur messen.
+Trend Upload-Tage YT: 10. Nov Ø 439 (11 Videos, 4.833) · 11. Nov Ø 333 (8, 2.665) · 12. Nov Ø 136 (8, 1.086) · 13. Nov Ø 333 (10, 3.327, < 17 h) → Erholung.
+Trend Upload-Tage FB: 10. Nov Ø 1.047 (11.512) · 11. Nov Ø 224 · 12. Nov Ø 172 · 13. Nov Ø 156 (9, 1.405; Median 6, späte Posts < 8 h alt).
 
 ## YouTube
-1. **12. Nov = nur „Verlierer-Themen“, 0 von 8 über 150:** Iran droht US-Basen 143 · Blatter 71 · Huang-Rauswurf 56 (Wiederholung, 4. Nvidia-Video)
-   · Dax 51 · Putin/Kushner-4er 48 · IG Metall 40 · Stromsteuer 19 · Grenzkontrollen 8 (5 h). Kein Gericht/Skandal/Konfliktzitat dabei.
-2. **Spätzünder – nie vor 24 h urteilen:** Habeck 569 nach 13 h → 1.297 nach 37 h (35 VPH) · Fabian 463 → 1.734 · Merz/EU 840 → 1.157.
-3. **vidIQ-Watch Habeck (bestes 11. Nov, 1.297):** Frame 1 = Name + „VERRAT!“ + ernstes Gesicht, Sek. 3–4 neuer Fakt („Trump + Putin
-   verstehen sich besser als mit Selenskyj“), Hochdeutsch und Bildschirmtext fehlerfrei. Risiko nur: reine Fotos.
-4. **vidIQ-Watch EU-Abo-Fallen (schlechtestes 11. Nov, 16):** Frame 1 = Gebäude ohne Gesicht, Sek. 2–5 Themensprung zu Lootboxen (2 Themen
-   im Hook), Füllfotos ohne Bezug (Lagerhalle 0:17, Militärflugzeug 0:14). Deutsch 100 % korrekt → Problem ist Thema + Bild, nicht Sprache.
-5. **Ø-Wiedergabe steigt, Reichweite nicht:** 10. Nov 71,5 % (9. Nov 63,3 · 8. Nov 59,1) bei 4.878 Views / 1.912 engaged (39 %) / +2 Abos.
-   Pro Video: Fabian 84,5 % · Klingbeil 79,3 % · Merz/EU 72,9 % · Kühlregal-Iran 34,6 % (78 Views). Retention allein reicht nicht – das Thema muss ziehen.
-6. **Suche wächst:** Traffic 5.–12. Nov Shorts-Feed 18.374 (78 %) · Suche 4.387 (19 %, vorher 3–5 %) · andere YT-Seiten 213 · Abo-Feed 76.
-   Personen-/Fall-Namen im Titel (Fabian, Habeck, Merz) werden gesucht.
-7. **4er-Ausgaben bleiben tot: 4 von 4 (10.–12. Nov) Ø 33 Views** (41 · 6 · 36 · 48) vs. FOKUS Ø 307 (23 Videos). Slot verzerrt (06:00/19:45).
-8. **Slots YT (UTC, 10.–12. Nov):** 13:30 1.734/125/40 · 09:00 202/1.297/71 · 07:30 1.157 (1×) · 18:30 91/16/19 · 06:00 41/36/48 → 06:00 und 18:30 am schwächsten.
-9. Wiederholung bleibt Killer: Nvidia 10.–12. Nov 41 · 56 (erstes Nvidia-Video 9. Nov 873); Emde 146.
-10. Konfliktverb + Name gewinnt weiter: Habeck „verraten“ 1.297 · Merz „droht“ 1.157 · „Lebenslang“ 1.734. Ankündigung/Institution floppt
-    (EU „will verbieten“ 16 · Prien „kappt“ 104 · Pistorius-Studie 75).
+1. **13. Nov = bester Tag seit 10. Nov:** 3.327 Views in < 17 h (12. Nov gleiches Alter ≈ 436, ×7,6). 6 von 10 Videos ≥ 200.
+   Gewinner: Klingbeil 560 Mrd. 959 · Mercedes stoppt Investitionen 654 · Reichelt-Auto 640 (30 Likes) · Merz Ukraine-Tisch 373 in 4 h (124 VPH).
+2. **Zahl + Alltagsschmerz im Frame 1 trägt (vidIQ-Watch Klingbeil, 959):** „560 MILLIARDEN!“ rot + „ohne Senkung der Stromsteuer“ in Sek. 0–3,
+   Sek. 4 neuer Fakt „Rekordausgaben 2027“. Hochdeutsch + Bildschirmtext fehlerfrei. Risiko: nur statische Pressefotos.
+3. **vidIQ-Watch 4er Quantum (schlechtestes, 51):** Sek. 0–2 Marken-Titelkarte „EILBLICK / MORGEN-BRIEFING“ statt Story, Zähler 1/4,
+   textlastig (Headline + Untertitel + Ticker + Quellen). Deutsch fehlerfrei → Problem = Format + Einstieg, nicht Sprache.
+4. **4er-Ausgaben weiter tot: 5 von 5 (10.–13. Nov) YT Ø 40 / FB Ø 6** (41 · 6 · 42 · 57 · 51) vs. Einzelthema 32 Videos YT Ø 366 / FB Ø 518.
+5. **Sport läuft:** Nmecha-Jubel 553 (10. Nov) + Klopp/Nmecha 272 in 2,5 h (136 VPH, Breakout 13,5) – Folge mit neuem Fakt wirkt.
+6. **Verlierer 13. Nov:** Quantum-4er 51 · BND-Sabotage 54 („Jahrhundertwerk oder Monster?“ ohne Person) · Eishockey-WM 90 (YT) · DHL 17 (1 h).
+   Institution/Behörde ohne Gesicht bleibt schwach (vgl. EU-Abo-Fallen 19, Grenzkontrollen 29).
+7. **Spätzünder bestätigt:** Habeck 1.297 → 1.680 (+30 % in 24 h) · Stromsteuer 19 → 422 · Fabian 1.862 · Merz/EU 1.204.
+8. **Ø-Wiedergabe hoch, Engaged-Quote sinkt:** 11. Nov 3.290 Views / 1.128 engaged (34 %) / 68,6 % / +2 Abos / 11 Shares
+   (10. Nov 4.878 / 39 % / 71,5 %). Top-Retention 7 T: Huang-Affäre 84,0 % · Fabian 83,5 % · Steuerklasse III 82,8 %.
+9. **Suche bleibt stark:** Traffic 6.–13. Nov Shorts-Feed 20.432 (77 %) · Suche 5.481 (21 %) · andere YT-Seiten 240 · Abo-Feed 123 · extern 50.
+10. Abos bleiben das Problem: 7-T-Top-60 zusammen +12 Abos bei ≈ 32.000 Views (0,04 %).
+11. Slots YT 13. Nov (UTC): 07:30 959 · 05:15 654 · 13:30 640 · 18:30 373 (4 h) · 19:45 272 (2,5 h) · 17:30 217 · 11:00 90 · 09:00 54 · 06:00 51.
 
 ## Facebook
-11. **FB-Riesen nur bei Justiz/Skandal:** Fabian 9.267 (273 Likes) · Orbán-Bruder 19.080 (780 Likes, 110 Komm.). Seit 11. Nov kein Post > 752.
-12. **FB 06:00 und 09:00 UTC tot (9 Posts):** 06:00 6/5/2 · 09:00 20/2/3 – auch Habeck (YT 1.297) nur 2 Plays. Ausnahme 05:15 Huang 203 (12. Nov).
-13. **Beste FB-Slots:** 13:30 9.267/752/207 · 17:30 470/365/115 · 12:15 416 · 15:30 345/188/107 · 11:00 20/292/220 · 18:30 256/153/104.
-14. FB mag Skandal/Personen-Druck mehr als YT: Palmer 752 FB vs. 125 YT · Pistorius 292 vs. 75 · Prien 365 vs. 104 · EU-Abo-Fallen 153 vs. 16.
-15. FB-Ø je Upload-Tag: 10. Nov 984 (Median 20) · 11. Nov 220 (Median 171) · 12. Nov 120 (Median 111) – Median stabil, es fehlen nur die Ausreißer.
-16. Doppel-Gewinner (YT ≥ 1.000 und FB ≥ 1.000) bisher nur Fabian (Gericht DE, klare Schuldfrage, 13:30 UTC).
+12. **FB-Gewinner 13. Nov: Eishockey-WM/Russland 883 Plays, 15 Komm.** (YT nur 90) – Konflikt Russland ↔ Deutschland + Sport zieht auf FB.
+13. **FB 07:30/09:00 UTC tot, auch bei YT-Hits:** Klingbeil 959 YT → 6 FB · BND 1 · Habeck 1.680 YT → 2 FB · Merz/EU 1.204 → 14 FB.
+14. **FB 05:15 + 11:00 + 13:30 UTC tragen:** Mercedes 264 · Eishockey 883 · Reichelt 232 · Iran 238 (12. Nov) · Fabian 9.934 (10. Nov).
+15. FB 17:30 UTC kippt: BVB-Rheinmetall 1 Play (13. Nov) nach 365/470 an 10./11. Nov – Einzelfall, beobachten.
+16. FB-Ø je Upload-Tag fällt 4 Tage in Folge (1.047 → 224 → 172 → 156); seit 11. Nov kein Post > 883.
+17. Doppel-Gewinner (YT ≥ 600 und FB ≥ 200) am 13. Nov: Mercedes (654/264), Reichelt (640/232) – Wirtschaftsschock + Person/Anschlag.
+18. FB mag Konflikt/Skandal > YT: Eishockey 883 vs. 90 · Palmer 761 vs. 132 · Prien 365 vs. 123 · Pistorius 310 vs. 77.
 
-## Ältere Learnings (6.–11. Nov), weiterhin gültig
-- Hook beginnt mit Person: Engaged Ø 47 % vs. Ort/Sache Ø 36 % (9. Nov, 11 Videos). Erstes Wort = Name.
+## Ältere Learnings (6.–12. Nov), weiterhin gültig
+- Hook beginnt mit Person: Engaged Ø 47 % vs. Ort/Sache Ø 36 % (9. Nov, 11 Videos). Konfliktverb + Name: Habeck „verraten“, Merz „droht“.
 - Sek. 4–5 Klippe in 3 von 4 Kurven (8. Nov) → Bildwechsel + harte Zahl in Beat 1. Loop-Fragen am Ende wirken nicht (Enden 0,27–0,33).
-- Ein Thema / eine Hauptperson höchstens 1× pro 24 h; Folgen nur mit hartem neuem Fakt.
-- Geld-Themen brauchen eine Euro-Zahl für den Zuschauer (Klingbeil 294 YT / 470 FB).
-- Abos nur bei > 75 % Wiedergabe; Merz trägt (3 von 3 ≥ 785 bis 10. Nov; Stromsteuer 12. Nov 19 – Bildschirm-Hook „STROMSTEUER GEPLATZT!“ ohne Namen).
+- Ein Thema / eine Hauptperson höchstens 1× pro 24 h; Wiederholung ohne neuen Fakt floppt (Nvidia 41/73 nach 873).
+- Geld-Themen brauchen eine Euro-Zahl im Frame 1 (Klingbeil 560 Mrd. 959; Steuerklasse III 300 YT / 472 FB).
+- FB-Riesen nur bei Justiz/Skandal: Fabian 9.934 · Orbán-Bruder 19.080 (9. Nov).

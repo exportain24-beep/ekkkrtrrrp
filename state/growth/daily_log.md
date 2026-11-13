@@ -58,3 +58,14 @@
 - vidIQ-Watch v1dyJz5ayWw (Abo-Fallen): Gebäude statt Gesicht, Themensprung Lootbox Sek. 2–5, unpassende Füllfotos; Deutsch korrekt.
 - 2026-11-13 05:42 Berlin · Growth-Brief A · Credits 5.295 · Abos 22 · Views 39.500 · Videos 77
 - 2026-11-13 13:43 Berlin · Growth-Brief A · Credits 5.265 · Abos 22 · Views 41.119 · Videos 82
+
+## 2026-11-13 (vidIQ: 6 Calls, 40 Credits, Rest ≈ 5.225) – FREEZE bis Audit 15. Nov: nur gemessen, nichts geändert
+- YT-Analytics bis 11. Nov: 11. Nov 3.290 Views / 1.128 engaged (34 %) / Ø-Wiedergabe 68,6 % / +2 Abos / 11 Shares · 10. Nov 4.878 / 71,5 %.
+- Traffic 6.–13. Nov: Shorts-Feed 20.432 (77 %), Suche 5.481 (21 %), andere YT-Seiten 240, Abo-Feed 123, extern 50.
+- YT je Upload-Tag (öffentlich, 22:18 UTC): 11. Nov Ø 333 (8) · 12. Nov Ø 136 (8, 1.086) · 13. Nov Ø 333 (10, 3.327, < 17 h).
+- FB je Upload-Tag (Plays, 19:24 UTC): 11. Nov Ø 224 · 12. Nov Ø 172 (1.373) · 13. Nov Ø 156 (9, 1.405, Median 6).
+- Headline/4er (10.–13. Nov, 5 Videos): YT Ø 40 · FB Ø 6 — FOKUS/Einzelthema (32 Videos): YT Ø 366 · FB Ø 518. 13. Nov: 4er 51/12 vs. Einzel Ø 364 YT / Ø 174 FB.
+- Bestes 13. Nov: Klingbeil 560 Mrd. YT 959 / FB 6 · FB-Bestes Eishockey-WM 883 (YT 90). Schnellstes: Klopp/Nmecha 136 VPH, Merz Ukraine-Tisch 124 VPH.
+- Schlechtestes 13. Nov: Quantum-4er YT 51 / FB 12 · BND 54 / 1 · BVB-Rheinmetall FB 1.
+- vidIQ-Watch ToBjvWr0RMI (Klingbeil): „560 MILLIARDEN!“ + Stromsteuer-Schmerz Sek. 0–3, Hochdeutsch fehlerfrei, nur statische Fotos.
+- vidIQ-Watch jLQq8ZPuPlQ (Quantum-4er): 2 s Marken-Titelkarte, Zähler 1/4, textlastig; Deutsch fehlerfrei.
