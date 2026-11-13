@@ -212,3 +212,9 @@ seo:
     TECHNOLOGIE: {title: "Technologie & KI News – Digitales aus Deutschland", description: "Technik-Nachrichten: Künstliche Intelligenz, Cybersicherheit, Deutsche Bahn und digitale Infrastruktur."}
   base_hashtags_youtube: ["#eilblick", "#nachrichten", "#deutschland"]   # 13 Nov: back to the growth-period hashtags
   base_hashtags_facebook: ["#Eilblick", "#Nachrichten", "#Deutschland"]
+
+# ---------- EILBLICK FOKUS (daily 16:9 documentary, separate from the Shorts) ----------
+longform:
+  publish_berlin: "18:00"    # German evening peak for long-form (Shorts slots stay unchanged)
+  speed: 1.0                 # documentary pace (Shorts use 1.04)
+  playlist: {title: "EILBLICK FOKUS – Hintergrundberichte zu Deutschland", description: "Jeden Tag ein Hintergrundbericht: Wohnen, Bahn, Energie, Rente, Digitalisierung, Sicherheit. Neutral, belegt, verständlich – mit allen Quellen in der Beschreibung."}

@@ -1,0 +1,88 @@
+name: Eilblick FOKUS – Build & publish 16:9 documentary
+
+# Started by the daily FOKUS desk task after it wrote longform/<date>/episode.json.
+# Separate from the Shorts: own concurrency group, so a long render never blocks a Short.
+on:
+  workflow_dispatch:
+    inputs:
+      folder:
+        description: "episode folder, e.g. longform/2026-11-14"
+        required: true
+      upload:
+        description: "Upload to YouTube (scheduled at publish_berlin)?"
+        type: boolean
+        default: true
+      force:
+        description: "Rebuild even if already published"
+        type: boolean
+        default: false
+
+permissions:
+  contents: write
+
+concurrency:
+  group: eilblick-longform
+  cancel-in-progress: false
+
+jobs:
+  build-and-publish:
+    runs-on: ubuntu-latest
+    timeout-minutes: 90
+    env:
+      ELEVENLABS_API_KEY: ${{ secrets.ELEVENLABS_API_KEY }}
+      YT_CLIENT_ID: ${{ secrets.YT_CLIENT_ID }}
+      YT_CLIENT_SECRET: ${{ secrets.YT_CLIENT_SECRET }}
+      YT_REFRESH_TOKEN: ${{ secrets.YT_REFRESH_TOKEN }}
+      GH_TOKEN: ${{ github.token }}
+      PYTHONUNBUFFERED: "1"
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+          cache: pip
+      - name: Install ffmpeg + Python packages
+        timeout-minutes: 15
+        run: |
+          bash tools/install_ffmpeg.sh
+          pip install -q -r requirements.txt
+      - name: Validate episode
+        run: python -m eilblick.longform validate ${{ github.event.inputs.folder }}
+      - name: Build & publish
+        run: |
+          ARGS="run ${{ github.event.inputs.folder }}"
+          if [ "${{ github.event.inputs.upload }}" = "false" ]; then ARGS="$ARGS --no-upload"; fi
+          if [ "${{ github.event.inputs.force }}" = "true" ]; then ARGS="$ARGS --force"; fi
+          python -m eilblick.longform $ARGS
+      - name: Delete temporary news photos (always)
+        if: always()
+        run: rm -rf tmp_media
+      - name: Save result + photo credits
+        if: always()
+        run: |
+          git config user.name "eilblick-bot"
+          git config user.email "eilblick-bot@users.noreply.github.com"
+          git add state/ ${{ github.event.inputs.folder }}/result.md ${{ github.event.inputs.folder }}/photos.json 2>/dev/null || git add state/
+          git commit -q -m "fokus: ${{ github.event.inputs.folder }}" || exit 0
+          ok=0; for i in 1 2 3 4 5; do git pull --rebase -q && git push -q && ok=1 && break; sleep $((i*4)); done; [ $ok = 1 ]
+      - name: Review copy (branch "review-fokus", preview frames + thumbnail)
+        if: always()
+        run: |
+          [ -d out/longform ] || exit 0
+          mkdir -p /tmp/rev && cp -r out/longform/preview out/longform/thumbnail.jpg out/longform/description.txt /tmp/rev/ 2>/dev/null || true
+          cd /tmp/rev && git init -q && git checkout -q -b review-fokus
+          git config user.name "eilblick-bot" && git config user.email "eilblick-bot@users.noreply.github.com"
+          git add -A && git commit -q -m "review: ${{ github.event.inputs.folder }}"
+          git push -q -f "https://x-access-token:${{ github.token }}@github.com/${{ github.repository }}.git" review-fokus
+      - name: Keep video for review (3 days)
+        if: always()
+        uses: actions/upload-artifact@v4
+        with:
+          name: fokus-${{ github.run_id }}
+          path: |
+            out/longform/*.mp4
+            out/longform/*.jpg
+            out/longform/*.srt
+            out/longform/*.txt
+          retention-days: 3
+          if-no-files-found: ignore

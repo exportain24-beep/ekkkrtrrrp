@@ -1,0 +1,1522 @@
+{
+ "date": "2026-11-13",
+ "publish_berlin": "18:00",
+ "topic": "deutsche-bahn-puenktlichkeit",
+ "title_options": [
+  "Fast jeder zweite ICE zu spät: Warum die Bahn scheitert",
+  "Bahn-Chaos erklärt: 130 Milliarden Euro Sanierungsstau",
+  "Warum die Schweiz pünktlich ist – und Deutschland nicht"
+ ],
+ "youtube_title": "Fast jeder zweite ICE zu spät: Warum die Bahn scheitert",
+ "title_card": {
+  "kicker": "HINTERGRUND · DEUTSCHE BAHN",
+  "title": "Warum die Bahn nicht pünktlich wird"
+ },
+ "thumbnail": {
+  "words": "BAHN AM LIMIT",
+  "highlight": [
+   "LIMIT"
+  ],
+  "sub": "130 Mrd. € Sanierungsstau",
+  "photo": "p1"
+ },
+ "description_intro": "Im September kam nur gut die Hälfte aller Fernzüge der Deutschen Bahn pünktlich an. Trotz Rekordinvestitionen und Tausender Baustellen verfehlt die Bahn ihr Ziel erneut. Wir zeigen, woher das Problem kommt, warum das System scheitert, was Politik und Fahrgastverbände fordern – und wie die Schweiz und Österreich es anders machen.",
+ "tags": [
+  "Deutsche Bahn",
+  "Bahn Pünktlichkeit",
+  "Bahn Verspätung",
+  "ICE Verspätung",
+  "Bahn Chaos",
+  "Generalsanierung",
+  "Korridorsanierung",
+  "Sanierungsstau Schiene",
+  "Evelyn Palla",
+  "Steffen Bilger",
+  "Sondervermögen Infrastruktur",
+  "Bahnreform 1994",
+  "SBB Pünktlichkeit",
+  "ÖBB",
+  "Schienennetz Deutschland",
+  "Infrastruktur Deutschland",
+  "Doku Deutsche Bahn",
+  "Hintergrund",
+  "Eilblick Fokus"
+ ],
+ "hashtags": [
+  "#DeutscheBahn",
+  "#Bahn",
+  "#Infrastruktur",
+  "#EilblickFokus"
+ ],
+ "pinned_comment": "Ehrliche Frage an alle Pendler: Ist die Bahn noch zu retten – oder hat die Politik sie über 30 Jahre kaputtgespart? Schreibt eure schlimmste Verspätung in die Kommentare.",
+ "short_hook": "Schweiz 94 Prozent, Deutschland 52 Prozent: Split-Screen ICE vs. SBB, Zahl zählt hoch – 'Warum fährt die Bahn der Schweiz davon?' (30 s, verweist auf die Doku)",
+ "sources": [
+  {
+   "id": "s1",
+   "outlet": "t-online.de",
+   "title": "Fernzüge im Oktober etwas pünktlicher (dpa)",
+   "url": "https://www.t-online.de/finanzen/aktuelles/id_101510924/fernzuege-im-oktober-etwas-puenktlicher.html"
+  },
+  {
+   "id": "s2",
+   "outlet": "deutschebahn.com",
+   "title": "Pünktlichkeitswerte September 2026",
+   "url": "https://www.deutschebahn.com/de/konzern/konzernprofil/zahlen%5Ffakten/puenktlichkeitswerte-6878476"
+  },
+  {
+   "id": "s3",
+   "outlet": "deutschebahn.com",
+   "title": "Presseinformation Bilanz 2025",
+   "url": "https://www.deutschebahn.com/resource/blob/13792052/bdef59b876537ee9fb47f0e2c59f9270/DB-Presseinformation-Bilanz-2025-data.pdf"
+  },
+  {
+   "id": "s4",
+   "outlet": "derstandard.at",
+   "title": "DB-Chefin Palla: Es geht darum, dass es nicht noch schlimmer wird",
+   "url": "https://www.derstandard.at/story/3000000304280/db-chefin-palla-geht-darum-dass-es-nicht-noch-schlimmer-wird"
+  },
+  {
+   "id": "s5",
+   "outlet": "zdfheute.de",
+   "title": "Palla wird Chefin, Schnieder mit neuer Strategie",
+   "url": "https://www.zdfheute.de/wirtschaft/unternehmen/neue-bahn-chefin-evelyn-palla-100.html"
+  },
+  {
+   "id": "s6",
+   "outlet": "zdfheute.de",
+   "title": "Bahn-Zustand geht für Schnieder Richtung 'demokratiegefährdend'",
+   "url": "https://www.zdfheute.de/politik/deutschland/schnieder-bahn-zustand-verkehrsminister-demokratie-100.html"
+  },
+  {
+   "id": "s7",
+   "outlet": "verkehrsrundschau.de",
+   "title": "Bahn: Nur noch 13 Korridorsanierungen bis 2031",
+   "url": "https://www.verkehrsrundschau.de/nachrichten/transport-logistik/bahn-nur-noch-13-korridorsanierungen-bis-2031-3915307"
+  },
+  {
+   "id": "s8",
+   "outlet": "bmv.de",
+   "title": "Pressemitteilung Korridorsanierungen (Oktober 2026)",
+   "url": "https://www.bmv.de/SharedDocs/DE/Pressemitteilungen/2026/094-bilger-korridorsanierungen.html"
+  },
+  {
+   "id": "s9",
+   "outlet": "berliner-zeitung.de",
+   "title": "Trotz Milliarden für die Bahn: Schienennetz und Pünktlichkeit kaum verbessert",
+   "url": "https://www.berliner-zeitung.de/article/10034950"
+  },
+  {
+   "id": "s10",
+   "outlet": "deutschebahn.com",
+   "title": "DB InfraGO: Zustandsnote des Schienennetzes 2025 konstant geblieben",
+   "url": "https://www.deutschebahn.com/de/presse/pressestart_zentrales_uebersicht/DB-InfraGO-Zustandsnote-des-Schienennetzes-2025-konstant-geblieben-13865538"
+  },
+  {
+   "id": "s11",
+   "outlet": "background.tagesspiegel.de",
+   "title": "Sanierungsstau wird immer noch größer",
+   "url": "https://background.tagesspiegel.de/verkehr-und-smart-mobility/briefing/sanierungsstau-wird-immer-noch-groesser"
+  },
+  {
+   "id": "s12",
+   "outlet": "infranken.de",
+   "title": "Bund investierte 2025 mehr als 220 Euro pro Kopf in Schiene (dpa)",
+   "url": "https://www.infranken.de/deutschland/bund-investierte-2025-mehr-als-220-euro-pro-kopf-in-schiene-art-6379448"
+  },
+  {
+   "id": "s13",
+   "outlet": "advantageaustria.org",
+   "title": "Pro-Kopf-Investitionen in die Bahn: Österreich auf Platz 3",
+   "url": "https://www.advantageaustria.org/de/news/investitionen-bahn-infrastruktur.de.html"
+  },
+  {
+   "id": "s14",
+   "outlet": "blick.ch",
+   "title": "SBB waren letztes Jahr so pünktlich wie noch nie",
+   "url": "https://www.blick.ch/wirtschaft/nur-5-prozent-der-zuege-zu-spaet-sbb-waren-letztes-jahr-so-puenktlich-wie-noch-nie-id21636638.html"
+  },
+  {
+   "id": "s15",
+   "outlet": "presse.oebb.at",
+   "title": "ÖBB Presseinformation Bilanz 2025",
+   "url": "https://presse.oebb.at/de/dam/jcr:b7753e82-f129-4914-927a-b0b3cb74ba7a/%C3%96BB_Presseinformation_Bilanz%202025.pdf"
+  },
+  {
+   "id": "s16",
+   "outlet": "freitag.de",
+   "title": "Auf dem falschen Gleis",
+   "url": "https://www.freitag.de/autoren/der-freitag/auf-dem-falschen-gleis"
+  },
+  {
+   "id": "s17",
+   "outlet": "ir.deutschebahn.com",
+   "title": "DB Fernverkehr Geschäftsbericht 2025",
+   "url": "https://ir.deutschebahn.com/fileadmin/Deutsch/2026/Toechter_2025/DB25_Fernverkehr_web.pdf"
+  },
+  {
+   "id": "s18",
+   "outlet": "tt.com",
+   "title": "Milliarden für Deutsche Bahn: Warum Fahrgäste noch jahrelang Geduld brauchen",
+   "url": "https://www.tt.com/artikel/30931068/milliarden-fuer-deutsche-bahn-warum-fahrgaeste-noch-jahrelang-viel-geduld-brauchen-werden"
+  },
+  {
+   "id": "s19",
+   "outlet": "trans.info",
+   "title": "Neuer Verkehrsminister, alte Baustellen: Steffen Bilger übernimmt das BMV",
+   "url": "https://trans.info/de/steffen-bilger-verkehrsminister-492691"
+  },
+  {
+   "id": "s20",
+   "outlet": "drweb.de",
+   "title": "Korridorsanierung: 13 statt 21 Korridore bis 2031",
+   "url": "https://www.drweb.de/korridorsanierung-bahn-13-korridore-2031/"
+  },
+  {
+   "id": "s21",
+   "outlet": "system-bahn.net",
+   "title": "30 Jahre Bahnreform (Allianz pro Schiene)",
+   "url": "https://system-bahn.net/file/pdf-reader/41856"
+  },
+  {
+   "id": "s22",
+   "outlet": "web.de",
+   "title": "Bahnchefin will Topmanagement halbieren (Bundesrechnungshof-Kritik)",
+   "url": "https://web.de/magazine/wirtschaft/bahnchefin-offenbar-topmanagement-halbieren-41658552"
+  },
+  {
+   "id": "s23",
+   "outlet": "deutschebahn.com",
+   "title": "Wie die DB InfraGO Stabilität und Pünktlichkeit zurückgewinnen will",
+   "url": "https://www.deutschebahn.com/de/presse/pressestart_zentrales_uebersicht/Wie-die-DB-InfraGO-Stabilitaet-und-Puenktlichkeit-zurueckgewinnen-will-13866314"
+  },
+  {
+   "id": "s24",
+   "outlet": "verkehrsrundschau.de",
+   "title": "Bahn-Sanierung dauert laut Palla zehn Jahre",
+   "url": "https://www.verkehrsrundschau.de/nachrichten/transport-logistik/bahn-sanierung-dauert-laut-palla-zehn-jahre-3774562"
+  },
+  {
+   "id": "s25",
+   "outlet": "newstime.joyn.de",
+   "title": "Deutsche Bahn schreibt rote Zahlen – Politik fordert Kurswechsel (dpa)",
+   "url": "https://newstime.joyn.de/themen/deutsche-bahn/deutsche-bahn-schreibt-rote-zahlen-politik-fordert-kurswechsel-101306"
+  },
+  {
+   "id": "s26",
+   "outlet": "moneycab.com",
+   "title": "SBB verzeichnen Rekordzahl an Reisenden",
+   "url": "https://www.moneycab.com/schweiz/sbb-wollen-mehreinnnahmen-fuer-grosse-investitionen/amp/"
+  },
+  {
+   "id": "s27",
+   "outlet": "drweb.de",
+   "title": "Bahn-Generalsanierung: weniger Korridore pro Jahr",
+   "url": "https://www.drweb.de/bahn-generalsanierung-weniger-korridore/"
+  }
+ ],
+ "photos": [
+  {
+   "id": "p1",
+   "commons": "ICE 4 Deutsche Bahn",
+   "credit": "Bild: t-online.de",
+   "page": "https://www.t-online.de/finanzen/aktuelles/id_101510924/fernzuege-im-oktober-etwas-puenktlicher.html",
+   "source_url": "https://www.t-online.de/finanzen/aktuelles/id_101510924/fernzuege-im-oktober-etwas-puenktlicher.html"
+  },
+  {
+   "id": "p2",
+   "commons": "Zugzielanzeiger Verspätung Bahnhof",
+   "credit": "Bild: infranken.de",
+   "page": "https://www.infranken.de/deutschland/puenktlichkeit-der-fernzuege-verharrt-auf-niedrigem-niveau-art-6400368",
+   "source_url": "https://www.infranken.de/deutschland/puenktlichkeit-der-fernzuege-verharrt-auf-niedrigem-niveau-art-6400368"
+  },
+  {
+   "id": "p3",
+   "commons": "Köln Hauptbahnhof Bahnsteig",
+   "credit": "Bild: orf.at",
+   "page": "https://orf.at/stories/3411598/",
+   "source_url": "https://orf.at/stories/3411598/"
+  },
+  {
+   "id": "p4",
+   "commons": "Berlin Hauptbahnhof tief Bahnsteig ICE",
+   "credit": "Bild: zdfheute.de",
+   "page": "https://www.zdfheute.de/panorama/deutsche-bahn-faq-netz-zustand-kritisch-schienen-100.html",
+   "source_url": "https://www.zdfheute.de/panorama/deutsche-bahn-faq-netz-zustand-kritisch-schienen-100.html"
+  },
+  {
+   "id": "p5",
+   "commons": "Evelyn Palla",
+   "credit": "Bild: zdfheute.de",
+   "page": "https://www.zdfheute.de/wirtschaft/palla-bahn-sanierung-dauer-100.html",
+   "source_url": "https://www.zdfheute.de/wirtschaft/palla-bahn-sanierung-dauer-100.html"
+  },
+  {
+   "id": "p6",
+   "commons": "Patrick Schnieder CDU",
+   "credit": "Bild: zdfheute.de",
+   "page": "https://www.zdfheute.de/politik/deutschland/schnieder-bahn-zustand-verkehrsminister-demokratie-100.html",
+   "source_url": "https://www.zdfheute.de/politik/deutschland/schnieder-bahn-zustand-verkehrsminister-demokratie-100.html"
+  },
+  {
+   "id": "p7",
+   "commons": "Steffen Bilger",
+   "credit": "Bild: trans.info",
+   "page": "https://trans.info/de/steffen-bilger-verkehrsminister-492691",
+   "source_url": "https://trans.info/de/steffen-bilger-verkehrsminister-492691"
+  },
+  {
+   "id": "p8",
+   "commons": "Gleisbauzug Baustelle Deutsche Bahn",
+   "credit": "Bild: verkehrsrundschau.de",
+   "page": "https://www.verkehrsrundschau.de/nachrichten/transport-logistik/bahn-sanierung-dauert-laut-palla-zehn-jahre-3774562",
+   "source_url": "https://www.verkehrsrundschau.de/nachrichten/transport-logistik/bahn-sanierung-dauert-laut-palla-zehn-jahre-3774562"
+  },
+  {
+   "id": "p9",
+   "commons": "Hebelstellwerk Deutsche Bahn",
+   "credit": "Wikimedia Commons"
+  },
+  {
+   "id": "p10",
+   "commons": "stillgelegte Bahnstrecke Deutschland Gleis",
+   "credit": "Wikimedia Commons"
+  },
+  {
+   "id": "p11",
+   "commons": "Deutsche Bundesbahn Baureihe 103 Intercity",
+   "credit": "Wikimedia Commons"
+  },
+  {
+   "id": "p12",
+   "commons": "Zürich Hauptbahnhof SBB Zug",
+   "credit": "Bild: blick.ch",
+   "page": "https://www.blick.ch/wirtschaft/nur-5-prozent-der-zuege-zu-spaet-sbb-waren-letztes-jahr-so-puenktlich-wie-noch-nie-id21636638.html",
+   "source_url": "https://www.blick.ch/wirtschaft/nur-5-prozent-der-zuege-zu-spaet-sbb-waren-letztes-jahr-so-puenktlich-wie-noch-nie-id21636638.html"
+  },
+  {
+   "id": "p13",
+   "commons": "ÖBB Railjet",
+   "credit": "Bild: trend.at",
+   "page": "https://www.trend.at/unternehmen/oebb-2025-mehr-passagiere-weniger-ergebnis",
+   "source_url": "https://www.trend.at/unternehmen/oebb-2025-mehr-passagiere-weniger-ergebnis"
+  },
+  {
+   "id": "p14",
+   "commons": "Riedbahn Generalsanierung 2024",
+   "credit": "Bild: leinetal24.de",
+   "page": "https://www.leinetal24.de/wirtschaft/bahn-saniert-bis-2031-deutlich-weniger-wichtige-strecken-zr-94532968.html",
+   "source_url": "https://www.leinetal24.de/wirtschaft/bahn-saniert-bis-2031-deutlich-weniger-wichtige-strecken-zr-94532968.html"
+  },
+  {
+   "id": "p15",
+   "commons": "Frankfurt Hauptbahnhof Gleisvorfeld",
+   "credit": "Wikimedia Commons"
+  },
+  {
+   "id": "p16",
+   "commons": "Schienenersatzverkehr Bus Deutsche Bahn",
+   "credit": "Bild: verkehrsrundschau.de",
+   "page": "https://www.verkehrsrundschau.de/nachrichten/transport-logistik/bahn-nur-noch-13-korridorsanierungen-bis-2031-3915307",
+   "source_url": "https://www.verkehrsrundschau.de/nachrichten/transport-logistik/bahn-nur-noch-13-korridorsanierungen-bis-2031-3915307"
+  },
+  {
+   "id": "p17",
+   "commons": "Eisenbahnweiche Deutschland",
+   "credit": "Wikimedia Commons"
+  },
+  {
+   "id": "p18",
+   "commons": "Bundestag Plenarsaal",
+   "credit": "Bild: zdfheute.de",
+   "page": "https://www.zdfheute.de/wirtschaft/bahn-sanierung-strecken-2031-100.html",
+   "source_url": "https://www.zdfheute.de/wirtschaft/bahn-sanierung-strecken-2031-100.html"
+  },
+  {
+   "id": "p19",
+   "commons": "Bahnhof Reisende warten Bahnsteig Deutschland",
+   "credit": "Bild: tageskarte.io",
+   "page": "https://www.tageskarte.io/tourismus/detail/deutsche-bahn-wieder-unpuenktlicher.html",
+   "source_url": "https://www.tageskarte.io/tourismus/detail/deutsche-bahn-wieder-unpuenktlicher.html"
+  }
+ ],
+ "cold_open": [
+  {
+   "voice": "Im Juli 2025 kam an drei Tagen in Folge nicht einmal jeder zweite Fernzug pünktlich an. Weniger als vierzig Prozent.",
+   "sources": [
+    "s5"
+   ],
+   "visual": [
+    {
+     "type": "photo",
+     "photos": [
+      "p2"
+     ],
+     "headline": "Weniger als 40 % pünktlich",
+     "highlight": [
+      "40"
+     ]
+    },
+    {
+     "type": "counter",
+     "value": 40,
+     "prefix": "< ",
+     "suffix": " %",
+     "label": "Pünktliche Fernzüge an drei Tagen in Folge, Juli 2025",
+     "source": "Bundesverkehrsministerium / ZDF"
+    }
+   ]
+  },
+  {
+   "voice": "Seitdem fließen Rekordsummen ins Netz. Doch im September 2026 war wieder fast jeder zweite ICE zu spät.",
+   "sources": [
+    "s2"
+   ],
+   "visual": [
+    {
+     "type": "photo",
+     "photos": [
+      "p3",
+      "p19"
+     ],
+     "headline": "Rekordinvestitionen – und trotzdem zu spät"
+    }
+   ]
+  },
+  {
+   "voice": "Wie kann das sein? Wer trägt die Verantwortung? Und warum schafft die Schweiz, was Deutschland nicht gelingt? Wir haben die Zahlen geprüft.",
+   "sources": [
+    "s14"
+   ],
+   "visual": [
+    {
+     "type": "photo",
+     "photos": [
+      "p1",
+      "p12"
+     ],
+     "layout": "split",
+     "headline": "Deutschland gegen die Schweiz"
+    }
+   ]
+  }
+ ],
+ "acts": [
+  {
+   "title": "Der Auslöser",
+   "scenes": [
+    {
+     "voice": "Die Bahn veröffentlicht jeden Monat ihre Pünktlichkeit. Im September lag sie im Fernverkehr bei 52,4 Prozent. Im Oktober waren es 56,2 Prozent.",
+     "sources": [
+      "s2",
+      "s1"
+     ],
+     "visual": [
+      {
+       "type": "bars",
+       "title": "Pünktlichkeit Fernverkehr 2026",
+       "unit": " %",
+       "items": [
+        [
+         "Januar",
+         52.1
+        ],
+        [
+         "April",
+         64.4
+        ],
+        [
+         "Juni",
+         52.6
+        ],
+        [
+         "September",
+         52.4
+        ],
+        [
+         "Oktober",
+         56.2
+        ]
+       ],
+       "source": "Deutsche Bahn, betriebliche Pünktlichkeit"
+      },
+      {
+       "type": "photo",
+       "photos": [
+        "p4"
+       ]
+      }
+     ]
+    },
+    {
+     "voice": "Die Bahn misst noch einen zweiten Wert: die Pünktlichkeit der Reisenden. Er lag im Oktober bei 62,3 Prozent. Auch das heißt: Mehr als jeder Dritte kam zu spät an.",
+     "sources": [
+      "s1"
+     ],
+     "visual": [
+      {
+       "type": "counter",
+       "value": 62.3,
+       "decimals": 1,
+       "suffix": " %",
+       "label": "Reisende pünktlich am Ziel, Oktober 2026",
+       "source": "Deutsche Bahn"
+      },
+      {
+       "type": "photo",
+       "photos": [
+        "p3"
+       ],
+       "headline": "Mehr als jeder Dritte zu spät"
+      }
+     ]
+    },
+    {
+     "voice": "Als pünktlich gilt ein Zug, der weniger als sechs Minuten zu spät ist. Ausfälle zählen dabei nicht mit.",
+     "sources": [
+      "s4"
+     ],
+     "visual": [
+      {
+       "type": "photo",
+       "photos": [
+        "p2",
+        "p4"
+       ],
+       "headline": "Pünktlich heißt: unter 6 Minuten",
+       "highlight": [
+        "6"
+       ]
+      }
+     ]
+    },
+    {
+     "voice": "Bahnchefin Evelyn Palla hatte für dieses Jahr mindestens sechzig Prozent versprochen. Dieses Ziel ist kaum noch zu erreichen.",
+     "sources": [
+      "s1"
+     ],
+     "visual": [
+      {
+       "type": "photo",
+       "photos": [
+        "p5"
+       ],
+       "layout": "framed",
+       "headline": "Ziel 2026: mindestens 60 Prozent",
+       "lower_third": {
+        "name": "Evelyn Palla",
+        "role": "Vorstandsvorsitzende der Deutschen Bahn"
+       }
+      }
+     ]
+    },
+    {
+     "voice": "Schon 2025 war ein Tiefpunkt. Nur 60,1 Prozent der Fernzüge kamen pünktlich an. Zehn Jahre zuvor waren es noch 74,4 Prozent.",
+     "sources": [
+      "s3",
+      "s4"
+     ],
+     "visual": [
+      {
+       "type": "bars",
+       "title": "Pünktlichkeit Fernverkehr pro Jahr",
+       "unit": " %",
+       "items": [
+        [
+         "2015",
+         74.4
+        ],
+        [
+         "2024",
+         62.5
+        ],
+        [
+         "2025",
+         60.1
+        ]
+       ],
+       "source": "Deutsche Bahn"
+      }
+     ]
+    },
+    {
+     "voice": "Für die Fahrgäste hat das einen Preis. Und auch für die Bahn. 2025 zahlte sie 156,1 Millionen Euro Entschädigung für Verspätungen.",
+     "sources": [
+      "s18"
+     ],
+     "visual": [
+      {
+       "type": "counter",
+       "value": 156.1,
+       "decimals": 1,
+       "suffix": " Mio. €",
+       "label": "Entschädigung an Fahrgäste im Jahr 2025",
+       "source": "Deutsche Bahn / APA"
+      }
+     ]
+    },
+    {
+     "voice": "Die Bahn selbst nennt den Hauptgrund offen. Acht von zehn Verspätungen im Fernverkehr gehen auf die Infrastruktur zurück.",
+     "sources": [
+      "s17"
+     ],
+     "visual": [
+      {
+       "type": "statement",
+       "text": "8 von 10 Verspätungen: Ursache Infrastruktur",
+       "highlight": [
+        "8",
+        "10",
+        "Infrastruktur"
+       ]
+      },
+      {
+       "type": "photo",
+       "photos": [
+        "p15"
+       ],
+       "headline": "Das Netz ist der Engpass"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "title": "Die Wurzeln",
+   "scenes": [
+    {
+     "voice": "Um das zu verstehen, muss man zurückgehen. Am ersten Januar 1994 trat die Bahnreform in Kraft. Aus Bundesbahn und Reichsbahn wurde die Deutsche Bahn AG.",
+     "sources": [
+      "s21"
+     ],
+     "visual": [
+      {
+       "type": "photo",
+       "photos": [
+        "p11"
+       ],
+       "layout": "framed",
+       "headline": "1994: Die Bahnreform"
+      },
+      {
+       "type": "timeline",
+       "title": "Der lange Weg",
+       "events": [
+        [
+         "1994",
+         "Bahnreform: Deutsche Bahn AG entsteht"
+        ],
+        [
+         "2015",
+         "74,4 % der Fernzüge pünktlich"
+        ],
+        [
+         "2024",
+         "Erste Generalsanierung: Riedbahn"
+        ],
+        [
+         "2025",
+         "Tiefpunkt: 60,1 %"
+        ],
+        [
+         "2026",
+         "Superbaujahr: 28.000 Baustellen"
+        ]
+       ]
+      }
+     ]
+    },
+    {
+     "voice": "Die Bahn sollte wirtschaftlich arbeiten wie ein Unternehmen. Doch Sparen hatte Folgen. Das Streckennetz schrumpfte von rund 40.300 auf rund 33.500 Kilometer.",
+     "sources": [
+      "s16"
+     ],
+     "visual": [
+      {
+       "type": "bars",
+       "title": "Streckennetz der Bahn",
+       "unit": " km",
+       "items": [
+        [
+         "1994",
+         40300
+        ],
+        [
+         "heute",
+         33488
+        ]
+       ],
+       "source": "der Freitag / Bundesverkehrsministerium",
+       "decimals": 0
+      },
+      {
+       "type": "photo",
+       "photos": [
+        "p10"
+       ],
+       "headline": "Stillgelegt und vergessen"
+      }
+     ]
+    },
+    {
+     "voice": "Noch dramatischer ist eine andere Zahl. Die Zahl der Weichen sank von etwa 132.000 auf rund 66.600. Damit fehlen Ausweichstellen.",
+     "sources": [
+      "s16"
+     ],
+     "visual": [
+      {
+       "type": "compare",
+       "title": "Weichen im Netz",
+       "left": {
+        "label": "1994",
+        "value": "131.968",
+        "photo": "p17"
+       },
+       "right": {
+        "label": "Heute",
+        "value": "66.591",
+        "photo": "p15"
+       },
+       "source": "der Freitag"
+      }
+     ]
+    },
+    {
+     "voice": "Ohne Weiche kann ein schneller ICE einen langsamen Güterzug nicht überholen. Eine Störung reicht, und der Stau zieht sich durch das halbe Land.",
+     "sources": [
+      "s21"
+     ],
+     "visual": [
+      {
+       "type": "photo",
+       "photos": [
+        "p17",
+        "p1"
+       ],
+       "headline": "Keine Weiche, kein Überholen"
+      }
+     ]
+    },
+    {
+     "voice": "Auch beim Angebot wurde gekürzt. Der Interregio verschwand 2001 komplett. Ende 2016 stellte die Bahn ihre eigenen Nachtzüge ein.",
+     "sources": [
+      "s16"
+     ],
+     "visual": [
+      {
+       "type": "timeline",
+       "title": "Was verschwand",
+       "events": [
+        [
+         "2001",
+         "Interregio eingestellt"
+        ],
+        [
+         "2016",
+         "DB-Nachtzüge eingestellt"
+        ]
+       ]
+      },
+      {
+       "type": "photo",
+       "photos": [
+        "p11"
+       ],
+       "headline": "Weniger Angebot, weniger Netz"
+      }
+     ]
+    },
+    {
+     "voice": "Gleichzeitig wuchs der Verkehr. Zwischen 1994 und 2022 stieg die Betriebsleistung auf dem Netz um 29 Prozent. Die Strecke wurde kürzer, die Züge wurden mehr.",
+     "sources": [
+      "s21"
+     ],
+     "visual": [
+      {
+       "type": "compare",
+       "title": "1994 bis 2022",
+       "left": {
+        "label": "Verkehr",
+        "value": "+29 %",
+        "photo": "p4"
+       },
+       "right": {
+        "label": "Netzlänge",
+        "value": "−17 %",
+        "photo": "p10"
+       },
+       "source": "Allianz pro Schiene / system-bahn.net"
+      }
+     ]
+    },
+    {
+     "voice": "Auch die Investitionen blieben jahrelang niedrig. Vor zehn Jahren steckte der Bund nur 56 Euro pro Kopf und Jahr in das Schienennetz.",
+     "sources": [
+      "s12"
+     ],
+     "visual": [
+      {
+       "type": "counter",
+       "value": 56,
+       "suffix": " €",
+       "label": "Bundesinvestition pro Kopf in die Schiene – vor zehn Jahren",
+       "source": "Allianz pro Schiene"
+      },
+      {
+       "type": "photo",
+       "photos": [
+        "p19"
+       ]
+      }
+     ]
+    },
+    {
+     "voice": "Der Rückzug traf auch die Bahnhöfe. Seit der Reform wurden 81 Prozent der Bahnhofsgebäude verkauft.",
+     "sources": [
+      "s21"
+     ],
+     "visual": [
+      {
+       "type": "photo",
+       "photos": [
+        "p19"
+       ],
+       "headline": "81 % der Bahnhofsgebäude verkauft",
+       "highlight": [
+        "81"
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "title": "Warum das System scheitert",
+   "scenes": [
+    {
+     "voice": "Heute zahlt Deutschland für drei Jahrzehnte Sparkurs. Die Bahn beziffert ihren Sanierungsstau auf rund 130 Milliarden Euro.",
+     "sources": [
+      "s9"
+     ],
+     "visual": [
+      {
+       "type": "counter",
+       "value": 130,
+       "suffix": " Mrd. €",
+       "label": "Sanierungsstau im Schienennetz",
+       "source": "DB InfraGO"
+      }
+     ]
+    },
+    {
+     "voice": "Interne Unterlagen der Infrastruktursparte nennen sogar 136,5 Milliarden Euro, laut Tagesspiegel Background. Die Bahn hat diese Zahl nicht bestätigt.",
+     "sources": [
+      "s11"
+     ],
+     "visual": [
+      {
+       "type": "photo",
+       "photos": [
+        "p8"
+       ],
+       "layout": "framed",
+       "headline": "Intern sogar 136,5 Milliarden?",
+       "highlight": [
+        "136,5"
+       ]
+      }
+     ]
+    },
+    {
+     "voice": "Das Netz bekommt von der Bahn selbst nur die Schulnote drei. Der Zustand hat sich 2025 nicht verschlechtert. Besser wurde er aber auch nicht.",
+     "sources": [
+      "s10"
+     ],
+     "visual": [
+      {
+       "type": "statement",
+       "text": "Zustandsnote des Netzes: 3,0",
+       "highlight": [
+        "3,0"
+       ]
+      },
+      {
+       "type": "photo",
+       "photos": [
+        "p1"
+       ]
+      }
+     ]
+    },
+    {
+     "voice": "Ein Beispiel ist die Technik im Hintergrund. Die Hälfte der rund 4.000 Stellwerke stammt noch aus der Zeit vor dem Computer.",
+     "sources": [
+      "s23"
+     ],
+     "visual": [
+      {
+       "type": "photo",
+       "photos": [
+        "p9"
+       ],
+       "headline": "2.000 Stellwerke aus dem Vor-Computer-Zeitalter",
+       "highlight": [
+        "2.000"
+       ]
+      }
+     ]
+    },
+    {
+     "voice": "Jetzt wird gebaut wie nie zuvor. Für 2026 plant die Bahn rund 28.000 Baustellen und mehr als 23 Milliarden Euro Investitionen.",
+     "sources": [
+      "s9"
+     ],
+     "visual": [
+      {
+       "type": "counter",
+       "value": 28000,
+       "label": "Baustellen im Netz im Jahr 2026",
+       "source": "DB InfraGO"
+      },
+      {
+       "type": "photo",
+       "photos": [
+        "p8",
+        "p14"
+       ],
+       "headline": "2026: das Superbaujahr"
+      }
+     ]
+    },
+    {
+     "voice": "Doch genau diese Baustellen bremsen den Betrieb. Langsamfahrstellen, Umleitungen und Schienenersatzverkehr kosten Zeit. Kurzfristig wird es dadurch erst einmal schlechter.",
+     "sources": [
+      "s17"
+     ],
+     "visual": [
+      {
+       "type": "photo",
+       "photos": [
+        "p16",
+        "p8"
+       ],
+       "headline": "Bauen bremst den Betrieb"
+      }
+     ]
+    },
+    {
+     "voice": "Auch das große Sanierungsprogramm kommt nicht wie geplant voran. Ursprünglich sollten vier Hauptstrecken pro Jahr komplett erneuert werden. Jetzt sind es zwei, höchstens drei.",
+     "sources": [
+      "s20"
+     ],
+     "visual": [
+      {
+       "type": "compare",
+       "title": "Generalsanierungen pro Jahr",
+       "left": {
+        "label": "Geplant",
+        "value": "4",
+        "photo": "p14"
+       },
+       "right": {
+        "label": "Jetzt",
+        "value": "2–3",
+        "photo": "p8"
+       },
+       "source": "Deutsche Bahn / Dr. Web"
+      }
+     ]
+    },
+    {
+     "voice": "Den Anfang machte 2024 die Riedbahn zwischen Frankfurt und Mannheim. Sie war fünf Monate voll gesperrt und ging Ende 2024 wieder ans Netz.",
+     "sources": [
+      "s27"
+     ],
+     "visual": [
+      {
+       "type": "photo",
+       "photos": [
+        "p14",
+        "p15"
+       ],
+       "headline": "Riedbahn: fünf Monate Vollsperrung"
+      }
+     ]
+    },
+    {
+     "voice": "Im Oktober legten Bund und Bahn fest: Bis 2031 werden nur noch 13 statt 21 Korridore saniert. Acht Strecken müssen warten.",
+     "sources": [
+      "s7",
+      "s8"
+     ],
+     "visual": [
+      {
+       "type": "bars",
+       "title": "Korridorsanierungen 2027 bis 2031",
+       "items": [
+        [
+         "Bisher geplant",
+         21
+        ],
+        [
+         "Neuer Plan",
+         13
+        ]
+       ],
+       "source": "BMV / DB InfraGO"
+      }
+     ]
+    },
+    {
+     "voice": "Bei der Strecke Hamburg–Berlin verzögerte Frost die Wiedereröffnung Anfang 2026 um rund sechs Wochen. Danach häuften sich die Verspätungen.",
+     "sources": [
+      "s20"
+     ],
+     "visual": [
+      {
+       "type": "photo",
+       "photos": [
+        "p4",
+        "p2"
+       ],
+       "headline": "Hamburg–Berlin: sechs Wochen später"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "title": "Was Bürger fordern – was Politik tut",
+   "scenes": [
+    {
+     "voice": "Die Politik reagiert vor allem mit Geld. Über das Sondervermögen für Infrastruktur fließen Milliarden in die Schiene.",
+     "sources": [
+      "s24"
+     ],
+     "visual": [
+      {
+       "type": "photo",
+       "photos": [
+        "p18"
+       ],
+       "headline": "Sondervermögen für die Schiene"
+      }
+     ]
+    },
+    {
+     "voice": "Gleichzeitig wurden die Ziele gesenkt. Der frühere Bahnvorstand wollte bis 2027 bis zu achtzig Prozent erreichen. Der Bund verlangt jetzt siebzig Prozent bis Ende 2029.",
+     "sources": [
+      "s5",
+      "s6"
+     ],
+     "visual": [
+      {
+       "type": "bars",
+       "title": "Pünktlichkeitsziele Fernverkehr",
+       "unit": " %",
+       "items": [
+        [
+         "Altes Ziel 2027",
+         80
+        ],
+        [
+         "Neues Ziel 2029",
+         70
+        ],
+        [
+         "Ist Oktober 2026",
+         56.2
+        ]
+       ],
+       "source": "Bundesverkehrsministerium / Deutsche Bahn",
+       "highlight_last": true
+      },
+      {
+       "type": "photo",
+       "photos": [
+        "p4"
+       ]
+      }
+     ]
+    },
+    {
+     "voice": "Der damalige Verkehrsminister Patrick Schnieder warnte deutlich.",
+     "sources": [
+      "s6"
+     ],
+     "visual": [
+      {
+       "type": "quote",
+       "text": "Es ist brandgefährlich, wenn … der Staat nicht funktioniert.",
+       "who": "Patrick Schnieder, damals Bundesverkehrsminister",
+       "photo": "p6"
+      }
+     ]
+    },
+    {
+     "voice": "Ende Juli 2026 musste Schnieder das Amt abgeben. Seit dem 29. Juli führt Steffen Bilger das Verkehrsministerium.",
+     "sources": [
+      "s19"
+     ],
+     "visual": [
+      {
+       "type": "photo",
+       "photos": [
+        "p7"
+       ],
+       "layout": "framed",
+       "headline": "Neuer Minister, alte Baustellen",
+       "lower_third": {
+        "name": "Steffen Bilger",
+        "role": "Bundesminister für Verkehr (CDU)"
+       }
+      }
+     ]
+    },
+    {
+     "voice": "Bilger und Palla legten im Oktober einen Fünf-Punkte-Plan vor. Weniger Korridore, klarere Vorgaben für die Digitalisierung und bessere Umleitungen für Personen- und Güterverkehr.",
+     "sources": [
+      "s8"
+     ],
+     "visual": [
+      {
+       "type": "statement",
+       "text": "Fünf-Punkte-Plan: weniger, aber besser bauen",
+       "highlight": [
+        "weniger,",
+        "besser"
+       ]
+      },
+      {
+       "type": "photo",
+       "photos": [
+        "p8"
+       ],
+       "headline": "Neue Strategie für die Korridore"
+      }
+     ]
+    },
+    {
+     "voice": "Kritik kommt aus mehreren Richtungen. Der Bundesrechnungshof bemängelt, dass Geld aus dem Sondervermögen auch für Instandhaltung genutzt wird. Er sieht darin verfassungsrechtliche Risiken.",
+     "sources": [
+      "s22"
+     ],
+     "visual": [
+      {
+       "type": "statement",
+       "text": "Rechnungshof: Instandhaltung ist keine Investition",
+       "highlight": [
+        "keine"
+       ]
+      },
+      {
+       "type": "photo",
+       "photos": [
+        "p1"
+       ]
+      }
+     ]
+    },
+    {
+     "voice": "Auch im Bundestag wächst der Druck. Der Vorsitzende des Verkehrsausschusses, Tarek Al-Wazir von den Grünen, verlangt, dass das Sondervermögen vollständig zusätzlich investiert wird.",
+     "sources": [
+      "s25"
+     ],
+     "visual": [
+      {
+       "type": "quote",
+       "text": "Es ist nicht zu erklären, dass das Sondervermögen nicht komplett zusätzlich für Investitionen genutzt wird.",
+       "who": "Tarek Al-Wazir, Vorsitzender des Verkehrsausschusses",
+       "photo": "p18"
+      }
+     ]
+    },
+    {
+     "voice": "Die Allianz pro Schiene fordert einen verlässlichen Plan über mehrere Jahre. Sie warnt, dass die Investitionen 2027 um 1,3 Milliarden Euro sinken sollen.",
+     "sources": [
+      "s12"
+     ],
+     "visual": [
+      {
+       "type": "counter",
+       "value": 1.3,
+       "decimals": 1,
+       "prefix": "− ",
+       "suffix": " Mrd. €",
+       "label": "Geplante Kürzung der Schieneninvestitionen 2027",
+       "source": "Allianz pro Schiene"
+      },
+      {
+       "type": "photo",
+       "photos": [
+        "p3"
+       ],
+       "headline": "Fahrgäste wollen Verlässlichkeit"
+      }
+     ]
+    },
+    {
+     "voice": "Die Bahn verweist auf ihren Umbau und bittet um Geduld. Bahnchefin Palla sagt offen, wie lange es dauern wird.",
+     "sources": [
+      "s24"
+     ],
+     "visual": [
+      {
+       "type": "quote",
+       "text": "Die Schiene in Deutschland in Ordnung zu bringen, dafür werden wir zehn Jahre brauchen.",
+       "who": "Evelyn Palla, Bahnchefin",
+       "photo": "p5"
+      }
+     ]
+    },
+    {
+     "voice": "Für Pendler ist das eine bittere Botschaft. Sie zahlen Tickets für eine Leistung, die oft nicht ankommt. Viele fordern vor allem eines: einen Fahrplan, auf den man sich verlassen kann.",
+     "sources": [
+      "s18"
+     ],
+     "visual": [
+      {
+       "type": "photo",
+       "photos": [
+        "p19",
+        "p2"
+       ],
+       "headline": "Was Pendler wollen: Verlässlichkeit"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "title": "Wie andere Länder es lösen",
+   "scenes": [
+    {
+     "voice": "Ein Blick über die Grenze zeigt, dass es anders geht. Die Schweizer Bundesbahnen meldeten für 2025 einen Rekord: 94,1 Prozent der Züge waren pünktlich.",
+     "sources": [
+      "s14"
+     ],
+     "visual": [
+      {
+       "type": "photo",
+       "photos": [
+        "p12",
+        "p13"
+       ],
+       "layout": "framed",
+       "headline": "Schweiz: 94,1 Prozent pünktlich",
+       "highlight": [
+        "94,1"
+       ]
+      }
+     ]
+    },
+    {
+     "voice": "Dabei baut auch die Schweiz viel. Die SBB hatten 2025 mehr als 20.000 Baustellen und beförderten täglich 1,43 Millionen Reisende, so viele wie nie.",
+     "sources": [
+      "s26"
+     ],
+     "visual": [
+      {
+       "type": "counter",
+       "value": 20000,
+       "prefix": "> ",
+       "label": "Baustellen bei den SBB im Jahr 2025",
+       "source": "SBB"
+      },
+      {
+       "type": "photo",
+       "photos": [
+        "p12"
+       ],
+       "headline": "Viel Bau – trotzdem pünktlich"
+      }
+     ]
+    },
+    {
+     "voice": "Auch Österreich steht besser da. Bei den ÖBB waren 2025 im Fernverkehr 81,6 Prozent der Züge pünktlich.",
+     "sources": [
+      "s15"
+     ],
+     "visual": [
+      {
+       "type": "bars",
+       "title": "Pünktlichkeit Fernverkehr 2025",
+       "unit": " %",
+       "items": [
+        [
+         "Deutschland (DB)",
+         60.1
+        ],
+        [
+         "Österreich (ÖBB)",
+         81.6
+        ]
+       ],
+       "source": "Deutsche Bahn / ÖBB",
+       "highlight": "Deutschland (DB)",
+       "highlight_last": false
+      },
+      {
+       "type": "photo",
+       "photos": [
+        "p13"
+       ],
+       "headline": "ÖBB: 81,6 % im Fernverkehr"
+      }
+     ]
+    },
+    {
+     "voice": "Die Messmethoden sind nicht identisch, und die Netze sind kleiner. Der Abstand bleibt trotzdem groß. Der größte Unterschied liegt beim Geld.",
+     "sources": [
+      "s13"
+     ],
+     "visual": [
+      {
+       "type": "statement",
+       "text": "Der größte Unterschied liegt beim Geld",
+       "highlight": [
+        "Geld"
+       ]
+      }
+     ]
+    },
+    {
+     "voice": "Die Schweiz investierte 2025 pro Kopf 594 Euro in die Schiene. Österreich 359 Euro. Deutschland kam auf 222 Euro.",
+     "sources": [
+      "s13",
+      "s12"
+     ],
+     "visual": [
+      {
+       "type": "bars",
+       "title": "Schieneninvestitionen pro Kopf 2025",
+       "unit": " €",
+       "items": [
+        [
+         "Schweiz",
+         594
+        ],
+        [
+         "Österreich",
+         359
+        ],
+        [
+         "Deutschland",
+         222
+        ]
+       ],
+       "source": "Allianz pro Schiene / SCI Verkehr"
+      }
+     ]
+    },
+    {
+     "voice": "Entscheidend ist aber auch die Planung. Österreich hat einen Rahmenplan über sechs Jahre, der jedes Jahr fortgeschrieben wird. Die Schweiz finanziert ihre Bahn seit vielen Jahren langfristig.",
+     "sources": [
+      "s12"
+     ],
+     "visual": [
+      {
+       "type": "compare",
+       "title": "Planung statt Haushaltslotterie",
+       "left": {
+        "label": "Österreich",
+        "value": "6 Jahre",
+        "note": "Rahmenplan, jährlich fortgeschrieben",
+        "photo": "p13"
+       },
+       "right": {
+        "label": "Schweiz",
+        "value": "langfristig",
+        "note": "Finanzierung über viele Jahre gesichert",
+        "photo": "p12"
+       },
+       "source": "Allianz pro Schiene"
+      }
+     ]
+    },
+    {
+     "voice": "In Deutschland wird dagegen jedes Jahr im Haushalt neu verhandelt. Baufirmen und Planer wissen oft nicht, ob das Geld im nächsten Jahr noch da ist.",
+     "sources": [
+      "s12"
+     ],
+     "visual": [
+      {
+       "type": "photo",
+       "photos": [
+        "p18",
+        "p8"
+       ],
+       "headline": "Jedes Jahr neu verhandelt"
+      }
+     ]
+    },
+    {
+     "voice": "Bemerkenswert ist noch ein Detail. Die Schweizer Bahn nennt verspätete Züge aus Deutschland als ein Problem für ihre eigene Pünktlichkeit.",
+     "sources": [
+      "s14"
+     ],
+     "visual": [
+      {
+       "type": "photo",
+       "photos": [
+        "p1",
+        "p12"
+       ],
+       "layout": "split",
+       "headline": "Verspätung als Exportgut"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "title": "Szenario 2030",
+   "scenes": [
+    {
+     "voice": "Wie sieht die Bahn im Jahr 2030 aus? Es gibt zwei mögliche Wege.",
+     "sources": [
+      "s5"
+     ],
+     "visual": [
+      {
+       "type": "statement",
+       "text": "Bahn 2030: zwei mögliche Wege",
+       "highlight": [
+        "2030"
+       ]
+      }
+     ]
+    },
+    {
+     "voice": "Im besseren Fall bleibt das Geld stabil, die Korridore werden fertig und erhalten moderne Zugsicherung. Dann könnte das Ziel von siebzig Prozent bis 2029 erreichbar sein.",
+     "sources": [
+      "s20",
+      "s5"
+     ],
+     "visual": [
+      {
+       "type": "photo",
+       "photos": [
+        "p1",
+        "p14"
+       ],
+       "headline": "Szenario A: Das Netz wird stabiler"
+      }
+     ]
+    },
+    {
+     "voice": "Das Ministerium hat auch längere Ziele genannt. Mittelfristig sollen achtzig Prozent der Fernzüge pünktlich sein, langfristig neunzig Prozent.",
+     "sources": [
+      "s5"
+     ],
+     "visual": [
+      {
+       "type": "bars",
+       "title": "Ziele des Bundes",
+       "unit": " %",
+       "items": [
+        [
+         "Bis 2029",
+         70
+        ],
+        [
+         "Mittelfristig",
+         80
+        ],
+        [
+         "Langfristig",
+         90
+        ]
+       ],
+       "source": "Bundesverkehrsministerium"
+      }
+     ]
+    },
+    {
+     "voice": "Im schlechteren Fall sinken die Investitionen wieder, und Sanierungen werden weiter verschoben. Dann wächst der Rückstau, und die Pünktlichkeit bleibt um die sechzig Prozent.",
+     "sources": [
+      "s12",
+      "s11"
+     ],
+     "visual": [
+      {
+       "type": "photo",
+       "photos": [
+        "p10",
+        "p2"
+       ],
+       "headline": "Szenario B: Der Stau wächst weiter"
+      }
+     ]
+    },
+    {
+     "voice": "Klar ist: Die Probleme sind über dreißig Jahre entstanden. Sie lassen sich nicht in einer Legislaturperiode lösen.",
+     "sources": [
+      "s21",
+      "s24"
+     ],
+     "visual": [
+      {
+       "type": "timeline",
+       "title": "Was jetzt ansteht",
+       "events": [
+        [
+         "2026",
+         "28.000 Baustellen"
+        ],
+        [
+         "2027",
+         "Lehrte–Berlin, Fulda–Hanau, Rosenheim–Salzburg"
+        ],
+        [
+         "2029",
+         "Ziel: 70 % pünktlich"
+        ],
+        [
+         "2031",
+         "13 Korridore saniert"
+        ]
+       ]
+      }
+     ]
+    },
+    {
+     "voice": "Die Frage ist, ob die Politik diesmal dranbleibt. Oder ob die Bahn wieder zum Sparobjekt wird, sobald das Geld knapp ist.",
+     "sources": [
+      "s12"
+     ],
+     "visual": [
+      {
+       "type": "photo",
+       "photos": [
+        "p3",
+        "p19"
+       ],
+       "headline": "Bleibt die Politik dran?"
+      }
+     ]
+    },
+    {
+     "voice": "Was meinen Sie: Ist die Bahn noch zu retten? Schreiben Sie es in die Kommentare. Alle Quellen finden Sie in der Beschreibung.",
+     "sources": [
+      "s3"
+     ],
+     "visual": [
+      {
+       "type": "statement",
+       "text": "Ist die Bahn noch zu retten?",
+       "highlight": [
+        "retten?"
+       ]
+      },
+      {
+       "type": "photo",
+       "photos": [
+        "p1"
+       ]
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}
