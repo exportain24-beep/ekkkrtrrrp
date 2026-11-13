@@ -1,0 +1,70 @@
+{
+  "format": "single",
+  "candidate_id": 8,
+  "pillar": "WELT",
+  "region": "DE",
+  "kicker": "NATIONALELF",
+  "hook_screen": "KLOPP: SCHLUSS!",
+  "hook_voice": "Klopp: Nmecha wird so nicht mehr jubeln.",
+  "new_development": "Bundestrainer Klopp hat mit Nmecha eine Übereinkunft getroffen: kein Kronen-Jubel mehr bei Länderspielen; Nmecha: „Meine Botschaft war niemals Hass“",
+  "beats": [
+    {
+      "voice": "Kurz vor dem Spiel in Serbien hat sich Bundestrainer Jürgen Klopp mit Felix Nmecha geeinigt: Bei Länderspielen gibt es keinen Kronen-Jubel mehr.",
+      "big": "KEINE KRONE",
+      "label": "bei Länderspielen der DFB-Elf"
+    },
+    {
+      "voice": "Nmecha selbst sagt: „Meine Botschaft war niemals Hass.“ Die Krone im Gras gilt Jesus.",
+      "big": "„NIE HASS“",
+      "label": "Nmecha reagiert auf die Kritik"
+    },
+    {
+      "voice": "Kritiker verbinden die Geste mit dem Netzwerk „Ballers in God“. Queere Fans sorgen sich um Vielfalt im Stadion.",
+      "big": "KRITIK",
+      "label": "Debatte um „Ballers in God“"
+    },
+    {
+      "voice": "Unterstützer halten mit einer Petition dagegen. Ihr Motto: „Lasst Felix jubeln!“",
+      "big": "PETITION",
+      "label": "„Lasst Felix jubeln!“"
+    }
+  ],
+  "loop_line": "Offen bleibt: Jubelt Nmecha beim BVB weiter mit der Krone?",
+  "headline": "Klopp beendet Nmechas Kronen-Jubel",
+  "highlight": [
+    "Klopp"
+  ],
+  "entities": [
+    "Jürgen Klopp",
+    "Felix Nmecha",
+    "DFB",
+    "Borussia Dortmund"
+  ],
+  "youtube_title": "Klopp beendet Nmechas Kronen-Jubel: Jubelt er beim BVB weiter?",
+  "description_lead": "Bundestrainer Jürgen Klopp hat sich vor dem Nations-League-Spiel in Serbien mit Felix Nmecha geeinigt: Bei Länderspielen zeigt der BVB-Profi den umstrittenen Kronen-Jubel nicht mehr. Nmecha sagt, seine Botschaft sei „niemals Hass“ gewesen – die Debatte um das Netzwerk „Ballers in God“ geht weiter.",
+  "tags": [
+    "Jürgen Klopp",
+    "Felix Nmecha",
+    "Nmecha",
+    "Klopp",
+    "DFB",
+    "Nationalmannschaft",
+    "Borussia Dortmund",
+    "BVB",
+    "Ballers in God",
+    "Nmecha Torjubel",
+    "Kronen-Jubel",
+    "Nations League",
+    "Serbien",
+    "Fußball",
+    "nachrichten aktuell"
+  ],
+  "hashtags": [
+    "#klopp",
+    "#nmecha",
+    "#dfb"
+  ],
+  "facebook_caption_line1": "Klopp zieht die Reißleine: Nmecha jubelt im DFB-Team nicht mehr mit der Krone",
+  "facebook_question": "Ist die Einigung zwischen Klopp und Nmecha die richtige Lösung?",
+  "comment_question": "Richtige Entscheidung von Klopp – ja oder nein?"
+}
