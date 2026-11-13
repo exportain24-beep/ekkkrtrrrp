@@ -20,3 +20,6 @@ Ehrliche Frage an alle Pendler: Ist die Bahn noch zu retten – oder hat die Pol
 
 ## Begleit-Short (Idee)
 Schweiz 94 Prozent, Deutschland 52 Prozent: Split-Screen ICE vs. SBB, Zahl zählt hoch – 'Warum fährt die Bahn der Schweiz davon?' (30 s, verweist auf die Doku)
+- Facebook ✓ Video 1916978156338039 (geplant)
+- twitter ✗ Buffer createPost: Invalid post: Video must be no longer than 2m 20s for X (Twitter).
+- tiktok ✓ 6af71d314f78da1d8ba978cb
