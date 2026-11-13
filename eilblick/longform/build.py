@@ -303,6 +303,12 @@ def cmd_run(folder: Path, upload: bool, offline: bool, force: bool) -> int:
                 lines.append(f"- {step} ✗ {str(e)[:160]}")
         if not public_now:
             lines.append("- Kommentar + Playlist folgen nach der Premiere (python -m eilblick.longform after)")
+        try:
+            from .social import publish_all
+            ep["_minutes"] = round(doc.total / 60)
+            lines += publish_all(ep, mp4, thumb, when, public_now, vid, f"fokus-{folder.name}")
+        except Exception as e:
+            lines.append(f"- Social ✗ {str(e)[:200]}")
         E.register(ep, vid)
         # --force rebuild: the replaced (still scheduled, never public) upload is removed
         for old in old_ids:
@@ -360,6 +366,31 @@ def cmd_after(folder: Path) -> int:
     return 0
 
 
+def cmd_social(folder: Path, video: Path) -> int:
+    """Post an already-built episode to Facebook + Buffer (TikTok/X). Idempotent via result.md."""
+    from .social import publish_all
+    ep = E.load(folder / "episode.json")
+    res = folder / "result.md"
+    txt = res.read_text(encoding="utf-8") if res.exists() else ""
+    if "Facebook ✓" in txt:
+        log("already posted to Facebook – skip")
+        return 0
+    m = re.search(r"youtu\.be/([\w-]{11})", txt)
+    when = publish_time(ep)
+    public_now = when <= datetime.now(timezone.utc) + timedelta(minutes=12)
+    thumb = video.parent / "thumbnail.jpg"
+    if not thumb.exists():
+        raise SystemExit("thumbnail.jpg missing next to the video")
+    import subprocess
+    dur = float(subprocess.run(["ffprobe", "-v", "error", "-show_entries", "format=duration", "-of", "csv=p=0",
+                                str(video)], capture_output=True, text=True).stdout or 480)
+    ep["_minutes"] = round(dur / 60)
+    lines = publish_all(ep, video, thumb, when, public_now, m.group(1) if m else None, f"fokus-{folder.name}")
+    res.write_text(txt.rstrip("\n") + "\n" + "\n".join(lines) + "\n", encoding="utf-8")
+    log("\n".join(lines))
+    return 0
+
+
 def main(argv=None) -> int:
     ap = argparse.ArgumentParser(prog="eilblick.longform")
     sub = ap.add_subparsers(dest="cmd", required=True)
@@ -372,6 +403,9 @@ def main(argv=None) -> int:
     r.add_argument("--force", action="store_true")
     af = sub.add_parser("after")
     af.add_argument("folder")
+    so = sub.add_parser("social")
+    so.add_argument("folder")
+    so.add_argument("--video", required=True)
     a = ap.parse_args(argv)
     folder = Path(a.folder)
     if not folder.is_absolute():
@@ -380,6 +414,8 @@ def main(argv=None) -> int:
         return cmd_validate(folder)
     if a.cmd == "after":
         return cmd_after(folder)
+    if a.cmd == "social":
+        return cmd_social(folder, Path(a.video))
     return cmd_run(folder, not a.no_upload, a.offline, a.force)
 
 

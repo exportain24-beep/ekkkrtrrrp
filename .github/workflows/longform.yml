@@ -17,11 +17,15 @@ on:
         type: boolean
         default: false
       mode:
-        description: "build = render + upload · after = post comment + playlist once the premiere is public"
+        description: "build = render + upload (YouTube+Facebook+TikTok+X) · after = comment + playlist · social = post an existing build (needs run_id)"
         default: "build"
+      run_id:
+        description: "for mode=social: id of the build run whose video artifact is posted"
+        default: ""
 
 permissions:
   contents: write
+  actions: read
 
 concurrency:
   group: eilblick-longform
@@ -36,6 +40,11 @@ jobs:
       YT_CLIENT_ID: ${{ secrets.YT_CLIENT_ID }}
       YT_CLIENT_SECRET: ${{ secrets.YT_CLIENT_SECRET }}
       YT_REFRESH_TOKEN: ${{ secrets.YT_REFRESH_TOKEN }}
+      FB_PAGE_ID: ${{ secrets.FB_PAGE_ID }}
+      FB_PAGE_TOKEN: ${{ secrets.FB_PAGE_TOKEN }}
+      FB_APP_ID: ${{ secrets.FB_APP_ID }}
+      FB_APP_SECRET: ${{ secrets.FB_APP_SECRET }}
+      BUFFER_API_KEY: ${{ secrets.BUFFER_API_KEY }}
       GH_TOKEN: ${{ github.token }}
       PYTHONUNBUFFERED: "1"
     steps:
@@ -49,17 +58,25 @@ jobs:
         run: |
           pip install -q -r requirements.txt
           python -m eilblick.longform after ${{ github.event.inputs.folder }}
+      - name: Social – post an existing build to Facebook / TikTok / X
+        if: github.event.inputs.mode == 'social'
+        run: |
+          bash tools/install_ffmpeg.sh
+          pip install -q -r requirements.txt
+          mkdir -p /tmp/art && gh run download ${{ github.event.inputs.run_id }} -n fokus-${{ github.event.inputs.run_id }} -D /tmp/art -R ${{ github.repository }}
+          ls -la /tmp/art
+          python -m eilblick.longform social ${{ github.event.inputs.folder }} --video "$(ls /tmp/art/*.mp4 | head -1)"
       - name: Install ffmpeg + Python packages
-        if: github.event.inputs.mode != 'after'
+        if: github.event.inputs.mode != 'after' && github.event.inputs.mode != 'social'
         timeout-minutes: 15
         run: |
           bash tools/install_ffmpeg.sh
           pip install -q -r requirements.txt
       - name: Validate episode
-        if: github.event.inputs.mode != 'after'
+        if: github.event.inputs.mode != 'after' && github.event.inputs.mode != 'social'
         run: python -m eilblick.longform validate ${{ github.event.inputs.folder }}
       - name: Build & publish
-        if: github.event.inputs.mode != 'after'
+        if: github.event.inputs.mode != 'after' && github.event.inputs.mode != 'social'
         run: |
           ARGS="run ${{ github.event.inputs.folder }}"
           if [ "${{ github.event.inputs.upload }}" = "false" ]; then ARGS="$ARGS --no-upload"; fi
