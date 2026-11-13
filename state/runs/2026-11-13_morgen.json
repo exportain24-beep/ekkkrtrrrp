@@ -1,0 +1,40 @@
+{
+ "date": "2026-11-13",
+ "slot": "morgen",
+ "publish_at": "2026-11-13T06:00:00+00:00",
+ "title": "Bundeswehr stoppt Drohnen: Wer hat Quantum Systems gehackt?",
+ "duration": 49.8,
+ "stories": [
+  {
+   "headline": "Bundeswehr stoppt Drohnen nach Hack",
+   "region": "DE",
+   "pillar": "POLITIK"
+  },
+  {
+   "headline": "Putin lässt Europa an den Tisch",
+   "region": "EU",
+   "pillar": "WELT"
+  },
+  {
+   "headline": "Microsoft: Outlook und Teams gestört",
+   "region": "INT",
+   "pillar": "TECHNOLOGIE"
+  },
+  {
+   "headline": "VW verdient nur zwölf Euro pro Auto",
+   "region": "DE",
+   "pillar": "WIRTSCHAFT"
+  }
+ ],
+ "comment": {
+  "text": "Ja oder nein: Ist die Bundeswehr gut genug gegen Hackerangriffe geschützt?",
+  "done": false
+ },
+ "youtube_id": "jLQq8ZPuPlQ",
+ "facebook_id": "4793292004235572",
+ "buffer": {
+  "twitter": "6af6923ae1d8eff6109e6238",
+  "tiktok": "6af6923aba218f32637a7dbb"
+ },
+ "created": "2026-11-13T04:29:46.891543+00:00"
+}
