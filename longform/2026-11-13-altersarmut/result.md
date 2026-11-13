@@ -23,3 +23,4 @@ Zahl zählt hoch auf 773.735 – 'So viele Rentner brauchen jetzt Hilfe vom Sozi
 - Facebook ✓ Video 1496316029225095 (sofort)
 - twitter ✗ Buffer createPost: Invalid post: Video must be no longer than 2m 20s for X (Twitter).
 - tiktok ✓ 6af71ce04f78da1d8ba95bb0
+- twitter ✓ 6af71e16f2fe4518f4d07a12
