@@ -1,0 +1,1839 @@
+{
+ "slot": {
+  "id": "vormittag",
+  "format": "single",
+  "time": "10:00",
+  "label": "am Vormittag",
+  "focus": "Nur Tie-Breaker – immer zuerst die populärsten, meistberichteten Nachrichten. Bei Gleichstand bevorzugt: Die eine Nachricht, die seit dem Morgen am stärksten hochkocht – bevorzugt neue Entwicklungen großer laufender Geschichten.",
+  "pillars": [
+   "POLITIK",
+   "WIRTSCHAFT",
+   "WELT",
+   "TECHNOLOGIE"
+  ],
+  "notify_subscribers": false
+ },
+ "slot_time": "2026-11-13T10:00:00+01:00",
+ "date_text": "Freitag, 13. November 2026",
+ "already_published": [
+  "Habeck wirft Trump Ukraine-Verrat vor",
+  "Pistorius: Soldatinnen belästigt",
+  "Palmer sagt alle Auftritte ab",
+  "Drohmails: Italien räumt 300 Schulen",
+  "Prien plant Grenze beim Vorschuss",
+  "EU will Abo-Fallen verbieten",
+  "Nvidia bereitet Huangs Rauswurf vor",
+  "Putin empfängt Trumps Unterhändler",
+  "VW stoppt Projekt Gamechanger",
+  "Ökonomen heben Wachstumsprognose an",
+  "Weißes Haus droht den Demokraten",
+  "Blatter nennt Infantino Diktator",
+  "Iran droht US-Stützpunkten in Europa",
+  "IG Metall droht mit Ganztags-Streiks",
+  "Dax knackt erstmals 27.000 Punkte",
+  "Gericht: Grenzkontrollen rechtswidrig",
+  "Stromsteuer-Senkung vorerst gescheitert",
+  "Mercedes stoppt Investitionen",
+  "Bundeswehr stoppt Drohnen nach Hack",
+  "Putin lässt Europa an den Tisch",
+  "Microsoft: Outlook und Teams gestört",
+  "VW verdient nur zwölf Euro pro Auto",
+  "Rekordhaushalt: 560 Milliarden Euro"
+ ],
+ "candidates": [
+  {
+   "id": 0,
+   "score": 22.38,
+   "outlets": [
+    "tagesschau",
+    "Deutschlandfunk",
+    "ORF",
+    "SPIEGEL",
+    "ZEIT ONLINE",
+    "Handelsblatt",
+    "WirtschaftsWoche",
+    "DER STANDARD",
+    "WELT",
+    "n-tv",
+    "DIE ZEIT"
+   ],
+   "regions": [
+    "AT",
+    "DE"
+   ],
+   "trend": [],
+   "newest": "2026-11-13T07:19:09+00:00",
+   "articles": [
+    {
+     "source": "tagesschau",
+     "region": "DE",
+     "weight": 1.0,
+     "title": "Auch Outlook betroffen: Weltweite Störungen bei Microsoft-Diensten",
+     "summary": "Ein massiver weltweiter Ausfall von Microsoft-Diensten wie Outlook und Teams stört seit Donnerstag den Betrieb von Unternehmen und Behörden rund um den Globus. Maßnahmen zur Behebung des Problems verlaufen laut Microsoft \"nicht wie erhofft\".",
+     "link": "https://www.tagesschau.de/wirtschaft/digitales/microsoft-outlook-ausfall-100.html",
+     "image": "https://images.tagesschau.de/image/f88dd7d2-f43e-4a23-85cb-139aab8c4930/AAABodHzeW4/AAABnSSvrFg/16x9-big/microsoft-210.jpg?width=1920",
+     "aggregator": false,
+     "published": "2026-11-13T06:30:08+00:00"
+    },
+    {
+     "source": "tagesschau Wirtschaft",
+     "region": "DE",
+     "weight": 1.0,
+     "title": "Auch Outlook betroffen: Weltweite Störungen bei Microsoft-Diensten",
+     "summary": "Ein massiver weltweiter Ausfall von Microsoft-Diensten wie Outlook und Teams stört seit Donnerstag den Betrieb von Unternehmen und Behörden rund um den Globus. Maßnahmen zur Behebung des Problems verlaufen laut Microsoft \"nicht wie erhofft\".",
+     "link": "https://www.tagesschau.de/wirtschaft/digitales/microsoft-outlook-ausfall-100.html",
+     "image": "https://images.tagesschau.de/image/f88dd7d2-f43e-4a23-85cb-139aab8c4930/AAABodHzeW4/AAABnSSvrFg/16x9-big/microsoft-210.jpg?width=1920",
+     "aggregator": false,
+     "published": "2026-11-13T06:30:08+00:00"
+    },
+    {
+     "source": "Deutschlandfunk",
+     "region": "DE",
+     "weight": 0.95,
+     "title": "US-Technologiekonzern - Microsoft: Stundenlanger Ausfall beeinträchtigt Outlook und Teams",
+     "summary": "Das US-Technologieunternehmen Microsoft ist von einer Störung betroffen.",
+     "link": "https://www.deutschlandfunk.de/microsoft-stundenlanger-ausfall-beeintraechtigt-outlook-und-teams-100.html",
+     "image": "https://bilder.deutschlandfunk.de/a4/f5/ed/c6/a4f5edc6-d7a1-4630-9814-1680b0415896/microsoft-logo-100-1920x1920.jpg",
+     "aggregator": false,
+     "published": "2026-11-13T07:04:59+00:00"
+    },
+    {
+     "source": "ORF",
+     "region": "AT",
+     "weight": 0.95,
+     "title": "Weltweiter Ausfall beeinträchtigt Microsoft-Dienste",
+     "summary": "",
+     "link": "https://orf.at/stories/3448051/",
+     "image": null,
+     "aggregator": false,
+     "published": "2026-11-13T05:06:02+00:00"
+    },
+    {
+     "source": "SPIEGEL",
+     "region": "DE",
+     "weight": 0.9,
+     "title": "Microsoft bekommt weltweite Störung von Onlinediensten nicht in den Griff",
+     "summary": "Outlook, Teams, Copilot – die zentralen Onlinedienste von Microsoft sind seit Donnerstag weltweit massiv gestört. Techniker kämpfen bislang erfolglos.",
+     "link": "https://www.spiegel.de/netzwelt/microsoft-bekommt-weltweite-stoerung-von-onlinediensten-nicht-in-den-griff-a-589712d4-e5b1-4fe0-a291-df65e1e54ffa#ref=rss",
+     "image": "https://cdn.prod.www.spiegel.de/images/2fdcd8b2-d15f-4ae6-b38d-ac54bfd04346_w520_r2.08_fpx29.99_fpy44.99.jpg",
+     "aggregator": false,
+     "published": "2026-11-13T06:38:00+00:00"
+    },
+    {
+     "source": "ZEIT ONLINE",
+     "region": "DE",
+     "weight": 0.9,
+     "title": "Microsoft 365: Weltweite Störung legt Outlook und andere Microsoft-Dienste lahm",
+     "summary": "Eine Störung hat Zehntausende Nutzer stundenlang am Zugriff auf Outlook und Teams gehindert. Auch andere Dienste des Cloud-Pakets Microsoft 365 waren betroffen.",
+     "link": "https://www.zeit.de/digital/internet/2026-11/outlook-stoerung-microsoft-365-teams-copilot",
+     "image": "https://img.zeit.de/digital/2026-11/outlook-stoerung-microsoft-365-teams-copilot-bild-3/original__640x360",
+     "aggregator": false,
+     "published": "2026-11-13T07:19:09+00:00"
+    },
+    {
+     "source": "Handelsblatt",
+     "region": "DE",
+     "weight": 0.9,
+     "title": "Störung: Ausfall bei Microsoft beeinträchtigt Outlook und Teams",
+     "summary": "Viele Unternehmen und Verbraucher nutzen ihre E-Mails über den Outlook-Dienst von Microsoft. Der ist am Donnerstag stundenlang nicht erreichbar. Auch die Produkte Teams und Copilot sind betroffen.",
+     "link": "https://www.handelsblatt.com/technik/it-internet/stoerung-ausfall-bei-microsoft-beeintraechtigt-outlook-und-teams/100269552.html",
+     "image": "https://images.handelsblatt.com/4qs-H1djInm9/cover/900/506/0/0/107/106/0.5/0.5/microsoft-teams.jpg",
+     "aggregator": false,
+     "published": "2026-11-13T06:56:01+00:00"
+    },
+    {
+     "source": "Handelsblatt",
+     "region": "DE",
+     "weight": 0.9,
+     "title": "Cloud-Probleme: Stundenlange Ausfälle bei Microsoft 365",
+     "summary": "Unternehmen und Verbraucher sind weltweit von einer Großstörung bei Microsoft betroffen. Neben dem E-Mail-Dienst Outlook hakt es auch bei Cloud-Anwendungen wie Teams und dem KI-Assistenten Copilot.",
+     "link": "https://www.handelsblatt.com/technik/it-internet/cloud-probleme-stundenlange-ausfaelle-bei-microsoft-365/100269542.html",
+     "image": "https://images.handelsblatt.com/0HKiEzzEH4T-/cover/900/506/0/0/107/106/0.5/0.5/microsoft-campus-in-redmond.jpg",
+     "aggregator": false,
+     "published": "2026-11-13T06:35:04+00:00"
+    }
+   ]
+  },
+  {
+   "id": 1,
+   "score": 14.86,
+   "outlets": [
+    "ZDFheute",
+    "Deutsche Welle",
+    "ORF",
+    "SPIEGEL",
+    "WirtschaftsWoche",
+    "heise online"
+   ],
+   "regions": [
+    "AT",
+    "DE",
+    "INT"
+   ],
+   "trend": [],
+   "newest": "2026-11-13T06:58:08+00:00",
+   "articles": [
+    {
+     "source": "ZDFheute",
+     "region": "DE",
+     "weight": 1.0,
+     "title": "Wie es nach dem Rückzug Huangs weitergehen könnte",
+     "summary": "Eine mutmaßliche Spionage-Affäre, ein gestürzter Tech-Star und ein Konzern im Ausnahmezustand: Was der Abgang von Jensen Huang für Nvidia, die KI-Branche und Deutschland bedeutet.",
+     "link": "https://www.zdfheute.de/wirtschaft/unternehmen/nvidia-zukunft-ruecktritt-jensen-huang-100.html",
+     "image": "https://www.zdfheute.de/assets/jensen-huang-nvidia-stockholm-100~384x216?cb=1794512835924",
+     "aggregator": false,
+     "published": "2026-11-12T20:26:00+00:00"
+    },
+    {
+     "source": "Deutsche Welle",
+     "region": "INT",
+     "weight": 0.95,
+     "title": "Jensen Huang: Spionageaffäre und Affären: Nvidia verliert seinen Star-CEO",
+     "summary": "Jensen Huang, der Nvidia zum Weltmarktführer bei KI-Chips gemacht hat, tritt als CEO zurück. Wie wirkt sich der Abgang dieser Leitfigur auf das Unternehmen und den KI-Wettlauf der USA mit China aus?",
+     "link": "https://www.dw.com/de/jensen-huang-spionageaffäre-und-affären-nvidia-verliert-seinen-star-ceo/a-79933045?maca=de-rss-de-all-1119-xml-mrss",
+     "image": "https://static.dw.com/image/79708779_302.jpg",
+     "aggregator": false,
+     "published": "2026-11-12T16:26:00+00:00"
+    },
+    {
+     "source": "ORF",
+     "region": "AT",
+     "weight": 0.95,
+     "title": "Finanzchefin Kress soll Nvidia auf Kurs halten",
+     "summary": "Der Rückzug von Nvidia-Gründer Jensen Huang nach seinen Affären bringt Finanzchefin Colette Kress beim Chipriesen nach 13 Jahren ins Rampenlicht. Mit dem rasanten Aufstieg der Firma zum Motor des KI-Booms spielte sie angesichts der explosiven Umsatzentwicklung bereits eine Schlüsselrolle. Jetzt muss sie als kommissarische Chefin jedoch plötzlich das ganze Unternehmen managen – dieses war bisher komplett auf die Führungsrolle von Huang zugeschnitten.",
+     "link": "https://orf.at/stories/3448035/",
+     "image": null,
+     "aggregator": false,
+     "published": "2026-11-12T22:47:52+00:00"
+    },
+    {
+     "source": "SPIEGEL",
+     "region": "DE",
+     "weight": 0.9,
+     "title": "Nvidia ohne Jensen Huang: Das Genie muss gehen, der Konzern lebt weiter",
+     "summary": "Mit Jensen Huang verliert der Chipproduzent seinen genialen Visionär. Ein schwerer Schlag für die einst wertvollste Firma der Welt – aber auch eine Chance zum Neustart.",
+     "link": "https://www.spiegel.de/wirtschaft/nvidia-ohne-jensen-huang-das-genie-muss-gehen-der-konzern-lebt-weiter-a-95917403-0d66-4568-bb04-bd0fbbfb5172#ref=rss",
+     "image": "https://cdn.prod.www.spiegel.de/images/dac51c36-9148-4ea2-863a-4fcc35a817ff_w520_r2.08_fpx45_fpy39.jpg",
+     "aggregator": false,
+     "published": "2026-11-13T05:24:00+00:00"
+    },
+    {
+     "source": "WirtschaftsWoche",
+     "region": "DE",
+     "weight": 0.85,
+     "title": "Neue Nvidia-Chefin Kress: Jetzt sitzt das „Reh“ auf Nvidias Chefsessel",
+     "summary": "Colette Kress übernimmt einen Konzern, der ganz auf seinen Gründer Jensen Huang zugeschnitten war. Diese Schwachstellen muss sie beseitigen, damit Nvidia vorn bleibt.",
+     "link": "https://www.wiwo.de/unternehmen/it/neue-nvidia-chefin-colette-kress-jetzt-sitzt-das-reh-auf-dem-chefsessel/100269497.html",
+     "image": "https://images.wiwo.de/3l4rctqRGJuF/cover/900/506/0/0/27/813/0.5/0.5/colette-kress-ist-seit-2013-finanzchefin-von-nvidia..jpg",
+     "aggregator": false,
+     "published": "2026-11-13T06:58:08+00:00"
+    },
+    {
+     "source": "heise online",
+     "region": "DE",
+     "weight": 0.85,
+     "title": "heise+ | Nvidia ohne Jensen Huang: Wie laufen die Geschäfte weiter?",
+     "summary": "Nvidia versucht, die Affäre um den zurückgetreten CEO Jensen Huang in den Griff zu bekommen. Wie könnte es nun weitergehen?",
+     "link": "https://www.heise.de/news/Nvidia-ohne-Jensen-Huang-Wie-laufen-die-Geschaefte-weiter-11523360.html?wt_mc=rss.red.ho.ho.atom.beitrag_plus.beitrag_plus",
+     "image": null,
+     "aggregator": false,
+     "published": "2026-11-12T17:30:00+00:00"
+    }
+   ]
+  },
+  {
+   "id": 2,
+   "score": 12.8,
+   "outlets": [
+    "tagesschau",
+    "Deutschlandfunk",
+    "Handelsblatt",
+    "WELT",
+    "n-tv"
+   ],
+   "regions": [
+    "DE"
+   ],
+   "trend": [],
+   "newest": "2026-11-13T07:04:59+00:00",
+   "articles": [
+    {
+     "source": "tagesschau",
+     "region": "DE",
+     "weight": 1.0,
+     "title": "Werden die Milliarden für die Stromsteuer noch gefunden?",
+     "summary": "Bei der längsten Sitzung im Bundestag wird in der Nacht jeder Cent umgedreht, damit der Bundesetat für 2027 steht. Gleichzeitig sucht die Regierungsspitze Milliarden für eine Stromsteuersenkung. Kann sie sie noch finden? Von Nicole Kohnert.",
+     "link": "https://www.tagesschau.de/inland/innenpolitik/bundestag-haushalt-milliarden-100.html",
+     "image": "https://images.tagesschau.de/image/57047b20-af96-4492-bf49-83f593f4d887/AAABodKRo7M/AAABnSSvrFg/16x9-big/paul-loebe-haus-106.jpg?width=1920",
+     "aggregator": false,
+     "published": "2026-11-13T06:26:18+00:00"
+    },
+    {
+     "source": "tagesschau Inland",
+     "region": "DE",
+     "weight": 1.0,
+     "title": "Werden die Milliarden für die Stromsteuer noch gefunden?",
+     "summary": "Bei der längsten Sitzung im Bundestag wird in der Nacht jeder Cent umgedreht, damit der Bundesetat für 2027 steht. Gleichzeitig sucht die Regierungsspitze Milliarden für eine Stromsteuersenkung. Kann sie sie noch finden? Von Nicole Kohnert.",
+     "link": "https://www.tagesschau.de/inland/innenpolitik/bundestag-haushalt-milliarden-100.html",
+     "image": "https://images.tagesschau.de/image/57047b20-af96-4492-bf49-83f593f4d887/AAABodKRo7M/AAABnSSvrFg/16x9-big/paul-loebe-haus-106.jpg?width=1920",
+     "aggregator": false,
+     "published": "2026-11-13T06:26:18+00:00"
+    },
+    {
+     "source": "Deutschlandfunk",
+     "region": "DE",
+     "weight": 0.95,
+     "title": "Haushaltsausschuss - Bundesetat für 2027 steht",
+     "summary": "Der Bundeshalt für das kommende Jahr steht.",
+     "link": "https://www.deutschlandfunk.de/bundesetat-fuer-2027-steht-102.html",
+     "image": "https://bilder.deutschlandfunk.de/03/cb/7d/e0/03cb7de0-d84c-4e68-be81-cd1f7a5cf52f/bundeshaushalt-beratungen-100-1920x1920.jpg",
+     "aggregator": false,
+     "published": "2026-11-13T07:04:59+00:00"
+    },
+    {
+     "source": "Handelsblatt",
+     "region": "DE",
+     "weight": 0.9,
+     "title": "Bundestag: Haushalt bereit für Bundestag - weiter ohne Stromsteuer",
+     "summary": "Nach 16 Stunden war es geschafft: Der Bundeshaushalt 2027 steht - fast. In einer Frage gibt es weiter Klärungsbedarf.",
+     "link": "https://www.handelsblatt.com/politik/deutschland/bundestag-haushalt-bereit-fuer-bundestag-weiter-ohne-stromsteuer/100269597.html",
+     "image": "https://images.handelsblatt.com/wh85m0OuXpFR/cover/900/506/100/101/0/0/0.5/0.5/bereinigungssitzung-haushaltsausschuss-im-bundestag.jpg",
+     "aggregator": false,
+     "published": "2026-11-13T05:43:06+00:00"
+    },
+    {
+     "source": "WELT",
+     "region": "DE",
+     "weight": 0.8,
+     "title": "Bundeshaushalt 2027 mit Rekordausgaben steht – weiterhin ohne Stromsteuer-Senkung",
+     "summary": "Der Haushaltsausschuss im Bundestag hat eine Einigung erzielt: Der Bundeshaushalt 2027 sieht Rekordausgaben von 560,9 Milliarden Euro vor. Die Stromsteuer-Senkung für alle bleibt trotz neuer Schulden von rund 210 Milliarden Euro offen.",
+     "link": "https://www.welt.de/politik/deutschland/article6af6a7855a72dceba1d60f16/bundestag-haushalt-2027-mit-rekordausgaben-steht-weiterhin-ohne-stromsteuer-senkung.html",
+     "image": "https://images.welt.de/6af6a7855a72dceba1d60f16/3f17f60fd539304a9106c5f81636a249/ci23x11-w1200/dpa-com-261113-99-261410-jpg",
+     "aggregator": false,
+     "published": "2026-11-13T06:07:09+00:00"
+    },
+    {
+     "source": "n-tv",
+     "region": "DE",
+     "weight": 0.8,
+     "title": "Stromsteuer noch offen: Haushaltsausschuss beschließt Rekordetat",
+     "summary": "Der Haushaltsausschuss tagt die ganze Nacht - nun ist es vorerst geschafft: Der Bundesetat für 2027 steht. Sowohl Ausgaben als auch Schulden werden steigen. In einer Frage gibt es jedoch noch Klärungsbedarf.",
+     "link": "https://www.n-tv.de/politik/Haushaltsausschuss-beschliesst-Rekordetat-id31528962.html",
+     "image": "https://www.n-tv.de/img/31528950/1794551178/Img_4_3/250/632405410.jpg",
+     "aggregator": false,
+     "published": "2026-11-13T06:33:17+00:00"
+    }
+   ]
+  },
+  {
+   "id": 3,
+   "score": 12.7,
+   "outlets": [
+    "Deutschlandfunk",
+    "SPIEGEL",
+    "Handelsblatt",
+    "DER STANDARD",
+    "WELT"
+   ],
+   "regions": [
+    "AT",
+    "DE"
+   ],
+   "trend": [],
+   "newest": "2026-11-13T07:04:59+00:00",
+   "articles": [
+    {
+     "source": "Deutschlandfunk",
+     "region": "DE",
+     "weight": 0.95,
+     "title": "Spionageaffäre - US-Senat lädt Ex-Nvidia-Chef Jensen Huang und Handelsminister Howard Lutnick vor",
+     "summary": "Der in eine Spionageaffäre verwickelte Ex-Chef des Chipherstellers Nvidia, Huang, ist aufgefordert worden, im ​Bankenausschuss des US-Senats auszusagen.",
+     "link": "https://www.deutschlandfunk.de/us-senat-laedt-ex-nvidia-chef-jensen-huang-und-handelsminister-howard-lutnick-vor-102.html",
+     "image": "https://bilder.deutschlandfunk.de/3f/35/97/88/3f359788-e2f4-4bb5-a266-31356967057e/nvidia-jensen-huang-102-1920x1920.jpg",
+     "aggregator": false,
+     "published": "2026-11-13T07:04:59+00:00"
+    },
+    {
+     "source": "SPIEGEL",
+     "region": "DE",
+     "weight": 0.9,
+     "title": "Nvidia-Affäre: Jensen Huang und Trumps Handelsminister Lutnick müssen sich im Senat erklären",
+     "summary": "Es gibt dringende Fragen zur nationalen Sicherheit: Der Skandal um Nvidia ist für den abgetretenen Jensen Huang noch längst nicht ausgestanden. Und auch Minister Howard Lutnick muss sich erklären.",
+     "link": "https://www.spiegel.de/ausland/nvidia-affaere-jensen-huang-und-trumps-handelsminister-lutnick-muessen-sich-im-senat-erklaeren-a-14e96682-03e3-4763-a673-f16a0bcfd5d1#ref=rss",
+     "image": "https://cdn.prod.www.spiegel.de/images/a9150c3b-fe78-423d-a8ff-0b353e7265fa_w520_r2.08_fpx37.36_fpy50.jpg",
+     "aggregator": false,
+     "published": "2026-11-13T04:04:00+00:00"
+    },
+    {
+     "source": "Handelsblatt",
+     "region": "DE",
+     "weight": 0.9,
+     "title": "Nach Nvidia-Eklat: Senatsausschuss lädt Handelsminister und Ex-Nvidia-Chef vor",
+     "summary": "Jensen Huang ist runter vom Chefposten bei Nvidia - doch die Aufarbeitung des Eklats beim Chip-Riesen nimmt erst Fahrt auf. Er und Handelsminister Howard Lutnick sollen bald vor den US-Senat.",
+     "link": "https://www.handelsblatt.com/technik/it-internet/nach-nvidia-eklat-senatsausschuss-laedt-handelsminister-und-ex-nvidia-chef-vor/100269611.html",
+     "image": "https://images.handelsblatt.com/n5I59aC-oxPs/cover/900/506/0/0/107/106/0.5/0.5/howard-lutnick.jpg",
+     "aggregator": false,
+     "published": "2026-11-13T06:23:25+00:00"
+    },
+    {
+     "source": "DER STANDARD",
+     "region": "AT",
+     "weight": 0.85,
+     "title": "US-Senat lädt Ex-Nvidia-Chef Huang und Handelsminister vor",
+     "summary": "Im Kongress formt sich eine Mehrheit für schärfere Exportkontrollen von KI-Chips nach China. Huang trat wegen einer Affäre mit einer mutmaßlichen chinesischen Spionin zurück",
+     "link": "https://www.derstandard.at/story/3000000349052/fokus-1-us-senat-l228dt-ex-nvidia-chef-und-handelsminister-vor-ruf-nach-mehr-exportkontrollen?ref=rss",
+     "image": "https://i.ds.at/nPnnGA/rs:fill:150:0/plain/lido-images/2026/11/13/3296dca1-4814-4194-a45c-999dc45a4a0c.jpg",
+     "aggregator": false,
+     "published": "2026-11-13T05:17:11+00:00"
+    },
+    {
+     "source": "WELT",
+     "region": "DE",
+     "weight": 0.8,
+     "title": "Ex-Chef Jensen Huang hatte weitere Affären – Vorladung vom US-Senat",
+     "summary": "Der Bankenausschuss des US-Senats hat im Spionageskandal um den US-Chipkonzern Nvidia den früheren Firmenchef Jensen Huang und US-Handelsminister Howard ​Lutnick zu einer Anhörung vorgeladen.",
+     "link": "https://www.welt.de/wirtschaft/video6af69c925a72dceba1d60ebf/ruecktritt-bei-nvidia-ex-chef-jensen-huang-hatte-weitere-affaeren-vorladung-vom-us-senat.html",
+     "image": "https://images.welt.de/6af69c925a72dceba1d60ebf/11f3f8153b72a956568e3258a9ffb2db/ci16x9-w1200/2026-11-12t150504z-281352652-rc2er4aen808-rtrmadp-3-nvidia-ceo-jpg",
+     "aggregator": false,
+     "published": "2026-11-13T05:20:44+00:00"
+    }
+   ]
+  },
+  {
+   "id": 4,
+   "score": 12.64,
+   "outlets": [
+    "tagesschau",
+    "ZDFheute",
+    "ORF",
+    "SRF News",
+    "NZZ"
+   ],
+   "regions": [
+    "AT",
+    "CH",
+    "DE"
+   ],
+   "trend": [],
+   "newest": "2026-11-13T04:30:00+00:00",
+   "articles": [
+    {
+     "source": "tagesschau",
+     "region": "DE",
+     "weight": 1.0,
+     "title": "tagesschau 20:00 Uhr",
+     "summary": "Union und SPD ringen über den Bundeshaushalt 2027, Gipfel der Europäischen Politischen Gemeinschaft in Dublin, Nvidia-Chef Huang tritt nach Spionageaffäre zurück, Mercedes-Benz will Investitionen in deutsche Standorte stoppen, In Deutschland verschulden sich laut Schuldneratlas 2026 immer mehr Menschen, Die Nations League, Das Wetter",
+     "link": "https://www.tagesschau.de/tagesschau_20_uhr/video-1682890.html",
+     "image": "https://images.tagesschau.de/image/399db44f-a528-4584-a2ac-0bc277f383fb/AAABodE7ZjE/AAABnSSvrFg/16x9-big/sendungsbild-1826664.jpg?width=1920",
+     "aggregator": false,
+     "published": "2026-11-12T19:50:06+00:00"
+    },
+    {
+     "source": "ZDFheute",
+     "region": "DE",
+     "weight": 1.0,
+     "title": "Europäische politische Gemeinschaft: Doorsteps von u.a. Bundeskanzler Merz",
+     "summary": "Doorsteps der Staats- und Regierungschef:innen vor dem 9. Treffen der europäischen politischen Gemeinschaft in Dublin.",
+     "link": "https://www.phoenix.de/php/mediaplayer/vod_embed.php?cmsid=5247405",
+     "image": "https://www.zdfheute.de/assets/teaser-phoenix-europaeische-politische-gemeinschaft-doorsteps-von-ua-bundeskanzler-merz-5247405-100~384x216?cb=1794500038437",
+     "aggregator": false,
+     "published": "2026-11-12T15:48:00+00:00"
+    },
+    {
+     "source": "ORF",
+     "region": "AT",
+     "weight": 0.95,
+     "title": "Nvidia-Chef Huang tritt zurück",
+     "summary": "",
+     "link": "https://orf.at/stories/3448017/",
+     "image": null,
+     "aggregator": false,
+     "published": "2026-11-12T13:55:26+00:00"
+    },
+    {
+     "source": "SRF News",
+     "region": "CH",
+     "weight": 0.95,
+     "title": "Verhandlungen zu Ukraine-Krieg – «Über Europa kann nicht ohne Europa gesprochen werden»",
+     "summary": "Am Treffen der Europäischen Politischen Gemeinschaft in Dublin dominiert ein Thema: Die Verhandlungen zum Ukraine-Krieg.",
+     "link": "https://www.srf.ch/news/international/ukraine/verhandlungen-zu-ukraine-krieg-ueber-europa-kann-nicht-ohne-europa-gesprochen-werden",
+     "image": "https://www.srf.ch/static/cms/images//320ws/5ed18e.webp",
+     "aggregator": false,
+     "published": "2026-11-12T19:53:16+00:00"
+    },
+    {
+     "source": "NZZ",
+     "region": "CH",
+     "weight": 0.9,
+     "title": "Parmelin gerät in Dublin unverhofft ins Rampenlicht: Die Schweiz bereitet sich in Irland auf ihren eigenen Monsteranlass vor",
+     "summary": "Am Gipfel der Europäischen Politischen Gemeinschaft führt der Bundespräsident Gespräche im Akkord. Nächstes Jahr kommt der Tross nach Zürich. Ihn erwartet ein unspektakuläres Kongresszentrum – aber dafür Käse und Wein.",
+     "link": "https://www.nzz.ch/schweiz/parmelin-geraet-in-dublin-unverhofft-ins-rampenlicht-die-schweiz-bereitet-sich-in-irland-auf-ihren-eigenen-monsteranlass-vor-ld.10061105",
+     "image": "https://img-msp-prod.nzz.ch/2026/11/12/bde10fe6-ab46-4649-bcb4-7c78db842814.jpg?width=200&height=200&fit=bounds&quality=75&auto=webp&crop=2174,2174,x2582,y1476",
+     "aggregator": false,
+     "published": "2026-11-13T04:30:00+00:00"
+    }
+   ]
+  },
+  {
+   "id": 5,
+   "score": 12.06,
+   "outlets": [
+    "tagesschau",
+    "Deutschlandfunk",
+    "ZEIT ONLINE",
+    "Handelsblatt",
+    "tagesschau.de"
+   ],
+   "regions": [
+    "DE"
+   ],
+   "trend": [],
+   "newest": "2026-11-13T07:16:10+00:00",
+   "articles": [
+    {
+     "source": "tagesschau",
+     "region": "DE",
+     "weight": 1.0,
+     "title": "Reform der Nachrichtendienste: \"Jahrhundertwerk\" oder \"Monster\"?",
+     "summary": "Der Bundestag stimmt heute über eine Reform der Nachrichtendienste ab. Sie sollen mehr Befugnisse erhalten. Innenminister Dobrindt spricht von einem \"Jahrhundertwerk\" - andere von einem \"Monster\". Von Markus Sambale.",
+     "link": "https://www.tagesschau.de/inland/innenpolitik/bundesregierung-reform-nachrichtendienste-100.html",
+     "image": "https://images.tagesschau.de/image/72de333d-c45d-4e96-8883-3f8c64ed8f65/AAABm34Zn24/AAABnSSvrFg/16x9-big/handy-laptop-100.jpg?width=1920",
+     "aggregator": false,
+     "published": "2026-11-13T04:23:02+00:00"
+    },
+    {
+     "source": "tagesschau Inland",
+     "region": "DE",
+     "weight": 1.0,
+     "title": "Reform der Nachrichtendienste: \"Jahrhundertwerk\" oder \"Monster\"?",
+     "summary": "Der Bundestag stimmt heute über eine Reform der Nachrichtendienste ab. Sie sollen mehr Befugnisse erhalten. Innenminister Dobrindt spricht von einem \"Jahrhundertwerk\" - andere von einem \"Monster\". Von Markus Sambale.",
+     "link": "https://www.tagesschau.de/inland/innenpolitik/bundesregierung-reform-nachrichtendienste-100.html",
+     "image": "https://images.tagesschau.de/image/72de333d-c45d-4e96-8883-3f8c64ed8f65/AAABm34Zn24/AAABnSSvrFg/16x9-big/handy-laptop-100.jpg?width=1920",
+     "aggregator": false,
+     "published": "2026-11-13T04:23:02+00:00"
+    },
+    {
+     "source": "Deutschlandfunk",
+     "region": "DE",
+     "weight": 0.95,
+     "title": "Geheimdienste - BND soll künftig auch Sabotage im Ausland betreiben dürfen - Bundestag könnte Befugnisse heute deutlich ausweiten",
+     "summary": "Der Bundestag in Berlin stimmt heute über die geplante Reform der Geheimdienste ab. Damit sollen die Befugnisse des Bundesnachrichtendienstes und des Bundesamts für Verfassungsschutz für die Abwehr von Sabotage, Spionage und Cyberangriffen substanziell erweitert werden.",
+     "link": "https://www.deutschlandfunk.de/bnd-soll-kuenftig-auch-sabotage-im-ausland-betreiben-duerfen-bundestag-koennte-befugnisse-heute-deut-102.html",
+     "image": "https://bilder.deutschlandfunk.de/20/a5/97/46/20a59746-46c0-4982-a026-3c7fa5bb14f1/geheimagent-spion-100-1920x1920.jpg",
+     "aggregator": false,
+     "published": "2026-11-13T07:04:59+00:00"
+    },
+    {
+     "source": "ZEIT ONLINE",
+     "region": "DE",
+     "weight": 0.9,
+     "title": "Geheimdienstreform: Bundestag entscheidet über Ausweitung der Befugnisse für Geheimdienste",
+     "summary": "Bundesinnenminister Dobrindt will die deutschen Nachrichtendienste zu »echten Geheimdiensten« machen. Der Bundestag befasst sich abschließend mit den Reformplänen.",
+     "link": "https://www.zeit.de/politik/deutschland/2026-11/geheimdienstreform-bundesregierung-nachrichtendienste-ueberwachung-gxe",
+     "image": "https://img.zeit.de/politik/deutschland/2026-11/geheimdienstreform-bundesregierung-nachrichtendienste-ueberwachung-gxe-foto-1/original__640x360",
+     "aggregator": false,
+     "published": "2026-11-13T07:16:10+00:00"
+    },
+    {
+     "source": "Handelsblatt",
+     "region": "DE",
+     "weight": 0.9,
+     "title": "Reform: Bundestag entscheidet über Geheimdienstreform: Wo BND und Verfassungsschutz künftig hineinschauen dürfen",
+     "summary": "Heimlich Wohnungen betreten, Datenströme blockieren, Server lahmlegen: Die Reform gibt den Nachrichtendiensten neue Befugnisse. Die wichtigsten Fragen und Antworten.",
+     "link": "https://www.handelsblatt.com/politik/deutschland/geheimdienstreform-wo-bnd-und-verfassungsschutz-kuenftig-hineinschauen-duerfen/100269604.html",
+     "image": "https://images.handelsblatt.com/tZsQf5VZ-dlj/cover/900/506/0/0/313/312/0.5/0.5/archiv-05.10.2026-berlin-martin-jaeger-l-r-praesident-des-bundesnachrichtendienstes-bnd-martin.jpg",
+     "aggregator": false,
+     "published": "2026-11-13T06:09:19+00:00"
+    },
+    {
+     "source": "tagesschau.de",
+     "region": "DE",
+     "weight": 0.6,
+     "title": "Reform der Nachrichtendienste: \"Jahrhundertwerk\" oder \"Monster\"?",
+     "summary": "Reform der Nachrichtendienste: \"Jahrhundertwerk\" oder \"Monster\"? tagesschau.de Meinung: Die Lage am Morgen - Schlapphüte zu Cyberagenten! Spiegel Geheimdienstreform: Bundestag entscheidet über Ausweitung der Befugnisse für Geheimdienste DIE ZEIT Wo BND und Verfassungsschutz künftig hineinschauen dürfen WELT Geheimdienste: Was Dobrindt will und warum es Kritik gibt BR",
+     "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQcmxkcEI1dGR3S2daaWxPTmJ1Z21mbXJXdUlleUp2MEd2UUtrSUlhc1RuZkFNc0QzbnRUQnd0N2tQTkgxVHgxYURGcUFvUkRYeWZRMnZXNHZIbFRUX3hfWFhuV2dJQUZJeUtfZ18xNmc3MVlYeWxVcXJKZllpT2RrNmNrMmVIRkhjMWM2NEJTZHRnUzlUaHV0d0FfOTU?oc=5",
+     "image": null,
+     "aggregator": true,
+     "published": "2026-11-13T04:23:00+00:00"
+    }
+   ]
+  },
+  {
+   "id": 6,
+   "score": 11.3,
+   "outlets": [
+    "tagesschau",
+    "Deutschlandfunk",
+    "SPIEGEL",
+    "WirtschaftsWoche"
+   ],
+   "regions": [
+    "DE"
+   ],
+   "trend": [],
+   "newest": "2026-11-13T07:04:59+00:00",
+   "articles": [
+    {
+     "source": "tagesschau",
+     "region": "DE",
+     "weight": 1.0,
+     "title": "Bayerischer Drohnenhersteller Quantum Systems meldet Cyberangriff",
+     "summary": "Der bayerische Rüstungskonzern Quantum Systems ist nach eigenen Angaben Opfer eines Cyberangriffs geworden. Der Vorfall fand im Oktober statt. Laut einem Medienbericht hat die Bundeswehr bereits reagiert.",
+     "link": "https://www.tagesschau.de/inland/quantum-systems-cyberangriff-100.html",
+     "image": "https://images.tagesschau.de/image/7aa52c28-02c2-447e-8843-707c8a2139e5/AAABodGXxPU/AAABnSSvrFg/16x9-big/quantum-systems-100.jpg?width=1920",
+     "aggregator": false,
+     "published": "2026-11-12T21:09:07+00:00"
+    },
+    {
+     "source": "tagesschau Inland",
+     "region": "DE",
+     "weight": 1.0,
+     "title": "Bayerischer Drohnenhersteller Quantum Systems meldet Cyberangriff",
+     "summary": "Der bayerische Rüstungskonzern Quantum Systems ist nach eigenen Angaben Opfer eines Cyberangriffs geworden. Der Vorfall fand im Oktober statt. Laut einem Medienbericht hat die Bundeswehr bereits reagiert.",
+     "link": "https://www.tagesschau.de/inland/quantum-systems-cyberangriff-100.html",
+     "image": "https://images.tagesschau.de/image/7aa52c28-02c2-447e-8843-707c8a2139e5/AAABodGXxPU/AAABnSSvrFg/16x9-big/quantum-systems-100.jpg?width=1920",
+     "aggregator": false,
+     "published": "2026-11-12T21:09:07+00:00"
+    },
+    {
+     "source": "Deutschlandfunk",
+     "region": "DE",
+     "weight": 0.95,
+     "title": "Bayerisches Unternehmen - Drohnenhersteller Quantum Systems meldet Cyberangriff",
+     "summary": "Der deutsche Drohnenhersteller Quantum Systems ist nach eigenen Angaben Opfer eines Cyberangriffs geworden.",
+     "link": "https://www.deutschlandfunk.de/drohnenhersteller-quantum-systems-meldet-cyberangriff-100.html",
+     "image": "https://bilder.deutschlandfunk.de/5e/3f/71/44/5e3f7144-35eb-4f23-b2b5-cf91c040042e/quantum-systems-waffen-drohnen-100-1920x1920.jpg",
+     "aggregator": false,
+     "published": "2026-11-13T07:04:59+00:00"
+    },
+    {
+     "source": "SPIEGEL",
+     "region": "DE",
+     "weight": 0.9,
+     "title": "Quantum Systems: Massiver Cyberangriff auf deutschen Drohnenhersteller",
+     "summary": "Unbekannten ist es gelungen, ein Schadprogramm auf einem internen Updateserver des Drohnenherstellers Quantum Systems zu deponieren, einem Lieferanten der Bundeswehr. Dort nimmt man den Vorfall sehr ernst.",
+     "link": "https://www.spiegel.de/politik/massiver-cyberangriff-auf-drohnenhersteller-quantum-systems-a-354b0289-2281-4af6-a532-ee03b45d8b30#ref=rss",
+     "image": "https://cdn.prod.www.spiegel.de/images/16b5ae40-49b8-4733-abdd-36cdbbff1cfb_w520_r2.08_fpx37.33_fpy49.99.jpg",
+     "aggregator": false,
+     "published": "2026-11-12T20:05:00+00:00"
+    },
+    {
+     "source": "WirtschaftsWoche",
+     "region": "DE",
+     "weight": 0.85,
+     "title": "Drohnenhersteller: Quantum Systems meldet Cyberangriff",
+     "summary": "Quantum-Drohnen unterstützen die ukrainischen Streitkräfte, nun meldet der Hersteller einen Cyberangriff durch feindliche Akteure. Laut einem Bericht hat die Bundeswehr reagiert.",
+     "link": "https://www.wiwo.de/unternehmen/industrie/quantum-systems-drohnenhersteller-meldet-cyberangriff/100269620.html",
+     "image": "https://images.wiwo.de/gYQyFMW3rgNR/cover/900/506/0/0/234/235/0.5/0.5/21.07.2026-bayern-hohenfels-die-aufklaerungsdrohne-reliant-von-quantum-systems-steht-auf-dem-tru.jpg",
+     "aggregator": false,
+     "published": "2026-11-13T06:55:25+00:00"
+    }
+   ]
+  },
+  {
+   "id": 7,
+   "score": 11.2,
+   "outlets": [
+    "Deutschlandfunk",
+    "ORF",
+    "SPIEGEL",
+    "DER STANDARD"
+   ],
+   "regions": [
+    "AT",
+    "DE"
+   ],
+   "trend": [],
+   "newest": "2026-11-13T07:04:59+00:00",
+   "articles": [
+    {
+     "source": "Deutschlandfunk",
+     "region": "DE",
+     "weight": 0.95,
+     "title": "Nahost - Israel verbietet französischem Präsidentschaftskandidaten Mélenchon die Einreise",
+     "summary": "Frankreichs linkspopulistischer Präsidentschaftskandidat Mélenchon darf nicht mehr nach Israel einreisen.",
+     "link": "https://www.deutschlandfunk.de/israel-verbietet-franzoesischem-praesidentschaftskandidaten-m-lenchon-die-einreise-104.html",
+     "image": "https://bilder.deutschlandfunk.de/fa/3d/2b/f6/fa3d2bf6-6482-49f7-9d65-d49f9feff7f2/frankreich-wahlkampf-parlamentswahl-jean-luc-melenchon-nupes-100-1920x1920.jpg",
+     "aggregator": false,
+     "published": "2026-11-13T07:04:59+00:00"
+    },
+    {
+     "source": "ORF",
+     "region": "AT",
+     "weight": 0.95,
+     "title": "Israel verbietet Melenchon Einreise",
+     "summary": "",
+     "link": "https://orf.at/stories/3448036/",
+     "image": null,
+     "aggregator": false,
+     "published": "2026-11-12T18:02:37+00:00"
+    },
+    {
+     "source": "SPIEGEL",
+     "region": "DE",
+     "weight": 0.9,
+     "title": "Israel verbietet Jean-Luc Mélenchon wegen antiisraelischer Haltung Einreise",
+     "summary": "Wegen »Ritualmordlegenden gegen Israel« hat Außenminister Gideon Sa’ar dem französischen Präsidentschaftskandidaten Jean-Luc Mélenchon die Einreise verboten. Der reagiert trotzig.",
+     "link": "https://www.spiegel.de/ausland/israel-verbietet-jean-luc-melenchon-wegen-antiisraelischer-haltung-einreise-a-61502964-7e0f-412a-9b40-b41a9754bf01#ref=rss",
+     "image": "https://cdn.prod.www.spiegel.de/images/66bbb771-a584-422b-ae80-80f3c52fdb2f_w520_r2.08_fpx66.67_fpy50.jpg",
+     "aggregator": false,
+     "published": "2026-11-12T20:54:00+00:00"
+    },
+    {
+     "source": "DER STANDARD",
+     "region": "AT",
+     "weight": 0.85,
+     "title": "Israel verbietet französischem Präsidentschaftskandidaten Einreise",
+     "summary": "Grund sei die \"extrem antiisraelische Haltung\" von Jean-Luc Mélenchon und seiner Partei La France Insoumise (LFI), wie Israels Außenminister Saar mitteilte",
+     "link": "https://www.derstandard.at/story/3000000349037/israel-verbietet-franz246sischem-pr228sidentschaftskandidaten-einreise?ref=rss",
+     "image": "https://i.ds.at/rkzrPg/rs:fill:150:0/plain/lido-images/2026/11/12/e4d1c4e7-c64f-4c1f-9692-b30ffbe772c7.jpg",
+     "aggregator": false,
+     "published": "2026-11-12T18:05:49+00:00"
+    }
+   ]
+  },
+  {
+   "id": 8,
+   "score": 10.8,
+   "outlets": [
+    "ORF",
+    "Süddeutsche",
+    "Handelsblatt",
+    "DER STANDARD"
+   ],
+   "regions": [
+    "AT",
+    "DE"
+   ],
+   "trend": [],
+   "newest": "2026-11-13T06:12:09+00:00",
+   "articles": [
+    {
+     "source": "ORF",
+     "region": "AT",
+     "weight": 0.95,
+     "title": "US-Ministerium: Halbe Million Abschiebungen in einem Jahr",
+     "summary": "",
+     "link": "https://orf.at/stories/3448053/",
+     "image": null,
+     "aggregator": false,
+     "published": "2026-11-13T05:18:08+00:00"
+    },
+    {
+     "source": "Süddeutsche",
+     "region": "DE",
+     "weight": 0.9,
+     "title": "USA: US‑Ministerium: Fast eine halbe Million Abschiebungen in einem Jahr",
+     "summary": "Eigenen Angaben zufolge hat die zuständige Migrationsbehörde ICE nie zuvor so viele Menschen innerhalb eines Jahres abgeschoben.",
+     "link": "https://www.sueddeutsche.de/politik/usa-news-liveblog-abschiebungen-ice-migration-li.3578585",
+     "image": "https://www.sueddeutsche.de/2026/11/13/c4d1b77e-7325-4a10-8e9b-f652bd079327.jpg?rect=606%2C276%2C1922%2C1442&width=1000&fm=jpg&q=60",
+     "aggregator": false,
+     "published": "2026-11-13T06:12:09+00:00"
+    },
+    {
+     "source": "Handelsblatt",
+     "region": "DE",
+     "weight": 0.9,
+     "title": "+++ USA unter Trump +++: US-Bankenausschuss lädt Huang und Lutnick vor",
+     "summary": "Demokratin Cindy Holscher wird Gouverneurin von Kansas +++ US-Regierung: Fast halbe Million Abschiebungen +++ Trump bekräftigt Interesse an Machtwechsel auf Kuba",
+     "link": "https://www.handelsblatt.com/politik/international/usa-us-bankenausschuss-laedt-huang-und-lutnick-vor/29669594.html",
+     "image": "https://images.handelsblatt.com/gEOO7vBky9xE/cover/900/506/0/0/209/208/0.5/0.5/howard-lutnick.jpg",
+     "aggregator": false,
+     "published": "2026-11-13T06:08:53+00:00"
+    },
+    {
+     "source": "DER STANDARD",
+     "region": "AT",
+     "weight": 0.85,
+     "title": "Neuer Höchststand: Fast eine halbe Million Abschiebungen in einem Jahr",
+     "summary": "Laut dem US-Heimatschutzministerium wurden nie zuvor mehr Menschen abgeschoben. Insgesamt 483.000 Menschen wurden außer Landes gebracht",
+     "link": "https://www.derstandard.at/story/3000000349057/neuer-hoechststand-fast-eine-halbe-million-abschiebungen-in-einem-jahr?ref=rss",
+     "image": "https://i.ds.at/iF8lwA/rs:fill:150:0/plain/lido-images/2026/11/13/9f4ac0f4-9c95-41d7-b68b-837b5f12e28e.jpg",
+     "aggregator": false,
+     "published": "2026-11-13T05:48:53+00:00"
+    }
+   ]
+  },
+  {
+   "id": 9,
+   "score": 10.73,
+   "outlets": [
+    "ORF",
+    "Handelsblatt",
+    "WirtschaftsWoche",
+    "DER STANDARD"
+   ],
+   "regions": [
+    "AT",
+    "DE"
+   ],
+   "trend": [],
+   "newest": "2026-11-13T06:16:47+00:00",
+   "articles": [
+    {
+     "source": "ORF",
+     "region": "AT",
+     "weight": 0.95,
+     "title": "Erleichterungen für Industrie im Emissionshandel",
+     "summary": "",
+     "link": "https://orf.at/stories/3448052/",
+     "image": null,
+     "aggregator": false,
+     "published": "2026-11-13T05:14:15+00:00"
+    },
+    {
+     "source": "Handelsblatt",
+     "region": "DE",
+     "weight": 0.9,
+     "title": "Emissionshandel: Industrie in der EU soll weniger für Emissionen bezahlen müssen",
+     "summary": "Es ist eines der zentralen Klimaschutzinstrumente der EU: das Treibhausgashandelssystem. Für begrenzte Zeit soll es eine Erleichterung für die Industrie geben.",
+     "link": "https://www.handelsblatt.com/unternehmen/industrie/emissionshandel-industrie-in-der-eu-soll-weniger-fuer-emissionen-bezahlen-muessen/100269607.html",
+     "image": "https://images.handelsblatt.com/r9AbUNszObAU/cover/900/506/0/0/57/57/0.5/0.5/archiv-16.11.2023-niedersachsen-salzgitter-ein-windrad-steht-auf-dem-gelaende-der-salzgitter-ag..jpg",
+     "aggregator": false,
+     "published": "2026-11-13T06:15:09+00:00"
+    },
+    {
+     "source": "WirtschaftsWoche",
+     "region": "DE",
+     "weight": 0.85,
+     "title": "Klimaschutz: EU einigt sich auf Erleichterungen für Industrie im Emissionshandel",
+     "summary": "Es ist eines der zentralen Klimaschutzinstrumente der EU: das Treibhausgashandelssystem. Für begrenzte Zeit soll es eine Erleichterung für die Industrie geben.",
+     "link": "https://www.wiwo.de/politik/europa/klimaschutz-eu-einigt-sich-auf-erleichterungen-fuer-industrie-im-emissionshandel/100269603.html",
+     "image": "https://images.wiwo.de/rWZgVxBgAjzq/cover/900/506/0/0/222/221/0.5/0.5/archiv-29.01.2026-nordrhein-westfalen-duisburg-die-kokerei-schwelgern-von-thyssenkrupp-steel-am.jpg",
+     "aggregator": false,
+     "published": "2026-11-13T05:52:04+00:00"
+    },
+    {
+     "source": "DER STANDARD",
+     "region": "AT",
+     "weight": 0.85,
+     "title": "EU-Einigung: Erleichterung für Industrie im Emissionshandel",
+     "summary": "Demnach werden zusätzliche kostenlose Zertifikate bis 2030 ermöglicht. Damit gehen die Verhandler über den Vorschlag der EU-Kommission hinaus",
+     "link": "https://www.derstandard.at/story/3000000349060/eu-einigung-erleichterung-f252r-industrie-im-emissionshandel?ref=rss",
+     "image": "https://i.ds.at/dNiTpA/rs:fill:150:0/plain/lido-images/2026/11/12/2f36ed32-3bb4-4d2e-9b64-15f15c9b06d9.jpg",
+     "aggregator": false,
+     "published": "2026-11-13T06:16:47+00:00"
+    }
+   ]
+  },
+  {
+   "id": 10,
+   "score": 10.54,
+   "outlets": [
+    "tagesschau",
+    "Deutsche Welle",
+    "Handelsblatt",
+    "NZZ"
+   ],
+   "regions": [
+    "CH",
+    "DE",
+    "INT"
+   ],
+   "trend": [],
+   "newest": "2026-11-13T04:30:00+00:00",
+   "articles": [
+    {
+     "source": "tagesschau",
+     "region": "DE",
+     "weight": 1.0,
+     "title": "Erneut Bombendrohungen gegen hunderte Schulen in Italien",
+     "summary": "In Italien sind erneut Bombendrohungen an Schulen gesendet worden. Es sollen etwa 1.600 Einrichtungen betroffen sein. Die Regierung will Gebäude künftig nur noch räumen lassen, wenn konkrete Hinweise auf eine Gefahr vorliegen.",
+     "link": "https://www.tagesschau.de/ausland/europa/italien-schulen-bombendrohungen-100.html",
+     "image": "https://images.tagesschau.de/image/8daf501f-6a2c-4fe2-90f0-33638f979a13/AAABodCYN_Q/AAABnSSvrFg/16x9-big/schule-italien-evakuiert-100.jpg?width=1920",
+     "aggregator": false,
+     "published": "2026-11-12T14:25:28+00:00"
+    },
+    {
+     "source": "tagesschau Ausland",
+     "region": "INT",
+     "weight": 1.0,
+     "title": "Erneut Bombendrohungen gegen hunderte Schulen in Italien",
+     "summary": "In Italien sind erneut Bombendrohungen an Schulen gesendet worden. Es sollen etwa 1.600 Einrichtungen betroffen sein. Die Regierung will Gebäude künftig nur noch räumen lassen, wenn konkrete Hinweise auf eine Gefahr vorliegen.",
+     "link": "https://www.tagesschau.de/ausland/europa/italien-schulen-bombendrohungen-100.html",
+     "image": "https://images.tagesschau.de/image/8daf501f-6a2c-4fe2-90f0-33638f979a13/AAABodCYN_Q/AAABnSSvrFg/16x9-big/schule-italien-evakuiert-100.jpg?width=1920",
+     "aggregator": false,
+     "published": "2026-11-12T14:25:28+00:00"
+    },
+    {
+     "source": "tagesschau Ausland",
+     "region": "INT",
+     "weight": 1.0,
+     "title": "Bombendrohungen an Tausenden Schulen in Italien und Großbritannien",
+     "summary": "An Tausenden Schulen in Italien sind per E-Mail Bombendrohungen eingegangen. Auch in Großbritannien gibt es ähnliche Fälle. Die Behörden gehen von Falschmeldungen aus. Wer hinter den Drohungen steckt, ist unklar.",
+     "link": "https://www.tagesschau.de/ausland/europa/bombendrohungen-italien-100.html",
+     "image": "https://images.tagesschau.de/image/2922d359-4a44-4853-a7eb-d1205eadf710/AAABoctdHF0/AAABnSSvrFg/16x9-big/polizei-schule-rom-100.jpg?width=1920",
+     "aggregator": false,
+     "published": "2026-11-11T19:13:07+00:00"
+    },
+    {
+     "source": "Deutsche Welle",
+     "region": "INT",
+     "weight": 0.95,
+     "title": "Italien, Schottland und Nordirland: Schulen nach Bombenalarm evakuiert",
+     "summary": "Die Serie der Bombendrohungen in Europa setzt sich fort. Diesmal gab es falschen Alarm an Hunderten Schulen. Waren es staatliche Akteure, Trittbrettfahrer oder Scherzbolde?",
+     "link": "https://www.dw.com/de/italien-schottland-und-nordirland-schulen-nach-bombenalarm-evakuiert/a-79919504?maca=de-rss-de-all-1119-xml-mrss",
+     "image": "https://static.dw.com/image/79919315_302.jpg",
+     "aggregator": false,
+     "published": "2026-11-11T13:59:00+00:00"
+    },
+    {
+     "source": "Handelsblatt",
+     "region": "DE",
+     "weight": 0.9,
+     "title": "Kriminalität: „Zeitalter der Unsicherheit“ – Italien rätselt über Welle an Bombendrohungen gegen Schulen",
+     "summary": "Erst Hackerangriffe auf europäische Supermärkte, dann Drohungen gegen Flugzeuge, nun gegen italienische Schulen. Die Regierung in Rom spricht von einer „breiter angelegten Strategie“.",
+     "link": "https://www.handelsblatt.com/politik/international/sicherheit-italien-raetselt-ueber-welle-an-bombendrohungen-gegen-schulen/100269330.html",
+     "image": "https://images.handelsblatt.com/BCJykrjL1Mks/cover/900/506/0/0/313/312/0.5/0.5/bomb-threats-evacuate-schools-in-downtown-milan-students-and-police-are-pictured-outside-istituto-ca.jpg",
+     "aggregator": false,
+     "published": "2026-11-13T03:13:31+00:00"
+    },
+    {
+     "source": "NZZ",
+     "region": "CH",
+     "weight": 0.9,
+     "title": "Das Virus der Angst: wie E-Mails Italiens Schulen lahmlegen",
+     "summary": "Nach den Bombendrohungen gegen 6000 Schulen und neuen Alarmen wünscht sich Italien die Normalität zurück. Und Giorgia Meloni versucht den Schulterschluss mit der Opposition, um das Land fit zu machen für den Cyberkrieg.",
+     "link": "https://www.nzz.ch/international/italien-wie-bombendrohungen-schulen-und-politik-erschuettern-ld.10061670",
+     "image": "https://img-msp-prod.nzz.ch/2026/11/11/18eae780-2d30-4fde-a8c9-b7578e52a597.jpg?width=200&height=200&fit=bounds&quality=75&auto=webp&crop=789,789,x1856,y1022",
+     "aggregator": false,
+     "published": "2026-11-13T04:30:00+00:00"
+    }
+   ]
+  },
+  {
+   "id": 11,
+   "score": 10.53,
+   "outlets": [
+    "ZDFheute",
+    "Deutsche Welle",
+    "WELT",
+    "n-tv"
+   ],
+   "regions": [
+    "DE",
+    "INT"
+   ],
+   "trend": [],
+   "newest": "2026-11-13T05:41:29+00:00",
+   "articles": [
+    {
+     "source": "ZDFheute",
+     "region": "DE",
+     "weight": 1.0,
+     "title": "Interview mit Jürgen Klopp",
+     "summary": "Vor dem Nations League Spiel gegen Serbien, konnte ZDF-Reporterin Lili Engels mit Bundestrainer Jürgen Klopp sprechen. Er blickt optimistisch auf das Spiel und spricht über Luxusprobleme und Torjubel.",
+     "link": "https://www.zdfheute.de/video/zdf-morgenmagazin/juergen-klopp-368.html",
+     "image": "https://www.zdfheute.de/assets/interview-klopp-100~384x216?cb=1794548501087",
+     "aggregator": false,
+     "published": "2026-11-13T04:30:00+00:00"
+    },
+    {
+     "source": "ZDFheute",
+     "region": "DE",
+     "weight": 1.0,
+     "title": "Jürgen Klopps Devise: Siegen vor Kindergeschrei",
+     "summary": "Der ungewöhnliche Rahmen beim Nations-League-Spiel gegen Serbien spornt den Bundestrainer nur noch mehr an. Klopp möchte gegen die Niederlande danach eine Art Endspiel bestreiten.",
+     "link": "https://www.zdfheute.de/sport/fussball-nations-league-deutschland-serbien-juergen-klopp-pressekonferenz-100.html",
+     "image": "https://www.zdfheute.de/assets/juergen-klopp-pk-100~384x216?cb=1794513461575",
+     "aggregator": false,
+     "published": "2026-11-12T21:05:00+00:00"
+    },
+    {
+     "source": "ZDFheute",
+     "region": "DE",
+     "weight": 1.0,
+     "title": "\"Kann mir vorstellen, dass wir gut sein werden\"",
+     "summary": "Bundestrainer Jürgen Klopp im Interview mit Lili Engels über die Partie in Serbien, den Torjubel von Felix Nmecha und die Geisterkulisse in Belgrad.",
+     "link": "https://www.zdfheute.de/sport/fussball-nations-league/video/serbien-deutschland-klopp-interview-100.html",
+     "image": "https://www.zdfheute.de/assets/juergen-klopp-366~384x216?cb=1794522542508",
+     "aggregator": false,
+     "published": "2026-11-12T22:31:00+00:00"
+    },
+    {
+     "source": "Deutsche Welle",
+     "region": "INT",
+     "weight": 0.95,
+     "title": "Bundestrainer Jürgen Klopp reagiert verständnislos auf Rassismus gegen das DFB-Team",
+     "summary": "Rassistische Kommentare begleiten die DFB-Elf seit Tagen. Rund um das Spiel gegen Serbien antwortet jeder auf seine Weise: Klopp mit klaren Worten, sein Team mit starkem Auftritt und die Fans mit viel Schwarz-Rot-Gold.",
+     "link": "https://www.dw.com/de/bundestrainer-jürgen-klopp-reagiert-verständnislos-auf-rassismus-gegen-das-dfb-team/a-79517890?maca=de-rss-de-all-1119-xml-mrss",
+     "image": "https://static.dw.com/image/79509079_302.jpg",
+     "aggregator": false,
+     "published": "2026-10-02T12:57:00+00:00"
+    },
+    {
+     "source": "WELT",
+     "region": "DE",
+     "weight": 0.8,
+     "title": "„Wir fühlen uns auf dem Weg“ – DFB-Elf trifft auf Serbien",
+     "summary": "Die DFB-Elf trifft am Abend in der Nations League auf Serbien. Für das Überstehen der Vorrunde braucht das Team von Bundestrainer Jürgen Klopp dringend einen Sieg in Belgrad.",
+     "link": "https://www.welt.de/sport/fussball/video6af69cef5a72dceba1d60ecc/nations-league-wir-fuehlen-uns-auf-dem-weg-dfb-elf-trifft-auf-serbien.html",
+     "image": "https://images.welt.de/6af69cef5a72dceba1d60ecc/9964d9ef2248d7a028b0c9f3d5de3f4b/ci16x9-w1200/dpa-com-261112-936-144602-jpg",
+     "aggregator": false,
+     "published": "2026-11-13T05:39:55+00:00"
+    },
+    {
+     "source": "n-tv",
+     "region": "DE",
+     "weight": 0.8,
+     "title": "Nmecha, Kimmich und Co.: \"Interessiert mich nicht so\": Klopp räumt fast alles ab",
+     "summary": "Es geht in die letzten Fußball-Länderspiele des Jahres: Das DFB-Team trifft in der Nations League auf Serbien. Anlass für den Bundestrainer, mit ein, zwei Themen aufzuräumen.",
+     "link": "https://www.n-tv.de/sport/fussball/Interessiert-mich-nicht-so-Klopp-raeumt-fast-alles-ab-id31528454.html",
+     "image": "https://www.n-tv.de/img/31528514/1794527383/Img_4_3/250/632600269.jpg",
+     "aggregator": false,
+     "published": "2026-11-13T05:41:29+00:00"
+    }
+   ]
+  },
+  {
+   "id": 12,
+   "score": 9.9,
+   "outlets": [
+    "tagesschau Ausland",
+    "WirtschaftsWoche",
+    "DER STANDARD",
+    "DIE ZEIT"
+   ],
+   "regions": [
+    "AT",
+    "DE",
+    "INT"
+   ],
+   "trend": [],
+   "newest": "2026-11-13T07:06:00+00:00",
+   "articles": [
+    {
+     "source": "tagesschau Ausland",
+     "region": "INT",
+     "weight": 1.0,
+     "title": "Trumps Unterhändler fordern von Putin Beteiligung Europas",
+     "summary": "Bei den Gesprächen über die Zukunft der Ukraine in Abu Dhabi saßen die Europäer nicht mit am Tisch. Nun besuchen die US-Gesandten Moskau - nach eigenen Worten, um Putin von einer Beteiligung Europas zu überzeugen.",
+     "link": "https://www.tagesschau.de/ausland/europa/witkoff-kushner-putin-ukraine-100.html",
+     "image": "https://images.tagesschau.de/image/a2ca40d2-91d6-4b2c-bc82-aa01f28553c3/AAABoc6O0ak/AAABnSSvrFg/16x9-big/witkoff-kushner-dmitriew-100.jpg?width=1920",
+     "aggregator": false,
+     "published": "2026-11-12T07:00:29+00:00"
+    },
+    {
+     "source": "WirtschaftsWoche",
+     "region": "DE",
+     "weight": 0.85,
+     "title": "Ukraine-Krieg: „Man kann Russland überhaupt keine Angebote machen“",
+     "summary": "Nach den Gesprächen in Abu Dhabi haben die US-Sondergesandten Kushner und Witkoff Putin in Moskau getroffen. Warum auch dieser Vorstoß scheitern dürfte, erklärt Militäranalyst Hendrik Remmel.",
+     "link": "https://www.wiwo.de/politik/ausland/ukraine-krieg-militaerexperte-hendrik-remmel-ueber-putins-strategisches-dilemma/100269136.html",
+     "image": "https://images.wiwo.de/kSlVtTszpATz/cover/900/506/0/0/243/243/0.5/0.5/november-12-2026-moscow-russia-vladimir-putin-president-of-russia-greets-steve-witkoff-and-jar.jpg",
+     "aggregator": false,
+     "published": "2026-11-13T07:06:00+00:00"
+    },
+    {
+     "source": "DER STANDARD",
+     "region": "AT",
+     "weight": 0.85,
+     "title": "Zerstört Trump die Nato für Putin?",
+     "summary": "Wir sprechen über die inzwischen beendeten Verhandlungen zwischen der Ukraine und Russland",
+     "link": "https://www.derstandard.at/story/3000000348937/zerstoert-trump-die-nato-fuer-putin?ref=rss",
+     "image": "https://i.ds.at/BKkLCA/rs:fill:150:0/plain/lido-images/2026/11/11/6256fd83-eb68-444f-9692-a863bb81c8be.jpg",
+     "aggregator": false,
+     "published": "2026-11-12T15:20:04+00:00"
+    },
+    {
+     "source": "DIE ZEIT",
+     "region": "DE",
+     "weight": 0.6,
+     "title": "Ukrainekrieg: Europa soll künftig bei Gesprächen von Ukraine und Russland dabei sein",
+     "summary": "Ukrainekrieg: Europa soll künftig bei Gesprächen von Ukraine und Russland dabei sein DIE ZEIT Donald Trump und Wladimir Putin lachen - Europa schaut machtlos zu FOCUS online Krieg gegen die Ukraine: Putin beharrt auf Gebietsansprüchen tagesschau.de „Trump übernimmt die russische Darstellung, die europäische Sicherheitsordnung bedrohe Russland“ WELT Ukrainekrieg: Witkoff kündigt Beteiligung Europas an Verhandlungen an Spiegel",
+     "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQcEdHR29OcXVsTlJVcnoybGc2emp1eXMwLTFjQXBoQTg2dkxSQ2YyTjlDQmExYjZtaUFBVFhYZkFPMkd3UEtmblByVGliTkVmWnFtS3ptQ2QybkpJSlNjMUx0bFhwdEdOY3hjTE1kQ0JoRFo5OUluZ2FQdlBVa0g2NzNTTEMxeUJLRDlqekk5cnExRHdIRGxaaThRMGJkWVNtXzNIbF9Pb3gyOGwyckVxY3RDUWI1Zk85YWtNZVd2ekpDcVJBT2tUMXFjeVNPMTg?oc=5",
+     "image": null,
+     "aggregator": true,
+     "published": "2026-11-13T03:31:17+00:00"
+    }
+   ]
+  },
+  {
+   "id": 13,
+   "score": 9.62,
+   "outlets": [
+    "ZDFheute",
+    "ORF",
+    "Süddeutsche"
+   ],
+   "regions": [
+    "AT",
+    "DE"
+   ],
+   "trend": [],
+   "newest": "2026-11-13T07:08:22+00:00",
+   "articles": [
+    {
+     "source": "ZDFheute",
+     "region": "DE",
+     "weight": 1.0,
+     "title": "Große Störung bei Microsoft Outlook",
+     "summary": "Eine großflächige Störung beim E-Mail-Dienst Outlook des Technologiekonzerns Microsoft bereitet weltweit Nutzern Probleme. Seit Stunden arbeite man an der Fehlerbehebung.",
+     "link": "https://www.zdfheute.de/wirtschaft/stoerung-outlook-teams-microsoft-100.html",
+     "image": "https://www.zdfheute.de/assets/microsoft-usa-100~384x216?cb=1794534017985",
+     "aggregator": false,
+     "published": "2026-11-13T06:21:00+00:00"
+    },
+    {
+     "source": "ORF",
+     "region": "AT",
+     "weight": 0.95,
+     "title": "Weltweite Ausfälle bei Microsoft-Diensten",
+     "summary": "Eine große Störung hat weltweit Unternehmen und Nutzerinnen und Nutzer zentraler Cloud-Angebote des Softwarekonzerns Microsoft lahmgelegt. Betroffen sind nicht nur der E-Mail-Dienst Outlook, sondern generell Dienste aus dem Cloud-Paket Microsoft 365. Die Behebung der Probleme dauert weiter an. Bemühungen zur Wiederherstellung der Dienste kämen nicht wie erwartet voran, teilte Microsoft am Freitag mit.",
+     "link": "https://orf.at/stories/3448057/",
+     "image": null,
+     "aggregator": false,
+     "published": "2026-11-13T07:08:22+00:00"
+    },
+    {
+     "source": "Süddeutsche",
+     "region": "DE",
+     "weight": 0.9,
+     "title": "Microsoft 365: Outlook weltweit seit Stunden gestört - Microsoft bemüht sich um Lösung",
+     "summary": "Viele Dienste des Software-Herstellers sind noch immer unerreichbar – auch sensible Regierungsbereiche sind betroffen. Die Bemühungen zur Wiederherstellung kommen offenbar nicht wie erwartet voran.",
+     "link": "https://www.sueddeutsche.de/wirtschaft/microsoft-365-stoerung-weltweit-outlook-teams-li.3579791",
+     "image": "https://www.sueddeutsche.de/2026/11/13/c7c96f8e-9f76-4ac8-9ba1-249fe90c33fd.jpg?rect=0%2C25%2C2751%2C2063&width=1000&fm=jpg&q=60",
+     "aggregator": false,
+     "published": "2026-11-13T05:40:07+00:00"
+    }
+   ]
+  },
+  {
+   "id": 14,
+   "score": 9.5,
+   "outlets": [
+    "Deutschlandfunk",
+    "SRF News",
+    "SPIEGEL"
+   ],
+   "regions": [
+    "CH",
+    "DE"
+   ],
+   "trend": [],
+   "newest": "2026-11-13T07:04:59+00:00",
+   "articles": [
+    {
+     "source": "Deutschlandfunk",
+     "region": "DE",
+     "weight": 0.95,
+     "title": "Nahostkonflikt - Ärzte ohne Grenzen kritisiert Luftangriff auf Krankenhaus im Gazastreifen",
+     "summary": "Die Hilfsorganisation Ärzte ohne Grenzen hat den israelischen Luftangriff auf ein Krankenhaus im Gazastreifen kritisiert.",
+     "link": "https://www.deutschlandfunk.de/aerzte-ohne-grenzen-kritisiert-luftangriff-auf-krankenhaus-im-gazastreifen-102.html",
+     "image": "https://bilder.deutschlandfunk.de/bf/69/e0/91/bf69e091-7d96-4acd-84a6-7cd37c760c69/nasser-krankenhaus-angriff-100-1920x1920.jpg",
+     "aggregator": false,
+     "published": "2026-11-13T07:04:59+00:00"
+    },
+    {
+     "source": "SRF News",
+     "region": "CH",
+     "weight": 0.95,
+     "title": "Krieg im Nahen Osten – Hilfsorganisation Ärzte ohne Grenzen kritisiert Israel scharf",
+     "summary": "Nach dem Luftangriff auf ein Krankenhaus macht die Hilfsorganisation Ärzte ohne Grenzen Israel schwere Vorwürfe.",
+     "link": "https://www.srf.ch/news/international/nahost/krieg-im-nahen-osten-hilfsorganisation-aerzte-ohne-grenzen-kritisiert-israel-scharf-1",
+     "image": "https://www.srf.ch/static/cms/images//320ws/d5a280.webp",
+     "aggregator": false,
+     "published": "2026-11-13T04:08:47+00:00"
+    },
+    {
+     "source": "SPIEGEL",
+     "region": "DE",
+     "weight": 0.9,
+     "title": "Israel-Gaza-Krieg: Ärzte ohne Grenzen kritisieren Zerstörung eines Krankenhauses",
+     "summary": "Bei einem Angriff auf eine Klinik im Gazastreifen sterben mindestens sechs Menschen. Die Helfer von Ärzte ohne Grenzen sind empört. Auch der von US-Präsident Trump geschaffene Friedensrat reagiert.",
+     "link": "https://www.spiegel.de/politik/israel-gaza-krieg-aerzte-ohne-grenzen-kritisieren-zerstoerung-eines-krankenhauses-a-e68b1b81-b171-469a-93a1-fe4edea66ce8#ref=rss",
+     "image": "https://cdn.prod.www.spiegel.de/images/bd10ab2d-12e3-4981-be86-b3df75a03911_w520_r2.08_fpx54_fpy50.jpg",
+     "aggregator": false,
+     "published": "2026-11-13T06:21:00+00:00"
+    }
+   ]
+  },
+  {
+   "id": 15,
+   "score": 9.28,
+   "outlets": [
+    "SPIEGEL",
+    "Handelsblatt",
+    "WirtschaftsWoche"
+   ],
+   "regions": [
+    "DE"
+   ],
+   "trend": [],
+   "newest": "2026-11-13T07:20:00+00:00",
+   "articles": [
+    {
+     "source": "SPIEGEL",
+     "region": "DE",
+     "weight": 0.9,
+     "title": "Elektroautos: Vollkasko für Autos aus China kostet fast das Doppelte",
+     "summary": "Chinesische Elektroautohersteller unterbieten die heimische Industrie mit günstigen Verkaufspreisen. Der Vorteil könnte allerdings anschließend bei den Versicherungskosten leicht aufgezehrt werden.",
+     "link": "https://www.spiegel.de/wirtschaft/elektroautos-vollkasko-fuer-autos-aus-china-kostet-fast-das-doppelte-a-cb5d4a3b-0af5-4b7f-bf29-93fe2838dfdb#ref=rss",
+     "image": "https://cdn.prod.www.spiegel.de/images/78306838-42be-4d97-adc4-e8c0551280d3_w520_r2.08_fpx33.72_fpy54.98.jpg",
+     "aggregator": false,
+     "published": "2026-11-13T07:20:00+00:00"
+    },
+    {
+     "source": "Handelsblatt",
+     "region": "DE",
+     "weight": 0.9,
+     "title": "Autoversicherung: Chinesische E-Autos können bei der Versicherung teuer werden",
+     "summary": "Chinesische Elektroautohersteller unterbieten die heimische Industrie mit günstigen Preisen und Leasingraten. Doch bei der Versicherung zahlen Käufer drauf, zeigt eine Auswertung.",
+     "link": "https://www.handelsblatt.com/mobilitaet/ratgeber-service/autoversicherung-chinesische-e-autos-koennen-bei-der-versicherung-teuer-werden/100269602.html",
+     "image": "https://images.handelsblatt.com/83mhqYrUWinX/cover/900/506/725/518/687/533/0.5/0.5/geely-e2.jpg",
+     "aggregator": false,
+     "published": "2026-11-13T05:46:16+00:00"
+    },
+    {
+     "source": "Handelsblatt",
+     "region": "DE",
+     "weight": 0.9,
+     "title": "Folgekosten des Autokaufs: Chinesische E-Autos: Vollkasko fast doppelt so teuer",
+     "summary": "Chinesische Elektroautohersteller unterbieten die heimische Industrie mit günstigen Verkaufspreisen - für die Autofahrer kann es dann aber teuer werden.",
+     "link": "https://www.handelsblatt.com/politik/deutschland/folgekosten-des-autokaufs-chinesische-e-autos-vollkasko-fast-doppelt-so-teuer/100269576.html",
+     "image": "https://images.handelsblatt.com/XNFtC9sX6zkl/cover/900/506/0/0/107/106/0.5/0.5/elektrofahrzeuge-von-byd.jpg",
+     "aggregator": false,
+     "published": "2026-11-13T04:00:36+00:00"
+    },
+    {
+     "source": "WirtschaftsWoche",
+     "region": "DE",
+     "weight": 0.85,
+     "title": "Folgekosten des Autokaufs: Vollkasko bei chinesischen E-Autos fast doppelt so teuer",
+     "summary": "Chinesische Elektroautohersteller unterbieten die heimische Industrie mit günstigen Verkaufspreisen – für die Autofahrer kann es dann aber teuer werden.",
+     "link": "https://www.wiwo.de/unternehmen/auto/folgekosten-des-autokaufs-chinesische-e-autos-vollkasko-fast-doppelt-so-teuer/100269584.html",
+     "image": "https://images.wiwo.de/M3rNOgT5sDj0/cover/900/506/0/0/107/106/0.5/0.5/elektrofahrzeuge-von-byd.jpg",
+     "aggregator": false,
+     "published": "2026-11-13T04:00:36+00:00"
+    }
+   ]
+  },
+  {
+   "id": 16,
+   "score": 9.16,
+   "outlets": [
+    "SRF News",
+    "Handelsblatt",
+    "NZZ"
+   ],
+   "regions": [
+    "CH",
+    "DE"
+   ],
+   "trend": [],
+   "newest": "2026-11-13T06:23:00+00:00",
+   "articles": [
+    {
+     "source": "SRF News",
+     "region": "CH",
+     "weight": 0.95,
+     "title": "Midterms 2026 – Demokraten streiten um Amt des Mehrheitsführers im US-Senat",
+     "summary": "Senator Chris Van Hollen kündigte an, dass er gegen den bisherigen Minderheitsführer Chuck Schumer antreten werde.",
+     "link": "https://www.srf.ch/news/international/usa/midterms-2026-demokraten-streiten-um-amt-des-mehrheitsfuehrers-im-us-senat",
+     "image": "https://www.srf.ch/static/cms/images//320ws/5c25cd.webp",
+     "aggregator": false,
+     "published": "2026-11-13T04:45:49+00:00"
+    },
+    {
+     "source": "Handelsblatt",
+     "region": "DE",
+     "weight": 0.9,
+     "title": "Nach Midterms: Demokraten streiten um Amt des Mehrheitsführers im US-Senat",
+     "summary": "Bei der US-Parlamentswahl gewinnen die Demokraten mit einem Erdrutsch-Sieg die Mehrheit im Kongress zurück. Doch der Erfolg führt zu einem Richtungsstreit.",
+     "link": "https://www.handelsblatt.com/politik/international/nach-midterms-demokraten-streiten-um-amt-des-mehrheitsfuehrers-im-us-senat/100269575.html",
+     "image": "https://images.handelsblatt.com/ernXJO4nM1Q0/cover/900/506/0/0/107/106/0.5/0.5/us-senator-chris-van-hollen.jpg",
+     "aggregator": false,
+     "published": "2026-11-13T03:59:24+00:00"
+    },
+    {
+     "source": "NZZ",
+     "region": "CH",
+     "weight": 0.9,
+     "title": "LIVE-TICKER - Die USA nach den Midterms: Van Hollen macht Schumer das Amt des Mehrheitsführers im Senat streitig +++ Höchstwert an Abschiebungen vermeldet",
+     "summary": "Die neuesten Meldungen aus der amerikanischen Innenpolitik im Ticker.",
+     "link": "https://www.nzz.ch/international/us-innenpolitik-die-neuesten-meldungen-im-ticker-ld.10056111",
+     "image": "https://img-msp-prod.nzz.ch/2026/11/13/fa8a88f2-fdbd-4ea5-9eb8-81853838fa9a.jpg?width=200&height=200&fit=bounds&quality=75&auto=webp&crop=3744,3744,x936,y0",
+     "aggregator": false,
+     "published": "2026-11-13T06:23:00+00:00"
+    }
+   ]
+  },
+  {
+   "id": 17,
+   "score": 8.6,
+   "outlets": [
+    "tagesschau Ausland",
+    "ZDFheute",
+    "Deutsche Welle",
+    "DER STANDARD"
+   ],
+   "regions": [
+    "AT",
+    "DE",
+    "INT"
+   ],
+   "trend": [],
+   "newest": "2026-11-12T20:47:38+00:00",
+   "articles": [
+    {
+     "source": "tagesschau Ausland",
+     "region": "INT",
+     "weight": 1.0,
+     "title": "Im Stadtteil Brooklyn: Tote und Verletzte nach Gebäudeeinsturz in New York",
+     "summary": "Nach dem Einsturz eines mehrstöckigen Gebäudes in New York ist die Zahl der Toten auf mindestens acht gestiegen. Mehrere weitere Menschen wurden unter den Trümmern eingeschlossen. Bürgermeister Mamdani sprach den Betroffenen sein Mitgefühl aus.",
+     "link": "https://www.tagesschau.de/ausland/amerika/new-york-gebaeude-einsturz-104.html",
+     "image": "https://images.tagesschau.de/image/c721bd53-d8e5-4717-8c8b-8e3e325892e3/AAABoc3GsAQ/AAABnSSvrFg/16x9-big/new-york-gebaeude-einsturz-100.jpg?width=1920",
+     "aggregator": false,
+     "published": "2026-11-12T18:54:49+00:00"
+    },
+    {
+     "source": "ZDFheute",
+     "region": "DE",
+     "weight": 1.0,
+     "title": "Hauseinsturz in New York: Zahl der Toten steigt weiter",
+     "summary": "Infolge des Einsturzes eines Wohnhauses im New Yorker Stadtbezirk Brooklyn ist die Zahl der Toten auf mindestens acht gestiegen. Unter den Opfern sind auch zwei Kinder.",
+     "link": "https://www.zdfheute.de/video/brooklyn-einsturz-wohnhaus-tote-video-100.html",
+     "image": "https://www.zdfheute.de/assets/gebaeudeeinsturz-brooklny-100~384x216?cb=1794516421915",
+     "aggregator": false,
+     "published": "2026-11-12T20:47:38+00:00"
+    },
+    {
+     "source": "Deutsche Welle",
+     "region": "INT",
+     "weight": 0.95,
+     "title": "Mehrere Tote bei Hauseinsturz in New York",
+     "summary": "\"Das ganze Gebäude fing an zu schwanken, und dann ist es einfach eingestürzt\", sagt eine Zeugin des Unglücks. Für die Feuerwehrleute ist es ein gefährlicher Einsatz. Suchhunde sollen mögliche Verschüttete finden.",
+     "link": "https://www.dw.com/de/mehrere-tote-bei-hauseinsturz-in-new-york/a-79927649?maca=de-rss-de-all-1119-xml-mrss",
+     "image": "https://static.dw.com/image/79925717_302.jpg",
+     "aggregator": false,
+     "published": "2026-11-12T10:34:00+00:00"
+    },
+    {
+     "source": "DER STANDARD",
+     "region": "AT",
+     "weight": 0.85,
+     "title": "Mindestens acht Tote bei Hauseinsturz in New York",
+     "summary": "Ein mehrstöckiges Wohnhaus im Stadtteil Brooklyn stürzte ein. Neben den Toten gibt es 18 weitere Verletzte",
+     "link": "https://www.derstandard.at/story/3000000348826/mindestens-zwei-tote-bei-hauseinsturz-in-new-york?ref=rss",
+     "image": "https://i.ds.at/bTVcrg/rs:fill:150:0/plain/lido-images/2026/11/12/9504fc98-6363-4429-87f4-8e6a3ff171c0.jpg",
+     "aggregator": false,
+     "published": "2026-11-12T04:54:16+00:00"
+    }
+   ]
+  },
+  {
+   "id": 18,
+   "score": 8.5,
+   "outlets": [
+    "tagesschau Inland",
+    "Deutsche Welle",
+    "SRF News"
+   ],
+   "regions": [
+    "CH",
+    "DE",
+    "INT"
+   ],
+   "trend": [],
+   "newest": "2026-11-13T03:30:06+00:00",
+   "articles": [
+    {
+     "source": "tagesschau Inland",
+     "region": "DE",
+     "weight": 1.0,
+     "title": "Warum sitzt Deutschland in Abu Dhabi nicht am Verhandlungstisch?",
+     "summary": "Derzeit treffen sich in Abu Dhabi Vertreter der Ukraine, Russlands und der USA, um Gespräche über ein Ende des Krieges wieder aufzunehmen. Europa scheint im Abseits, obwohl Deutschland der größte Unterstützer der Ukraine ist. Von N. Markwald.",
+     "link": "https://www.tagesschau.de/inland/innenpolitik/deutschland-rolle-ukraine-gespraeche-100.html",
+     "image": "https://images.tagesschau.de/image/59c612e1-678f-4aed-bbfb-7469096f2544/AAABocTEhrw/AAABnSSvrFg/16x9-big/merz-selenskyj-144.jpg?width=1920",
+     "aggregator": false,
+     "published": "2026-11-10T14:15:52+00:00"
+    },
+    {
+     "source": "tagesschau Ausland",
+     "region": "INT",
+     "weight": 1.0,
+     "title": "Gespräche in Abu Dhabi: Gedämpfte Erwartungen der Ukraine",
+     "summary": "Heute beginnen trilaterale Verhandlungen in Abu Dhabi. Können die Gespräche mit den USA und Russland einen echten Frieden bringen - oder führen sie zu einer Schwächung der Ukraine? Die Erwartungen in der Ukraine sind gering. Von F. Kellermann.",
+     "link": "https://www.tagesschau.de/ausland/europa/ukraine-erwartungen-gespraeche-100.html",
+     "image": "https://images.tagesschau.de/image/359f2fcf-a8ed-44fb-99fc-36c901fb94da/AAABocLfjcw/AAABnSSvrFg/16x9-big/ukraine-kiew-flagge-100.jpg?width=1920",
+     "aggregator": false,
+     "published": "2026-11-10T01:13:48+00:00"
+    },
+    {
+     "source": "Deutsche Welle",
+     "region": "INT",
+     "weight": 0.95,
+     "title": "Gespräche in Abu Dhabi: Was haben sie der Ukraine gebracht?",
+     "summary": "Die ersten trilateralen Gespräche zwischen der Ukraine, den USA und Russland seit neun Monaten endeten mit einer Einigung über einen Gefangenenaustausch. Ist das Ergebnis ein echter Erfolg und ein Schritt zum Frieden?",
+     "link": "https://www.dw.com/de/gespräche-in-abu-dhabi-was-haben-sie-der-ukraine-gebracht/a-79927783?maca=de-rss-de-all-1119-xml-mrss",
+     "image": "https://static.dw.com/image/79918396_302.jpg",
+     "aggregator": false,
+     "published": "2026-11-12T12:07:00+00:00"
+    },
+    {
+     "source": "SRF News",
+     "region": "CH",
+     "weight": 0.95,
+     "title": "Krieg in der Ukraine – Selenski will Europa mit am Verhandlungstisch haben",
+     "summary": "Wolodimir Selenski hofft bei den nächsten Friedensgesprächen mit Russland auf Verhandlungen über eine Waffenruhe.",
+     "link": "https://www.srf.ch/news/international/ukraine/krieg-in-der-ukraine-selenski-will-europa-mit-am-verhandlungstisch-haben",
+     "image": "https://www.srf.ch/static/cms/images//320ws/bc52212.webp",
+     "aggregator": false,
+     "published": "2026-11-13T03:30:06+00:00"
+    },
+    {
+     "source": "SRF News",
+     "region": "CH",
+     "weight": 0.95,
+     "title": "Verhandlungen zu Ukraine-Krieg – Die Gespräche in Abu Dhabi sind beendet – so geht es weiter",
+     "summary": "Delegationen aus Russland und der Ukraine haben erstmals wieder miteinander verhandelt. Die wichtigsten Punkte.",
+     "link": "https://www.srf.ch/news/international/verhandlungen-zu-ukraine-krieg-die-gespraeche-in-abu-dhabi-sind-beendet-so-geht-es-weiter",
+     "image": "https://www.srf.ch/static/cms/images//320ws/016f7d.webp",
+     "aggregator": false,
+     "published": "2026-11-11T15:03:00+00:00"
+    }
+   ]
+  },
+  {
+   "id": 19,
+   "score": 8.4,
+   "outlets": [
+    "tagesschau",
+    "Deutschlandfunk",
+    "SPORT1"
+   ],
+   "regions": [
+    "DE"
+   ],
+   "trend": [],
+   "newest": "2026-11-13T07:04:59+00:00",
+   "articles": [
+    {
+     "source": "tagesschau",
+     "region": "DE",
+     "weight": 1.0,
+     "title": "DFB in der Nations League: Gruda könnte Klopps nächster Debütant werden",
+     "summary": "Bei der DFB-Elf könnte es im Nations-League-Spiel am Freitag in Belgrad gegen Serbien einen weiteren Debütanten geben: Brajan Gruda, Offensivspieler von RB Leipzig. Trainer Klopp nennt ihn einen \"geilen Zocker\".",
+     "link": "https://www.sportschau.de/fussball/nationalmannschaft/brajan-gruda-ein-geiler-zocker-fuer-juergen-klopp,gruda-dfb-team-nations-league-100.html",
+     "image": "https://images.sportschau.de/image/f8babb57-9da6-4a80-8a02-5937ad2274ac/AAABoc-qab0/AAABnSSvrFg/16x9-big/gruda-122.jpg?width=1920",
+     "aggregator": false,
+     "published": "2026-11-12T12:11:58+00:00"
+    },
+    {
+     "source": "Deutschlandfunk",
+     "region": "DE",
+     "weight": 0.95,
+     "title": "Nations League - Fußball-Nationalmannschaft trifft auf Serbien - Klopp hofft auf Sieg",
+     "summary": "Die deutsche Fußball-Nationalmannschaft trifft am Abend in der Nations League auf Serbien.",
+     "link": "https://www.deutschlandfunk.de/fussball-nationalmannschaft-trifft-auf-serbien-klopp-hofft-auf-sieg-102.html",
+     "image": "https://bilder.deutschlandfunk.de/17/c1/a5/75/17c1a575-c5cc-4e3b-98aa-2a8132c3dbec/dfb-bundestrainer-juergen-klopp-100-1920x1920.jpg",
+     "aggregator": false,
+     "published": "2026-11-13T07:04:59+00:00"
+    },
+    {
+     "source": "SPORT1",
+     "region": "DE",
+     "weight": 0.6,
+     "title": "Keine Weltklasse? Klopp bei DFB-Elf \"super positiv\"",
+     "summary": "Keine Weltklasse? Klopp bei DFB-Elf \"super positiv\" SPORT1 Nations League am Freitag: Wo Serbien gegen Deutschland im Free-TV zu sehen ist RND.de Vor Partie gegen Serbien: Bundestrainer Klopp - \"Mir ist bewusst, dass wir liefern müssen\" sportschau.de Serbien – Deutschland im Free-TV & Live-Stream: So sehen Sie die Nations League heute BILD Tadic verspricht \"ein anderes Serbien\" - und stichelt etwas gegen das DFB-Team Kicker",
+     "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOS2ZIdUtxSGdlLUJGcEN4UktPY19uY1ZqbkRQQlNVZk1XWTNpak5RWDBidXBnSzBnbkRCcmUyTklySzVBejBrMEwwQmVJVjVGR2NnT0tCcnF5YjBRci1yLUxGSUgyZDRUQ09sTDRrYS1qZ1FlNmJ4NGxIYXUyS0xGY3ZDVFpXcjZJYWRfaXJyUFRRUVE3LXRkQWowSlZ4anQ4MC1R?oc=5",
+     "image": null,
+     "aggregator": true,
+     "published": "2026-11-13T04:33:00+00:00"
+    }
+   ]
+  },
+  {
+   "id": 20,
+   "score": 8.3,
+   "outlets": [
+    "tagesschau",
+    "SRF News",
+    "heise online",
+    "DER STANDARD"
+   ],
+   "regions": [
+    "AT",
+    "CH",
+    "DE"
+   ],
+   "trend": [],
+   "newest": "2026-11-12T18:21:38+00:00",
+   "articles": [
+    {
+     "source": "tagesschau",
+     "region": "DE",
+     "weight": 1.0,
+     "title": "Rücktritt von Nvidia-Chef Huang: Vom Sympathieträger zum Sicherheitsrisiko",
+     "summary": "Er war nicht nur Chef, sondern auch Gesicht von Nvidia: Jensen Huang formte den Chip-Riesen maßgeblich - als \"sympathischer Tech-Bro\" mit guten Kontakten zur Trump-Regierung. Bis er zum Risiko wurde. Von Gabi Biesinger.",
+     "link": "https://www.tagesschau.de/wirtschaft/unternehmen/nvidia-huang-rolle-100.html",
+     "image": "https://images.tagesschau.de/image/62a459a4-de47-412c-bc99-10728c9a25e5/AAABodAPyYk/AAABnSSvrFg/16x9-big/huang-120.jpg?width=1920",
+     "aggregator": false,
+     "published": "2026-11-12T16:17:54+00:00"
+    },
+    {
+     "source": "tagesschau Wirtschaft",
+     "region": "DE",
+     "weight": 1.0,
+     "title": "Rücktritt von Nvidia-Chef Huang: Vom Sympathieträger zum Sicherheitsrisiko",
+     "summary": "Er war nicht nur Chef, sondern auch Gesicht von Nvidia: Jensen Huang formte den Chip-Riesen maßgeblich - als \"sympathischer Tech-Bro\" mit guten Kontakten zur Trump-Regierung. Bis er zum Risiko wurde. Von Gabi Biesinger.",
+     "link": "https://www.tagesschau.de/wirtschaft/unternehmen/nvidia-huang-rolle-100.html",
+     "image": "https://images.tagesschau.de/image/62a459a4-de47-412c-bc99-10728c9a25e5/AAABodAPyYk/AAABnSSvrFg/16x9-big/huang-120.jpg?width=1920",
+     "aggregator": false,
+     "published": "2026-11-12T16:17:54+00:00"
+    },
+    {
+     "source": "SRF News",
+     "region": "CH",
+     "weight": 0.95,
+     "title": "Rückblick nach Rücktritt – Von Grafikchips zu KI: Der Aufstieg von Nvidia unter Jensen Huang",
+     "summary": "Vor seinem Rücktritt prägte Jensen Huang Nvidia über Jahrzehnte. Ein Blick zurück auf einen eindrucksvollen Aufstieg.",
+     "link": "https://www.srf.ch/news/wirtschaft/rueckblick-nach-ruecktritt-von-grafikchips-zu-ki-der-aufstieg-von-nvidia-unter-jensen-huang",
+     "image": "https://www.srf.ch/static/cms/images//320ws/6c2f8d7.webp",
+     "aggregator": false,
+     "published": "2026-11-12T18:21:38+00:00"
+    },
+    {
+     "source": "heise online",
+     "region": "DE",
+     "weight": 0.85,
+     "title": "Gerüchte um Nvidia-Nachfolge: Wer wird CEO?",
+     "summary": "Nach dem Rücktritt von Nvidia-Chef Jensen Huang wird spekuliert, wer seine Nachfolge antreten könnte. Es gibt ein paar Kandidaten – unter anderem von Apple.",
+     "link": "https://www.heise.de/news/Geruechte-um-Nvidia-Nachfolge-Wer-wird-CEO-11523074.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
+     "image": null,
+     "aggregator": false,
+     "published": "2026-11-12T16:56:00+00:00"
+    },
+    {
+     "source": "DER STANDARD",
+     "region": "AT",
+     "weight": 0.85,
+     "title": "Rücktritt von Nvidia-Chef Huang: Was wusste Trump vom Spionageverdacht?",
+     "summary": "Jensen Huang war nicht nur der bedeutendste Vorstandschef des KI-Booms, sondern auch ein enger Ratgeber von US-Präsident Donald Trump. Kommt Trump nun in Bedrängnis?",
+     "link": "https://www.derstandard.at/story/3000000349033/ruecktritt-von-nvidia-chef-huang-was-wusste-trump-vom-spionageverdacht?ref=rss",
+     "image": "https://i.ds.at/zNkSFQ/rs:fill:150:0/plain/lido-images/2026/11/12/4f5f1ce6-be30-4ced-a133-ab386d4571f1.jpg",
+     "aggregator": false,
+     "published": "2026-11-12T17:48:59+00:00"
+    }
+   ]
+  },
+  {
+   "id": 21,
+   "score": 8.29,
+   "outlets": [
+    "tagesschau",
+    "ZDFheute",
+    "Handelsblatt"
+   ],
+   "regions": [
+    "DE"
+   ],
+   "trend": [],
+   "newest": "2026-11-13T06:27:00+00:00",
+   "articles": [
+    {
+     "source": "tagesschau",
+     "region": "DE",
+     "weight": 1.0,
+     "title": "Mercedes stoppt Investitionen in Deutschland - und prüft Schließungen",
+     "summary": "In den Verhandlungen um Kostensenkungen bei Mercedes ist keine Lösung in Sicht. Jetzt erhöht der Konzern den Druck: Der Vorstand legt alle Investitionen in deutsche Standorte auf Eis - und will Werksschließungen prüfen.",
+     "link": "https://www.tagesschau.de/wirtschaft/unternehmen/mercedes-stopp-investitionen-100.html",
+     "image": "https://images.tagesschau.de/image/a1c69cbc-7a7c-413d-aae2-f16786e0d57e/AAABodDagME/AAABnSSvrFg/16x9-big/mercedes-montage-100.jpg?width=1920",
+     "aggregator": false,
+     "published": "2026-11-12T18:44:38+00:00"
+    },
+    {
+     "source": "ZDFheute",
+     "region": "DE",
+     "weight": 1.0,
+     "title": "Mercedes stoppt alle neuen Investitionen in Deutschland",
+     "summary": "Mercedes Benz stoppt alle neuen Investitionen in Deutschland. Wegen hoher Kosten und stockender Spar-Gespräche bringt der Vorstand sogar Werksschließungen ins Spiel.",
+     "link": "https://www.zdfheute.de/wirtschaft/unternehmen/mercedes-sparmassnahmen-100.html",
+     "image": "https://www.zdfheute.de/assets/aid-image-69512413-hires-102~384x216?cb=1794504129652",
+     "aggregator": false,
+     "published": "2026-11-12T21:10:00+00:00"
+    },
+    {
+     "source": "Handelsblatt",
+     "region": "DE",
+     "weight": 0.6,
+     "title": "Autobauer: Mercedes stoppt alle Investitionen in Deutschland",
+     "summary": "Autobauer: Mercedes stoppt alle Investitionen in Deutschland Handelsblatt Autoindustrie - Mercedes-Benz prüft jetzt \"konkret und detailliert\" Werksschließungen Deutschlandfunk Mercedes-Benz: Mercedes stoppt alle neuen Investitionen in deutsche Standorte DIE ZEIT Autoindustrie: Der große Auto-Machtkampf beginnt – Mercedes und VW auf Konfrontation mit der IG Metall WELT Info-Date am Morgen: Mercedes-Chef Källenius verteidigt Sparkurs SWR",
+     "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQVm9FaEhxTjNmdWhzR2xlSFpmVU5jWFFsZzVMWGJGcXhwaGNjRmlRelYxMm9IU1BzUmQxYk9sbUlUbGVLc0ZtOE1lNDA5c1YweDhoTnV5MTJULUJaUldYdVZ4Uk5oMC16SFhKdmVNck1aTGlyT2VXTWNoNU5qVEptck5Ia1JLeTNYSk5sNHhzU050bzV0OGRwWlZyMFZlWnlOYy1Bb3pPSEZtM3Q1R1pNWFI4Y0FSVFZ3VU5VencxSHliWDg?oc=5",
+     "image": null,
+     "aggregator": true,
+     "published": "2026-11-13T06:27:00+00:00"
+    }
+   ]
+  },
+  {
+   "id": 22,
+   "score": 7.83,
+   "outlets": [
+    "tagesschau",
+    "n-tv",
+    "Tagesspiegel"
+   ],
+   "regions": [
+    "DE"
+   ],
+   "trend": [],
+   "newest": "2026-11-13T06:17:05+00:00",
+   "articles": [
+    {
+     "source": "tagesschau",
+     "region": "DE",
+     "weight": 1.0,
+     "title": "Keine Senkung der Stromsteuer: Bei der Union \"hat es ordentlich geknallt\"",
+     "summary": "Die Senkung der Stromsteuer wird nun vermutlich doch nicht kommen - trotz anderslautender Versprechen. Bei der Union will man das noch nicht akzeptieren. Und die Opposition nimmt sich Kanzler Merz vor.",
+     "link": "https://www.tagesschau.de/inland/innenpolitik/haushalt-kompromisse-stromsteuer-reaktionen-100.html",
+     "image": "https://images.tagesschau.de/image/c719ccdf-4c2e-4d89-8cc7-51bde98c7346/AAABn3WyiBE/AAABnSSvrFg/16x9-big/cdu-csu-fraktion-102.jpg?width=1920",
+     "aggregator": false,
+     "published": "2026-11-12T13:40:04+00:00"
+    },
+    {
+     "source": "tagesschau Inland",
+     "region": "DE",
+     "weight": 1.0,
+     "title": "Keine Senkung der Stromsteuer: Bei der Union \"hat es ordentlich geknallt\"",
+     "summary": "Die Senkung der Stromsteuer wird nun vermutlich doch nicht kommen - trotz anderslautender Versprechen. Bei der Union will man das noch nicht akzeptieren. Und die Opposition nimmt sich Kanzler Merz vor.",
+     "link": "https://www.tagesschau.de/inland/innenpolitik/haushalt-kompromisse-stromsteuer-reaktionen-100.html",
+     "image": "https://images.tagesschau.de/image/c719ccdf-4c2e-4d89-8cc7-51bde98c7346/AAABn3WyiBE/AAABnSSvrFg/16x9-big/cdu-csu-fraktion-102.jpg?width=1920",
+     "aggregator": false,
+     "published": "2026-11-12T13:40:04+00:00"
+    },
+    {
+     "source": "n-tv",
+     "region": "DE",
+     "weight": 0.8,
+     "title": "\"Leider nicht zu bezahlen\": Klingbeil bekommt im Streit um Stromsteuer Rückendeckung",
+     "summary": "Erst stellt Kanzler Merz eine Senkung der Stromsteuer für alle in Aussicht - nun bleibt die Entlastung vorerst aus. In der Union sorgt das für Kritik, doch mehrere SPD-Politiker zeigen Verständnis für die Argumentation von Finanzminister Klingbeil und stellen sich hinter ihren Parteichef.",
+     "link": "https://www.n-tv.de/politik/Klingbeil-bekommt-im-Streit-um-Stromsteuer-Rueckendeckung-id31528957.html",
+     "image": "https://www.n-tv.de/img/31528961/1794551650/Img_4_3/250/632248876.jpg",
+     "aggregator": false,
+     "published": "2026-11-13T06:17:05+00:00"
+    },
+    {
+     "source": "Tagesspiegel",
+     "region": "DE",
+     "weight": 0.6,
+     "title": "„Hat ordentlich geknallt“ Wut in der Union – Merz will Stromsteuersenkung jetzt offenbar im Koalitionsausschuss durchsetzen",
+     "summary": "„Hat ordentlich geknallt“ Wut in der Union – Merz will Stromsteuersenkung jetzt offenbar im Koalitionsausschuss durchsetzen Tagesspiegel Nachtsitzung im Haushaltsausschuss: Etat für 2027 steht tagesschau.de Nach Nachtsitzung: 560 Milliarden! Rekordhaushalt beschlossen BILD Haushaltsausschuss: Bundeshaushalt für 2027 steht DIE ZEIT Bundestag: Haushalt 2027 mit Rekordausgaben steht – weiterhin ohne Stromsteuer-Senkung WELT",
+     "link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxNelhxV0RjaHdDWEFZMWRpVDdYdnYtU2ljUjI0NHI1MGdaYWdlbWhQTE5lUUtJX194eFBsY2Q2M3N0S3Zyc1NnbnFvNEZmWUhjMXNhblNfdzJGSDJpQWFKMm5EZDJaYkRMQmNJNzQwdDNRX1R1NmdXNGJ5aXlqWFhZTEdmakZJMTZ4SGw2cFZTQ3h5QTVZUmdRSi1RU1ZRajlsd2RXaERkOWlsN3R5eTI4bzZ1OHFaMVJHMGlzcWFXUVRnMjI4RWoxTHA2dnBVUjNzejRObl95SVFRS0dpUGpVT0lBeGs5Yzg?oc=5",
+     "image": null,
+     "aggregator": true,
+     "published": "2026-11-12T19:10:00+00:00"
+    }
+   ]
+  },
+  {
+   "id": 23,
+   "score": 7.8,
+   "outlets": [
+    "ZDFheute",
+    "Deutschlandfunk"
+   ],
+   "regions": [
+    "DE"
+   ],
+   "trend": [],
+   "newest": "2026-11-13T07:04:59+00:00",
+   "articles": [
+    {
+     "source": "ZDFheute",
+     "region": "DE",
+     "weight": 1.0,
+     "title": "Rede Ursula von der Leyen auf der COP31",
+     "summary": "Rede von EU-Kommissionspräsidentin Ursula von der Leyen auf der Weltklimakonferenz (COP31) in Antalya",
+     "link": "https://www.phoenix.de/php/mediaplayer/vod_embed.php?cmsid=5247151",
+     "image": "https://www.zdfheute.de/assets/teaser-phoenix-rede-ursula-von-der-leyen-auf-der-cop31-5247151-100~384x216?cb=1794416637055",
+     "aggregator": false,
+     "published": "2026-11-11T16:44:00+00:00"
+    },
+    {
+     "source": "ZDFheute",
+     "region": "DE",
+     "weight": 1.0,
+     "title": "Rede UN-Generalsekretär Guterres auf der COP31",
+     "summary": "Rede von UN-Generalsekretär António Guterres auf der Weltklimakonferenz COP31 in Antalya",
+     "link": "https://www.phoenix.de/php/mediaplayer/vod_embed.php?cmsid=5247139",
+     "image": "https://www.zdfheute.de/assets/teaser-phoenix-rede-un-generalsekretaer-guterres-auf-der-cop31-5247139-100~384x216?cb=1794413638898",
+     "aggregator": false,
+     "published": "2026-11-11T15:46:00+00:00"
+    },
+    {
+     "source": "Deutschlandfunk",
+     "region": "DE",
+     "weight": 0.95,
+     "title": "COP31 - Inselstaaten sehen in der Klimakrise ihr Überleben bedroht",
+     "summary": "Auf der Weltklimakonferenz in Antalya hat der Inselstaat Seychellen die Klimakrise als existenzbedrohend bezeichnet.",
+     "link": "https://www.deutschlandfunk.de/inselstaaten-sehen-in-der-klimakrise-ihr-ueberleben-bedroht-106.html",
+     "image": "https://bilder.deutschlandfunk.de/FI/LE/_7/b6/FILE_7b6b735641220d7a669a2fb066f95b5e/imago71356934h-jpg-100-768x768.jpg",
+     "aggregator": false,
+     "published": "2026-11-13T07:04:59+00:00"
+    }
+   ]
+  },
+  {
+   "id": 24,
+   "score": 7.65,
+   "outlets": [
+    "tagesschau Ausland",
+    "SRF News"
+   ],
+   "regions": [
+    "CH",
+    "INT"
+   ],
+   "trend": [],
+   "newest": "2026-11-13T06:38:38+00:00",
+   "articles": [
+    {
+     "source": "tagesschau Ausland",
+     "region": "INT",
+     "weight": 1.0,
+     "title": "US-Repräsentantenhaus lehnt Amtsenthebungsverfahren gegen Hegseth ab",
+     "summary": "Ein Parteikollege hatte die Amtsenthebung von US-Verteidigungsminister Hegseth angestrebt - vor allem wegen des Iran-Kriegs. Nun haben die Republikaner im US-Repräsentantenhaus den Vorstoß beendet. Sie stimmten nahezu geschlossen dagegen.",
+     "link": "https://www.tagesschau.de/ausland/amerika/hegseth-amtsenthebungsverfahren-gestoppt-100.html",
+     "image": "https://images.tagesschau.de/image/07d2895d-fb71-4b0f-9548-d17caea53e00/AAABocqAedQ/AAABnSSvrFg/16x9-big/hegseth-156.jpg?width=1920",
+     "aggregator": false,
+     "published": "2026-11-11T00:19:26+00:00"
+    },
+    {
+     "source": "SRF News",
+     "region": "CH",
+     "weight": 0.95,
+     "title": "Am US‑Veteranentag – Hegseth ehrt Soldat für Rüge seiner eigenen Besuchergruppe",
+     "summary": "US-Verteidigungsminister Hegseth wurde wegen unangemessenen Verhaltens am Nationalfriedhof in Arlington zurechtgewiesen.",
+     "link": "https://www.srf.ch/news/international/am-us-veteranentag-hegseth-ehrt-soldat-fuer-ruege-seiner-eigenen-besuchergruppe",
+     "image": "https://www.srf.ch/static/cms/images//320ws/45833f2.webp",
+     "aggregator": false,
+     "published": "2026-11-13T06:38:38+00:00"
+    },
+    {
+     "source": "SRF News",
+     "region": "CH",
+     "weight": 0.95,
+     "title": "Amtsenthebung gescheitert – Trump triumphiert und Hegseth atmet auf",
+     "summary": "Das US-Repräsentantenhaus hat ein Amtsenthebungsverfahren gegen Verteidigungsminister Pete Hegseth verhindert.",
+     "link": "https://www.srf.ch/news/international/amtsenthebung-gescheitert-trump-triumphiert-und-hegseth-atmet-auf",
+     "image": "https://www.srf.ch/static/cms/images//320ws/e7ff97.webp",
+     "aggregator": false,
+     "published": "2026-11-11T04:57:37+00:00"
+    }
+   ]
+  },
+  {
+   "id": 25,
+   "score": 7.5,
+   "outlets": [
+    "ZEIT ONLINE",
+    "Handelsblatt"
+   ],
+   "regions": [
+    "DE"
+   ],
+   "trend": [],
+   "newest": "2026-11-13T07:05:26+00:00",
+   "articles": [
+    {
+     "source": "ZEIT ONLINE",
+     "region": "DE",
+     "weight": 0.9,
+     "title": "ZDF-«Politbarometer»: Umfrage: AfD wieder deutlicher vor Union",
+     "summary": "",
+     "link": "https://www.zeit.de/news/2026-11/13/umfrage-afd-wieder-deutlicher-vor-union",
+     "image": "https://img.zeit.de/news/2026-11/13/umfrage-afd-wieder-deutlicher-vor-union-image-group/original__640x360",
+     "aggregator": false,
+     "published": "2026-11-13T07:05:26+00:00"
+    },
+    {
+     "source": "Handelsblatt",
+     "region": "DE",
+     "weight": 0.9,
+     "title": "ZDF-„Politbarometer“: Umfrage: AfD wieder deutlicher vor Union",
+     "summary": "Zuletzt hatte die Union im ZDF-„Politbarometer“ den Rückstand auf die AfD etwas verkleinern können. Jetzt geht es wieder in die andere Richtung.",
+     "link": "https://www.handelsblatt.com/politik/deutschland/zdf-politbarometer-umfrage-afd-wieder-deutlicher-vor-union/100269624.html",
+     "image": "https://images.handelsblatt.com/qKHZX04saNFo/cover/900/506/0/0/107/106/0.5/0.5/bundestag.jpg",
+     "aggregator": false,
+     "published": "2026-11-13T07:05:26+00:00"
+    }
+   ]
+  },
+  {
+   "id": 26,
+   "score": 7.5,
+   "outlets": [
+    "Deutschlandfunk",
+    "WirtschaftsWoche"
+   ],
+   "regions": [
+    "DE"
+   ],
+   "trend": [],
+   "newest": "2026-11-13T07:04:59+00:00",
+   "articles": [
+    {
+     "source": "Deutschlandfunk",
+     "region": "DE",
+     "weight": 0.95,
+     "title": "Bundestag - Geringerer Bundeszuschuss zu Netzentgelten",
+     "summary": "Der Bundestag hat beschlossen, dass es weiter einen Zuschuss zu den Netzentgelten geben soll.",
+     "link": "https://www.deutschlandfunk.de/geringerer-bundeszuschuss-zu-netzentgelten-102.html",
+     "image": "https://bilder.deutschlandfunk.de/f9/3a/ca/41/f93aca41-a2da-45d0-9a29-6797671f5e4c/bundestag-162-1920x1920.jpg",
+     "aggregator": false,
+     "published": "2026-11-13T07:04:59+00:00"
+    },
+    {
+     "source": "WirtschaftsWoche",
+     "region": "DE",
+     "weight": 0.85,
+     "title": "Energiepreise: Geringerer Bundeszuschuss zu Netzentgelten – höhere Kosten für Strom- und Gaskunden erwartet",
+     "summary": "Die Bundesregierung muss sparen. Das trifft auch den staatlichen Zuschuss zu den Übertragungsnetzkosten. Sie bestimmen den Strompreis maßgeblich mit.",
+     "link": "https://www.wiwo.de/politik/deutschland/energiepreise-geringerer-bundeszuschuss-zu-netzentgelten-hoehere-kosten-fuer-strom-und-gaskunden-erwartet/100269605.html",
+     "image": "https://images.wiwo.de/uJBLK01E6wbU/cover/900/506/0/0/315/315/0.5/0.5/archiv-19.01.2016-hessen-nieste-strommasten-in-der-morgendaemmerung-auf-einem-feld.-zu-dpa-ge.jpg",
+     "aggregator": false,
+     "published": "2026-11-13T06:02:21+00:00"
+    }
+   ]
+  },
+  {
+   "id": 27,
+   "score": 7.43,
+   "outlets": [
+    "SRF News",
+    "heise online"
+   ],
+   "regions": [
+    "CH",
+    "DE"
+   ],
+   "trend": [],
+   "newest": "2026-11-13T06:53:13+00:00",
+   "articles": [
+    {
+     "source": "SRF News",
+     "region": "CH",
+     "weight": 0.95,
+     "title": "Software-Riese Microsoft – Ausfälle bei Outlook und Teams dauern an",
+     "summary": "Betroffen ist der Cloud-Dienst Microsoft 365 – dazu gehören unter anderem Outlook, Teams oder der KI-Assistent Copilot.",
+     "link": "https://www.srf.ch/news/wirtschaft/software-riese-microsoft-ausfaelle-bei-outlook-und-teams-dauern-an",
+     "image": "https://www.srf.ch/static/cms/images//320ws/e87ada.webp",
+     "aggregator": false,
+     "published": "2026-11-13T06:53:13+00:00"
+    },
+    {
+     "source": "heise online",
+     "region": "DE",
+     "weight": 0.85,
+     "title": "Microsoft-365-Störung: Serverausfälle legen Teams, Exchange und Copilot lahm",
+     "summary": "Eine Störung bei Microsoft 365 beeinträchtigt weltweit zahlreiche Cloud-Dienste wie Exchange Online, Teams, SharePoint, Copilot und Defender XDR.",
+     "link": "https://www.heise.de/news/Microsoft-365-Stoerung-Serverausfaelle-legen-Teams-Exchange-und-Copilot-lahm-11523565.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
+     "image": null,
+     "aggregator": false,
+     "published": "2026-11-12T21:01:00+00:00"
+    }
+   ]
+  }
+ ]
+}
