@@ -23,3 +23,4 @@ Schweiz 94 Prozent, Deutschland 52 Prozent: Split-Screen ICE vs. SBB, Zahl zähl
 - Facebook ✓ Video 1916978156338039 (geplant)
 - twitter ✗ Buffer createPost: Invalid post: Video must be no longer than 2m 20s for X (Twitter).
 - tiktok ✓ 6af71d314f78da1d8ba978cb
+- twitter ✓ 6af71e751cbca7cd9c3fb39d
