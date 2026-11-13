@@ -1,0 +1,23 @@
+{
+  "format": "single",
+  "candidate_id": 5,
+  "pillar": "POLITIK", "region": "DE", "kicker": "GEHEIMDIENSTE",
+  "hook_screen": "BND SOLL SABOTIEREN",
+  "hook_voice": "BND soll im Ausland sabotieren dürfen.",
+  "beats": [
+    {"voice": "Heimlich Wohnungen betreten, Datenströme blockieren, Server lahmlegen – das sollen BND und Verfassungsschutz künftig dürfen.", "big": "SERVER AUS", "label": "neue Befugnisse für die Geheimdienste"},
+    {"voice": "Innenminister Dobrindt nennt die Reform ein Jahrhundertwerk. Er will echte Geheimdienste. Kritiker sprechen von einem Monster.", "big": "MONSTER?", "label": "Jahrhundertwerk oder Monster"},
+    {"voice": "Die Dienste sollen sich so besser gegen Sabotage, Spionage und Cyberangriffe wehren.", "big": "SABOTAGE", "label": "Abwehr von Spionage und Cyberangriffen"},
+    {"voice": "Der Bundestag stimmt heute abschließend über die Reform ab.", "big": "HEUTE", "label": "Bundestag entscheidet abschließend"}
+  ],
+  "loop_line": "Mehr Schutz für Deutschland – oder zu viel Macht für den BND?",
+  "headline": "BND soll im Ausland sabotieren", "highlight": ["BND"],
+  "entities": ["Bundesnachrichtendienst", "Alexander Dobrindt", "Bundestag", "Bundesamt für Verfassungsschutz"],
+  "youtube_title": "BND soll sabotieren dürfen: Jahrhundertwerk oder Monster?",
+  "description_lead": "Der Bundestag stimmt heute abschließend über die Reform der Nachrichtendienste ab: BND und Verfassungsschutz sollen heimlich Wohnungen betreten, Datenströme blockieren und Server lahmlegen dürfen – der BND auch Sabotage im Ausland. Innenminister Dobrindt spricht von einem Jahrhundertwerk, Kritiker von einem Monster.",
+  "tags": ["BND", "Bundesnachrichtendienst", "Alexander Dobrindt", "Verfassungsschutz", "Bundestag", "Geheimdienstreform", "Geheimdienste", "Nachrichtendienste", "Sabotage", "Spionage", "Cyberangriffe", "Innere Sicherheit", "Überwachung", "Nachrichten aktuell"],
+  "hashtags": ["#bnd", "#geheimdienst", "#bundestag"],
+  "facebook_caption_line1": "Server lahmlegen, Wohnungen heimlich betreten: Bundestag stimmt heute über neue Macht für BND und Verfassungsschutz ab",
+  "facebook_question": "Brauchen die deutschen Geheimdienste mehr Befugnisse?",
+  "comment_question": "Mehr Befugnisse für den BND: Richtig oder zu viel Macht?"
+}
