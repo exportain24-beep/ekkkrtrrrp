@@ -1,23 +1,14 @@
 # EILBLICK FOKUS 2026-11-13
 
 Titel: Fast jeder zweite ICE zu spät: Warum die Bahn scheitert
-Dauer: 8.83 min · 99 Bildwechsel · Ø 5.4 s
+Dauer: 8.91 min · 100 Bildwechsel · Ø 5.3 s
 Wörter: 1111
 
-Ersetzt (Fotofehler): https://youtu.be/yfVqQVR8WFg (geplant 13.11. 18:00 Berlin)
+YouTube: https://youtu.be/OLzrxfBuKrI (geplant 13.11. 18:00 Berlin)
 - thumbnail ✓
 - captions ✓
-- comment ✗ YouTube comment failed 403: {
-  "error": {
-    "code": 403,
-    "message": "The comment thread could not be created due to insufficient permissions. The request
-- playlist ✗ playlistItem 409: {
-  "error": {
-    "code": 409,
-    "message": "The operation was aborted.",
-    "errors": [
-      {
-        "domain": "youtube.CoreErrorDomai
+- Kommentar + Playlist folgen nach der Premiere (python -m eilblick.longform after)
+- alte Version yfVqQVR8WFg gelöscht (204)
 
 ## Titel-Optionen
 - Fast jeder zweite ICE zu spät: Warum die Bahn scheitert
