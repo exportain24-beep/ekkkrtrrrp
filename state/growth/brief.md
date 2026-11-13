@@ -1,43 +1,36 @@
-# Growth-Brief – Do 12. Nov 2026, 13:42 Berlin (vidIQ, 30 Credits, Rest 5.410)
+# Growth-Brief – Fr 13. Nov 2026, 05:42 Berlin (vidIQ, 7 Calls, 35 Credits, Rest 5.295)
+FREEZE bis Audit 15. Nov gilt weiter: Brief = Themenwahl-Hilfe, keine Format-/Slot-Änderung.
 
 ## Eilblick
-- **22 Abos (+2 seit 05:41) · 38.340 Views (+1.984) · 72 Videos.** 7 Tage: +8 Abos, +21.839 Views, 40 Videos.
-- Letzte Uploads (Views · VPH): Iran droht US-Basen 1 (gerade online) · Blatter über Infantino 15 · 5,0 ·
-  Putin empfängt Kushner „Darf Europa jetzt mitverhandeln?" 35 · 5,8 · Huang „– wer übernimmt jetzt?" 36 · 5,1 ·
-  **EU Abo-Fallen „Setzt sich Brüssel durch?" 13 · 0,7 = schlechtester**.
-  **Bester: Habeck „Die Trump-Regierung hat die Ukraine verraten" 787 · 31,7 (Breakout 6,1)**; davor Fall Fabian 1.616 · 33,0 (8,2) ·
-  Merz/EU-Haushalts-Blockade 1.127 (12,8) · Italien 300 Schulen 347 · 16,5 (5,3).
-- Lektion: Heute früh wieder 2 von 3 mit Frage-Schwanz (Putin, Huang) bei 35–36 Views. Das Zitat allein reicht aber nicht
-  (Blatter 15): Gewinner = DACH-Bezug (Merz, Habeck, DE-Gericht) + Konfliktverb/Zitat. Ferne Personen ohne DE-Folge tragen nicht.
+- **22 Abos (±0 seit 12. Nov 13:42; +2 in 24 h) · 39.500 Views (+1.160 bzw. +3.144 in 24 h) · 77 Videos (+8).**
+- Uploads 12. Nov (Views · VPH): Iran droht US-Basen 179 · 10,5 · Stromsteuer/Merz 126 · 12,6 · IG Metall 97 · 6,5 · Blatter 80 · 4,2 ·
+  Huang-Rauswurf 65 · 2,8 · Putin/Kushner 55 · 2,5 · Dax 27.000 54 · 4,2 · Grenzkontrollen rechtswidrig 18 · 1,6.
+- Bestes: **Merz/Stromsteuer 12,6 VPH** (Name „Merz“ am Titelanfang). Schlechtestes: **Dobrindt-Grenzkontrollen 1,6 VPH**.
+- Lektion: Stromsteuer war bei uns ohne Namen tot (19), mit „Merz unter Druck“ jetzt Tagesbester; NIUS macht dasselbe Thema mit
+  24.204 Views („Geld für Panzer, nicht für Strom“) → **Person + Euro-Folge schlägt Sachthema.** Spätzünder bleiben: Habeck jetzt 1.373, Fabian 1.769.
 
-## Heißeste DACH-Themen in Shorts (seit 11. Nov, vidIQ)
-1. **Abgaben / LKW-Maut – wer zahlt?** LACROIX „Wer das Geld einsammelt, sollte auch sehen, wer dafür zahlt" 232,8K, **9.249 VPH**, 582 Komm.
-2. **Katherina Reiche (Wirtschaftsministerin)** – Diskurspunkt „Katherina Reiche macht klar, WER ihre Priorität ist" 112,8K, 4.962 VPH,
-   **1.238 Kommentare** (Kanal 35,9K). Ministerinnen-Aussage mit Zitat = Debattenstoff.
-3. **Standort / KI / Autoindustrie** – Rieck „KI-Nation bis 2030? …" 93,6K, 3.695 VPH · Kettner „Ohne chinesische Hilfe bald kein Auto
-   mehr aus Deutschland" 24,6K, 1.112 VPH · NIUS „BMW: Gewinn bricht um mehr als ein Drittel ein" 23,6K, 2,2x.
-4. **Klima / Greta Thunberg** – NIUS „Greta Thunberg lacht über Klima-Proteste in Deutschland" 61,5K, 3.899 VPH.
-5. **11.11. Karneval Köln** – „11.11. Ausnahmezustand in Köln" 64,4K, 3.218 VPH (Bilanz Polizei/Stadt, neutral).
-6. **Wehrdienst** – :newstime „Immer mehr Kriegsdienstverweigerer in Deutschland" 26,7K, 1.432 VPH, 192 Komm. (24 s!).
-7. **Füllkrug bricht ZDF-Interview ab** – ZDFheute 908,3K, **26x Breakout**, 7,7K VPH. Sport-Eklat mit Zitat läuft weiter.
-8. **Fall Lisa (13), Berlin** – ntv „„Reiner Zufall": Wie die Polizei die getötete Lisa fand" 343,6K, 17x, 5,9K VPH ·
-   :newstime 34,1K, 20x. Nur Ermittlungs-/Justizstand, keine Opfer-Details, keine Täter-Spekulation.
-   Weitere: Geld ab 2027 „💶 Mehr Geld ab 2027? Diese Änderungen …" 19,5K, 897 VPH · GKV/Privatkasse 23,6K, 1.049 VPH ·
-   Siegmund/Sachsen-Anhalt „Siegmund macht ernst: Erster Wahlgang?" 8K, 448 VPH, 20 % Engagement (neutral: Termin, Mehrheiten).
+## Heißeste DACH-Themen in Shorts (Daten vidIQ, seit 12. Nov)
+1. **Bundeswehr – Merch-Shop-Crash & Kritik:** ZDFheute 74.829 Views · 12.037 VPH (44 s). Leichtes, neues Bundeswehr-Thema (keine Wiederholung).
+2. **Bundeswehr-Studie Soldatinnen (~70 % berichten Belästigung):** WELT Netzreporter 45.100 · 2.200 VPH · 7,6x. ACHTUNG: wir hatten es 11. Nov (75 Views) → nur mit hartem neuem Fakt.
+3. **Merz unter Druck (Stromsteuer, Vertrauensfrage-Rufe):** Danny Danny 188.333 · 10.865 VPH; Finanzfuchs „Merz verlässt den Bundestag“ 69.125 · 3.356 VPH;
+   OOPS „Jetzt sofort Vertrauensfrage“ 32.829 · 3.474 VPH; NIUS Stromsteuer 24.204 · 1.989 VPH. → Nur belegte Fakten, keine Sturz-/Nachfolger-Gerüchte.
+4. **Deutschlandflagge vor dem Reichstag heruntergerissen:** AfD-Fraktion 402.742 · 21.422 VPH (höchste VPH). Neutral als Ereignis + Reaktionen aller Seiten berichten.
+5. **Wohnhaus in New York eingestürzt:** tagesschau 196.700 · 6.200 VPH · 2,6x (21 h alt). Weltereignis, Bild stark – ohne Opferbilder.
+6. **Ritter Sport vs. Quadrat-Riegel vor dem BGH:** ARD Marktcheck 98.422 · 6.020 VPH. Alltag/Verbraucher, „Darf Ritter Sport das verbieten?“ klappt.
+7. **Geld & Haushalt:** „Das plant die Regierung für dein Geld 💶“ (Herr Anwalt) 39.118 · 4.973 VPH; Entwicklungshilfe-Debatte 64.810 · 4.960 VPH. Euro-Zahl für Zuschauer nötig.
+8. **Sport-Eklat Füllkrug bricht ZDF-Interview ab:** 945.100 Views · 32x Breakout (9. Nov) – zeigt: Personen-Eklat mit Zitat zieht massiv.
+- Justiz/Kriminalfälle bleiben Top-Outlier (Hamburg Hafencity 122.600 · 76x; Fall Lisa ntv 345.800 · 17x) → nur mit gesicherten Ermittlungs-/Gerichtsfakten,
+  keine Opfer-Details, keine Herkunftsangaben, keine Gewaltbilder.
 
 ## Gewinner-Titelmuster (echte Titel)
-- **Name + „macht klar" + Spannungswort:** „Katherina Reiche macht klar, WER ihre Priorität ist" (5,0K VPH, 1.238 Komm.)
-- **Zitat + Name + Handlung:** „„Nee danke, ciao": Füllkrug bricht ZDF-Interview ab" (908K, 26x)
-- **Trend-Aussage mit Gruppe:** „Immer mehr Kriegsdienstverweigerer in Deutschland" (1,4K VPH)
-- Firmen-Fakt mit Zahl: „BMW: Gewinn bricht um mehr als ein Drittel ein" (2,2x).
-- Regel: erstes Wort = Name, starkes Verb, ≤ 60 Zeichen, Aussage statt Frage-Schwanz, nur verifizierte Zitate, DACH-Bezug.
+- „Crash und Kritik: Der neue Merch-Shop der Bundeswehr“ (ZDFheute, 12.037 VPH) → Zwei Schlagworte + Doppelpunkt + Institution.
+- „Streit ums Quadrat: Kann Ritter Sport das wirklich verbieten?“ (ARD, 6.020 VPH) → Konflikt-Label + Marke + Ja/Nein-Frage.
+- „Geld für Panzer, nicht für Strom: „Demütigung des Kanzlers““ (NIUS, 1.989 VPH) → Kontrast-Satz + Zitat.
+- Muster: Name/Marke in den ersten 3 Wörtern, Konflikt-Wort (Crash, Streit, droht, verraten), ≤ 60 Zeichen. Emoji-/Hashtag-Spam-Titel meiden.
 
-## Keywords (DE-Suchvolumen, vidIQ 12. Nov 05:41 – in diesem Lauf nicht neu abgefragt)
-nachrichten 52.338 · nachrichten aktuell 28.816 · welt nachrichten 2.878. Referenz 8. Nov: afd 95K · ukraine 65K · trump 63K · politik 18K.
-Tags aus Top-Videos: politik · news · nachrichten · aktuell · tagesaktuell · wirtschaft.
+## Keywords (vidIQ, YouTube-Suche DE)
+- nachrichten **51.917** · nachrichten aktuell **28.812** · welt nachrichten 2.892 (keine weiteren Treffer).
+- Hashtags der Gewinner: #nachrichten #politik #bundeswehr #nachrichtenaktuell. Personennamen im Titel wirken über die Suche (19 % Traffic).
 
-## Hinweise
-- Neutral bleiben: NIUS/AfD-nahe Kanäle liefern VPH-Daten, nicht die Tonalität. Keine Herkunfts-Zuspitzung, keine Gerüchte, keine Gewaltbilder.
-- Bewusst nicht übernommen: „US Stützpunkte in DE vor Angriff" (Spekulation), Migrations-Outlier (Herkunfts-Framing), Gastarbeiter-/Palästina-Clips.
-- Konkurrenz-Outlier (7 Kanäle, diese Woche): nur 1 Treffer (Füllkrug) – eineminutenachrichten „Ein angeschossener Polizist schaltete den
-  Attentäter aus!" 344,4K, 10x (Keyword-Suche).
+## Leitplanken
+Keine Herkunfts-/Nationalitäten-Zuspitzung (Kanaren-Route-, Abschiebe-Titel bewusst ausgelassen), keine Gerüchte (Merz-Sturz), keine Hetze, keine Gewaltbilder; Politik neutral.

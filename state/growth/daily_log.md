@@ -56,3 +56,4 @@
 - Bestes 12. Nov: Iran droht US-Basen YT 143 / FB 220 · Schlechtestes: Grenzkontrollen YT 8 (5 h) / Blatter FB 3.
 - vidIQ-Watch Co7Er77RFhc (Habeck): Name + „VERRAT!“ auf Frame 1, Fakt-Wechsel Sek. 3–4, Hochdeutsch fehlerfrei; nur Fotos.
 - vidIQ-Watch v1dyJz5ayWw (Abo-Fallen): Gebäude statt Gesicht, Themensprung Lootbox Sek. 2–5, unpassende Füllfotos; Deutsch korrekt.
+- 2026-11-13 05:42 Berlin · Growth-Brief A · Credits 5.295 · Abos 22 · Views 39.500 · Videos 77
