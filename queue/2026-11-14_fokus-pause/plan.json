@@ -1,0 +1,26 @@
+{
+  "format": "single",
+  "candidate_id": 0,
+  "pillar": "WELT",
+  "region": "INT",
+  "kicker": "SHENZHEN",
+  "hook_screen": "TRUMP, PUTIN, XI!",
+  "hook_voice": "Trump trifft Putin und Xi – zum ersten Mal zu dritt.",
+  "beats": [
+    {"voice": "Das Weiße Haus nennt den Termin: kommender Donnerstag, beim Apec-Gipfel im chinesischen Shenzhen.", "big": "DONNERSTAG", "label": "Dreiertreffen beim Apec-Gipfel in China"},
+    {"voice": "Hauptthema laut Weißem Haus: der Abbau von Atomwaffen. Auch der Iran-Krieg könnte zur Sprache kommen.", "big": "ATOMWAFFEN", "label": "Hauptthema: Abbau von Atomwaffen"},
+    {"voice": "Das Treffen gilt als historisch. Bisher sprachen die drei Atommächte nur zu zweit miteinander.", "big": "1. MAL", "label": "bisher nur Gespräche zu zweit"},
+    {"voice": "Peking agiert vorsichtig. China will nicht den Eindruck erwecken, sich zu stark in den Ukraine-Krieg einzumischen.", "big": "UKRAINE", "label": "China will sich nicht zu stark einmischen"}
+  ],
+  "loop_line": "Europa sitzt nicht mit am Tisch – entscheiden die drei ohne uns?",
+  "headline": "Trump trifft Putin und Xi in China",
+  "highlight": ["Putin", "Xi"],
+  "entities": ["Donald Trump", "Wladimir Putin", "Xi Jinping", "Shenzhen"],
+  "youtube_title": "Trump trifft Putin und Xi: Entscheiden sie jetzt ohne Europa?",
+  "description_lead": "US-Präsident Donald Trump, Kremlchef Wladimir Putin und Chinas Staatschef Xi Jinping wollen sich laut Weißem Haus erstmals zu dritt treffen – am kommenden Donnerstag beim Apec-Gipfel in Shenzhen. Hauptthema ist der Abbau von Atomwaffen, auch der Iran-Krieg könnte zur Sprache kommen; Europa sitzt nicht mit am Tisch.",
+  "tags": ["Donald Trump", "Wladimir Putin", "Xi Jinping", "Weißes Haus", "Shenzhen", "Apec-Gipfel", "China", "Russland", "USA", "Atomwaffen", "Abrüstung", "Ukraine-Krieg", "Iran-Krieg", "Dreiertreffen", "Nachrichten aktuell"],
+  "hashtags": ["#trump", "#putin", "#politik"],
+  "facebook_caption_line1": "Historisch: Trump, Putin und Xi wollen sich erstmals zu dritt treffen – Europa ist nicht dabei.",
+  "facebook_question": "Kann ein Treffen der drei Atommächte die Welt sicherer machen – oder wird Europa übergangen?",
+  "comment_question": "Bringt das Dreiertreffen mehr Sicherheit – ja oder nein?"
+}
