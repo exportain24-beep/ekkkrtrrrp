@@ -1,0 +1,26 @@
+{
+  "format": "single",
+  "candidate_id": 3,
+  "pillar": "WELT",
+  "region": "INT",
+  "kicker": "FLUGCHAOS USA",
+  "hook_screen": "FLUGSTOPP USA!",
+  "hook_voice": "USA stoppen jeden Start – auch Flüge aus Europa fallen aus.",
+  "beats": [
+    {"voice": "Tausende Flüge fielen aus, Zehntausende Passagiere saßen an den Flughäfen fest. Auch alle Verbindungen aus Europa wurden ausgesetzt.", "big": "TAUSENDE", "label": "Flüge gestrichen, Zehntausende gestrandet"},
+    {"voice": "Einen landesweiten Startstopp gab es zuletzt nach den Anschlägen vom elften September zweitausendeins.", "big": "9/11", "label": "Letzter Stopp dieser Art: 2001"},
+    {"voice": "US-Verkehrsminister Duffy spricht von Problemen in allen Flugsicherungszentralen. Die Regierung macht veraltete Technik verantwortlich.", "big": "ALT-TECHNIK", "label": "Regierung: veraltete Systeme schuld"},
+    {"voice": "Nach rund vier Stunden hob die Luftfahrtbehörde FAA das Verbot auf. Der Flugverkehr läuft wieder an.", "big": "4 STUNDEN", "label": "Dann hob die FAA das Verbot auf"}
+  ],
+  "loop_line": "Doch die alte Technik bleibt – stoppen die USA bald wieder jeden Start?",
+  "headline": "USA stoppen alle Flüge",
+  "highlight": ["Flüge"],
+  "entities": ["Federal Aviation Administration", "Sean Duffy", "Flughafen"],
+  "youtube_title": "USA stoppen alle Flüge: Legt veraltete Technik alles lahm?",
+  "description_lead": "Die US-Luftfahrtbehörde FAA hat wegen Kommunikationsproblemen in der Flugsicherung alle Starts an US-Flughäfen gestoppt – auch Flüge aus Europa wurden ausgesetzt. Verkehrsminister Duffy und die Trump-Regierung machen veraltete Technik verantwortlich, nach rund vier Stunden wurde das Startverbot aufgehoben.",
+  "tags": ["FAA", "Flugstopp USA", "Startverbot", "Sean Duffy", "US-Flughäfen", "Flugsicherung", "Flugausfälle", "USA-Flüge", "Flüge aus Europa", "Flugchaos", "Luftverkehr", "Reisen", "Nachrichten", "Nachrichten aktuell"],
+  "hashtags": ["#flugchaos", "#usa", "#nachrichten"],
+  "facebook_caption_line1": "Totaler Flugstopp in den USA: Kein einziger Start – auch Flüge aus Europa ausgesetzt.",
+  "facebook_question": "Wie sehr verlassen Sie sich noch auf pünktliche Flüge in die USA?",
+  "comment_question": "Würden Sie trotz solcher Pannen jetzt noch in die USA fliegen – ja oder nein?"
+}
