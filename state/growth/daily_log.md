@@ -69,3 +69,4 @@
 - Schlechtestes 13. Nov: Quantum-4er YT 51 / FB 12 · BND 54 / 1 · BVB-Rheinmetall FB 1.
 - vidIQ-Watch ToBjvWr0RMI (Klingbeil): „560 MILLIARDEN!“ + Stromsteuer-Schmerz Sek. 0–3, Hochdeutsch fehlerfrei, nur statische Fotos.
 - vidIQ-Watch jLQq8ZPuPlQ (Quantum-4er): 2 s Marken-Titelkarte, Zähler 1/4, textlastig; Deutsch fehlerfrei.
+- 2026-11-14 05:45 Berlin · Growth-Brief A · Credits 5.190 · Abos 24 · Views 42.694 · Videos 89 · Top: Rente/Altersarmut, CDU-Austritt, Putin↔EU
