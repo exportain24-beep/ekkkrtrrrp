@@ -1,0 +1,40 @@
+{
+ "date": "2026-11-14",
+ "slot": "morgen",
+ "publish_at": "2026-11-14T06:00:00+00:00",
+ "title": "Tanker rammt Kreuzfahrtschiff: „Wie auf der Titanic“",
+ "duration": 49.8,
+ "stories": [
+  {
+   "headline": "Tanker rammt Kreuzfahrtschiff",
+   "region": "INT",
+   "pillar": "WELT"
+  },
+  {
+   "headline": "EU-Team für Russland-Gespräche steht",
+   "region": "EU",
+   "pillar": "POLITIK"
+  },
+  {
+   "headline": "Geheimdienste dürfen zurückhacken",
+   "region": "DE",
+   "pillar": "POLITIK"
+  },
+  {
+   "headline": "DFB-Elf siegt 3:1 in Serbien",
+   "region": "DE",
+   "pillar": "WELT"
+  }
+ ],
+ "comment": {
+  "text": "Ja oder nein: Würden Sie nach diesem Unglück noch eine Flusskreuzfahrt buchen?",
+  "done": false
+ },
+ "youtube_id": "gy05rmV7vVQ",
+ "facebook_id": "2186648598553701",
+ "buffer": {
+  "twitter": "6af7e3e94b28296eb134ad09",
+  "tiktok": "6af7e3e997efac0554da87c6"
+ },
+ "created": "2026-11-14T04:30:34.003412+00:00"
+}
