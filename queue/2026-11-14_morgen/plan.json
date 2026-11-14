@@ -1,0 +1,101 @@
+{
+  "stories": [
+    {
+      "candidate_id": 0,
+      "pillar": "WELT",
+      "region": "INT",
+      "kicker": "NEW ORLEANS",
+      "headline": "Tanker rammt Kreuzfahrtschiff",
+      "highlight": [
+        "Kreuzfahrtschiff"
+      ],
+      "voice": "New Orleans: Die American Heritage kenterte, mehrere Passagiere stürzten in den Mississippi. Eine Passagierin: „Wie auf der Titanic.“ Niemand wird vermisst.",
+      "subline": "32 Leichtverletzte – Behörden sprechen von einem Wunder",
+      "entities": [
+        "New Orleans",
+        "Mississippi River",
+        "Port of New Orleans"
+      ]
+    },
+    {
+      "candidate_id": 6,
+      "pillar": "POLITIK",
+      "region": "EU",
+      "kicker": "DUBLIN",
+      "headline": "EU-Team für Russland-Gespräche steht",
+      "highlight": [
+        "EU-Team"
+      ],
+      "voice": "Europas Verhandlungsteam für Russland steht: Deutschland, Frankreich, Großbritannien, Italien und Polen vertreten Europa mit den EU-Institutionen. Namen nannte der Gipfel in Dublin nicht.",
+      "subline": "Fünf Länder und die EU sollen bei Ukraine-Gesprächen mitreden",
+      "entities": [
+        "António Costa",
+        "Dublin",
+        "Europäischer Rat"
+      ]
+    },
+    {
+      "candidate_id": 4,
+      "pillar": "POLITIK",
+      "region": "DE",
+      "kicker": "BERLIN",
+      "headline": "Geheimdienste dürfen zurückhacken",
+      "highlight": [
+        "zurückhacken"
+      ],
+      "voice": "Bundestag gibt BND und Verfassungsschutz deutlich mehr Befugnisse: Bei drohender Sabotage dürfen sie selbst zurückhacken. Kritiker warnen vor Grundrechtsbrüchen, etwa durch Wohnungseinbrüche.",
+      "subline": "Bundestag beschließt umstrittene Geheimdienstreform",
+      "entities": [
+        "Bundestag",
+        "Bundesnachrichtendienst",
+        "Bundesamt für Verfassungsschutz"
+      ]
+    },
+    {
+      "candidate_id": 26,
+      "pillar": "WELT",
+      "region": "DE",
+      "kicker": "BELGRAD",
+      "headline": "DFB-Elf siegt 3:1 in Serbien",
+      "highlight": [
+        "3:1"
+      ],
+      "voice": "Klopps DFB-Elf gewinnt drei zu eins in Serbien, im Dauerregen von Belgrad. Debütant Gruda überzeugt. Im Nations-League-Gruppenfinale warten jetzt die Niederlande.",
+      "subline": "Serbien mit zwei Roten Karten – Finale gegen die Niederlande",
+      "entities": [
+        "Jürgen Klopp",
+        "Deutsche Fußballnationalmannschaft",
+        "Belgrad"
+      ]
+    }
+  ],
+  "hook_text": "Tanker rammt Kreuzfahrtschiff",
+  "hook_voice": "Tanker rammt Kreuzfahrtschiff – über hundertdreißig Menschen gerettet.",
+  "youtube_title": "Tanker rammt Kreuzfahrtschiff: „Wie auf der Titanic“",
+  "description_lead": "In New Orleans hat ein Tanker das Flusskreuzfahrtschiff American Heritage auf dem Mississippi gerammt – das Schiff kenterte, 32 Menschen wurden leicht verletzt, niemand wird vermisst. Außerdem: Europas Verhandlungsteam für Gespräche mit Russland steht, der Bundestag beschließt die Geheimdienstreform für BND und Verfassungsschutz, und die DFB-Elf von Jürgen Klopp gewinnt 3:1 in Serbien.",
+  "tags": [
+    "New Orleans",
+    "American Heritage",
+    "Mississippi",
+    "Schiffsunglück",
+    "Kreuzfahrtschiff",
+    "Tanker",
+    "Ukraine-Verhandlungen",
+    "EU-Gipfel Dublin",
+    "Geheimdienstreform",
+    "BND",
+    "Verfassungsschutz",
+    "Jürgen Klopp",
+    "DFB-Elf",
+    "Serbien",
+    "nachrichten aktuell"
+  ],
+  "hashtags": [
+    "#neworleans",
+    "#schiffsunglück",
+    "#nachrichten"
+  ],
+  "facebook_caption_line1": "„Wie auf der Titanic“: Tanker rammt Kreuzfahrtschiff in New Orleans – mehr als 130 Menschen an Bord, niemand vermisst",
+  "facebook_question": "Wie sicher sind Flusskreuzfahrten Ihrer Meinung nach?",
+  "comment_question": "Ja oder nein: Würden Sie nach diesem Unglück noch eine Flusskreuzfahrt buchen?"
+}
