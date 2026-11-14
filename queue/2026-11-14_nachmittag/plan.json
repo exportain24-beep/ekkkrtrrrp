@@ -1,0 +1,68 @@
+{
+  "format": "single",
+  "candidate_id": 1,
+  "pillar": "WELT",
+  "region": "EU",
+  "kicker": "KIEW",
+  "hook_screen": "NATO GEGEN DONBASS?",
+  "hook_voice": "Selenskyj: USA bieten Nato-Beitritt gegen den Donbass.",
+  "beats": [
+    {
+      "voice": "Erstmals sei diese Frage überhaupt gestellt worden, sagt der ukrainische Präsident. Doch Kiew will sein Gebiet nicht räumen.",
+      "big": "1. MAL",
+      "label": "Kiew will sich nicht zurückziehen"
+    },
+    {
+      "voice": "US-Unterhändler machten den Vorstoß in der jüngsten Verhandlungsrunde mit Russland. Die Nato sei wieder auf der Tagesordnung.",
+      "big": "USA",
+      "label": "Vorstoß aus der jüngsten Verhandlungsrunde"
+    },
+    {
+      "voice": "Selenskyj bringt zugleich ein Referendum ins Spiel: Die Ukrainer könnten selbst über den Tausch entscheiden.",
+      "big": "REFERENDUM",
+      "label": "Volksabstimmung über den Gebietsverzicht?"
+    },
+    {
+      "voice": "Putin müsste ebenfalls mitspielen. Dass Kiew und Moskau zustimmen, gilt derzeit als eher unwahrscheinlich.",
+      "big": "PUTIN?",
+      "label": "Zustimmung gilt als eher unwahrscheinlich"
+    }
+  ],
+  "loop_line": "Land gegen Nato – sagt die Ukraine am Ende doch Ja?",
+  "headline": "USA: Nato-Beitritt gegen Donbass",
+  "highlight": [
+    "Donbass"
+  ],
+  "entities": [
+    "Wolodymyr Selenskyj",
+    "Kiew",
+    "Nato",
+    "Donbass"
+  ],
+  "youtube_title": "Selenskyj: USA bieten Nato gegen Donbass – tauscht Kiew Land?",
+  "description_lead": "Die USA haben laut dem ukrainischen Präsidenten Wolodymyr Selenskyj erstmals eine Nato-Mitgliedschaft der Ukraine im Gegenzug für einen Verzicht auf den Donbass ins Gespräch gebracht. Kiew will sich nicht aus seinem Gebiet zurückziehen, Selenskyj bringt aber ein Referendum über die Frage ins Spiel.",
+  "tags": [
+    "Wolodymyr Selenskyj",
+    "Nato",
+    "Donbass",
+    "Ukraine",
+    "USA",
+    "Kiew",
+    "Wladimir Putin",
+    "Russland",
+    "Nato-Beitritt",
+    "Gebietsabtretung",
+    "Referendum",
+    "Friedensverhandlungen",
+    "Ukraine-Krieg",
+    "Nachrichten aktuell"
+  ],
+  "hashtags": [
+    "#ukraine",
+    "#nato",
+    "#politik"
+  ],
+  "facebook_caption_line1": "Brisanter US-Vorstoß: Nato-Beitritt für die Ukraine – aber nur ohne den Donbass.",
+  "facebook_question": "Darf ein Land Gebiete abgeben, um in die Nato zu kommen – oder ist das der falsche Weg zum Frieden?",
+  "comment_question": "Nato-Beitritt gegen den Donbass – sollte die Ukraine zustimmen: ja oder nein?"
+}
