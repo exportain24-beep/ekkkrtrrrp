@@ -1,0 +1,2188 @@
+{
+ "slot": {
+  "id": "fokus-top",
+  "format": "single",
+  "time": "22:00",
+  "label": "Fokus des Tages",
+  "focus": "Nur Tie-Breaker – immer zuerst die populärsten, meistberichteten Nachrichten. Bei Gleichstand bevorzugt: Die meistdiskutierte, überraschendste Meldung des Tages im DACH-Raum (jedes Ressort außer Sport-Ergebnissen und Promi-Klatsch), die für die Menschen hier spürbare Folgen hat.",
+  "notify_subscribers": false
+ },
+ "slot_time": "2026-11-14T22:00:00+01:00",
+ "date_text": "Samstag, 14. November 2026",
+ "already_published": [
+  "Mercedes stoppt Investitionen",
+  "Bundeswehr stoppt Drohnen nach Hack",
+  "Putin lässt Europa an den Tisch",
+  "Microsoft: Outlook und Teams gestört",
+  "VW verdient nur zwölf Euro pro Auto",
+  "Rekordhaushalt: 560 Milliarden Euro",
+  "BND soll im Ausland sabotieren",
+  "Russland droht WM-Gastgeber Deutschland",
+  "Auto von Julian Reichelt angezündet",
+  "BVB beendet Rheinmetall-Deal",
+  "Merz will an den Ukraine-Tisch",
+  "Klopp beendet Nmechas Kronen-Jubel",
+  "DHL erhöht die Paketpreise",
+  "USA stoppen alle Flüge",
+  "Tanker rammt Kreuzfahrtschiff",
+  "EU-Team für Russland-Gespräche steht",
+  "Geheimdienste dürfen zurückhacken",
+  "DFB-Elf siegt 3:1 in Serbien",
+  "Microsoft-Update stoppt Outlook, Teams",
+  "Linke-Chef verteidigt Emde-Verfahren",
+  "Musk unter Druck wegen Starlink",
+  "Trump trifft Putin und Xi in China",
+  "USA: Nato-Beitritt gegen Donbass",
+  "Bayern nimmt Abschied von Aiwanger",
+  "AfD schickt Berthold ins Rennen",
+  "Millionen bei Orbáns Ex-Minister",
+  "Nvidia-Skandal erreicht Trumps Kabinett"
+ ],
+ "candidates": [
+  {
+   "id": 0,
+   "score": 21.78,
+   "outlets": [
+    "tagesschau",
+    "Deutsche Welle",
+    "Deutschlandfunk",
+    "ORF",
+    "Handelsblatt",
+    "NZZ",
+    "WirtschaftsWoche",
+    "WELT",
+    "n-tv",
+    "Euronews"
+   ],
+   "regions": [
+    "AT",
+    "CH",
+    "DE",
+    "INT"
+   ],
+   "trend": [],
+   "newest": "2026-11-14T19:20:22+00:00",
+   "articles": [
+    {
+     "source": "tagesschau",
+     "region": "DE",
+     "weight": 1.0,
+     "title": "USA bieten Ukraine laut Selenskyj NATO-Beitritt bei Gebietsverzicht",
+     "summary": "Ein Rückzug aus dem Donbass im Tausch für einen NATO-Beitritt - das haben die USA der Ukraine nach Angaben Selenskyjs nahegelegt. Unter bestimmten Bedingungen würde er diese Frage in einem Referendum zur Abstimmung stellen, so der Präsident.",
+     "link": "https://www.tagesschau.de/ausland/europa/ukraine-usa-nato-gebietsverzicht-100.html",
+     "image": "https://images.tagesschau.de/image/38aae710-371d-4286-9a79-325f40e6837c/AAABodm4fQE/AAABnSSvrFg/16x9-big/wolodymyr-selenskyj-284.jpg?width=1920",
+     "aggregator": false,
+     "published": "2026-11-14T17:21:30+00:00"
+    },
+    {
+     "source": "tagesschau Ausland",
+     "region": "INT",
+     "weight": 1.0,
+     "title": "USA bieten Ukraine laut Selenskyj NATO-Beitritt bei Gebietsverzicht",
+     "summary": "Ein Rückzug aus dem Donbass im Tausch für einen NATO-Beitritt - das haben die USA der Ukraine nach Angaben Selenskyjs nahegelegt. Unter bestimmten Bedingungen würde er diese Frage in einem Referendum zur Abstimmung stellen, so der Präsident.",
+     "link": "https://www.tagesschau.de/ausland/europa/ukraine-usa-nato-gebietsverzicht-100.html",
+     "image": "https://images.tagesschau.de/image/38aae710-371d-4286-9a79-325f40e6837c/AAABodm4fQE/AAABnSSvrFg/16x9-big/wolodymyr-selenskyj-284.jpg?width=1920",
+     "aggregator": false,
+     "published": "2026-11-14T17:21:30+00:00"
+    },
+    {
+     "source": "Deutsche Welle",
+     "region": "INT",
+     "weight": 0.95,
+     "title": "Neue Impulse für NATO-Mitgliedschaft der Ukraine",
+     "summary": "Die USA haben nach Angaben des ukrainischen Präsidenten Wolodymyr Selenskyj einen NATO-Beitritt der Ukraine ins Spiel gebracht. Voraussetzung sei, dass die Ukraine die Donbass-Region im Osten aufgebe.",
+     "link": "https://www.dw.com/de/neue-impulse-für-nato-mitgliedschaft-der-ukraine/a-79948144?maca=de-rss-de-all-1119-xml-mrss",
+     "image": "https://static.dw.com/image/79931197_302.jpg",
+     "aggregator": false,
+     "published": "2026-11-14T13:36:00+00:00"
+    },
+    {
+     "source": "Deutschlandfunk",
+     "region": "DE",
+     "weight": 0.95,
+     "title": "Ukraine - Selenskyj: USA haben Gebietsabtretungen an Russland im Gegenzug für eine NATO-Mitgliedschaft ins Gespräch gebracht",
+     "summary": "Die USA haben nach Angaben des ukrainischen Präsidenten Selenskyj eine NATO-Mitgliedschaft seines Landes bei gleichzeitigen Gebietsabtretungen an Russland ins Gespräch gebracht.",
+     "link": "https://www.deutschlandfunk.de/selenskyj-usa-haben-gebietsabtretungen-an-russland-im-gegenzug-fuer-eine-nato-mitgliedschaft-ins-ges-100.html",
+     "image": "https://bilder.deutschlandfunk.de/54/48/fe/aa/5448feaa-710f-4b18-8d99-573ff6a166b9/selenskyj-186-1920x1920.jpg",
+     "aggregator": false,
+     "published": "2026-11-14T19:20:22+00:00"
+    },
+    {
+     "source": "ORF",
+     "region": "AT",
+     "weight": 0.95,
+     "title": "USA brachten NATO-Beitritt aufs Tapet",
+     "summary": "Die USA haben nach den Worten des ukrainischen Präsidenten Wolodymyr Selenskyj der Ukraine die NATO-Mitgliedschaft im Gegenzug für einen Gebietsverzicht in Aussicht gestellt. Selenskyj bekräftigte seine Haltung, dass Kiew nicht bereit sei, sich aus seinem Hoheitsgebiet zurückzuziehen – stellte gleichzeitig aber auch ein Referendum zu der Frage in den Raum.",
+     "link": "https://orf.at/stories/3448164/",
+     "image": null,
+     "aggregator": false,
+     "published": "2026-11-14T10:47:55+00:00"
+    },
+    {
+     "source": "ORF",
+     "region": "AT",
+     "weight": 0.95,
+     "title": "Selenskyj: USA schlugen NATO-Beitritt bei Gebietsverzicht vor",
+     "summary": "",
+     "link": "https://orf.at/stories/3448165/",
+     "image": null,
+     "aggregator": false,
+     "published": "2026-11-14T09:53:30+00:00"
+    },
+    {
+     "source": "Handelsblatt",
+     "region": "DE",
+     "weight": 0.9,
+     "title": "Ukraine: USA schlagen laut Selenskyj Donbass-Rückzug gegen Nato-Beitritt vor",
+     "summary": "US-Unterhändler haben laut Selenskyj einen Nato-Beitritt gegen einen Rückzug aus dem Donbass ins Spiel gebracht. Ob ein Referendum stattfindet, hängt von umfassenden Sicherheitshilfen ab.",
+     "link": "https://www.handelsblatt.com/politik/international/ukraine-usa-schlagen-laut-selenskyj-donbass-rueckzug-gegen-nato-beitritt-vor/100269908.html",
+     "image": "https://images.handelsblatt.com/AK1UlehnG0cf/cover/900/506/0/0/0/195/0.5/0.5/dpatopbilder-12.11.2026-irland-dublin-die-us-sonderbeauftragten-steve-witkoff-r-und-jared-kus.jpg",
+     "aggregator": false,
+     "published": "2026-11-14T15:38:32+00:00"
+    },
+    {
+     "source": "NZZ",
+     "region": "CH",
+     "weight": 0.9,
+     "title": "LIVE-TICKER - Krieg in der Ukraine: USA sollen Selenski Nato-Beitritt im Tausch gegen Rückzug aus Donbass vorgeschlagen haben +++ Ukrainischer Drohnenangriff tötet Familie in Westrussland",
+     "summary": "Seit über vier Jahren führt Russland Krieg gegen die Ukraine. Die wichtigsten Entwicklungen im Überblick.",
+     "link": "https://www.nzz.ch/international/krieg-in-der-ukraine-die-neusten-entwicklungen-im-liveticker-ld.10021245",
+     "image": "https://img-msp-prod.nzz.ch/2026/11/02/bafe975f-fb77-45b1-98e2-529fcbd1439b.jpg?width=200&height=200&fit=bounds&quality=75&auto=webp&crop=1812,1812,x1806,y0",
+     "aggregator": false,
+     "published": "2026-11-14T10:25:15+00:00"
+    }
+   ]
+  },
+  {
+   "id": 1,
+   "score": 19.19,
+   "outlets": [
+    "tagesschau",
+    "ZDFheute",
+    "Deutschlandfunk",
+    "SPIEGEL",
+    "ZEIT ONLINE",
+    "Süddeutsche",
+    "DER STANDARD",
+    "n-tv",
+    "DIE ZEIT"
+   ],
+   "regions": [
+    "AT",
+    "DE"
+   ],
+   "trend": [],
+   "newest": "2026-11-14T19:22:30+00:00",
+   "articles": [
+    {
+     "source": "tagesschau",
+     "region": "DE",
+     "weight": 1.0,
+     "title": "Ex-Arbeitsminister Hubertus Heil kandidiert für SPD-Vorsitz",
+     "summary": "Mitte Januar wird auf einem Bundesparteitag die komplette Führung der SPD neu gewählt. Ex-Arbeitsminister Heil hat laut ARD-Hauptstadtstudio jetzt als Erster offiziell seine Kandidatur für den Vorsitz angekündigt. Von Moritz Rödle.",
+     "link": "https://www.tagesschau.de/inland/innenpolitik/heil-spd-vorsitz-kandidatur-100.html",
+     "image": "https://images.tagesschau.de/image/5cdff6b6-d243-40c2-bc41-897b5aab9b1a/AAABodmGHmQ/AAABnSSvrFg/16x9-big/hubertus-heil-210.jpg?width=1920",
+     "aggregator": false,
+     "published": "2026-11-14T18:12:45+00:00"
+    },
+    {
+     "source": "tagesschau",
+     "region": "DE",
+     "weight": 1.0,
+     "title": "Moritz Rödle, ARD Berlin, über die Kandidatur von Hubertus Heil zum SPD-Vorsitz",
+     "summary": "Moritz Rödle, ARD Berlin, über die Kandidatur von Hubertus Heil zum SPD-Vorsitz",
+     "link": "https://www.tagesschau.de/tagesschau_20_uhr/video-1683974.html",
+     "image": "https://images.tagesschau.de/image/98b930bf-406f-4915-ba19-399858901989/AAABodtzM6g/AAABnSSvrFg/16x9-big/sendungsbild-1827620.jpg?width=1920",
+     "aggregator": false,
+     "published": "2026-11-14T19:05:40+00:00"
+    },
+    {
+     "source": "tagesschau Inland",
+     "region": "DE",
+     "weight": 1.0,
+     "title": "Ex-Arbeitsminister Hubertus Heil kandidiert für SPD-Vorsitz",
+     "summary": "Mitte Januar wird auf einem Bundesparteitag die komplette Führung der SPD neu gewählt. Ex-Arbeitsminister Heil hat laut ARD-Hauptstadtstudio jetzt als Erster offiziell seine Kandidatur für den Vorsitz angekündigt. Von Moritz Rödle.",
+     "link": "https://www.tagesschau.de/inland/innenpolitik/heil-spd-vorsitz-kandidatur-100.html",
+     "image": "https://images.tagesschau.de/image/5cdff6b6-d243-40c2-bc41-897b5aab9b1a/AAABodmGHmQ/AAABnSSvrFg/16x9-big/hubertus-heil-210.jpg?width=1920",
+     "aggregator": false,
+     "published": "2026-11-14T18:12:45+00:00"
+    },
+    {
+     "source": "ZDFheute",
+     "region": "DE",
+     "weight": 1.0,
+     "title": "Hubertus Heil kandidiert für SPD-Vorsitz",
+     "summary": "Hubertus Heil eröffnet das Rennen um den Vorsitz der SPD. Er kündigt als Erster offiziell seine Kandidatur an. Das schreibt der Ex-Arbeitsminister in einem Brief an die Partei.",
+     "link": "https://www.zdfheute.de/politik/deutschland/hubertus-heil-spd-partei-vorsitz-kandidatur-100.html",
+     "image": "https://www.zdfheute.de/assets/hubertus-heil-spd-104~384x216?cb=1794680831705",
+     "aggregator": false,
+     "published": "2026-11-14T18:26:00+00:00"
+    },
+    {
+     "source": "Deutschlandfunk",
+     "region": "DE",
+     "weight": 0.95,
+     "title": "Brief an die Partei - Früherer Arbeitsminister Hubertus Heil kandidiert für SPD-Vorsitz",
+     "summary": "Der frühere Bundesarbeitsminister Heil strebt den SPD-Vorsitz an. Er habe sich entschieden, beim Parteitag Mitte Januar in Bremen zu kandidieren, schreibt der 54-Jährige in einem Brief an die Landesverbände und den Parteivorstand.",
+     "link": "https://www.deutschlandfunk.de/frueherer-arbeitsminister-hubertus-heil-kandidiert-fuer-spd-vorsitz-100.html",
+     "image": "https://bilder.deutschlandfunk.de/32/d7/40/2c/32d7402c-a366-4128-9522-01d3c83528cb/bundesarbeitsminister-hubertus-heil-spd-104-1920x1920.jpg",
+     "aggregator": false,
+     "published": "2026-11-14T19:20:22+00:00"
+    },
+    {
+     "source": "SPIEGEL",
+     "region": "DE",
+     "weight": 0.9,
+     "title": "SPD: Hubertus Heil will für Parteivorsitz kandidieren",
+     "summary": "Bei der SPD zeichnet sich ein Machtkampf ab: Ex-Arbeitsminister Hubertus Heil will sich beim Bundesparteitag im Januar zum Chef der Sozialdemokraten wählen lassen. Damit wächst der Druck auf Amtsinhaber Lars Klingbeil.",
+     "link": "https://www.spiegel.de/politik/deutschland/spd-hubertus-heil-will-fuer-parteivorsitz-kandidieren-a-f9209fb9-0404-43be-b66d-b2207e7e6aaa#ref=rss",
+     "image": "https://cdn.prod.www.spiegel.de/images/78251e5b-556a-45ec-a9c3-0c5088f1c781_w520_r2.08_fpx67.33_fpy50.98.jpg",
+     "aggregator": false,
+     "published": "2026-11-14T18:28:00+00:00"
+    },
+    {
+     "source": "ZEIT ONLINE",
+     "region": "DE",
+     "weight": 0.9,
+     "title": "SPD-Vorsitz: Früherer Arbeitsminister Hubertus Heil kandidiert für den SPD-Vorsitz",
+     "summary": "Der frühere Arbeitsminister Hubertus Heil will SPD-Parteichef werden. Seine Bewerbung nutzte er für einen Angriff auf den aktuellen Vorsitzenden Lars Klingbeil.",
+     "link": "https://www.zeit.de/politik/deutschland/2026-11/frueherer-arbeitsminister-hubertus-heil-kandidiert-fuer-den-spd-vorsitz",
+     "image": "https://img.zeit.de/politik/deutschland/2026-11/hubertus-heil-spd-vorsitz-kandidieren-bild/original__640x360",
+     "aggregator": false,
+     "published": "2026-11-14T19:22:30+00:00"
+    },
+    {
+     "source": "Süddeutsche",
+     "region": "DE",
+     "weight": 0.9,
+     "title": "Bundespolitik: Hubertus Heil will für SPD-Vorsitz kandidieren",
+     "summary": "Der 54-Jährige will sich beim Parteitag Mitte Januar in Bremen zur Wahl stellen.",
+     "link": "https://www.sueddeutsche.de/politik/spd-hubertus-heil-li.3580581",
+     "image": "https://www.sueddeutsche.de/2026/11/14/a4bfb9ff-0bea-4e06-8765-1fd918e9962d.jpg?rect=114%2C0%2C1820%2C1365&width=1000&fm=jpg&q=60",
+     "aggregator": false,
+     "published": "2026-11-14T18:57:15+00:00"
+    }
+   ]
+  },
+  {
+   "id": 2,
+   "score": 19.18,
+   "outlets": [
+    "tagesschau",
+    "ZDFheute",
+    "Deutsche Welle",
+    "Deutschlandfunk",
+    "SRF News",
+    "Handelsblatt",
+    "DER STANDARD"
+   ],
+   "regions": [
+    "AT",
+    "CH",
+    "DE",
+    "INT"
+   ],
+   "trend": [],
+   "newest": "2026-11-14T19:20:22+00:00",
+   "articles": [
+    {
+     "source": "tagesschau",
+     "region": "DE",
+     "weight": 1.0,
+     "title": "Weißes Haus kündigt Dreiertreffen von Trump mit Putin und Xi an",
+     "summary": "Es wäre das erste Dreiertreffen der Staatschefs der USA, Russlands und Chinas. Laut Weißem Haus soll es beim kommenden Apec-Gipfel in Shenzhen stattfinden. Hauptthema: der Abbau von Atomwaffen. Auch der Iran-Krieg könnte zur Sprache kommen.",
+     "link": "https://www.tagesschau.de/ausland/amerika/treffen-trump-putin-xi-100.html",
+     "image": "https://images.tagesschau.de/image/9d3761e3-aa01-4a4b-a182-a99466c453f8/AAABodf8HlI/AAABnSSvrFg/16x9-big/matroschka-trump-putin-xi-100.jpg?width=1920",
+     "aggregator": false,
+     "published": "2026-11-14T03:18:01+00:00"
+    },
+    {
+     "source": "tagesschau Ausland",
+     "region": "INT",
+     "weight": 1.0,
+     "title": "Weißes Haus kündigt Dreiertreffen von Trump mit Putin und Xi an",
+     "summary": "Es wäre das erste Dreiertreffen der Staatschefs der USA, Russlands und Chinas. Laut Weißem Haus soll es beim kommenden Apec-Gipfel in Shenzhen stattfinden. Hauptthema: der Abbau von Atomwaffen. Auch der Iran-Krieg könnte zur Sprache kommen.",
+     "link": "https://www.tagesschau.de/ausland/amerika/treffen-trump-putin-xi-100.html",
+     "image": "https://images.tagesschau.de/image/9d3761e3-aa01-4a4b-a182-a99466c453f8/AAABodf8HlI/AAABnSSvrFg/16x9-big/matroschka-trump-putin-xi-100.jpg?width=1920",
+     "aggregator": false,
+     "published": "2026-11-14T03:18:01+00:00"
+    },
+    {
+     "source": "ZDFheute",
+     "region": "DE",
+     "weight": 1.0,
+     "title": "Weißes Haus: Trump trifft sich mit Putin und Xi in China",
+     "summary": "Erstmals sollen Trump, Xi und Putin nach Angaben des Weißen Hauses zu einem Dreiertreffen nächste Woche in China zusammenkommen. Es soll auch um Atomwaffen gehen.",
+     "link": "https://www.zdfheute.de/politik/ausland/usa-dreiertreffen-trump-xi-putin-china-100.html",
+     "image": "https://www.zdfheute.de/assets/26-apu29-10-trump-102~384x216?cb=1793976811157",
+     "aggregator": false,
+     "published": "2026-11-14T02:38:00+00:00"
+    },
+    {
+     "source": "Deutsche Welle",
+     "region": "INT",
+     "weight": 0.95,
+     "title": "Weißes Haus kündigt Dreiertreffen Trumps mit Xi und Putin an",
+     "summary": "Das gab es bislang noch nicht: Erstmals wollen US-Präsident Donald Trump, Chinas Staatschef Xi Jinping und Kremlchef Wladimir Putin zusammenkommen. Die Beratungen sind für den nächsten Donnerstag in China geplant.",
+     "link": "https://www.dw.com/de/weißes-haus-kündigt-dreiertreffen-trumps-mit-xi-und-putin-an/a-79946925?maca=de-rss-de-all-1119-xml-mrss",
+     "image": "https://static.dw.com/image/79946435_302.jpg",
+     "aggregator": false,
+     "published": "2026-11-14T09:19:00+00:00"
+    },
+    {
+     "source": "Deutschlandfunk",
+     "region": "DE",
+     "weight": 0.95,
+     "title": "Apec-Gipfel - US-Regierung: Trump trifft Putin und Xi am kommenden Donnerstag",
+     "summary": "Die US-Regierung hat Details zum geplanten Treffen von Präsident Trump mit dem russischen Staatschef Putin und Chinas Staatschef Xi mitgeteilt.",
+     "link": "https://www.deutschlandfunk.de/us-regierung-trump-trifft-putin-und-xi-am-kommenden-donnerstag-100.html",
+     "image": "https://bilder.deutschlandfunk.de/75/e8/a2/56/75e8a256-97dc-4f4c-a0e5-1b563bfdabe2/trump-xi-108-1920x1920.jpg",
+     "aggregator": false,
+     "published": "2026-11-14T19:20:22+00:00"
+    },
+    {
+     "source": "SRF News",
+     "region": "CH",
+     "weight": 0.95,
+     "title": "In China – Weisses Haus kündigt Dreiertreffen Trumps mit Xi und Putin an",
+     "summary": "Bislang gab es nur bilaterale Gespräche zwischen den Atommächten, das Treffen ist historisch.",
+     "link": "https://www.srf.ch/news/international/in-china-weisses-haus-kuendigt-dreiertreffen-trumps-mit-xi-und-putin-an",
+     "image": "https://www.srf.ch/static/cms/images//320ws/164f9e.webp",
+     "aggregator": false,
+     "published": "2026-11-14T06:15:43+00:00"
+    },
+    {
+     "source": "Handelsblatt",
+     "region": "DE",
+     "weight": 0.9,
+     "title": "Treffen am Rande des Gipfels: Trump trifft Xi und Putin in China",
+     "summary": "Es bahnt sich ein Dreiertreffen auf höchster Ebene zwischen den USA, China und Russland an. Was wird bei dem historischen Zusammenkommen besprochen?",
+     "link": "https://www.handelsblatt.com/politik/international/treffen-am-rande-des-gipfels-trump-trifft-xi-und-putin-in-china/100269826.html",
+     "image": "https://images.handelsblatt.com/hufo2WMLYDvu/cover/900/506/236/235/0/0/0.5/0.5/kombo-donald-trump-xi-jinping-und-wladimir-putin.jpg",
+     "aggregator": false,
+     "published": "2026-11-14T16:00:24+00:00"
+    },
+    {
+     "source": "DER STANDARD",
+     "region": "AT",
+     "weight": 0.85,
+     "title": "Zerstört Trump die Nato für Putin?",
+     "summary": "Wir sprechen über die inzwischen beendeten Verhandlungen zwischen der Ukraine und Russland",
+     "link": "https://www.derstandard.at/story/3000000348937/zerstoert-trump-die-nato-fuer-putin?ref=rss",
+     "image": "https://i.ds.at/BKkLCA/rs:fill:150:0/plain/lido-images/2026/11/11/6256fd83-eb68-444f-9692-a863bb81c8be.jpg",
+     "aggregator": false,
+     "published": "2026-11-12T15:20:04+00:00"
+    }
+   ]
+  },
+  {
+   "id": 3,
+   "score": 17.48,
+   "outlets": [
+    "tagesschau",
+    "Deutschlandfunk",
+    "ORF",
+    "SPIEGEL",
+    "Handelsblatt",
+    "NZZ",
+    "DER STANDARD"
+   ],
+   "regions": [
+    "AT",
+    "CH",
+    "DE",
+    "INT"
+   ],
+   "trend": [],
+   "newest": "2026-11-14T19:20:22+00:00",
+   "articles": [
+    {
+     "source": "tagesschau",
+     "region": "DE",
+     "weight": 1.0,
+     "title": "Korruptionsermittlungen in Ungarn: Millionen bei Ex-Minister entdeckt",
+     "summary": "Beim früheren ungarischen Entwicklungsminister Seszták sind im Rahmen von Korruptionsermittlungen mehr als 17 Millionen Euro Bargeld gefunden worden. Es lag vergraben in Wäldern, Scheunen und Lagerhallen. Sesták gehörte zur Orbán-Regierung.",
+     "link": "https://www.tagesschau.de/ausland/europa/ungarn-bargeldfund-sesztak-100.html",
+     "image": "https://images.tagesschau.de/image/867930c5-6af5-4266-b8ff-96fdefbbb509/AAABodrlKvI/AAABnSSvrFg/16x9-big/sendungsbild-1827536.jpg?width=1920",
+     "aggregator": false,
+     "published": "2026-11-14T16:31:06+00:00"
+    },
+    {
+     "source": "tagesschau Ausland",
+     "region": "INT",
+     "weight": 1.0,
+     "title": "Korruptionsermittlungen in Ungarn: Millionen bei Ex-Minister entdeckt",
+     "summary": "Beim früheren ungarischen Entwicklungsminister Seszták sind im Rahmen von Korruptionsermittlungen mehr als 17 Millionen Euro Bargeld gefunden worden. Es lag vergraben in Wäldern, Scheunen und Lagerhallen. Sesták gehörte zur Orbán-Regierung.",
+     "link": "https://www.tagesschau.de/ausland/europa/ungarn-bargeldfund-sesztak-100.html",
+     "image": "https://images.tagesschau.de/image/867930c5-6af5-4266-b8ff-96fdefbbb509/AAABodrlKvI/AAABnSSvrFg/16x9-big/sendungsbild-1827536.jpg?width=1920",
+     "aggregator": false,
+     "published": "2026-11-14T16:31:06+00:00"
+    },
+    {
+     "source": "Deutschlandfunk",
+     "region": "DE",
+     "weight": 0.95,
+     "title": "Nach Orbán - Ermittlungen gegen ehemaligen Minister: Ungarische Behörden finden 17,6 Millionen Euro in bar",
+     "summary": "In Ungarn sind die Behörden weiter gegen mutmaßliche Korruption unter dem früheren Ministerpräsidenten Orbán vorgegangen.",
+     "link": "https://www.deutschlandfunk.de/ermittlungen-gegen-ehemaligen-minister-ungarische-behoerden-finden-17-6-millionen-euro-in-bar-100.html",
+     "image": "https://bilder.deutschlandfunk.de/d5/bb/f2/8e/d5bbf28e-4d2f-4cbe-9ae2-3f059ee0e7b5/ungarn-sesztak-100-1920x1920.jpg",
+     "aggregator": false,
+     "published": "2026-11-14T19:20:22+00:00"
+    },
+    {
+     "source": "ORF",
+     "region": "AT",
+     "weight": 0.95,
+     "title": "Ungarische Ermittler finden Millionen Euro",
+     "summary": "Die in Ungarn neu geschaffene Antikorruptionsbehörde NVVH hat Bargeld im Wert von knapp 18 Millionen Euro gefunden. Die Geldbündel seien im Wald vergraben, Lagerhallen versteckt und in Tresoren gelagert gewesen. Der Fund betreffe Ermittlungen gegen den Ex-Minister der Regierung des früheren Premier Viktor Orban, Miklos Sesztak, teilte die Behörde gegenüber der Nachrichtenagentur MTI am Freitag mit.",
+     "link": "https://orf.at/stories/3448196/",
+     "image": null,
+     "aggregator": false,
+     "published": "2026-11-14T19:15:11+00:00"
+    },
+    {
+     "source": "ORF",
+     "region": "AT",
+     "weight": 0.95,
+     "title": "Ermittlungen gegen ungarischen Ex-Minister: Bargeld gefunden",
+     "summary": "",
+     "link": "https://orf.at/stories/3448162/",
+     "image": null,
+     "aggregator": false,
+     "published": "2026-11-14T09:21:45+00:00"
+    },
+    {
+     "source": "SPIEGEL",
+     "region": "DE",
+     "weight": 0.9,
+     "title": "Ungarn: Bei Korruptionsermittlungen gegen Ex-Minister 17,7 Millionen Euro sichergestellt",
+     "summary": "Im Wald vergraben, in Lagerhallen versteckt: Ungarns Antikorruptionsbehörde hat bei Ermittlungen gegen einen früheren Minister der Regierung Orbán Bargeld in Millionenhöhe gefunden – und stundenlang gezählt.",
+     "link": "https://www.spiegel.de/ausland/ungarn-bei-korruptionsermittlungen-gegen-ex-minister-17-7-millionen-euro-sichergestellt-a-388f3d15-9839-401e-85c8-9ae015ee2c6b#ref=rss",
+     "image": "https://cdn.prod.www.spiegel.de/images/ccf99677-7a90-45dd-97df-fbeab6c6ea0b_w520_r2.08_fpx80_fpy48.jpg",
+     "aggregator": false,
+     "published": "2026-11-14T16:01:00+00:00"
+    },
+    {
+     "source": "Handelsblatt",
+     "region": "DE",
+     "weight": 0.9,
+     "title": "Orbans Ex-Minister: Im Wald vergraben: Ermittler in Ungarn finden Millionen Euro",
+     "summary": "In Erdlöchern, Lagerhallen und Tresoren stoßen ungarische Ermittler auf Bargeld im Wert von 17,7 Millionen Euro. Die Spur führt zu einem früheren Minister – und setzt Orbans Partei unter Druck.",
+     "link": "https://www.handelsblatt.com/politik/international/orbans-ex-minister-im-wald-vergraben-ermittler-in-ungarn-finden-millionen-euro/100269922.html",
+     "image": "https://images.handelsblatt.com/q1svZJqEk75i/cover/900/506/0/0/107/106/0.5/0.5/ehemaliger-ungarischer-ministerpraesident-viktor-orban.jpg",
+     "aggregator": false,
+     "published": "2026-11-14T17:13:22+00:00"
+    },
+    {
+     "source": "NZZ",
+     "region": "CH",
+     "weight": 0.9,
+     "title": "Vergraben und versteckt: Ermittler in Ungarn finden Millionen Euro – die Spur führt zu einem früheren Minister",
+     "summary": "In Erdlöchern, Lagerhallen und Tresoren stossen ungarische Ermittler auf Bargeld im Wert von 17,7 Millionen Euro. Der Fund setzt Orbans Partei unter Druck.",
+     "link": "https://www.nzz.ch/international/vergraben-und-versteckt-ermittler-in-ungarn-finden-millionen-euro-die-spur-fuehrt-zu-einem-frueheren-minister-ld.10064198",
+     "image": "https://img-msp-prod.nzz.ch/2026/11/01/f2c11512-78e0-42ca-9d4f-4de25bc402b3.jpg?width=200&height=200&fit=bounds&quality=75&auto=webp&crop=3543,3543,x886,y0",
+     "aggregator": false,
+     "published": "2026-11-14T19:12:16+00:00"
+    }
+   ]
+  },
+  {
+   "id": 4,
+   "score": 15.42,
+   "outlets": [
+    "tagesschau",
+    "Deutsche Welle",
+    "ORF",
+    "SRF News",
+    "WELT",
+    "n-tv",
+    "tagesschau.de"
+   ],
+   "regions": [
+    "AT",
+    "CH",
+    "DE",
+    "INT"
+   ],
+   "trend": [],
+   "newest": "2026-11-14T19:09:19+00:00",
+   "articles": [
+    {
+     "source": "tagesschau",
+     "region": "DE",
+     "weight": 1.0,
+     "title": "Landesweites Startverbot für Flugzeuge in den USA wegen veralteter Kommunikationstechnik",
+     "summary": "Landesweites Startverbot für Flugzeuge in den USA wegen veralteter Kommunikationstechnik",
+     "link": "https://www.tagesschau.de/tagesschau_20_uhr/video-1683978.html",
+     "image": "https://images.tagesschau.de/image/065f567b-f66e-4f06-88be-fd06d3d02cd9/AAABodt2rjw/AAABnSSvrFg/16x9-big/sendungsbild-1827624.jpg?width=1920",
+     "aggregator": false,
+     "published": "2026-11-14T19:09:19+00:00"
+    },
+    {
+     "source": "tagesschau",
+     "region": "DE",
+     "weight": 1.0,
+     "title": "Was über das Startverbot für Flugzeuge in den USA bekannt ist",
+     "summary": "Es war der längste Ausfall des US-Flugbetriebs seit Jahrzehnten. Vier Stunden lang galt ein Startverbot. Warum - und mit welchen Folgen? Könnte in Deutschland Ähnliches geschehen? Ein Überblick.",
+     "link": "https://www.tagesschau.de/ausland/amerika/usa-flughaefen-startverbot-100.html",
+     "image": "https://images.tagesschau.de/image/430de89a-d037-4447-af56-b0ecf20dfc88/AAABodmaO38/AAABnSSvrFg/16x9-big/united-airlines-flugzeuge-100.jpg?width=1920",
+     "aggregator": false,
+     "published": "2026-11-14T18:49:48+00:00"
+    },
+    {
+     "source": "tagesschau",
+     "region": "DE",
+     "weight": 1.0,
+     "title": "Vorübergehendes Startverbot in den USA: \"Unglaublich veraltetes Flugsicherungssystem\"",
+     "summary": "Stundenlang durften in den USA keine Flugzeuge starten. Die Regierung macht veraltete Technik verantwortlich. Mittlerweile ist das Verbot wieder aufgehoben - doch wann sich der Flugverkehr normalisieren wird, ist unklar. Von Nina Barth.",
+     "link": "https://www.tagesschau.de/ausland/amerika/usa-ende-startverbot-flughaefen-100.html",
+     "image": "https://images.tagesschau.de/image/db3c732d-062f-452e-b840-ddd218f43e52/AAABodke9Pc/AAABnSSvrFg/16x9-big/flughafen-los-angeles-100.jpg?width=1920",
+     "aggregator": false,
+     "published": "2026-11-14T07:15:22+00:00"
+    },
+    {
+     "source": "tagesschau Ausland",
+     "region": "INT",
+     "weight": 1.0,
+     "title": "Was über das Startverbot für Flugzeuge in den USA bekannt ist",
+     "summary": "Es war der längste Ausfall des US-Flugbetriebs seit Jahrzehnten. Vier Stunden lang galt ein Startverbot. Warum - und mit welchen Folgen? Könnte in Deutschland Ähnliches geschehen? Ein Überblick.",
+     "link": "https://www.tagesschau.de/ausland/amerika/usa-flughaefen-startverbot-100.html",
+     "image": "https://images.tagesschau.de/image/430de89a-d037-4447-af56-b0ecf20dfc88/AAABodmaO38/AAABnSSvrFg/16x9-big/united-airlines-flugzeuge-100.jpg?width=1920",
+     "aggregator": false,
+     "published": "2026-11-14T18:49:48+00:00"
+    },
+    {
+     "source": "tagesschau Ausland",
+     "region": "INT",
+     "weight": 1.0,
+     "title": "Vorübergehendes Startverbot in den USA: \"Unglaublich veraltetes Flugsicherungssystem\"",
+     "summary": "Stundenlang durften in den USA keine Flugzeuge starten. Die Regierung macht veraltete Technik verantwortlich. Mittlerweile ist das Verbot wieder aufgehoben - doch wann sich der Flugverkehr normalisieren wird, ist unklar. Von Nina Barth.",
+     "link": "https://www.tagesschau.de/ausland/amerika/usa-ende-startverbot-flughaefen-100.html",
+     "image": "https://images.tagesschau.de/image/db3c732d-062f-452e-b840-ddd218f43e52/AAABodke9Pc/AAABnSSvrFg/16x9-big/flughafen-los-angeles-100.jpg?width=1920",
+     "aggregator": false,
+     "published": "2026-11-14T07:15:22+00:00"
+    },
+    {
+     "source": "Deutsche Welle",
+     "region": "INT",
+     "weight": 0.95,
+     "title": "News kompakt: Landesweites Startverbot an US-Flughäfen aufgehoben",
+     "summary": "Wegen technischer Probleme stoppt die US-Luftfahrtbehörde alle Starts an Flughäfen im Land. US-Präsident Trump plant einen historischen Dreiergipfel mit den Staatschefs Putin und Xi. Der DW-Nachrichtenüberblick.",
+     "link": "https://www.dw.com/de/news-kompakt-landesweites-startverbot-an-us-flughäfen-aufgehoben/a-79946821?maca=de-rss-de-all-1119-xml-mrss",
+     "image": "https://static.dw.com/image/79946152_302.jpg",
+     "aggregator": false,
+     "published": "2026-11-14T08:00:00+00:00"
+    },
+    {
+     "source": "ORF",
+     "region": "AT",
+     "weight": 0.95,
+     "title": "Verspätungen und Chaos auf US-Flughäfen",
+     "summary": "Auch wenn die US-Luftfahrtaufsicht (FAA) ein am Freitag wegen einer Computerpanne verhängtes landesweites Startverbot wieder aufgehoben hat, spüren derzeit noch Zehntausende Passagierinnen und Passagiere die Auswirkungen. Denn auf zahlreichen US-Flughäfen müssen Fluggäste weiterhin mit Verspätungen und Chaos rechnen. Auch Flüge aus und nach Europa waren von dem Flugstopp betroffen.",
+     "link": "https://orf.at/stories/3448134/",
+     "image": null,
+     "aggregator": false,
+     "published": "2026-11-14T07:31:04+00:00"
+    },
+    {
+     "source": "SRF News",
+     "region": "CH",
+     "weight": 0.95,
+     "title": "Landesweites Startverbot – Flugchaos in den USA: Was hinter dem seltenen Groundstop steckt",
+     "summary": "Warum eine Technikpanne den US-Flugverkehr lahmlegte: Die Einordnung von SRF-Korrespondentin Barbara Colpi.",
+     "link": "https://www.srf.ch/news/international/landesweites-startverbot-flugchaos-in-den-usa-was-hinter-dem-seltenen-groundstop-steckt",
+     "image": "https://www.srf.ch/static/cms/images//320ws/ed807f.webp",
+     "aggregator": false,
+     "published": "2026-11-14T08:35:59+00:00"
+    }
+   ]
+  },
+  {
+   "id": 5,
+   "score": 14.58,
+   "outlets": [
+    "tagesschau",
+    "Deutsche Welle",
+    "Deutschlandfunk",
+    "Süddeutsche"
+   ],
+   "regions": [
+    "DE",
+    "INT"
+   ],
+   "trend": [
+    "papst leo",
+    "Papst Leo in Südamerika: Eine Million Gläubige feiern Besuch in Peru"
+   ],
+   "newest": "2026-11-14T19:20:22+00:00",
+   "articles": [
+    {
+     "source": "tagesschau",
+     "region": "DE",
+     "weight": 1.0,
+     "title": "Papst Leo XIV. besucht frühere Diözese Chiclayo in Peru",
+     "summary": "Papst Leo XIV. besucht frühere Diözese Chiclayo in Peru",
+     "link": "https://www.tagesschau.de/tagesschau_20_uhr/video-1683984.html",
+     "image": "https://images.tagesschau.de/image/55e3f84f-0e42-46b1-973c-8beacac97972/AAABodt7OsA/AAABnSSvrFg/16x9-big/sendungsbild-1827634.jpg?width=1920",
+     "aggregator": false,
+     "published": "2026-11-14T19:14:17+00:00"
+    },
+    {
+     "source": "tagesschau",
+     "region": "DE",
+     "weight": 1.0,
+     "title": "Schlafender Passagier, Möwen in Travemünde, Papst Leo XIV.",
+     "summary": "Schlafender Passagier, Möwen in Travemünde, Papst Leo XIV.",
+     "link": "https://www.tagesschau.de/multimedia/bilder/blickpunkte-10566.html",
+     "image": "https://images.tagesschau.de/image/fb812ba2-f06b-4a9a-9836-422df7530b2b/AAABodlcsCE/AAABnSSvrFg/16x9-big/lincoln-schlafender-100.jpg?width=1920",
+     "aggregator": false,
+     "published": "2026-11-14T10:32:33+00:00"
+    },
+    {
+     "source": "Deutsche Welle",
+     "region": "INT",
+     "weight": 0.95,
+     "title": "Papst Leo XIV. zu Besuch in seinem früheren Bistum in Peru",
+     "summary": "Gut sieben Jahre war der heutige Papst Leo XIV. Bischof von Chiclayo in Peru. Im Rahmen seiner Südamerikareise kehrte er nun an seine alte Wirkungsstätte zurück - und wurde dort wie ein Popstar empfangen.",
+     "link": "https://www.dw.com/de/papst-leo-xiv-zu-besuch-in-seinem-früheren-bistum-in-peru/a-79947665?maca=de-rss-de-all-1119-xml-mrss",
+     "image": "https://static.dw.com/image/79947703_302.jpg",
+     "aggregator": false,
+     "published": "2026-11-14T11:28:00+00:00"
+    },
+    {
+     "source": "Deutsche Welle",
+     "region": "INT",
+     "weight": 0.95,
+     "title": "Begeisterter Empfang für Papst Leo XIV. in Peru",
+     "summary": "Für den Pontifex, der auch die peruanische Staatsbürgerschaft besitzt, ist die letzte Station seiner Lateinamerika-Reise ein Heimspiel. Doch im Beisein von Präsidentin Fujimori findet er mahnende Worte.",
+     "link": "https://www.dw.com/de/begeisterter-empfang-für-papst-leo-xiv-in-peru/a-79926779?maca=de-rss-de-all-1119-xml-mrss",
+     "image": "https://static.dw.com/image/79925065_302.jpg",
+     "aggregator": false,
+     "published": "2026-11-12T10:01:00+00:00"
+    },
+    {
+     "source": "Deutschlandfunk",
+     "region": "DE",
+     "weight": 0.95,
+     "title": "Peru - Papst Leo XIV. feiert Messe mit 500.000 Gläubigen",
+     "summary": "Papst Leo der Vierzehnte hat im Rahmen seiner Südamerikareise die peruanische Stadt Chiclayo besucht.",
+     "link": "https://www.deutschlandfunk.de/papst-leo-xiv-feiert-messe-mit-500-000-glaeubigen-100.html",
+     "image": "https://bilder.deutschlandfunk.de/9d/31/f4/ec/9d31f4ec-7c09-459c-b4aa-4e5f9a790eac/leo-papst-peru-100-1920x1920.jpg",
+     "aggregator": false,
+     "published": "2026-11-14T19:20:22+00:00"
+    },
+    {
+     "source": "Süddeutsche",
+     "region": "DE",
+     "weight": 0.9,
+     "title": "Papst in Lateinamerika: „Padre Roberto“ ist zurück in Peru",
+     "summary": "Hier war er Missionar und Bischof: Papst Leo XIV. wird in der peruanischen Stadt Chiclayo emotional empfangen. Aber auch ein dunkles Kapitel der Kirche begleitet ihn bis hierher.",
+     "link": "https://www.sueddeutsche.de/politik/papst-leo-xiv-peru-li.3577629",
+     "image": "https://www.sueddeutsche.de/2026/11/14/b729d91b-0ddd-4a86-bb31-ee07b398f2af.jpg?rect=167%2C0%2C2667%2C2000&width=1000&fm=jpg&q=60",
+     "aggregator": false,
+     "published": "2026-11-14T10:57:54+00:00"
+    }
+   ]
+  },
+  {
+   "id": 6,
+   "score": 14.41,
+   "outlets": [
+    "ORF",
+    "Süddeutsche",
+    "Handelsblatt",
+    "NZZ",
+    "DER STANDARD",
+    "WELT"
+   ],
+   "regions": [
+    "AT",
+    "CH",
+    "DE"
+   ],
+   "trend": [],
+   "newest": "2026-11-14T17:01:57+00:00",
+   "articles": [
+    {
+     "source": "ORF",
+     "region": "AT",
+     "weight": 0.95,
+     "title": "Medien: Demokraten gewinnen Gouverneurswahl in Alaska",
+     "summary": "",
+     "link": "https://orf.at/stories/3448192/",
+     "image": null,
+     "aggregator": false,
+     "published": "2026-11-14T15:55:28+00:00"
+    },
+    {
+     "source": "Süddeutsche",
+     "region": "DE",
+     "weight": 0.9,
+     "title": "US-Midterms: 37-jähriger Demokrat gewinnt Gouverneurswahl in Alaska",
+     "summary": "Jonathan Kreiss-Tomkins ist der erste demokratische Gouverneur in Alaska seit 1998. Mit seinem Wahlsieg werden die Demokraten künftig 30 der 50 Gouverneursposten in den USA besetzen.",
+     "link": "https://www.sueddeutsche.de/politik/usa-news-liveblog-midterms-alaska-kreiss-tomkins-li.3578585",
+     "image": "https://www.sueddeutsche.de/2026/11/14/7493ef3b-49dc-4806-bade-fa0ece6aa6f7.jpg?rect=195%2C0%2C3111%2C2333&width=1000&fm=jpg&q=60",
+     "aggregator": false,
+     "published": "2026-11-14T16:31:48+00:00"
+    },
+    {
+     "source": "Handelsblatt",
+     "region": "DE",
+     "weight": 0.9,
+     "title": "Erstmals seit 1998: Demokrat gewinnt Gouverneurswahl in Alaska",
+     "summary": "Nach zwei Amtszeiten durfte Alaskas republikanischer Gouverneur Michael Dunleavy nicht mehr antreten. Nun wurde erstmals seit 1998 wieder ein Demokrat zum Gouverneur gewählt.",
+     "link": "https://www.handelsblatt.com/politik/international/erstmals-seit-1998-demokrat-gewinnt-gouverneurswahl-in-alaska/100269916.html",
+     "image": "https://images.handelsblatt.com/VHJ1mq1WBeZz/cover/900/506/0/0/107/106/0.5/0.5/us-midterms-alaska.jpg",
+     "aggregator": false,
+     "published": "2026-11-14T15:53:15+00:00"
+    },
+    {
+     "source": "NZZ",
+     "region": "CH",
+     "weight": 0.9,
+     "title": "LIVE-TICKER - Die USA nach den Midterms: Demokrat gewinnt Gouverneurswahl in Alaska – erstmals wieder seit 1998",
+     "summary": "Die neuesten Meldungen aus der amerikanischen Innenpolitik im Ticker.",
+     "link": "https://www.nzz.ch/international/us-innenpolitik-die-neuesten-meldungen-im-ticker-ld.10056111",
+     "image": "https://img-msp-prod.nzz.ch/2026/11/04/239c2ba7-8971-4010-85f0-328c182fc61c.jpg?width=200&height=200&fit=bounds&quality=75&auto=webp&crop=3444,3444,x975,y0",
+     "aggregator": false,
+     "published": "2026-11-14T16:24:11+00:00"
+    },
+    {
+     "source": "DER STANDARD",
+     "region": "AT",
+     "weight": 0.85,
+     "title": "Demokrat Kreiss-Tomkins gewinnt Gouverneurswahl in Alaska",
+     "summary": "Es ist der erste Sieg für die Demokraten in Alaska seit rund 30 Jahren. Kreiss-Tomkins wird der jüngste Gouverneur in der Geschichte des Bundesstaats",
+     "link": "https://www.derstandard.at/story/3000000349244/demokrat-kreiss-tomkins-gewinnt-gouverneurswahl-in-alaska?ref=rss",
+     "image": "https://i.ds.at/ge_nOg/rs:fill:150:0/plain/lido-images/2026/11/14/92a77d92-c957-48b7-947e-6a5869def21c.jpg",
+     "aggregator": false,
+     "published": "2026-11-14T16:12:29+00:00"
+    },
+    {
+     "source": "WELT",
+     "region": "DE",
+     "weight": 0.8,
+     "title": "Erstmals seit 28 Jahren – Demokrat gewinnt Gouverneurswahl in Alaska",
+     "summary": "Seit 1998 gewinnen die Demokraten erstmals wieder die Gouverneurswahl in Alaska. Jonathan Kreiss-Tomkins setzt sich gegen drei republikanische Gegenkandidaten durch – und beschert seiner Partei einen historischen Zugewinn.",
+     "link": "https://www.welt.de/politik/ausland/article6af886614495f9bd85b80058/usa-erstmals-seit-28-jahren-demokrat-gewinnt-gouverneurswahl-in-alaska.html",
+     "image": "https://images.welt.de/6af886614495f9bd85b80058/dd7664fcd1a9c55e42d593ce08428d8a-master/ci23x11-w1200/2026-11-04t084931z-558660518-rc2vgoago6wx-rtrmadp-3-usa-election-alaska-jpg",
+     "aggregator": false,
+     "published": "2026-11-14T17:00:39+00:00"
+    },
+    {
+     "source": "WELT",
+     "region": "DE",
+     "weight": 0.6,
+     "title": "USA: Erstmals seit 28 Jahren – Demokrat gewinnt Gouverneurswahl in Alaska",
+     "summary": "USA: Erstmals seit 28 Jahren – Demokrat gewinnt Gouverneurswahl in Alaska WELT Midterms in den USA: Demokrat Jonathan Kreiss-Tomkins gewinnt Gouverneurswahl in Alaska Spiegel 51 Prozent der Stimmen: Alaska bekommt erstmals seit 28 Jahren demokratischen Gouverneur n-tv.de USA News: Demokrat gewinnt Gouverneurswahl in Alaska - Politik - SZ.de SZ.de Demokrat gewinnt Gouverneurswahl in Alaska GN-Online",
+     "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxOcG5JQWVPTS1tT2NPMmZDcDIyQTNjeThIVkdZYnFuREJ2N05nTzJ2dTdhYnZwY2cwTTdKcE91UTlMZ25abnJmM2pXZmFzbDdwTjM0cXFXclMwVjMxWW1NbWFEWDN1eWtMLWtzZXlnODZYY2FaeDNQTHNtdDBXdmItUmxIS3prNUk1Wi1zNnp0TnllOTNrTHhxYmYwUmxHWnZUNEhRRG5vaHVya3pqNWdZUWdTX2F4RktUSld1NDFTc0l3RFZKaUlEYVBrRVBMRFNOTFFxRjdLd3hYSlE?oc=5",
+     "image": null,
+     "aggregator": true,
+     "published": "2026-11-14T17:01:57+00:00"
+    }
+   ]
+  },
+  {
+   "id": 7,
+   "score": 14.38,
+   "outlets": [
+    "tagesschau",
+    "ZDFheute",
+    "Deutschlandfunk",
+    "Handelsblatt",
+    "DER STANDARD"
+   ],
+   "regions": [
+    "AT",
+    "DE"
+   ],
+   "trend": [],
+   "newest": "2026-11-14T19:20:22+00:00",
+   "articles": [
+    {
+     "source": "tagesschau",
+     "region": "DE",
+     "weight": 1.0,
+     "title": "AfD will Ex-Fußballprofi Berthold als Bundespräsidenten nominieren",
+     "summary": "Der ehemalige Fußballprofi Thomas Berthold soll nach ARD-Informationen für die AfD ins Rennen um das Amt des Bundespräsidenten gehen. Der Weltmeister von 1990 tat sich während der Corona-Pandemie als \"Querdenker\" hervor.",
+     "link": "https://www.tagesschau.de/inland/innenpolitik/berthold-afd-wahl-bundespraesident-100.html",
+     "image": "https://images.tagesschau.de/image/8a357c52-432c-4162-988c-fb5723ee6c98/AAABodZtqQ0/AAABnSSvrFg/16x9-big/thomas-berthold-110.jpg?width=1920",
+     "aggregator": false,
+     "published": "2026-11-13T16:37:14+00:00"
+    },
+    {
+     "source": "tagesschau Inland",
+     "region": "DE",
+     "weight": 1.0,
+     "title": "AfD will Ex-Fußballprofi Berthold als Bundespräsidenten nominieren",
+     "summary": "Der ehemalige Fußballprofi Thomas Berthold soll nach ARD-Informationen für die AfD ins Rennen um das Amt des Bundespräsidenten gehen. Der Weltmeister von 1990 tat sich während der Corona-Pandemie als \"Querdenker\" hervor.",
+     "link": "https://www.tagesschau.de/inland/innenpolitik/berthold-afd-wahl-bundespraesident-100.html",
+     "image": "https://images.tagesschau.de/image/8a357c52-432c-4162-988c-fb5723ee6c98/AAABodZtqQ0/AAABnSSvrFg/16x9-big/thomas-berthold-110.jpg?width=1920",
+     "aggregator": false,
+     "published": "2026-11-13T16:37:14+00:00"
+    },
+    {
+     "source": "ZDFheute",
+     "region": "DE",
+     "weight": 1.0,
+     "title": "AfD will Fußball-Weltmeister als Bundespräsidenten nominieren",
+     "summary": "Thomas Berthold soll für die AfD bei der Wahl des Bundespräsidenten antreten. Das erfuhr das ZDF aus AfD-Kreisen.",
+     "link": "https://www.zdfheute.de/politik/deutschland/wahl-bundespraesident-afd-kandidat-thomas-berthold-100.html",
+     "image": "https://www.zdfheute.de/assets/thomas-berthold-118~384x216?cb=1794577307545",
+     "aggregator": false,
+     "published": "2026-11-13T14:12:00+00:00"
+    },
+    {
+     "source": "Deutschlandfunk",
+     "region": "DE",
+     "weight": 0.95,
+     "title": "Steinmeier-Nachfolge - AfD ernennt Ex-Fußballweltmeister Thomas Berthold zu ihrem Kandidaten für das Amt des Bundespräsidenten",
+     "summary": "Die AfD hat den früheren Fußball-Weltmeister Thomas Berthold zu ihrem Kandidaten für das Amt des Bundespräsidenten ernannt.",
+     "link": "https://www.deutschlandfunk.de/afd-ernennt-ex-fussballweltmeister-thomas-berthold-zu-ihrem-kandidaten-fuer-das-amt-des-bundespraesi-100.html",
+     "image": "https://bilder.deutschlandfunk.de/04/45/15/ce/044515ce-3cfd-43ca-b625-20f1fd46b428/berthold-100-1920x1920.jpg",
+     "aggregator": false,
+     "published": "2026-11-14T19:20:22+00:00"
+    },
+    {
+     "source": "Handelsblatt",
+     "region": "DE",
+     "weight": 0.9,
+     "title": "Bundespräsidenten-Wahl: AfD schickt Ex-Fußballer Berthold ins Rennen um Bellevue",
+     "summary": "Mit der Nationalelf holte Thomas Berthold 1990 den WM-Titel. Jetzt schickt ihn die AfD ins Rennen um das höchste Staatsamt. Das hat mit seiner Rolle während der Pandemie zu tun.",
+     "link": "https://www.handelsblatt.com/politik/deutschland/bundespraesidenten-wahl-afd-schickt-ex-fussballer-berthold-ins-rennen-um-bellevue/100269893.html",
+     "image": "https://images.handelsblatt.com/QZbHjdLLIWxm/cover/900/506/0/0/117/116/0.5/0.5/fussball-weltmeister-thomas-berthold.jpg",
+     "aggregator": false,
+     "published": "2026-11-14T12:24:37+00:00"
+    },
+    {
+     "source": "DER STANDARD",
+     "region": "AT",
+     "weight": 0.85,
+     "title": "AfD nominiert Ex-Profi-Fußballer Thomas Berthold als Bundespräsident",
+     "summary": "Als \"Weltmeister ohne Parteibuch\" sei der 62-Jährige \"als Bundespräsident für alle Deutschen\" bestens geeignet",
+     "link": "https://www.derstandard.at/story/3000000349239/afd-nominiert-ex-profi-fussballer-thomas-berthold-als-bundespraesident?ref=rss",
+     "image": "https://i.ds.at/fY0E1Q/rs:fill:150:0/plain/lido-images/2026/11/14/becf2aaf-8b83-429e-8cd6-18a83707538f.jpg",
+     "aggregator": false,
+     "published": "2026-11-14T14:10:43+00:00"
+    }
+   ]
+  },
+  {
+   "id": 8,
+   "score": 14.28,
+   "outlets": [
+    "tagesschau",
+    "Deutschlandfunk",
+    "ORF",
+    "NZZ",
+    "heise online"
+   ],
+   "regions": [
+    "AT",
+    "CH",
+    "DE"
+   ],
+   "trend": [],
+   "newest": "2026-11-14T19:20:22+00:00",
+   "articles": [
+    {
+     "source": "tagesschau",
+     "region": "DE",
+     "weight": 1.0,
+     "title": "Weltweite Störung bei Microsoft ist behoben",
+     "summary": "Weltweite Störung bei Microsoft ist behoben",
+     "link": "https://www.tagesschau.de/tagesschau_20_uhr/video-1683976.html",
+     "image": "https://images.tagesschau.de/image/40cf42b1-4a52-4484-bc62-5b0a7b7093e2/AAABodt4a6c/AAABnSSvrFg/16x9-big/sendungsbild-1827626.jpg?width=1920",
+     "aggregator": false,
+     "published": "2026-11-14T19:11:09+00:00"
+    },
+    {
+     "source": "tagesschau",
+     "region": "DE",
+     "weight": 1.0,
+     "title": "Microsoft: Systeme nach Störung komplett wiederhergestellt",
+     "summary": "Probleme bei Microsoft hatten zentrale Cloud-Dienste stundenlang lahmgelegt - Unternehmen und Verbraucher weltweit waren betroffen. Laut Microsoft laufen nun alle Systeme wieder. Hinweise auf böswillige Aktivitäten gebe es nicht.",
+     "link": "https://www.tagesschau.de/wirtschaft/unternehmen/microsoft-stoerung-behoben-100.html",
+     "image": "https://images.tagesschau.de/image/a26b9e2d-86af-4c40-851d-0bc71c016725/AAABodmK3dA/AAABnSSvrFg/16x9-big/microsoft-228.jpg?width=1920",
+     "aggregator": false,
+     "published": "2026-11-14T10:17:44+00:00"
+    },
+    {
+     "source": "tagesschau Wirtschaft",
+     "region": "DE",
+     "weight": 1.0,
+     "title": "Microsoft: Systeme nach Störung komplett wiederhergestellt",
+     "summary": "Probleme bei Microsoft hatten zentrale Cloud-Dienste stundenlang lahmgelegt - Unternehmen und Verbraucher weltweit waren betroffen. Laut Microsoft laufen nun alle Systeme wieder. Hinweise auf böswillige Aktivitäten gebe es nicht.",
+     "link": "https://www.tagesschau.de/wirtschaft/unternehmen/microsoft-stoerung-behoben-100.html",
+     "image": "https://images.tagesschau.de/image/a26b9e2d-86af-4c40-851d-0bc71c016725/AAABodmK3dA/AAABnSSvrFg/16x9-big/microsoft-228.jpg?width=1920",
+     "aggregator": false,
+     "published": "2026-11-14T10:17:44+00:00"
+    },
+    {
+     "source": "Deutschlandfunk",
+     "region": "DE",
+     "weight": 0.95,
+     "title": "Cloud-Dienste - Microsoft gibt Ende der weltweiten Störungen bekannt",
+     "summary": "Microsoft hat die weltweiten Störungen bei einigen seiner Dienste nach mehr als ⁠24 Stunden behoben.",
+     "link": "https://www.deutschlandfunk.de/microsoft-gibt-ende-der-weltweiten-stoerungen-bekannt-102.html",
+     "image": "https://bilder.deutschlandfunk.de/NO/VA/_f/1e/NOVA_f1ee74d815e7e98093562bcfad712b7b/craft-13546291-asset-100-1920x1920.jpg",
+     "aggregator": false,
+     "published": "2026-11-14T19:20:22+00:00"
+    },
+    {
+     "source": "ORF",
+     "region": "AT",
+     "weight": 0.95,
+     "title": "Microsoft: Alle Probleme behoben",
+     "summary": "",
+     "link": "https://orf.at/stories/3448158/",
+     "image": null,
+     "aggregator": false,
+     "published": "2026-11-14T08:36:33+00:00"
+    },
+    {
+     "source": "NZZ",
+     "region": "CH",
+     "weight": 0.9,
+     "title": "Microsoft kämpfte stundenlang mit einer weltweiten Störung. Diese Grafiken zeigen das Ausmass",
+     "summary": "Beim E-Mail-Programm Outlook und weiteren Cloud-Diensten von Microsoft kam es zu massiven Ausfällen, die eindrücklich zeigten, wie global vernetzt die digitale Welt heute ist. Erst am Freitagabend gelang es, die Server schrittweise wieder in Betrieb zu nehmen.",
+     "link": "https://www.nzz.ch/pro/microsoft-kaempfte-stundenlang-mit-einer-weltweiten-stoerung-diese-grafiken-zeigen-das-ausmass-ld.10063579",
+     "image": "https://img-msp-prod.nzz.ch/2026/11/13/22a372aa-1e75-4691-8a6a-575d64cc92e7.png?width=200&height=200&fit=bounds&quality=75&auto=webp&crop=1117,1117,x312,y120",
+     "aggregator": false,
+     "published": "2026-11-14T04:30:00+00:00"
+    },
+    {
+     "source": "heise online",
+     "region": "DE",
+     "weight": 0.85,
+     "title": "Microsoft-365-Störung: Serverausfälle legen Teams, Exchange und Copilot lahm",
+     "summary": "Eine Störung bei Microsoft 365 beeinträchtigt weltweit zahlreiche Cloud-Dienste wie Exchange Online, Teams, SharePoint, Copilot und Defender XDR.",
+     "link": "https://www.heise.de/news/Microsoft-365-Stoerung-Serverausfaelle-legen-Teams-Exchange-und-Copilot-lahm-11523565.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
+     "image": null,
+     "aggregator": false,
+     "published": "2026-11-12T21:01:00+00:00"
+    }
+   ]
+  },
+  {
+   "id": 9,
+   "score": 13.28,
+   "outlets": [
+    "tagesschau",
+    "Deutschlandfunk",
+    "ORF",
+    "Handelsblatt",
+    "DER STANDARD"
+   ],
+   "regions": [
+    "AT",
+    "DE"
+   ],
+   "trend": [],
+   "newest": "2026-11-14T19:20:22+00:00",
+   "articles": [
+    {
+     "source": "tagesschau",
+     "region": "DE",
+     "weight": 1.0,
+     "title": "Trauerakt in München: Große Anteilnahme bei Abschied von Aiwanger",
+     "summary": "Der bayerische Vize-Ministerpräsident und Freie-Wähler-Chef Aiwanger ist mit einem Trauerstaatsakt gewürdigt worden. Die Anteilnahme war groß. Zu der Zeremonie in der Frauenkirche kamen mehr als 1.000 Trauergäste.",
+     "link": "https://www.tagesschau.de/inland/aiwanger-trauerfeier-100.html",
+     "image": "https://images.tagesschau.de/image/22daa702-6dd7-4916-b63e-089f68d00f62/AAABodofE2M/AAABnSSvrFg/16x9-big/aiwanger-gottesdienst-102.jpg?width=1920",
+     "aggregator": false,
+     "published": "2026-11-14T13:22:33+00:00"
+    },
+    {
+     "source": "tagesschau Inland",
+     "region": "DE",
+     "weight": 1.0,
+     "title": "Trauerakt in München: Große Anteilnahme bei Abschied von Aiwanger",
+     "summary": "Der bayerische Vize-Ministerpräsident und Freie-Wähler-Chef Aiwanger ist mit einem Trauerstaatsakt gewürdigt worden. Die Anteilnahme war groß. Zu der Zeremonie in der Frauenkirche kamen mehr als 1.000 Trauergäste.",
+     "link": "https://www.tagesschau.de/inland/aiwanger-trauerfeier-100.html",
+     "image": "https://images.tagesschau.de/image/22daa702-6dd7-4916-b63e-089f68d00f62/AAABodofE2M/AAABnSSvrFg/16x9-big/aiwanger-gottesdienst-102.jpg?width=1920",
+     "aggregator": false,
+     "published": "2026-11-14T13:22:33+00:00"
+    },
+    {
+     "source": "Deutschlandfunk",
+     "region": "DE",
+     "weight": 0.95,
+     "title": "Bayern - Trauerstaatsakt für Aiwanger - Söder: \"Vollblutpolitiker und Heimatmensch\"",
+     "summary": "Bei einem Trauerstaatsakt in München hat der bayerische Ministerpräsident Söder den verstorbenen Freie-Wähler-Politiker Aiwanger gewürdigt.",
+     "link": "https://www.deutschlandfunk.de/trauerstaatsakt-fuer-aiwanger-soeder-vollblutpolitiker-und-heimatmensch-102.html",
+     "image": "https://bilder.deutschlandfunk.de/3a/c2/1a/2c/3ac21a2c-eb5e-4a01-9bd2-9e991493ced9/aiwanger-126-1920x1920.jpg",
+     "aggregator": false,
+     "published": "2026-11-14T19:20:22+00:00"
+    },
+    {
+     "source": "ORF",
+     "region": "AT",
+     "weight": 0.95,
+     "title": "D: Große Anteilnahme bei Trauerfeier für Aiwanger",
+     "summary": "",
+     "link": "https://orf.at/stories/3448169/",
+     "image": null,
+     "aggregator": false,
+     "published": "2026-11-14T10:52:31+00:00"
+    },
+    {
+     "source": "Handelsblatt",
+     "region": "DE",
+     "weight": 0.9,
+     "title": "Todesfall: Bayern trauert um Hubert Aiwanger",
+     "summary": "Der plötzliche Tod von Hubert Aiwanger hat eine große Anteilnahme ausgelöst. Beim Trauerakt kann die Frauenkirche nicht alle Gäste aufnehmen.",
+     "link": "https://www.handelsblatt.com/politik/deutschland/todesfall-bayern-trauert-um-hubert-aiwanger/100269895.html",
+     "image": "https://images.handelsblatt.com/VwxCOb2n7i6K/cover/900/506/0/0/625/0/0.5/0.5/bavariaaposs-state-premier-and-leader-of-the-conservative-christian-social-union-csu-markus-soed.jpg",
+     "aggregator": false,
+     "published": "2026-11-14T12:49:04+00:00"
+    },
+    {
+     "source": "DER STANDARD",
+     "region": "AT",
+     "weight": 0.85,
+     "title": "Große Anteilnahme an Trauerfeier für bayerischen Politiker Hubert Aiwanger",
+     "summary": "Der 55-jährige Vize-Ministerpräsident von Bayern war am Mittwoch vergangener Woche tot in seinem Hotelzimmer in Berlin entdeckt worden",
+     "link": "https://www.derstandard.at/story/3000000349235/gro223e-anteilnahme-an-trauerfeier-f252r-hubert-aiwanger-in-m252nchen?ref=rss",
+     "image": "https://i.ds.at/-Nc30w/rs:fill:150:0/plain/lido-images/2026/11/14/a3e88481-84c8-4e99-835e-94b744add13c.jpg",
+     "aggregator": false,
+     "published": "2026-11-14T12:42:04+00:00"
+    }
+   ]
+  },
+  {
+   "id": 10,
+   "score": 13.25,
+   "outlets": [
+    "tagesschau",
+    "SRF News",
+    "heise online",
+    "DER STANDARD",
+    "n-tv"
+   ],
+   "regions": [
+    "AT",
+    "CH",
+    "DE"
+   ],
+   "trend": [],
+   "newest": "2026-11-14T14:27:48+00:00",
+   "articles": [
+    {
+     "source": "tagesschau",
+     "region": "DE",
+     "weight": 1.0,
+     "title": "Nvidia: Huang-Affäre könnte zu Trump-Skandal werden",
+     "summary": "Laut Medienberichten wurde Trump zwei Mal von der Affäre des Nvidia-Chefs Huang mit einer mutmaßlichen chinesischen Spionin unterrichtet. Doch der Präsident beteuert, von nichts gewusst zu haben. Von C. Kühntopp.",
+     "link": "https://www.tagesschau.de/ausland/amerika/nvidia-trump-100.html",
+     "image": "https://images.tagesschau.de/image/f9401978-bea2-4fa5-9226-a0299084e01c/AAABodPof7M/AAABnSSvrFg/16x9-big/huang-trump-102.jpg?width=1920",
+     "aggregator": false,
+     "published": "2026-11-13T02:36:47+00:00"
+    },
+    {
+     "source": "tagesschau Wirtschaft",
+     "region": "DE",
+     "weight": 1.0,
+     "title": "Nvidia: Huang-Affäre könnte zu Trump-Skandal werden",
+     "summary": "Laut Medienberichten wurde Trump zwei Mal von der Affäre des Nvidia-Chefs Huang mit einer mutmaßlichen chinesischen Spionin unterrichtet. Doch der Präsident beteuert, von nichts gewusst zu haben. Von C. Kühntopp.",
+     "link": "https://www.tagesschau.de/ausland/amerika/nvidia-trump-100.html",
+     "image": "https://images.tagesschau.de/image/f9401978-bea2-4fa5-9226-a0299084e01c/AAABodPof7M/AAABnSSvrFg/16x9-big/huang-trump-102.jpg?width=1920",
+     "aggregator": false,
+     "published": "2026-11-13T02:36:47+00:00"
+    },
+    {
+     "source": "SRF News",
+     "region": "CH",
+     "weight": 0.95,
+     "title": "Absetzung von Nvidia-Chef – Die Lehren aus dem Fall Jensen Huang und seinen Affären",
+     "summary": "Nvidias Erfolg war eng mit Jensen Huang verknüpft. Sein Sturz offenbart die Kehrseite dieser Abhängigkeit.",
+     "link": "https://www.srf.ch/news/wirtschaft/absetzung-von-nvidia-chef-die-lehren-aus-dem-fall-jensen-huang-und-seinen-affaeren",
+     "image": "https://www.srf.ch/static/cms/images//320ws/e85dcb.webp",
+     "aggregator": false,
+     "published": "2026-11-12T17:16:52+00:00"
+    },
+    {
+     "source": "heise online",
+     "region": "DE",
+     "weight": 0.85,
+     "title": "Donnerstag: Nvidia-Chef angeblich kurz vor Abschied, KI-Agent auch von ByteDance",
+     "summary": "Jensen Huangs weitere Affäre + Muse-Agentenkonkurrent aus China + Meta-Millionenstrafe nach Brasilien-Wahl + Unterschiede chinesischer E-Motoren + #heiseshow",
+     "link": "https://www.heise.de/news/Donnerstag-Nvidia-Chef-angeblich-kurz-vor-Abschied-KI-Agent-auch-von-ByteDance-11521643.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
+     "image": null,
+     "aggregator": false,
+     "published": "2026-11-12T05:15:00+00:00"
+    },
+    {
+     "source": "heise online",
+     "region": "DE",
+     "weight": 0.85,
+     "title": "Nvidia-Chef Jensen Huang nach zweiter Affäre wohl vor dem Ende bei seiner Firma",
+     "summary": "Neben der mutmaßlichen Agentin Chinas hatte der Nvidia-CEO offenbar auch eine Affäre mit einer Kollegin. Die Aktie rutscht weiter ab, der Abschied rückt näher.",
+     "link": "https://www.heise.de/news/Jensen-Huang-nach-weiterer-Affaere-mit-Mitarbeiterin-wohl-vor-dem-Aus-bei-Nvidia-11521625.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
+     "image": null,
+     "aggregator": false,
+     "published": "2026-11-12T04:02:00+00:00"
+    },
+    {
+     "source": "DER STANDARD",
+     "region": "AT",
+     "weight": 0.85,
+     "title": "Affäre mit Agentin: Der Spionage-Skandal von Nvidia",
+     "summary": "Wir sprechen über den mutmaßlichen Spionage-Skandal bei einem der weltweit größten Unternehmen",
+     "link": "https://www.derstandard.at/story/3000000348537/podcaffaere-mit-agentin-der-spionage-skandal-von-nvidia?ref=rss",
+     "image": "https://i.ds.at/m-woNA/rs:fill:150:0/plain/lido-images/2026/11/09/1d8c83a1-2471-4fc3-92c6-d77217b79811.jpg",
+     "aggregator": false,
+     "published": "2026-11-12T10:34:13+00:00"
+    },
+    {
+     "source": "DER STANDARD",
+     "region": "AT",
+     "weight": 0.85,
+     "title": "Wie das Netzwerk der Alice Huang den mächtigen Nvidia-Chef zu Fall brachte",
+     "summary": "Die Nvidia-Krise zieht Schockwellen bis ins Weiße Haus und bringt Trump unter Druck. Zugleich kommen immer mehr Details der mutmaßlichen Spionageaffäre ans Licht",
+     "link": "https://www.derstandard.at/story/3000000349082/wie-das-netzwerk-der-alice-huang-den-maechtigen-nvidia-chef-zu-fall-brachte?ref=rss",
+     "image": "https://i.ds.at/us12jw/rs:fill:150:0/plain/lido-images/2026/11/13/49fabf93-610f-42bc-a942-94269d0e6f6d.jpg",
+     "aggregator": false,
+     "published": "2026-11-13T16:59:40+00:00"
+    },
+    {
+     "source": "n-tv",
+     "region": "DE",
+     "weight": 0.8,
+     "title": "Als angemessen dargestellt: Huang soll Nvidia-Führungskräfte über Affäre getäuscht haben",
+     "summary": "Von seinem Chefposten bei Nvidia ist Huang bereits zurückgetreten. Ruhe kehrt in der Affäre um seine Liaison mit einer möglichen chinesischen Spionin allerdings nicht ein. Einem Bericht zufolge belog der Unternehmensgründer andere Führungskräfte aktiv darüber.",
+     "link": "https://www.n-tv.de/wirtschaft/Huang-soll-Nvidia-Fuehrungskraefte-ueber-Affaere-getaeuscht-haben-id31534364.html",
+     "image": "https://www.n-tv.de/img/31534368/1794667584/Img_4_3/250/632293468.jpg",
+     "aggregator": false,
+     "published": "2026-11-14T14:27:48+00:00"
+    }
+   ]
+  },
+  {
+   "id": 11,
+   "score": 12.02,
+   "outlets": [
+    "tagesschau",
+    "ORF",
+    "SRF News",
+    "DER STANDARD",
+    "WELT"
+   ],
+   "regions": [
+    "AT",
+    "CH",
+    "DE",
+    "INT"
+   ],
+   "trend": [],
+   "newest": "2026-11-14T19:09:28+00:00",
+   "articles": [
+    {
+     "source": "tagesschau",
+     "region": "DE",
+     "weight": 1.0,
+     "title": "EU: Israel soll Zugang für Helfer in den Gazastreifen gewähren",
+     "summary": "Die EU fordert Israel auf, sofort Helfer in den Gazastreifen zu lassen. Dort hatte heftiger Regen die Zelte von Zehntausenden Vertriebenen überschwemmt. Auch die Kälte wird zunehmend zur Gefahr.",
+     "link": "https://www.tagesschau.de/ausland/asien/gaza-hilfsforderung-eu-100.html",
+     "image": "https://images.tagesschau.de/image/839647fd-b961-4bbb-8b5c-b84761349bb9/AAABodsq-eo/AAABnSSvrFg/16x9-big/gaza-1518.jpg?width=1920",
+     "aggregator": false,
+     "published": "2026-11-14T19:09:28+00:00"
+    },
+    {
+     "source": "tagesschau Ausland",
+     "region": "INT",
+     "weight": 1.0,
+     "title": "EU: Israel soll Zugang für Helfer in den Gazastreifen gewähren",
+     "summary": "Die EU fordert Israel auf, sofort Helfer in den Gazastreifen zu lassen. Dort hatte heftiger Regen die Zelte von Zehntausenden Vertriebenen überschwemmt. Auch die Kälte wird zunehmend zur Gefahr.",
+     "link": "https://www.tagesschau.de/ausland/asien/gaza-hilfsforderung-eu-100.html",
+     "image": "https://images.tagesschau.de/image/839647fd-b961-4bbb-8b5c-b84761349bb9/AAABodsq-eo/AAABnSSvrFg/16x9-big/gaza-1518.jpg?width=1920",
+     "aggregator": false,
+     "published": "2026-11-14T19:09:28+00:00"
+    },
+    {
+     "source": "ORF",
+     "region": "AT",
+     "weight": 0.95,
+     "title": "Unwetter in Gaza: EU fordert von Israel Zugang für Helfer",
+     "summary": "",
+     "link": "https://orf.at/stories/3448181/",
+     "image": null,
+     "aggregator": false,
+     "published": "2026-11-14T13:51:43+00:00"
+    },
+    {
+     "source": "SRF News",
+     "region": "CH",
+     "weight": 0.95,
+     "title": "Krieg im Nahen Osten – EU fordert ungehinderten Zugang für Hilfsgüter nach Gaza",
+     "summary": "Schwere Regenfälle haben Zehntausende Zelte überflutet. Die EU verlangt von Israel, alle Übergänge zu öffnen.",
+     "link": "https://www.srf.ch/news/international/nahost/krieg-im-nahen-osten-eu-fordert-ungehinderten-zugang-fuer-hilfsgueter-nach-gaza",
+     "image": "https://www.srf.ch/static/cms/images//320ws/288b6d.webp",
+     "aggregator": false,
+     "published": "2026-11-14T15:01:53+00:00"
+    },
+    {
+     "source": "DER STANDARD",
+     "region": "AT",
+     "weight": 0.85,
+     "title": "Nach Unwettern in Gaza: EU fordert von Israel Sofortzugang für Helfer",
+     "summary": "Zehntausende Zelte wurden bereits überschwemmt. Israel muss die Arbeit von Helfern \"erleichtern und all seinen Verpflichtungen gemäß dem Völkerrecht\" nachkommen, fordert EU-Außenbeauftragte Kallas",
+     "link": "https://www.derstandard.at/story/3000000349240/nach-unwettern-in-gaza-eu-fordert-von-israel-sofortzugang-f252r-helfer?ref=rss",
+     "image": "https://i.ds.at/CqlBgA/rs:fill:150:0/plain/lido-images/2026/11/14/21fd2121-a7f9-49eb-82bf-015db34e1ffe.jpg",
+     "aggregator": false,
+     "published": "2026-11-14T14:26:41+00:00"
+    },
+    {
+     "source": "WELT",
+     "region": "DE",
+     "weight": 0.6,
+     "title": "Gaza: Hamas beschlagnahmt Zelte von vertriebenen Palästinensern",
+     "summary": "Gaza: Hamas beschlagnahmt Zelte von vertriebenen Palästinensern WELT EU: Israel soll Zugang für Helfer in den Gazastreifen gewähren tagesschau.de Gaza nach Starkregen: WHO warnt vor Anstieg von Atemwegserkrankungen FAZ Die Hölle von Gaza: Eine Doku erzählt, was Ärzt:innen mitansehen mussten taz.de UN: Not durch Flut in Gaza hätte verhindert werden können - Panorama - SZ.de SZ.de",
+     "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPSm4ySFhiVmZlSkN6Vm9mZ25ZMUhPTUNoT3V6dlpYeGhDYldNOVBqQ0M5MzVWSkJBb2pzSWxNbFUwc2xxd2J5cmNtNnV1SlFDSzRyYkpkaHpodTZfdThkeERSVllvZFNFQzRnSEVxTjNBbE5QelpfVURmelcwZHdwR2xXb3NNV3R6dE5lbmloYXBLNnd5WS0zT3BrbFdvZ0tUOXFqLVI1Mks4dHNCcEsxeUhteTNybGJGSmZpNl9DNWxSd2VGQ0o0YTRadGpUN042Z1E?oc=5",
+     "image": null,
+     "aggregator": true,
+     "published": "2026-11-13T08:51:42+00:00"
+    }
+   ]
+  },
+  {
+   "id": 12,
+   "score": 11.58,
+   "outlets": [
+    "ZDFheute",
+    "Deutschlandfunk",
+    "ORF",
+    "Handelsblatt"
+   ],
+   "regions": [
+    "AT",
+    "DE"
+   ],
+   "trend": [],
+   "newest": "2026-11-14T19:20:22+00:00",
+   "articles": [
+    {
+     "source": "ZDFheute",
+     "region": "DE",
+     "weight": 1.0,
+     "title": "Türkei: Tausende demonstrieren für Klima und Menschenrechte",
+     "summary": "Während der Klimakonferenz sind im türkischen Antalya tausende Menschen auf die Straße gegangen. Die Opposition nutzte eine seltene Gelegenheit zum Protest gegen die Regierung.",
+     "link": "https://www.zdfheute.de/politik/ausland/tuerkei-antalya-demo-klimaschutz-menschenrechte-100.html",
+     "image": "https://www.zdfheute.de/assets/demonstration-cop31-antalya-100~384x216?cb=1794668935389",
+     "aggregator": false,
+     "published": "2026-11-14T15:25:00+00:00"
+    },
+    {
+     "source": "Deutschlandfunk",
+     "region": "DE",
+     "weight": 0.95,
+     "title": "Türkei - Tausende demonstrieren bei UNO-Klimakonferenz in Antalya - \"Gipfel der Völker\" startet",
+     "summary": "Zur Halbzeit der UNO-Klimakonferenz haben im türkischen Antalya tausende Menschen für Klimaschutz und Menschenrechte demonstriert. Nach Angaben der Polizei nahmen mehr als 7.000 Menschen teil. Die Veranstalter sprachen von mehr als 10.000 Teilnehmern.",
+     "link": "https://www.deutschlandfunk.de/tausende-demonstrieren-bei-uno-klimakonferenz-in-antalya-gipfel-der-voelker-startet-102.html",
+     "image": "https://bilder.deutschlandfunk.de/06/40/f9/3d/0640f93d-e64d-4915-b713-78113d9642f3/demo-antalya-100-1920x1920.jpg",
+     "aggregator": false,
+     "published": "2026-11-14T19:20:22+00:00"
+    },
+    {
+     "source": "ORF",
+     "region": "AT",
+     "weight": 0.95,
+     "title": "Tausende gehen in Antalya auf die Straße",
+     "summary": "Zur Halbzeit der UNO-Klimakonferenz (COP31) im türkischen Antalya hat am Samstag ein großer Protest zivilgesellschaftlicher Organisationen stattgefunden. Mehr als 10.000 Menschen gingen nach Angaben der Veranstalter für Klimaschutz friedlich auf die Straße. UNO-Klimachef Simon Stiell warnte die Verhandler vor taktischen Spielchen. Demonstriert wurde auch für Menschenrechte und gegen die türkische Regierung.",
+     "link": "https://orf.at/stories/3448187/",
+     "image": null,
+     "aggregator": false,
+     "published": "2026-11-14T16:05:52+00:00"
+    },
+    {
+     "source": "Handelsblatt",
+     "region": "DE",
+     "weight": 0.9,
+     "title": "Weltklimakonferenz: Regenbogen trotz Razzien: Tausende demonstrieren in Türkei",
+     "summary": "Regenbogenflaggen, Eisbärenkostüme und Kritik an der türkischen Regierung: Zur Halbzeit der Klimakonferenz wurde Antalya zum Schauplatz einer Großdemonstration - ein seltenes Ereignis.",
+     "link": "https://www.handelsblatt.com/politik/international/weltklimakonferenz-regenbogen-trotz-razzien-tausende-demonstrieren-in-tuerkei/100269905.html",
+     "image": "https://images.handelsblatt.com/9RcUuZklvutb/cover/900/506/0/0/1/0/0.5/0.5/weltklimakonferenz-cop31.jpg",
+     "aggregator": false,
+     "published": "2026-11-14T13:59:31+00:00"
+    }
+   ]
+  },
+  {
+   "id": 13,
+   "score": 11.48,
+   "outlets": [
+    "Deutschlandfunk",
+    "ORF",
+    "SRF News",
+    "Handelsblatt"
+   ],
+   "regions": [
+    "AT",
+    "CH",
+    "DE"
+   ],
+   "trend": [],
+   "newest": "2026-11-14T19:20:22+00:00",
+   "articles": [
+    {
+     "source": "Deutschlandfunk",
+     "region": "DE",
+     "weight": 0.95,
+     "title": "Datenschutz - Strafe von 805 Millionen Euro für Meta in Italien",
+     "summary": "Die italienische Datenschutzbehörde hat gegen den Facebook-Konzern Meta eine Strafzahlung von 805 Millionen Euro verhängt.",
+     "link": "https://www.deutschlandfunk.de/strafe-von-805-millionen-euro-fuer-meta-in-italien-102.html",
+     "image": "https://bilder.deutschlandfunk.de/fe/df/5a/09/fedf5a09-7960-47ba-8ec1-40c6dbf8655c/meta-facebook-100-1920x1920.jpg",
+     "aggregator": false,
+     "published": "2026-11-14T19:20:22+00:00"
+    },
+    {
+     "source": "ORF",
+     "region": "AT",
+     "weight": 0.95,
+     "title": "Datenschutz: 805 Millionen Euro Strafe für Meta in Italien",
+     "summary": "",
+     "link": "https://orf.at/stories/3448189/",
+     "image": null,
+     "aggregator": false,
+     "published": "2026-11-14T15:30:47+00:00"
+    },
+    {
+     "source": "SRF News",
+     "region": "CH",
+     "weight": 0.95,
+     "title": "Zugriff ohne Einwilligung – Meta muss in Italien 805 Millionen Euro Strafe zahlen",
+     "summary": "Der Konzern hat über eine Funktion der Facebook-App ohne gesonderte Zustimmung auf Nutzerfotos und -videos zugegriffen.",
+     "link": "https://www.srf.ch/news/wirtschaft/zugriff-ohne-einwilligung-meta-muss-in-italien-805-millionen-euro-strafe-zahlen",
+     "image": "https://www.srf.ch/static/cms/images//320ws/a6b2a2.webp",
+     "aggregator": false,
+     "published": "2026-11-14T15:30:26+00:00"
+    },
+    {
+     "source": "Handelsblatt",
+     "region": "DE",
+     "weight": 0.9,
+     "title": "Urteil: Italien verhängt 805 Millionen Euro Strafe gegen Meta",
+     "summary": "Eine Funktion, die Facebook-Nutzern Ideen für eigene Beiträge liefern sollte, wird für Meta zum Problem. Im Mittelpunkt steht der Zugriff auf private Fotos und Videos auf Millionen Geräten.",
+     "link": "https://www.handelsblatt.com/unternehmen/it-medien/urteil-italien-verhaengt-805-millionen-euro-strafe-gegen-meta/100269913.html",
+     "image": "https://images.handelsblatt.com/KJjA-NLrT9SR/cover/900/506/0/0/177/239/0.5/0.5/file-photo-meta-logo-in-this-illustration-taken-november-6-2026.-reuters-dado-ruvic-illustration-f.jpg",
+     "aggregator": false,
+     "published": "2026-11-14T15:55:42+00:00"
+    },
+    {
+     "source": "Handelsblatt",
+     "region": "DE",
+     "weight": 0.9,
+     "title": "Facebook-Konzern: Italien verhängt 805 Millionen Euro Strafe gegen Meta",
+     "summary": "Eine Funktion, die Facebook-Nutzern Ideen für eigene Beiträge liefern sollte, wird für Meta zum Problem. Im Mittelpunkt steht der Zugriff auf private Fotos und Videos auf Millionen Smartphones.",
+     "link": "https://www.handelsblatt.com/politik/deutschland/facebook-konzern-italien-verhaengt-805-millionen-euro-strafe-gegen-meta/100269912.html",
+     "image": "https://images.handelsblatt.com/d6JCQX5utK5t/cover/900/506/0/0/107/106/0.5/0.5/facebook.jpg",
+     "aggregator": false,
+     "published": "2026-11-14T15:38:42+00:00"
+    }
+   ]
+  },
+  {
+   "id": 14,
+   "score": 11.38,
+   "outlets": [
+    "tagesschau Ausland",
+    "Deutsche Welle",
+    "Deutschlandfunk",
+    "n-tv"
+   ],
+   "regions": [
+    "DE",
+    "INT"
+   ],
+   "trend": [],
+   "newest": "2026-11-14T19:20:22+00:00",
+   "articles": [
+    {
+     "source": "tagesschau Ausland",
+     "region": "INT",
+     "weight": 1.0,
+     "title": "Mehr als 10.000 Ebola-Fälle in Demokratischer Republik Kongo bestätigt",
+     "summary": "Das Ebola-Virus breitet sich in der Demokratischen Republik Kongo weiter aus. Mehr als 10.000 Menschen sind dort bislang erkrankt. Inzwischen wird weiter an der Entwicklung von Therapieverfahren und Impfstoffen gearbeitet.",
+     "link": "https://www.tagesschau.de/ausland/afrika/demokratische-republik-kongo-ebola-100.html",
+     "image": "https://images.tagesschau.de/image/d0d13c3d-b2bf-4d11-af98-8cb20a19c757/AAABoXygYJA/AAABnSSvrFg/16x9-big/desinfektion-strasse-ituri-100.jpg?width=1920",
+     "aggregator": false,
+     "published": "2026-10-27T10:24:11+00:00"
+    },
+    {
+     "source": "Deutsche Welle",
+     "region": "INT",
+     "weight": 0.95,
+     "title": "DR Kongo: Die Cholera ist zurück",
+     "summary": "Die Demokratische Republik Kongo kämpft nicht nur gegen Ebola, sondern auch gegen Cholera. Am Stadtrand von Kinshasa wurden neue Fälle gemeldet. Die Einwohner sind besorgt und versuchen, sich zu schützen.",
+     "link": "https://www.dw.com/de/dr-kongo-die-cholera-ist-zurück/a-79908973?maca=de-rss-de-all-1119-xml-mrss",
+     "image": "https://static.dw.com/image/79904513_302.jpg",
+     "aggregator": false,
+     "published": "2026-11-12T05:45:00+00:00"
+    },
+    {
+     "source": "Deutschlandfunk",
+     "region": "DE",
+     "weight": 0.95,
+     "title": "Diplomatie - Internationale Organisation der Frankophonie: Streit zwischen Demokratischer Republik Kongo und Ruanda",
+     "summary": "Das morgen beginnende Gipfeltreffen der Internationalen Organisation der Frankophonie in Kambodscha wird von diplomatischen Spannungen überlagert.",
+     "link": "https://www.deutschlandfunk.de/internationale-organisation-der-frankophonie-streit-zwischen-demokratischer-republik-kongo-und-ruand-102.html",
+     "image": "https://bilder.deutschlandfunk.de/3e/1e/5a/99/3e1e5a99-1b31-4619-bf08-0d66844e716c/francophonie-100-1920x1920.jpg",
+     "aggregator": false,
+     "published": "2026-11-14T19:20:22+00:00"
+    },
+    {
+     "source": "n-tv",
+     "region": "DE",
+     "weight": 0.8,
+     "title": "Sechs Monate nach Ausbruch: Warum Ebola im Kongo weiter grassiert",
+     "summary": "Bisher sind mehr als 11.000 Ebola-Fälle und fast 5.500 Ebola-Tote in der Demokratischen Republik registriert. Die Behörden haben auch sechs Monate nach Beginn des Ausbruchs die Krankheit nicht im Griff. Woran das liegt? Die wichtigsten Antworten dazu im Überblick.",
+     "link": "https://www.n-tv.de/wissen/Warum-Ebola-im-Kongo-weiter-grassiert-id31529210.html",
+     "image": "https://www.n-tv.de/img/31529217/1794557404/Img_4_3/250/628280890.jpg",
+     "aggregator": false,
+     "published": "2026-11-14T07:58:40+00:00"
+    }
+   ]
+  },
+  {
+   "id": 15,
+   "score": 10.51,
+   "outlets": [
+    "tagesschau",
+    "SPIEGEL",
+    "Handelsblatt",
+    "WELT"
+   ],
+   "regions": [
+    "DE"
+   ],
+   "trend": [],
+   "newest": "2026-11-14T17:20:00+00:00",
+   "articles": [
+    {
+     "source": "tagesschau",
+     "region": "DE",
+     "weight": 1.0,
+     "title": "Koalitionsvertrag in Mecklenburg-Vorpommern unterschrieben",
+     "summary": "Nachdem SPD, Linkspartei und Grüne in Mecklenburg-Vorpommern dem gemeinsamen Koalitionsvertrag zugestimmt hatten, ist das Papier nun unterschrieben. Für Montag ist die Wiederwahl von Ministerpräsidentin Schwesig geplant.",
+     "link": "https://www.tagesschau.de/inland/regional/mecklenburgvorpommern/spd-basis-stellt-sich-voll-hinter-manuela-schwesig,mvlandtag-128.html",
+     "image": "https://images.ndr.de/image/ad397fbf-93b7-412c-b4a4-971fb552c47a/AAABodn-ngw/AAABnSSvrFg/16x9-big/screenshot-260960.jpg?width=1920",
+     "aggregator": false,
+     "published": "2026-11-14T17:20:00+00:00"
+    },
+    {
+     "source": "SPIEGEL",
+     "region": "DE",
+     "weight": 0.9,
+     "title": "Mecklenburg-Vorpommern: SPD, Linke und Grüne einigen sich auf Koalitionsvertrag",
+     "summary": "In Schwerin regiert bald eine Koalition aus SPD, Linken und Grünen. Alle drei Parteien stimmten dem entsprechenden Koalitionsvertrag zu. Am Abend soll das Bündnis per Unterschrift besiegelt werden.",
+     "link": "https://www.spiegel.de/politik/mecklenburg-vorpommern-bekommt-erste-rot-rot-gruene-landesregierung-deutschlands-a-64982c32-c954-4d6b-a066-01e7d6b7141e#ref=rss",
+     "image": "https://cdn.prod.www.spiegel.de/images/c3d079bf-47f1-4553-ba8e-5f78c6434b5f_w520_r2.08_fpx34_fpy49.jpg",
+     "aggregator": false,
+     "published": "2026-11-14T12:50:00+00:00"
+    },
+    {
+     "source": "Handelsblatt",
+     "region": "DE",
+     "weight": 0.9,
+     "title": "Parteibasis sagt „Ja“: Grüne stimmen Koalitionsvertrag für MV zu",
+     "summary": "Nach der Linken haben auch die Grünen in Mecklenburg-Vorpommern dem rot-rot-grünen Koalitionsvertrag zugestimmt. Es fehlt nur noch die SPD, dann steht das Regierungsbündnis.",
+     "link": "https://www.handelsblatt.com/politik/deutschland/parteibasis-sagt-ja-gruene-stimmen-koalitionsvertrag-fuer-mv-zu/100269880.html",
+     "image": "https://images.handelsblatt.com/8ygBw8VklDEk/cover/900/506/0/0/138/138/0.5/0.5/koalition-in-mecklenburg-vorpommern.jpg",
+     "aggregator": false,
+     "published": "2026-11-14T11:37:08+00:00"
+    },
+    {
+     "source": "WELT",
+     "region": "DE",
+     "weight": 0.8,
+     "title": "Mecklenburg-Vorpommern bekommt erstmals Rot-Rot-Grün",
+     "summary": "SPD, Linke und Grüne wollen in Mecklenburg-Vorpommern gemeinsam regieren. Der Koalitionsvertrag sieht weniger Verwaltungspersonal, Geld für Krankenhäuser und Vorteile für Anwohner von Windparks vor.",
+     "link": "https://www.welt.de/politik/deutschland/article6af8565f9849eea0701e2b81/landesregierung-mecklenburg-vorpommern-bekommt-erstmals-rot-rot-gruen.html",
+     "image": "https://images.welt.de/6af8565f9849eea0701e2b81/ea0cf91b7d811a8b53664fc1fd7521aa/ci23x11-w1200/dpa-com-261114-935-1742634-jpg",
+     "aggregator": false,
+     "published": "2026-11-14T13:18:12+00:00"
+    }
+   ]
+  },
+  {
+   "id": 16,
+   "score": 10.35,
+   "outlets": [
+    "tagesschau",
+    "ZDFheute",
+    "Süddeutsche",
+    "Merkur"
+   ],
+   "regions": [
+    "DE"
+   ],
+   "trend": [],
+   "newest": "2026-11-14T19:15:58+00:00",
+   "articles": [
+    {
+     "source": "tagesschau",
+     "region": "DE",
+     "weight": 1.0,
+     "title": "Staatsakt in München: Gedenken an Hubert Aiwanger",
+     "summary": "Staatsakt in München: Gedenken an Hubert Aiwanger",
+     "link": "https://www.tagesschau.de/tagesschau_20_uhr/video-1683982.html",
+     "image": "https://images.tagesschau.de/image/fb82a90e-4056-4d99-9e96-d2ab2e09c7f9/AAABodt80OY/AAABnSSvrFg/16x9-big/sendungsbild-1827636.jpg?width=1920",
+     "aggregator": false,
+     "published": "2026-11-14T19:15:58+00:00"
+    },
+    {
+     "source": "ZDFheute",
+     "region": "DE",
+     "weight": 1.0,
+     "title": "Trauerstaatsakt und Gottesdienst für Hubert Aiwanger",
+     "summary": "Zehn Tage nach dem Tod von Hubert Aiwanger wird heute in München von ihm Abschied genommen.",
+     "link": "https://www.zdfheute.de/video/trauer-staatsakt-aiwanger-100.html",
+     "image": "https://www.zdfheute.de/assets/aiwanger-trauer-staatsakt-100~384x216?cb=1794667282079",
+     "aggregator": false,
+     "published": "2026-11-14T13:05:08+00:00"
+    },
+    {
+     "source": "ZDFheute",
+     "region": "DE",
+     "weight": 1.0,
+     "title": "Hunderte Trauergäste nehmen Abschied von Hubert Aiwanger",
+     "summary": "Mit einem Staatsakt hat Bayern den verstorbenen stelllvertretenden Ministerpräsidenten Hubert Aiwanger geehrt. Das ganze Bundesland trauere, sagte Ministerpräsident Markus Söder.",
+     "link": "https://www.zdfheute.de/politik/deutschland/aiwanger-staatsakt-trauerfeier-100.html",
+     "image": "https://www.zdfheute.de/assets/trauerstaatsakt-fuer-hubert-aiwanger-100~384x216?cb=1794656198261",
+     "aggregator": false,
+     "published": "2026-11-14T12:55:00+00:00"
+    },
+    {
+     "source": "Süddeutsche",
+     "region": "DE",
+     "weight": 0.9,
+     "title": "Staatsakt für Hubert Aiwanger: „Ich danke euch, dass ihr uns diesen Menschen gegeben habt“",
+     "summary": "Voller Respekt sprechen Markus Söder, Ilse Aigner und die anderen Trauerredner beim Staatsakt für den verstorbenen Hubert Aiwanger. Für den bewegendsten Moment sorgt FW-Fraktionschef Florian Streibl.",
+     "link": "https://www.sueddeutsche.de/bayern/bayern-aiwanger-trauerfeier-liebfrauendom-staatsakt-soeder-aigner-li.3580451",
+     "image": "https://www.sueddeutsche.de/2026/11/14/3e99ad8c-a44b-404b-95cf-f9ecc0a50cbc.jpg?rect=223%2C0%2C3555%2C2666&width=1000&fm=jpg&q=60",
+     "aggregator": false,
+     "published": "2026-11-14T15:15:00+00:00"
+    },
+    {
+     "source": "Süddeutsche",
+     "region": "DE",
+     "weight": 0.9,
+     "title": "München: Staatsakt für Hubert Aiwanger beginnt",
+     "summary": "Trauerfeier in München: Das Requiem in der Frauenkirche zelebriert Kardinal Marx, es folgt ein Trauerstaatsakt und ein Trauerempfang in der Residenz.",
+     "link": "https://www.sueddeutsche.de/bayern/hubert-aiwanger-tod-staatsakt-trauerfeier-liebfrauendom-muenchen-markus-soeder-livestream-li.3578802",
+     "image": "https://www.sueddeutsche.de/2026/11/14/83aadb35-0e99-47a7-bba8-b2395efec935.jpg?rect=1978%2C884%2C1871%2C1403&width=1000&fm=jpg&q=60",
+     "aggregator": false,
+     "published": "2026-11-14T09:30:00+00:00"
+    },
+    {
+     "source": "Merkur",
+     "region": "DE",
+     "weight": 0.6,
+     "title": "Trauerstaatsakt für Hubert Aiwanger in Münchner Liebfrauendom: Bilder der Gedenkfeier",
+     "summary": "Trauerstaatsakt für Hubert Aiwanger in Münchner Liebfrauendom: Bilder der Gedenkfeier Merkur Trauerakt in München: Große Anteilnahme bei Abschied von Aiwanger tagesschau.de Bewegender Aiwanger-Abschied im Dom: Söder schrieb SMS „Bei dir alles okay?“ – und bekam keine Antwort Merkur Bayern: Trauerfeier für Hubert Aiwanger - Würdigung durch Söder und Aigner - Bayern - SZ.de SZ.de \"I did it my way\": Kardinal Marx würdigt Aiwangers Engagement BR",
+     "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNYlB6U0k4SXpsTmlwV1dYR1p0XzlZUkdUS1VXYzRreVE3Y2syWDdwSW5DMC0wZ0R6RW5ETGdWb25rMjVVVmk2eWYxb0g2VU16WTA3UFo1ZkRMVnRXN0p0Tkw5SHgwNmRuQXBVc0w3WTdXcUtRSllkXzg3c3JjVVdYN0RqMUFPbHJrQnhfUjh1cWpOUHF6M1VxcjBKMEFXSFJqelhYZWtUWGZ3N0pfUEtKNWhaRVo0akUyNFBR?oc=5",
+     "image": null,
+     "aggregator": true,
+     "published": "2026-11-14T09:09:33+00:00"
+    }
+   ]
+  },
+  {
+   "id": 17,
+   "score": 10.13,
+   "outlets": [
+    "ORF",
+    "SPIEGEL",
+    "NZZ",
+    "n-tv"
+   ],
+   "regions": [
+    "AT",
+    "CH",
+    "DE"
+   ],
+   "trend": [],
+   "newest": "2026-11-14T16:29:46+00:00",
+   "articles": [
+    {
+     "source": "ORF",
+     "region": "AT",
+     "weight": 0.95,
+     "title": "Europäischer Filmpreis: Sandra Hüller zweimal nominiert",
+     "summary": "",
+     "link": "https://orf.at/stories/3448195/",
+     "image": null,
+     "aggregator": false,
+     "published": "2026-11-14T16:29:46+00:00"
+    },
+    {
+     "source": "SPIEGEL",
+     "region": "DE",
+     "weight": 0.9,
+     "title": "Europäischer Filmpreis: Sandra Hüller zweimal nominiert",
+     "summary": "Sandra Hüller ist beim Europäischen Filmpreis für ihre Hauptrollen in »Vaterland« und »Rose« nominiert worden. Eine ungewöhnliche Dopplung? Der deutschen Schauspielerin passiert das nicht zum ersten Mal.",
+     "link": "https://www.spiegel.de/kultur/kino/sandra-hueller-zweimal-fuer-europaeischen-filmpreis-nominiert-a-e73b9895-d242-4dc9-b559-a3f7b8f44e14#ref=rss",
+     "image": "https://cdn.prod.www.spiegel.de/images/e4c3ed5e-72aa-41a4-a8f0-b0a94ef4dbf4_w520_r2.08_fpx59.33_fpy45.jpg",
+     "aggregator": false,
+     "published": "2026-11-14T12:24:00+00:00"
+    },
+    {
+     "source": "NZZ",
+     "region": "CH",
+     "weight": 0.9,
+     "title": "MELDUNGEN KULTUR - Sandra Hüller doppelt für Europäischen Filmpreis nominiert",
+     "summary": "Die neuesten Meldungen aus dem Feuilleton.",
+     "link": "https://www.nzz.ch/feuilleton/sandra-hueller-doppelt-fuer-europaeischen-filmpreis-nominiert-ld.10064027",
+     "image": "https://img-msp-prod.nzz.ch/2026/10/24/08a97931-1936-4244-902f-b9f39df4c256.jpg?width=200&height=200&fit=bounds&quality=75&auto=webp&crop=2000,2000,x500,y0",
+     "aggregator": false,
+     "published": "2026-11-14T11:22:34+00:00"
+    },
+    {
+     "source": "n-tv",
+     "region": "DE",
+     "weight": 0.8,
+     "title": "Beste Schauspielerin: Sandra Hüller hat doppelte Chancen auf Europäischen Filmpreis",
+     "summary": "Für ihre Rollen in \"Vaterland\" und in \"Rose\" ist die deutsche Schauspielerin Sandra Hüller gleich doppelt für den Europäischen Filmpreis nominiert. Dabei hat ein Film besonders große Chancen auf mehrere Preise.",
+     "link": "https://www.n-tv.de/leute/Sandra-Hueller-hat-doppelte-Chancen-auf-Europaeischen-Filmpreis-id31534567.html",
+     "image": "https://www.n-tv.de/img/31534570/1794674715/Img_4_3/250/627222340.jpg",
+     "aggregator": false,
+     "published": "2026-11-14T16:06:05+00:00"
+    }
+   ]
+  },
+  {
+   "id": 18,
+   "score": 10.06,
+   "outlets": [
+    "tagesschau",
+    "NZZ",
+    "heise online"
+   ],
+   "regions": [
+    "CH",
+    "DE"
+   ],
+   "trend": [],
+   "newest": "2026-11-14T15:05:48+00:00",
+   "articles": [
+    {
+     "source": "tagesschau",
+     "region": "DE",
+     "weight": 1.0,
+     "title": "Fall Nvidia: US-Senatsausschuss lädt Handelsminister Lutnick und Huang vor",
+     "summary": "Der Chef ist zurückgetreten - doch die Aufarbeitung der Spionageaffäre um Jensen Huang und Nvidia beginnt erst. Huang und Handelsminister Lutnick sollen vor dem US-Senat aussagen. Es geht um mögliche Chip-Lieferungen nach China.",
+     "link": "https://www.tagesschau.de/ausland/amerika/nvidia-huang-us-handelsausschuss-100.html",
+     "image": "https://images.tagesschau.de/image/4f5c3720-697a-42e7-b683-4a6d6dd31036/AAABodO7cug/AAABnSSvrFg/16x9-big/huang-lutnick-100.jpg?width=1920",
+     "aggregator": false,
+     "published": "2026-11-13T07:27:43+00:00"
+    },
+    {
+     "source": "tagesschau Wirtschaft",
+     "region": "DE",
+     "weight": 1.0,
+     "title": "Fall Nvidia: US-Senatsausschuss lädt Handelsminister Lutnick und Huang vor",
+     "summary": "Der Chef ist zurückgetreten - doch die Aufarbeitung der Spionageaffäre um Jensen Huang und Nvidia beginnt erst. Huang und Handelsminister Lutnick sollen vor dem US-Senat aussagen. Es geht um mögliche Chip-Lieferungen nach China.",
+     "link": "https://www.tagesschau.de/ausland/amerika/nvidia-huang-us-handelsausschuss-100.html",
+     "image": "https://images.tagesschau.de/image/4f5c3720-697a-42e7-b683-4a6d6dd31036/AAABodO7cug/AAABnSSvrFg/16x9-big/huang-lutnick-100.jpg?width=1920",
+     "aggregator": false,
+     "published": "2026-11-13T07:27:43+00:00"
+    },
+    {
+     "source": "NZZ",
+     "region": "CH",
+     "weight": 0.9,
+     "title": "Er nannte Jensen Huang ein «nationales Heiligtum»: Der US-Handelsminister Howard Lutnick gerät in den Sog des Nvidia-Skandals",
+     "summary": "Finanzminister Scott Bessent wirft Handelsminister Howard Lutnick vor, Exporte der Hochleistungschips von Nvidia nach China nicht verhindert zu haben. Nun untersucht auch der Senat die Affäre.",
+     "link": "https://www.nzz.ch/wirtschaft/er-nannte-jensen-huang-ein-nationales-heiligtum-der-us-handelsminister-howard-lutnick-geraet-in-den-sog-des-nvidia-skandals-ld.10063981",
+     "image": "https://img-msp-prod.nzz.ch/2025/03/14/11fb141a-7ac7-4e55-ab59-10ede9201683.jpeg?width=200&height=200&fit=bounds&quality=75&auto=webp&crop=3667,3667,x1833,y0",
+     "aggregator": false,
+     "published": "2026-11-14T15:05:48+00:00"
+    },
+    {
+     "source": "heise online",
+     "region": "DE",
+     "weight": 0.85,
+     "title": "heise+ | Nvidia ohne Jensen Huang: Wie laufen die Geschäfte weiter?",
+     "summary": "Nvidia versucht, die Affäre um den zurückgetreten CEO Jensen Huang in den Griff zu bekommen. Wie könnte es nun weitergehen?",
+     "link": "https://www.heise.de/news/Nvidia-ohne-Jensen-Huang-Wie-laufen-die-Geschaefte-weiter-11523360.html?wt_mc=rss.red.ho.ho.atom.beitrag_plus.beitrag_plus",
+     "image": null,
+     "aggregator": false,
+     "published": "2026-11-12T17:30:00+00:00"
+    }
+   ]
+  },
+  {
+   "id": 19,
+   "score": 9.83,
+   "outlets": [
+    "tagesschau",
+    "Süddeutsche",
+    "DER STANDARD",
+    "n-tv",
+    "STERN.de"
+   ],
+   "regions": [
+    "AT",
+    "DE",
+    "INT"
+   ],
+   "trend": [],
+   "newest": "2026-11-14T13:48:00+00:00",
+   "articles": [
+    {
+     "source": "tagesschau",
+     "region": "DE",
+     "weight": 1.0,
+     "title": "Mississippi: 32 Verletzte nach Kollision von Dampfer und Tanker",
+     "summary": "Ein Kreuzfahrtschiff ist auf dem Mississippi in New Orleans von einem Tanker gerammt worden. Der Flussdampfer kenterte. Alle Passagiere an Bord überlebten. Die Bürgermeisterin spricht von einem Wunder.",
+     "link": "https://www.tagesschau.de/ausland/amerika/kreuzfahrtschiff-unfall-new-orleans-102.html",
+     "image": "https://images.tagesschau.de/image/4c666b85-a4b1-47cb-a502-ae3a44ffe086/AAABodkGYWQ/AAABnSSvrFg/16x9-big/new-orleans-kreuzfahrtschiff-102.jpg?width=1920",
+     "aggregator": false,
+     "published": "2026-11-14T13:48:00+00:00"
+    },
+    {
+     "source": "tagesschau Ausland",
+     "region": "INT",
+     "weight": 1.0,
+     "title": "Mississippi: 32 Verletzte nach Kollision von Dampfer und Tanker",
+     "summary": "Ein Kreuzfahrtschiff ist auf dem Mississippi in New Orleans von einem Tanker gerammt worden. Der Flussdampfer kenterte. Alle Passagiere an Bord überlebten. Die Bürgermeisterin spricht von einem Wunder.",
+     "link": "https://www.tagesschau.de/ausland/amerika/kreuzfahrtschiff-unfall-new-orleans-102.html",
+     "image": "https://images.tagesschau.de/image/4c666b85-a4b1-47cb-a502-ae3a44ffe086/AAABodkGYWQ/AAABnSSvrFg/16x9-big/new-orleans-kreuzfahrtschiff-102.jpg?width=1920",
+     "aggregator": false,
+     "published": "2026-11-14T13:48:00+00:00"
+    },
+    {
+     "source": "tagesschau Ausland",
+     "region": "INT",
+     "weight": 1.0,
+     "title": "US-Flusskreuzfahrtschiff kentert nach Zusammenprall in New Orleans",
+     "summary": "Das Flusskreuzfahrtschiff \"American Heritage\" ist im Hafen der US-Stadt New Orleans gekentert. Zuvor war es von einem Tanker gerammt worden. An Bord des Schiffes befanden sich mehr als 130 Menschen. Vermisst wird niemand.",
+     "link": "https://www.tagesschau.de/ausland/kreuzfahrtschiff-unfall-new-orleans-100.html",
+     "image": "https://images.tagesschau.de/image/70311613-6efe-4411-b26f-9638163067eb/AAABodk9D7w/AAABnSSvrFg/16x9-big/new-orleans-kreuzfahrtschiff-100.jpg?width=1920",
+     "aggregator": false,
+     "published": "2026-11-14T00:51:37+00:00"
+    },
+    {
+     "source": "Süddeutsche",
+     "region": "DE",
+     "weight": 0.9,
+     "title": "USA: „Wunder“ auf dem Mississippi: Kreuzfahrtschiff kentert, alle überleben",
+     "summary": "In New Orleans drückt ein Tanker ein Kreuzfahrtschiff an die Kaimauer, das danach binnen Minuten kentert. Menschen klettern über die Reling und schwimmen um ihr Leben.",
+     "link": "https://www.sueddeutsche.de/panorama/schiffsunglueck-zusammenstoss-tanker-kentern-kreuzfahrt-mississippi-usa-li.3580353",
+     "image": "https://www.sueddeutsche.de/2026/11/13/4c27a5c8-7582-41ce-9260-fdb7018f5430.jpg?rect=277%2C0%2C2328%2C1746&width=1000&fm=jpg&q=60",
+     "aggregator": false,
+     "published": "2026-11-14T10:13:13+00:00"
+    },
+    {
+     "source": "DER STANDARD",
+     "region": "AT",
+     "weight": 0.85,
+     "title": "Alle Passagiere nach Schiffsunfall in New Orleans geborgen",
+     "summary": "Ein Tanker war mit einem Flusskreuzfahrtschiff zusammengekracht. Das Schiff kippte um. 32 Personen wurden verletzt, kein Passagier wird vermisst",
+     "link": "https://www.derstandard.at/story/3000000349207/tanker-bei-new-orleans-mit-passagierschiff-kollidiert?ref=rss",
+     "image": "https://i.ds.at/fawZcw/rs:fill:150:0/plain/lido-images/2026/11/14/601b65ac-bc94-415d-acfd-2857c29be557.jpg",
+     "aggregator": false,
+     "published": "2026-11-13T21:36:52+00:00"
+    },
+    {
+     "source": "n-tv",
+     "region": "DE",
+     "weight": 0.8,
+     "title": "Kollision auf dem Mississippi: Keine Vermissten nach Schiffsunglück in New Orleans",
+     "summary": "Auf dem Mississippi rammt ein Tanker ein angedocktes Schaufelradschiff, das daraufhin kentert. Mehrere Menschen gehen über Bord. Ob noch Passagiere eingeschlossen sind, ist zunächst unklar. Jetzt gibt es eine erste Entwarnung.",
+     "link": "https://www.n-tv.de/panorama/Keine-Vermissten-nach-Schiffsunglueck-in-New-Orleans-id31533166.html",
+     "image": "https://www.n-tv.de/img/31533175/1794617121/Img_4_3/250/image.jpg",
+     "aggregator": false,
+     "published": "2026-11-13T23:48:57+00:00"
+    },
+    {
+     "source": "STERN.de",
+     "region": "DE",
+     "weight": 0.6,
+     "title": "Spektakulärer Crash: Video zeigt Schiffsunglück in New Orleans",
+     "summary": "Spektakulärer Crash: Video zeigt Schiffsunglück in New Orleans STERN.de Mississippi: 32 Verletzte nach Kollision von Dampfer und Tanker tagesschau.de „Wie bei der Titanic“ – Kreuzfahrtschiff mit 130 Passagieren kollidiert mit Tanker WELT «Ein Wunder»: Keine Toten nach Schiffsunglück in New Orleans DIE ZEIT Tanker rammt Raddampfer „American Heritage“ auf dem Mississippi FAZ",
+     "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPR3dydDBKaVRSank3S29wNzBPQ1VnRDFnRXB3RkJCd2VlbXlwcFFoN2Y5aXZzS2stU2t3d1d0aG1wYl9wRmNNVDJDclNjYTdQWWRzSGJNSnZwUzlxZGRGMWxuci03QzJUTXk5RTZBSUp3X1pZYXZ1LThNaFN0Y3VndTNFTjJXZjVfVVdvWnFMdEhIazYxU2s1bXFxTjdJQQ?oc=5",
+     "image": null,
+     "aggregator": true,
+     "published": "2026-11-14T09:02:00+00:00"
+    }
+   ]
+  },
+  {
+   "id": 20,
+   "score": 8.88,
+   "outlets": [
+    "tagesschau Ausland",
+    "Deutschlandfunk"
+   ],
+   "regions": [
+    "DE",
+    "INT"
+   ],
+   "trend": [],
+   "newest": "2026-11-14T19:20:22+00:00",
+   "articles": [
+    {
+     "source": "tagesschau Ausland",
+     "region": "INT",
+     "weight": 1.0,
+     "title": "Nvidia-Skandal: US-Handelsminister Lutnick wegen Chip-Exporten unter Druck",
+     "summary": "US-Handelsminister Lutnick steht in der Kritik. Sein Ministerium soll Warnungen vor der in den Nvidia-Skandal verwickelten Firma Megaspeed ignoriert haben. Kabinettskollege Bessent warf ihm Versäumnisse vor.",
+     "link": "https://www.tagesschau.de/ausland/usa-nvidia-finanzminister-handelminister-100.html",
+     "image": "https://images.tagesschau.de/image/434feb3c-9a0f-43d3-afd8-cab5dd0eaeed/AAABodZOA3k/AAABnSSvrFg/16x9-big/howard-lutnick-100.jpg?width=1920",
+     "aggregator": false,
+     "published": "2026-11-13T19:06:39+00:00"
+    },
+    {
+     "source": "Deutschlandfunk",
+     "region": "DE",
+     "weight": 0.95,
+     "title": "Nvidia-Skandal - US-Finanzminister Bessent macht Handelsminister Lutnick für Chip-Lieferungen nach China verantwortlich",
+     "summary": "Im Skandal um den zurückgetretenen Nvidia-Chef Huang steht nun auch US-Handelsminister Lutnick in der Kritik.",
+     "link": "https://www.deutschlandfunk.de/us-finanzminister-bessent-macht-handelsminister-lutnick-fuer-chip-lieferungen-nach-china-verantwortl-106.html",
+     "image": "https://bilder.deutschlandfunk.de/a5/ee/cf/8d/a5eecf8d-6e89-447f-921f-bae180250d58/handelminister-lutnick-usa-100-1920x1920.jpg",
+     "aggregator": false,
+     "published": "2026-11-14T19:20:22+00:00"
+    }
+   ]
+  },
+  {
+   "id": 21,
+   "score": 8.63,
+   "outlets": [
+    "ZDFheute",
+    "Handelsblatt"
+   ],
+   "regions": [
+    "DE"
+   ],
+   "trend": [],
+   "newest": "2026-11-14T18:54:22+00:00",
+   "articles": [
+    {
+     "source": "ZDFheute",
+     "region": "DE",
+     "weight": 1.0,
+     "title": "Die Machtfrage: Klingbeil, Schwesig und der SPD-Vorsitz",
+     "summary": "Die SPD wählt im Januar eine neue Doppelspitze. Wird Lars Klingbeil nochmal kandidieren? Momentan sondiert er seine Chancen. Manuela Schwesig hält sich bedeckt. Wie lange noch?",
+     "link": "https://www.zdfheute.de/politik/deutschland/spd-vorsitz-klingbeil-schwesig-pistorius-parteivorsitz-100.html",
+     "image": "https://www.zdfheute.de/assets/aid-image-73523866-hires-100~384x216?cb=1789987449644",
+     "aggregator": false,
+     "published": "2026-11-14T12:24:00+00:00"
+    },
+    {
+     "source": "Handelsblatt",
+     "region": "DE",
+     "weight": 0.9,
+     "title": "Bundespolitik: Hubertus Heil will für SPD-Vorsitz kandidieren",
+     "summary": "Ein Dauer-Rivale von Vizekanzler Lars Klingbeil tritt für den SPD-Vorsitz an. Der frühere Arbeitsminister Hubertus Heil hat einen entsprechenden Brief an die Landesverbände und den Parteivorstand geschrieben.",
+     "link": "https://www.handelsblatt.com/politik/deutschland/bundespolitik-hubertus-heil-will-fuer-spd-vorsitz-kandidieren/100269928.html",
+     "image": "https://images.handelsblatt.com/E0kWO1e-eaP2/cover/900/506/0/0/107/106/0.5/0.5/hubertus-heil.jpg",
+     "aggregator": false,
+     "published": "2026-11-14T18:54:22+00:00"
+    },
+    {
+     "source": "Handelsblatt",
+     "region": "DE",
+     "weight": 0.9,
+     "title": "Kandidaten-Suche: Heil tritt an - Wer noch Chancen auf den SPD-Vorsitz hat",
+     "summary": "Der erste wagt sich aus der Deckung: Ein Dauer-Rivale von Vizekanzler Lars Klingbeil tritt für den SPD-Vorsitz an. Wer könnte sonst noch kandidieren?",
+     "link": "https://www.handelsblatt.com/politik/deutschland/kandidaten-suche-heil-tritt-an-wer-noch-chancen-auf-den-spd-vorsitz-hat/100269926.html",
+     "image": "https://images.handelsblatt.com/E0kWO1e-eaP2/cover/900/506/0/0/107/106/0.5/0.5/hubertus-heil.jpg",
+     "aggregator": false,
+     "published": "2026-11-14T18:39:34+00:00"
+    }
+   ]
+  },
+  {
+   "id": 22,
+   "score": 8.48,
+   "outlets": [
+    "Deutschlandfunk",
+    "n-tv"
+   ],
+   "regions": [
+    "DE"
+   ],
+   "trend": [],
+   "newest": "2026-11-14T19:20:22+00:00",
+   "articles": [
+    {
+     "source": "Deutschlandfunk",
+     "region": "DE",
+     "weight": 0.95,
+     "title": "Koalition - Diskussion um Senkung der Stromsteuer geht weiter",
+     "summary": "Bundeskanzler Merz hält an den Plänen für eine Senkung der Stromsteuer fest. Es sei weiterhin sein Ziel, die Stromsteuer auf das europäische Minimum abzusenken, betonte der CDU-Vorsitzende. Dies solle ab dem nächsten Jahr in vollständiger Höhe geschehen.",
+     "link": "https://www.deutschlandfunk.de/diskussion-um-senkung-der-stromsteuer-geht-weiter-110.html",
+     "image": "https://bilder.deutschlandfunk.de/eb/98/0a/c5/eb980ac5-d1c5-4284-befc-b8558af6f32b/bundeskanzler-merz-cdu-klausurtagung-senkung-stromsteuer-100-1920x1920.jpg",
+     "aggregator": false,
+     "published": "2026-11-14T19:20:22+00:00"
+    },
+    {
+     "source": "n-tv",
+     "region": "DE",
+     "weight": 0.8,
+     "title": "Entlastung für alle?: Debatte um Senkung der Stromsteuer geht weiter",
+     "summary": "In der Koalition rumort es weiter: Während sich führende CDU-Politiker für eine Senkung der Stromsteuer für Privatunternehmen stark machen, stellt die SPD Bedingungen. Ob der bevorstehende Koalitionsausschuss eine Einigung hervorbringen wird, ist fraglich.",
+     "link": "https://www.n-tv.de/politik/Debatte-um-Senkung-der-Stromsteuer-geht-weiter-id31534491.html",
+     "image": "https://www.n-tv.de/img/31534486/1794670928/Img_4_3/250/580039085.jpg",
+     "aggregator": false,
+     "published": "2026-11-14T15:35:14+00:00"
+    }
+   ]
+  },
+  {
+   "id": 23,
+   "score": 7.88,
+   "outlets": [
+    "tagesschau",
+    "Deutschlandfunk"
+   ],
+   "regions": [
+    "DE"
+   ],
+   "trend": [],
+   "newest": "2026-11-14T19:20:22+00:00",
+   "articles": [
+    {
+     "source": "tagesschau",
+     "region": "DE",
+     "weight": 1.0,
+     "title": "Pläne für höhere Abzüge bei vorgezogener Rente",
+     "summary": "Die Einsparungen der Regierung treffen die Rentenversicherung mehr als geplant - und damit stellt sich die Frage, wie die Einbußen ausgeglichen werden können. Die CSU bringt nun höhere Abschläge bei Frührentnern ins Spiel. Von F. Aischmann.",
+     "link": "https://www.tagesschau.de/inland/innenpolitik/rente-versicherung-abschlaege-100.html",
+     "image": "https://images.tagesschau.de/image/b3a3c354-5f2d-4a9f-92a3-2b7089c93450/AAABodq066c/AAABnSSvrFg/16x9-big/rentner-165.jpg?width=1920",
+     "aggregator": false,
+     "published": "2026-11-14T15:37:32+00:00"
+    },
+    {
+     "source": "tagesschau Inland",
+     "region": "DE",
+     "weight": 1.0,
+     "title": "Pläne für höhere Abzüge bei vorgezogener Rente",
+     "summary": "Die Einsparungen der Regierung treffen die Rentenversicherung mehr als geplant - und damit stellt sich die Frage, wie die Einbußen ausgeglichen werden können. Die CSU bringt nun höhere Abschläge bei Frührentnern ins Spiel. Von F. Aischmann.",
+     "link": "https://www.tagesschau.de/inland/innenpolitik/rente-versicherung-abschlaege-100.html",
+     "image": "https://images.tagesschau.de/image/b3a3c354-5f2d-4a9f-92a3-2b7089c93450/AAABodq066c/AAABnSSvrFg/16x9-big/rentner-165.jpg?width=1920",
+     "aggregator": false,
+     "published": "2026-11-14T15:37:32+00:00"
+    },
+    {
+     "source": "Deutschlandfunk",
+     "region": "DE",
+     "weight": 0.95,
+     "title": "Altersvorsorge - Pläne: Abzüge bei Frührente sollen von 0,3 auf 0,4 Prozent pro Monat steigen",
+     "summary": "Die Bundesregierung plant höhere Abzüge für Menschen, die vor Erreichen der Regelaltersgrenze in Rente gehen. Nach Angaben des CSU-Landesgruppenchefs Hoffmann sollen die Abschläge von 0,3 auf 0,4 Prozent pro Monat angehoben werden.",
+     "link": "https://www.deutschlandfunk.de/plaene-abzuege-bei-fruehrente-sollen-von-0-3-auf-0-4-prozent-pro-monat-steigen-100.html",
+     "image": "https://bilder.deutschlandfunk.de/49/d6/03/03/49d60303-6781-45d1-9958-81fc676e4b4b/rente-alter-102-1920x1920.jpg",
+     "aggregator": false,
+     "published": "2026-11-14T19:20:22+00:00"
+    }
+   ]
+  },
+  {
+   "id": 24,
+   "score": 7.88,
+   "outlets": [
+    "tagesschau",
+    "Deutschlandfunk"
+   ],
+   "regions": [
+    "DE"
+   ],
+   "trend": [],
+   "newest": "2026-11-14T19:20:22+00:00",
+   "articles": [
+    {
+     "source": "tagesschau",
+     "region": "DE",
+     "weight": 1.0,
+     "title": "Bahn zieht positive Bilanz zu Alkoholverbot an Bahnhöfen",
+     "summary": "Seit einem Monat ist bundesweit der Konsum von Alkohol an Bahnhöfen untersagt. Die Deutsche Bahn zeigt sich in einer ersten Bilanz zufrieden. Weniger Müll, weniger Konflikte - die Situation habe sich für Reisende und Mitarbeitende verbessert.",
+     "link": "https://www.tagesschau.de/inland/gesellschaft/bahn-alkohol-verbot-bilanz-100.html",
+     "image": "https://images.tagesschau.de/image/9fe06521-e9d3-4c8b-b3f6-a46767c2e54e/AAABodl-Glc/AAABnSSvrFg/16x9-big/alkoholverbot-bahngelaende-100.jpg?width=1920",
+     "aggregator": false,
+     "published": "2026-11-14T10:07:05+00:00"
+    },
+    {
+     "source": "tagesschau Inland",
+     "region": "DE",
+     "weight": 1.0,
+     "title": "Bahn zieht positive Bilanz zu Alkoholverbot an Bahnhöfen",
+     "summary": "Seit einem Monat ist bundesweit der Konsum von Alkohol an Bahnhöfen untersagt. Die Deutsche Bahn zeigt sich in einer ersten Bilanz zufrieden. Weniger Müll, weniger Konflikte - die Situation habe sich für Reisende und Mitarbeitende verbessert.",
+     "link": "https://www.tagesschau.de/inland/gesellschaft/bahn-alkohol-verbot-bilanz-100.html",
+     "image": "https://images.tagesschau.de/image/9fe06521-e9d3-4c8b-b3f6-a46767c2e54e/AAABodl-Glc/AAABnSSvrFg/16x9-big/alkoholverbot-bahngelaende-100.jpg?width=1920",
+     "aggregator": false,
+     "published": "2026-11-14T10:07:05+00:00"
+    },
+    {
+     "source": "Deutschlandfunk",
+     "region": "DE",
+     "weight": 0.95,
+     "title": "Bundesweite Regel - Deutsche Bahn zieht positive Bilanz bei Alkoholverbot an Bahnhöfen",
+     "summary": "Einen Monat nach dem Inkrafttreten des Alkoholverbots an allen Bahnhöfen hat die Deutsche Bahn eine erste positive Bilanz gezogen.",
+     "link": "https://www.deutschlandfunk.de/deutsche-bahn-zieht-positive-bilanz-bei-alkoholverbot-an-bahnhoefen-104.html",
+     "image": "https://bilder.deutschlandfunk.de/NO/VA/_5/93/NOVA_5932cb9e155ad91b021565437579228f/craft-13241752-asset-100-1920x1920.jpg",
+     "aggregator": false,
+     "published": "2026-11-14T19:20:22+00:00"
+    }
+   ]
+  },
+  {
+   "id": 25,
+   "score": 7.76,
+   "outlets": [
+    "tagesschau",
+    "WirtschaftsWoche",
+    "n-tv"
+   ],
+   "regions": [
+    "DE"
+   ],
+   "trend": [],
+   "newest": "2026-11-14T14:47:21+00:00",
+   "articles": [
+    {
+     "source": "tagesschau",
+     "region": "DE",
+     "weight": 1.0,
+     "title": "Rückt eine Übernahme der Meyer Werft durch MSC näher?",
+     "summary": "Die weltweit größte Reederei MSC soll einem Spiegel-Bericht zufolge kommende Woche ein Kaufrecht für die Anteile von Bund und Land an der Meyer Werft erhalten. Das Land Niedersachsen dementiert.",
+     "link": "https://www.tagesschau.de/inland/regional/niedersachsen/meyer-werft-wird-uebernahme-durch-weltgroesste-reederei-msc-konkret,meyerwerft-164.html",
+     "image": "https://images.ndr.de/image/b8b159ca-818f-4bba-befd-dee2e4d1648f/AAABodoC0uY/AAABnSSvrFg/16x9-big/meyerwerft-168.jpg?width=1920",
+     "aggregator": false,
+     "published": "2026-11-14T12:18:44+00:00"
+    },
+    {
+     "source": "WirtschaftsWoche",
+     "region": "DE",
+     "weight": 0.85,
+     "title": "Reedereikonzern: MSC steht wohl kurz vor Kauf der Meyer Werft",
+     "summary": "Der Bund will laut einem Medienbericht MSC ein Kaufrecht auf die Meyer Werft einräumen. Kommende Woche soll eine Vereinbarung unterzeichnet werden.",
+     "link": "https://www.wiwo.de/unternehmen/industrie/reedereikonzern-msc-steht-wohl-kurz-vor-kauf-der-meyer-werft/100269889.html",
+     "image": "https://images.wiwo.de/-TqW4bci8wFi/cover/900/506/0/0/230/231/0.5/0.5/archiv-31.01.2025-niedersachsen-papenburg-das-kreuzfahrtschiff-asuka-iii-liegt-im-januar-2025.jpg",
+     "aggregator": false,
+     "published": "2026-11-14T14:47:21+00:00"
+    },
+    {
+     "source": "n-tv",
+     "region": "DE",
+     "weight": 0.8,
+     "title": "Staat steigt aus: Weltgrößte Reederei MSC will offenbar Meyer Werft kaufen",
+     "summary": "Einem Medienbericht zufolge will die Genfer Reederei MSC den Großteil der Meyer Werft übernehmen. Dafür müssten der Bund und Niedersachsen deutlich früher bei Deutschlands letzter großen Kreuzfahrtschiffwerft aussteigen als geplant. Die Eignerfamilie will demnach aufstocken.",
+     "link": "https://www.n-tv.de/wirtschaft/Weltgroesste-Reederei-MSC-will-offenbar-Meyer-Werft-kaufen-id31534236.html",
+     "image": "https://www.n-tv.de/img/31534290/1794665268/Img_4_3/250/628867621.jpg",
+     "aggregator": false,
+     "published": "2026-11-14T13:34:59+00:00"
+    }
+   ]
+  },
+  {
+   "id": 26,
+   "score": 7.63,
+   "outlets": [
+    "WirtschaftsWoche",
+    "WELT",
+    "n-tv"
+   ],
+   "regions": [
+    "DE"
+   ],
+   "trend": [],
+   "newest": "2026-11-14T12:36:04+00:00",
+   "articles": [
+    {
+     "source": "WirtschaftsWoche",
+     "region": "DE",
+     "weight": 0.85,
+     "title": "Militärintervention: Kuba bereitet sich auf möglichen Angriff der USA vor",
+     "summary": "US-Präsident Donald Trump hat in einem Interview eine Militäraktion auf Kuba nicht ausgeschlossen: „Ich will Kuba erledigt haben, bevor ich gehe.“",
+     "link": "https://www.wiwo.de/politik/ausland/kuba-und-donald-trump-karibikstaat-bereitet-sich-auf-moeglichen-angriff-der-usa-vor/100269869.html",
+     "image": "https://images.wiwo.de/gWHPjGmWNZFh/cover/900/506/0/0/313/312/0.5/0.5/people-sleep-outside-the-charity-run-quisicuaba-association-community-kitchen-to-secure-their-place.jpg",
+     "aggregator": false,
+     "published": "2026-11-14T10:04:57+00:00"
+    },
+    {
+     "source": "WELT",
+     "region": "DE",
+     "weight": 0.8,
+     "title": "Kuba bereitet sich auf Angriff der USA vor",
+     "summary": "Kuba bereitet sich laut Präsident Miguel Díaz-Canel auf einen möglichen Angriff des US-Militärs vor. „Wir sind entschlossen, jeden Versuch einer ausländischen Militäraggression gegen unser Land abzuwehren“, so Díaz-Canel.",
+     "link": "https://www.welt.de/politik/ausland/video6af853c96df4bbeedf7a2ea6/karibikinsel-kuba-bereitet-sich-auf-angriff-der-usa-vor.html",
+     "image": "https://images.welt.de/6af853c96df4bbeedf7a2ea6/b136a5a333de01e9ba23da99f31af2a1/ci16x9-w1200/dpa-com-261114-935-1742034-jpg",
+     "aggregator": false,
+     "published": "2026-11-14T12:36:04+00:00"
+    },
+    {
+     "source": "n-tv",
+     "region": "DE",
+     "weight": 0.8,
+     "title": "Trump will Land \"erledigt haben\": Kuba bereitet sich auf US-Angriff vor",
+     "summary": "US-Präsident Trump spricht wieder von einer möglichen Militärintervention auf Kuba. Die Führung der sozialistischen Karibikinsel gibt sich entschlossen, das Land im Angriffsfall zu verteidigen. Es laufen bereits regelmäßige Militärübungen.",
+     "link": "https://www.n-tv.de/politik/Kuba-bereitet-sich-auf-US-Angriff-vor-id31533536.html",
+     "image": "https://www.n-tv.de/img/30706748/1779126945/Img_4_3/250/587396906.jpg",
+     "aggregator": false,
+     "published": "2026-11-14T08:15:59+00:00"
+    }
+   ]
+  },
+  {
+   "id": 27,
+   "score": 7.59,
+   "outlets": [
+    "tagesschau",
+    "heise online",
+    "Golem"
+   ],
+   "regions": [
+    "DE"
+   ],
+   "trend": [],
+   "newest": "2026-11-14T11:35:02+00:00",
+   "articles": [
+    {
+     "source": "tagesschau",
+     "region": "DE",
+     "weight": 1.0,
+     "title": "Weltweit mehr Urlaubsanträge vor Start des Videospiels \"GTA VI\"",
+     "summary": "13 Jahre nach seiner letzten Version steht das neue Videospiel \"Grand Theft Auto VI\" vor der Premiere. Software-Anbieter berichten von weltweit gestiegenen Urlaubsanträgen im Vorfeld. Der Entwickler hofft auf ein Milliardengeschäft.",
+     "link": "https://www.tagesschau.de/wirtschaft/verbraucher/weltweit-mehr-urlaubsantraege-start-gta6-100.html",
+     "image": "https://images.tagesschau.de/image/12af396e-7e92-45b4-86cc-bc2d73c912e3/AAABodOvJLM/AAABnSSvrFg/16x9-big/gta-122.jpg?width=1920",
+     "aggregator": false,
+     "published": "2026-11-13T09:12:03+00:00"
+    },
+    {
+     "source": "tagesschau Wirtschaft",
+     "region": "DE",
+     "weight": 1.0,
+     "title": "Weltweit mehr Urlaubsanträge vor Start des Videospiels \"GTA VI\"",
+     "summary": "13 Jahre nach seiner letzten Version steht das neue Videospiel \"Grand Theft Auto VI\" vor der Premiere. Software-Anbieter berichten von weltweit gestiegenen Urlaubsanträgen im Vorfeld. Der Entwickler hofft auf ein Milliardengeschäft.",
+     "link": "https://www.tagesschau.de/wirtschaft/verbraucher/weltweit-mehr-urlaubsantraege-start-gta6-100.html",
+     "image": "https://images.tagesschau.de/image/12af396e-7e92-45b4-86cc-bc2d73c912e3/AAABodOvJLM/AAABnSSvrFg/16x9-big/gta-122.jpg?width=1920",
+     "aggregator": false,
+     "published": "2026-11-13T09:12:03+00:00"
+    },
+    {
+     "source": "heise online",
+     "region": "DE",
+     "weight": 0.85,
+     "title": "Bereit für GTA 6: Die Checkliste zum Release von Grand Theft Auto VI",
+     "summary": "GTA 6 steht in den Startlöchern und Millionen von Spielern warten sehnsüchtig auf den Release. Wir zeigen, was man vor dem Launch des Spiels wissen muss.",
+     "link": "https://www.heise.de/bestenlisten/ratgeber/bereit-fuer-gta-6-die-checkliste-zum-release-von-grand-theft-auto-vi/3ht03fp?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
+     "image": null,
+     "aggregator": false,
+     "published": "2026-11-12T16:00:00+00:00"
+    },
+    {
+     "source": "Golem",
+     "region": "DE",
+     "weight": 0.75,
+     "title": "GTA 6: Warum jetzt alle Urlaub nehmen wollen",
+     "summary": "Weltweit reichen Beschäftigte überdurchschnittlich viele Urlaubsanträge ein, nur um den Release von Grand Theft Auto VI nicht zu verpassen. ( GTA 6 , Arbeit )",
+     "link": "https://www.golem.de/news/gta-6-warum-jetzt-alle-urlaub-nehmen-wollen-2611-215221.html",
+     "image": "https://cpx.golem.de/cpx.php?class=17&amp;aid=215221&amp;page=1&amp;ts=1794656102",
+     "aggregator": false,
+     "published": "2026-11-14T11:35:02+00:00"
+    }
+   ]
+  }
+ ]
+}
