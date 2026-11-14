@@ -1,0 +1,69 @@
+{
+  "format": "single",
+  "candidate_id": 18,
+  "new_development": "Neu seit 12. Nov: Huang ist zurückgetreten, der US-Senat lädt Huang und Handelsminister Lutnick vor, Finanzminister Bessent macht Lutnick für Chip-Lieferungen nach China verantwortlich.",
+  "pillar": "WELT",
+  "region": "INT",
+  "kicker": "WASHINGTON",
+  "hook_screen": "NVIDIA-SKANDAL!",
+  "hook_voice": "Nvidia-Skandal erreicht Trump: Senat lädt seinen Handelsminister vor.",
+  "beats": [
+    {
+      "voice": "Howard Lutnick muss aussagen – zusammen mit Ex-Nvidia-Chef Jensen Huang. Es geht um Chips für China.",
+      "big": "US-SENAT",
+      "label": "Lutnick und Huang sollen aussagen"
+    },
+    {
+      "voice": "Finanzminister Scott Bessent greift Lutnick offen an: Er habe die Exporte nicht verhindert.",
+      "big": "BESSENT",
+      "label": "Minister gegen Minister"
+    },
+    {
+      "voice": "Lutnicks Ministerium soll Warnungen vor der Firma Megaspeed ignoriert haben. Huang trat nach einer Affäre mit einer mutmaßlichen Spionin zurück.",
+      "big": "MEGASPEED",
+      "label": "Warnungen ignoriert?"
+    },
+    {
+      "voice": "Laut Medienberichten wurde Trump zweimal informiert. Er bestreitet, davon gewusst zu haben.",
+      "big": "2×",
+      "label": "Trump informiert – laut Medienberichten"
+    }
+  ],
+  "loop_line": "Was wusste Trump wirklich – und wer muss im Nvidia-Skandal jetzt gehen?",
+  "headline": "Nvidia-Skandal erreicht Trumps Kabinett",
+  "highlight": [
+    "Nvidia-Skandal"
+  ],
+  "entities": [
+    "Howard Lutnick",
+    "Scott Bessent",
+    "Jensen Huang",
+    "Donald Trump"
+  ],
+  "youtube_title": "Nvidia-Skandal erreicht Trump: Was wusste der Präsident?",
+  "description_lead": "Im Nvidia-Skandal um den zurückgetretenen Chef Jensen Huang wirft US-Finanzminister Scott Bessent Handelsminister Howard Lutnick vor, Chip-Lieferungen nach China nicht verhindert zu haben; der US-Senat lädt Lutnick und Huang vor. Laut Medienberichten wurde Donald Trump zweimal über die Affäre mit einer mutmaßlichen chinesischen Spionin unterrichtet – er bestreitet, davon gewusst zu haben.",
+  "tags": [
+    "nvidia",
+    "jensen huang",
+    "trump",
+    "donald trump",
+    "Nvidia-Skandal",
+    "Howard Lutnick",
+    "Scott Bessent",
+    "US-Senat",
+    "Handelsminister",
+    "China",
+    "Chip-Exporte",
+    "Megaspeed",
+    "Spionage",
+    "usa"
+  ],
+  "hashtags": [
+    "#nvidia",
+    "#trump",
+    "#usa"
+  ],
+  "facebook_caption_line1": "Nvidia-Skandal erreicht Trumps Kabinett: Finanzminister Bessent greift Handelsminister Lutnick an – der US-Senat lädt Lutnick und Huang vor.",
+  "facebook_question": "Wie viel wusste Trump über die Nvidia-Affäre – was meinen Sie?",
+  "comment_question": "Muss Handelsminister Lutnick wegen des Nvidia-Skandals zurücktreten – ja oder nein?"
+}
