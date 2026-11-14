@@ -1,0 +1,1760 @@
+{
+ "slot": {
+  "id": "nachmittag",
+  "format": "single",
+  "time": "14:30",
+  "label": "am Nachmittag",
+  "focus": "Nur Tie-Breaker – immer zuerst die populärsten, meistberichteten Nachrichten. Bei Gleichstand bevorzugt: Der eine größte Aufreger des Tages bis jetzt – bevorzugt Sicherheit, Bundeswehr, Skandale, Entscheidungen mit Folgen für den Alltag.",
+  "pillars": [
+   "POLITIK",
+   "WIRTSCHAFT",
+   "WELT",
+   "TECHNOLOGIE"
+  ],
+  "notify_subscribers": false
+ },
+ "slot_time": "2026-11-14T14:30:00+01:00",
+ "date_text": "Samstag, 14. November 2026",
+ "already_published": [
+  "IG Metall droht mit Ganztags-Streiks",
+  "Dax knackt erstmals 27.000 Punkte",
+  "Gericht: Grenzkontrollen rechtswidrig",
+  "Stromsteuer-Senkung vorerst gescheitert",
+  "Mercedes stoppt Investitionen",
+  "Bundeswehr stoppt Drohnen nach Hack",
+  "Putin lässt Europa an den Tisch",
+  "Microsoft: Outlook und Teams gestört",
+  "VW verdient nur zwölf Euro pro Auto",
+  "Rekordhaushalt: 560 Milliarden Euro",
+  "BND soll im Ausland sabotieren",
+  "Russland droht WM-Gastgeber Deutschland",
+  "Auto von Julian Reichelt angezündet",
+  "BVB beendet Rheinmetall-Deal",
+  "Merz will an den Ukraine-Tisch",
+  "Klopp beendet Nmechas Kronen-Jubel",
+  "DHL erhöht die Paketpreise",
+  "USA stoppen alle Flüge",
+  "Tanker rammt Kreuzfahrtschiff",
+  "EU-Team für Russland-Gespräche steht",
+  "Geheimdienste dürfen zurückhacken",
+  "DFB-Elf siegt 3:1 in Serbien",
+  "Microsoft-Update stoppt Outlook, Teams",
+  "Linke-Chef verteidigt Emde-Verfahren",
+  "Musk unter Druck wegen Starlink",
+  "Trump trifft Putin und Xi in China"
+ ],
+ "candidates": [
+  {
+   "id": 0,
+   "score": 20.84,
+   "outlets": [
+    "tagesschau",
+    "ZDFheute",
+    "Deutsche Welle",
+    "Deutschlandfunk",
+    "SRF News",
+    "Handelsblatt",
+    "WirtschaftsWoche",
+    "DER STANDARD",
+    "n-tv",
+    "tagesschau.de"
+   ],
+   "regions": [
+    "AT",
+    "CH",
+    "DE",
+    "INT"
+   ],
+   "trend": [],
+   "newest": "2026-11-14T11:06:03+00:00",
+   "articles": [
+    {
+     "source": "tagesschau",
+     "region": "DE",
+     "weight": 1.0,
+     "title": "Trump kündigt Dreiertreffen mit Putin und Xi in China an",
+     "summary": "Trump kündigt Dreiertreffen mit Putin und Xi in China an",
+     "link": "https://www.tagesschau.de/video/video-1683612.html",
+     "image": "https://images.tagesschau.de/image/c2342cbe-52bb-4006-baef-7e2ed85accbf/AAABodklrZQ/AAABnSSvrFg/16x9-big/sendungsbild-1827326.jpg?width=1920",
+     "aggregator": false,
+     "published": "2026-11-14T08:21:32+00:00"
+    },
+    {
+     "source": "tagesschau",
+     "region": "DE",
+     "weight": 1.0,
+     "title": "Weißes Haus kündigt Dreiertreffen von Trump mit Putin und Xi an",
+     "summary": "Es wäre das erste Dreiertreffen der Staatschefs der USA, Russlands und Chinas. Laut Weißem Haus soll es beim kommenden Apec-Gipfel in Shenzhen stattfinden. Hauptthema: der Abbau von Atomwaffen. Auch der Iran-Krieg könnte zur Sprache kommen.",
+     "link": "https://www.tagesschau.de/ausland/amerika/treffen-trump-putin-xi-100.html",
+     "image": "https://images.tagesschau.de/image/9d3761e3-aa01-4a4b-a182-a99466c453f8/AAABodf8HlI/AAABnSSvrFg/16x9-big/matroschka-trump-putin-xi-100.jpg?width=1920",
+     "aggregator": false,
+     "published": "2026-11-14T03:18:01+00:00"
+    },
+    {
+     "source": "tagesschau Ausland",
+     "region": "INT",
+     "weight": 1.0,
+     "title": "Weißes Haus kündigt Dreiertreffen von Trump mit Putin und Xi an",
+     "summary": "Es wäre das erste Dreiertreffen der Staatschefs der USA, Russlands und Chinas. Laut Weißem Haus soll es beim kommenden Apec-Gipfel in Shenzhen stattfinden. Hauptthema: der Abbau von Atomwaffen. Auch der Iran-Krieg könnte zur Sprache kommen.",
+     "link": "https://www.tagesschau.de/ausland/amerika/treffen-trump-putin-xi-100.html",
+     "image": "https://images.tagesschau.de/image/9d3761e3-aa01-4a4b-a182-a99466c453f8/AAABodf8HlI/AAABnSSvrFg/16x9-big/matroschka-trump-putin-xi-100.jpg?width=1920",
+     "aggregator": false,
+     "published": "2026-11-14T03:18:01+00:00"
+    },
+    {
+     "source": "ZDFheute",
+     "region": "DE",
+     "weight": 1.0,
+     "title": "Weißes Haus: Trump trifft sich mit Putin und Xi in China",
+     "summary": "Erstmals sollen Trump, Xi und Putin nach Angaben des Weißen Hauses zu einem Dreiertreffen nächste Woche in China zusammenkommen. Es soll auch um Atomwaffen gehen.",
+     "link": "https://www.zdfheute.de/politik/ausland/usa-dreiertreffen-trump-xi-putin-china-100.html",
+     "image": "https://www.zdfheute.de/assets/26-apu29-10-trump-102~384x216?cb=1793976811157",
+     "aggregator": false,
+     "published": "2026-11-14T02:38:00+00:00"
+    },
+    {
+     "source": "Deutsche Welle",
+     "region": "INT",
+     "weight": 0.95,
+     "title": "Weißes Haus kündigt Dreiertreffen Trumps mit Xi und Putin an",
+     "summary": "Das gab es bislang noch nicht: Erstmals wollen US-Präsident Donald Trump, Chinas Staatschef Xi Jinping und Kremlchef Wladimir Putin zusammenkommen. Die Beratungen sind für den nächsten Donnerstag in China geplant.",
+     "link": "https://www.dw.com/de/weißes-haus-kündigt-dreiertreffen-trumps-mit-xi-und-putin-an/a-79946925?maca=de-rss-de-all-1119-xml-mrss",
+     "image": "https://static.dw.com/image/79946435_302.jpg",
+     "aggregator": false,
+     "published": "2026-11-14T09:19:00+00:00"
+    },
+    {
+     "source": "Deutsche Welle",
+     "region": "INT",
+     "weight": 0.95,
+     "title": "Xi-Putin-Trump-Gipfel in China?",
+     "summary": "Peking agiert vorsichtig angesichts der Spekulationen über ein mögliches Gipfeltreffen zwischen Xi, Putin und Trump. China möchte den Eindruck vermeiden, sich zu stark in den Ukraine-Krieg einzumischen.",
+     "link": "https://www.dw.com/de/xi-putin-trump-gipfel-in-china/a-79941737?maca=de-rss-de-all-1119-xml-mrss",
+     "image": "https://static.dw.com/image/77733980_302.jpg",
+     "aggregator": false,
+     "published": "2026-11-13T14:20:00+00:00"
+    },
+    {
+     "source": "Deutschlandfunk",
+     "region": "DE",
+     "weight": 0.95,
+     "title": "Apec-Gipfel - US-Regierung: Trump trifft Putin und Xi am kommenden Donnerstag",
+     "summary": "Die US-Regierung hat Details zum geplanten Treffen von Präsident Trump mit dem russischen Staatschef Putin und Chinas Staatschef Xi mitgeteilt.",
+     "link": "https://www.deutschlandfunk.de/us-regierung-trump-trifft-putin-und-xi-am-kommenden-donnerstag-100.html",
+     "image": "https://bilder.deutschlandfunk.de/75/e8/a2/56/75e8a256-97dc-4f4c-a0e5-1b563bfdabe2/trump-xi-108-1920x1920.jpg",
+     "aggregator": false,
+     "published": "2026-11-14T11:06:03+00:00"
+    },
+    {
+     "source": "SRF News",
+     "region": "CH",
+     "weight": 0.95,
+     "title": "In China – Weisses Haus kündigt Dreiertreffen Trumps mit Xi und Putin an",
+     "summary": "Bislang gab es nur bilaterale Gespräche zwischen den Atommächten, das Treffen ist historisch.",
+     "link": "https://www.srf.ch/news/international/in-china-weisses-haus-kuendigt-dreiertreffen-trumps-mit-xi-und-putin-an",
+     "image": "https://www.srf.ch/static/cms/images//320ws/164f9e.webp",
+     "aggregator": false,
+     "published": "2026-11-14T06:15:43+00:00"
+    }
+   ]
+  },
+  {
+   "id": 1,
+   "score": 16.64,
+   "outlets": [
+    "Deutschlandfunk",
+    "ORF",
+    "SPIEGEL",
+    "ZEIT ONLINE",
+    "DER STANDARD",
+    "WELT",
+    "n-tv",
+    "DIE ZEIT"
+   ],
+   "regions": [
+    "AT",
+    "DE"
+   ],
+   "trend": [],
+   "newest": "2026-11-14T11:06:03+00:00",
+   "articles": [
+    {
+     "source": "Deutschlandfunk",
+     "region": "DE",
+     "weight": 0.95,
+     "title": "Ukraine - Selenskyj: USA haben Gebietsabtretungen an Russland im Gegenzug für eine NATO-Mitgliedschaft ins Gespräch gebracht",
+     "summary": "Die USA haben nach Angaben des ukrainischen Präsidenten Selenskyj eine NATO-Mitgliedschaft seines Landes bei gleichzeitigen Gebietsabtretungen an Russland ins Gespräch gebracht.",
+     "link": "https://www.deutschlandfunk.de/selenskyj-usa-haben-gebietsabtretungen-an-russland-im-gegenzug-fuer-eine-nato-mitgliedschaft-ins-ges-100.html",
+     "image": "https://bilder.deutschlandfunk.de/54/48/fe/aa/5448feaa-710f-4b18-8d99-573ff6a166b9/selenskyj-186-1920x1920.jpg",
+     "aggregator": false,
+     "published": "2026-11-14T11:06:03+00:00"
+    },
+    {
+     "source": "ORF",
+     "region": "AT",
+     "weight": 0.95,
+     "title": "USA brachten NATO-Beitritt ins Spiel",
+     "summary": "Die USA haben nach den Worten des ukrainischen Präsidenten Wolodymyr Selenskyj der Ukraine die NATO-Mitgliedschaft im Gegenzug für einen Gebietsverzicht in Aussicht gestellt. Selenskjy bekräftigte seine Haltung, dass Kiew nicht bereit sei, sich aus seinem Hoheitsgebiet zurückzuziehen – stellte gleichzeitig aber auch ein Referendum zu der Frage in den Raum.",
+     "link": "https://orf.at/stories/3448164/",
+     "image": null,
+     "aggregator": false,
+     "published": "2026-11-14T10:47:55+00:00"
+    },
+    {
+     "source": "SPIEGEL",
+     "region": "DE",
+     "weight": 0.9,
+     "title": "Ukraine-Russland-Konflikt: US-Unterhändler bringen offenbar Nato-Beitritt der Ukraine ins Spiel",
+     "summary": "Neue Bewegung in den Ukraineverhandlungen? Laut dem ukrainischen Präsidenten Selenskyj haben US-Verhandler überraschend eine Nato-Mitgliedschaft des Landes ins Spiel gebracht.",
+     "link": "https://www.spiegel.de/ausland/ukraine-russland-konflikt-us-unterhaendler-bringen-offenbar-nato-beitritt-der-ukraine-ins-spiel-a-f8b38fc5-a754-4ec2-bf85-3c857dbd0f96#ref=rss",
+     "image": "https://cdn.prod.www.spiegel.de/images/090a3899-f81b-4d4b-9097-2eb1b73db8d6_w520_r2.08_fpx62.12_fpy44.98.jpg",
+     "aggregator": false,
+     "published": "2026-11-14T10:49:00+00:00"
+    },
+    {
+     "source": "ZEIT ONLINE",
+     "region": "DE",
+     "weight": 0.9,
+     "title": "Krieg gegen die Ukraine: USA sehen laut Selenskyj Nato-Beitritt gegen Gebietsabtritt als Option",
+     "summary": "Ein Nato-Beitritt der Ukraine ist wohl Thema bei den Friedensverhandlungen. Im Gegenzug hätten die USA einen Verzicht auf den Donbass ins Gespräch gebracht. Das Liveblog",
+     "link": "https://www.zeit.de/politik/ausland/ukraine-krieg-news-liveblog",
+     "image": "https://img.zeit.de/politik/ausland/2026-11/selenskyj-ukraine-russland/original__640x360",
+     "aggregator": false,
+     "published": "2026-11-14T10:36:24+00:00"
+    },
+    {
+     "source": "DER STANDARD",
+     "region": "AT",
+     "weight": 0.85,
+     "title": "USA schlagen laut Selenskyj Natobeitritt gegen Gebietsabtritt vor, Kyjiw dagegen",
+     "summary": "Laut Selenskyj sollen die US-Unterhändler die Frage nach einem Natobeitritt der Ukraine im Gegenzug zu Gebietsabtretungen aufgeworfen haben. Die Nato sei \"wieder auf der Tagesordnung\"",
+     "link": "https://www.derstandard.at/jetzt/livebericht/3000000349196/starlink-in-der-ukraine-weiter-eingeschraenkt-us-senatoren-fordern-unterlagen-von-musk?ref=rss",
+     "image": "https://i.ds.at/z_p1WA/rs:fill:150:0/plain/lido-images/2026/11/14/d63f510a-0715-4a81-bda1-21078654dd9c.jpg",
+     "aggregator": false,
+     "published": "2026-11-14T07:25:41+00:00"
+    },
+    {
+     "source": "WELT",
+     "region": "DE",
+     "weight": 0.8,
+     "title": "Nato-Beitritt gegen Donbass-Verzicht? Selenskyj berichtet von brisantem Vorstoß der USA",
+     "summary": "Die USA haben Ukraine-Präsident Selenskyj zufolge der Ukraine die Nato-Mitgliedschaft im Gegenzug für einen Gebietsverzicht in Aussicht gestellt. „Militärisch kann man es machen, aber es ist eine komplexe Operation“, so Sicherheitsexperte Gustav Gressel.",
+     "link": "https://www.welt.de/politik/ausland/video6af839a39985884ef7d788d8/ukraine-nato-beitritt-gegen-donbass-verzicht-selenskyj-berichtet-von-brisantem-vorstoss-der-usa.html",
+     "image": "https://images.welt.de/6af839a39985884ef7d788d8/a98499d7ea1e36bf85dde4cbb1eb8a90/ci16x9-w1200/dpa-com-261016-936-121369-jpg",
+     "aggregator": false,
+     "published": "2026-11-14T10:46:18+00:00"
+    },
+    {
+     "source": "n-tv",
+     "region": "DE",
+     "weight": 0.8,
+     "title": "Details aus Verhandlungen : Selenskyj: USA stellen Nato-Beitritt für Verzicht auf Donbass zur Debatte",
+     "summary": "Neue Details aus der jüngsten Verhandlungsrunde zwischen den USA, Russland und der Ukraine: Der ukrainische Präsident Selenskyj berichtet von der US-Idee, sein Land in die Nato aufzunehmen, wenn es im Gegenzug den Donbass aufgibt. Dass Kiew und Putin dabei mitspielen, ist derzeit eher unwahrscheinlich.",
+     "link": "https://www.n-tv.de/politik/Selenskyj-USA-stellen-Nato-Beitritt-fuer-Verzicht-auf-Donbass-zur-Debatte-id31533890.html",
+     "image": "https://www.n-tv.de/img/31533894/1794655014/Img_4_3/250/image.jpg",
+     "aggregator": false,
+     "published": "2026-11-14T10:25:41+00:00"
+    },
+    {
+     "source": "DIE ZEIT",
+     "region": "DE",
+     "weight": 0.6,
+     "title": "Nato-Beitritt der Ukraine: USA schlagen laut Selenskyj Nato-Beitritt gegen Gebietsabtritt vor",
+     "summary": "Nato-Beitritt der Ukraine: USA schlagen laut Selenskyj Nato-Beitritt gegen Gebietsabtritt vor DIE ZEIT Selenskyj: USA thematisieren Nato-Beitritt der Ukraine für Verzicht auf Donbass WEB.DE Ukraine-Russland-Konflikt: US-Unterhändler bringen offenbar Nato-Beitritt der Ukraine ins Spiel Spiegel Selenskyj: USA boten Ukraine Nato-Beitritt gegen Verzicht von Gebieten an BILD Ukraine: Nato-Beitritt gegen Donbass-Verzicht? Selenskyj berichtet von brisantem Vorstoß der USA WELT",
+     "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQb3VwRWVacWxiOTAxd1JxZzV2VkxQLWtaV0RVZmZVMkxIdTRDTFdkRVZ0VVhXaG44a3QwUG54SWd4OTkzWVY1S3ZzM2hiX2pIcXVIYlAzY3RtRVk5S1RjYXA0UW1RcVJZVGJMc1M3THAybS0zTzd1Z2NzaklMNWEtT2owUHhUR2h5SEJCOVp6b1V0R1ZsWFIyeDJwZm1FelBKMHZXS1Y3V0xINlZzQVE?oc=5",
+     "image": null,
+     "aggregator": true,
+     "published": "2026-11-14T10:45:38+00:00"
+    }
+   ]
+  },
+  {
+   "id": 2,
+   "score": 15.04,
+   "outlets": [
+    "tagesschau",
+    "Deutschlandfunk",
+    "ORF",
+    "SRF News",
+    "Handelsblatt",
+    "NZZ"
+   ],
+   "regions": [
+    "AT",
+    "CH",
+    "DE"
+   ],
+   "trend": [],
+   "newest": "2026-11-14T11:06:03+00:00",
+   "articles": [
+    {
+     "source": "tagesschau",
+     "region": "DE",
+     "weight": 1.0,
+     "title": "Microsoft: Systeme nach Störung komplett wiederhergestellt",
+     "summary": "Probleme bei Microsoft hatten zentrale Cloud-Dienste stundenlang lahmgelegt - Unternehmen und Verbraucher weltweit waren betroffen. Laut Microsoft laufen nun alle Systeme wieder. Hinweise auf böswillige Aktivitäten gebe es nicht.",
+     "link": "https://www.tagesschau.de/wirtschaft/unternehmen/microsoft-stoerung-behoben-100.html",
+     "image": "https://images.tagesschau.de/image/a26b9e2d-86af-4c40-851d-0bc71c016725/AAABodmK3dA/AAABnSSvrFg/16x9-big/microsoft-228.jpg?width=1920",
+     "aggregator": false,
+     "published": "2026-11-14T10:17:44+00:00"
+    },
+    {
+     "source": "tagesschau",
+     "region": "DE",
+     "weight": 1.0,
+     "title": "Was über den Ausfall von Microsoft-Diensten bekannt ist",
+     "summary": "Eine stundenlange Großstörung hat weltweit Dienste des US-Softwarekonzerns Microsoft lahmgelegt, unter anderem das E-Mail-Programm Outlook. Wen es getroffen hat und welche Hintergründe vermutet werden - ein Überblick.",
+     "link": "https://www.tagesschau.de/wirtschaft/unternehmen/faq-ausfall-microsoft-dienste-weltweit-100.html",
+     "image": "https://images.tagesschau.de/image/cf43b90e-dedd-4716-a8b6-a8f22d964037/AAABoYa7d7o/AAABnSSvrFg/16x9-big/microsoft-196.jpg?width=1920",
+     "aggregator": false,
+     "published": "2026-11-14T09:55:34+00:00"
+    },
+    {
+     "source": "tagesschau Wirtschaft",
+     "region": "DE",
+     "weight": 1.0,
+     "title": "Microsoft: Systeme nach Störung komplett wiederhergestellt",
+     "summary": "Probleme bei Microsoft hatten zentrale Cloud-Dienste stundenlang lahmgelegt - Unternehmen und Verbraucher weltweit waren betroffen. Laut Microsoft laufen nun alle Systeme wieder. Hinweise auf böswillige Aktivitäten gebe es nicht.",
+     "link": "https://www.tagesschau.de/wirtschaft/unternehmen/microsoft-stoerung-behoben-100.html",
+     "image": "https://images.tagesschau.de/image/a26b9e2d-86af-4c40-851d-0bc71c016725/AAABodmK3dA/AAABnSSvrFg/16x9-big/microsoft-228.jpg?width=1920",
+     "aggregator": false,
+     "published": "2026-11-14T10:17:44+00:00"
+    },
+    {
+     "source": "tagesschau Wirtschaft",
+     "region": "DE",
+     "weight": 1.0,
+     "title": "Was über den Ausfall von Microsoft-Diensten bekannt ist",
+     "summary": "Eine stundenlange Großstörung hat weltweit Dienste des US-Softwarekonzerns Microsoft lahmgelegt, unter anderem das E-Mail-Programm Outlook. Wen es getroffen hat und welche Hintergründe vermutet werden - ein Überblick.",
+     "link": "https://www.tagesschau.de/wirtschaft/unternehmen/faq-ausfall-microsoft-dienste-weltweit-100.html",
+     "image": "https://images.tagesschau.de/image/cf43b90e-dedd-4716-a8b6-a8f22d964037/AAABoYa7d7o/AAABnSSvrFg/16x9-big/microsoft-196.jpg?width=1920",
+     "aggregator": false,
+     "published": "2026-11-14T09:55:34+00:00"
+    },
+    {
+     "source": "Deutschlandfunk",
+     "region": "DE",
+     "weight": 0.95,
+     "title": "Weltweite Störung - Microsoft: Probleme gingen auf Netzwerk-Update zurück",
+     "summary": "Die lange weltweite Störung bei Online-Diensten von Microsoft ging nach Angaben des Unternehmens auf ein hausinternes Update zurück.",
+     "link": "https://www.deutschlandfunk.de/microsoft-probleme-gingen-auf-netzwerk-update-zurueck-104.html",
+     "image": "https://bilder.deutschlandfunk.de/NO/VA/_f/1e/NOVA_f1ee74d815e7e98093562bcfad712b7b/craft-13546291-asset-100-1920x1920.jpg",
+     "aggregator": false,
+     "published": "2026-11-14T11:06:03+00:00"
+    },
+    {
+     "source": "ORF",
+     "region": "AT",
+     "weight": 0.95,
+     "title": "Microsoft: Alle Probleme behoben",
+     "summary": "",
+     "link": "https://orf.at/stories/3448158/",
+     "image": null,
+     "aggregator": false,
+     "published": "2026-11-14T08:36:33+00:00"
+    },
+    {
+     "source": "SRF News",
+     "region": "CH",
+     "weight": 0.95,
+     "title": "Globale Panne – Microsoft: Alle Dienste wiederhergestellt",
+     "summary": "Betroffen von der weltweiten Störung war der Dienst Microsoft 365 – also Outlook, Teams oder Copilot.",
+     "link": "https://www.srf.ch/news/wirtschaft/globale-panne-microsoft-alle-dienste-wiederhergestellt",
+     "image": "https://www.srf.ch/static/cms/images//320ws/13009d.webp",
+     "aggregator": false,
+     "published": "2026-11-14T07:27:57+00:00"
+    },
+    {
+     "source": "Handelsblatt",
+     "region": "DE",
+     "weight": 0.9,
+     "title": "Nach Cloud-Ausfall: Microsoft: Störung ging auf Netzwerk-Upgrade zurück",
+     "summary": "Eine stundenlange Störung bei Cloud-Diensten von Microsoft traf viele Unternehmen und Verbraucher. Der Software-Riese äußert sich nun zu den Gründen.",
+     "link": "https://www.handelsblatt.com/technik/it-internet/nach-cloud-ausfall-microsoft-stoerung-ging-auf-netzwerk-upgrade-zurueck/100269813.html",
+     "image": "https://images.handelsblatt.com/7MTlchlEaOAl/cover/900/506/0/0/92/91/0.5/0.5/microsoft-stoerung.jpg",
+     "aggregator": false,
+     "published": "2026-11-13T20:01:30+00:00"
+    }
+   ]
+  },
+  {
+   "id": 3,
+   "score": 13.26,
+   "outlets": [
+    "tagesschau",
+    "Deutsche Welle",
+    "Deutschlandfunk",
+    "Süddeutsche",
+    "Handelsblatt"
+   ],
+   "regions": [
+    "DE",
+    "INT"
+   ],
+   "trend": [],
+   "newest": "2026-11-14T11:28:00+00:00",
+   "articles": [
+    {
+     "source": "tagesschau",
+     "region": "DE",
+     "weight": 1.0,
+     "title": "Schlafender Passagier, Möwen in Travemünde, Papst Leo XIV.",
+     "summary": "Schlafender Passagier, Möwen in Travemünde, Papst Leo XIV.",
+     "link": "https://www.tagesschau.de/multimedia/bilder/blickpunkte-10566.html",
+     "image": "https://images.tagesschau.de/image/fb812ba2-f06b-4a9a-9836-422df7530b2b/AAABodlcsCE/AAABnSSvrFg/16x9-big/lincoln-schlafender-100.jpg?width=1920",
+     "aggregator": false,
+     "published": "2026-11-14T10:32:33+00:00"
+    },
+    {
+     "source": "Deutsche Welle",
+     "region": "INT",
+     "weight": 0.95,
+     "title": "Papst Leo XIV. zu Besuch in seinem früheren Bistum in Peru",
+     "summary": "Gut sieben Jahre war der heutige Papst Leo XIV. Bischof von Chiclayo in Peru. Im Rahmen seiner Südamerikareise kehrte er nun an seine alte Wirkungsstätte zurück - und wurde dort wie ein Popstar empfangen.",
+     "link": "https://www.dw.com/de/papst-leo-xiv-zu-besuch-in-seinem-früheren-bistum-in-peru/a-79947665?maca=de-rss-de-all-1119-xml-mrss",
+     "image": "https://static.dw.com/image/79947703_302.jpg",
+     "aggregator": false,
+     "published": "2026-11-14T11:28:00+00:00"
+    },
+    {
+     "source": "Deutsche Welle",
+     "region": "INT",
+     "weight": 0.95,
+     "title": "Begeisterter Empfang für Papst Leo XIV. in Peru",
+     "summary": "Für den Pontifex, der auch die peruanische Staatsbürgerschaft besitzt, ist die letzte Station seiner Lateinamerika-Reise ein Heimspiel. Doch im Beisein von Präsidentin Fujimori findet er mahnende Worte.",
+     "link": "https://www.dw.com/de/begeisterter-empfang-für-papst-leo-xiv-in-peru/a-79926779?maca=de-rss-de-all-1119-xml-mrss",
+     "image": "https://static.dw.com/image/79925065_302.jpg",
+     "aggregator": false,
+     "published": "2026-11-12T10:01:00+00:00"
+    },
+    {
+     "source": "Deutschlandfunk",
+     "region": "DE",
+     "weight": 0.95,
+     "title": "Peru - Papst Leo XIV. feiert Messe mit 500.000 Gläubigen",
+     "summary": "Papst Leo der Vierzehnte hat im Rahmen seiner Südamerikareise die peruanische Stadt Chiclayo besucht.",
+     "link": "https://www.deutschlandfunk.de/papst-leo-xiv-feiert-messe-mit-500-000-glaeubigen-100.html",
+     "image": "https://bilder.deutschlandfunk.de/9d/31/f4/ec/9d31f4ec-7c09-459c-b4aa-4e5f9a790eac/leo-papst-peru-100-1920x1920.jpg",
+     "aggregator": false,
+     "published": "2026-11-14T11:06:03+00:00"
+    },
+    {
+     "source": "Süddeutsche",
+     "region": "DE",
+     "weight": 0.9,
+     "title": "Papst in Lateinamerika: „Padre Roberto“ ist zurück in Peru",
+     "summary": "Hier war er Missionar und Bischof: Papst Leo XIV. wird in der peruanischen Stadt Chiclayo emotional empfangen. Aber auch ein dunkles Kapitel der Kirche begleitet ihn bis hierher.",
+     "link": "https://www.sueddeutsche.de/politik/papst-leo-xiv-peru-li.3577629",
+     "image": "https://www.sueddeutsche.de/2026/11/14/b729d91b-0ddd-4a86-bb31-ee07b398f2af.jpg?rect=167%2C0%2C2667%2C2000&width=1000&fm=jpg&q=60",
+     "aggregator": false,
+     "published": "2026-11-14T10:57:54+00:00"
+    },
+    {
+     "source": "Handelsblatt",
+     "region": "DE",
+     "weight": 0.9,
+     "title": "Besuch in Peru: Papst bei Rückkehr in alte Diözese in Peru gefeiert",
+     "summary": "Leo XIV. ist zurück in der Großstadt Chiclayo, wo er acht Jahre lang Bischof war. Dabei spricht er nach seiner Krebs-OP auch das Thema Gesundheit an. Mehr als eine Million Menschen bejubeln ihn.",
+     "link": "https://www.handelsblatt.com/politik/international/besuch-in-peru-papst-bei-rueckkehr-in-alte-dioezese-in-peru-gefeiert/100269558.html",
+     "image": "https://images.handelsblatt.com/0LCXNdAuVSuC/cover/900/506/0/0/192/192/0.5/0.5/papst-leo-xiv-in-peru.jpg",
+     "aggregator": false,
+     "published": "2026-11-13T16:42:02+00:00"
+    }
+   ]
+  },
+  {
+   "id": 4,
+   "score": 13.04,
+   "outlets": [
+    "tagesschau",
+    "ZDFheute",
+    "Deutschlandfunk",
+    "Süddeutsche",
+    "n-tv"
+   ],
+   "regions": [
+    "DE"
+   ],
+   "trend": [],
+   "newest": "2026-11-14T11:06:03+00:00",
+   "articles": [
+    {
+     "source": "tagesschau",
+     "region": "DE",
+     "weight": 1.0,
+     "title": "Frachter rammt Kreuzfahrtschiff in New Orleans",
+     "summary": "Frachter rammt Kreuzfahrtschiff in New Orleans",
+     "link": "https://www.tagesschau.de/video/video-1683646.html",
+     "image": "https://images.tagesschau.de/image/dcdb7f5b-5b0c-42d7-92fb-cc9ce68c2c7d/AAABodlwh88/AAABnSSvrFg/16x9-big/sendungsbild-1827380.jpg?width=1920",
+     "aggregator": false,
+     "published": "2026-11-14T09:43:44+00:00"
+    },
+    {
+     "source": "ZDFheute",
+     "region": "DE",
+     "weight": 1.0,
+     "title": "Frachter rammt Kreuzfahrtschiff",
+     "summary": "In New Orleans ist ein Frachter mit einem Kreuzfahrtschiff zusammengestoßen. Das Schiff kippte. An Bord der \"American Heritage\" befanden sich rund 130 Passagiere.",
+     "link": "https://www.zdfheute.de/video/panorama-kreuzfahrtschiff-tanker-video-100.html",
+     "image": "https://www.zdfheute.de/assets/kreuzfahrtschiff-new-orleans-100~384x216?cb=1794608863434",
+     "aggregator": false,
+     "published": "2026-11-13T22:27:00+00:00"
+    },
+    {
+     "source": "Deutschlandfunk",
+     "region": "DE",
+     "weight": 0.95,
+     "title": "USA - Frachter rammt Flusskreuzfahrtschiff in New Orleans - 30 Passagiere im Krankenhaus",
+     "summary": "In New Orleans im US-Bundesstaat Louisiana ist es zu einem Schiffsunglück gekommen.",
+     "link": "https://www.deutschlandfunk.de/frachter-rammt-flusskreuzfahrtschiff-in-new-orleans-30-passagiere-im-krankenhaus-102.html",
+     "image": "https://bilder.deutschlandfunk.de/e1/06/7d/e2/e1067de2-6230-41ae-943b-92085b1ff504/die-nachrichten-kachel-2176-zu1224-100-768x768.jpg",
+     "aggregator": false,
+     "published": "2026-11-14T11:06:03+00:00"
+    },
+    {
+     "source": "Süddeutsche",
+     "region": "DE",
+     "weight": 0.9,
+     "title": "USA: „Wunder“ auf dem Mississippi: Kreuzfahrtschiff kentert, alle überleben",
+     "summary": "In New Orleans drückt ein Tanker ein Kreuzfahrtschiff an die Kaimauer, das danach binnen Minuten kentert. Menschen klettern über die Reling und schwimmen um ihr Leben.",
+     "link": "https://www.sueddeutsche.de/panorama/schiffsunglueck-zusammenstoss-tanker-kentern-kreuzfahrt-mississippi-usa-li.3580353",
+     "image": "https://www.sueddeutsche.de/2026/11/13/4c27a5c8-7582-41ce-9260-fdb7018f5430.jpg?rect=277%2C0%2C2328%2C1746&width=1000&fm=jpg&q=60",
+     "aggregator": false,
+     "published": "2026-11-14T10:13:13+00:00"
+    },
+    {
+     "source": "n-tv",
+     "region": "DE",
+     "weight": 0.8,
+     "title": "Kollision auf dem Mississippi: Keine Vermissten nach Schiffsunglück in New Orleans",
+     "summary": "Auf dem Mississippi rammt ein Tanker ein angedocktes Schaufelradschiff, das daraufhin kentert. Mehrere Menschen gehen über Bord. Ob noch Passagiere eingeschlossen sind, ist zunächst unklar. Jetzt gibt es eine erste Entwarnung.",
+     "link": "https://www.n-tv.de/panorama/Keine-Vermissten-nach-Schiffsunglueck-in-New-Orleans-id31533166.html",
+     "image": "https://www.n-tv.de/img/31533175/1794617121/Img_4_3/250/image.jpg",
+     "aggregator": false,
+     "published": "2026-11-13T23:48:57+00:00"
+    },
+    {
+     "source": "n-tv",
+     "region": "DE",
+     "weight": 0.8,
+     "title": "Unglück nahe New Orleans: US-Flusskreuzer kentert nach Kollision mit Frachter",
+     "summary": "Im Mississippi rammt ein Frachter einen Ausflugsdampfer. Durch die Kollision kentert der Flusskreuzer. Videoaufnahmen zeigen Menschen im Wasser.",
+     "link": "https://www.n-tv.de/panorama/US-Flusskreuzer-kentert-nach-Kollision-mit-Frachter-id31532858.html",
+     "image": "https://www.n-tv.de/img/31532865/1794606876/Img_4_3/250/Screenshot 2026-11-13 211541.jpg",
+     "aggregator": false,
+     "published": "2026-11-13T20:09:40+00:00"
+    }
+   ]
+  },
+  {
+   "id": 5,
+   "score": 11.67,
+   "outlets": [
+    "tagesschau",
+    "ORF",
+    "Handelsblatt",
+    "WELT",
+    "BR"
+   ],
+   "regions": [
+    "AT",
+    "DE"
+   ],
+   "trend": [],
+   "newest": "2026-11-14T11:11:58+00:00",
+   "articles": [
+    {
+     "source": "tagesschau",
+     "region": "DE",
+     "weight": 1.0,
+     "title": "Trauerakt in München: Große Anteilnahme bei Abschied von Aiwanger",
+     "summary": "In München haben zahlreiche Menschen am Trauerakt für den bayerischen Vize-Ministerpräsidenten und Freie-Wähler-Chef Aiwanger teilgenommen. Kardinal Marx sprach von einem \"Schock\". Er würdigte Aiwanger als \"außergewöhnliche Persönlichkeit\".",
+     "link": "https://www.tagesschau.de/inland/aiwanger-trauerfeier-100.html",
+     "image": "https://images.tagesschau.de/image/3e0b0b67-1ee3-4eda-9e04-a692aeb7694e/AAABodmST1M/AAABnSSvrFg/16x9-big/aiwanger-gottesdienst-100.jpg?width=1920",
+     "aggregator": false,
+     "published": "2026-11-14T11:11:58+00:00"
+    },
+    {
+     "source": "tagesschau Inland",
+     "region": "DE",
+     "weight": 1.0,
+     "title": "Trauerakt in München: Große Anteilnahme bei Abschied von Aiwanger",
+     "summary": "In München haben zahlreiche Menschen am Trauerakt für den bayerischen Vize-Ministerpräsidenten und Freie-Wähler-Chef Aiwanger teilgenommen. Kardinal Marx sprach von einem \"Schock\". Er würdigte Aiwanger als \"außergewöhnliche Persönlichkeit\".",
+     "link": "https://www.tagesschau.de/inland/aiwanger-trauerfeier-100.html",
+     "image": "https://images.tagesschau.de/image/3e0b0b67-1ee3-4eda-9e04-a692aeb7694e/AAABodmST1M/AAABnSSvrFg/16x9-big/aiwanger-gottesdienst-100.jpg?width=1920",
+     "aggregator": false,
+     "published": "2026-11-14T11:11:58+00:00"
+    },
+    {
+     "source": "ORF",
+     "region": "AT",
+     "weight": 0.95,
+     "title": "D: Große Anteilnahme bei Trauerfeier für Aiwanger",
+     "summary": "",
+     "link": "https://orf.at/stories/3448169/",
+     "image": null,
+     "aggregator": false,
+     "published": "2026-11-14T10:52:31+00:00"
+    },
+    {
+     "source": "Handelsblatt",
+     "region": "DE",
+     "weight": 0.9,
+     "title": "Trauerfeier in München: Weit mehr als 1.100 Trauergäste nehmen Abschied von Aiwanger",
+     "summary": "So plötzlich der Tod von Hubert Aiwanger kam, so groß ist auch die Anteilnahme. Beim Trauerakt für den Politiker kann die Frauenkirche nicht alle Gäste aufnehmen.",
+     "link": "https://www.handelsblatt.com/politik/deutschland/trauerfeier-in-muenchen-weit-mehr-als-1100-trauergaeste-nehmen-abschied-von-aiwanger/100269870.html",
+     "image": "https://images.handelsblatt.com/KK1xioacAf2U/cover/900/506/0/0/113/113/0.5/0.5/pontifikalrequiem-und-staatsakt-fuer-aiwanger.jpg",
+     "aggregator": false,
+     "published": "2026-11-14T10:32:18+00:00"
+    },
+    {
+     "source": "WELT",
+     "region": "DE",
+     "weight": 0.8,
+     "title": "„Die Freien Wähler haben Reisebusse organisiert, die die Menschen nach München fahren“",
+     "summary": "In München wird der verstorbene bayerische Wirtschaftsminister und Freie-Wähler-Chef Hubert Aiwanger mit einem Staatsakt geehrt. Reporterin Jasmina Welter berichtet.",
+     "link": "https://www.welt.de/politik/deutschland/video6af817dc9849eea0701e27b9/staatsakt-fuer-aiwanger-die-freien-waehler-haben-reisebusse-organisiert-die-die-menschen-nach-muenchen-fahren.html",
+     "image": "https://images.welt.de/6af817dc9849eea0701e27b9/c42f20eb7eee189f78994e4f16426fd4/ci16x9-w1200/1794652684844-afp-d7g6688-jpg",
+     "aggregator": false,
+     "published": "2026-11-14T08:20:56+00:00"
+    },
+    {
+     "source": "BR",
+     "region": "DE",
+     "weight": 0.6,
+     "title": "Trauerfeier für Aiwanger: Große Anteilnahme erwartet",
+     "summary": "Trauerfeier für Aiwanger: Große Anteilnahme erwartet BR Trauerakt in München: Große Anteilnahme bei Abschied von Aiwanger tagesschau.de Staatsmann und Mensch: Söder und Aigner ehren Aiwanger WELT \"I did it my way\": Kardinal Marx würdigt Aiwangers Engagement BR Staatstrauer in Bayern: Aigner und Söder verneigen sich vor Aiwangers Sarg BILD",
+     "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPVUk3VEVrYmxxSElndDk5SnZja3haNWZnNUJSTjhreGtHLUR5Ry0zZVBYbkdBaXl3X0xvQUhGSC1YVDZXejhPcERldmc0ZkIwZWdENEdDeE4zRWZWcWdsSGRua1pXN2NOVm80VWNVbXpGS3VnM0dUTjU5Q05TbjZnWVVMbFp1eS1UUHhiZ2xVTmppTlBSZk54T1l5TWlaR3c?oc=5",
+     "image": null,
+     "aggregator": true,
+     "published": "2026-11-14T10:01:41+00:00"
+    }
+   ]
+  },
+  {
+   "id": 6,
+   "score": 11.44,
+   "outlets": [
+    "tagesschau",
+    "ZDFheute",
+    "Deutschlandfunk",
+    "NZZ"
+   ],
+   "regions": [
+    "CH",
+    "DE"
+   ],
+   "trend": [],
+   "newest": "2026-11-14T11:06:03+00:00",
+   "articles": [
+    {
+     "source": "tagesschau",
+     "region": "DE",
+     "weight": 1.0,
+     "title": "Flugstopp in den USA aufgehoben - Veraltete Kommunikationstechnik Ursache für Stillstand",
+     "summary": "Flugstopp in den USA aufgehoben - Veraltete Kommunikationstechnik Ursache für Stillstand",
+     "link": "https://www.tagesschau.de/video/video-1683610.html",
+     "image": "https://images.tagesschau.de/image/76b3a215-9b5c-4f44-ac23-4fcb0af41135/AAABodkqqfQ/AAABnSSvrFg/16x9-big/sendungsbild-1827328.jpg?width=1920",
+     "aggregator": false,
+     "published": "2026-11-14T08:27:20+00:00"
+    },
+    {
+     "source": "ZDFheute",
+     "region": "DE",
+     "weight": 1.0,
+     "title": "Landesweiter Flugstopp in den USA wieder aufgehoben",
+     "summary": "Die US-Luftfahrtbehörde FAA erlaubt den Start von Flugzeugen wieder. Nach technischen Problemen war ein Startverbot verhängt worden. Auch Reisende aus Europa sind betroffen.",
+     "link": "https://www.zdfheute.de/politik/ausland/usa-flugstopp-landesweit-100.html",
+     "image": "https://www.zdfheute.de/assets/usa-flughafen-los-angeles-100~384x216?cb=1794645962335",
+     "aggregator": false,
+     "published": "2026-11-14T04:19:00+00:00"
+    },
+    {
+     "source": "Deutschlandfunk",
+     "region": "DE",
+     "weight": 0.95,
+     "title": "Technische Störung - Flugverbot in den USA wieder aufgehoben",
+     "summary": "In den USA hat es wegen technischer Probleme ein stundenlanges Flugverbot gegeben. Ursache war eine Störung der Kommunikationssysteme, wie das Verkehrsministerium mitteilte. Die Luftsicherheitsbehörde FAA untersagte den Start Tausender Flugzeuge. Zehntausende Menschen strandeten an den Flughäfen. Auch Verbindungen aus Europa wurden zwischenzeitlich ausgesetzt.",
+     "link": "https://www.deutschlandfunk.de/flugverbot-in-den-usa-wieder-aufgehoben-100.html",
+     "image": "https://bilder.deutschlandfunk.de/FI/LE/_1/7b/FILE_17bafd8d6c47c1b0eebae4e2b1b89bdb/american-airlines-68163688-jpg-100-768x768.jpg",
+     "aggregator": false,
+     "published": "2026-11-14T11:06:03+00:00"
+    },
+    {
+     "source": "NZZ",
+     "region": "CH",
+     "weight": 0.9,
+     "title": "Vier Stunden Stillstand: Ein landesweiter Flugstopp stürzt die USA in chaotische Zustände",
+     "summary": "Die amerikanische Luftfahrtbehörde (FAA) stoppte am Freitagabend sämtliche Abflüge im ganzen Land. Mehr als 13 000 Flüge waren betroffen. Die Regierung macht technische Probleme im veralteten Flugkontrollsystem verantwortlich.",
+     "link": "https://www.nzz.ch/international/vier-stunden-stillstand-flugstopp-stuerzt-die-usa-in-chaotische-zustaende-ld.10063833",
+     "image": "https://img-msp-prod.nzz.ch/2026/11/14/e934875d-945b-42cc-9dac-46825e867039.jpg?width=200&height=200&fit=bounds&quality=75&auto=webp&crop=4000,4000,x0,y0",
+     "aggregator": false,
+     "published": "2026-11-14T04:58:01+00:00"
+    }
+   ]
+  },
+  {
+   "id": 7,
+   "score": 11.14,
+   "outlets": [
+    "ZDFheute",
+    "Deutschlandfunk",
+    "SPIEGEL",
+    "WirtschaftsWoche"
+   ],
+   "regions": [
+    "DE"
+   ],
+   "trend": [],
+   "newest": "2026-11-14T11:06:03+00:00",
+   "articles": [
+    {
+     "source": "ZDFheute",
+     "region": "DE",
+     "weight": 1.0,
+     "title": "Microsoft: Störungen behoben - Dienste funktionieren wieder",
+     "summary": "Der US-Technologie-Gigant meldet, dass alle seine Dienste wieder funktionieren. Alle Störungen bei Diensten wie Outlook oder Teams seien beseitigt worden, so der Konzern.",
+     "link": "https://www.zdfheute.de/wirtschaft/unternehmen/microsoft-office-outlook-teams-ausfaelle-behoben-100.html",
+     "image": "https://www.zdfheute.de/assets/microsoft-deutschland-102~384x216?cb=1788245934053",
+     "aggregator": false,
+     "published": "2026-11-14T08:31:00+00:00"
+    },
+    {
+     "source": "Deutschlandfunk",
+     "region": "DE",
+     "weight": 0.95,
+     "title": "Cloud-Dienste - Microsoft gibt Ende der weltweiten Störungen bekannt",
+     "summary": "Microsoft hat die weltweiten Störungen bei einigen seiner Dienste nach mehr als ⁠24 Stunden behoben.",
+     "link": "https://www.deutschlandfunk.de/microsoft-gibt-ende-der-weltweiten-stoerungen-bekannt-102.html",
+     "image": "https://bilder.deutschlandfunk.de/NO/VA/_f/1e/NOVA_f1ee74d815e7e98093562bcfad712b7b/craft-13546291-asset-100-1920x1920.jpg",
+     "aggregator": false,
+     "published": "2026-11-14T11:06:03+00:00"
+    },
+    {
+     "source": "SPIEGEL",
+     "region": "DE",
+     "weight": 0.9,
+     "title": "Microsoft meldet Ende von Megastörung seiner Dienste Outlook, Teams und Co.",
+     "summary": "E-Mails blieben hängen, virtuelle Meetings konnten nicht geplant werden: Eine Großstörung sorgte für massive Ausfälle bei Diensten von Microsoft. Nun sind Outlook, Teams und Co. offenbar wieder voll einsatzfähig.",
+     "link": "https://www.spiegel.de/netzwelt/outlook-teams-copilot-microsoft-meldet-ende-von-megastoerung-seiner-dienste-a-c728f9c1-8668-4a14-9743-d724b9772bbd#ref=rss",
+     "image": "https://cdn.prod.www.spiegel.de/images/53833e97-e181-4e4c-91f9-6a3252b7a36e_w520_r2.08_fpx29.82_fpy54.98.jpg",
+     "aggregator": false,
+     "published": "2026-11-14T07:56:00+00:00"
+    },
+    {
+     "source": "WirtschaftsWoche",
+     "region": "DE",
+     "weight": 0.85,
+     "title": "Office-Störung: Microsoft nennt den Grund für die weltweite Störung",
+     "summary": "Microsoft hat die Störungen bei seinen Diensten wie Outlook und Teams für Verbraucher vollständig behoben. Inzwischen ist auch der Grund für die Mega-Panne bekannt.",
+     "link": "https://www.wiwo.de/technologie/digitale-welt/microsoft-stoerung-behoben-das-ist-der-grund-fuer-die-mega-panne/100269543.html",
+     "image": "https://images.wiwo.de/AMXjtmWPGEZD/cover/900/506/0/0/104/104/0.5/0.5/imago-images-0863645798.jpg",
+     "aggregator": false,
+     "published": "2026-11-14T08:31:00+00:00"
+    }
+   ]
+  },
+  {
+   "id": 8,
+   "score": 11.01,
+   "outlets": [
+    "Deutschlandfunk",
+    "ZEIT ONLINE",
+    "Handelsblatt",
+    "n-tv"
+   ],
+   "regions": [
+    "DE"
+   ],
+   "trend": [],
+   "newest": "2026-11-14T11:37:08+00:00",
+   "articles": [
+    {
+     "source": "Deutschlandfunk",
+     "region": "DE",
+     "weight": 0.95,
+     "title": "Mecklenburg-Vorpommern - Parteitage: SPD und Grüne stimmen über Koalitionsvertrag ab",
+     "summary": "In Mecklenburg-Vorpommern sind SPD und Grüne jeweils zu Parteitagen zusammengekommen, um über den Koalitionsvertrag abzustimmen.",
+     "link": "https://www.deutschlandfunk.de/parteitage-spd-und-gruene-stimmen-ueber-koalitionsvertrag-ab-100.html",
+     "image": "https://bilder.deutschlandfunk.de/36/b2/a3/26/36b2a326-ce91-4775-ba44-b7a2a9f3493e/manuela-schwesig-118-1920x1920.jpg",
+     "aggregator": false,
+     "published": "2026-11-14T11:06:03+00:00"
+    },
+    {
+     "source": "ZEIT ONLINE",
+     "region": "DE",
+     "weight": 0.9,
+     "title": "Parteibasis sagt «Ja»: Grüne stimmen Koalitionsvertrag für MV zu",
+     "summary": "",
+     "link": "https://www.zeit.de/news/2026-11/14/gruene-stimmen-koalitionsvertrag-fuer-mv-zu",
+     "image": "https://img.zeit.de/news/2026-11/14/gruene-stimmen-koalitionsvertrag-fuer-mv-zu-image-group/original__640x360",
+     "aggregator": false,
+     "published": "2026-11-14T11:37:08+00:00"
+    },
+    {
+     "source": "Handelsblatt",
+     "region": "DE",
+     "weight": 0.9,
+     "title": "Parteibasis sagt „Ja“: Grüne stimmen Koalitionsvertrag für MV zu",
+     "summary": "Nach der Linken haben auch die Grünen in Mecklenburg-Vorpommern dem rot-rot-grünen Koalitionsvertrag zugestimmt. Es fehlt nur noch die SPD, dann steht das Regierungsbündnis.",
+     "link": "https://www.handelsblatt.com/politik/deutschland/parteibasis-sagt-ja-gruene-stimmen-koalitionsvertrag-fuer-mv-zu/100269880.html",
+     "image": "https://images.handelsblatt.com/8ygBw8VklDEk/cover/900/506/0/0/138/138/0.5/0.5/koalition-in-mecklenburg-vorpommern.jpg",
+     "aggregator": false,
+     "published": "2026-11-14T11:37:08+00:00"
+    },
+    {
+     "source": "n-tv",
+     "region": "DE",
+     "weight": 0.8,
+     "title": "Einigkeit bei Verteilungsfragen: Abgeordnete arbeiten laut Bericht an Rot-Rot-Grün auf Bundesebene",
+     "summary": "In Berlin und Mecklenburg-Vorpommern handeln SPD, Grüne und Linke seit einiger Zeit eine Zusammenarbeit aus. In Bremen regieren sie gemeinsam. Einem Bericht zufolge treffen sich einige Abgeordnete der drei Parteien neuerdings zum Austausch über eine mögliche gemeinsame Bundesregierung.",
+     "link": "https://www.n-tv.de/politik/Abgeordnete-arbeiten-laut-Bericht-an-Rot-Rot-Gruen-auf-Bundesebene-id31533517.html",
+     "image": "https://www.n-tv.de/img/31533498/1794639278/Img_4_3/250/557387003.jpg",
+     "aggregator": false,
+     "published": "2026-11-14T06:13:31+00:00"
+    }
+   ]
+  },
+  {
+   "id": 9,
+   "score": 10.42,
+   "outlets": [
+    "tagesschau Ausland",
+    "ORF",
+    "DER STANDARD",
+    "n-tv"
+   ],
+   "regions": [
+    "AT",
+    "DE",
+    "INT"
+   ],
+   "trend": [],
+   "newest": "2026-11-14T09:33:14+00:00",
+   "articles": [
+    {
+     "source": "tagesschau Ausland",
+     "region": "INT",
+     "weight": 1.0,
+     "title": "Straße von Hormus: Zwei Öltanker offenbar in Brand geraten",
+     "summary": "Teheran blockiert die Straße von Hormus seit Beginn des Iran-Krieges weitgehend. Doch immer wieder riskieren Öltanker die Passage durch die Meerenge. Nun sind laut Iran zwei Schiffe in Brand geraten.",
+     "link": "https://www.tagesschau.de/ausland/asien/iran-hormus-oeltanker-100.html",
+     "image": "https://images.tagesschau.de/image/9e3f005c-31ee-4b68-895b-ad06addf2ad8/AAABoasv5IE/AAABnSSvrFg/16x9-big/strasse-von-hormus-186.jpg?width=1920",
+     "aggregator": false,
+     "published": "2026-11-05T11:47:58+00:00"
+    },
+    {
+     "source": "ORF",
+     "region": "AT",
+     "weight": 0.95,
+     "title": "Iran: Öltanker in Straße von Hormus in Brand geraten",
+     "summary": "",
+     "link": "https://orf.at/stories/3448145/",
+     "image": null,
+     "aggregator": false,
+     "published": "2026-11-14T06:42:18+00:00"
+    },
+    {
+     "source": "DER STANDARD",
+     "region": "AT",
+     "weight": 0.85,
+     "title": "Drei Öltanker in Straße von Hormus laut iranischen Angaben in Brand geraten",
+     "summary": "Sie sollen auf eine Seemine aufgelaufen sein und zuvor versucht haben, die Straße von Hormus heimlich auf einer nicht genehmigten Route zu durchqueren, hieß es von den Revolutionsgarden",
+     "link": "https://www.derstandard.at/story/3000000349211/nahost-iran-zwei-214ltanker-in-stra223e-von-hormuz-in-brand-geraten?ref=rss",
+     "image": "https://i.ds.at/VDWArg/rs:fill:150:0/plain/lido-images/2026/11/14/4e0dfc51-dab1-4c5d-91ad-01330fa5b7b8.jpg",
+     "aggregator": false,
+     "published": "2026-11-14T07:56:06+00:00"
+    },
+    {
+     "source": "n-tv",
+     "region": "DE",
+     "weight": 0.8,
+     "title": "Schiffe in Brand geraten: Iran: Drei Öltanker in Straße von Hormus auf Seeminen gefahren",
+     "summary": "Schiffe, die die Straße von Hormus durchqueren, sind weiterhin großer Gefahr ausgesetzt. Teheran berichtet nun, drei Öltanker seien mit einer Seemine kollidiert. Die USA behaupten derweil, die Meerenge sei wieder weitgehend minenfrei.",
+     "link": "https://www.n-tv.de/politik/Iran-Drei-Oeltanker-in-Strasse-von-Hormus-auf-Seeminen-gefahren-id31533634.html",
+     "image": "https://www.n-tv.de/img/31429486/1794649779/Img_4_3/250/image.jpg",
+     "aggregator": false,
+     "published": "2026-11-14T09:33:14+00:00"
+    }
+   ]
+  },
+  {
+   "id": 10,
+   "score": 10.1,
+   "outlets": [
+    "tagesschau",
+    "Deutsche Welle",
+    "ORF",
+    "n-tv"
+   ],
+   "regions": [
+    "AT",
+    "DE",
+    "INT"
+   ],
+   "trend": [],
+   "newest": "2026-11-14T08:00:00+00:00",
+   "articles": [
+    {
+     "source": "tagesschau",
+     "region": "DE",
+     "weight": 1.0,
+     "title": "US-Luftfahrtbehörde stoppt alle Starts in den USA",
+     "summary": "Die US-Luftfahrtbehörde FAA hat alle Starts an US-Flughäfen gestoppt. Hintergrund sind laut US-Regierung Kommunikationsprobleme im Flugkontrollsystem. Als Reaktion wurden auch sämtliche Flüge aus Europa in die USA bis auf weiteres ausgesetzt.",
+     "link": "https://www.tagesschau.de/eilmeldung/usa-flugverbot-100.html",
+     "image": "https://images.tagesschau.de/image/70e42b7a-9299-4745-a4da-c807c789c8bd/AAABodb5qDI/AAABnSSvrFg/16x9-big/flughafen-usa-106.jpg?width=1920",
+     "aggregator": false,
+     "published": "2026-11-14T01:18:16+00:00"
+    },
+    {
+     "source": "Deutsche Welle",
+     "region": "INT",
+     "weight": 0.95,
+     "title": "News kompakt: Landesweites Startverbot an US-Flughäfen aufgehoben",
+     "summary": "Wegen technischer Probleme stoppt die US-Luftfahrtbehörde alle Starts an Flughäfen im Land. US-Präsident Trump plant einen historischen Dreiergipfel mit den Staatschefs Putin und Xi. Der DW-Nachrichtenüberblick.",
+     "link": "https://www.dw.com/de/news-kompakt-landesweites-startverbot-an-us-flughäfen-aufgehoben/a-79946821?maca=de-rss-de-all-1119-xml-mrss",
+     "image": "https://static.dw.com/image/79946152_302.jpg",
+     "aggregator": false,
+     "published": "2026-11-14T08:00:00+00:00"
+    },
+    {
+     "source": "ORF",
+     "region": "AT",
+     "weight": 0.95,
+     "title": "Starts an US-Flughäfen wieder erlaubt",
+     "summary": "",
+     "link": "https://orf.at/stories/3448132/",
+     "image": null,
+     "aggregator": false,
+     "published": "2026-11-13T21:16:39+00:00"
+    },
+    {
+     "source": "n-tv",
+     "region": "DE",
+     "weight": 0.8,
+     "title": "Störung im Kommunikationssystem: Landesweiter Stopp von Starts an US-Flughäfen",
+     "summary": "Die Flugkontrollzentren in den USA melden Kommunikationsprobleme. Die Folge: Derzeit dürfen landesweit keine Flugzeuge mehr starten. Nach den Terroranschlägen vom 11. September 2001 ist diese Maßnahme erst einmal verhängt worden.",
+     "link": "https://www.n-tv.de/wirtschaft/Landesweiter-Stopp-von-Starts-an-US-Flughaefen-id31533009.html",
+     "image": "https://www.n-tv.de/img/31533059/1794610049/Img_4_3/250/image.jpg",
+     "aggregator": false,
+     "published": "2026-11-13T21:30:34+00:00"
+    }
+   ]
+  },
+  {
+   "id": 11,
+   "score": 9.83,
+   "outlets": [
+    "ZEIT ONLINE",
+    "Handelsblatt",
+    "WirtschaftsWoche",
+    "DIE ZEIT"
+   ],
+   "regions": [
+    "DE"
+   ],
+   "trend": [],
+   "newest": "2026-11-14T11:40:35+00:00",
+   "articles": [
+    {
+     "source": "ZEIT ONLINE",
+     "region": "DE",
+     "weight": 0.9,
+     "title": "Cybercab: Tesla lässt ausgewählte Käufer in den USA Cybercab vorbestellen",
+     "summary": "Tesla ​bietet sein Robotaxi Cybercab ausgewählten Kunden zur privaten Nutzung an. Autonomes Fahren wird jedoch nur in einzelnen US-Städten verfügbar sein.",
+     "link": "https://www.zeit.de/mobilitaet/2026-11/tesla-robotaxi-cybercab-private-nutzung-ashok-elluswamy-gxe",
+     "image": "https://img.zeit.de/mobilitaet/2026-11/tesla-robotaxi-cybercab-private-nutzung-ashok-elluswamy-gxe-foto-1/original__640x360",
+     "aggregator": false,
+     "published": "2026-11-14T11:40:35+00:00"
+    },
+    {
+     "source": "Handelsblatt",
+     "region": "DE",
+     "weight": 0.9,
+     "title": "Musks Autobauer: Tesla lässt ausgewählte Käufer Robotaxis vorbestellen",
+     "summary": "Tesla will mit seinem Cybercab die Robotaxi-Branche aufrollen. Nun sollen einige der Wagen auch in Privatbesitz gehen - noch während die Firma wegen des Fahrzeugs Ärger mit einer US-Behörde hat.",
+     "link": "https://www.handelsblatt.com/technik/it-internet/musks-autobauer-tesla-laesst-ausgewaehlte-kaeufer-robotaxis-vorbestellen/100269846.html",
+     "image": "https://images.handelsblatt.com/Xgh4MFcelp0F/cover/900/506/0/0/192/192/0.5/0.5/tesla-robotaxi-cybercab.jpg",
+     "aggregator": false,
+     "published": "2026-11-14T05:55:06+00:00"
+    },
+    {
+     "source": "WirtschaftsWoche",
+     "region": "DE",
+     "weight": 0.85,
+     "title": "Cybercabs: Tesla lässt ausgewählte Käufer Robotaxis vorbestellen",
+     "summary": "Tesla will mit seinem Cybercab die Robotaxi-Branche aufrollen. Nun sollen einige der Wagen auch in Privatbesitz gehen – trotz ausstehenden Ärgers mit einer US-Behörde.",
+     "link": "https://www.wiwo.de/technologie/digitale-welt/musks-autobauer-tesla-laesst-ausgewaehlte-kaeufer-robotaxis-vorbestellen/100269847.html",
+     "image": "https://images.wiwo.de/4ZX618dRmLUz/cover/900/506/0/0/192/192/0.5/0.5/tesla-robotaxi-cybercab.jpg",
+     "aggregator": false,
+     "published": "2026-11-14T09:23:00+00:00"
+    },
+    {
+     "source": "DIE ZEIT",
+     "region": "DE",
+     "weight": 0.6,
+     "title": "Musks Autobauer: Tesla lässt ausgewählte Käufer Robotaxis vorbestellen",
+     "summary": "Musks Autobauer: Tesla lässt ausgewählte Käufer Robotaxis vorbestellen DIE ZEIT Weitere Schlagzeilen und Meinungen in Google News",
+     "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOY1Bqdl84NnVGRkNLZmlZekswYzl0YUk0YW85cUVVU0ViYnVfa1VsX25GZUViRWQzTnlMUTdpRVY4eGxGVzl2OExlM0NObHBYX3l6djBpdmlWTjBadEFGQ1VyLVh6aHhZck5OQ19CaFA0akdRMlVFcWt3VlZsenh2MGtJZkowZ3A2bUE2MEg0YlZwVHJYMlBN?oc=5",
+     "image": null,
+     "aggregator": true,
+     "published": "2026-11-14T05:55:06+00:00"
+    }
+   ]
+  },
+  {
+   "id": 12,
+   "score": 9.24,
+   "outlets": [
+    "tagesschau",
+    "Deutschlandfunk",
+    "WELT"
+   ],
+   "regions": [
+    "DE"
+   ],
+   "trend": [],
+   "newest": "2026-11-14T11:06:03+00:00",
+   "articles": [
+    {
+     "source": "tagesschau",
+     "region": "DE",
+     "weight": 1.0,
+     "title": "DFB-Team gewinnt gegen Serbien - jetzt Endspiel gegen Niederlande",
+     "summary": "Deutschland hat in der Nations League das Weiterkommen wieder in der eigenen Hand. Im Regen von Belgrad zeigte das Klopp-Team eine starke Leistung und siegte 3:1.",
+     "link": "https://www.sportschau.de/fussball/nationalmannschaft/dfb-team-sichert-sich-sein-endspiel-gegen-niederlande,serbien-deutschland-spielbericht-100.html",
+     "image": "https://images.sportschau.de/image/d1fe8f97-cae4-4549-a85d-2b1c7206030a/AAABodkAY9E/AAABnSSvrFg/16x9-big/jubel-kimmich-wirtz-100.jpg?width=1920",
+     "aggregator": false,
+     "published": "2026-11-13T23:00:00+00:00"
+    },
+    {
+     "source": "Deutschlandfunk",
+     "region": "DE",
+     "weight": 0.95,
+     "title": "Nations League - Deutsche Fußball-Nationalmannschaft schlägt Serbien",
+     "summary": "Die Fußball-Nationalmannschaft der Männer hat in der Nations League das Rückspiel gegen Serbien in Belgrad mit 3:1 gewonnen. Deutschland ging bereits in der dritten Minute in Führung.",
+     "link": "https://www.deutschlandfunk.de/deutsche-fussball-nationalmannschaft-schlaegt-serbien-100.html",
+     "image": "https://bilder.deutschlandfunk.de/1d/52/e5/36/1d52e536-7f88-4547-82fa-32e6b419e89d/fussball-nations-league-gruppenphase-deutschland-serbien-100-1920x1920.jpg",
+     "aggregator": false,
+     "published": "2026-11-14T11:06:03+00:00"
+    },
+    {
+     "source": "WELT",
+     "region": "DE",
+     "weight": 0.8,
+     "title": "„Wir freuen uns wie Bolle auf Montag“ – Gruppen-Finale gegen die Niederlande",
+     "summary": "Nach dem 3:1-Sieg in Serbien hat Deutschland weiterhin die Chance auf das Viertelfinale in der UEFA Nations League. Am Montag kommt es in Berlin zum „Endspiel“ in der Gruppe gegen die Niederlande. „Jetzt werden wir eine richtige Prüfung kriegen“, sagt Bundestrainer Jürgen Klopp.",
+     "link": "https://www.welt.de/sport/fussball/video6af82203389d31d8c8a8001b/nationalmannschaft-wir-freuen-uns-wie-bolle-auf-montag-gruppen-finale-gegen-die-niederlande.html",
+     "image": "https://images.welt.de/6af82203389d31d8c8a8001b/b1c460826e4e2bd6652666f409e812d4-master/ci16x9-w1200/dpa-com-261113-936-145528-jpg",
+     "aggregator": false,
+     "published": "2026-11-14T09:01:40+00:00"
+    }
+   ]
+  },
+  {
+   "id": 13,
+   "score": 9.1,
+   "outlets": [
+    "tagesschau",
+    "heise online",
+    "Golem"
+   ],
+   "regions": [
+    "DE"
+   ],
+   "trend": [],
+   "newest": "2026-11-14T11:35:02+00:00",
+   "articles": [
+    {
+     "source": "tagesschau",
+     "region": "DE",
+     "weight": 1.0,
+     "title": "Weltweit mehr Urlaubsanträge vor Start des Videospiels \"GTA VI\"",
+     "summary": "13 Jahre nach seiner letzten Version steht das neue Videospiel \"Grand Theft Auto VI\" vor der Premiere. Software-Anbieter berichten von weltweit gestiegenen Urlaubsanträgen im Vorfeld. Der Entwickler hofft auf ein Milliardengeschäft.",
+     "link": "https://www.tagesschau.de/wirtschaft/verbraucher/weltweit-mehr-urlaubsantraege-start-gta6-100.html",
+     "image": "https://images.tagesschau.de/image/12af396e-7e92-45b4-86cc-bc2d73c912e3/AAABodOvJLM/AAABnSSvrFg/16x9-big/gta-122.jpg?width=1920",
+     "aggregator": false,
+     "published": "2026-11-13T09:12:03+00:00"
+    },
+    {
+     "source": "tagesschau Wirtschaft",
+     "region": "DE",
+     "weight": 1.0,
+     "title": "Weltweit mehr Urlaubsanträge vor Start des Videospiels \"GTA VI\"",
+     "summary": "13 Jahre nach seiner letzten Version steht das neue Videospiel \"Grand Theft Auto VI\" vor der Premiere. Software-Anbieter berichten von weltweit gestiegenen Urlaubsanträgen im Vorfeld. Der Entwickler hofft auf ein Milliardengeschäft.",
+     "link": "https://www.tagesschau.de/wirtschaft/verbraucher/weltweit-mehr-urlaubsantraege-start-gta6-100.html",
+     "image": "https://images.tagesschau.de/image/12af396e-7e92-45b4-86cc-bc2d73c912e3/AAABodOvJLM/AAABnSSvrFg/16x9-big/gta-122.jpg?width=1920",
+     "aggregator": false,
+     "published": "2026-11-13T09:12:03+00:00"
+    },
+    {
+     "source": "heise online",
+     "region": "DE",
+     "weight": 0.85,
+     "title": "Bereit für GTA 6: Die Checkliste zum Release von Grand Theft Auto VI",
+     "summary": "GTA 6 steht in den Startlöchern und Millionen von Spielern warten sehnsüchtig auf den Release. Wir zeigen, was man vor dem Launch des Spiels wissen muss.",
+     "link": "https://www.heise.de/bestenlisten/ratgeber/bereit-fuer-gta-6-die-checkliste-zum-release-von-grand-theft-auto-vi/3ht03fp?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
+     "image": null,
+     "aggregator": false,
+     "published": "2026-11-12T16:00:00+00:00"
+    },
+    {
+     "source": "Golem",
+     "region": "DE",
+     "weight": 0.75,
+     "title": "GTA 6: Warum jetzt alle Urlaub nehmen wollen",
+     "summary": "Weltweit reichen Beschäftigte überdurchschnittlich viele Urlaubsanträge ein, nur um den Release von Grand Theft Auto VI nicht zu verpassen. ( GTA 6 , Arbeit )",
+     "link": "https://www.golem.de/news/gta-6-warum-jetzt-alle-urlaub-nehmen-wollen-2611-215221.html",
+     "image": "https://cpx.golem.de/cpx.php?class=17&amp;aid=215221&amp;page=1&amp;ts=1794656102",
+     "aggregator": false,
+     "published": "2026-11-14T11:35:02+00:00"
+    }
+   ]
+  },
+  {
+   "id": 14,
+   "score": 9.07,
+   "outlets": [
+    "ZDFheute",
+    "Süddeutsche",
+    "WELT"
+   ],
+   "regions": [
+    "DE"
+   ],
+   "trend": [],
+   "newest": "2026-11-14T10:55:10+00:00",
+   "articles": [
+    {
+     "source": "ZDFheute",
+     "region": "DE",
+     "weight": 1.0,
+     "title": "DFB-Elf mit wichtigem Sieg gegen Serbien",
+     "summary": "In Belgrad hat sich die DFB-Elf mit 3:1 gegen Serbien durchgesetzt. Damit bleibt die Qualifikation für das Nations-League-Viertelfinale möglich.",
+     "link": "https://www.zdfheute.de/sport/fussball-nations-league-serbien-deutschland-tore-ergebnis-100.html",
+     "image": "https://www.zdfheute.de/assets/jubel-fussballspiel-serbien-deutschland-100~384x216?cb=1794600940315",
+     "aggregator": false,
+     "published": "2026-11-13T21:40:00+00:00"
+    },
+    {
+     "source": "Süddeutsche",
+     "region": "DE",
+     "weight": 0.9,
+     "title": "3:1 der DFB-Elf in Belgrad: Skurriles Tiki-Taka im Schlamm",
+     "summary": "Ungewöhnliches Stadion, 79 Prozent Ballbesitz und ein Dribbler mit „unfassbar gutem Touch“ – beim in vielerlei Hinsicht verblüffenden Sieg in Serbien wird deutlich, wie radikal Bundestrainer Klopp sein Team verändert hat.",
+     "link": "https://www.sueddeutsche.de/sport/deutschland-serbien-nations-league-li.3580419",
+     "image": "https://www.sueddeutsche.de/2026/11/14/72ff0506-1622-4632-9c37-b28c0a03e9f2.jpg?rect=73%2C313%2C3037%2C2278&width=1000&fm=jpg&q=60",
+     "aggregator": false,
+     "published": "2026-11-14T10:06:59+00:00"
+    },
+    {
+     "source": "WELT",
+     "region": "DE",
+     "weight": 0.8,
+     "title": "„Ich bin sehr glücklich heute“ – Debütant Gruda trifft direkt",
+     "summary": "Erstes Länderspiel, erstes Tor: Der Leipziger Brajan Gruda spielt bei seinem Debüt in Belgrad couragiert auf. Beim Sieg gegen Serbien erzielt er den Treffer zur zwischenzeitlichen 3:0-Führung für das DFB-Team. Entsprechend glücklich ist er nach der Partie.",
+     "link": "https://www.welt.de/sport/fussball/video6af839a39985884ef7d788dc/nationalmannschaft-ich-bin-sehr-gluecklich-heute-debuetant-gruda-trifft-direkt.html",
+     "image": "https://images.welt.de/6af839a39985884ef7d788dc/9ef8a2b0dc51d35c8c085bc10b009f75-master/ci16x9-w1200/2026-11-13t215044z-588868212-up1embd1mdjok-rtrmadp-3-soccer-uefanations-srb-ger-jpg",
+     "aggregator": false,
+     "published": "2026-11-14T10:55:10+00:00"
+    }
+   ]
+  },
+  {
+   "id": 15,
+   "score": 9.04,
+   "outlets": [
+    "ZDFheute",
+    "ORF",
+    "SRF News"
+   ],
+   "regions": [
+    "AT",
+    "CH",
+    "DE"
+   ],
+   "trend": [],
+   "newest": "2026-11-14T09:36:40+00:00",
+   "articles": [
+    {
+     "source": "ZDFheute",
+     "region": "DE",
+     "weight": 1.0,
+     "title": "New Orleans: Alle Menschen nach Schiffsunglück in Sicherheit",
+     "summary": "Auf dem Mississippi ist ein Flusskreuzfahrtschiff teilweise gesunken, doch alle Menschen an Bord konnten gerettet werden. Behörden sprechen von einem \"Wunder\".",
+     "link": "https://www.zdfheute.de/panorama/unfall-frachter-kreuzfahrtschiff-new-orleans-100.html",
+     "image": "https://www.zdfheute.de/assets/unfall-frachter-new-orleans-100~384x216?cb=1794603232479",
+     "aggregator": false,
+     "published": "2026-11-14T04:08:00+00:00"
+    },
+    {
+     "source": "ORF",
+     "region": "AT",
+     "weight": 0.95,
+     "title": "Keine Vermissten nach Schiffsunglück in New Orleans",
+     "summary": "",
+     "link": "https://orf.at/stories/3448130/",
+     "image": null,
+     "aggregator": false,
+     "published": "2026-11-13T20:54:19+00:00"
+    },
+    {
+     "source": "SRF News",
+     "region": "CH",
+     "weight": 0.95,
+     "title": "32 Verletzte – «Ein Wunder»: Keine Toten nach Schiffsunglück in New Orleans",
+     "summary": "Ein Tanker ist auf dem Mississippi mit einem Passagierschiff kollidiert. 32 Menschen werden im Spital behandelt.",
+     "link": "https://www.srf.ch/news/international/32-verletzte-ein-wunder-keine-toten-nach-schiffsunglueck-in-new-orleans",
+     "image": "https://www.srf.ch/static/cms/images//320ws/21991c.webp",
+     "aggregator": false,
+     "published": "2026-11-14T09:36:40+00:00"
+    }
+   ]
+  },
+  {
+   "id": 16,
+   "score": 8.94,
+   "outlets": [
+    "ZDFheute",
+    "Süddeutsche",
+    "WELT"
+   ],
+   "regions": [
+    "DE"
+   ],
+   "trend": [],
+   "newest": "2026-11-14T10:31:13+00:00",
+   "articles": [
+    {
+     "source": "ZDFheute",
+     "region": "DE",
+     "weight": 1.0,
+     "title": "Abschied von Hubert Aiwanger",
+     "summary": "Mit einem Trauerstaatsakt nimmt Bayern Abschied von dem verstorbenen stelllvertretenden Ministerpräsidenten Aiwanger. Sein Sarg wird anschließend auf dem Domplatz verabschiedet.",
+     "link": "https://www.zdfheute.de/politik/deutschland/aiwanger-staatsakt-trauerfeier-100.html",
+     "image": "https://www.zdfheute.de/assets/staatliche-trauerfeier-hubert-aiwanger-100~384x216?cb=1794646859751",
+     "aggregator": false,
+     "published": "2026-11-14T09:36:00+00:00"
+    },
+    {
+     "source": "Süddeutsche",
+     "region": "DE",
+     "weight": 0.9,
+     "title": "Requiem in der Frauenkirche: Abschied von Hubert Aiwanger",
+     "summary": "Zehn Tage nach dem plötzlichen Tod von Hubert Aiwanger nimmt Bayern in der Münchner Frauenkirche Abschied von dem langjährigen Wirtschaftsminister. Die Bilder.",
+     "link": "https://www.sueddeutsche.de/bayern/hubert-aiwanger-trauerfeier-requiem-trauerstaatsakt-muenchen-frauenkirche-bilder-li.3580437",
+     "image": "https://www.sueddeutsche.de/2026/11/14/dca1b606-1eb1-4d15-9de2-0259c7d5fe6b.jpg?rect=222%2C0%2C3556%2C2667&width=1000&fm=jpg&q=60",
+     "aggregator": false,
+     "published": "2026-11-14T10:12:00+00:00"
+    },
+    {
+     "source": "WELT",
+     "region": "DE",
+     "weight": 0.8,
+     "title": "Sarg in Weiß-Blau, Böllerschüsse zum Abschied – 1000 Trauergäste nehmen Abschied von Aiwanger",
+     "summary": "Bayern nimmt mit einem seltenen Trauerstaatsakt Abschied von Wirtschaftsminister Hubert Aiwanger. Mehr als 1000 Gäste ehren den Freie-Wähler-Chef in der Münchner Frauenkirche.",
+     "link": "https://www.welt.de/politik/deutschland/article6af82f6d389d31d8c8a800f5/hubert-aiwanger-sarg-in-weiss-blau-boellerschuesse-zum-abschied-1-000-trauergaeste-nehmen-abschied-vom-freie-waehler-chef.html",
+     "image": "https://images.welt.de/6af82f6d389d31d8c8a800f5/2d25fbc0a875d546f7b2f83688b95b90/ci23x11-w1200/dpa-com-261114-936-145731-jpg",
+     "aggregator": false,
+     "published": "2026-11-14T10:31:13+00:00"
+    }
+   ]
+  },
+  {
+   "id": 17,
+   "score": 8.92,
+   "outlets": [
+    "ORF",
+    "ZEIT ONLINE",
+    "WELT"
+   ],
+   "regions": [
+    "AT",
+    "DE"
+   ],
+   "trend": [],
+   "newest": "2026-11-14T10:45:38+00:00",
+   "articles": [
+    {
+     "source": "ORF",
+     "region": "AT",
+     "weight": 0.95,
+     "title": "Selenskyj: USA schlugen NATO-Beitritt bei Gebietsverzicht vor",
+     "summary": "",
+     "link": "https://orf.at/stories/3448165/",
+     "image": null,
+     "aggregator": false,
+     "published": "2026-11-14T09:53:30+00:00"
+    },
+    {
+     "source": "ZEIT ONLINE",
+     "region": "DE",
+     "weight": 0.9,
+     "title": "Nato-Beitritt der Ukraine: USA schlagen laut Selenskyj Nato-Beitritt gegen Gebietsabtritt vor",
+     "summary": "Tauscht die Ukraine Gebiete gegen eine Nato-Perspektive? Wolodymyr Selenskyj zufolge haben die USA diesen Vorschlag gemacht. Die Frage sei erstmals gestellt worden.",
+     "link": "https://www.zeit.de/politik/ausland/2026-11/nato-beitritt-ukraine-usa-wolodymyr-selenskyj-gebietsverzicht-gxe",
+     "image": "https://img.zeit.de/politik/ausland/2026-11/nato-beitritt-ukraine-usa-wolodymyr-selenskyj-gebietsverzicht-gxe-foto-1/original__640x360",
+     "aggregator": false,
+     "published": "2026-11-14T10:45:38+00:00"
+    },
+    {
+     "source": "WELT",
+     "region": "DE",
+     "weight": 0.8,
+     "title": "Nato-Beitritt gegen Donbass-Verzicht? Selenskyj berichtet von brisantem Vorstoß der USA",
+     "summary": "Die USA bringen offenbar einen möglichen Nato-Beitritt der Ukraine ins Spiel – allerdings unter einer weitreichenden Bedingung: Kiew müsste sich aus dem Donbass zurückziehen.",
+     "link": "https://www.welt.de/politik/ausland/article6af8344f9849eea0701e292f/ukraine-nato-beitritt-gegen-donbass-verzicht-selenskyj-berichtet-von-brisantem-vorstoss-der-usa.html",
+     "image": "https://images.welt.de/6af8344f9849eea0701e292f/eac18339792ce764b5190cea181ea29e/ci23x11-w1200/dpa-com-261016-936-121369-jpg",
+     "aggregator": false,
+     "published": "2026-11-14T10:34:07+00:00"
+    }
+   ]
+  },
+  {
+   "id": 18,
+   "score": 8.19,
+   "outlets": [
+    "tagesschau Ausland",
+    "Deutsche Welle",
+    "n-tv"
+   ],
+   "regions": [
+    "DE",
+    "INT"
+   ],
+   "trend": [],
+   "newest": "2026-11-14T07:58:40+00:00",
+   "articles": [
+    {
+     "source": "tagesschau Ausland",
+     "region": "INT",
+     "weight": 1.0,
+     "title": "Mehr als 10.000 Ebola-Fälle in Demokratischer Republik Kongo bestätigt",
+     "summary": "Das Ebola-Virus breitet sich in der Demokratischen Republik Kongo weiter aus. Mehr als 10.000 Menschen sind dort bislang erkrankt. Inzwischen wird weiter an der Entwicklung von Therapieverfahren und Impfstoffen gearbeitet.",
+     "link": "https://www.tagesschau.de/ausland/afrika/demokratische-republik-kongo-ebola-100.html",
+     "image": "https://images.tagesschau.de/image/d0d13c3d-b2bf-4d11-af98-8cb20a19c757/AAABoXygYJA/AAABnSSvrFg/16x9-big/desinfektion-strasse-ituri-100.jpg?width=1920",
+     "aggregator": false,
+     "published": "2026-10-27T10:24:11+00:00"
+    },
+    {
+     "source": "Deutsche Welle",
+     "region": "INT",
+     "weight": 0.95,
+     "title": "DR Kongo: Die Cholera ist zurück",
+     "summary": "Die Demokratische Republik Kongo kämpft nicht nur gegen Ebola, sondern auch gegen Cholera. Am Stadtrand von Kinshasa wurden neue Fälle gemeldet. Die Einwohner sind besorgt und versuchen, sich zu schützen.",
+     "link": "https://www.dw.com/de/dr-kongo-die-cholera-ist-zurück/a-79908973?maca=de-rss-de-all-1119-xml-mrss",
+     "image": "https://static.dw.com/image/79904513_302.jpg",
+     "aggregator": false,
+     "published": "2026-11-12T05:45:00+00:00"
+    },
+    {
+     "source": "n-tv",
+     "region": "DE",
+     "weight": 0.8,
+     "title": "Sechs Monate nach Ausbruch: Warum Ebola im Kongo weiter grassiert",
+     "summary": "Bisher sind mehr als 11.000 Ebola-Fälle und fast 5.500 Ebola-Tote in der Demokratischen Republik registriert. Die Behörden haben auch sechs Monate nach Beginn des Ausbruchs die Krankheit nicht im Griff. Woran das liegt? Die wichtigsten Antworten dazu im Überblick.",
+     "link": "https://www.n-tv.de/wissen/Warum-Ebola-im-Kongo-weiter-grassiert-id31529210.html",
+     "image": "https://www.n-tv.de/img/31529217/1794557404/Img_4_3/250/628280890.jpg",
+     "aggregator": false,
+     "published": "2026-11-14T07:58:40+00:00"
+    }
+   ]
+  },
+  {
+   "id": 19,
+   "score": 7.87,
+   "outlets": [
+    "WirtschaftsWoche",
+    "DER STANDARD"
+   ],
+   "regions": [
+    "AT",
+    "DE"
+   ],
+   "trend": [
+    "Zelda-Switch-2: Nintendo-Fans müssen bei der Konsole ganz genau hinschauen"
+   ],
+   "newest": "2026-11-14T07:54:00+00:00",
+   "articles": [
+    {
+     "source": "WirtschaftsWoche",
+     "region": "DE",
+     "weight": 0.85,
+     "title": "Colette Kress: „Genau die, die man jetzt braucht“ – das ist die neue Nvidia-Chefin",
+     "summary": "Colette Kress übernimmt einen Konzern, der ganz auf seinen Gründer Jensen Huang zugeschnitten war. Diese Schwachstellen muss sie beseitigen, damit Nvidia vorn bleibt.",
+     "link": "https://www.wiwo.de/unternehmen/it/nvidia-chefin-colette-kress-jetzt-sitzt-das-reh-auf-dem-chefsessel/100269497.html",
+     "image": "https://images.wiwo.de/3l4rctqRGJuF/cover/900/506/0/0/27/813/0.5/0.5/colette-kress-ist-seit-2013-finanzchefin-von-nvidia..jpg",
+     "aggregator": false,
+     "published": "2026-11-14T07:54:00+00:00"
+    },
+    {
+     "source": "DER STANDARD",
+     "region": "AT",
+     "weight": 0.85,
+     "title": "Weniger Show, mehr Kontrolle: Colette Kress übernimmt vorerst Führung bei Nvidia",
+     "summary": "Nach Jensen Huangs tiefem Fall muss nun die bisherige Finanzchefin aufräumen, die seine wildesten KI-Wetten immer wieder bremste",
+     "link": "https://www.derstandard.at/story/3000000349153/weniger-show-mehr-kontrolle-colette-kress-uebernimmt-vorerst-fuehrung-bei-nvidia?ref=rss",
+     "image": "https://i.ds.at/4bfo6A/rs:fill:150:0/plain/lido-images/2026/11/13/e0d78993-e3e4-4b82-94da-eff0c7745bbb.jpg",
+     "aggregator": false,
+     "published": "2026-11-13T15:10:17+00:00"
+    }
+   ]
+  },
+  {
+   "id": 20,
+   "score": 7.64,
+   "outlets": [
+    "tagesschau",
+    "Deutschlandfunk"
+   ],
+   "regions": [
+    "DE"
+   ],
+   "trend": [],
+   "newest": "2026-11-14T11:06:03+00:00",
+   "articles": [
+    {
+     "source": "tagesschau",
+     "region": "DE",
+     "weight": 1.0,
+     "title": "Weniger Müll, weniger Konflikte: Bahn sieht Alkoholverbot an Bahnhöfen als Erfolg",
+     "summary": "Weniger Müll, weniger Konflikte: Bahn sieht Alkoholverbot an Bahnhöfen als Erfolg",
+     "link": "https://www.tagesschau.de/video/video-1683640.html",
+     "image": "https://images.tagesschau.de/image/6973c404-580e-4513-b3a1-00713dd7ea71/AAABodlaZyI/AAABnSSvrFg/16x9-big/sendungsbild-1827368.jpg?width=1920",
+     "aggregator": false,
+     "published": "2026-11-14T09:20:10+00:00"
+    },
+    {
+     "source": "tagesschau",
+     "region": "DE",
+     "weight": 1.0,
+     "title": "Bahn zieht positive Bilanz zu Alkoholverbot an Bahnhöfen",
+     "summary": "Seit einem Monat ist bundesweit der Konsum von Alkohol an Bahnhöfen untersagt. Die Deutsche Bahn zeigt sich in einer ersten Bilanz zufrieden. Weniger Müll, weniger Konflikte - die Situation habe sich für Reisende und Mitarbeitende verbessert.",
+     "link": "https://www.tagesschau.de/inland/gesellschaft/bahn-alkohol-verbot-bilanz-100.html",
+     "image": "https://images.tagesschau.de/image/9fe06521-e9d3-4c8b-b3f6-a46767c2e54e/AAABodl-Glc/AAABnSSvrFg/16x9-big/alkoholverbot-bahngelaende-100.jpg?width=1920",
+     "aggregator": false,
+     "published": "2026-11-14T10:07:05+00:00"
+    },
+    {
+     "source": "tagesschau Inland",
+     "region": "DE",
+     "weight": 1.0,
+     "title": "Bahn zieht positive Bilanz zu Alkoholverbot an Bahnhöfen",
+     "summary": "Seit einem Monat ist bundesweit der Konsum von Alkohol an Bahnhöfen untersagt. Die Deutsche Bahn zeigt sich in einer ersten Bilanz zufrieden. Weniger Müll, weniger Konflikte - die Situation habe sich für Reisende und Mitarbeitende verbessert.",
+     "link": "https://www.tagesschau.de/inland/gesellschaft/bahn-alkohol-verbot-bilanz-100.html",
+     "image": "https://images.tagesschau.de/image/9fe06521-e9d3-4c8b-b3f6-a46767c2e54e/AAABodl-Glc/AAABnSSvrFg/16x9-big/alkoholverbot-bahngelaende-100.jpg?width=1920",
+     "aggregator": false,
+     "published": "2026-11-14T10:07:05+00:00"
+    },
+    {
+     "source": "Deutschlandfunk",
+     "region": "DE",
+     "weight": 0.95,
+     "title": "Bundesweite Regel - Deutsche Bahn zieht positive Bilanz bei Alkoholverbot an Bahnhöfen",
+     "summary": "Einen Monat nach dem Inkrafttreten des Alkoholverbots an allen Bahnhöfen hat die Deutsche Bahn eine erste positive Bilanz gezogen.",
+     "link": "https://www.deutschlandfunk.de/deutsche-bahn-zieht-positive-bilanz-bei-alkoholverbot-an-bahnhoefen-104.html",
+     "image": "https://bilder.deutschlandfunk.de/NO/VA/_5/93/NOVA_5932cb9e155ad91b021565437579228f/craft-13241752-asset-100-1920x1920.jpg",
+     "aggregator": false,
+     "published": "2026-11-14T11:06:03+00:00"
+    }
+   ]
+  },
+  {
+   "id": 21,
+   "score": 7.64,
+   "outlets": [
+    "tagesschau",
+    "Deutschlandfunk"
+   ],
+   "regions": [
+    "DE",
+    "INT"
+   ],
+   "trend": [],
+   "newest": "2026-11-14T11:06:03+00:00",
+   "articles": [
+    {
+     "source": "tagesschau",
+     "region": "DE",
+     "weight": 1.0,
+     "title": "Nvidia-Skandal: US-Handelsminister Lutnick wegen Chip-Exporten unter Druck",
+     "summary": "US-Handelsminister Lutnick steht in der Kritik. Sein Ministerium soll Warnungen vor der in den Nvidia-Skandal verwickelten Firma Megaspeed ignoriert haben. Kabinettskollege Bessent warf ihm Versäumnisse vor.",
+     "link": "https://www.tagesschau.de/ausland/usa-nvidia-finanzminister-handelminister-100.html",
+     "image": "https://images.tagesschau.de/image/434feb3c-9a0f-43d3-afd8-cab5dd0eaeed/AAABodZOA3k/AAABnSSvrFg/16x9-big/howard-lutnick-100.jpg?width=1920",
+     "aggregator": false,
+     "published": "2026-11-13T19:06:39+00:00"
+    },
+    {
+     "source": "tagesschau Ausland",
+     "region": "INT",
+     "weight": 1.0,
+     "title": "Nvidia-Skandal: US-Handelsminister Lutnick wegen Chip-Exporten unter Druck",
+     "summary": "US-Handelsminister Lutnick steht in der Kritik. Sein Ministerium soll Warnungen vor der in den Nvidia-Skandal verwickelten Firma Megaspeed ignoriert haben. Kabinettskollege Bessent warf ihm Versäumnisse vor.",
+     "link": "https://www.tagesschau.de/ausland/usa-nvidia-finanzminister-handelminister-100.html",
+     "image": "https://images.tagesschau.de/image/434feb3c-9a0f-43d3-afd8-cab5dd0eaeed/AAABodZOA3k/AAABnSSvrFg/16x9-big/howard-lutnick-100.jpg?width=1920",
+     "aggregator": false,
+     "published": "2026-11-13T19:06:39+00:00"
+    },
+    {
+     "source": "Deutschlandfunk",
+     "region": "DE",
+     "weight": 0.95,
+     "title": "Nvidia-Skandal - US-Finanzminister Bessent macht Handelsminister Lutnick für Chip-Lieferungen nach China verantwortlich",
+     "summary": "Im Skandal um den zurückgetretenen Nvidia-Chef Huang steht nun auch US-Handelsminister Lutnick in der Kritik.",
+     "link": "https://www.deutschlandfunk.de/us-finanzminister-bessent-macht-handelsminister-lutnick-fuer-chip-lieferungen-nach-china-verantwortl-106.html",
+     "image": "https://bilder.deutschlandfunk.de/a5/ee/cf/8d/a5eecf8d-6e89-447f-921f-bae180250d58/handelminister-lutnick-usa-100-1920x1920.jpg",
+     "aggregator": false,
+     "published": "2026-11-14T11:06:03+00:00"
+    }
+   ]
+  },
+  {
+   "id": 22,
+   "score": 7.64,
+   "outlets": [
+    "ZDFheute",
+    "Deutschlandfunk"
+   ],
+   "regions": [
+    "DE"
+   ],
+   "trend": [],
+   "newest": "2026-11-14T11:06:03+00:00",
+   "articles": [
+    {
+     "source": "ZDFheute",
+     "region": "DE",
+     "weight": 1.0,
+     "title": "Elterngeldreform: Das soll sich ändern",
+     "summary": "Das Bundeskabinett hat sich auf einen Gesetzentwurf zur Reform des Elterngelds geeinigt. Die Änderungen betreffen neben der Höhe auch die Aufteilung zwischen den Elternteilen.",
+     "link": "https://www.zdfheute.de/politik/deutschland/elterngeldreform-bundeskabinett-100.html",
+     "image": "https://www.zdfheute.de/assets/aid-image-74171602-hires-100~384x216?cb=1794600799107",
+     "aggregator": false,
+     "published": "2026-11-13T20:13:00+00:00"
+    },
+    {
+     "source": "Deutschlandfunk",
+     "region": "DE",
+     "weight": 0.95,
+     "title": "Familienleistung - Was sich beim Elterngeld ändern soll",
+     "summary": "Das Elterngeld soll einfacher und attraktiver werden, so will es die Bundesregierung. Das Kabinett hat sich nun auf einen Gesetzentwurf geeinigt, der ab November 2027 greifen soll. Ein Überblick über die geplanten Änderungen.",
+     "link": "https://www.deutschlandfunk.de/was-sich-beim-elterngeld-aendern-soll-100.html",
+     "image": "https://bilder.deutschlandfunk.de/37/80/32/6b/3780326b-6164-43fd-a079-a8370b9b36cb/baby-familie-100-1920x1920.jpg",
+     "aggregator": false,
+     "published": "2026-11-14T11:06:03+00:00"
+    }
+   ]
+  },
+  {
+   "id": 23,
+   "score": 7.57,
+   "outlets": [
+    "tagesschau",
+    "DER STANDARD"
+   ],
+   "regions": [
+    "AT",
+    "DE",
+    "INT"
+   ],
+   "trend": [],
+   "newest": "2026-11-14T11:30:06+00:00",
+   "articles": [
+    {
+     "source": "tagesschau",
+     "region": "DE",
+     "weight": 1.0,
+     "title": "Vorübergehendes Startverbot in den USA: \"Unglaublich veraltetes Flugsicherungssystem\"",
+     "summary": "Stundenlang durften in den USA keine Flugzeuge starten. Die Regierung macht veraltete Technik verantwortlich. Mittlerweile ist das Verbot wieder aufgehoben - doch wann sich der Flugverkehr normalisieren wird, ist unklar. Von Nina Barth.",
+     "link": "https://www.tagesschau.de/ausland/amerika/usa-ende-startverbot-flughaefen-100.html",
+     "image": "https://images.tagesschau.de/image/db3c732d-062f-452e-b840-ddd218f43e52/AAABodke9Pc/AAABnSSvrFg/16x9-big/flughafen-los-angeles-100.jpg?width=1920",
+     "aggregator": false,
+     "published": "2026-11-14T07:15:22+00:00"
+    },
+    {
+     "source": "tagesschau Ausland",
+     "region": "INT",
+     "weight": 1.0,
+     "title": "Vorübergehendes Startverbot in den USA: \"Unglaublich veraltetes Flugsicherungssystem\"",
+     "summary": "Stundenlang durften in den USA keine Flugzeuge starten. Die Regierung macht veraltete Technik verantwortlich. Mittlerweile ist das Verbot wieder aufgehoben - doch wann sich der Flugverkehr normalisieren wird, ist unklar. Von Nina Barth.",
+     "link": "https://www.tagesschau.de/ausland/amerika/usa-ende-startverbot-flughaefen-100.html",
+     "image": "https://images.tagesschau.de/image/db3c732d-062f-452e-b840-ddd218f43e52/AAABodke9Pc/AAABnSSvrFg/16x9-big/flughafen-los-angeles-100.jpg?width=1920",
+     "aggregator": false,
+     "published": "2026-11-14T07:15:22+00:00"
+    },
+    {
+     "source": "DER STANDARD",
+     "region": "AT",
+     "weight": 0.85,
+     "title": "Was über den längsten Flug-Shutdown in den USA seit 9/11 bisher bekannt ist",
+     "summary": "Die Trump-Regierung macht veraltete Technik für den stundenlangen Ausfall verantwortlich, dessen Folgen wohl noch tagelang spürbar sein werden. Ein politischer Streit ist bereits zuvor entbrannt",
+     "link": "https://www.derstandard.at/story/3000000349223/was-ueber-den-laengsten-flug-shutdown-in-den-usa-seit-911-bisher-bekannt-ist?ref=rss",
+     "image": "https://i.ds.at/o9-g-A/rs:fill:150:0/plain/lido-images/2026/11/14/bedff922-7c6c-4577-a245-167727154047.jpg",
+     "aggregator": false,
+     "published": "2026-11-14T11:30:06+00:00"
+    }
+   ]
+  },
+  {
+   "id": 24,
+   "score": 7.54,
+   "outlets": [
+    "Deutsche Welle",
+    "heise online"
+   ],
+   "regions": [
+    "DE",
+    "INT"
+   ],
+   "trend": [],
+   "newest": "2026-11-14T11:42:00+00:00",
+   "articles": [
+    {
+     "source": "Deutsche Welle",
+     "region": "INT",
+     "weight": 0.95,
+     "title": "Nvidia-Chef Jensen Huang tritt nach Affären zurück",
+     "summary": "Der CEO des wichtigsten Herstellers für KI-Prozessoren räumt seinen Stuhl. Auch wenn das US-Unternehmen offiziell keine Gründe nennt, ist die Sachlage klar. Im Kongress in Washington dürfte ein Nachspiel folgen.",
+     "link": "https://www.dw.com/de/nvidia-chef-jensen-huang-tritt-nach-affären-zurück/a-79932950?maca=de-rss-de-all-1119-xml-mrss",
+     "image": "https://static.dw.com/image/79933651_302.jpg",
+     "aggregator": false,
+     "published": "2026-11-12T15:35:00+00:00"
+    },
+    {
+     "source": "heise online",
+     "region": "DE",
+     "weight": 0.85,
+     "title": "Nvidia-Angestellte wollen Jensen Huang zurück",
+     "summary": "Nachdem eine dritte Affäre des vormaligen Nvidia-Chefs Jensen Huang bekannt wurde, setzt der Fallout ein. Trotzdem wollen manche, dass er wiederkehrt.",
+     "link": "https://www.heise.de/news/Nvidia-Angestellte-wollen-Jensen-Huang-zurueck-11525279.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
+     "image": null,
+     "aggregator": false,
+     "published": "2026-11-14T11:42:00+00:00"
+    }
+   ]
+  },
+  {
+   "id": 25,
+   "score": 7.52,
+   "outlets": [
+    "tagesschau Inland",
+    "Handelsblatt",
+    "Tagesspiegel"
+   ],
+   "regions": [
+    "DE"
+   ],
+   "trend": [],
+   "newest": "2026-11-14T09:15:00+00:00",
+   "articles": [
+    {
+     "source": "tagesschau Inland",
+     "region": "DE",
+     "weight": 1.0,
+     "title": "Keine Senkung der Stromsteuer: Bei der Union \"hat es ordentlich geknallt\"",
+     "summary": "Die Senkung der Stromsteuer wird nun vermutlich doch nicht kommen - trotz anderslautender Versprechen. Bei der Union will man das noch nicht akzeptieren. Und die Opposition nimmt sich Kanzler Merz vor.",
+     "link": "https://www.tagesschau.de/inland/innenpolitik/haushalt-kompromisse-stromsteuer-reaktionen-100.html",
+     "image": "https://images.tagesschau.de/image/c719ccdf-4c2e-4d89-8cc7-51bde98c7346/AAABn3WyiBE/AAABnSSvrFg/16x9-big/cdu-csu-fraktion-102.jpg?width=1920",
+     "aggregator": false,
+     "published": "2026-11-12T13:40:04+00:00"
+    },
+    {
+     "source": "Handelsblatt",
+     "region": "DE",
+     "weight": 0.9,
+     "title": "Haushalt: Klingbeil „offen für die Senkung der Stromsteuer, aber wir brauchen eine Gegenfinanzierung“",
+     "summary": "Der Finanzminister und SPD-Vizekanzler hat am Freitag die von der Union geforderte Stromsteuersenkung an eine seriöse Gegenfinanzierung geknüpft. Die fünf Milliarden dafür seien bisher nicht gefunden worden, sagte Klingbeil.",
+     "link": "https://www.handelsblatt.com/video/politik/haushalt-klingbeil-offen-fuer-die-senkung-der-stromsteuer-aber-wir-brauchen-eine-gegenfinanzierung/100269800.html",
+     "image": null,
+     "aggregator": false,
+     "published": "2026-11-13T16:59:20+00:00"
+    },
+    {
+     "source": "Tagesspiegel",
+     "region": "DE",
+     "weight": 0.6,
+     "title": "„Hat ordentlich geknallt“ Wut in der Union – Merz will Stromsteuersenkung wohl noch im Koalitionsausschuss durchboxen",
+     "summary": "„Hat ordentlich geknallt“ Wut in der Union – Merz will Stromsteuersenkung wohl noch im Koalitionsausschuss durchboxen Tagesspiegel Einigung über den Bundeshaushalt 2027: Die richtigen Verteilungskämpfe stehen erst noch bevor taz.de Kommentar zur Stromsteuer: Warum Gordon Schnieders Empörung nicht überzeugt SWR Steuerbeschlüsse von CDU und SPD - Warum die Unionspolitiker sauer sind MDR.de Kommentar zum Haushalt: Die Koalition geht auf dem Zahnfleisch tagesschau.de",
+     "link": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxNS0JYbDdSSFNvaUFmVURHSGtmenJvbWxFODR0eTlIRUpDTjYyRV9LUENsZEIyVUNzWVBITTN5ZXc0bHlWMG5CWHdoS1hKZVlCUDE5SnJYWmN5VE8xRWpmYVMxamhsQ2lVRUJpRG5qZFU0cHE0Z0Fna2V2dzVySmk3cVRKSWJaM21qTTJvQi1rQ3Y2MHpJQkxON2pmeGFWV3RRbmpsZlVjWmtyLUNEZjJkdHhLY1lmT2NJNnRGLTVub3k3eEVYUEY4andpbDVMY1A0TUJySGNZa2V4c0JYM3lxN01VdWlWaXJNTmxYTktQZFh1NDNsNEE?oc=5",
+     "image": null,
+     "aggregator": true,
+     "published": "2026-11-14T09:15:00+00:00"
+    }
+   ]
+  },
+  {
+   "id": 26,
+   "score": 7.46,
+   "outlets": [
+    "ZEIT ONLINE",
+    "Handelsblatt"
+   ],
+   "regions": [
+    "DE"
+   ],
+   "trend": [],
+   "newest": "2026-11-14T11:29:08+00:00",
+   "articles": [
+    {
+     "source": "ZEIT ONLINE",
+     "region": "DE",
+     "weight": 0.9,
+     "title": "CDU-Landesparteitag: Merz räumt ein: Deutschland 2040 nicht gut genug erklärt",
+     "summary": "",
+     "link": "https://www.zeit.de/news/2026-11/14/merz-raeumt-ein-deutschland-2040-nicht-gut-genug-erklaert",
+     "image": "https://img.zeit.de/news/2026-11/14/merz-raeumt-ein-deutschland-2040-nicht-gut-genug-erklaert-image-group/original__640x360",
+     "aggregator": false,
+     "published": "2026-11-14T11:29:08+00:00"
+    },
+    {
+     "source": "Handelsblatt",
+     "region": "DE",
+     "weight": 0.9,
+     "title": "CDU-Landesparteitag: Merz räumt ein: Deutschland 2040 nicht gut genug erklärt",
+     "summary": "Junge Menschen sollen wieder zuversichtlicher in die Zukunft blicken, fordert Friedrich Merz. Bei einem Parteitag räumt der Kanzler im Norden zugleich ein, was er bisher nicht ausreichend erklärt hat.",
+     "link": "https://www.handelsblatt.com/politik/deutschland/cdu-landesparteitag-merz-raeumt-ein-deutschland-2040-nicht-gut-genug-erklaert/100269878.html",
+     "image": "https://images.handelsblatt.com/Hd4laYKbRPaq/cover/900/506/0/0/111/110/0.5/0.5/landesparteitag-cdu-schleswig-holstein.jpg",
+     "aggregator": false,
+     "published": "2026-11-14T11:29:08+00:00"
+    }
+   ]
+  },
+  {
+   "id": 27,
+   "score": 7.44,
+   "outlets": [
+    "Deutschlandfunk",
+    "SPIEGEL"
+   ],
+   "regions": [
+    "DE"
+   ],
+   "trend": [],
+   "newest": "2026-11-14T11:06:03+00:00",
+   "articles": [
+    {
+     "source": "Deutschlandfunk",
+     "region": "DE",
+     "weight": 0.95,
+     "title": "Trauerfeier - Angehörige und Wegbegleiter nehmen Abschied von Aiwanger",
+     "summary": "In der Münchener Frauenkirche haben mehr als tausend Trauergäste Abschied vom verstorbenen bayerischen Wirtschaftsminister und stellvertretenden Ministerpräsidenten Aiwanger genommen.",
+     "link": "https://www.deutschlandfunk.de/angehoerige-und-wegbegleiter-nehmen-abschied-von-aiwanger-106.html",
+     "image": "https://bilder.deutschlandfunk.de/3a/c2/1a/2c/3ac21a2c-eb5e-4a01-9bd2-9e991493ced9/aiwanger-126-1920x1920.jpg",
+     "aggregator": false,
+     "published": "2026-11-14T11:06:03+00:00"
+    },
+    {
+     "source": "SPIEGEL",
+     "region": "DE",
+     "weight": 0.9,
+     "title": "München: Mehr als 1000 Trauergäste nehmen Abschied von Hubert Aiwanger",
+     "summary": "Mit Blasmusik und geistlicher Begleitung wird Hubert Aiwanger in München die letzte Ehre erwiesen. Die Frauenkirche ist voll besetzt. Hunderte wollen sich vom plötzlich gestorbenen Chef der Freien Wähler verabschieden.",
+     "link": "https://www.spiegel.de/politik/muenchen-mehr-als-1000-trauergaeste-nehmen-abschied-von-hubert-aiwanger-a-e986f8ab-d9b9-4faf-adf7-d167c63eb24b#ref=rss",
+     "image": "https://cdn.prod.www.spiegel.de/images/ec77ea0b-e7ca-4237-b664-d1a7fff70f59_w520_r2.08_fpx41.99_fpy54.99.jpg",
+     "aggregator": false,
+     "published": "2026-11-14T10:38:00+00:00"
+    }
+   ]
+  }
+ ]
+}
