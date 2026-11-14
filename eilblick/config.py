@@ -24,6 +24,15 @@ def settings() -> dict:
         return yaml.safe_load(f)
 
 
+def keywords() -> dict:
+    """config/keywords.yaml – most-searched keywords from the owner (optional file)."""
+    try:
+        with open(CONFIG_DIR / "keywords.yaml", encoding="utf-8") as f:
+            return yaml.safe_load(f) or {}
+    except FileNotFoundError:
+        return {}
+
+
 @lru_cache
 def sources() -> dict:
     with open(CONFIG_DIR / "sources.yaml", encoding="utf-8") as f:

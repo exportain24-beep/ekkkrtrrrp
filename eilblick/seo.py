@@ -3,7 +3,7 @@ from __future__ import annotations
 
 import re
 
-from .config import settings
+from .config import keywords, settings
 
 NUM = ["1️⃣", "2️⃣", "3️⃣", "4️⃣", "5️⃣"]
 
@@ -22,6 +22,55 @@ def _body_lines(plan: dict, date_text: str) -> list[str]:
         [f"{NUM[i]} {s['headline']} – {s['subline']}" for i, s in enumerate(plan["stories"])]
 
 
+def _plan_text(plan: dict) -> str:
+    parts = [plan.get(k, "") for k in ("youtube_title", "hook_text", "hook_voice", "headline", "description_lead")]
+    parts += [" ".join(map(str, plan.get(k, []))) for k in ("tags", "entities")]
+    for s in plan.get("stories", []):
+        parts += [s.get("headline", ""), s.get("voice", ""), " ".join(s.get("entities", []))]
+    for b in plan.get("beats", []):
+        parts += [str(b.get("voice", "")), str(b.get("big", "")), str(b.get("label", ""))]
+    return " ".join(parts).lower()
+
+
+def search_keywords(plan: dict, limit: int = 8) -> list[str]:
+    """Owner keyword list: cluster keywords whose triggers occur in the plan (most specific cluster first)."""
+    kw = keywords()
+    text = _plan_text(plan)
+    out: list[str] = []
+    for name, c in (kw.get("clusters") or {}).items():
+        hits = sum(1 for t in c.get("triggers", []) if t.lower() in text)
+        if hits:
+            specific = [w for w in c.get("keywords", [])
+                        if any(tok in text for tok in re.findall(r"[a-zäöüß0-9]{3,}", w.lower()))]
+            out.append((hits, name, list(c.get("generic", [])) + specific))
+    out.sort(key=lambda x: -x[0])
+    res: list[str] = []
+    for _, _, words in out:
+        n = 0
+        for w in words:
+            if n >= 5:                     # max 5 per cluster → several topics get covered
+                break
+            if w.lower() not in (r.lower() for r in res):
+                res.append(w)
+                n += 1
+            if len(res) >= limit:
+                return res
+    return res
+
+
+def _themes(found: list[str], n: int = 3) -> list[str]:
+    """Readable topic line: no near-duplicates ("fall fabian" vs "fall fabian aktuell")."""
+    out: list[str] = []
+    for w in found:
+        lw = w.lower()
+        if any(o.lower() in lw or lw in o.lower() for o in out):
+            continue
+        out.append(w)
+        if len(out) >= n:
+            break
+    return [w.title() if w.islower() else w for w in out]
+
+
 def youtube_meta(plan: dict, credits: list[str], sources: list[str], date_text: str = "") -> tuple[str, str, list[str]]:
     ch = settings()["channel"]
     seo = settings()["seo"]
@@ -29,10 +78,12 @@ def youtube_meta(plan: dict, credits: list[str], sources: list[str], date_text: 
     first_voice = " ".join(" ".join(s["voice"] for s in plan["stories"]).split()[:25])
     tags_extra = [h.strip() for h in plan.get("hashtags", []) if h.strip()]
     hashtags = seo["base_hashtags_youtube"] + [_hashtag(h.lstrip("#")).lower() for h in tags_extra][:2]
+    found = search_keywords(plan)
     lines = [
         first_voice + " …",
         "",
         plan.get("description_lead", ""),
+        *(["Themen: " + " · ".join(_themes(found))] if found else []),
         "",
         *_body_lines(plan, date_text),
         "",
@@ -54,7 +105,8 @@ def youtube_meta(plan: dict, credits: list[str], sources: list[str], date_text: 
     if date_text and "," in date_text:
         dm = date_text.split(",", 1)[1].strip()          # "31. Oktober 2026"
         date_tag = [f"Nachrichten {dm}", f"News {dm.rsplit(' ', 1)[0]}"]
-    for t in list(plan.get("tags", [])) + date_tag + seo["base_tags"]:
+    evergreen = list((keywords().get("evergreen") or []))[:4]
+    for t in list(plan.get("tags", [])) + found + date_tag + evergreen + seo["base_tags"]:
         t = t.strip().replace("#", "")
         if not t or t.lower() in (x.lower() for x in tags):
             continue

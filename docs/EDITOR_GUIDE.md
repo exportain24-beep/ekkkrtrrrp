@@ -147,6 +147,28 @@ Data: single-story Shorts get the most views/hour in DACH news (own FOKUS + comp
    ✓ „Habeck wirft Trump Verrat vor.“ ✓ „Merz droht Brüssel.“ ✗ „Palmer sagt Termine ab.“ – find the conflict in the sources
    (who attacks whom, who loses what), never invent one.
 
+20. **MOST-SEARCHED KEYWORDS IN EVERY VIDEO (owner order 14 Nov 2026 – read `config/keywords.yaml` every run):**
+   - **Topic choice:** among real, verified stories (≥ 2 outlets as always) prefer the ones that match a `trending`
+     term (14 Nov: Fall Fabian / Prozess gegen Gina H. am Landgericht Rostock, Ukraine-Krieg / Friedensverhandlungen /
+     russische Angriffe auf die Energieinfrastruktur, Putin, Selenskyj, Merz, Klingbeil, AfD, Trump, SpaceX Starship,
+     Microsoft-Störung, Nvidia / Jensen Huang, GTA 6, Arda Güler, Borussia Dortmund). The ranking already gives them a boost.
+     Never invent a link to a keyword – no story, no keyword. Ignore foreign entertainment keywords (Indian/Pakistani
+     dramas, cricket, US streamers) – they do not fit a German news channel.
+   - **Exact search phrase, as people type it:** the main keyword of the story goes – in this exact wording – into the
+     first 40 characters of `youtube_title`, into `hook_text`, and into the first spoken sentence. Use the form with the
+     most searches: "Fall Fabian", "Ukraine-Krieg", "Putin", "Selenskyj", "Merz", "AfD", "Trump", "SpaceX Starship",
+     "Microsoft-Störung", "GTA 6" – not a paraphrase ("der Kremlchef", "der ukrainische Präsident", "das Raumschiff").
+     Second mention may vary.
+   - **Every one of the 12 videos carries at least 2 of these keywords** (title + first sentence + `tags`), e.g.
+     `Fall Fabian: Was Gina H. jetzt vor Gericht sagt` · `Putin greift Kiew an: Selenskyj warnt vor Winter`.
+   - `tags`: put the 3–5 keyword phrases from `config/keywords.yaml` that really fit the story first. The system adds the
+     matching cluster keywords, "nachrichten heute"/"aktuelle nachrichten" and a "Themen:" line automatically –
+     names that do not occur in the story are never added. **Never use other channels' brand names** (tagesschau, ZDF,
+     BILD, WELT, ARD, n-tv …) as tags or in the title – YouTube treats that as misleading metadata.
+   - `hashtags`: one of them is the main keyword (`#fallfabian`, `#ukrainekrieg`, `#putin`, `#starship`).
+   - Facebook: the same keyword in `facebook_caption_line1` (still no links).
+   - When the owner sends a new keyword list, update `config/keywords.yaml` (`trending.terms`, `expires` = 3 days later).
+
 ## WHAT WINS – our own data (13 Nov 2026, YouTube + Facebook) – read this before choosing a story
 | Video | YouTube | Facebook | why |
 |---|---|---|---|

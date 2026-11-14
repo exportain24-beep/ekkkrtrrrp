@@ -71,3 +71,11 @@
 - vidIQ-Watch jLQq8ZPuPlQ (Quantum-4er): 2 s Marken-Titelkarte, Zähler 1/4, textlastig; Deutsch fehlerfrei.
 - 2026-11-14 05:45 Berlin · Growth-Brief A · Credits 5.190 · Abos 24 · Views 42.694 · Videos 89 · Top: Rente/Altersarmut, CDU-Austritt, Putin↔EU
 - 2026-11-14 13:45 Berlin · Growth-Brief A · Credits 5.160 · Abos 23 · Views 46.991 · Videos 94 · Top: CDU-Austritt, Altersarmut, Russland-Verhandlungen
+
+## 14.11.2026 (late evening) – owner order: most-searched keywords in every Short
+- New `config/keywords.yaml` (owner's YouTube search lists: today / this week / German news evergreen).
+- seo.py: matching cluster keywords + "nachrichten heute" etc. added to tags automatically, plus a "Themen:" line
+  in the description; names are only added when they occur in the story; no competitor brand names.
+- feeds.py: stories matching a trending owner keyword get +1 per match (max +2) until `expires`.
+- EDITOR_GUIDE rule 20: exact search phrase in title (first 40 chars), hook and first sentence; ≥ 2 keywords per video.
+- Audit note (15 Nov): videos from 15 Nov onwards use the keyword rule – compare them separately.

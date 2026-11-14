@@ -288,8 +288,21 @@ def cluster(arts: list[Article]) -> list[Story]:
     return stories
 
 
+def _owner_trending() -> list[str]:
+    """Trending terms from config/keywords.yaml (owner's YouTube search list) while not expired."""
+    from .config import keywords
+    tr = keywords().get("trending") or {}
+    try:
+        if datetime.now(timezone.utc).date().isoformat() > str(tr.get("expires", "")):
+            return []
+    except Exception:
+        return []
+    return [t.lower() for t in tr.get("terms", [])]
+
+
 def rank(stories: list[Story], trends: list[str], max_age_h: float, blocked: list[str]) -> list[Story]:
     now = datetime.now(timezone.utc)
+    owner_terms = _owner_trending()
     trend_tokens = [(t, tokenize(t)) for t in trends]
     ranked = []
     for s in stories:
@@ -313,8 +326,10 @@ def rank(stories: list[Story], trends: list[str], max_age_h: float, blocked: lis
         lead_text = (s.lead.title + " " + s.lead.summary).lower()
         controversy = min(sum(1 for w in CONTROVERSY if w in lead_text), 3) * 0.5
         prominent = min(sum(1 for w in PROMINENT if w in lead_text), 2) * 0.6
+        owner_hits = [t for t in owner_terms if t in lead_text]
         s.score = (
-            outlet_score * 2.0
+            min(len(owner_hits), 2) * 1.0       # owner's most-searched YouTube keywords (keywords.yaml)
+            + outlet_score * 2.0
             + min(agg, 4) * 0.6
             + trend_pts                         # Google Trends DE: matches + real search volume
             + max(0.0, 3.0 - age_h / 3)        # freshness

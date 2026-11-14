@@ -1,0 +1,67 @@
+# Most-searched keywords (owner list from YouTube/vidIQ, 14 Nov 2026) – used by
+#  • seo.py  : matching cluster keywords are added to the YouTube tags automatically
+#  • feeds.py: stories that match a TRENDING keyword get a ranking boost (only while not expired)
+#  • desks   : EDITOR_GUIDE rule 20 – put the searched phrase into title / hook / first sentence
+# Rules: only keywords that fit the story (no stuffing). Never other channels' brand names
+# (tagesschau, ZDF, BILD, WELT …) – YouTube treats that as misleading metadata.
+# Update this file whenever the owner sends a new list.
+
+updated: "2026-11-14"
+
+# always useful for a German news Short (added as tags, max 4)
+evergreen: ["nachrichten", "nachrichten heute", "aktuelle nachrichten", "deutschland", "politik", "news", "aktuell", "kurznachrichten"]
+
+# topic clusters: if ANY trigger appears in the plan text → `generic` terms are always added as tags,
+# `keywords` only when one of their words really occurs in the story (no names that are not in the video)
+clusters:
+  fall_fabian:
+    triggers: ["fabian", "güstrow", "gina h", "landgericht rostock"]
+    keywords: ["fall fabian", "fall fabian aktuell", "prozess fabian", "mordprozess fabian", "gina h prozess", "fabian güstrow", "landgericht rostock", "true crime deutschland"]
+    generic: ["fall fabian", "fall fabian aktuell"]
+  crime:
+    triggers: ["mord", "prozess", "angeklagt", "festgenommen", "polizei", "ermittl", "urteil", "gericht", "tatverdächt"]
+    keywords: ["kriminalfall", "mordprozess", "true crime deutsch", "true crime deutschland"]
+    generic: ["kriminalfall", "true crime deutschland"]
+  ukraine:
+    triggers: ["ukraine", "kiew", "selenskyj", "putin", "russland", "moskau", "donbass", "front"]
+    keywords: ["ukraine krieg", "ukraine aktuell", "russland ukraine krieg", "putin", "wladimir putin", "selenskyj", "wolodymyr selenskyj", "kiew", "russische angriffe", "friedensverhandlungen", "frontlage ukraine", "energieinfrastruktur"]
+    generic: ["ukraine krieg", "ukraine aktuell"]
+  germany_politics:
+    triggers: ["merz", "klingbeil", "afd", "spd", "cdu", "csu", "grüne", "linke", "bundestag", "bundesregierung", "koalition", "kanzler"]
+    keywords: ["friedrich merz", "lars klingbeil", "afd", "spd", "cdu", "csu", "grüne", "die linke", "bundestag", "politik deutschland"]
+    generic: ["politik deutschland"]
+  usa:
+    triggers: ["trump", "usa", "washington", "weißes haus", "midterm", "vance"]
+    keywords: ["trump", "donald trump", "usa", "midterms"]
+    generic: ["usa"]
+  europe:
+    triggers: ["eu-", "brüssel", "europa", "von der leyen", "orbán", "nato"]
+    keywords: ["europa", "eu", "nato"]
+    generic: ["europa"]
+  space_tech:
+    triggers: ["spacex", "starship", "musk", "rakete"]
+    keywords: ["spacex", "starship", "elon musk"]
+    generic: []
+  big_tech:
+    triggers: ["microsoft", "nvidia", "jensen huang", "störung", "ausfall", "outage", "ki ", "künstliche intelligenz"]
+    keywords: ["microsoft", "microsoft outage", "microsoft störung", "nvidia", "jensen huang", "nvidia ceo", "ki"]
+    generic: []
+  gaming:
+    triggers: ["gta", "rockstar", "take-two"]
+    keywords: ["gta 6", "gta vi", "grand theft auto vi", "gta 6 trailer"]
+    generic: []
+  football:
+    triggers: ["dortmund", "bvb", "bayern", "nationalmannschaft", "güler", "wm-quali", "nations league", "bundesliga"]
+    keywords: ["borussia dortmund", "bundesliga", "arda güler", "fußball"]
+    generic: ["fußball"]
+  weather:
+    triggers: ["wetter", "unwetter", "sturm", "schnee", "glätte", "dwd"]
+    keywords: ["wetter", "wetter deutschland", "unwetter"]
+    generic: ["wetter", "wetter deutschland"]
+
+# trending right now – stories matching these get a ranking boost; ignored after `expires`
+trending:
+  expires: "2026-11-17"
+  terms: ["fall fabian", "fabian", "gina h", "starship", "spacex", "microsoft", "nvidia", "jensen huang", "gta 6",
+          "selenskyj", "putin", "friedensverhandlungen", "merz", "klingbeil", "afd", "trump", "arda güler",
+          "dortmund", "kriminalfall", "mordprozess"]
