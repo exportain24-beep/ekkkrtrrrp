@@ -1,0 +1,1577 @@
+{
+ "slot": {
+  "id": "vormittag",
+  "format": "single",
+  "time": "10:00",
+  "label": "am Vormittag",
+  "focus": "Nur Tie-Breaker – immer zuerst die populärsten, meistberichteten Nachrichten. Bei Gleichstand bevorzugt: Die eine Nachricht, die seit dem Morgen am stärksten hochkocht – bevorzugt neue Entwicklungen großer laufender Geschichten.",
+  "pillars": [
+   "POLITIK",
+   "WIRTSCHAFT",
+   "WELT",
+   "TECHNOLOGIE"
+  ],
+  "notify_subscribers": false
+ },
+ "slot_time": "2026-11-14T10:00:00+01:00",
+ "date_text": "Samstag, 14. November 2026",
+ "already_published": [
+  "Blatter nennt Infantino Diktator",
+  "Iran droht US-Stützpunkten in Europa",
+  "IG Metall droht mit Ganztags-Streiks",
+  "Dax knackt erstmals 27.000 Punkte",
+  "Gericht: Grenzkontrollen rechtswidrig",
+  "Stromsteuer-Senkung vorerst gescheitert",
+  "Mercedes stoppt Investitionen",
+  "Bundeswehr stoppt Drohnen nach Hack",
+  "Putin lässt Europa an den Tisch",
+  "Microsoft: Outlook und Teams gestört",
+  "VW verdient nur zwölf Euro pro Auto",
+  "Rekordhaushalt: 560 Milliarden Euro",
+  "BND soll im Ausland sabotieren",
+  "Russland droht WM-Gastgeber Deutschland",
+  "Auto von Julian Reichelt angezündet",
+  "BVB beendet Rheinmetall-Deal",
+  "Merz will an den Ukraine-Tisch",
+  "Klopp beendet Nmechas Kronen-Jubel",
+  "DHL erhöht die Paketpreise",
+  "USA stoppen alle Flüge",
+  "Tanker rammt Kreuzfahrtschiff",
+  "EU-Team für Russland-Gespräche steht",
+  "Geheimdienste dürfen zurückhacken",
+  "DFB-Elf siegt 3:1 in Serbien",
+  "Microsoft-Update stoppt Outlook, Teams"
+ ],
+ "candidates": [
+  {
+   "id": 0,
+   "score": 21.68,
+   "outlets": [
+    "tagesschau",
+    "Deutsche Welle",
+    "SRF News",
+    "Handelsblatt",
+    "NZZ",
+    "WirtschaftsWoche",
+    "heise online",
+    "DER STANDARD",
+    "WELT",
+    "n-tv"
+   ],
+   "regions": [
+    "AT",
+    "CH",
+    "DE",
+    "INT"
+   ],
+   "trend": [],
+   "newest": "2026-11-14T07:20:10+00:00",
+   "articles": [
+    {
+     "source": "tagesschau",
+     "region": "DE",
+     "weight": 1.0,
+     "title": "Weltweiter Ausfall bei Diensten von Microsoft - auch Outlook und Teams betroffen",
+     "summary": "Weltweiter Ausfall bei Diensten von Microsoft - auch Outlook und Teams betroffen",
+     "link": "https://www.tagesschau.de/tagesthemen/video-1683532.html",
+     "image": "https://images.tagesschau.de/image/17fe5cdc-51ad-4210-bb77-4bb01b5ae70d/AAABoda73cA/AAABnSSvrFg/16x9-big/sendungsbild-1827230.jpg?width=1920",
+     "aggregator": false,
+     "published": "2026-11-13T21:07:45+00:00"
+    },
+    {
+     "source": "tagesschau",
+     "region": "DE",
+     "weight": 1.0,
+     "title": "Was über den Ausfall von Microsoft-Diensten bekannt ist",
+     "summary": "Eine stundenlange Großstörung hat weltweit Dienste des US-Softwarekonzerns Microsoft lahmgelegt, unter anderem das E-Mail-Programm Outlook. Wen es getroffen hat und welche Hintergründe vermutet werden - ein Überblick.",
+     "link": "https://www.tagesschau.de/wirtschaft/unternehmen/faq-ausfall-microsoft-dienste-weltweit-100.html",
+     "image": "https://images.tagesschau.de/image/cf43b90e-dedd-4716-a8b6-a8f22d964037/AAABoYa7d7o/AAABnSSvrFg/16x9-big/microsoft-196.jpg?width=1920",
+     "aggregator": false,
+     "published": "2026-11-13T20:22:33+00:00"
+    },
+    {
+     "source": "tagesschau Wirtschaft",
+     "region": "DE",
+     "weight": 1.0,
+     "title": "Was über den Ausfall von Microsoft-Diensten bekannt ist",
+     "summary": "Eine stundenlange Großstörung hat weltweit Dienste des US-Softwarekonzerns Microsoft lahmgelegt, unter anderem das E-Mail-Programm Outlook. Wen es getroffen hat und welche Hintergründe vermutet werden - ein Überblick.",
+     "link": "https://www.tagesschau.de/wirtschaft/unternehmen/faq-ausfall-microsoft-dienste-weltweit-100.html",
+     "image": "https://images.tagesschau.de/image/cf43b90e-dedd-4716-a8b6-a8f22d964037/AAABoYa7d7o/AAABnSSvrFg/16x9-big/microsoft-196.jpg?width=1920",
+     "aggregator": false,
+     "published": "2026-11-13T20:22:33+00:00"
+    },
+    {
+     "source": "Deutsche Welle",
+     "region": "INT",
+     "weight": 0.95,
+     "title": "Microsoft sieht nach Panne keinen Hinweis auf Cyber-Angriff",
+     "summary": "Ein Ausfall von Diensten des US-Techkonzerns Microsoft hat weltweit für Störungen bei Firmen und privaten Anwendern gesorgt. Der Konzern findet bislang keine Anzeichen für eine Cyberattacke.",
+     "link": "https://www.dw.com/de/microsoft-sieht-nach-panne-keinen-hinweis-auf-cyber-angriff/a-79940856?maca=de-rss-de-all-1119-xml-mrss",
+     "image": "https://static.dw.com/image/79937613_302.jpg",
+     "aggregator": false,
+     "published": "2026-11-13T14:26:00+00:00"
+    },
+    {
+     "source": "SRF News",
+     "region": "CH",
+     "weight": 0.95,
+     "title": "Ausfälle bei Software-Riesen – Microsoft: Alle Dienste wiederhergestellt",
+     "summary": "Betroffen ist der Dienst Microsoft 365 – also Outlook, Teams oder Copilot. Wir halten sie im Ticker auf dem Laufenden.",
+     "link": "https://www.srf.ch/news/wirtschaft/ausfaelle-bei-software-riesen-microsoft-alle-dienste-wiederhergestellt",
+     "image": "https://www.srf.ch/static/cms/images//320ws/13009d.webp",
+     "aggregator": false,
+     "published": "2026-11-14T07:20:10+00:00"
+    },
+    {
+     "source": "SRF News",
+     "region": "CH",
+     "weight": 0.95,
+     "title": "Störung bei Outlook und Teams – Das ist über den weltweiten Microsoft-Ausfall bekannt",
+     "summary": "Störungsmeldungen kommen aus 74 Ländern. Was bisher zur Ursache bekannt ist und wie weit die Störung reicht.",
+     "link": "https://www.srf.ch/news/wirtschaft/stoerung-bei-outlook-und-teams-das-ist-ueber-den-weltweiten-microsoft-ausfall-bekannt",
+     "image": "https://www.srf.ch/static/cms/images//320ws/041048.webp",
+     "aggregator": false,
+     "published": "2026-11-13T10:22:45+00:00"
+    },
+    {
+     "source": "SRF News",
+     "region": "CH",
+     "weight": 0.95,
+     "title": "Software-Riese Microsoft – Ausfall bei Microsoft dauert an – kein Anzeichen für Cyberangriff",
+     "summary": "Betroffen ist der Cloud-Dienst Microsoft 365 – dazu gehören unter anderem Outlook, Teams oder der KI-Assistent Copilot.",
+     "link": "https://www.srf.ch/news/wirtschaft/software-riese-microsoft-ausfall-bei-microsoft-dauert-an-kein-anzeichen-fuer-cyberangriff",
+     "image": "https://www.srf.ch/static/cms/images//320ws/e87ada.webp",
+     "aggregator": false,
+     "published": "2026-11-13T08:14:56+00:00"
+    },
+    {
+     "source": "Handelsblatt",
+     "region": "DE",
+     "weight": 0.9,
+     "title": "Cloud-Probleme: Langer Ausfall bei Microsoft löst gravierende Störungen aus",
+     "summary": "Unternehmen und Verbraucher müssen weltweit wegen einer Großstörung bei Microsoft massive Einschränkungen hinnehmen. Nach vielen Stunden kommen die Dienste wieder ins Laufen.",
+     "link": "https://www.handelsblatt.com/technik/it-internet/cloud-probleme-langer-ausfall-bei-microsoft-loest-gravierende-stoerungen-aus/100269542.html",
+     "image": "https://images.handelsblatt.com/byph4d3wTYgq/cover/900/506/0/0/125/125/0.5/0.5/microsoft-stoerung.jpg",
+     "aggregator": false,
+     "published": "2026-11-13T20:27:22+00:00"
+    }
+   ]
+  },
+  {
+   "id": 1,
+   "score": 13.18,
+   "outlets": [
+    "ZDFheute",
+    "Deutschlandfunk",
+    "ORF",
+    "SRF News",
+    "n-tv"
+   ],
+   "regions": [
+    "AT",
+    "CH",
+    "DE"
+   ],
+   "trend": [],
+   "newest": "2026-11-14T07:01:11+00:00",
+   "articles": [
+    {
+     "source": "ZDFheute",
+     "region": "DE",
+     "weight": 1.0,
+     "title": "New Orleans: Alle Menschen nach Schiffsunglück in Sicherheit",
+     "summary": "Auf dem Mississippi ist ein Flusskreuzfahrtschiff teilweise gesunken, doch alle Menschen an Bord konnten gerettet werden. Behörden sprechen von einem \"Wunder\".",
+     "link": "https://www.zdfheute.de/panorama/unfall-frachter-kreuzfahrtschiff-new-orleans-100.html",
+     "image": "https://www.zdfheute.de/assets/unfall-frachter-new-orleans-100~384x216?cb=1794603232479",
+     "aggregator": false,
+     "published": "2026-11-14T04:08:00+00:00"
+    },
+    {
+     "source": "Deutschlandfunk",
+     "region": "DE",
+     "weight": 0.95,
+     "title": "USA - Frachter rammt Flusskreuzfahrtschiff in New Orleans - 30 Passagiere im Krankenhaus",
+     "summary": "In New Orleans im US-Bundesstaat Louisiana ist es zu einem Schiffsunglück gekommen.",
+     "link": "https://www.deutschlandfunk.de/frachter-rammt-flusskreuzfahrtschiff-in-new-orleans-30-passagiere-im-krankenhaus-102.html",
+     "image": "https://bilder.deutschlandfunk.de/e1/06/7d/e2/e1067de2-6230-41ae-943b-92085b1ff504/die-nachrichten-kachel-2176-zu1224-100-768x768.jpg",
+     "aggregator": false,
+     "published": "2026-11-14T07:01:11+00:00"
+    },
+    {
+     "source": "ORF",
+     "region": "AT",
+     "weight": 0.95,
+     "title": "Keine Vermissten nach Schiffsunglück in New Orleans",
+     "summary": "",
+     "link": "https://orf.at/stories/3448130/",
+     "image": null,
+     "aggregator": false,
+     "published": "2026-11-13T20:54:19+00:00"
+    },
+    {
+     "source": "SRF News",
+     "region": "CH",
+     "weight": 0.95,
+     "title": "32 Verletzte – «Ein Wunder»: Keine Toten nach Schiffsunglück in New Orleans",
+     "summary": "Ein Tanker ist auf dem Mississippi mit einem Passagierschiff kollidiert. 32 Menschen werden im Spital behandelt.",
+     "link": "https://www.srf.ch/news/international/32-verletzte-ein-wunder-keine-toten-nach-schiffsunglueck-in-new-orleans",
+     "image": "https://www.srf.ch/static/cms/images//320ws/21991c.webp",
+     "aggregator": false,
+     "published": "2026-11-14T05:50:45+00:00"
+    },
+    {
+     "source": "n-tv",
+     "region": "DE",
+     "weight": 0.8,
+     "title": "Kollision auf dem Mississippi: Keine Vermissten nach Schiffsunglück in New Orleans",
+     "summary": "Auf dem Mississippi rammt ein Tanker ein angedocktes Schaufelradschiff, das daraufhin kentert. Mehrere Menschen gehen über Bord. Ob noch Passagiere eingeschlossen sind, ist zunächst unklar. Jetzt gibt es eine erste Entwarnung.",
+     "link": "https://www.n-tv.de/panorama/Keine-Vermissten-nach-Schiffsunglueck-in-New-Orleans-id31533166.html",
+     "image": "https://www.n-tv.de/img/31533175/1794617121/Img_4_3/250/image.jpg",
+     "aggregator": false,
+     "published": "2026-11-13T23:48:57+00:00"
+    }
+   ]
+  },
+  {
+   "id": 2,
+   "score": 12.71,
+   "outlets": [
+    "tagesschau",
+    "ZDFheute",
+    "SPIEGEL",
+    "DER STANDARD",
+    "WELT"
+   ],
+   "regions": [
+    "AT",
+    "DE",
+    "INT"
+   ],
+   "trend": [],
+   "newest": "2026-11-14T06:12:35+00:00",
+   "articles": [
+    {
+     "source": "tagesschau",
+     "region": "DE",
+     "weight": 1.0,
+     "title": "US-Flusskreuzfahrtschiff kentert nach Zusammenprall in New Orleans",
+     "summary": "Das Flusskreuzfahrtschiff \"American Heritage\" ist im Hafen der US-Stadt New Orleans gekentert. Zuvor war es von einem Tanker gerammt worden. An Bord des Schiffes befanden sich mehr als 130 Menschen. Vermisst wird niemand.",
+     "link": "https://www.tagesschau.de/ausland/kreuzfahrtschiff-unfall-new-orleans-100.html",
+     "image": "https://images.tagesschau.de/image/70311613-6efe-4411-b26f-9638163067eb/AAABodbHq9A/AAABnSSvrFg/16x9-big/new-orleans-kreuzfahrtschiff-100.jpg?width=1920",
+     "aggregator": false,
+     "published": "2026-11-14T00:51:37+00:00"
+    },
+    {
+     "source": "tagesschau Ausland",
+     "region": "INT",
+     "weight": 1.0,
+     "title": "US-Flusskreuzfahrtschiff kentert nach Zusammenprall in New Orleans",
+     "summary": "Das Flusskreuzfahrtschiff \"American Heritage\" ist im Hafen der US-Stadt New Orleans gekentert. Zuvor war es von einem Tanker gerammt worden. An Bord des Schiffes befanden sich mehr als 130 Menschen. Vermisst wird niemand.",
+     "link": "https://www.tagesschau.de/ausland/kreuzfahrtschiff-unfall-new-orleans-100.html",
+     "image": "https://images.tagesschau.de/image/70311613-6efe-4411-b26f-9638163067eb/AAABodbHq9A/AAABnSSvrFg/16x9-big/new-orleans-kreuzfahrtschiff-100.jpg?width=1920",
+     "aggregator": false,
+     "published": "2026-11-14T00:51:37+00:00"
+    },
+    {
+     "source": "ZDFheute",
+     "region": "DE",
+     "weight": 1.0,
+     "title": "Frachter rammt Kreuzfahrtschiff",
+     "summary": "In New Orleans ist ein Frachter mit einem Kreuzfahrtschiff zusammengestoßen. Das Schiff kippte. An Bord der \"American Heritage\" befanden sich rund 130 Passagiere.",
+     "link": "https://www.zdfheute.de/video/panorama-kreuzfahrtschiff-tanker-video-100.html",
+     "image": "https://www.zdfheute.de/assets/kreuzfahrtschiff-new-orleans-100~384x216?cb=1794608863434",
+     "aggregator": false,
+     "published": "2026-11-13T22:27:00+00:00"
+    },
+    {
+     "source": "SPIEGEL",
+     "region": "DE",
+     "weight": 0.9,
+     "title": "New Orleans: Tanker kollidiert mit Raddampfer – Passagiere und Crew in Sicherheit",
+     "summary": "Nahe dem Hafen der US-Stadt New Orleans ist ein Tanker mit einem Schaufelradschiff zusammengestoßen. An Bord des Ausflugsschiffes befanden sich mehr als 130 Menschen. Offenbar wurden alle gerettet.",
+     "link": "https://www.spiegel.de/panorama/new-orleans-tanker-kollidiert-mit-raddampfer-a-7844e9e3-d317-4187-89dd-ab7505518264#ref=rss",
+     "image": "https://cdn.prod.www.spiegel.de/images/fdafc3b4-c0c0-4f98-b962-4bd93e946b28_w520_r2.08_fpx26_fpy39.jpg",
+     "aggregator": false,
+     "published": "2026-11-13T20:40:00+00:00"
+    },
+    {
+     "source": "DER STANDARD",
+     "region": "AT",
+     "weight": 0.85,
+     "title": "Tanker bei New Orleans mit Passagierschiff kollidiert",
+     "summary": "Bisher liegen keine Berichte über Verletzte vor",
+     "link": "https://www.derstandard.at/story/3000000349207/tanker-bei-new-orleans-mit-passagierschiff-kollidiert?ref=rss",
+     "image": "https://i.ds.at/OZpQ6A/rs:fill:150:0/plain/lido-images/2026/11/13/f3bffc74-9469-443e-9796-d0d396e2103d.jpg",
+     "aggregator": false,
+     "published": "2026-11-13T21:36:52+00:00"
+    },
+    {
+     "source": "WELT",
+     "region": "DE",
+     "weight": 0.8,
+     "title": "Kreuzfahrtschiff mit 130 Passagieren kollidiert mit Tanker",
+     "summary": "Nach der Kollision mit einem Tanker ist ein Passagierschiff auf dem Mississippi nahe New Orleans gekentert. Dabei wurden mehr als 30 Menschen verletzt.",
+     "link": "https://www.welt.de/vermischtes/video6af7fb5b9849eea0701e25f8/new-orleans-kreuzfahrtschiff-mit-130-passagieren-kollidiert-mit-tanker.html",
+     "image": "https://images.welt.de/6af7fb5b9849eea0701e25f8/453ecb7d6165f6bac62deb00518c1cb6/ci16x9-w1200/apdpa-eca73d03325b450a90d22a895d8016db-jpg",
+     "aggregator": false,
+     "published": "2026-11-14T06:12:35+00:00"
+    }
+   ]
+  },
+  {
+   "id": 3,
+   "score": 10.2,
+   "outlets": [
+    "ORF",
+    "SRF News",
+    "SPIEGEL",
+    "Süddeutsche",
+    "Handelsblatt"
+   ],
+   "regions": [
+    "AT",
+    "CH",
+    "DE"
+   ],
+   "trend": [],
+   "newest": "2026-11-13T20:32:59+00:00",
+   "articles": [
+    {
+     "source": "ORF",
+     "region": "AT",
+     "weight": 0.95,
+     "title": "EU einig: Verhandlungsteam mit Russland steht",
+     "summary": "",
+     "link": "https://orf.at/stories/3448118/",
+     "image": null,
+     "aggregator": false,
+     "published": "2026-11-13T17:57:32+00:00"
+    },
+    {
+     "source": "SRF News",
+     "region": "CH",
+     "weight": 0.95,
+     "title": "Gipfeltreffen in Dublin – EU einig: Verhandlungsteam für Gespräche mit Russland steht",
+     "summary": "Deutschland, Frankreich, Grossbritannien, Italien und Polen sollen mit EU-Institutionen an den Gesprächen dabei sein.",
+     "link": "https://www.srf.ch/news/international/gipfeltreffen-in-dublin-eu-einig-verhandlungsteam-fuer-gespraeche-mit-russland-steht",
+     "image": "https://www.srf.ch/static/cms/images//320ws/d0ed22.webp",
+     "aggregator": false,
+     "published": "2026-11-13T20:32:59+00:00"
+    },
+    {
+     "source": "SPIEGEL",
+     "region": "DE",
+     "weight": 0.9,
+     "title": "Krieg in der Ukraine: Europäer einigen sich auf Verhandlungsteam für Gespräche mit Russland",
+     "summary": "Deutschland, Frankreich, Großbritannien, Italien und Polen sollen gemeinsam mit den EU-Institutionen die Europäer bei Ukrainegesprächen mit Russland vertreten. Darauf haben sich die Staats- und Regierungschefs der EU-Staaten verständigt.",
+     "link": "https://www.spiegel.de/ausland/krieg-in-der-ukraine-europaeer-einigen-sich-auf-verhandlungsteam-fuer-gespraeche-mit-russland-a-33f42a19-3d6f-4708-8372-a55f8583040a#ref=rss",
+     "image": "https://cdn.prod.www.spiegel.de/images/85d3d92f-7d30-4f08-8fbf-500efd6a5599_w520_r2.08_fpx39.98_fpy49.99.jpg",
+     "aggregator": false,
+     "published": "2026-11-13T18:02:00+00:00"
+    },
+    {
+     "source": "Süddeutsche",
+     "region": "DE",
+     "weight": 0.9,
+     "title": "Krieg in der Ukraine: EU einig: Verhandlungsteam für Gespräche mit Russland steht",
+     "summary": "Demnach sollen Deutschland, Frankreich, Großbritannien, Italien und Polen gemeinsam mit den EU-Institutionen die Europäer bei Ukraine-Gesprächen mit Russland vertreten.",
+     "link": "https://www.sueddeutsche.de/politik/ukraine-krieg-newsblog-usa-russland-europa-verhandlungen-putin-europaeische-union-li.3571967",
+     "image": "https://www.sueddeutsche.de/2026/11/13/024a9157-dadc-47d9-b79e-dc593cba72a3.jpg?rect=999%2C85%2C1393%2C1045&width=1000&fm=jpg&q=60",
+     "aggregator": false,
+     "published": "2026-11-13T18:03:09+00:00"
+    },
+    {
+     "source": "Handelsblatt",
+     "region": "DE",
+     "weight": 0.9,
+     "title": "Ukraine-Krieg: EU einig: Verhandlungsteam für Gespräche mit Russland steht",
+     "summary": "Wer sitzt für Europa mit am Tisch? Sechs Parteien sollen direkt mit Russland verhandeln - die Debatte um eine Verhandlungsführung geht aber weiter.",
+     "link": "https://www.handelsblatt.com/politik/international/ukraine-krieg-eu-einig-verhandlungsteam-fuer-gespraeche-mit-russland-steht/100269283.html",
+     "image": "https://images.handelsblatt.com/faLD-GZeo8MP/cover/900/506/0/0/107/106/0.5/0.5/eu-gipfel-in-dublin.jpg",
+     "aggregator": false,
+     "published": "2026-11-13T19:30:42+00:00"
+    }
+   ]
+  },
+  {
+   "id": 4,
+   "score": 9.68,
+   "outlets": [
+    "tagesschau",
+    "Deutschlandfunk",
+    "ORF"
+   ],
+   "regions": [
+    "AT",
+    "DE"
+   ],
+   "trend": [],
+   "newest": "2026-11-14T07:01:11+00:00",
+   "articles": [
+    {
+     "source": "tagesschau",
+     "region": "DE",
+     "weight": 1.0,
+     "title": "Bundeskanzler Merz hält Deutschland bei Gesprächen über Ende des Ukraine-Krieges \"gesetzt\"",
+     "summary": "Bundeskanzler Merz hält Deutschland bei Gesprächen über Ende des Ukraine-Krieges \"gesetzt\"",
+     "link": "https://www.tagesschau.de/tagesthemen/video-1683544.html",
+     "image": "https://images.tagesschau.de/image/e0de9e2f-4696-4504-b8be-7d248a195b02/AAABodbQVT8/AAABnSSvrFg/16x9-big/sendungsbild-1827238.jpg?width=1920",
+     "aggregator": false,
+     "published": "2026-11-13T21:29:06+00:00"
+    },
+    {
+     "source": "Deutschlandfunk",
+     "region": "DE",
+     "weight": 0.95,
+     "title": "Koalition - Diskussion um Senkung der Stromsteuer geht weiter",
+     "summary": "Bundeskanzler Merz hält an den Plänen für eine Senkung der Stromsteuer fest. Es sei weiterhin sein Ziel, die Stromsteuer auf das europäische Minimum abzusenken, betonte der CDU-Vorsitzende. Dies solle ab dem nächsten Jahr in vollständiger Höhe geschehen.",
+     "link": "https://www.deutschlandfunk.de/diskussion-um-senkung-der-stromsteuer-geht-weiter-110.html",
+     "image": "https://bilder.deutschlandfunk.de/eb/98/0a/c5/eb980ac5-d1c5-4284-befc-b8558af6f32b/bundeskanzler-merz-cdu-klausurtagung-senkung-stromsteuer-100-1920x1920.jpg",
+     "aggregator": false,
+     "published": "2026-11-14T07:01:11+00:00"
+    },
+    {
+     "source": "ORF",
+     "region": "AT",
+     "weight": 0.95,
+     "title": "EU-Einigung auf breites Verhandlungsteam",
+     "summary": "Die Staats- und Regierungschefs der EU haben sich darauf geeinigt, wer Europa bei künftigen Gesprächen über ein Ende des Ukraine-Krieges vertreten soll: Das „europäische Verhandlungsteam für den Frieden in der Ukraine“ werde „aus den Institutionen der Europäischen Union und den E5“ bestehen, sagte EU-Ratspräsident Antonio Costa am Freitag nach dem informellen EU-Gipfel in Dublin. Bei den E5-Ländern handelt es sich um Deutschland, Großbritannien, Frankreich, Italien und Polen.",
+     "link": "https://orf.at/stories/3448115/",
+     "image": null,
+     "aggregator": false,
+     "published": "2026-11-13T18:30:02+00:00"
+    }
+   ]
+  },
+  {
+   "id": 5,
+   "score": 9.67,
+   "outlets": [
+    "SRF News",
+    "DER STANDARD",
+    "n-tv",
+    "DIE ZEIT"
+   ],
+   "regions": [
+    "AT",
+    "CH",
+    "DE"
+   ],
+   "trend": [],
+   "newest": "2026-11-14T06:59:19+00:00",
+   "articles": [
+    {
+     "source": "SRF News",
+     "region": "CH",
+     "weight": 0.95,
+     "title": "US-Raumfahrtunternehmen – SpaceX scheitert beim Raketenfang – Starship erreicht Orbit",
+     "summary": "Beim jüngsten Testflug sollte SpaceX erstmals beide Teile seiner Riesenrakete auffangen. Es lief aber nicht wie geplant.",
+     "link": "https://www.srf.ch/news/international/us-raumfahrtunternehmen-spacex-scheitert-beim-raketenfang-starship-erreicht-orbit",
+     "image": "https://www.srf.ch/static/cms/images//320ws/64742c.webp",
+     "aggregator": false,
+     "published": "2026-11-14T05:59:29+00:00"
+    },
+    {
+     "source": "DER STANDARD",
+     "region": "AT",
+     "weight": 0.85,
+     "title": "Starship: SpaceX will Freitag und Samstag erstmals Booster und Raumschiff auffangen",
+     "summary": "Zum ersten Mal soll nicht nur das Triebwerk, sondern auch das Raumschiff Starship von mechanischen Greifarmen eingefangen werden – angesichts explosiver Tests ein riskantes Unterfangen",
+     "link": "https://www.derstandard.at/story/3000000349125/starship-spacex-will-freitag-und-samstag-erstmals-booster-und-raumschiff-auffangen?ref=rss",
+     "image": "https://i.ds.at/H9_zCg/rs:fill:150:0/plain/lido-images/2026/11/13/0b21ced5-7a0f-4428-abab-6ca24165b4eb.jpg",
+     "aggregator": false,
+     "published": "2026-11-13T17:03:08+00:00"
+    },
+    {
+     "source": "n-tv",
+     "region": "DE",
+     "weight": 0.8,
+     "title": "Raketenstufe stürzt ins Meer: Fangversuch bei Starship-Testflug scheitert",
+     "summary": "SpaceX schickt seine Riesenrakete Starship zu einem neuen Testflug ins All. Eigentlich sollen diesmal beide Stufen der Rakete wieder auf der Erde aufgefangen werden. Bei der Ersten klappt das allerdings nicht.",
+     "link": "https://www.n-tv.de/wissen/Fangversuch-bei-Starship-Testflug-scheitert-id31533435.html",
+     "image": "https://www.n-tv.de/img/31533436/1794635110/Img_4_3/250/image.jpg",
+     "aggregator": false,
+     "published": "2026-11-14T04:52:07+00:00"
+    },
+    {
+     "source": "DIE ZEIT",
+     "region": "DE",
+     "weight": 0.6,
+     "title": "SpaceX: SpaceX scheitert bei Starship-Test am Auffangen",
+     "summary": "SpaceX: SpaceX scheitert bei Starship-Test am Auffangen DIE ZEIT SpaceX: Die Doppellandung der Musk-Megarakete ist gescheitert WELT Raketenstufe stürzt ins Meer: Fangversuch bei Starship-Testflug scheitert n-tv.de Raumfahrt: Fehlschlag bei Starship-Testflug - Panorama - SZ.de SZ.de Premiere in der Raumfahrt: Was den neuen Test der Riesenrakete Starship besonders macht Spiegel",
+     "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNSFBWZDZJTVRjSVZiQ0VtNjBTbDdQWVAwSjBZZ0JKRHgzYUw1OGRiOW9Xcl9JSUpFYXlLOUl0UURMYk9uN3huam53YTd0NzVKaEpOTDZUVzdCb2szT25NR1lESG9feFhjbDBhc1hReV9Na0xUWlpuNDhtQnJiRDVPZ3VhczJVVW8yTHdtZEdCc1cwRlF4d0NOV05NYVZOUnR3M2hPWg?oc=5",
+     "image": null,
+     "aggregator": true,
+     "published": "2026-11-14T06:59:19+00:00"
+    }
+   ]
+  },
+  {
+   "id": 6,
+   "score": 9.58,
+   "outlets": [
+    "tagesschau",
+    "Deutschlandfunk",
+    "SPIEGEL"
+   ],
+   "regions": [
+    "DE"
+   ],
+   "trend": [],
+   "newest": "2026-11-14T07:01:11+00:00",
+   "articles": [
+    {
+     "source": "tagesschau",
+     "region": "DE",
+     "weight": 1.0,
+     "title": "DFB-Team sichert sich gegen Serbien sein Endspiel gegen Niederlande",
+     "summary": "Deutschland hat in der Nations League das Weiterkommen wieder in der eigenen Hand. Im Regen von Belgrad zeigte das Klopp-Team eine starke Leistung und siegte 3:1.",
+     "link": "https://www.sportschau.de/fussball/nationalmannschaft/dfb-team-sichert-sich-sein-endspiel-gegen-niederlande,serbien-deutschland-spielbericht-100.html",
+     "image": "https://images.sportschau.de/image/d1fe8f97-cae4-4549-a85d-2b1c7206030a/AAABodblRrM/AAABnSSvrFg/16x9-big/jubel-kimmich-wirtz-100.jpg?width=1920",
+     "aggregator": false,
+     "published": "2026-11-13T23:00:00+00:00"
+    },
+    {
+     "source": "Deutschlandfunk",
+     "region": "DE",
+     "weight": 0.95,
+     "title": "Nations League - Deutsche Fußball-Nationalmannschaft schlägt Serbien",
+     "summary": "Die Fußball-Nationalmannschaft der Männer hat in der Nations League das Rückspiel gegen Serbien in Belgrad mit 3:1 gewonnen. Deutschland ging bereits in der dritten Minute in Führung.",
+     "link": "https://www.deutschlandfunk.de/deutsche-fussball-nationalmannschaft-schlaegt-serbien-100.html",
+     "image": "https://bilder.deutschlandfunk.de/1d/52/e5/36/1d52e536-7f88-4547-82fa-32e6b419e89d/fussball-nations-league-gruppenphase-deutschland-serbien-100-1920x1920.jpg",
+     "aggregator": false,
+     "published": "2026-11-14T07:01:11+00:00"
+    },
+    {
+     "source": "SPIEGEL",
+     "region": "DE",
+     "weight": 0.9,
+     "title": "Nations League: Deutschland gewinnt in Serbien – Brajan Gruda trifft bei Debüt",
+     "summary": "In Belgrad spielt Jürgen Klopps DFB-Team Serbien an die Wand, bis der Regen zu stark wird. Brajan Gruda dribbelt wie ein Großer. In der Nations League verdient sich Deutschland so ein Endspiel gegen die Niederlande.",
+     "link": "https://www.spiegel.de/sport/fussball/nations-league-deutschland-gewinnt-in-serbien-brajan-gruda-trifft-bei-debuet-a-f3e8c5e0-da5a-4d31-8711-8fc4b4dce49a#ref=rss",
+     "image": "https://cdn.prod.www.spiegel.de/images/6525dade-e0e7-43d0-a817-f3cd95c89243_w520_r2.08_fpx51.31_fpy44.99.jpg",
+     "aggregator": false,
+     "published": "2026-11-13T22:51:00+00:00"
+    }
+   ]
+  },
+  {
+   "id": 7,
+   "score": 9.54,
+   "outlets": [
+    "tagesschau",
+    "ORF",
+    "SPIEGEL",
+    "n-tv"
+   ],
+   "regions": [
+    "AT",
+    "DE"
+   ],
+   "trend": [],
+   "newest": "2026-11-14T02:06:00+00:00",
+   "articles": [
+    {
+     "source": "tagesschau",
+     "region": "DE",
+     "weight": 1.0,
+     "title": "US-Luftfahrtbehörde stoppt alle Starts in den USA",
+     "summary": "Die US-Luftfahrtbehörde FAA hat alle Starts an US-Flughäfen gestoppt. Hintergrund sind laut US-Regierung Kommunikationsprobleme im Flugkontrollsystem. Als Reaktion wurden auch sämtliche Flüge aus Europa in die USA bis auf weiteres ausgesetzt.",
+     "link": "https://www.tagesschau.de/eilmeldung/usa-flugverbot-100.html",
+     "image": "https://images.tagesschau.de/image/70e42b7a-9299-4745-a4da-c807c789c8bd/AAABodb5qDI/AAABnSSvrFg/16x9-big/flughafen-usa-106.jpg?width=1920",
+     "aggregator": false,
+     "published": "2026-11-14T01:18:16+00:00"
+    },
+    {
+     "source": "ORF",
+     "region": "AT",
+     "weight": 0.95,
+     "title": "Starts an US-Flughäfen wieder erlaubt",
+     "summary": "",
+     "link": "https://orf.at/stories/3448132/",
+     "image": null,
+     "aggregator": false,
+     "published": "2026-11-13T21:16:39+00:00"
+    },
+    {
+     "source": "SPIEGEL",
+     "region": "DE",
+     "weight": 0.9,
+     "title": "Starts an US-Flughäfen wieder erlaubt",
+     "summary": "Wegen technischer Probleme stoppte die Luftfahrtbehörde FAA alle Starts an Flughäfen in den USA. Auch Flüge aus Europa waren betroffen. Jetzt gibt es Entwarnung. Veraltete Hardware soll Ursache der Störung gewesen sein.",
+     "link": "https://www.spiegel.de/panorama/starts-an-us-flughaefen-wieder-erlaubt-a-13c2241a-9b4b-450e-acad-ccf1eaf7720f#ref=rss",
+     "image": "https://cdn.prod.www.spiegel.de/images/7b0f2aed-b916-4120-acc5-b8d913fc7d08_w520_r2.08_fpx65.33_fpy49.99.jpg",
+     "aggregator": false,
+     "published": "2026-11-14T02:06:00+00:00"
+    },
+    {
+     "source": "n-tv",
+     "region": "DE",
+     "weight": 0.8,
+     "title": "Störung im Kommunikationssystem: Landesweiter Stopp von Starts an US-Flughäfen",
+     "summary": "Die Flugkontrollzentren in den USA melden Kommunikationsprobleme. Die Folge: Derzeit dürfen landesweit keine Flugzeuge mehr starten. Nach den Terroranschlägen vom 11. September 2001 ist diese Maßnahme erst einmal verhängt worden.",
+     "link": "https://www.n-tv.de/wirtschaft/Landesweiter-Stopp-von-Starts-an-US-Flughaefen-id31533009.html",
+     "image": "https://www.n-tv.de/img/31533059/1794610049/Img_4_3/250/image.jpg",
+     "aggregator": false,
+     "published": "2026-11-13T21:30:34+00:00"
+    }
+   ]
+  },
+  {
+   "id": 8,
+   "score": 9.48,
+   "outlets": [
+    "Deutsche Welle",
+    "Deutschlandfunk"
+   ],
+   "regions": [
+    "DE",
+    "INT"
+   ],
+   "trend": [
+    "Dreiergipfel in China: USA kündigen Dreiertreffen von Trump mit Xi und Putin an"
+   ],
+   "newest": "2026-11-14T07:01:11+00:00",
+   "articles": [
+    {
+     "source": "Deutsche Welle",
+     "region": "INT",
+     "weight": 0.95,
+     "title": "Quad-Staaten:: Gemeinsam gegen China - aber mit welchem Ziel?",
+     "summary": "Die USA, Indien, Japan und Australien wollen ihren Einfluss im Indopazifik stärken. Doch unterschiedliche Interessen und Zweifel an der US-Führung erschweren es dem Quad, eine gemeinsame strategische Linie zu finden.",
+     "link": "https://www.dw.com/de/quad-staaten-gemeinsam-gegen-china-aber-mit-welchem-ziel/a-79876044?maca=de-rss-de-all-1119-xml-mrss",
+     "image": "https://static.dw.com/image/79819204_302.jpg",
+     "aggregator": false,
+     "published": "2026-11-09T13:26:00+00:00"
+    },
+    {
+     "source": "Deutschlandfunk",
+     "region": "DE",
+     "weight": 0.95,
+     "title": "Mecklenburg-Vorpommern - Parteitage: SPD und Grüne stimmen über Koalitionsvertrag ab",
+     "summary": "In Mecklenburg-Vorpommern wollen SPD und Grüne heute auf ihren Parteitagen über den Koalitionsvertrag abstimmen, den sie gemeinsam mit der Linken ausgearbeitet haben.",
+     "link": "https://www.deutschlandfunk.de/parteitage-spd-und-gruene-stimmen-ueber-koalitionsvertrag-ab-100.html",
+     "image": "https://bilder.deutschlandfunk.de/36/b2/a3/26/36b2a326-ce91-4775-ba44-b7a2a9f3493e/manuela-schwesig-118-1920x1920.jpg",
+     "aggregator": false,
+     "published": "2026-11-14T07:01:11+00:00"
+    }
+   ]
+  },
+  {
+   "id": 9,
+   "score": 9.28,
+   "outlets": [
+    "Deutschlandfunk",
+    "SPIEGEL",
+    "DER STANDARD"
+   ],
+   "regions": [
+    "AT",
+    "DE"
+   ],
+   "trend": [],
+   "newest": "2026-11-14T07:01:11+00:00",
+   "articles": [
+    {
+     "source": "Deutschlandfunk",
+     "region": "DE",
+     "weight": 0.95,
+     "title": "Wintersport - Nach Finnland wollen auch Norwegen, Schweden und Estland russischen Sportlern die Einreise verweigern",
+     "summary": "Drei weitere europäische Länder wollen Sportlern aus Russland die Einreise zu internationalen Wettkämpfen verweigern.",
+     "link": "https://www.deutschlandfunk.de/nach-finnland-wollen-auch-norwegen-schweden-und-estland-russischen-sportlern-die-einreise-verweigern-104.html",
+     "image": "https://bilder.deutschlandfunk.de/8d/1d/fd/8b/8d1dfd8b-69e3-4057-b45d-59862291a8b7/russland-olympia-100-1280x1280.jpg",
+     "aggregator": false,
+     "published": "2026-11-14T07:01:11+00:00"
+    },
+    {
+     "source": "SPIEGEL",
+     "region": "DE",
+     "weight": 0.9,
+     "title": "Norwegen, Schweden und Estland sperren russische Sportler aus",
+     "summary": "Das IOC und mehrere Dachverbände wollen Athletinnen und Athleten aus Russland wieder bei internationalen Wettkämpfen zulassen. Nun wehren sich immer mehr Länder mit verschärften Einreisebestimmungen.",
+     "link": "https://www.spiegel.de/sport/norwegen-schweden-und-estland-sperren-russische-sportler-aus-a-cbad5051-c510-4df1-a4d9-88b099d8a5a2#ref=rss",
+     "image": "https://cdn.prod.www.spiegel.de/images/9ee122f7-1e4e-41ae-8d81-0c88f0ee255a_w520_r2.08_fpx55.91_fpy49.86.jpg",
+     "aggregator": false,
+     "published": "2026-11-13T19:53:00+00:00"
+    },
+    {
+     "source": "DER STANDARD",
+     "region": "AT",
+     "weight": 0.85,
+     "title": "Auch Norwegen, Schweden und Estland wollen russischen Sportlern Visa verweigern",
+     "summary": "\"Da Russland seinen brutalen Angriffskrieg fortsetzt\", sind russische Profisportler sowie deren Betreuer in Norwegen unerwünscht. Zuvor sind Finnland und Kanada vorgeprescht",
+     "link": "https://www.derstandard.at/story/3000000349086/auch-norwegen-will-visa-fuer-russische-sportler-verweigern?ref=rss",
+     "image": "https://i.ds.at/ZuwDTQ/rs:fill:150:0/plain/lido-images/2026/11/13/4132c05d-b958-4ad2-8aa8-b88b5e97460a.jpg",
+     "aggregator": false,
+     "published": "2026-11-13T08:51:19+00:00"
+    }
+   ]
+  },
+  {
+   "id": 10,
+   "score": 9.18,
+   "outlets": [
+    "Deutschlandfunk",
+    "SPIEGEL",
+    "WELT"
+   ],
+   "regions": [
+    "DE"
+   ],
+   "trend": [],
+   "newest": "2026-11-14T07:01:11+00:00",
+   "articles": [
+    {
+     "source": "Deutschlandfunk",
+     "region": "DE",
+     "weight": 0.95,
+     "title": "Ausschluss geplant - Linke-Parteichef Pantisano verteidigt Verfahren zu Berliner Abgeordneten Emde",
+     "summary": "Der Linke-Bundesvorsitzende Pantisano hat das Verfahren zum Umgang mit der umstrittenen Berliner Abgeordneten Emde verteidigt.",
+     "link": "https://www.deutschlandfunk.de/linke-parteichef-pantisano-verteidigt-verfahren-zu-berliner-abgeordneten-emde-100.html",
+     "image": "https://bilder.deutschlandfunk.de/ed/bc/8a/74/edbc8a74-ab2a-4125-9ad9-a4383de98227/luigi-pantisano-100-1920x1920.jpg",
+     "aggregator": false,
+     "published": "2026-11-14T07:01:11+00:00"
+    },
+    {
+     "source": "SPIEGEL",
+     "region": "DE",
+     "weight": 0.9,
+     "title": "Debatte über Fraktionsausschluss: Linke-Chef Pantisano verteidigt langwieriges Verfahren zu Vanessa Emde",
+     "summary": "Die umstrittene Berliner Linkenabgeordnete Vanessa Emde soll womöglich bald zwangsweise aus der Fraktion ausgeschlossen werden. Parteichef Pantisano erklärt nun, wieso der Prozess sich schon so lange zieht.",
+     "link": "https://www.spiegel.de/politik/debatte-ueber-fraktionsausschluss-linke-chef-pantisano-verteidigt-langwieriges-verfahren-zu-vanessa-emde-a-88fa41b6-acd7-4d25-ad08-88f9db6e9d90#ref=rss",
+     "image": "https://cdn.prod.www.spiegel.de/images/094db917-09a5-49e9-8327-ba54809c168c_w520_r2.08_fpx37.84_fpy46.99.jpg",
+     "aggregator": false,
+     "published": "2026-11-14T06:46:00+00:00"
+    },
+    {
+     "source": "WELT",
+     "region": "DE",
+     "weight": 0.8,
+     "title": "„Wir leben in einem Rechtsstaat“ – Linke-Chef verteidigt langwieriges Verfahren zu Vanessa Emde",
+     "summary": "Der Chef der Linkspartei, Luigi Pantisano, bittet um Geduld, was den Ausschluss von Vanessa Emde angeht. Deutschland sei kein autoritäres Regime, wo man mit einem Fingerschnippen gewählte Abgeordnete vor die Tür setzt.",
+     "link": "https://www.welt.de/politik/article6af7ba6a4495f9bd85b7f5f7/umstrittene-abgeordnete-wir-leben-in-einem-rechtsstaat-linke-chef-verteidigt-langwieriges-verfahren-zu-vanessa-emde.html",
+     "image": "https://images.welt.de/6af7ba6a4495f9bd85b7f5f7/4b74b0c6ce81744a6bd26fbe11da34da/ci23x11-w1200/dpa-com-261114-935-1741993-jpg",
+     "aggregator": false,
+     "published": "2026-11-14T04:19:45+00:00"
+    }
+   ]
+  },
+  {
+   "id": 11,
+   "score": 9.16,
+   "outlets": [
+    "tagesschau",
+    "Deutsche Welle",
+    "SPIEGEL",
+    "Handelsblatt"
+   ],
+   "regions": [
+    "DE",
+    "INT"
+   ],
+   "trend": [],
+   "newest": "2026-11-13T22:34:00+00:00",
+   "articles": [
+    {
+     "source": "tagesschau",
+     "region": "DE",
+     "weight": 1.0,
+     "title": "Südamerika-Reise: Papst Leo XIV. besucht alte Wirkungsstätte in Peru",
+     "summary": "Südamerika-Reise: Papst Leo XIV. besucht alte Wirkungsstätte in Peru",
+     "link": "https://www.tagesschau.de/tagesthemen/video-1683550.html",
+     "image": "https://images.tagesschau.de/image/7dacfc65-f0ec-477e-a2f2-77475eeb374a/AAABodbUwtc/AAABnSSvrFg/16x9-big/sendungsbild-1827242.jpg?width=1920",
+     "aggregator": false,
+     "published": "2026-11-13T21:35:28+00:00"
+    },
+    {
+     "source": "Deutsche Welle",
+     "region": "INT",
+     "weight": 0.95,
+     "title": "Begeisterter Empfang für Papst Leo XIV. in Peru",
+     "summary": "Für den Pontifex, der auch die peruanische Staatsbürgerschaft besitzt, ist die letzte Station seiner Lateinamerika-Reise ein Heimspiel. Doch im Beisein von Präsidentin Fujimori findet er mahnende Worte.",
+     "link": "https://www.dw.com/de/begeisterter-empfang-für-papst-leo-xiv-in-peru/a-79926779?maca=de-rss-de-all-1119-xml-mrss",
+     "image": "https://static.dw.com/image/79925065_302.jpg",
+     "aggregator": false,
+     "published": "2026-11-12T10:01:00+00:00"
+    },
+    {
+     "source": "SPIEGEL",
+     "region": "DE",
+     "weight": 0.9,
+     "title": "Papst Leo XIV.: Eine halbe Million Menschen feiert den Papstbesuch an seiner alten Wirkungsstätte in Peru",
+     "summary": "An den Plänen für seine bislang längste Auslandsreise hat das Oberhaupt der katholischen Kirche trotz seiner Krebserkrankung festgehalten. Bei der Rückkehr in seine frühere Diözese spricht der Papst von einem »Moment der Prüfung«.",
+     "link": "https://www.spiegel.de/ausland/papst-leo-xiv-eine-halbe-million-menschen-feiert-den-papstbesuch-an-seiner-alten-wirkungsstaette-in-peru-a-f9842331-d086-4295-a426-897b90139110#ref=rss",
+     "image": "https://cdn.prod.www.spiegel.de/images/9eebb3c7-8c10-4382-a969-f2cb7878584d_w520_r2.08_fpx33.32_fpy49.99.jpg",
+     "aggregator": false,
+     "published": "2026-11-13T22:34:00+00:00"
+    },
+    {
+     "source": "Handelsblatt",
+     "region": "DE",
+     "weight": 0.9,
+     "title": "Besuch in Peru: Papst bei Rückkehr in alte Diözese in Peru gefeiert",
+     "summary": "Leo XIV. ist zurück in der Großstadt Chiclayo, wo er acht Jahre lang Bischof war. Dabei spricht er nach seiner Krebs-OP auch das Thema Gesundheit an. Mehr als eine Million Menschen bejubeln ihn.",
+     "link": "https://www.handelsblatt.com/politik/international/besuch-in-peru-papst-bei-rueckkehr-in-alte-dioezese-in-peru-gefeiert/100269558.html",
+     "image": "https://images.handelsblatt.com/0LCXNdAuVSuC/cover/900/506/0/0/192/192/0.5/0.5/papst-leo-xiv-in-peru.jpg",
+     "aggregator": false,
+     "published": "2026-11-13T16:42:02+00:00"
+    },
+    {
+     "source": "Spiegel",
+     "region": "DE",
+     "weight": 0.6,
+     "title": "Papst Leo XIV.: Eine halbe Million Menschen feiert den Papstbesuch an seiner alten Wirkungsstätte in Peru",
+     "summary": "Papst Leo XIV.: Eine halbe Million Menschen feiert den Papstbesuch an seiner alten Wirkungsstätte in Peru Spiegel „Danke für eure Zuneigung“: Leo XIV. kehrt an alte Wirkungsstätte in Peru zurück STERN.de Papst in seinem früheren Bistum gelandet Katholisch.de Papst Leo XIV. in Peru: Antrag auf Einbürgerung wird Kulturerbe FAZ Wandbild in Neu-Delhi, Papst Leo in Peru, Herbstwetter in Moskau tagesschau.de",
+     "link": "https://news.google.com/rss/articles/CBMihAJBVV95cUxPWjY2UXhDZEFpNjl6X3JyT3NzWmVDLWlWWXN6d1g0akozdDJtZHB3SVRSdFlwR0NtSmFRTHU2aEpmTFRRbFRFMC1NX1BkeWFteXlDQzR3aUI0dUJ5MS1VdjlTZk9rdUdYcmFDRC02d3F4QkZsdmdkSXE2c2NfSUd4azhETk9PWVNFZ0JCOWtxSTN6ajNKcVFBR2JKRUlPbDI5MDNqeV9sRWlhQ3FnVndwZTVXenJYV2NubHJUODJJM0ZxNUNac3BENmNFVjFsdnptWkdhemVMSWY2SG95WWJzWTlNX3lJMjlmUlB0QVF1WmRKLVhKc1pxTnVLa2JkLXhWUEF4dw?oc=5",
+     "image": null,
+     "aggregator": true,
+     "published": "2026-11-13T22:34:00+00:00"
+    }
+   ]
+  },
+  {
+   "id": 12,
+   "score": 8.09,
+   "outlets": [
+    "tagesschau",
+    "heise online",
+    "BILD"
+   ],
+   "regions": [
+    "DE"
+   ],
+   "trend": [],
+   "newest": "2026-11-14T06:44:58+00:00",
+   "articles": [
+    {
+     "source": "tagesschau",
+     "region": "DE",
+     "weight": 1.0,
+     "title": "Weltweit mehr Urlaubsanträge vor Start des Videospiels \"GTA VI\"",
+     "summary": "13 Jahre nach seiner letzten Version steht das neue Videospiel \"Grand Theft Auto VI\" vor der Premiere. Software-Anbieter berichten von weltweit gestiegenen Urlaubsanträgen im Vorfeld. Der Entwickler hofft auf ein Milliardengeschäft.",
+     "link": "https://www.tagesschau.de/wirtschaft/verbraucher/weltweit-mehr-urlaubsantraege-start-gta6-100.html",
+     "image": "https://images.tagesschau.de/image/12af396e-7e92-45b4-86cc-bc2d73c912e3/AAABodOvJLM/AAABnSSvrFg/16x9-big/gta-122.jpg?width=1920",
+     "aggregator": false,
+     "published": "2026-11-13T09:12:03+00:00"
+    },
+    {
+     "source": "tagesschau Wirtschaft",
+     "region": "DE",
+     "weight": 1.0,
+     "title": "Weltweit mehr Urlaubsanträge vor Start des Videospiels \"GTA VI\"",
+     "summary": "13 Jahre nach seiner letzten Version steht das neue Videospiel \"Grand Theft Auto VI\" vor der Premiere. Software-Anbieter berichten von weltweit gestiegenen Urlaubsanträgen im Vorfeld. Der Entwickler hofft auf ein Milliardengeschäft.",
+     "link": "https://www.tagesschau.de/wirtschaft/verbraucher/weltweit-mehr-urlaubsantraege-start-gta6-100.html",
+     "image": "https://images.tagesschau.de/image/12af396e-7e92-45b4-86cc-bc2d73c912e3/AAABodOvJLM/AAABnSSvrFg/16x9-big/gta-122.jpg?width=1920",
+     "aggregator": false,
+     "published": "2026-11-13T09:12:03+00:00"
+    },
+    {
+     "source": "heise online",
+     "region": "DE",
+     "weight": 0.85,
+     "title": "Bereit für GTA 6: Die Checkliste zum Release von Grand Theft Auto VI",
+     "summary": "GTA 6 steht in den Startlöchern und Millionen von Spielern warten sehnsüchtig auf den Release. Wir zeigen, was man vor dem Launch des Spiels wissen muss.",
+     "link": "https://www.heise.de/bestenlisten/ratgeber/bereit-fuer-gta-6-die-checkliste-zum-release-von-grand-theft-auto-vi/3ht03fp?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
+     "image": null,
+     "aggregator": false,
+     "published": "2026-11-12T16:00:00+00:00"
+    },
+    {
+     "source": "BILD",
+     "region": "DE",
+     "weight": 0.6,
+     "title": "„GTA 6“-Release könnte die USA 900 Millionen Euro kosten",
+     "summary": "„GTA 6“-Release könnte die USA 900 Millionen Euro kosten BILD Hype um Grand Theft Auto VI - Was erzählen Videospiele? SWR GTA 6 erscheint am 19. November: Kann ein Videospiel die Weltwirtschaft lahmlegen? - Panorama - SZ.de SZ.de Weltweit mehr Urlaubsanträge vor Start des Videospiels \"GTA VI\" tagesschau.de GTA 6 Release am 19. November: Wie der Hype um das Game WDR",
+     "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxONVFUdnEzekxDRzN3YUtMNEFqY2JLQXptZEs2SENaV3VNOVR5Nnowdzl6VEZsTkVLWUFMb3FnX3AwMWhxNDhVZC1ub2pkOXI1LUNpWDF0eUFON1FSSEZSdjBsTUhBX3oxUkdCS19qZzA5VlFvcVRHRTVlY29pYlRBRzk5S2tGOWN1T2ZyZHVTeTlydG5uejQ4dnJSVVpaYngtdWw5RXhITG5KQWc3cFVEZ3M5M0VfWGZWVnUtTw?oc=5",
+     "image": null,
+     "aggregator": true,
+     "published": "2026-11-14T06:44:58+00:00"
+    }
+   ]
+  },
+  {
+   "id": 13,
+   "score": 8.0,
+   "outlets": [
+    "ORF",
+    "SPIEGEL"
+   ],
+   "regions": [
+    "AT",
+    "DE"
+   ],
+   "trend": [],
+   "newest": "2026-11-14T06:29:02+00:00",
+   "articles": [
+    {
+     "source": "ORF",
+     "region": "AT",
+     "weight": 0.95,
+     "title": "Bataclan-Anschlag: Halbe Million Euro Spenden für Pariser Zeugin",
+     "summary": "",
+     "link": "https://orf.at/stories/3448143/",
+     "image": null,
+     "aggregator": false,
+     "published": "2026-11-14T06:29:02+00:00"
+    },
+    {
+     "source": "SPIEGEL",
+     "region": "DE",
+     "weight": 0.9,
+     "title": "Halbe Million Euro Spenden für Pariser Terror-Zeugin",
+     "summary": "»Sonia« lebt in einem Zeugenschutzprogramm. Sie erkannte den gesuchten Drahtzieher der Pariser Anschläge von 2015 und alarmierte die Polizei. Geld aus einer Spendenaktion soll ihr jetzt den Alltag erleichtern.",
+     "link": "https://www.spiegel.de/panorama/halbe-million-euro-spenden-fuer-pariser-terror-zeugin-a-1bd59b07-d4da-4a10-b76c-a7036242f1bf#ref=rss",
+     "image": "https://cdn.prod.www.spiegel.de/images/f45fcb00-d800-46d5-a3d0-20d467b41373_w520_r2.08_fpx33.31_fpy50.jpg",
+     "aggregator": false,
+     "published": "2026-11-14T04:52:00+00:00"
+    },
+    {
+     "source": "Spiegel",
+     "region": "DE",
+     "weight": 0.6,
+     "title": "Halbe Million Euro Spenden für Pariser Terror-Zeugin",
+     "summary": "Halbe Million Euro Spenden für Pariser Terror-Zeugin Spiegel",
+     "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPOUJvb0sxa2xPZTBYYkQtbWtnWWR6el91Y05YMExoRUJIRUF4WDU5NXRoV3NBdkZzZjVvNVJiMUpwUDVFVTVDNUYtQVZEenhTQm9FdlZfT19BZmY5LUhJM2hJajVVbldlVks3c0ZzcVpyNTd1eVk1bEtLN1ZoaGdzU1RMRzNvR2FZQlhBSGJPcXRwRTEyZFZISDZ0c3VvamVlWmY5aXRad3MyTUZBbUZqSWNYcjl5MmNrM2dhVWdnZDdSdw?oc=5",
+     "image": null,
+     "aggregator": true,
+     "published": "2026-11-14T04:52:00+00:00"
+    }
+   ]
+  },
+  {
+   "id": 14,
+   "score": 7.96,
+   "outlets": [
+    "tagesschau",
+    "ZDFheute"
+   ],
+   "regions": [
+    "DE",
+    "INT"
+   ],
+   "trend": [],
+   "newest": "2026-11-14T07:15:22+00:00",
+   "articles": [
+    {
+     "source": "tagesschau",
+     "region": "DE",
+     "weight": 1.0,
+     "title": "Vorübergehendes Startverbot in den USA: \"Unglaublich veraltetes Flugsicherungssystem\"",
+     "summary": "Stundenlang durften in den USA keine Flugzeuge starten. Die Regierung macht veraltete Technik verantwortlich. Mittlerweile ist das Verbot wieder aufgehoben - doch wann sich der Flugverkehr normalisieren wird, ist unklar. Von Nina Barth.",
+     "link": "https://www.tagesschau.de/ausland/amerika/usa-ende-startverbot-flughaefen-100.html",
+     "image": "https://images.tagesschau.de/image/db3c732d-062f-452e-b840-ddd218f43e52/AAABodjpKqk/AAABnSSvrFg/16x9-big/flughafen-los-angeles-100.jpg?width=1920",
+     "aggregator": false,
+     "published": "2026-11-14T07:15:22+00:00"
+    },
+    {
+     "source": "tagesschau Ausland",
+     "region": "INT",
+     "weight": 1.0,
+     "title": "Vorübergehendes Startverbot in den USA: \"Unglaublich veraltetes Flugsicherungssystem\"",
+     "summary": "Stundenlang durften in den USA keine Flugzeuge starten. Die Regierung macht veraltete Technik verantwortlich. Mittlerweile ist das Verbot wieder aufgehoben - doch wann sich der Flugverkehr normalisieren wird, ist unklar. Von Nina Barth.",
+     "link": "https://www.tagesschau.de/ausland/amerika/usa-ende-startverbot-flughaefen-100.html",
+     "image": "https://images.tagesschau.de/image/db3c732d-062f-452e-b840-ddd218f43e52/AAABodjpKqk/AAABnSSvrFg/16x9-big/flughafen-los-angeles-100.jpg?width=1920",
+     "aggregator": false,
+     "published": "2026-11-14T07:15:22+00:00"
+    },
+    {
+     "source": "ZDFheute",
+     "region": "DE",
+     "weight": 1.0,
+     "title": "Landesweiter Flugstopp in den USA wieder aufgehoben",
+     "summary": "Die US-Luftfahrtbehörde FAA erlaubt den Start von Flugzeugen wieder. Nach technischen Problemen war ein Startverbot verhängt worden. Auch Reisende aus Europa sind betroffen.",
+     "link": "https://www.zdfheute.de/politik/ausland/usa-flugstopp-landesweit-100.html",
+     "image": "https://www.zdfheute.de/assets/usa-flughafen-los-angeles-100~384x216?cb=1794624261054",
+     "aggregator": false,
+     "published": "2026-11-14T04:19:00+00:00"
+    }
+   ]
+  },
+  {
+   "id": 15,
+   "score": 7.94,
+   "outlets": [
+    "ZDFheute",
+    "WELT"
+   ],
+   "regions": [
+    "DE"
+   ],
+   "trend": [],
+   "newest": "2026-11-14T06:36:37+00:00",
+   "articles": [
+    {
+     "source": "ZDFheute",
+     "region": "DE",
+     "weight": 1.0,
+     "title": "DFB-Elf mit wichtigem Sieg gegen Serbien",
+     "summary": "In Belgrad hat sich die DFB-Elf mit 3:1 gegen Serbien durchgesetzt. Damit bleibt die Qualifikation für das Nations-League-Viertelfinale möglich.",
+     "link": "https://www.zdfheute.de/sport/fussball-nations-league-serbien-deutschland-tore-ergebnis-100.html",
+     "image": "https://www.zdfheute.de/assets/jubel-fussballspiel-serbien-deutschland-100~384x216?cb=1794600940315",
+     "aggregator": false,
+     "published": "2026-11-13T21:40:00+00:00"
+    },
+    {
+     "source": "ZDFheute",
+     "region": "DE",
+     "weight": 1.0,
+     "title": "DFB-Elf gewinnt die Regenschlacht von Belgrad",
+     "summary": "Im vorletzten Länderspiel des Jahres hat die deutsche Nationalmannschaft den ersten Sieg unter Jürgen Klopp eingefahren. Das DFB-Team besiegte Serbien klar.",
+     "link": "https://www.zdfheute.de/sport/fussball-nations-league/video/serbien-deutschland-highlights-maenner-zusammenfassung-100.html",
+     "image": "https://www.zdfheute.de/assets/serbien-deutschland-havertz-tor-100~384x216?cb=1794606009118",
+     "aggregator": false,
+     "published": "2026-11-13T22:21:00+00:00"
+    },
+    {
+     "source": "WELT",
+     "region": "DE",
+     "weight": 0.8,
+     "title": "„Das war schon recht gut, was die deutsche Mannschaft gemacht hat“",
+     "summary": "Die deutsche Fußball-Nationalmannschaft hat sich in der Nations League mit 3:1 gegen Serbien durchgesetzt. „Allerdings bleibt es dabei: Unter Jürgen Klopp hat noch kein Stürmer getroffen“, so Sportreporter Christian Beilfuß.",
+     "link": "https://www.welt.de/sport/fussball/video6af7fcf64495f9bd85b7f747/sieg-in-der-nations-league-das-war-schon-recht-gut-was-die-deutsche-mannschaft-gemacht-hat.html",
+     "image": "https://images.welt.de/6af7fcf64495f9bd85b7f747/3191e02ee12eb9f3df758d36b33a6c9c/ci16x9-w1200/dpa-com-261113-99-271469-jpg",
+     "aggregator": false,
+     "published": "2026-11-14T06:36:37+00:00"
+    },
+    {
+     "source": "ZDFheute",
+     "region": "DE",
+     "weight": 0.6,
+     "title": "Nations League: DFB-Elf mit wichtigem Sieg gegen Serbien",
+     "summary": "Nations League: DFB-Elf mit wichtigem Sieg gegen Serbien ZDFheute Wieder ein Stück näher dran am Klopp-Fußball WEB.DE So kommt Klopp mit der DFB-Elf in die K.-o.-Runde Kicker Nationalmannschaft: Ein Abend ohne echten Gegner DIE ZEIT Noten für Nationalmannschaft: Klopp-Debütant mit magischem DFB-Moment in Serbien T-Online",
+     "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNb0trQ0o2N1J2ZHN1WEExNldmUkhZck5YX2hJZEdjcHZVWDZWekpVNzRHOUl2LTJYdGR2QjhGdm9LQllzUVZBX1cxMnV5eGZEOGpFVXFaTWlRcFczQVBpZ2dtclQ3d19UWno1WG9nYkJoOUpBMFY0SlpBbHVaUHVJRUdlRmg3OVJqU0dwNXNsUG1TN29vVlRtZU9KdTA?oc=5",
+     "image": null,
+     "aggregator": true,
+     "published": "2026-11-13T21:40:37+00:00"
+    }
+   ]
+  },
+  {
+   "id": 16,
+   "score": 7.89,
+   "outlets": [
+    "tagesschau",
+    "WELT",
+    "tagesschau.de"
+   ],
+   "regions": [
+    "DE",
+    "INT"
+   ],
+   "trend": [],
+   "newest": "2026-11-14T06:27:58+00:00",
+   "articles": [
+    {
+     "source": "tagesschau",
+     "region": "DE",
+     "weight": 1.0,
+     "title": "FAA hebt Startverbot an US-Flughäfen wieder auf",
+     "summary": "Nach mehreren Stunden läuft der Flugverkehr in den USA wieder an. Die Luftfahrtbehörde hob das zuvor verhängte Startverbot auf. US-Verkehrsminister Duffy nannte überlastete Kommunikationssysteme als Ursache.",
+     "link": "https://www.tagesschau.de/ausland/amerika/usa-flugstopp-ende-100.html",
+     "image": "https://images.tagesschau.de/image/3335c8db-b9b7-4025-9004-d01279760b2b/AAABodfHHKI/AAABnSSvrFg/16x9-big/usa-flugzeuge-100.jpg?width=1920",
+     "aggregator": false,
+     "published": "2026-11-14T02:36:59+00:00"
+    },
+    {
+     "source": "tagesschau Ausland",
+     "region": "INT",
+     "weight": 1.0,
+     "title": "FAA hebt Startverbot an US-Flughäfen wieder auf",
+     "summary": "Nach mehreren Stunden läuft der Flugverkehr in den USA wieder an. Die Luftfahrtbehörde hob das zuvor verhängte Startverbot auf. US-Verkehrsminister Duffy nannte überlastete Kommunikationssysteme als Ursache.",
+     "link": "https://www.tagesschau.de/ausland/amerika/usa-flugstopp-ende-100.html",
+     "image": "https://images.tagesschau.de/image/3335c8db-b9b7-4025-9004-d01279760b2b/AAABodfHHKI/AAABnSSvrFg/16x9-big/usa-flugzeuge-100.jpg?width=1920",
+     "aggregator": false,
+     "published": "2026-11-14T02:36:59+00:00"
+    },
+    {
+     "source": "WELT",
+     "region": "DE",
+     "weight": 0.8,
+     "title": "Nach landesweitem Flugstopp – Starts an US-Flughäfen wieder erlaubt",
+     "summary": "Die US-Luftfahrtaufsicht FAA hat das landesweite Startverbot an Flughäfen nach rund vier Stunden wieder aufgehoben. Zuvor waren wegen technischer Probleme Tausende Flüge in den USA abgesagt worden.",
+     "link": "https://www.welt.de/politik/ausland/video6af7fb909849eea0701e25ff/usa-nach-landesweitem-flugstopp-starts-an-us-flughaefen-wieder-erlaubt.html",
+     "image": "https://images.welt.de/6af7fb909849eea0701e25ff/be3315e6d724834b1225a26bb14c0c16/ci16x9-w1200/dpa-com-261113-935-1741883-jpg",
+     "aggregator": false,
+     "published": "2026-11-14T06:27:58+00:00"
+    },
+    {
+     "source": "tagesschau.de",
+     "region": "DE",
+     "weight": 0.6,
+     "title": "FAA hebt Startverbot an US-Flughäfen wieder auf",
+     "summary": "FAA hebt Startverbot an US-Flughäfen wieder auf tagesschau.de Flüge aus Deutschland gestrichen: Technische Panne legt US-Luftverkehr stundenlang lahm n-tv.de Flugstopp in den USA: Schon Kleinigkeiten können den US-Flugverkehr lahmlegen DIE ZEIT \"Unglaublich veraltetes Flugsicherungssystem\" tagesschau.de US-Flugverkehr: Start-Stopp aufgehoben, Europa-Flüge weiter blockiert BILD",
+     "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5ucVlKRG1NU0FwU0UwZU9BWmxPNW5OaHpUWG05d1lwcEsyVU54bmdTNEZsZHhuVTQ3SWF1MVZmQ3dzZm42OEZlVV9zdTVmOFp0bVBrRE9UendrZlREdUZCYkotNW1SUTVaQnhBSU4yaEFaTkZyWW1NNA?oc=5",
+     "image": null,
+     "aggregator": true,
+     "published": "2026-11-14T02:36:00+00:00"
+    }
+   ]
+  },
+  {
+   "id": 17,
+   "score": 7.78,
+   "outlets": [
+    "tagesschau",
+    "Deutschlandfunk"
+   ],
+   "regions": [
+    "DE"
+   ],
+   "trend": [],
+   "newest": "2026-11-14T07:01:11+00:00",
+   "articles": [
+    {
+     "source": "tagesschau",
+     "region": "DE",
+     "weight": 1.0,
+     "title": "tagesschau 20:00 Uhr",
+     "summary": "Technisches Problem war Ursache für weltweite Störung von Microsoft-Diensten, Bundeshaushalt 2027 mit hoher Neuverschuldung beschlossen, Bundesnachrichtendienste erhalten nach Reform mehr Befugnisse, AfD will ehemaligen Fußball-Weltmeister Berthold als Kandidat für Bundespräsidentenamt aufstellen, Ukraine-Friedensgespräche sollen mit mehr europäischer Beteiligung stattfinden, Gericht in Ägypten ordnet Schließung von unabhängigem Nachrichtenportal an, Papst Leo XIV. fordert bei Peru-Reise mehr Schutz für Frauen und Mädchen, Ölskizzen von Maler Rubens erstmal wieder gemeinsam in Gotha zu sehen, ",
+     "link": "https://www.tagesschau.de/tagesschau_20_uhr/video-1683510.html",
+     "image": "https://images.tagesschau.de/image/91a04bdf-d351-43fc-af7b-2d8c3726f195/AAABodZo7Kk/AAABnSSvrFg/16x9-big/sendungsbild-1827184.jpg?width=1920",
+     "aggregator": false,
+     "published": "2026-11-13T19:37:18+00:00"
+    },
+    {
+     "source": "Deutschlandfunk",
+     "region": "DE",
+     "weight": 0.95,
+     "title": "Technische Störung - Flugverbot in den USA wieder aufgehoben",
+     "summary": "In den USA hat es wegen technischer Probleme ein stundenlanges Flugverbot gegeben. Ursache war eine Störung der Kommunikationssysteme, wie das Verkehrsministerium mitteilte. Die Luftsicherheitsbehörde FAA untersagte den Start Tausender Flugzeuge. Zehntausende Menschen strandeten an den Flughäfen. Auch Verbindungen aus Europa wurden zwischenzeitlich ausgesetzt.",
+     "link": "https://www.deutschlandfunk.de/flugverbot-in-den-usa-wieder-aufgehoben-100.html",
+     "image": "https://bilder.deutschlandfunk.de/1f/86/2f/12/1f862f12-49b0-439d-bbb9-f500de2caa24/flugverkehr-usa-stoerung-100-1920x1920.jpg",
+     "aggregator": false,
+     "published": "2026-11-14T07:01:11+00:00"
+    }
+   ]
+  },
+  {
+   "id": 18,
+   "score": 7.78,
+   "outlets": [
+    "tagesschau",
+    "Deutschlandfunk"
+   ],
+   "regions": [
+    "DE",
+    "INT"
+   ],
+   "trend": [],
+   "newest": "2026-11-14T07:01:11+00:00",
+   "articles": [
+    {
+     "source": "tagesschau",
+     "region": "DE",
+     "weight": 1.0,
+     "title": "Nvidia-Skandal: US-Handelsminister Lutnick wegen Chip-Exporten unter Druck",
+     "summary": "US-Handelsminister Lutnick steht in der Kritik. Sein Ministerium soll Warnungen vor der in den Nvidia-Skandal verwickelten Firma Megaspeed ignoriert haben. Kabinettskollege Bessent warf ihm Versäumnisse vor.",
+     "link": "https://www.tagesschau.de/ausland/usa-nvidia-finanzminister-handelminister-100.html",
+     "image": "https://images.tagesschau.de/image/434feb3c-9a0f-43d3-afd8-cab5dd0eaeed/AAABodZOA3k/AAABnSSvrFg/16x9-big/howard-lutnick-100.jpg?width=1920",
+     "aggregator": false,
+     "published": "2026-11-13T19:06:39+00:00"
+    },
+    {
+     "source": "tagesschau Ausland",
+     "region": "INT",
+     "weight": 1.0,
+     "title": "Nvidia-Skandal: US-Handelsminister Lutnick wegen Chip-Exporten unter Druck",
+     "summary": "US-Handelsminister Lutnick steht in der Kritik. Sein Ministerium soll Warnungen vor der in den Nvidia-Skandal verwickelten Firma Megaspeed ignoriert haben. Kabinettskollege Bessent warf ihm Versäumnisse vor.",
+     "link": "https://www.tagesschau.de/ausland/usa-nvidia-finanzminister-handelminister-100.html",
+     "image": "https://images.tagesschau.de/image/434feb3c-9a0f-43d3-afd8-cab5dd0eaeed/AAABodZOA3k/AAABnSSvrFg/16x9-big/howard-lutnick-100.jpg?width=1920",
+     "aggregator": false,
+     "published": "2026-11-13T19:06:39+00:00"
+    },
+    {
+     "source": "Deutschlandfunk",
+     "region": "DE",
+     "weight": 0.95,
+     "title": "Nvidia-Skandal - US-Finanzminister Bessent macht Handelsminister Lutnick für Chip-Lieferungen nach China verantwortlich",
+     "summary": "Im Skandal um den zurückgetretenen Nvidia-Chef Huang steht nun auch US-Handelsminister Lutnick in der Kritik.",
+     "link": "https://www.deutschlandfunk.de/us-finanzminister-bessent-macht-handelsminister-lutnick-fuer-chip-lieferungen-nach-china-verantwortl-106.html",
+     "image": "https://bilder.deutschlandfunk.de/a5/ee/cf/8d/a5eecf8d-6e89-447f-921f-bae180250d58/handelminister-lutnick-usa-100-1920x1920.jpg",
+     "aggregator": false,
+     "published": "2026-11-14T07:01:11+00:00"
+    }
+   ]
+  },
+  {
+   "id": 19,
+   "score": 7.78,
+   "outlets": [
+    "ZDFheute",
+    "Deutschlandfunk"
+   ],
+   "regions": [
+    "DE"
+   ],
+   "trend": [],
+   "newest": "2026-11-14T07:01:11+00:00",
+   "articles": [
+    {
+     "source": "ZDFheute",
+     "region": "DE",
+     "weight": 1.0,
+     "title": "Elterngeldreform: Das soll sich ändern",
+     "summary": "Das Bundeskabinett hat sich auf einen Gesetzentwurf zur Reform des Elterngelds geeinigt. Die Änderungen betreffen neben der Höhe auch die Aufteilung zwischen den Elternteilen.",
+     "link": "https://www.zdfheute.de/politik/deutschland/elterngeldreform-bundeskabinett-100.html",
+     "image": "https://www.zdfheute.de/assets/aid-image-74171602-hires-100~384x216?cb=1794600799107",
+     "aggregator": false,
+     "published": "2026-11-13T20:13:00+00:00"
+    },
+    {
+     "source": "Deutschlandfunk",
+     "region": "DE",
+     "weight": 0.95,
+     "title": "Familienleistung - Was sich beim Elterngeld ändern soll",
+     "summary": "Das Elterngeld soll einfacher und attraktiver werden, so will es die Bundesregierung. Das Kabinett hat sich nun auf einen Gesetzentwurf geeinigt, der ab November 2027 greifen soll. Ein Überblick über die geplanten Änderungen.",
+     "link": "https://www.deutschlandfunk.de/was-sich-beim-elterngeld-aendern-soll-100.html",
+     "image": "https://bilder.deutschlandfunk.de/37/80/32/6b/3780326b-6164-43fd-a079-a8370b9b36cb/baby-familie-100-1920x1920.jpg",
+     "aggregator": false,
+     "published": "2026-11-14T07:01:11+00:00"
+    }
+   ]
+  },
+  {
+   "id": 20,
+   "score": 7.67,
+   "outlets": [
+    "tagesschau Ausland",
+    "ORF"
+   ],
+   "regions": [
+    "AT",
+    "INT"
+   ],
+   "trend": [],
+   "newest": "2026-11-14T06:42:18+00:00",
+   "articles": [
+    {
+     "source": "tagesschau Ausland",
+     "region": "INT",
+     "weight": 1.0,
+     "title": "Straße von Hormus: Zwei Öltanker offenbar in Brand geraten",
+     "summary": "Teheran blockiert die Straße von Hormus seit Beginn des Iran-Krieges weitgehend. Doch immer wieder riskieren Öltanker die Passage durch die Meerenge. Nun sind laut Iran zwei Schiffe in Brand geraten.",
+     "link": "https://www.tagesschau.de/ausland/asien/iran-hormus-oeltanker-100.html",
+     "image": "https://images.tagesschau.de/image/9e3f005c-31ee-4b68-895b-ad06addf2ad8/AAABoasv5IE/AAABnSSvrFg/16x9-big/strasse-von-hormus-186.jpg?width=1920",
+     "aggregator": false,
+     "published": "2026-11-05T11:47:58+00:00"
+    },
+    {
+     "source": "ORF",
+     "region": "AT",
+     "weight": 0.95,
+     "title": "Iran: Zwei Öltanker in Straße von Hormus in Brand geraten",
+     "summary": "",
+     "link": "https://orf.at/stories/3448145/",
+     "image": null,
+     "aggregator": false,
+     "published": "2026-11-14T06:42:18+00:00"
+    }
+   ]
+  },
+  {
+   "id": 21,
+   "score": 7.58,
+   "outlets": [
+    "Deutschlandfunk",
+    "Handelsblatt"
+   ],
+   "regions": [
+    "DE"
+   ],
+   "trend": [],
+   "newest": "2026-11-14T07:01:11+00:00",
+   "articles": [
+    {
+     "source": "Deutschlandfunk",
+     "region": "DE",
+     "weight": 0.95,
+     "title": "Den Haag - Niederländische Minderheitsregierung hält vorerst - Ministerpräsident Jetten: Grundlegender Neustart nötig",
+     "summary": "In den Niederlanden hat Ministerpräsident Jetten einen Bruch seiner Minderheitsregierung vorerst abgewendet.",
+     "link": "https://www.deutschlandfunk.de/niederlaendische-minderheitsregierung-haelt-vorerst-ministerpraesident-jetten-grundlegender-neustart-100.html",
+     "image": "https://bilder.deutschlandfunk.de/e5/77/d8/2c/e577d82c-fcda-44e6-9c39-41832e04de85/niederlande-ministerpraesident-rob-jetten-minderheitsregierung-treffen-krise-100-1920x1920.jpg",
+     "aggregator": false,
+     "published": "2026-11-14T07:01:11+00:00"
+    },
+    {
+     "source": "Handelsblatt",
+     "region": "DE",
+     "weight": 0.9,
+     "title": "Regierung in der Krise: Koalition in Niederlanden vorerst gerettet",
+     "summary": "Ein Streit um Steuerreform und Millionärsteuer brachte die niederländische Regierung von Ministerpräsident Jetten ins Wanken. Doch ein Bruch wird verhindert - vorerst.",
+     "link": "https://www.handelsblatt.com/politik/international/regierung-in-der-krise-koalition-in-niederlanden-vorerst-gerettet/100269753.html",
+     "image": "https://images.handelsblatt.com/gYCZxp2UTUHB/cover/900/506/0/0/114/114/0.5/0.5/niederlande-minderheitskoalition-in-der-krise.jpg",
+     "aggregator": false,
+     "published": "2026-11-13T19:03:22+00:00"
+    },
+    {
+     "source": "Handelsblatt",
+     "region": "DE",
+     "weight": 0.9,
+     "title": "Regierungskrise: Koalition in Niederlanden steuert auf Neustart zu",
+     "summary": "Ein Streit um Steuerreform und Millionärsteuer brachte die niederländische Regierung von Ministerpräsident Jetten ins Wanken. Doch einige wollen ein Bruch verhindern.",
+     "link": "https://www.handelsblatt.com/politik/international/regierungskrise-koalition-in-niederlanden-steuert-auf-neustart-zu/100269761.html",
+     "image": "https://images.handelsblatt.com/gxqvBMsDh6H8/cover/900/506/0/0/319/349/0.5/0.5/archiv-15.10.2026-belgien-bruessel-rob-jetten-ministerpraesident-der-niederlande-kommt-zum-eu-g.jpg",
+     "aggregator": false,
+     "published": "2026-11-13T14:20:47+00:00"
+    }
+   ]
+  },
+  {
+   "id": 22,
+   "score": 7.58,
+   "outlets": [
+    "Deutschlandfunk",
+    "Handelsblatt"
+   ],
+   "regions": [
+    "DE"
+   ],
+   "trend": [],
+   "newest": "2026-11-14T07:01:11+00:00",
+   "articles": [
+    {
+     "source": "Deutschlandfunk",
+     "region": "DE",
+     "weight": 0.95,
+     "title": "Weltweite Störung - Microsoft: Probleme gingen auf Netzwerk-Update zurück",
+     "summary": "Die lange weltweite Störung bei Online-Diensten von Microsoft ging nach Angaben des Unternehmens auf ein hausinternes Update zurück.",
+     "link": "https://www.deutschlandfunk.de/microsoft-probleme-gingen-auf-netzwerk-update-zurueck-104.html",
+     "image": "https://bilder.deutschlandfunk.de/NO/VA/_f/1e/NOVA_f1ee74d815e7e98093562bcfad712b7b/craft-13546291-asset-100-1920x1920.jpg",
+     "aggregator": false,
+     "published": "2026-11-14T07:01:11+00:00"
+    },
+    {
+     "source": "Handelsblatt",
+     "region": "DE",
+     "weight": 0.9,
+     "title": "Nach Cloud-Ausfall: Microsoft: Störung ging auf Netzwerk-Upgrade zurück",
+     "summary": "Eine stundenlange Störung bei Cloud-Diensten von Microsoft traf viele Unternehmen und Verbraucher. Der Software-Riese äußert sich nun zu den Gründen.",
+     "link": "https://www.handelsblatt.com/technik/it-internet/nach-cloud-ausfall-microsoft-stoerung-ging-auf-netzwerk-upgrade-zurueck/100269813.html",
+     "image": "https://images.handelsblatt.com/7MTlchlEaOAl/cover/900/506/0/0/92/91/0.5/0.5/microsoft-stoerung.jpg",
+     "aggregator": false,
+     "published": "2026-11-13T20:01:30+00:00"
+    }
+   ]
+  },
+  {
+   "id": 23,
+   "score": 7.48,
+   "outlets": [
+    "Deutschlandfunk",
+    "WirtschaftsWoche"
+   ],
+   "regions": [
+    "DE"
+   ],
+   "trend": [],
+   "newest": "2026-11-14T07:01:11+00:00",
+   "articles": [
+    {
+     "source": "Deutschlandfunk",
+     "region": "DE",
+     "weight": 0.95,
+     "title": "Militärische Bedeutung - Bund will nach Medienberichten bei Atomfirma Urenco einsteigen",
+     "summary": "Die Bundesregierung will sich nach übereinstimmenden Medienberichten am Atomtechnikkonzern Urenco beteiligen.",
+     "link": "https://www.deutschlandfunk.de/bund-will-nach-medienberichten-bei-atomfirma-urenco-einsteigen-106.html",
+     "image": "https://bilder.deutschlandfunk.de/FI/LE/_9/27/FILE_927ab776d3c2c08a2ef1c9c6f425d299/urenco-l-jpg-102-768x768.jpg",
+     "aggregator": false,
+     "published": "2026-11-14T07:01:11+00:00"
+    },
+    {
+     "source": "WirtschaftsWoche",
+     "region": "DE",
+     "weight": 0.85,
+     "title": "Atomtechnik: Militärische Bedeutung treibt Bund offenbar zu Einstieg bei Atomfirma Urenco",
+     "summary": "Der Bund will laut Insidern bei der Atomfirma Urenco einsteigen und Anteile von E.ON und RWE übernehmen. Hintergrund ist auch die militärische Bedeutung.",
+     "link": "https://www.wiwo.de/politik/deutschland/urenco-bund-plant-laut-medienberichten-einstieg-bei-atomtechnikkonzern/100269763.html",
+     "image": "https://images.wiwo.de/8gEs3be-XrhK/cover/900/506/0/0/40/40/0.5/0.5/archiv-ein-mitarbeiter-kommt-am-freitag-22.01.2010-in-gronau-zur-urananreicherungsanlage-der-bet.jpg",
+     "aggregator": false,
+     "published": "2026-11-13T16:43:53+00:00"
+    }
+   ]
+  },
+  {
+   "id": 24,
+   "score": 7.33,
+   "outlets": [
+    "ZEIT ONLINE",
+    "n-tv"
+   ],
+   "regions": [
+    "DE"
+   ],
+   "trend": [],
+   "newest": "2026-11-14T07:10:36+00:00",
+   "articles": [
+    {
+     "source": "ZEIT ONLINE",
+     "region": "DE",
+     "weight": 0.9,
+     "title": "Nach zeitweisem Startverbot: Mehrere Flüge aus Deutschland in die USA gestrichen",
+     "summary": "",
+     "link": "https://www.zeit.de/news/2026-11/14/mehrere-fluege-aus-deutschland-in-die-usa-gestrichen",
+     "image": "https://img.zeit.de/news/2026-11/14/mehrere-fluege-aus-deutschland-in-die-usa-gestrichen-image-group/original__640x360",
+     "aggregator": false,
+     "published": "2026-11-14T07:10:36+00:00"
+    },
+    {
+     "source": "ZEIT ONLINE",
+     "region": "DE",
+     "weight": 0.9,
+     "title": "Luftverkehr in den USA: Startverbot legt US-Luftverkehr über mehrere Stunden lahm",
+     "summary": "In den USA konnten wegen IT-Problemen mehrere Stunden lang keine Flugzeuge starten. Tausende Verbindungen wurden gestrichen. Die Folgen könnten Europa treffen.",
+     "link": "https://www.zeit.de/politik/ausland/2026-11/usa-flugverkehr-stopp-faa-luftfahrtbehoerde",
+     "image": "https://img.zeit.de/politik/ausland/2026-11/flugverkehr-startverbot-usa-bild-2/original__640x360",
+     "aggregator": false,
+     "published": "2026-11-14T06:27:39+00:00"
+    },
+    {
+     "source": "ZEIT ONLINE",
+     "region": "DE",
+     "weight": 0.9,
+     "title": "Luftverkehr in den USA: Startverbot legt US-Luftverkehr über mehrere Stunden lahm",
+     "summary": "In den USA konnten wegen IT-Problemen mehrere Stunden lang keine Flugzeuge starten. Tausende Verbindungen wurden gestrichen. Die Folgen könnten Europa treffen.",
+     "link": "https://www.zeit.de/politik/ausland/2026-11/usa-flugverkehr-stopp-faa-luftfahrtbehoerde",
+     "image": "https://img.zeit.de/politik/ausland/2026-11/flugverkehr-startverbot-usa-bild-2/original__640x360",
+     "aggregator": false,
+     "published": "2026-11-14T06:27:39+00:00"
+    },
+    {
+     "source": "ZEIT ONLINE",
+     "region": "DE",
+     "weight": 0.9,
+     "title": "Luftverkehr in den USA: Startverbot legt US-Luftverkehr über mehrere Stunden lahm",
+     "summary": "In den USA konnten wegen IT-Problemen mehrere Stunden lang keine Flugzeuge starten. Tausende Verbindungen wurden gestrichen. Die Folgen könnten Europa treffen.",
+     "link": "https://www.zeit.de/politik/ausland/2026-11/usa-flugverkehr-stopp-faa-luftfahrtbehoerde",
+     "image": "https://img.zeit.de/politik/ausland/2026-11/flugverkehr-startverbot-usa-bild-2/original__640x360",
+     "aggregator": false,
+     "published": "2026-11-14T06:27:39+00:00"
+    },
+    {
+     "source": "n-tv",
+     "region": "DE",
+     "weight": 0.8,
+     "title": "Flüge aus Deutschland gestrichen: Technische Panne legt US-Luftverkehr stundenlang lahm",
+     "summary": "Rund vier Stunden müssen sämtliche Flugzeuge in den USA wegen technischer Probleme am Boden bleiben. Jetzt ist der Luftraum wieder freigegeben. Es dürfte aber noch eine Weile dauern, bis sich das Chaos an den Flughäfen lichtet.",
+     "link": "https://www.n-tv.de/wirtschaft/Technische-Panne-legt-US-Luftverkehr-stundenlang-lahm-id31533283.html",
+     "image": "https://www.n-tv.de/img/31533285/1794625784/Img_4_3/250/image.jpg",
+     "aggregator": false,
+     "published": "2026-11-14T01:49:33+00:00"
+    }
+   ]
+  },
+  {
+   "id": 25,
+   "score": 7.15,
+   "outlets": [
+    "ORF",
+    "WELT"
+   ],
+   "regions": [
+    "AT",
+    "DE"
+   ],
+   "trend": [],
+   "newest": "2026-11-14T06:21:05+00:00",
+   "articles": [
+    {
+     "source": "ORF",
+     "region": "AT",
+     "weight": 0.95,
+     "title": "Schiffsunfall in New Orleans: Alle Passagiere geborgen",
+     "summary": "",
+     "link": "https://orf.at/stories/3448141/",
+     "image": null,
+     "aggregator": false,
+     "published": "2026-11-14T06:21:05+00:00"
+    },
+    {
+     "source": "WELT",
+     "region": "DE",
+     "weight": 0.8,
+     "title": "„Wie bei der Titanic“ – Kreuzfahrtschiff mit 130 Passagieren kollidiert mit Tanker",
+     "summary": "Bei New Orleans rammt ein Frachter ein Kreuzfahrtschiff mit über 130 Menschen an Bord. Mehrere stürzten ins Wasser. Es gibt 32 Verletzte, niemand wird vermisst. Eine Passagierin spricht von „Titanic“-Szenen.",
+     "link": "https://www.welt.de/vermischtes/article6af7770c7f8bbad09ea62d88/new-orleans-wie-bei-der-titanic-kreuzfahrtschiff-mit-130-passagieren-kollidiert-mit-tanker.html",
+     "image": "https://images.welt.de/6af7770c7f8bbad09ea62d88/432d7a41ce8abe7f3ef222c03219d8bb/ci23x11-w1200/apdpa-eca73d03325b450a90d22a895d8016db-jpg",
+     "aggregator": false,
+     "published": "2026-11-14T01:23:00+00:00"
+    }
+   ]
+  },
+  {
+   "id": 26,
+   "score": 6.84,
+   "outlets": [
+    "ZDFheute",
+    "NZZ"
+   ],
+   "regions": [
+    "CH",
+    "DE"
+   ],
+   "trend": [],
+   "newest": "2026-11-14T04:30:00+00:00",
+   "articles": [
+    {
+     "source": "ZDFheute",
+     "region": "DE",
+     "weight": 1.0,
+     "title": "Zwei unvereinbare Vorstellungen von Europa",
+     "summary": "Russland fordert eine neue \"Sicherheitsarchitektur\" für Europa. Dabei sind die Regeln längst vereinbart - und Moskau hat ihnen zugestimmt.",
+     "link": "https://www.zdfheute.de/politik/ausland/analyse-russland-europa-sicherheit-ukraine-krieg-100.html",
+     "image": "https://www.zdfheute.de/assets/wladimir-putin-650~384x216?cb=1794614563158",
+     "aggregator": false,
+     "published": "2026-11-14T02:42:00+00:00"
+    },
+    {
+     "source": "NZZ",
+     "region": "CH",
+     "weight": 0.9,
+     "title": "Putin fordert eine neue Sicherheitsarchitektur – die Europäer versuchen, nicht in die Falle zu tappen",
+     "summary": "Europa einigt sich auf ein Team statt auf eine einzige Person für Verhandlungen mit Russland. 40 Staaten unterzeichnen zudem eine «Erklärung zu Grundsätzen der europäischen Sicherheit». Die Schweiz verzichtet.",
+     "link": "https://www.nzz.ch/international/putin-fordert-eine-neue-sicherheitsarchitektur-die-europaeer-versuchen-nicht-in-die-falle-zu-tappen-ld.10062304",
+     "image": "https://img-msp-prod.nzz.ch/2026/11/13/e94e2aaf-e0cc-43df-999f-99ff86489d80.jpg?width=200&height=200&fit=bounds&quality=75&auto=webp&crop=3933,3933,x984,y0",
+     "aggregator": false,
+     "published": "2026-11-14T04:30:00+00:00"
+    }
+   ]
+  },
+  {
+   "id": 27,
+   "score": 6.68,
+   "outlets": [
+    "Süddeutsche",
+    "n-tv"
+   ],
+   "regions": [
+    "DE"
+   ],
+   "trend": [],
+   "newest": "2026-11-14T05:13:00+00:00",
+   "articles": [
+    {
+     "source": "Süddeutsche",
+     "region": "DE",
+     "weight": 0.9,
+     "title": "3:1 gegen Serbien: Dominanz im Dauerregen",
+     "summary": "Das DFB-Team gewinnt in Belgrad auf einem durchgeweichten Rasen souverän gegen einen schwachen Gegner, der auch noch zwei rote Karten sieht. Die Frage ist: Was kann Trainer Jürgen Klopp aus diesem Auftritt lernen?",
+     "link": "https://www.sueddeutsche.de/sport/dfb-team-serbien-nations-league-klopp-gruda-li.3578389",
+     "image": "https://www.sueddeutsche.de/2026/11/13/40a56d8e-499f-43cb-b513-013cd05d32e9.jpg?rect=112%2C0%2C1799%2C1349&width=1000&fm=jpg&q=60",
+     "aggregator": false,
+     "published": "2026-11-13T22:03:56+00:00"
+    },
+    {
+     "source": "n-tv",
+     "region": "DE",
+     "weight": 0.8,
+     "title": "\"Katastrophaler\" Gegner für Klopp: \"Das war Fußball zum Verlieben - und jetzt zu Deutschland!\"",
+     "summary": "Deutschland gewinnt souverän gegen Serbien und bekommt das Nations-League-Gruppenfinale gegen die Niederlande. Der Gegner war schwach, die DFB-Elf aber stark. Besonders zwei Spieler gefallen unserem Experten Arie van Lent.",
+     "link": "https://www.n-tv.de/sport/fussball/Das-war-Fussball-zum-Verlieben-und-jetzt-zu-Deutschland-id31532379.html",
+     "image": "https://www.n-tv.de/img/31533492/1794638282/Img_4_3/250/632842015.jpg",
+     "aggregator": false,
+     "published": "2026-11-14T05:13:00+00:00"
+    }
+   ]
+  }
+ ]
+}
