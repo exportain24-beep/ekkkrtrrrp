@@ -79,3 +79,15 @@
 - feeds.py: stories matching a trending owner keyword get +1 per match (max +2) until `expires`.
 - EDITOR_GUIDE rule 20: exact search phrase in title (first 40 chars), hook and first sentence; ≥ 2 keywords per video.
 - Audit note (15 Nov): videos from 15 Nov onwards use the keyword rule – compare them separately.
+
+## 2026-11-14 (vidIQ: 6 Calls, 40 Credits, Rest ≈ 5.098) – FREEZE bis Audit 15. Nov: nur gemessen, nichts geändert
+- YT-Analytics bis 12. Nov: 12. Nov 2.487 Views / 897 engaged (36 %) / Ø-Wiedergabe 70,3 % / +1 Abo / 5 Shares · 11. Nov 3.290 / 68,6 %.
+- Traffic 7.–14. Nov: Shorts-Feed 20.783 (75 %), Suche 6.190 (22 %), andere YT-Seiten 247, Abo-Feed 167, extern 53.
+- YT je Upload-Tag (öffentlich, 22:19 UTC): 12. Nov Ø 179 (8, 1.429) · 13. Nov Ø 597 (10, 5.971) · 14. Nov Ø 356 (12, 4.276; 2 Videos < 2,5 h mit 0).
+- FB je Upload-Tag (Plays, 19:24 UTC): 12. Nov Ø 173 (1.381) · 13. Nov Ø 377 (3.766) · 14. Nov Ø 171 (9, 1.535).
+- Headline/4er (12.–14. Nov, 3 Videos): YT Ø 116 · FB Ø 12 — FOKUS (25 Videos): YT Ø 453 · FB Ø 277. 14. Nov: 4er 206/22 vs. FOKUS Ø 452 YT / Ø 189 FB.
+- Bestes 14. Nov: Aiwanger-Staatsakt YT 1.192 / FB 167 (199 VPH) · Berthold/AfD 767 / 199 (192 VPH, 49 Likes) · FB-Bestes Selenskyj/Donbass 488 (YT 177).
+- Schlechtestes 14. Nov: Musk/Starlink YT 76 / FB 239 · FB-Schlechteste Emde 1, Microsoft 4 (07:30/09:00 UTC, 3. Tag in Folge).
+- vidIQ-Watch XWgTQGdbeKs (Aiwanger): rote Hook-Karte Sek. 0–1, Zahl Sek. 4, Hochdeutsch fehlerfrei, 3–4 Fotos wiederholt.
+- vidIQ-Watch kjyuh6hufRg (Musk): Hook ok, Deutsch fehlerfrei, nur 2 Fotos in 32 s, US-Thema ohne DACH-Bezug.
+- Für Audit 15. Nov: 14. Nov lief mit 12 Uploads (Plan 11. Nov: 8/Tag); FB 07:30/09:00 UTC 5/5 < 10 Plays seit 12. Nov.
