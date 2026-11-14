@@ -1,0 +1,63 @@
+{
+  "format": "single",
+  "candidate_id": 10,
+  "pillar": "POLITIK",
+  "region": "DE",
+  "kicker": "BERLIN",
+  "hook_screen": "KEIN FINGERSCHNIPPEN!",
+  "hook_voice": "Pantisano warnt: Deutschland ist kein autoritäres Regime.",
+  "beats": [
+    {
+      "voice": "Linke-Chef Luigi Pantisano verteidigt damit das lange Verfahren gegen Vanessa Emde. Die Berliner Abgeordnete könnte bald zwangsweise aus der Fraktion fliegen.",
+      "big": "AUSSCHLUSS",
+      "label": "droht Emde womöglich schon bald"
+    },
+    {
+      "voice": "Emde ist wegen ihrer Positionen zu Israel umstritten. Die Linke will sie deshalb aus der Fraktion haben.",
+      "big": "EMDE",
+      "label": "umstrittene Berliner Abgeordnete"
+    },
+    {
+      "voice": "Pantisano sagt: Gewählte Abgeordnete setze man nicht mit einem Fingerschnippen vor die Tür. Wir leben in einem Rechtsstaat.",
+      "big": "RECHTSSTAAT",
+      "label": "Pantisano bittet um Geduld"
+    }
+  ],
+  "loop_line": "Doch wie lange hält die Linke diesen Streit noch aus?",
+  "headline": "Linke-Chef verteidigt Emde-Verfahren",
+  "highlight": [
+    "Emde"
+  ],
+  "entities": [
+    "Luigi Pantisano",
+    "Vanessa Emde",
+    "Die Linke",
+    "Abgeordnetenhaus Berlin"
+  ],
+  "youtube_title": "Emde-Streit: Linke-Chef bittet um Geduld – wie lange noch?",
+  "description_lead": "Linke-Chef Luigi Pantisano verteidigt das langwierige Verfahren gegen die umstrittene Berliner Abgeordnete Vanessa Emde: Deutschland sei kein autoritäres Regime, das gewählte Abgeordnete per Fingerschnippen vor die Tür setzt. Emde könnte bald zwangsweise aus der Linksfraktion ausgeschlossen werden.",
+  "tags": [
+    "Vanessa Emde",
+    "Luigi Pantisano",
+    "Die Linke",
+    "Linke Berlin",
+    "Linksfraktion",
+    "Abgeordnetenhaus Berlin",
+    "Berlin",
+    "Fraktionsausschluss",
+    "Rechtsstaat",
+    "Israel",
+    "Parteistreit",
+    "Landespolitik",
+    "nachrichten",
+    "nachrichten aktuell"
+  ],
+  "hashtags": [
+    "#linke",
+    "#emde",
+    "#politik"
+  ],
+  "facebook_caption_line1": "„Kein Fingerschnippen“: Linke-Chef Pantisano verteidigt langes Verfahren gegen Vanessa Emde",
+  "facebook_question": "Wie sollte eine Partei mit umstrittenen Positionen eigener Abgeordneter umgehen?",
+  "comment_question": "Dauert das Verfahren gegen Emde zu lange – ja oder nein?"
+}
