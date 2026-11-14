@@ -6,7 +6,7 @@
 # (tagesschau, ZDF, BILD, WELT …) – YouTube treats that as misleading metadata.
 # Update this file whenever the owner sends a new list.
 
-updated: "2026-11-14"
+updated: "2026-11-15"
 
 # always useful for a German news Short (added as tags, max 4)
 evergreen: ["nachrichten", "nachrichten heute", "aktuelle nachrichten", "deutschland", "politik", "news", "aktuell", "kurznachrichten"]
@@ -59,9 +59,36 @@ clusters:
     keywords: ["wetter", "wetter deutschland", "unwetter"]
     generic: ["wetter", "wetter deutschland"]
 
+  austria_inflation:
+    triggers: ["inflation", "teuerung", "statistik austria", "preise"]
+    keywords: ["inflation österreich", "teuerung österreich", "statistik austria", "energiepreise"]
+    generic: ["inflation", "inflation aktuell"]
+  strike:
+    triggers: ["streik", "warnstreik", "ig metall", "verdi", "tarif"]
+    keywords: ["ig metall streik", "verdi streik", "warnstreik", "tarifrunde"]
+    generic: ["streik", "streik heute", "streik deutschland"]
+  borders:
+    triggers: ["grenzkontroll", "schengen", "entry-exit", "ees", "einreise", "grenze"]
+    keywords: ["grenzkontrollen", "schengen", "ees einreise", "einreise eu"]
+    generic: ["eu grenzen", "reisen"]
+  climate:
+    triggers: ["klima", "cop31", "cop 31", "klimaziel", "klimaschutz"]
+    keywords: ["klimaziele 2040", "cop31", "klimaschutzgesetz", "klimastreit österreich"]
+    generic: ["klimaschutz", "klima"]
+  swiss_banks:
+    triggers: ["schweizer bank", "ubs", "snb", "nationalbank", "finma", "paradeplatz"]
+    keywords: ["ubs", "snb", "finma", "schweizer nationalbank"]
+    generic: ["schweizer banken", "schweiz"]
+  mountain_rescue:
+    triggers: ["bergrettung", "rega", "lawine", "bergunfall"]
+    keywords: ["rega", "lawine"]
+    generic: ["bergrettung", "schweiz"]
+
 # trending right now – stories matching these get a ranking boost; ignored after `expires`
 trending:
-  expires: "2026-11-17"
+  expires: "2026-11-18"
   terms: ["fall fabian", "fabian", "gina h", "starship", "spacex", "microsoft", "nvidia", "jensen huang", "gta 6",
           "selenskyj", "putin", "friedensverhandlungen", "merz", "klingbeil", "afd", "trump", "arda güler",
-          "dortmund", "kriminalfall", "mordprozess"]
+          "dortmund", "kriminalfall", "mordprozess",
+          "inflation österreich", "teuerung", "warnstreik", "ig metall", "streik", "grenzkontrollen", "schengen",
+          "klimaziele", "cop31", "schweizer banken", "ubs", "bergrettung"]

@@ -35,3 +35,12 @@ FREEZE bis Audit 15. Nov gilt weiter: Brief = Themenwahl-Hilfe, keine Format-/Sl
 ## Leitplanken
 Ausgelassen: „Merz fassungslos wegen Rücktritt“ (Streetvoices, 6 s, unbelegt), „Migration Skandal“/„Mehr Zuwanderung…“/„Stadtbild“/Trauerwache (Herkunfts-Zuspitzung),
 Rente-„Geheimtrick“-Clickbait, Satire-/Meme-Clips. Politik neutral.
+
+## 15 Nov 2026 – owner topic list for tomorrow (verified 14 Nov, use ONLY if there is a fresh, ≥2-outlet story)
+- REAL and current: Inflation Österreich (Oktober 3,6 % laut Schnellschätzung, Energie +16,5 %; vorläufige Oktober-Zahlen kommen am 18.11.) ·
+  IG-Metall-Warnstreiks in der Metall-Tarifrunde (seit 1.11., über 400.000 Beschäftigte) · Schengen-Grenzkontrollen
+  (DK/NO/SE verlängert bis 11.05.2027; EES-System) · Klimastreit Österreich / COP31 in Antalya (9.–20.11.) · Schweizer Banken
+  (verwaltete Vermögen Rekord 9.729 Mrd. CHF für 2025 – nur mit neuem Anlass).
+- NOT news / not verified: "Swiss Mountain Rescue record day", "Queen of the Universe", viral compilations, falling-box challenge,
+  AK AusserKontrolle release (only a tour for April 2027 is announced) – do not make videos about these.
+- Keywords for these topics are in config/keywords.yaml (clusters austria_inflation, strike, borders, climate, swiss_banks).
