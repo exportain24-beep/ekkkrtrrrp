@@ -1,0 +1,26 @@
+{
+  "format": "single",
+  "candidate_id": 4,
+  "pillar": "TECHNOLOGIE",
+  "region": "INT",
+  "kicker": "STARLINK",
+  "hook_screen": "MUSK UNTER DRUCK!",
+  "hook_voice": "Musk unter Druck: Ukraines Starlink wird wieder gedrosselt.",
+  "beats": [
+    {"voice": "Seit Freitag wird Starlink in der Ukraine erneut ausgebremst. Die Geschwindigkeit des Satelliten-Internets ist wieder eingeschränkt.", "big": "GEDROSSELT", "label": "Starlink in der Ukraine seit Freitag"},
+    {"voice": "Das trifft die Verteidigung: Die Ukraine braucht Elon Musks Netz unter anderem zur Drohnenabwehr.", "big": "DROHNEN", "label": "Starlink hilft bei der Drohnenabwehr"},
+    {"voice": "Jetzt greifen Senatoren der US-Demokraten ein. Sie fordern Musk auf, sämtliche Unterlagen zu den Einschränkungen zu sichern.", "big": "ALLE AKTEN", "label": "Senatoren: Musk soll Unterlagen sichern"},
+    {"voice": "Damit bereiten die Demokraten eine Untersuchung vor.", "big": "UNTERSUCHUNG", "label": "Demokraten wollen den Fall aufklären"}
+  ],
+  "loop_line": "Offen bleibt: Wer bremst das Netz der Ukraine – und warum?",
+  "headline": "Musk unter Druck wegen Starlink",
+  "highlight": ["Starlink"],
+  "entities": ["Elon Musk", "Starlink", "Ukraine", "US-Senat"],
+  "youtube_title": "Musk unter Druck: Wer bremst Starlink in der Ukraine aus?",
+  "description_lead": "Starlink, das Satelliten-Internet von Elon Musk, ist in der Ukraine seit Freitag erneut gedrosselt – dabei braucht das Land den Dienst unter anderem zur Drohnenabwehr. Demokratische US-Senatoren fordern Musk auf, sämtliche Unterlagen zu den Einschränkungen zu sichern, und bereiten eine Untersuchung vor.",
+  "tags": ["Elon Musk", "Starlink", "Ukraine", "US-Senat", "Demokraten", "SpaceX", "Satelliten-Internet", "Drohnenabwehr", "Ukraine-Krieg", "Starlink Ukraine", "Musk Untersuchung", "Internet-Drosselung", "Nachrichten aktuell"],
+  "hashtags": ["#musk", "#starlink", "#ukraine"],
+  "facebook_caption_line1": "Starlink in der Ukraine wieder gedrosselt – US-Senatoren verlangen von Elon Musk alle Unterlagen.",
+  "facebook_question": "Darf ein einzelner Unternehmer so viel Einfluss auf die Verteidigung eines Landes haben?",
+  "comment_question": "Sollte Musk alle Starlink-Unterlagen offenlegen – ja oder nein?"
+}
