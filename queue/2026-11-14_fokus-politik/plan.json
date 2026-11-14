@@ -1,0 +1,26 @@
+{
+  "format": "single",
+  "candidate_id": 4,
+  "pillar": "POLITIK",
+  "region": "DE",
+  "kicker": "BERLIN",
+  "hook_screen": "WELTMEISTER FÜR AFD!",
+  "hook_voice": "Weltmeister Berthold soll für die AfD Bundespräsident werden.",
+  "beats": [
+    {"voice": "Die AfD hat Thomas Berthold zu ihrem Kandidaten ernannt. Er soll Frank-Walter Steinmeier im Schloss Bellevue nachfolgen.", "big": "BELLEVUE", "label": "AfD-Kandidat für das höchste Staatsamt"},
+    {"voice": "Berthold holte neunzehnhundertneunzig mit der Nationalelf den WM-Titel. In der Corona-Pandemie fiel er als Querdenker auf.", "big": "WM 1990", "label": "vom Weltmeister zum Querdenker"},
+    {"voice": "Genau diese Rolle in der Pandemie ist laut Handelsblatt ein Grund, warum die AfD auf ihn setzt.", "big": "QUERDENKER", "label": "Corona-Rolle als Grund für die Wahl"},
+    {"voice": "Der Zweiundsechzigjährige hat kein Parteibuch. Die AfD nennt ihn deshalb einen Präsidenten für alle Deutschen.", "big": "62", "label": "Jahre alt – ohne Parteibuch"}
+  ],
+  "loop_line": "Fußballheld oder Querdenker – was bleibt von Berthold im Kopf?",
+  "headline": "AfD schickt Berthold ins Rennen",
+  "highlight": ["Berthold"],
+  "entities": ["Thomas Berthold", "AfD", "Schloss Bellevue", "Frank-Walter Steinmeier"],
+  "youtube_title": "Weltmeister Berthold: Querdenker als AfD-Bundespräsident?",
+  "description_lead": "Die AfD hat den Fußball-Weltmeister von 1990, Thomas Berthold, zu ihrem Kandidaten für das Amt des Bundespräsidenten ernannt – als Nachfolger von Frank-Walter Steinmeier. Der 62-Jährige ohne Parteibuch fiel während der Corona-Pandemie als Querdenker auf.",
+  "tags": ["Thomas Berthold", "AfD", "Bundespräsident", "Bundespräsidentenwahl", "Frank-Walter Steinmeier", "Schloss Bellevue", "Weltmeister 1990", "Nationalmannschaft", "Querdenker", "Corona", "Steinmeier-Nachfolge", "Bundesversammlung", "Politik Deutschland", "Nachrichten aktuell"],
+  "hashtags": ["#afd", "#bundespräsident", "#politik"],
+  "facebook_caption_line1": "Vom WM-Helden 1990 ins Schloss Bellevue? Die AfD schickt Thomas Berthold ins Rennen ums höchste Staatsamt.",
+  "facebook_question": "Ein Fußball-Weltmeister als Bundespräsident – passt das ins Amt?",
+  "comment_question": "Ist Berthold ein geeigneter Kandidat – ja oder nein?"
+}
