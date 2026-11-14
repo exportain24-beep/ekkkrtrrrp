@@ -1,0 +1,25 @@
+{
+  "format": "single",
+  "candidate_id": 6,
+  "pillar": "WELT",
+  "region": "EU",
+  "kicker": "UNGARN",
+  "hook_screen": "17 MILLIONEN VERGRABEN!",
+  "hook_voice": "Orbáns Ex-Minister: Ermittler finden siebzehn Millionen Euro Bargeld.",
+  "beats": [
+    {"voice": "Das Geld lag vergraben in Wäldern, versteckt in Scheunen und Lagerhallen. Die Ermittler zählten es stundenlang.", "big": "17,7 MIO. €", "label": "Bargeld – vergraben und versteckt"},
+    {"voice": "Im Visier steht Seszták, früher Entwicklungsminister in Ungarn. Die Antikorruptionsbehörde ermittelt gegen ihn.", "big": "SESZTÁK", "label": "Ex-Entwicklungsminister Ungarns"},
+    {"voice": "Seszták gehörte zur Regierung von Viktor Orbán. Nach dessen Ära gehen die Behörden jetzt gegen mutmaßliche Korruption vor.", "big": "ORBÁN-ÄRA", "label": "Ermittlungen gegen die alte Regierung"}
+  ],
+  "loop_line": "Mehr als siebzehn Millionen in bar – woher stammt dieses Geld?",
+  "headline": "Millionen bei Orbáns Ex-Minister",
+  "highlight": ["Millionen"],
+  "entities": ["Viktor Orbán", "Ungarn", "Budapest"],
+  "youtube_title": "Orbáns Ex-Minister: 17 Millionen im Wald vergraben – woher?",
+  "description_lead": "In Ungarn haben Korruptionsermittler beim früheren Entwicklungsminister Seszták aus der Regierung von Viktor Orbán mehr als 17 Millionen Euro Bargeld gefunden. Das Geld war in Wäldern vergraben und in Scheunen und Lagerhallen versteckt.",
+  "tags": ["Viktor Orbán", "Seszták", "Ungarn", "Budapest", "Fidesz", "Korruption", "Korruptionsermittlungen", "Bargeld", "Antikorruptionsbehörde", "Orbán-Regierung", "Ex-Minister", "Europa", "Nachrichten aktuell"],
+  "hashtags": ["#ungarn", "#orbán", "#korruption"],
+  "facebook_caption_line1": "Vergraben im Wald, versteckt in Scheunen: Über 17 Millionen Euro Bargeld bei Orbáns Ex-Minister gefunden.",
+  "facebook_question": "Kommt jetzt die ganze Wahrheit über die Orbán-Jahre ans Licht?",
+  "comment_question": "Klärt Ungarn die Orbán-Jahre jetzt wirklich auf – ja oder nein?"
+}
