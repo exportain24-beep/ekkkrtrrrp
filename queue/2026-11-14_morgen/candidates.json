@@ -1,0 +1,1793 @@
+{
+ "slot": {
+  "id": "morgen",
+  "time": "07:00",
+  "badge": "MORGEN-BRIEFING",
+  "label": "am Morgen",
+  "focus": "Nur Tie-Breaker – immer zuerst die populärsten, meistberichteten Nachrichten. Bei Gleichstand bevorzugt: Wichtigste Nachrichten der Nacht und des Morgens: internationale Eilmeldungen der Nacht und die größte politische Schlagzeile in Deutschland.",
+  "pillars": [
+   "POLITIK",
+   "WELT",
+   "WIRTSCHAFT",
+   "TECHNOLOGIE"
+  ],
+  "notify_subscribers": true
+ },
+ "slot_time": "2026-11-14T07:00:00+01:00",
+ "date_text": "Samstag, 14. November 2026",
+ "already_published": [
+  "Putin empfängt Trumps Unterhändler",
+  "VW stoppt Projekt Gamechanger",
+  "Ökonomen heben Wachstumsprognose an",
+  "Weißes Haus droht den Demokraten",
+  "Blatter nennt Infantino Diktator",
+  "Iran droht US-Stützpunkten in Europa",
+  "IG Metall droht mit Ganztags-Streiks",
+  "Dax knackt erstmals 27.000 Punkte",
+  "Gericht: Grenzkontrollen rechtswidrig",
+  "Stromsteuer-Senkung vorerst gescheitert",
+  "Mercedes stoppt Investitionen",
+  "Bundeswehr stoppt Drohnen nach Hack",
+  "Putin lässt Europa an den Tisch",
+  "Microsoft: Outlook und Teams gestört",
+  "VW verdient nur zwölf Euro pro Auto",
+  "Rekordhaushalt: 560 Milliarden Euro",
+  "BND soll im Ausland sabotieren",
+  "Russland droht WM-Gastgeber Deutschland",
+  "Auto von Julian Reichelt angezündet",
+  "BVB beendet Rheinmetall-Deal",
+  "Merz will an den Ukraine-Tisch",
+  "Klopp beendet Nmechas Kronen-Jubel",
+  "DHL erhöht die Paketpreise",
+  "USA stoppen alle Flüge"
+ ],
+ "candidates": [
+  {
+   "id": 0,
+   "score": 18.46,
+   "outlets": [
+    "tagesschau",
+    "ZDFheute",
+    "SPIEGEL",
+    "ZEIT ONLINE",
+    "DER STANDARD",
+    "tagesschau.de"
+   ],
+   "regions": [
+    "AT",
+    "DE",
+    "INT"
+   ],
+   "trend": [
+    "tanker",
+    "'Miracle on the Mississippi' - All passengers accounted for after tanker crashes into cruise ship in New Orleans",
+    "Tanker “lost control” before colliding with river cruise ship near Port of New Orleans, mayor says"
+   ],
+   "newest": "2026-11-14T03:40:30+00:00",
+   "articles": [
+    {
+     "source": "tagesschau",
+     "region": "DE",
+     "weight": 1.0,
+     "title": "US-Flusskreuzfahrtschiff kentert nach Zusammenprall in New Orleans",
+     "summary": "Das Flusskreuzfahrtschiff \"American Heritage\" ist im Hafen der US-Stadt New Orleans gekentert. Zuvor war es von einem Tanker gerammt worden. An Bord des Schiffes befanden sich mehr als 130 Menschen. Vermisst wird niemand.",
+     "link": "https://www.tagesschau.de/ausland/kreuzfahrtschiff-unfall-new-orleans-100.html",
+     "image": "https://images.tagesschau.de/image/70311613-6efe-4411-b26f-9638163067eb/AAABodbHq9A/AAABnSSvrFg/16x9-big/new-orleans-kreuzfahrtschiff-100.jpg?width=1920",
+     "aggregator": false,
+     "published": "2026-11-14T00:51:37+00:00"
+    },
+    {
+     "source": "tagesschau Ausland",
+     "region": "INT",
+     "weight": 1.0,
+     "title": "US-Flusskreuzfahrtschiff kentert nach Zusammenprall in New Orleans",
+     "summary": "Das Flusskreuzfahrtschiff \"American Heritage\" ist im Hafen der US-Stadt New Orleans gekentert. Zuvor war es von einem Tanker gerammt worden. An Bord des Schiffes befanden sich mehr als 130 Menschen. Vermisst wird niemand.",
+     "link": "https://www.tagesschau.de/ausland/kreuzfahrtschiff-unfall-new-orleans-100.html",
+     "image": "https://images.tagesschau.de/image/70311613-6efe-4411-b26f-9638163067eb/AAABodbHq9A/AAABnSSvrFg/16x9-big/new-orleans-kreuzfahrtschiff-100.jpg?width=1920",
+     "aggregator": false,
+     "published": "2026-11-14T00:51:37+00:00"
+    },
+    {
+     "source": "ZDFheute",
+     "region": "DE",
+     "weight": 1.0,
+     "title": "Frachter rammt Kreuzfahrtschiff",
+     "summary": "In New Orleans ist ein Frachter mit einem Kreuzfahrtschiff zusammengestoßen. Das Schiff kippte. An Bord der \"American Heritage\" befanden sich rund 130 Passagiere.",
+     "link": "https://www.zdfheute.de/video/panorama-kreuzfahrtschiff-tanker-video-100.html",
+     "image": "https://www.zdfheute.de/assets/kreuzfahrtschiff-new-orleans-100~384x216?cb=1794608863434",
+     "aggregator": false,
+     "published": "2026-11-13T22:27:00+00:00"
+    },
+    {
+     "source": "SPIEGEL",
+     "region": "DE",
+     "weight": 0.9,
+     "title": "New Orleans: Tanker kollidiert mit Raddampfer – Passagiere und Crew in Sicherheit",
+     "summary": "Nahe dem Hafen der US-Stadt New Orleans ist ein Tanker mit einem Schaufelradschiff zusammengestoßen. An Bord des Ausflugsschiffes befanden sich mehr als 130 Menschen. Offenbar wurden alle gerettet.",
+     "link": "https://www.spiegel.de/panorama/new-orleans-tanker-kollidiert-mit-raddampfer-a-7844e9e3-d317-4187-89dd-ab7505518264#ref=rss",
+     "image": "https://cdn.prod.www.spiegel.de/images/fdafc3b4-c0c0-4f98-b962-4bd93e946b28_w520_r2.08_fpx26_fpy39.jpg",
+     "aggregator": false,
+     "published": "2026-11-13T20:40:00+00:00"
+    },
+    {
+     "source": "ZEIT ONLINE",
+     "region": "DE",
+     "weight": 0.9,
+     "title": "Kreuzfahrtschiff gekentert: «Ein Wunder»: Keine Toten nach Schiffsunglück in New Orleans",
+     "summary": "",
+     "link": "https://www.zeit.de/news/2026-11/14/keine-vermissten-nach-schiffsunglueck-in-new-orleans",
+     "image": "https://img.zeit.de/news/2026-11/14/keine-vermissten-nach-schiffsunglueck-in-new-orleans-image-group/original__640x360",
+     "aggregator": false,
+     "published": "2026-11-14T03:40:30+00:00"
+    },
+    {
+     "source": "DER STANDARD",
+     "region": "AT",
+     "weight": 0.85,
+     "title": "Tanker bei New Orleans mit Passagierschiff kollidiert",
+     "summary": "Bisher liegen keine Berichte über Verletzte vor",
+     "link": "https://www.derstandard.at/story/3000000349207/tanker-bei-new-orleans-mit-passagierschiff-kollidiert?ref=rss",
+     "image": "https://i.ds.at/OZpQ6A/rs:fill:150:0/plain/lido-images/2026/11/13/f3bffc74-9469-443e-9796-d0d396e2103d.jpg",
+     "aggregator": false,
+     "published": "2026-11-13T21:36:52+00:00"
+    },
+    {
+     "source": "tagesschau.de",
+     "region": "DE",
+     "weight": 0.6,
+     "title": "US-Flusskreuzfahrtschiff kentert nach Zusammenprall in New Orleans",
+     "summary": "US-Flusskreuzfahrtschiff kentert nach Zusammenprall in New Orleans tagesschau.de „Ein Wunder“: Keine Toten nach Schiffsunglück in New Orleans SZ.de „Es war wie auf der Titanic“ BILD USA: Tanker und Flusskreuzfahrtschiff kollidieren in New Orleans DIE ZEIT „Wie bei der Titanic“ – Kreuzfahrtschiff mit 130 Passagieren kollidiert mit Tanker – Keine Toten WELT",
+     "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNQ0JnOXJ2b204c2hjcTNFTFZQSnRYMW5JbWQ5NWJXcFhkcE1zT2RtTjBlZHFfeGZSMWRsazU4Y28tWWRIdlktcEJKbnNLNmNrcWNEQ0Y4dEh6Q0I1LW5NQmJkbVM0QzFxQnRYR0pmeHdtNFRMY0JNNkoxc2gwM3dveUVDZ20?oc=5",
+     "image": null,
+     "aggregator": true,
+     "published": "2026-11-14T00:51:00+00:00"
+    }
+   ]
+  },
+  {
+   "id": 1,
+   "score": 16.47,
+   "outlets": [
+    "ZDFheute",
+    "Deutschlandfunk",
+    "ORF",
+    "NZZ",
+    "n-tv"
+   ],
+   "regions": [
+    "AT",
+    "CH",
+    "DE"
+   ],
+   "trend": [
+    "'Miracle on the Mississippi' - All passengers accounted for after tanker crashes into cruise ship in New Orleans",
+    "Tanker “lost control” before colliding with river cruise ship near Port of New Orleans, mayor says"
+   ],
+   "newest": "2026-11-14T04:18:52+00:00",
+   "articles": [
+    {
+     "source": "ZDFheute",
+     "region": "DE",
+     "weight": 1.0,
+     "title": "New Orleans: Alle Menschen nach Schiffsunglück in Sicherheit",
+     "summary": "Auf dem Mississippi ist ein Flusskreuzfahrtschiff teilweise gesunken, doch alle Menschen an Bord konnten gerettet werden. Behörden sprechen von einem \"Wunder\".",
+     "link": "https://www.zdfheute.de/panorama/unfall-frachter-kreuzfahrtschiff-new-orleans-100.html",
+     "image": "https://www.zdfheute.de/assets/unfall-frachter-new-orleans-100~384x216?cb=1794603232479",
+     "aggregator": false,
+     "published": "2026-11-14T04:08:00+00:00"
+    },
+    {
+     "source": "Deutschlandfunk",
+     "region": "DE",
+     "weight": 0.95,
+     "title": "USA - Frachter rammt Flusskreuzfahrtschiff in New Orleans - 30 Passagiere im Krankenhaus",
+     "summary": "In New Orleans im US-Bundesstaat Louisiana ist es zu einem Schiffsunglück gekommen.",
+     "link": "https://www.deutschlandfunk.de/frachter-rammt-flusskreuzfahrtschiff-in-new-orleans-30-passagiere-im-krankenhaus-102.html",
+     "image": "https://bilder.deutschlandfunk.de/e1/06/7d/e2/e1067de2-6230-41ae-943b-92085b1ff504/die-nachrichten-kachel-2176-zu1224-100-768x768.jpg",
+     "aggregator": false,
+     "published": "2026-11-14T04:18:52+00:00"
+    },
+    {
+     "source": "ORF",
+     "region": "AT",
+     "weight": 0.95,
+     "title": "Keine Vermissten nach Schiffsunglück in New Orleans",
+     "summary": "",
+     "link": "https://orf.at/stories/3448130/",
+     "image": null,
+     "aggregator": false,
+     "published": "2026-11-13T20:54:19+00:00"
+    },
+    {
+     "source": "NZZ",
+     "region": "CH",
+     "weight": 0.9,
+     "title": "Tankschiff rammt Kreuzfahrtschiff auf dem Mississippi in New Orleans",
+     "summary": "Ein Tanker ist am Freitag auf dem Mississippi mit einem vertäuten Flusskreuzfahrtschiff kollidiert. TV-Aufnahmen zeigten Passagiere in Rettungswesten im Wasser, 32 Personen wurden leicht verletzt.",
+     "link": "https://www.nzz.ch/panorama/tankschiff-rammt-kreuzfahrtschiff-auf-dem-mississippi-in-new-orleans-ld.10063636",
+     "image": "https://img-msp-prod.nzz.ch/2026/11/13/95dcad35-3a44-4ec8-af43-b3eed1559e78.jpg?width=200&height=200&fit=bounds&quality=75&auto=webp&crop=857,857,x214,y0",
+     "aggregator": false,
+     "published": "2026-11-14T03:39:03+00:00"
+    },
+    {
+     "source": "n-tv",
+     "region": "DE",
+     "weight": 0.8,
+     "title": "Kollision auf dem Mississippi: Keine Vermissten nach Schiffsunglück in New Orleans",
+     "summary": "Auf dem Mississippi rammt ein Tanker ein angedocktes Schaufelradschiff, das daraufhin kentert. Mehrere Menschen gehen über Bord, ob noch Passagiere eingeschlossen sind, ist zunächst unklar. Jetzt gibt es eine erste Entwarnung.",
+     "link": "https://www.n-tv.de/panorama/Keine-Vermissten-nach-Schiffsunglueck-in-New-Orleans-id31533166.html",
+     "image": "https://www.n-tv.de/img/31533175/1794617121/Img_4_3/250/image.jpg",
+     "aggregator": false,
+     "published": "2026-11-13T23:48:57+00:00"
+    }
+   ]
+  },
+  {
+   "id": 2,
+   "score": 15.68,
+   "outlets": [
+    "tagesschau",
+    "Deutsche Welle",
+    "SRF News",
+    "Handelsblatt",
+    "WirtschaftsWoche",
+    "heise online",
+    "n-tv",
+    "Golem"
+   ],
+   "regions": [
+    "CH",
+    "DE",
+    "INT"
+   ],
+   "trend": [],
+   "newest": "2026-11-13T21:07:45+00:00",
+   "articles": [
+    {
+     "source": "tagesschau",
+     "region": "DE",
+     "weight": 1.0,
+     "title": "Weltweiter Ausfall bei Diensten von Microsoft - auch Outlook und Teams betroffen",
+     "summary": "Weltweiter Ausfall bei Diensten von Microsoft - auch Outlook und Teams betroffen",
+     "link": "https://www.tagesschau.de/tagesthemen/video-1683532.html",
+     "image": "https://images.tagesschau.de/image/17fe5cdc-51ad-4210-bb77-4bb01b5ae70d/AAABoda73cA/AAABnSSvrFg/16x9-big/sendungsbild-1827230.jpg?width=1920",
+     "aggregator": false,
+     "published": "2026-11-13T21:07:45+00:00"
+    },
+    {
+     "source": "tagesschau",
+     "region": "DE",
+     "weight": 1.0,
+     "title": "Was über den Ausfall von Microsoft-Diensten bekannt ist",
+     "summary": "Eine stundenlange Großstörung hat weltweit Dienste des US-Softwarekonzerns Microsoft lahmgelegt, unter anderem das E-Mail-Programm Outlook. Wen es getroffen hat und welche Hintergründe vermutet werden - ein Überblick.",
+     "link": "https://www.tagesschau.de/wirtschaft/unternehmen/faq-ausfall-microsoft-dienste-weltweit-100.html",
+     "image": "https://images.tagesschau.de/image/cf43b90e-dedd-4716-a8b6-a8f22d964037/AAABoYa7d7o/AAABnSSvrFg/16x9-big/microsoft-196.jpg?width=1920",
+     "aggregator": false,
+     "published": "2026-11-13T20:22:33+00:00"
+    },
+    {
+     "source": "tagesschau Wirtschaft",
+     "region": "DE",
+     "weight": 1.0,
+     "title": "Was über den Ausfall von Microsoft-Diensten bekannt ist",
+     "summary": "Eine stundenlange Großstörung hat weltweit Dienste des US-Softwarekonzerns Microsoft lahmgelegt, unter anderem das E-Mail-Programm Outlook. Wen es getroffen hat und welche Hintergründe vermutet werden - ein Überblick.",
+     "link": "https://www.tagesschau.de/wirtschaft/unternehmen/faq-ausfall-microsoft-dienste-weltweit-100.html",
+     "image": "https://images.tagesschau.de/image/cf43b90e-dedd-4716-a8b6-a8f22d964037/AAABoYa7d7o/AAABnSSvrFg/16x9-big/microsoft-196.jpg?width=1920",
+     "aggregator": false,
+     "published": "2026-11-13T20:22:33+00:00"
+    },
+    {
+     "source": "Deutsche Welle",
+     "region": "INT",
+     "weight": 0.95,
+     "title": "Microsoft sieht nach Panne keinen Hinweis auf Cyber-Angriff",
+     "summary": "Ein Ausfall von Diensten des US-Techkonzerns Microsoft hat weltweit für Störungen bei Firmen und privaten Anwendern gesorgt. Der Konzern findet bislang keine Anzeichen für eine Cyberattacke.",
+     "link": "https://www.dw.com/de/microsoft-sieht-nach-panne-keinen-hinweis-auf-cyber-angriff/a-79940856?maca=de-rss-de-all-1119-xml-mrss",
+     "image": "https://static.dw.com/image/79937613_302.jpg",
+     "aggregator": false,
+     "published": "2026-11-13T14:26:00+00:00"
+    },
+    {
+     "source": "SRF News",
+     "region": "CH",
+     "weight": 0.95,
+     "title": "Ausfälle bei Software-Riesen – Microsoft-Dienste laufen stabiler – Problembehebung dauert an",
+     "summary": "Betroffen ist der Dienst Microsoft 365 – also Outlook, Teams oder Copilot. Wir halten sie im Ticker auf dem Laufenden.",
+     "link": "https://www.srf.ch/news/wirtschaft/ausfaelle-bei-software-riesen-microsoft-dienste-laufen-stabiler-problembehebung-dauert-an",
+     "image": "https://www.srf.ch/static/cms/images//320ws/c34684.webp",
+     "aggregator": false,
+     "published": "2026-11-13T20:27:48+00:00"
+    },
+    {
+     "source": "SRF News",
+     "region": "CH",
+     "weight": 0.95,
+     "title": "Störung bei Outlook und Teams – Das ist über den weltweiten Microsoft-Ausfall bekannt",
+     "summary": "Störungsmeldungen kommen aus 74 Ländern. Was bisher zur Ursache bekannt ist und wie weit die Störung reicht.",
+     "link": "https://www.srf.ch/news/wirtschaft/stoerung-bei-outlook-und-teams-das-ist-ueber-den-weltweiten-microsoft-ausfall-bekannt",
+     "image": "https://www.srf.ch/static/cms/images//320ws/041048.webp",
+     "aggregator": false,
+     "published": "2026-11-13T10:22:45+00:00"
+    },
+    {
+     "source": "SRF News",
+     "region": "CH",
+     "weight": 0.95,
+     "title": "Software-Riese Microsoft – Ausfall bei Microsoft dauert an – kein Anzeichen für Cyberangriff",
+     "summary": "Betroffen ist der Cloud-Dienst Microsoft 365 – dazu gehören unter anderem Outlook, Teams oder der KI-Assistent Copilot.",
+     "link": "https://www.srf.ch/news/wirtschaft/software-riese-microsoft-ausfall-bei-microsoft-dauert-an-kein-anzeichen-fuer-cyberangriff",
+     "image": "https://www.srf.ch/static/cms/images//320ws/e87ada.webp",
+     "aggregator": false,
+     "published": "2026-11-13T08:14:56+00:00"
+    },
+    {
+     "source": "Handelsblatt",
+     "region": "DE",
+     "weight": 0.9,
+     "title": "Cloud-Probleme: Langer Ausfall bei Microsoft löst gravierende Störungen aus",
+     "summary": "Unternehmen und Verbraucher müssen weltweit wegen einer Großstörung bei Microsoft massive Einschränkungen hinnehmen. Nach vielen Stunden kommen die Dienste wieder ins Laufen.",
+     "link": "https://www.handelsblatt.com/technik/it-internet/cloud-probleme-langer-ausfall-bei-microsoft-loest-gravierende-stoerungen-aus/100269542.html",
+     "image": "https://images.handelsblatt.com/byph4d3wTYgq/cover/900/506/0/0/125/125/0.5/0.5/microsoft-stoerung.jpg",
+     "aggregator": false,
+     "published": "2026-11-13T20:27:22+00:00"
+    }
+   ]
+  },
+  {
+   "id": 3,
+   "score": 12.9,
+   "outlets": [
+    "SRF News",
+    "WELT",
+    "n-tv"
+   ],
+   "regions": [
+    "CH",
+    "DE"
+   ],
+   "trend": [
+    "tanker",
+    "'Miracle on the Mississippi' - All passengers accounted for after tanker crashes into cruise ship in New Orleans",
+    "Miracle on the Mississippi: All accounted for after tanker collides with cruise ship"
+   ],
+   "newest": "2026-11-14T01:23:00+00:00",
+   "articles": [
+    {
+     "source": "SRF News",
+     "region": "CH",
+     "weight": 0.95,
+     "title": "Nähe von New Orleans – USA: Tanker rammt Ausflugsschiff auf Mississippi",
+     "summary": "Ein Tanker ist auf dem Mississippi mit einem Passagierschiff kollidiert. 32 Menschen werden im Spital behandelt.",
+     "link": "https://www.srf.ch/news/international/naehe-von-new-orleans-usa-tanker-rammt-ausflugsschiff-auf-mississippi",
+     "image": "https://www.srf.ch/static/cms/images//320ws/91fbdb.webp",
+     "aggregator": false,
+     "published": "2026-11-14T00:39:23+00:00"
+    },
+    {
+     "source": "WELT",
+     "region": "DE",
+     "weight": 0.8,
+     "title": "„Wie bei der Titanic“ – Kreuzfahrtschiff mit 130 Passagieren kollidiert mit Tanker – Keine Toten",
+     "summary": "Bei New Orleans rammt ein Frachter ein Kreuzfahrtschiff mit über 130 Menschen an Bord. Mehrere stürzten ins Wasser. Es gibt 32 Verletzte, niemand wird vermisst. Eine Passagierin spricht von „Titanic“-Szenen.",
+     "link": "https://www.welt.de/vermischtes/article6af7770c7f8bbad09ea62d88/new-orleans-wie-bei-der-titanic-kreuzfahrtschiff-mit-130-passagieren-kollidiert-mit-tanker-keine-toten.html",
+     "image": "https://images.welt.de/6af7770c7f8bbad09ea62d88/9451a6f2ea8219eae1838028f9a47f7b-master/ci23x11-w1200/apdpa-eca73d03325b450a90d22a895d8016db-jpg",
+     "aggregator": false,
+     "published": "2026-11-14T01:23:00+00:00"
+    },
+    {
+     "source": "n-tv",
+     "region": "DE",
+     "weight": 0.8,
+     "title": "Unglück nahe New Orleans: US-Flusskreuzer kentert nach Kollision mit Frachter",
+     "summary": "Im Mississippi rammt ein Frachter einen Ausflugsdampfer. Durch die Kollision kentert der Flusskreuzer. Videoaufnahmen zeigen Menschen im Wasser.",
+     "link": "https://www.n-tv.de/panorama/US-Flusskreuzer-kentert-nach-Kollision-mit-Frachter-id31532858.html",
+     "image": "https://www.n-tv.de/img/31532865/1794606876/Img_4_3/250/Screenshot 2026-11-13 211541.jpg",
+     "aggregator": false,
+     "published": "2026-11-13T20:09:40+00:00"
+    }
+   ]
+  },
+  {
+   "id": 4,
+   "score": 12.0,
+   "outlets": [
+    "ZDFheute",
+    "Deutsche Welle",
+    "Handelsblatt",
+    "heise online",
+    "Golem",
+    "WELT"
+   ],
+   "regions": [
+    "DE",
+    "INT"
+   ],
+   "trend": [
+    "Bundestag beschließt Vorschriften gegen Entwaldung"
+   ],
+   "newest": "2026-11-13T16:06:00+00:00",
+   "articles": [
+    {
+     "source": "ZDFheute",
+     "region": "DE",
+     "weight": 1.0,
+     "title": "Bundestag beschließt große Geheimdienstreform",
+     "summary": "Der Bundestag hat deutlich erweiterte Befugnisse für die deutschen Nachrichtendienste beschlossen. BND und Verfassungsschutz dürfen künftig etwa mit eigenen Hacks zurückschlagen.",
+     "link": "https://www.zdfheute.de/politik/deutschland/nachrichtendienst-reform-bundestag-bnd-gesetz-100.html",
+     "image": "https://www.zdfheute.de/assets/zentrale-des-bundesnachrichtendienstes-in-berlin-100~384x216?cb=1794587692535",
+     "aggregator": false,
+     "published": "2026-11-13T13:40:00+00:00"
+    },
+    {
+     "source": "Deutsche Welle",
+     "region": "INT",
+     "weight": 0.95,
+     "title": "BND und Verfassungsschutz: Sind sie nach der Gesetzesreform \"echte Geheimdienste\" oder bleiben sie zahnlose Tiger?",
+     "summary": "Deutschlands Geheimdienste dürfen künftig mehr tun, als Informationen über Feinde im In- und Ausland zu sammeln. Ist das mit dem Grundgesetz vereinbar? Die Diskussion geht weiter.",
+     "link": "https://www.dw.com/de/bnd-und-verfassungsschutz-sind-sie-nach-der-gesetzesreform-echte-geheimdienste-oder-bleiben-sie-zahnlose-tiger/a-79936888?maca=de-rss-de-all-1119-xml-mrss",
+     "image": "https://static.dw.com/image/59507615_302.jpg",
+     "aggregator": false,
+     "published": "2026-11-13T16:06:00+00:00"
+    },
+    {
+     "source": "Handelsblatt",
+     "region": "DE",
+     "weight": 0.9,
+     "title": "Sicherheit: Bundestag beschließt Geheimdienstreform",
+     "summary": "Der Bundestag hat am Freitag eine weitreichende Reform deutscher Geheimdienste beschlossen. Das Bundesamt für Verfassungsschutz und der Bundesnachrichtendienst dürfen nun bei besonderen Gefahren aktiv und verdeckt gegen Angreifer vorgehen.",
+     "link": "https://www.handelsblatt.com/video/politik/sicherheit-bundestag-beschliesst-geheimdienstreform/100269768.html",
+     "image": null,
+     "aggregator": false,
+     "published": "2026-11-13T14:07:44+00:00"
+    },
+    {
+     "source": "heise online",
+     "region": "DE",
+     "weight": 0.85,
+     "title": "Lizenz zum Einbruch: Bundestag winkt umkämpfte Geheimdienstreform durch",
+     "summary": "Trotz Warnungen vor Grundrechtsbrüchen erhalten BND und Verfassungsschutz weitreichende Befugnisse für Wohnungseinbrüche, KI-Überwachung und Datenmanipulation.",
+     "link": "https://www.heise.de/news/Lizenz-zum-Einbruch-Bundestag-winkt-umkaempfte-Geheimdienstreform-durch-11524886.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
+     "image": null,
+     "aggregator": false,
+     "published": "2026-11-13T15:33:00+00:00"
+    },
+    {
+     "source": "Golem",
+     "region": "DE",
+     "weight": 0.75,
+     "title": "Reform: Bundestag beschließt mehr Befugnisse für Geheimdienste",
+     "summary": "Der Bundestag erweitert die Befugnisse von BND und Verfassungsschutz. Beide Dienste dürfen damit bei drohender Sabotage selbst eingreifen. ( Geheimdienste , Politik )",
+     "link": "https://www.golem.de/news/reform-bundestag-beschliesst-mehr-befugnisse-fuer-geheimdienste-2611-215190.html",
+     "image": "https://cpx.golem.de/cpx.php?class=17&amp;aid=215190&amp;page=1&amp;ts=1794577142",
+     "aggregator": false,
+     "published": "2026-11-13T13:39:02+00:00"
+    },
+    {
+     "source": "WELT",
+     "region": "DE",
+     "weight": 0.6,
+     "title": "Gesetzespaket: Bundestag beschließt „Jahrhundertreform“ für Geheimdienste",
+     "summary": "Gesetzespaket: Bundestag beschließt „Jahrhundertreform“ für Geheimdienste WELT Bundestag beschließt Reform: Mehr Befugnisse für die Nachrichtendienste tagesschau.de ARTE Journal ZDF Geheimdienstreform: Der Spion, der nicht nur liebt FAZ BND und Verfassungsschutz: CDU-Politiker verteidigt umstrittene neue Befugnisse WELT",
+     "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxQdWhyMGFrRDFfcWxiand5RGxIQW1ScHllY0NITDc4NVp3SENORWdRRXhVVzVKWUpaNjZ3T3N6OXNOUHJFaXlyNHZmRjlvRFplUkFabGpPdkhmNkUtbmNLZ2NxUGl2OTRLSVJVVDJhZDQ4ckdKTDZhc2JQUk9sM0FsSXc3OXVlOS0zYXRoeWppd29aTXVjcHZPYk96Qkk4NXd6WmRBenNTRU8yWXoxZFNmbGxFVkpCMUYwTzBpT3BuSXRtY2ZaVlVreml5V01WeEVfYWpVRF9zd0hrZ2RYaTNLYUk2dw?oc=5",
+     "image": null,
+     "aggregator": true,
+     "published": "2026-11-13T12:51:09+00:00"
+    }
+   ]
+  },
+  {
+   "id": 5,
+   "score": 11.7,
+   "outlets": [
+    "tagesschau",
+    "SRF News",
+    "Handelsblatt",
+    "heise online",
+    "DER STANDARD",
+    "n-tv"
+   ],
+   "regions": [
+    "AT",
+    "CH",
+    "DE",
+    "INT"
+   ],
+   "trend": [],
+   "newest": "2026-11-13T17:08:42+00:00",
+   "articles": [
+    {
+     "source": "tagesschau",
+     "region": "DE",
+     "weight": 1.0,
+     "title": "Nvidia: Huang-Affäre könnte zu Trump-Skandal werden",
+     "summary": "Laut Medienberichten wurde Trump zwei Mal von der Affäre des Nvidia-Chefs Huang mit einer mutmaßlichen chinesischen Spionin unterrichtet. Doch der Präsident beteuert, von nichts gewusst zu haben. Von C. Kühntopp.",
+     "link": "https://www.tagesschau.de/ausland/amerika/nvidia-trump-100.html",
+     "image": "https://images.tagesschau.de/image/f9401978-bea2-4fa5-9226-a0299084e01c/AAABodPof7M/AAABnSSvrFg/16x9-big/huang-trump-102.jpg?width=1920",
+     "aggregator": false,
+     "published": "2026-11-13T02:36:47+00:00"
+    },
+    {
+     "source": "tagesschau Ausland",
+     "region": "INT",
+     "weight": 1.0,
+     "title": "Nvidia: Huang-Affäre könnte zu Trump-Skandal werden",
+     "summary": "Laut Medienberichten wurde Trump zwei Mal von der Affäre des Nvidia-Chefs Huang mit einer mutmaßlichen chinesischen Spionin unterrichtet. Doch der Präsident beteuert, von nichts gewusst zu haben. Von C. Kühntopp.",
+     "link": "https://www.tagesschau.de/ausland/amerika/nvidia-trump-100.html",
+     "image": "https://images.tagesschau.de/image/f9401978-bea2-4fa5-9226-a0299084e01c/AAABodPof7M/AAABnSSvrFg/16x9-big/huang-trump-102.jpg?width=1920",
+     "aggregator": false,
+     "published": "2026-11-13T02:36:47+00:00"
+    },
+    {
+     "source": "tagesschau Wirtschaft",
+     "region": "DE",
+     "weight": 1.0,
+     "title": "Nvidia: Huang-Affäre könnte zu Trump-Skandal werden",
+     "summary": "Laut Medienberichten wurde Trump zwei Mal von der Affäre des Nvidia-Chefs Huang mit einer mutmaßlichen chinesischen Spionin unterrichtet. Doch der Präsident beteuert, von nichts gewusst zu haben. Von C. Kühntopp.",
+     "link": "https://www.tagesschau.de/ausland/amerika/nvidia-trump-100.html",
+     "image": "https://images.tagesschau.de/image/f9401978-bea2-4fa5-9226-a0299084e01c/AAABodPof7M/AAABnSSvrFg/16x9-big/huang-trump-102.jpg?width=1920",
+     "aggregator": false,
+     "published": "2026-11-13T02:36:47+00:00"
+    },
+    {
+     "source": "SRF News",
+     "region": "CH",
+     "weight": 0.95,
+     "title": "Absetzung von Nvidia-Chef – Die Lehren aus dem Fall Jensen Huang und seinen Affären",
+     "summary": "Nvidias Erfolg war eng mit Jensen Huang verknüpft. Sein Sturz offenbart die Kehrseite dieser Abhängigkeit.",
+     "link": "https://www.srf.ch/news/wirtschaft/absetzung-von-nvidia-chef-die-lehren-aus-dem-fall-jensen-huang-und-seinen-affaeren",
+     "image": "https://www.srf.ch/static/cms/images//320ws/e85dcb.webp",
+     "aggregator": false,
+     "published": "2026-11-12T17:16:52+00:00"
+    },
+    {
+     "source": "Handelsblatt",
+     "region": "DE",
+     "weight": 0.9,
+     "title": "Nvidia: Was wusste Trump über die Affären des Nvidia-Chefs?",
+     "summary": "Der Fall des Nvidia-CEOs wirft ein Schlaglicht auf die Nähe des Tech-Bosses zum US‑Präsidenten. Trump soll von Huangs Liebschaften gewusst haben.",
+     "link": "https://www.handelsblatt.com/politik/international/nvidia-was-wusste-trump-ueber-die-affaeren-des-nvidia-chefs/100269725.html",
+     "image": "https://images.handelsblatt.com/wDK4sGvYyH4c/cover/900/506/0/0/0/625/0.5/0.5/files-nvidia-ceo-jensen-huang-r-speaks-alongside-us-president-donald-trump-about-investing-in-am.jpg",
+     "aggregator": false,
+     "published": "2026-11-13T14:03:26+00:00"
+    },
+    {
+     "source": "heise online",
+     "region": "DE",
+     "weight": 0.85,
+     "title": "Donnerstag: Nvidia-Chef angeblich kurz vor Abschied, KI-Agent auch von ByteDance",
+     "summary": "Jensen Huangs weitere Affäre + Muse-Agentenkonkurrent aus China + Meta-Millionenstrafe nach Brasilien-Wahl + Unterschiede chinesischer E-Motoren + #heiseshow",
+     "link": "https://www.heise.de/news/Donnerstag-Nvidia-Chef-angeblich-kurz-vor-Abschied-KI-Agent-auch-von-ByteDance-11521643.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
+     "image": null,
+     "aggregator": false,
+     "published": "2026-11-12T05:15:00+00:00"
+    },
+    {
+     "source": "heise online",
+     "region": "DE",
+     "weight": 0.85,
+     "title": "Nvidia-Chef Jensen Huang nach zweiter Affäre wohl vor dem Ende bei seiner Firma",
+     "summary": "Neben der mutmaßlichen Agentin Chinas hatte der Nvidia-CEO offenbar auch eine Affäre mit einer Kollegin. Die Aktie rutscht weiter ab, der Abschied rückt näher.",
+     "link": "https://www.heise.de/news/Jensen-Huang-nach-weiterer-Affaere-mit-Mitarbeiterin-wohl-vor-dem-Aus-bei-Nvidia-11521625.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
+     "image": null,
+     "aggregator": false,
+     "published": "2026-11-12T04:02:00+00:00"
+    },
+    {
+     "source": "DER STANDARD",
+     "region": "AT",
+     "weight": 0.85,
+     "title": "Wie das Netzwerk der Alice Huang den mächtigen Nvidia-Chef zu Fall brachte",
+     "summary": "Die Nvidia-Krise zieht Schockwellen bis ins Weiße Haus und bringt Trump unter Druck. Zugleich kommen immer mehr Details der mutmaßlichen Spionageaffäre ans Licht",
+     "link": "https://www.derstandard.at/story/3000000349082/wie-das-netzwerk-der-alice-huang-den-maechtigen-nvidia-chef-zu-fall-brachte?ref=rss",
+     "image": "https://i.ds.at/us12jw/rs:fill:150:0/plain/lido-images/2026/11/13/49fabf93-610f-42bc-a942-94269d0e6f6d.jpg",
+     "aggregator": false,
+     "published": "2026-11-13T16:59:40+00:00"
+    }
+   ]
+  },
+  {
+   "id": 6,
+   "score": 10.58,
+   "outlets": [
+    "ORF",
+    "SRF News",
+    "SPIEGEL",
+    "Süddeutsche",
+    "Handelsblatt"
+   ],
+   "regions": [
+    "AT",
+    "CH",
+    "DE"
+   ],
+   "trend": [],
+   "newest": "2026-11-13T20:32:59+00:00",
+   "articles": [
+    {
+     "source": "ORF",
+     "region": "AT",
+     "weight": 0.95,
+     "title": "EU einig: Verhandlungsteam mit Russland steht",
+     "summary": "",
+     "link": "https://orf.at/stories/3448118/",
+     "image": null,
+     "aggregator": false,
+     "published": "2026-11-13T17:57:32+00:00"
+    },
+    {
+     "source": "SRF News",
+     "region": "CH",
+     "weight": 0.95,
+     "title": "Gipfeltreffen in Dublin – EU einig: Verhandlungsteam für Gespräche mit Russland steht",
+     "summary": "Deutschland, Frankreich, Grossbritannien, Italien und Polen sollen mit EU-Institutionen an den Gesprächen dabei sein.",
+     "link": "https://www.srf.ch/news/international/gipfeltreffen-in-dublin-eu-einig-verhandlungsteam-fuer-gespraeche-mit-russland-steht",
+     "image": "https://www.srf.ch/static/cms/images//320ws/d0ed22.webp",
+     "aggregator": false,
+     "published": "2026-11-13T20:32:59+00:00"
+    },
+    {
+     "source": "SPIEGEL",
+     "region": "DE",
+     "weight": 0.9,
+     "title": "Krieg in der Ukraine: Europäer einigen sich auf Verhandlungsteam für Gespräche mit Russland",
+     "summary": "Deutschland, Frankreich, Großbritannien, Italien und Polen sollen gemeinsam mit den EU-Institutionen die Europäer bei Ukrainegesprächen mit Russland vertreten. Darauf haben sich die Staats- und Regierungschefs der EU-Staaten verständigt.",
+     "link": "https://www.spiegel.de/ausland/krieg-in-der-ukraine-europaeer-einigen-sich-auf-verhandlungsteam-fuer-gespraeche-mit-russland-a-33f42a19-3d6f-4708-8372-a55f8583040a#ref=rss",
+     "image": "https://cdn.prod.www.spiegel.de/images/85d3d92f-7d30-4f08-8fbf-500efd6a5599_w520_r2.08_fpx39.98_fpy49.99.jpg",
+     "aggregator": false,
+     "published": "2026-11-13T18:02:00+00:00"
+    },
+    {
+     "source": "Süddeutsche",
+     "region": "DE",
+     "weight": 0.9,
+     "title": "Krieg in der Ukraine: EU einig: Verhandlungsteam für Gespräche mit Russland steht",
+     "summary": "Demnach sollen Deutschland, Frankreich, Großbritannien, Italien und Polen gemeinsam mit den EU-Institutionen die Europäer bei Ukraine-Gesprächen mit Russland vertreten.",
+     "link": "https://www.sueddeutsche.de/politik/ukraine-krieg-newsblog-usa-russland-europa-verhandlungen-putin-europaeische-union-li.3571967",
+     "image": "https://www.sueddeutsche.de/2026/11/13/024a9157-dadc-47d9-b79e-dc593cba72a3.jpg?rect=999%2C85%2C1393%2C1045&width=1000&fm=jpg&q=60",
+     "aggregator": false,
+     "published": "2026-11-13T18:03:09+00:00"
+    },
+    {
+     "source": "Handelsblatt",
+     "region": "DE",
+     "weight": 0.9,
+     "title": "Ukraine-Krieg: EU einig: Verhandlungsteam für Gespräche mit Russland steht",
+     "summary": "Wer sitzt für Europa mit am Tisch? Sechs Parteien sollen direkt mit Russland verhandeln - die Debatte um eine Verhandlungsführung geht aber weiter.",
+     "link": "https://www.handelsblatt.com/politik/international/ukraine-krieg-eu-einig-verhandlungsteam-fuer-gespraeche-mit-russland-steht/100269283.html",
+     "image": "https://images.handelsblatt.com/faLD-GZeo8MP/cover/900/506/0/0/107/106/0.5/0.5/eu-gipfel-in-dublin.jpg",
+     "aggregator": false,
+     "published": "2026-11-13T19:30:42+00:00"
+    }
+   ]
+  },
+  {
+   "id": 7,
+   "score": 10.53,
+   "outlets": [
+    "tagesschau",
+    "ORF",
+    "SPIEGEL",
+    "n-tv"
+   ],
+   "regions": [
+    "AT",
+    "DE"
+   ],
+   "trend": [],
+   "newest": "2026-11-14T02:06:00+00:00",
+   "articles": [
+    {
+     "source": "tagesschau",
+     "region": "DE",
+     "weight": 1.0,
+     "title": "US-Luftfahrtbehörde stoppt alle Starts in den USA",
+     "summary": "Die US-Luftfahrtbehörde FAA hat alle Starts an US-Flughäfen gestoppt. Hintergrund sind laut US-Regierung Kommunikationsprobleme im Flugkontrollsystem. Als Reaktion wurden auch sämtliche Flüge aus Europa in die USA bis auf weiteres ausgesetzt.",
+     "link": "https://www.tagesschau.de/eilmeldung/usa-flugverbot-100.html",
+     "image": "https://images.tagesschau.de/image/70e42b7a-9299-4745-a4da-c807c789c8bd/AAABodb5qDI/AAABnSSvrFg/16x9-big/flughafen-usa-106.jpg?width=1920",
+     "aggregator": false,
+     "published": "2026-11-14T01:18:16+00:00"
+    },
+    {
+     "source": "ORF",
+     "region": "AT",
+     "weight": 0.95,
+     "title": "Starts an US-Flughäfen wieder erlaubt",
+     "summary": "",
+     "link": "https://orf.at/stories/3448132/",
+     "image": null,
+     "aggregator": false,
+     "published": "2026-11-13T21:16:39+00:00"
+    },
+    {
+     "source": "SPIEGEL",
+     "region": "DE",
+     "weight": 0.9,
+     "title": "Starts an US-Flughäfen wieder erlaubt",
+     "summary": "Wegen technischer Probleme stoppte die Luftfahrtbehörde FAA alle Starts an Flughäfen in den USA. Auch Flüge aus Europa waren betroffen. Jetzt gibt es Entwarnung. Veraltete Hardware soll Ursache der Störung gewesen sein.",
+     "link": "https://www.spiegel.de/panorama/starts-an-us-flughaefen-wieder-erlaubt-a-13c2241a-9b4b-450e-acad-ccf1eaf7720f#ref=rss",
+     "image": "https://cdn.prod.www.spiegel.de/images/7b0f2aed-b916-4120-acc5-b8d913fc7d08_w520_r2.08_fpx65.33_fpy49.99.jpg",
+     "aggregator": false,
+     "published": "2026-11-14T02:06:00+00:00"
+    },
+    {
+     "source": "n-tv",
+     "region": "DE",
+     "weight": 0.8,
+     "title": "Störung im Kommunikationssystem: Landesweiter Stopp von Starts an US-Flughäfen",
+     "summary": "Die Flugkontrollzentren in den USA melden Kommunikationsprobleme. Die Folge: Derzeit dürfen landesweit keine Flugzeuge mehr starten. Nach den Terroranschlägen vom 11. September 2001 ist diese Maßnahme erst einmal verhängt worden.",
+     "link": "https://www.n-tv.de/wirtschaft/Landesweiter-Stopp-von-Starts-an-US-Flughaefen-id31533009.html",
+     "image": "https://www.n-tv.de/img/31533059/1794610049/Img_4_3/250/image.jpg",
+     "aggregator": false,
+     "published": "2026-11-13T21:30:34+00:00"
+    }
+   ]
+  },
+  {
+   "id": 8,
+   "score": 9.77,
+   "outlets": [
+    "tagesschau",
+    "Deutschlandfunk",
+    "ORF"
+   ],
+   "regions": [
+    "AT",
+    "DE"
+   ],
+   "trend": [],
+   "newest": "2026-11-14T04:18:52+00:00",
+   "articles": [
+    {
+     "source": "tagesschau",
+     "region": "DE",
+     "weight": 1.0,
+     "title": "Bundeskanzler Merz hält Deutschland bei Gesprächen über Ende des Ukraine-Krieges \"gesetzt\"",
+     "summary": "Bundeskanzler Merz hält Deutschland bei Gesprächen über Ende des Ukraine-Krieges \"gesetzt\"",
+     "link": "https://www.tagesschau.de/tagesthemen/video-1683544.html",
+     "image": "https://images.tagesschau.de/image/e0de9e2f-4696-4504-b8be-7d248a195b02/AAABodbQVT8/AAABnSSvrFg/16x9-big/sendungsbild-1827238.jpg?width=1920",
+     "aggregator": false,
+     "published": "2026-11-13T21:29:06+00:00"
+    },
+    {
+     "source": "Deutschlandfunk",
+     "region": "DE",
+     "weight": 0.95,
+     "title": "Koalition - Diskussion um Senkung der Stromsteuer geht weiter",
+     "summary": "Bundeskanzler Merz hält an den Plänen für eine Senkung der Stromsteuer fest. Es sei weiterhin sein Ziel, die Stromsteuer auf das europäische Minimum abzusenken, betonte der CDU-Vorsitzende. Dies solle ab dem nächsten Jahr in vollständiger Höhe geschehen.",
+     "link": "https://www.deutschlandfunk.de/diskussion-um-senkung-der-stromsteuer-geht-weiter-110.html",
+     "image": "https://bilder.deutschlandfunk.de/eb/98/0a/c5/eb980ac5-d1c5-4284-befc-b8558af6f32b/bundeskanzler-merz-cdu-klausurtagung-senkung-stromsteuer-100-1920x1920.jpg",
+     "aggregator": false,
+     "published": "2026-11-14T04:18:52+00:00"
+    },
+    {
+     "source": "ORF",
+     "region": "AT",
+     "weight": 0.95,
+     "title": "EU-Einigung auf breites Verhandlungsteam",
+     "summary": "Die Staats- und Regierungschefs der EU haben sich darauf geeinigt, wer Europa bei künftigen Gesprächen über ein Ende des Ukraine-Krieges vertreten soll: Das „europäische Verhandlungsteam für den Frieden in der Ukraine“ werde „aus den Institutionen der Europäischen Union und den E5“ bestehen, sagte EU-Ratspräsident Antonio Costa am Freitag nach dem informellen EU-Gipfel in Dublin. Bei den E5-Ländern handelt es sich um Deutschland, Großbritannien, Frankreich, Italien und Polen.",
+     "link": "https://orf.at/stories/3448115/",
+     "image": null,
+     "aggregator": false,
+     "published": "2026-11-13T18:30:02+00:00"
+    }
+   ]
+  },
+  {
+   "id": 9,
+   "score": 9.37,
+   "outlets": [
+    "Deutschlandfunk",
+    "SPIEGEL",
+    "DER STANDARD"
+   ],
+   "regions": [
+    "AT",
+    "DE"
+   ],
+   "trend": [],
+   "newest": "2026-11-14T04:18:52+00:00",
+   "articles": [
+    {
+     "source": "Deutschlandfunk",
+     "region": "DE",
+     "weight": 0.95,
+     "title": "Wintersport - Nach Finnland wollen auch Norwegen, Schweden und Estland russischen Sportlern die Einreise verweigern",
+     "summary": "Drei weitere europäische Länder wollen Sportlern aus Russland die Einreise zu internationalen Wettkämpfen verweigern.",
+     "link": "https://www.deutschlandfunk.de/nach-finnland-wollen-auch-norwegen-schweden-und-estland-russischen-sportlern-die-einreise-verweigern-104.html",
+     "image": "https://bilder.deutschlandfunk.de/8d/1d/fd/8b/8d1dfd8b-69e3-4057-b45d-59862291a8b7/russland-olympia-100-1280x1280.jpg",
+     "aggregator": false,
+     "published": "2026-11-14T04:18:52+00:00"
+    },
+    {
+     "source": "SPIEGEL",
+     "region": "DE",
+     "weight": 0.9,
+     "title": "Norwegen, Schweden und Estland sperren russische Sportler aus",
+     "summary": "Das IOC und mehrere Dachverbände wollen Athletinnen und Athleten aus Russland wieder bei internationalen Wettkämpfen zulassen. Nun wehren sich immer mehr Länder mit verschärften Einreisebestimmungen.",
+     "link": "https://www.spiegel.de/sport/norwegen-schweden-und-estland-sperren-russische-sportler-aus-a-cbad5051-c510-4df1-a4d9-88b099d8a5a2#ref=rss",
+     "image": "https://cdn.prod.www.spiegel.de/images/9ee122f7-1e4e-41ae-8d81-0c88f0ee255a_w520_r2.08_fpx55.91_fpy49.86.jpg",
+     "aggregator": false,
+     "published": "2026-11-13T19:53:00+00:00"
+    },
+    {
+     "source": "DER STANDARD",
+     "region": "AT",
+     "weight": 0.85,
+     "title": "Auch Norwegen, Schweden und Estland wollen russischen Sportlern Visa verweigern",
+     "summary": "\"Da Russland seinen brutalen Angriffskrieg fortsetzt\", sind russische Profisportler sowie deren Betreuer in Norwegen unerwünscht. Zuvor sind Finnland und Kanada vorgeprescht",
+     "link": "https://www.derstandard.at/story/3000000349086/auch-norwegen-will-visa-fuer-russische-sportler-verweigern?ref=rss",
+     "image": "https://i.ds.at/ZuwDTQ/rs:fill:150:0/plain/lido-images/2026/11/13/4132c05d-b958-4ad2-8aa8-b88b5e97460a.jpg",
+     "aggregator": false,
+     "published": "2026-11-13T08:51:19+00:00"
+    }
+   ]
+  },
+  {
+   "id": 10,
+   "score": 9.0,
+   "outlets": [
+    "tagesschau",
+    "ZDFheute",
+    "heise online",
+    "DER STANDARD",
+    "WELT"
+   ],
+   "regions": [
+    "AT",
+    "DE",
+    "INT"
+   ],
+   "trend": [],
+   "newest": "2026-11-13T17:05:50+00:00",
+   "articles": [
+    {
+     "source": "tagesschau",
+     "region": "DE",
+     "weight": 1.0,
+     "title": "Fall Nvidia: US-Senatsausschuss lädt Handelsminister Lutnick und Huang vor",
+     "summary": "Der Chef ist zurückgetreten - doch die Aufarbeitung der Spionageaffäre um Jensen Huang und Nvidia beginnt erst. Huang und Handelsminister Lutnick sollen vor dem US-Senat aussagen. Es geht um mögliche Chip-Lieferungen nach China.",
+     "link": "https://www.tagesschau.de/ausland/amerika/nvidia-huang-us-handelsausschuss-100.html",
+     "image": "https://images.tagesschau.de/image/4f5c3720-697a-42e7-b683-4a6d6dd31036/AAABodO7cug/AAABnSSvrFg/16x9-big/huang-lutnick-100.jpg?width=1920",
+     "aggregator": false,
+     "published": "2026-11-13T07:27:43+00:00"
+    },
+    {
+     "source": "tagesschau Ausland",
+     "region": "INT",
+     "weight": 1.0,
+     "title": "Fall Nvidia: US-Senatsausschuss lädt Handelsminister Lutnick und Huang vor",
+     "summary": "Der Chef ist zurückgetreten - doch die Aufarbeitung der Spionageaffäre um Jensen Huang und Nvidia beginnt erst. Huang und Handelsminister Lutnick sollen vor dem US-Senat aussagen. Es geht um mögliche Chip-Lieferungen nach China.",
+     "link": "https://www.tagesschau.de/ausland/amerika/nvidia-huang-us-handelsausschuss-100.html",
+     "image": "https://images.tagesschau.de/image/4f5c3720-697a-42e7-b683-4a6d6dd31036/AAABodO7cug/AAABnSSvrFg/16x9-big/huang-lutnick-100.jpg?width=1920",
+     "aggregator": false,
+     "published": "2026-11-13T07:27:43+00:00"
+    },
+    {
+     "source": "tagesschau Wirtschaft",
+     "region": "DE",
+     "weight": 1.0,
+     "title": "Fall Nvidia: US-Senatsausschuss lädt Handelsminister Lutnick und Huang vor",
+     "summary": "Der Chef ist zurückgetreten - doch die Aufarbeitung der Spionageaffäre um Jensen Huang und Nvidia beginnt erst. Huang und Handelsminister Lutnick sollen vor dem US-Senat aussagen. Es geht um mögliche Chip-Lieferungen nach China.",
+     "link": "https://www.tagesschau.de/ausland/amerika/nvidia-huang-us-handelsausschuss-100.html",
+     "image": "https://images.tagesschau.de/image/4f5c3720-697a-42e7-b683-4a6d6dd31036/AAABodO7cug/AAABnSSvrFg/16x9-big/huang-lutnick-100.jpg?width=1920",
+     "aggregator": false,
+     "published": "2026-11-13T07:27:43+00:00"
+    },
+    {
+     "source": "ZDFheute",
+     "region": "DE",
+     "weight": 1.0,
+     "title": "US-Senat lädt Ex-Nvidia-Chef vor",
+     "summary": "Milliardenschwere Chip-Lieferungen und der Verdacht auf Verstöße gegen US-Exportverbote: Ex-Nvidia-Chef Huang und Handelsminister Lutnick sollen vor dem US-Senat Stellung beziehen.",
+     "link": "https://www.zdfheute.de/politik/ausland/nvidia-chef-huang-vorladung-us-senat-100.html",
+     "image": "https://www.zdfheute.de/assets/26-action-pressaction-51297675-jpgu12-11-nvidia-ceo-huang-in-tokyo-100~384x216?cb=1794520376539",
+     "aggregator": false,
+     "published": "2026-11-13T08:22:00+00:00"
+    },
+    {
+     "source": "heise online",
+     "region": "DE",
+     "weight": 0.85,
+     "title": "heise+ | Nvidia ohne Jensen Huang: Wie laufen die Geschäfte weiter?",
+     "summary": "Nvidia versucht, die Affäre um den zurückgetreten CEO Jensen Huang in den Griff zu bekommen. Wie könnte es nun weitergehen?",
+     "link": "https://www.heise.de/news/Nvidia-ohne-Jensen-Huang-Wie-laufen-die-Geschaefte-weiter-11523360.html?wt_mc=rss.red.ho.ho.atom.beitrag_plus.beitrag_plus",
+     "image": null,
+     "aggregator": false,
+     "published": "2026-11-12T17:30:00+00:00"
+    },
+    {
+     "source": "DER STANDARD",
+     "region": "AT",
+     "weight": 0.85,
+     "title": "Spionage und Affären: Warum Nvidias CEO Jensen Huang zurückgetreten ist",
+     "summary": "Der US-Chipriese sorgt für ein Beben in der Techbranche, in dessen Epizentrum sein eigener Chef steht",
+     "link": "https://www.derstandard.at/story/3000000348868/spionage-und-affaeren-warum-nvidias-ceo-jensen-huang-zurueckgetreten-ist?ref=rss",
+     "image": "https://i.ds.at/0v4QPQ/rs:fill:150:0/plain/lido-images/2026/11/12/68e30796-d246-436f-90d8-c7f8e48654b2.jpg",
+     "aggregator": false,
+     "published": "2026-11-12T10:37:48+00:00"
+    },
+    {
+     "source": "WELT",
+     "region": "DE",
+     "weight": 0.6,
+     "title": "Nvidia: War der Rauswurf ein Fehler? Warum Jensen Huang in einer Woche zurück sein könnte",
+     "summary": "Nvidia: War der Rauswurf ein Fehler? Warum Jensen Huang in einer Woche zurück sein könnte WELT Welche Folgen Nvidias Absturz für die KI-Branche hat tagesschau.de Jensen Huang ist narzisstisch wie Trump, schreibt der Biograf des Ex-Nvidia-Bosses Spiegel News Quiz der Woche – Testen Sie Ihr Wissen heute: In welche Falle tappte der Nvidia-CEO? FAZ Nvidia-Affäre: Singapur hat Alice Huang die Wiedereinreise verboten Handelsblatt",
+     "link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxOX25EMzdGQWJkWVhWZGhOYVkxUHYwQzBIak5HblNDWU5VSmlhM012S0ZsbkNyTDJEX2lRY1VQbFE3R3d1ZkpTV0dCQUVjTlRkUDF1c0ZyVjAxemNMY3I4WVdUTDBjOUNMLUc5eDhlaVVobVVfOU5PaVhmb2t0QU1xalM5bVRlNWh1WkJCYkNrWFF6YmpyZURQMlFYNmxKVGVWZWRjQmV6bjNMQmJLNGFZVTRQUUF4TFpMQS1fRWp0UmRORXktdTltd0tONFFWV3M1dk5oWDZNcEVOc3VvODdZNmxnbG1xMlE?oc=5",
+     "image": null,
+     "aggregator": true,
+     "published": "2026-11-13T17:05:50+00:00"
+    }
+   ]
+  },
+  {
+   "id": 11,
+   "score": 8.99,
+   "outlets": [
+    "SRF News",
+    "Süddeutsche",
+    "NZZ"
+   ],
+   "regions": [
+    "CH",
+    "DE"
+   ],
+   "trend": [],
+   "newest": "2026-11-14T02:51:45+00:00",
+   "articles": [
+    {
+     "source": "SRF News",
+     "region": "CH",
+     "weight": 0.95,
+     "title": "Kommunikationsprobleme – US-Luftfahrtbehörde hebt landesweiten Flugstopp wieder auf",
+     "summary": "Es gab schwerwiegende Kommunikationsprobleme, die alle Flugsicherungszentralen betrafen, so der US-Verkehrsminister.",
+     "link": "https://www.srf.ch/news/international/kommunikationsprobleme-us-luftfahrtbehoerde-hebt-landesweiten-flugstopp-wieder-auf",
+     "image": "https://www.srf.ch/static/cms/images//320ws/b4a225.webp",
+     "aggregator": false,
+     "published": "2026-11-14T01:39:51+00:00"
+    },
+    {
+     "source": "Süddeutsche",
+     "region": "DE",
+     "weight": 0.9,
+     "title": "USA: US-Luftfahrtbehörde hebt landesweiten Flugstopp wieder auf",
+     "summary": "Wegen technischer Probleme waren alle Abflüge untersagt. Zehntausende Passagiere saßen an Airports fest. Erst nach mehreren Stunden gibt es Entwarnung – auch Flüge aus Europa in die USA sind wieder möglich.",
+     "link": "https://www.sueddeutsche.de/politik/usa-news-liveblog-flugsicherheit-flugstop-landesweit-sicherheit-li.3578585",
+     "image": "https://www.sueddeutsche.de/2026/11/14/9a8c92b7-11ac-49c3-802a-7f9a50ddfe61.jpg?rect=222%2C0%2C3556%2C2667&width=1000&fm=jpg&q=60",
+     "aggregator": false,
+     "published": "2026-11-14T02:09:25+00:00"
+    },
+    {
+     "source": "NZZ",
+     "region": "CH",
+     "weight": 0.9,
+     "title": "«Aussergewöhnliche Umstände»: US-Luftfahrtbehörde hebt landesweites Startverbot nach einigen Stunden wieder auf",
+     "summary": "Aufgrund einer technischen Panne in den Kontrollzentren hat die US-Luftfahrtbehörde FAA am Freitagnachmittag sämtliche Abflüge in den Vereinigten Staaten gestoppt.",
+     "link": "https://www.nzz.ch/international/aussergewoehnliche-umstaende-usa-verhaengen-landesweites-startverbot-ld.10063646",
+     "image": "https://img-msp-prod.nzz.ch/2026/11/13/903bccaa-b62b-4076-809f-957c38b44d19.jpg?width=200&height=200&fit=bounds&quality=75&auto=webp&crop=3581,3581,x1664,y0",
+     "aggregator": false,
+     "published": "2026-11-14T02:51:45+00:00"
+    }
+   ]
+  },
+  {
+   "id": 12,
+   "score": 8.57,
+   "outlets": [
+    "tagesschau",
+    "ZDFheute",
+    "WELT"
+   ],
+   "regions": [
+    "DE",
+    "INT"
+   ],
+   "trend": [],
+   "newest": "2026-11-14T04:19:00+00:00",
+   "articles": [
+    {
+     "source": "tagesschau",
+     "region": "DE",
+     "weight": 1.0,
+     "title": "FAA hebt Startverbot an US-Flughäfen wieder auf",
+     "summary": "Nach mehreren Stunden läuft der Flugverkehr in den USA wieder an. Die Luftfahrtbehörde hob das zuvor verhängte Startverbot auf. US-Verkehrsminister Duffy nannte überlastete Kommunikationssysteme als Ursache.",
+     "link": "https://www.tagesschau.de/ausland/amerika/usa-flugstopp-ende-100.html",
+     "image": "https://images.tagesschau.de/image/3335c8db-b9b7-4025-9004-d01279760b2b/AAABodfHHKI/AAABnSSvrFg/16x9-big/usa-flugzeuge-100.jpg?width=1920",
+     "aggregator": false,
+     "published": "2026-11-14T02:36:59+00:00"
+    },
+    {
+     "source": "tagesschau Ausland",
+     "region": "INT",
+     "weight": 1.0,
+     "title": "FAA hebt Startverbot an US-Flughäfen wieder auf",
+     "summary": "Nach mehreren Stunden läuft der Flugverkehr in den USA wieder an. Die Luftfahrtbehörde hob das zuvor verhängte Startverbot auf. US-Verkehrsminister Duffy nannte überlastete Kommunikationssysteme als Ursache.",
+     "link": "https://www.tagesschau.de/ausland/amerika/usa-flugstopp-ende-100.html",
+     "image": "https://images.tagesschau.de/image/3335c8db-b9b7-4025-9004-d01279760b2b/AAABodfHHKI/AAABnSSvrFg/16x9-big/usa-flugzeuge-100.jpg?width=1920",
+     "aggregator": false,
+     "published": "2026-11-14T02:36:59+00:00"
+    },
+    {
+     "source": "ZDFheute",
+     "region": "DE",
+     "weight": 1.0,
+     "title": "Landesweiter Flugstopp in den USA wieder aufgehoben",
+     "summary": "Die US-Luftfahrtbehörde FAA erlaubt den Start von Flugzeugen wieder. Nach technischen Problemen war ein Startverbot verhängt worden. Auch Reisende aus Europa sind betroffen.",
+     "link": "https://www.zdfheute.de/politik/ausland/usa-flugstopp-landesweit-100.html",
+     "image": "https://www.zdfheute.de/assets/usa-flughafen-los-angeles-100~384x216?cb=1794624261054",
+     "aggregator": false,
+     "published": "2026-11-14T04:19:00+00:00"
+    },
+    {
+     "source": "WELT",
+     "region": "DE",
+     "weight": 0.6,
+     "title": "USA: Nach landesweitem Flugstopp – Starts an US-Flughäfen wieder erlaubt",
+     "summary": "USA: Nach landesweitem Flugstopp – Starts an US-Flughäfen wieder erlaubt WELT FAA hebt Startverbot an US-Flughäfen wieder auf tagesschau.de Nach Flugverbot - Vier Flüge aus Frankfurt in die USA gestrichen - Wirtschaft - SZ.de SZ.de Flugverkehr: Landesweites Startverbot für US-Flüge nach vier Stunden aufgehoben Handelsblatt Tausende Flüge ausgefallen: Flugzeuge in den USA dürfen wieder starten n-tv.de",
+     "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxOLV9RSGMwM1RIMjcwS1lMazc2bVVyY0IzbG9BQ2pLYl9keVVhQVdSY25lMDBXT2FNMHZRdzFnaEV6WFZSTE5ybVlyVF8zc21fUXFwdUdSU256cFltS05mQ1NUSllobFZPdHZIRDQ2clhSN3M2WDYwVnY0STZ4T0wtZDNDQzA2MDRIenZDZlUtZlVSWU16R3QwZUV1YjFrNDF2MUpBRktkUjNCVWNRLXh3R2lRTDM5NHo3cUV2blJsbWpVQjVPUW9pcVdfVy12V2x5bmpVeklVVndMdFk?oc=5",
+     "image": null,
+     "aggregator": true,
+     "published": "2026-11-14T02:52:40+00:00"
+    }
+   ]
+  },
+  {
+   "id": 13,
+   "score": 8.5,
+   "outlets": [
+    "tagesschau",
+    "ZDFheute",
+    "Handelsblatt",
+    "DER STANDARD"
+   ],
+   "regions": [
+    "AT",
+    "DE"
+   ],
+   "trend": [],
+   "newest": "2026-11-13T16:02:19+00:00",
+   "articles": [
+    {
+     "source": "tagesschau",
+     "region": "DE",
+     "weight": 1.0,
+     "title": "Cyberangriff auf Quantum Systems: Wie wurde der Drohnenhersteller zum Ziel?",
+     "summary": "Nach dem Cyberangriff auf den bayerischen Drohnenhersteller Quantum Systems läuft die Suche nach den Tätern. Vieles deutet auf einen russischen Hintergrund hin. Das Unternehmen ist wichtiger Ausrüster des ukrainischen Militärs. Von Stephan Lina.",
+     "link": "https://www.tagesschau.de/wirtschaft/unternehmen/quantum-systems-cyberangriff-102.html",
+     "image": "https://images.tagesschau.de/image/76e76dc2-084b-4083-b0f6-0170948898c1/AAABodV3-1Q/AAABnSSvrFg/16x9-big/quantum-systems-102.jpg?width=1920",
+     "aggregator": false,
+     "published": "2026-11-13T16:02:19+00:00"
+    },
+    {
+     "source": "tagesschau Inland",
+     "region": "DE",
+     "weight": 1.0,
+     "title": "Bayerischer Drohnenhersteller Quantum Systems meldet Cyberangriff",
+     "summary": "Der bayerische Rüstungskonzern Quantum Systems ist nach eigenen Angaben Opfer eines Cyberangriffs geworden. Der Vorfall fand im Oktober statt. Laut einem Medienbericht hat die Bundeswehr bereits reagiert.",
+     "link": "https://www.tagesschau.de/inland/quantum-systems-cyberangriff-100.html",
+     "image": "https://images.tagesschau.de/image/7aa52c28-02c2-447e-8843-707c8a2139e5/AAABodGXxPU/AAABnSSvrFg/16x9-big/quantum-systems-100.jpg?width=1920",
+     "aggregator": false,
+     "published": "2026-11-12T21:09:07+00:00"
+    },
+    {
+     "source": "tagesschau Wirtschaft",
+     "region": "DE",
+     "weight": 1.0,
+     "title": "Cyberangriff auf Quantum Systems: Wie wurde der Drohnenhersteller zum Ziel?",
+     "summary": "Nach dem Cyberangriff auf den bayerischen Drohnenhersteller Quantum Systems läuft die Suche nach den Tätern. Vieles deutet auf einen russischen Hintergrund hin. Das Unternehmen ist wichtiger Ausrüster des ukrainischen Militärs. Von Stephan Lina.",
+     "link": "https://www.tagesschau.de/wirtschaft/unternehmen/quantum-systems-cyberangriff-102.html",
+     "image": "https://images.tagesschau.de/image/76e76dc2-084b-4083-b0f6-0170948898c1/AAABodV3-1Q/AAABnSSvrFg/16x9-big/quantum-systems-102.jpg?width=1920",
+     "aggregator": false,
+     "published": "2026-11-13T16:02:19+00:00"
+    },
+    {
+     "source": "ZDFheute",
+     "region": "DE",
+     "weight": 1.0,
+     "title": "Quantum Systems: Cyberangriff auf deutschen Drohnenhersteller",
+     "summary": "Quantum Systems beliefert auch die Ukraine mit Drohnen. Das Start-up aus Bayern hat nach eigenen Angaben nun einen Cyberangriff feindlicher Akteure eingedämmt.",
+     "link": "https://www.zdfheute.de/wirtschaft/unternehmen/cyberangriff-quantum-systems-ruestungs-start-up-100.html",
+     "image": "https://www.zdfheute.de/assets/quantum-systems-muenchen-100~384x216?cb=1794560183696",
+     "aggregator": false,
+     "published": "2026-11-13T10:30:00+00:00"
+    },
+    {
+     "source": "Handelsblatt",
+     "region": "DE",
+     "weight": 0.9,
+     "title": "Drohnenhersteller: Generalstaatsanwalt ermittelt nach Cyberattacke auf Quantum",
+     "summary": "Der Drohnenhersteller Quantum Systems ist langjähriger Lieferant der ukrainischen Streitkräfte - und wurde Ziel der Cyberattacke eines „feindseligen Akteurs“. Nun ermittelt eine zivile Stelle.",
+     "link": "https://www.handelsblatt.com/politik/deutschland/drohnenhersteller-generalstaatsanwalt-ermittelt-nach-cyberattacke-auf-quantum/100269774.html",
+     "image": "https://images.handelsblatt.com/3ogJPgiqkHG-/cover/900/506/0/0/107/106/0.5/0.5/drohnen-vorfuehrung-von-quantum-systems.jpg",
+     "aggregator": false,
+     "published": "2026-11-13T14:44:44+00:00"
+    },
+    {
+     "source": "DER STANDARD",
+     "region": "AT",
+     "weight": 0.85,
+     "title": "Cyberangriff auf Drohnenhersteller: Bundeswehr lässt Flotte von Quantum Systems am Boden",
+     "summary": "Angreifer haben eine manipulierte Update-Datei auf einem Server des Unternehmens platziert",
+     "link": "https://www.derstandard.at/story/3000000349069/cyberangriff-auf-drohnenhersteller-bundeswehr-laesst-flotte-von-quantum-systems-am-boden?ref=rss",
+     "image": "https://i.ds.at/rey6eA/rs:fill:150:0/plain/lido-images/2026/11/13/1d7a7094-348e-47c4-8e62-fd47648beb63.jpg",
+     "aggregator": false,
+     "published": "2026-11-13T11:19:51+00:00"
+    }
+   ]
+  },
+  {
+   "id": 14,
+   "score": 8.32,
+   "outlets": [
+    "tagesschau",
+    "SRF News",
+    "DER STANDARD",
+    "n-tv"
+   ],
+   "regions": [
+    "AT",
+    "CH",
+    "DE"
+   ],
+   "trend": [],
+   "newest": "2026-11-13T19:45:01+00:00",
+   "articles": [
+    {
+     "source": "tagesschau",
+     "region": "DE",
+     "weight": 1.0,
+     "title": "Großbritannien: Ermittlungen gegen Kinderbuchautor Walliams",
+     "summary": "David Walliams ist einer der erfolgreichsten britischen Kinderbuchautoren und Comedians. Nun werden dem 55-Jährigen sexuelle Übergriffe auf minderjährige Mädchen vorgeworfen. Walliams bestreitet die Vorwürfe. Die Polizei ermittelt.",
+     "link": "https://www.tagesschau.de/ausland/europa/ermittlungen-gb-walliams-100.html",
+     "image": "https://images.tagesschau.de/image/199cbec0-1a92-4cfe-ab54-d984f85dee0b/AAABodZxJEs/AAABnSSvrFg/16x9-big/walliams-100.jpg?width=1920",
+     "aggregator": false,
+     "published": "2026-11-13T19:45:01+00:00"
+    },
+    {
+     "source": "SRF News",
+     "region": "CH",
+     "weight": 0.95,
+     "title": "Vorwürfe sexueller Belästigung – Britische Polizei leitet Ermittlungen gegen David Walliams ein",
+     "summary": "Gegen den Little-Britain-Star und Kinderbuchautor wird wegen schwerwiegender Sexualstraftaten ermittelt.",
+     "link": "https://www.srf.ch/news/international/vorwuerfe-sexueller-belaestigung-britische-polizei-leitet-ermittlungen-gegen-david-walliams-ein",
+     "image": "https://www.srf.ch/static/cms/images//320ws/8eba2b5.webp",
+     "aggregator": false,
+     "published": "2026-11-13T17:29:33+00:00"
+    },
+    {
+     "source": "DER STANDARD",
+     "region": "AT",
+     "weight": 0.85,
+     "title": "Auch deutscher Verlag stoppt Auslieferung der Bücher des Komikers Walliams",
+     "summary": "Nach Vorwürfen über mögliche sexuelle Bedrängung hat die britische Polizei Ermittlungen eingeleitet",
+     "link": "https://www.derstandard.at/story/3000000349173/auch-deutscher-verlag-stoppt-auslieferung-der-buecher-des-komikers-walliams?ref=rss",
+     "image": "https://i.ds.at/E3zZYg/rs:fill:150:0/plain/lido-images/2026/11/13/091c1438-f1ec-418e-91f8-fe0382d953fd.jpg",
+     "aggregator": false,
+     "published": "2026-11-13T13:47:17+00:00"
+    },
+    {
+     "source": "n-tv",
+     "region": "DE",
+     "weight": 0.8,
+     "title": "Vorwürfe sexueller Übergriffe: Polizei ermittelt gegen \"Little Britian\"-Star David Walliams",
+     "summary": "Mehrere Frauen werfen dem britischen Komiker David Walliams, sie sexuell belästigt zu haben. Der Star der Comedy-Serie \"Little Britian\" weißt die Vorwürfe zurück. Nun startet die Polizei die Ermittlungen.",
+     "link": "https://www.n-tv.de/leute/Polizei-ermittelt-gegen-Little-Britian-Star-David-Walliams-id31532510.html",
+     "image": "https://www.n-tv.de/img/31532518/1794598611/Img_4_3/250/imago0238660191h (1).jpg",
+     "aggregator": false,
+     "published": "2026-11-13T19:16:50+00:00"
+    }
+   ]
+  },
+  {
+   "id": 15,
+   "score": 8.24,
+   "outlets": [
+    "tagesschau",
+    "ZDFheute",
+    "heise online",
+    "Deutschlandfunk"
+   ],
+   "regions": [
+    "DE"
+   ],
+   "trend": [],
+   "newest": "2026-11-13T22:12:48+00:00",
+   "articles": [
+    {
+     "source": "tagesschau",
+     "region": "DE",
+     "weight": 1.0,
+     "title": "Mercedes stoppt Investitionen in Deutschland - und prüft Schließungen",
+     "summary": "In den Verhandlungen um Kostensenkungen bei Mercedes ist keine Lösung in Sicht. Jetzt erhöht der Konzern den Druck: Der Vorstand legt alle Investitionen in deutsche Standorte auf Eis - und will Werksschließungen prüfen.",
+     "link": "https://www.tagesschau.de/wirtschaft/unternehmen/mercedes-stopp-investitionen-100.html",
+     "image": "https://images.tagesschau.de/image/a1c69cbc-7a7c-413d-aae2-f16786e0d57e/AAABodDagME/AAABnSSvrFg/16x9-big/mercedes-montage-100.jpg?width=1920",
+     "aggregator": false,
+     "published": "2026-11-12T18:44:38+00:00"
+    },
+    {
+     "source": "ZDFheute",
+     "region": "DE",
+     "weight": 1.0,
+     "title": "Mercedes-Sparkurs: Jetzt spricht der Betriebsrat",
+     "summary": "Mercedes stoppt vorerst alle Investitionen in deutsche Standorte, der Druck auf Betriebsrat und IG Metall steigt. Sie lehnen den Plan ab, das sei mit ihnen \"nicht zu machen\".",
+     "link": "https://www.zdfheute.de/wirtschaft/unternehmen/investitionen-deutschland-kostensenkungen-werksschliessungen-stopp-100.html",
+     "image": "https://www.zdfheute.de/assets/mercedes-benz-logo-106~384x216?cb=1785218206711",
+     "aggregator": false,
+     "published": "2026-11-13T11:23:00+00:00"
+    },
+    {
+     "source": "heise online",
+     "region": "DE",
+     "weight": 0.85,
+     "title": "Mercedes stoppt Investitionen in Deutschland und prüft Werksschließungen",
+     "summary": "Ohne Einigung mit Betriebsrat und IG Metall will Mercedes nicht mehr in deutsche Werke investieren. Ein Montage- und ein Powertrain-Werk stehen zur Disposition.",
+     "link": "https://www.heise.de/news/Mercedes-stoppt-Investitionen-in-Deutschland-und-prueft-Werksschliessungen-11523770.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
+     "image": null,
+     "aggregator": false,
+     "published": "2026-11-13T08:42:00+00:00"
+    },
+    {
+     "source": "Deutschlandfunk",
+     "region": "DE",
+     "weight": 0.6,
+     "title": "Autoindustrie - Mercedes-Benz prüft jetzt \"konkret und detailliert\" Werksschließungen",
+     "summary": "Autoindustrie - Mercedes-Benz prüft jetzt \"konkret und detailliert\" Werksschließungen Deutschlandfunk Mercedes stoppt Investitionen in Deutschland - und prüft Schließungen tagesschau.de Mercedes-Benz: IG Metall fordert von Mercedes Gespräche über Investitionsstopp DIE ZEIT Zwischenruf: Liebe Wessis, zieht euch warm an! BILD Eine toxische Woche für Merz und die Deutschen FOCUS online",
+     "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPdE1UV1NGOGRuS0dyck1neXY5X0s1X2dWVUFPX1J5NTdKQ0NWbzg2Y1lRWWVUWTFKSlZVaWZqS1FpT2UxNlYtcUdEa3FKSzRoZlUyMVpGS3d0MW8wYnlkRUU4UTQ1SXZ2dDhRQmdvZkJ6RVhBd0hwdW5GYXd2TWVBd2RpXzBhLUFVZk9ET3NmOFVycDNJa3hkR2FCdk9ta3dpVU0wbk1xdGM2VnBxb0E?oc=5",
+     "image": null,
+     "aggregator": true,
+     "published": "2026-11-13T22:12:48+00:00"
+    }
+   ]
+  },
+  {
+   "id": 16,
+   "score": 7.87,
+   "outlets": [
+    "tagesschau",
+    "Deutschlandfunk"
+   ],
+   "regions": [
+    "DE"
+   ],
+   "trend": [],
+   "newest": "2026-11-14T04:18:52+00:00",
+   "articles": [
+    {
+     "source": "tagesschau",
+     "region": "DE",
+     "weight": 1.0,
+     "title": "tagesschau 20:00 Uhr",
+     "summary": "Technisches Problem war Ursache für weltweite Störung von Microsoft-Diensten, Bundeshaushalt 2027 mit hoher Neuverschuldung beschlossen, Bundesnachrichtendienste erhalten nach Reform mehr Befugnisse, AfD will ehemaligen Fußball-Weltmeister Berthold als Kandidat für Bundespräsidentenamt aufstellen, Ukraine-Friedensgespräche sollen mit mehr europäischer Beteiligung stattfinden, Gericht in Ägypten ordnet Schließung von unabhängigem Nachrichtenportal an, Papst Leo XIV. fordert bei Peru-Reise mehr Schutz für Frauen und Mädchen, Ölskizzen von Maler Rubens erstmal wieder gemeinsam in Gotha zu sehen, ",
+     "link": "https://www.tagesschau.de/tagesschau_20_uhr/video-1683510.html",
+     "image": "https://images.tagesschau.de/image/91a04bdf-d351-43fc-af7b-2d8c3726f195/AAABodZo7Kk/AAABnSSvrFg/16x9-big/sendungsbild-1827184.jpg?width=1920",
+     "aggregator": false,
+     "published": "2026-11-13T19:37:18+00:00"
+    },
+    {
+     "source": "Deutschlandfunk",
+     "region": "DE",
+     "weight": 0.95,
+     "title": "Technische Störung - Stundenlanges Flugverbot in den USA - Regierung sieht veraltete Technik als Ursache",
+     "summary": "In den USA hat es wegen technischer Probleme ein stundenlanges Flugverbot gegeben. Ursache war eine Störung der Kommunikationssysteme, wie das Verkehrsministerium mitteilte. Die Luftsicherheitsbehörde FAA untersagte den Start Tausender Flugzeuge. Zehntausende Menschen strandeten an den Flughäfen. Auch Verbindungen aus Europa wurden zwischenzeitlich ausgesetzt.",
+     "link": "https://www.deutschlandfunk.de/stundenlanges-flugverbot-in-den-usa-regierung-sieht-veraltete-technik-als-ursache-100.html",
+     "image": "https://bilder.deutschlandfunk.de/1f/86/2f/12/1f862f12-49b0-439d-bbb9-f500de2caa24/flugverkehr-usa-stoerung-100-1920x1920.jpg",
+     "aggregator": false,
+     "published": "2026-11-14T04:18:52+00:00"
+    }
+   ]
+  },
+  {
+   "id": 17,
+   "score": 7.87,
+   "outlets": [
+    "tagesschau",
+    "Deutschlandfunk"
+   ],
+   "regions": [
+    "DE",
+    "INT"
+   ],
+   "trend": [],
+   "newest": "2026-11-14T04:18:52+00:00",
+   "articles": [
+    {
+     "source": "tagesschau",
+     "region": "DE",
+     "weight": 1.0,
+     "title": "Nvidia-Skandal: US-Handelsminister Lutnick wegen Chip-Exporten unter Druck",
+     "summary": "US-Handelsminister Lutnick steht in der Kritik. Sein Ministerium soll Warnungen vor der in den Nvidia-Skandal verwickelten Firma Megaspeed ignoriert haben. Kabinettskollege Bessent warf ihm Versäumnisse vor.",
+     "link": "https://www.tagesschau.de/ausland/usa-nvidia-finanzminister-handelminister-100.html",
+     "image": "https://images.tagesschau.de/image/434feb3c-9a0f-43d3-afd8-cab5dd0eaeed/AAABodZOA3k/AAABnSSvrFg/16x9-big/howard-lutnick-100.jpg?width=1920",
+     "aggregator": false,
+     "published": "2026-11-13T19:06:39+00:00"
+    },
+    {
+     "source": "tagesschau Ausland",
+     "region": "INT",
+     "weight": 1.0,
+     "title": "Nvidia-Skandal: US-Handelsminister Lutnick wegen Chip-Exporten unter Druck",
+     "summary": "US-Handelsminister Lutnick steht in der Kritik. Sein Ministerium soll Warnungen vor der in den Nvidia-Skandal verwickelten Firma Megaspeed ignoriert haben. Kabinettskollege Bessent warf ihm Versäumnisse vor.",
+     "link": "https://www.tagesschau.de/ausland/usa-nvidia-finanzminister-handelminister-100.html",
+     "image": "https://images.tagesschau.de/image/434feb3c-9a0f-43d3-afd8-cab5dd0eaeed/AAABodZOA3k/AAABnSSvrFg/16x9-big/howard-lutnick-100.jpg?width=1920",
+     "aggregator": false,
+     "published": "2026-11-13T19:06:39+00:00"
+    },
+    {
+     "source": "Deutschlandfunk",
+     "region": "DE",
+     "weight": 0.95,
+     "title": "Nvidia-Skandal - US-Finanzminister Bessent macht Handelsminister Lutnick für Chip-Lieferungen nach China verantwortlich",
+     "summary": "Im Skandal um den zurückgetretenen Nvidia-Chef Huang steht nun auch US-Handelsminister Lutnick in der Kritik.",
+     "link": "https://www.deutschlandfunk.de/us-finanzminister-bessent-macht-handelsminister-lutnick-fuer-chip-lieferungen-nach-china-verantwortl-106.html",
+     "image": "https://bilder.deutschlandfunk.de/a5/ee/cf/8d/a5eecf8d-6e89-447f-921f-bae180250d58/handelminister-lutnick-usa-100-1920x1920.jpg",
+     "aggregator": false,
+     "published": "2026-11-14T04:18:52+00:00"
+    }
+   ]
+  },
+  {
+   "id": 18,
+   "score": 7.77,
+   "outlets": [
+    "Deutsche Welle",
+    "Deutschlandfunk"
+   ],
+   "regions": [
+    "DE",
+    "INT"
+   ],
+   "trend": [],
+   "newest": "2026-11-14T04:18:52+00:00",
+   "articles": [
+    {
+     "source": "Deutsche Welle",
+     "region": "INT",
+     "weight": 0.95,
+     "title": "Quad-Staaten:: Gemeinsam gegen China - aber mit welchem Ziel?",
+     "summary": "Die USA, Indien, Japan und Australien wollen ihren Einfluss im Indopazifik stärken. Doch unterschiedliche Interessen und Zweifel an der US-Führung erschweren es dem Quad, eine gemeinsame strategische Linie zu finden.",
+     "link": "https://www.dw.com/de/quad-staaten-gemeinsam-gegen-china-aber-mit-welchem-ziel/a-79876044?maca=de-rss-de-all-1119-xml-mrss",
+     "image": "https://static.dw.com/image/79819204_302.jpg",
+     "aggregator": false,
+     "published": "2026-11-09T13:26:00+00:00"
+    },
+    {
+     "source": "Deutschlandfunk",
+     "region": "DE",
+     "weight": 0.95,
+     "title": "Mecklenburg-Vorpommern - Parteitage: SPD und Grüne stimmen über Koalitionsvertrag ab",
+     "summary": "In Mecklenburg-Vorpommern wollen SPD und Grüne heute auf ihren Parteitagen über den Koalitionsvertrag abstimmen, den sie gemeinsam mit der Linken ausgearbeitet haben.",
+     "link": "https://www.deutschlandfunk.de/parteitage-spd-und-gruene-stimmen-ueber-koalitionsvertrag-ab-100.html",
+     "image": "https://bilder.deutschlandfunk.de/36/b2/a3/26/36b2a326-ce91-4775-ba44-b7a2a9f3493e/manuela-schwesig-118-1920x1920.jpg",
+     "aggregator": false,
+     "published": "2026-11-14T04:18:52+00:00"
+    }
+   ]
+  },
+  {
+   "id": 19,
+   "score": 7.67,
+   "outlets": [
+    "Deutschlandfunk",
+    "Handelsblatt"
+   ],
+   "regions": [
+    "DE"
+   ],
+   "trend": [],
+   "newest": "2026-11-14T04:18:52+00:00",
+   "articles": [
+    {
+     "source": "Deutschlandfunk",
+     "region": "DE",
+     "weight": 0.95,
+     "title": "Den Haag - Niederländische Minderheitsregierung will weiter über Zusammenarbeit verhandeln",
+     "summary": "In den Niederlanden hat Ministerpräsident Jetten einen Bruch seiner Minderheitsregierung vorerst abgewendet.",
+     "link": "https://www.deutschlandfunk.de/niederlaendische-minderheitsregierung-will-weiter-ueber-zusammenarbeit-verhandeln-104.html",
+     "image": "https://bilder.deutschlandfunk.de/e5/77/d8/2c/e577d82c-fcda-44e6-9c39-41832e04de85/niederlande-ministerpraesident-rob-jetten-minderheitsregierung-treffen-krise-100-1920x1920.jpg",
+     "aggregator": false,
+     "published": "2026-11-14T04:18:52+00:00"
+    },
+    {
+     "source": "Handelsblatt",
+     "region": "DE",
+     "weight": 0.9,
+     "title": "Regierung in der Krise: Koalition in Niederlanden vorerst gerettet",
+     "summary": "Ein Streit um Steuerreform und Millionärsteuer brachte die niederländische Regierung von Ministerpräsident Jetten ins Wanken. Doch ein Bruch wird verhindert - vorerst.",
+     "link": "https://www.handelsblatt.com/politik/international/regierung-in-der-krise-koalition-in-niederlanden-vorerst-gerettet/100269753.html",
+     "image": "https://images.handelsblatt.com/gYCZxp2UTUHB/cover/900/506/0/0/114/114/0.5/0.5/niederlande-minderheitskoalition-in-der-krise.jpg",
+     "aggregator": false,
+     "published": "2026-11-13T19:03:22+00:00"
+    },
+    {
+     "source": "Handelsblatt",
+     "region": "DE",
+     "weight": 0.9,
+     "title": "Regierungskrise: Koalition in Niederlanden steuert auf Neustart zu",
+     "summary": "Ein Streit um Steuerreform und Millionärsteuer brachte die niederländische Regierung von Ministerpräsident Jetten ins Wanken. Doch einige wollen ein Bruch verhindern.",
+     "link": "https://www.handelsblatt.com/politik/international/regierungskrise-koalition-in-niederlanden-steuert-auf-neustart-zu/100269761.html",
+     "image": "https://images.handelsblatt.com/gxqvBMsDh6H8/cover/900/506/0/0/319/349/0.5/0.5/archiv-15.10.2026-belgien-bruessel-rob-jetten-ministerpraesident-der-niederlande-kommt-zum-eu-g.jpg",
+     "aggregator": false,
+     "published": "2026-11-13T14:20:47+00:00"
+    }
+   ]
+  },
+  {
+   "id": 20,
+   "score": 7.67,
+   "outlets": [
+    "Deutschlandfunk",
+    "Handelsblatt"
+   ],
+   "regions": [
+    "DE"
+   ],
+   "trend": [],
+   "newest": "2026-11-14T04:18:52+00:00",
+   "articles": [
+    {
+     "source": "Deutschlandfunk",
+     "region": "DE",
+     "weight": 0.95,
+     "title": "Weltweite Störung - Microsoft: Probleme gingen auf Netzwerk-Update zurück",
+     "summary": "Die lange weltweite Störung bei Online-Diensten von Microsoft ging nach Angaben des Unternehmens auf ein hausinternes Update zurück.",
+     "link": "https://www.deutschlandfunk.de/microsoft-probleme-gingen-auf-netzwerk-update-zurueck-104.html",
+     "image": "https://bilder.deutschlandfunk.de/NO/VA/_f/1e/NOVA_f1ee74d815e7e98093562bcfad712b7b/craft-13546291-asset-100-1920x1920.jpg",
+     "aggregator": false,
+     "published": "2026-11-14T04:18:52+00:00"
+    },
+    {
+     "source": "Handelsblatt",
+     "region": "DE",
+     "weight": 0.9,
+     "title": "Nach Cloud-Ausfall: Microsoft: Störung ging auf Netzwerk-Upgrade zurück",
+     "summary": "Eine stundenlange Störung bei Cloud-Diensten von Microsoft traf viele Unternehmen und Verbraucher. Der Software-Riese äußert sich nun zu den Gründen.",
+     "link": "https://www.handelsblatt.com/technik/it-internet/nach-cloud-ausfall-microsoft-stoerung-ging-auf-netzwerk-upgrade-zurueck/100269813.html",
+     "image": "https://images.handelsblatt.com/7MTlchlEaOAl/cover/900/506/0/0/92/91/0.5/0.5/microsoft-stoerung.jpg",
+     "aggregator": false,
+     "published": "2026-11-13T20:01:30+00:00"
+    }
+   ]
+  },
+  {
+   "id": 21,
+   "score": 7.64,
+   "outlets": [
+    "SPIEGEL",
+    "DER STANDARD",
+    "WELT"
+   ],
+   "regions": [
+    "AT",
+    "DE"
+   ],
+   "trend": [],
+   "newest": "2026-11-13T22:12:06+00:00",
+   "articles": [
+    {
+     "source": "SPIEGEL",
+     "region": "DE",
+     "weight": 0.9,
+     "title": "Jesús de Miguel: Zwölf Spiele Sperre für Torwart Owono nach Todesfall in Spanien",
+     "summary": "Nach einem harten Foul von Torhüter Jesús Owono erlitt Fußballprofi Jesús de Miguel einen Herzstillstand und starb wenig später. Nun gab der spanische Verband das Strafmaß gegen Owono bekannt.",
+     "link": "https://www.spiegel.de/sport/fussball/jesus-de-miguel-zwoelf-spiele-sperre-fuer-torwart-owono-nach-todesfall-in-spanien-a-31308e21-c436-44f9-acad-29bd49f60c3a#ref=rss",
+     "image": "https://cdn.prod.www.spiegel.de/images/5145c091-6c10-4da0-93c8-48361d066363_w520_r2.08_fpx56.67_fpy52.98.jpg",
+     "aggregator": false,
+     "published": "2026-11-13T21:59:00+00:00"
+    },
+    {
+     "source": "DER STANDARD",
+     "region": "AT",
+     "weight": 0.85,
+     "title": "Nach Tod von de Miguel: Zwölf Spiele Sperre für Andorra-Tormann",
+     "summary": "Der Stürmer war bei einem Match vom herauslaufenden Torhüter mit dem Knie im Brustbereich getroffen worden. Die Familie des Opfers erhielt mehr als 200.000 Euro durch eine Crowdfunding-Aktion",
+     "link": "https://www.derstandard.at/story/3000000349208/fu223ball-nach-tod-von-de-miguel-familie-von-spenden-sehr-ber252hrt?ref=rss",
+     "image": "https://i.ds.at/W3guBA/rs:fill:150:0/plain/lido-images/2026/11/13/1134e3a0-72af-4234-8768-ab7adaecb195.jpg",
+     "aggregator": false,
+     "published": "2026-11-13T22:12:06+00:00"
+    },
+    {
+     "source": "WELT",
+     "region": "DE",
+     "weight": 0.8,
+     "title": "Nach tragischem Tod – zwölf Spiele Sperre für Torwart Owono",
+     "summary": "Der Tod von Jesús de Miguel erschüttert den Fußball. Der spanische Zweitligaspieler starb nach einem Foul des Torwarts Jesús Owono. Der Verband sperrte den Keeper für zwolf Spiele. Dieser kann eh nicht an Fußball denken.",
+     "link": "https://www.welt.de/sport/fussball/article6af77f18cfc5b9ee3173c185/jesus-de-miguel-30-nach-tragischem-tod-zwoelf-spiele-sperre-fuer-torwart-owono.html",
+     "image": "https://images.welt.de/6af77f18cfc5b9ee3173c185/dc33bea7ad8d3de95e93044383a5146d/ci23x11-w1200/1794603217233-afp-d7f93g3-jpg",
+     "aggregator": false,
+     "published": "2026-11-13T21:27:58+00:00"
+    },
+    {
+     "source": "Spiegel",
+     "region": "DE",
+     "weight": 0.6,
+     "title": "Jesús de Miguel: Zwölf Spiele Sperre für Torwart Owono nach Todesfall in Spanien",
+     "summary": "Jesús de Miguel: Zwölf Spiele Sperre für Torwart Owono nach Todesfall in Spanien Spiegel Verband hat entschieden: Mega-Sperre für Torhüter, der de Miguel (†30) foulte BILD Nach Tod von de Miguel: Strafe für Torhüter Owono steht fest WEB.DE Nach Tod von de Miguel: Zwölf Spiele Sperre für Torhüter Owono FAZ Nach tragischem Tod von de Miguel: Andorra will Owono \"Freiraum\" geben Kicker",
+     "link": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxObmhLVlY0c2tZMGZ4dGhLTTVkOFZ4enlITlRnOHJOVUFUaE4wbVdzZWoxTDQ5RmJYbXZuQ2NPVGtIUU84bXhsbFo4SDA2bVIwVlFUbDgyT1pnVm5HOWVkb183Z3k5cm5qT3J4YTI5SUltWVRoT1lDeGFyYjZFd1F6cm9sWXVpNXlfdU5STWZkLUZ2M1hhQU8xS2tucmlHZkFTQVdrWEtFQ05LaVBIOUtMcVBabEctaXBKNmxMeS1yaTViZVh5bmRXZ01mSjhTeXhTRUhhalVFa3dUWlY4cXBZY1FQRU9wbnNhUDB3ZnlLVQ?oc=5",
+     "image": null,
+     "aggregator": true,
+     "published": "2026-11-13T21:59:00+00:00"
+    }
+   ]
+  },
+  {
+   "id": 22,
+   "score": 7.57,
+   "outlets": [
+    "Deutschlandfunk",
+    "WirtschaftsWoche"
+   ],
+   "regions": [
+    "DE"
+   ],
+   "trend": [],
+   "newest": "2026-11-14T04:18:52+00:00",
+   "articles": [
+    {
+     "source": "Deutschlandfunk",
+     "region": "DE",
+     "weight": 0.95,
+     "title": "Militärische Bedeutung - Bund will nach Medienberichten bei Atomfirma Urenco einsteigen",
+     "summary": "Die Bundesregierung will sich nach übereinstimmenden Medienberichten am Atomtechnikkonzern Urenco beteiligen.",
+     "link": "https://www.deutschlandfunk.de/bund-will-nach-medienberichten-bei-atomfirma-urenco-einsteigen-106.html",
+     "image": "https://bilder.deutschlandfunk.de/FI/LE/_9/27/FILE_927ab776d3c2c08a2ef1c9c6f425d299/urenco-l-jpg-102-768x768.jpg",
+     "aggregator": false,
+     "published": "2026-11-14T04:18:52+00:00"
+    },
+    {
+     "source": "WirtschaftsWoche",
+     "region": "DE",
+     "weight": 0.85,
+     "title": "Atomtechnik: Militärische Bedeutung treibt Bund offenbar zu Einstieg bei Atomfirma Urenco",
+     "summary": "Der Bund will laut Insidern bei der Atomfirma Urenco einsteigen und Anteile von E.ON und RWE übernehmen. Hintergrund ist auch die militärische Bedeutung.",
+     "link": "https://www.wiwo.de/politik/deutschland/urenco-bund-plant-laut-medienberichten-einstieg-bei-atomtechnikkonzern/100269763.html",
+     "image": "https://images.wiwo.de/8gEs3be-XrhK/cover/900/506/0/0/40/40/0.5/0.5/archiv-ein-mitarbeiter-kommt-am-freitag-22.01.2010-in-gronau-zur-urananreicherungsanlage-der-bet.jpg",
+     "aggregator": false,
+     "published": "2026-11-13T16:43:53+00:00"
+    }
+   ]
+  },
+  {
+   "id": 23,
+   "score": 7.57,
+   "outlets": [
+    "Deutschlandfunk",
+    "DER STANDARD"
+   ],
+   "regions": [
+    "AT",
+    "DE"
+   ],
+   "trend": [],
+   "newest": "2026-11-14T04:18:52+00:00",
+   "articles": [
+    {
+     "source": "Deutschlandfunk",
+     "region": "DE",
+     "weight": 0.95,
+     "title": "Klimaauswirkungen - El Niño: Brasilianischer Bundesstaat Pará ruft nach Tausenden Waldbränden den Umweltnotstand aus",
+     "summary": "Der brasilianische Bundesstaat Pará hat nach zahlreichen Waldbränden den Umweltnotstand ausgerufen.",
+     "link": "https://www.deutschlandfunk.de/el-ni-o-brasilianischer-bundesstaat-par-ruft-nach-tausenden-waldbraenden-den-umweltnotstand-aus-104.html",
+     "image": "https://bilder.deutschlandfunk.de/84/38/11/e9/843811e9-2a4b-4a5b-ab40-e61d48d3dc28/brasilien-para-100-1920x1920.jpg",
+     "aggregator": false,
+     "published": "2026-11-14T04:18:52+00:00"
+    },
+    {
+     "source": "DER STANDARD",
+     "region": "AT",
+     "weight": 0.85,
+     "title": "Nach 5.000 Waldbränden: Brasilien ruft Umweltnotstand aus",
+     "summary": "Bereits jetzt wurden so viele Brände wie im gesamten November des Vorjahres registriert. Der Notstand gilt zunächst für 120 Tage",
+     "link": "https://www.derstandard.at/story/3000000349202/nach-5000-waldbr228nden-brasilianischer-staat-rief-umweltnotstand-aus?ref=rss",
+     "image": "https://i.ds.at/doZ-rw/rs:fill:150:0/plain/lido-images/2026/11/13/5caa4d37-a7fe-4068-92ed-141453d3140a.jpg",
+     "aggregator": false,
+     "published": "2026-11-13T18:42:37+00:00"
+    }
+   ]
+  },
+  {
+   "id": 24,
+   "score": 7.48,
+   "outlets": [
+    "Deutschlandfunk",
+    "WELT"
+   ],
+   "regions": [
+    "DE"
+   ],
+   "trend": [],
+   "newest": "2026-11-14T04:19:45+00:00",
+   "articles": [
+    {
+     "source": "Deutschlandfunk",
+     "region": "DE",
+     "weight": 0.95,
+     "title": "Ausschluss geplant - Linke-Parteichef Pantisano verteidigt Verfahren zu Berliner Abgeordneten Emde",
+     "summary": "Der Linke-Bundesvorsitzende Pantisano hat das Verfahren zum Umgang mit der umstrittenen Berliner Abgeordneten Emde verteidigt.",
+     "link": "https://www.deutschlandfunk.de/linke-parteichef-pantisano-verteidigt-verfahren-zu-berliner-abgeordneten-emde-100.html",
+     "image": "https://bilder.deutschlandfunk.de/ed/bc/8a/74/edbc8a74-ab2a-4125-9ad9-a4383de98227/luigi-pantisano-100-1920x1920.jpg",
+     "aggregator": false,
+     "published": "2026-11-14T04:18:52+00:00"
+    },
+    {
+     "source": "WELT",
+     "region": "DE",
+     "weight": 0.8,
+     "title": "„Wir leben in einem Rechtsstaat“ – Linke-Chef verteidigt langwieriges Verfahren zu Vanessa Emde",
+     "summary": "Der Chef der Linkspartei, Luigi Pantisano, bittet um Geduld, was den Ausschluss von Vanessa Emde angeht. Deutschland sei kein autoritäres Regime, wo man mit einem Fingerschnippen gewählte Abgeordnete vor die Tür setzt.",
+     "link": "https://www.welt.de/politik/article6af7ba6a4495f9bd85b7f5f7/umstrittene-abgeordnete-wir-leben-in-einem-rechtsstaat-linke-chef-verteidigt-langwieriges-verfahren-zu-vanessa-emde.html",
+     "image": "https://images.welt.de/6af7ba6a4495f9bd85b7f5f7/ee70853fc760d0be78d9289141f6a33d-master/ci23x11-w1200/dpa-com-261114-935-1741993-jpg",
+     "aggregator": false,
+     "published": "2026-11-14T04:19:45+00:00"
+    },
+    {
+     "source": "WELT",
+     "region": "DE",
+     "weight": 0.8,
+     "title": "„Emde? Diesen Namen kannte keiner“, sagt Bartsch. „Und in einem Jahr kennt ihn wieder keiner“",
+     "summary": "Linken-Politiker Dietmar Bartsch erwartet den Ausschluss der Berliner Abgeordneten Vanessa Emde aus ihrer Fraktion. Die Probleme seiner Partei im Umgang mit Israel löst das nach seiner Einschätzung nicht.",
+     "link": "https://www.welt.de/vermischtes/article6af72cc484c7128d8f27e830/journal-deluxe-emde-diesen-namen-kannte-keiner-sagt-bartsch-und-in-einem-jahr-kennt-ihn-wieder-keiner.html",
+     "image": "https://images.welt.de/6af72cc484c7128d8f27e830/e152548ad07448b4d3bf3a542669d129-master/ci23x11-w1200/bildschirmfoto-2026-11-13-um-19-44-43-png",
+     "aggregator": false,
+     "published": "2026-11-13T19:56:47+00:00"
+    }
+   ]
+  },
+  {
+   "id": 25,
+   "score": 7.47,
+   "outlets": [
+    "ZEIT ONLINE",
+    "Handelsblatt"
+   ],
+   "regions": [
+    "DE"
+   ],
+   "trend": [],
+   "newest": "2026-11-14T04:00:06+00:00",
+   "articles": [
+    {
+     "source": "ZEIT ONLINE",
+     "region": "DE",
+     "weight": 0.9,
+     "title": "Energiewende: Produktion von Sonnenstrom steuert auf Rekord zu",
+     "summary": "",
+     "link": "https://www.zeit.de/news/2026-11/14/produktion-von-sonnenstrom-steuert-auf-rekord-zu",
+     "image": "https://img.zeit.de/news/2026-11/14/produktion-von-sonnenstrom-steuert-auf-rekord-zu-image-group/original__640x360",
+     "aggregator": false,
+     "published": "2026-11-14T04:00:06+00:00"
+    },
+    {
+     "source": "Handelsblatt",
+     "region": "DE",
+     "weight": 0.9,
+     "title": "Energiewende: Produktion von Sonnenstrom steuert auf Rekord zu",
+     "summary": "Solarenergie trägt immer stärker zur Stromerzeugung in Deutschland bei. Welche Folgen hat das?",
+     "link": "https://www.handelsblatt.com/politik/deutschland/energiewende-produktion-von-sonnenstrom-steuert-auf-rekord-zu/100269842.html",
+     "image": "https://images.handelsblatt.com/JKg38nnpNKOZ/cover/900/506/0/0/0/0/0.5/0.5/agri-photovoltaikanlage.jpg",
+     "aggregator": false,
+     "published": "2026-11-14T04:00:06+00:00"
+    }
+   ]
+  },
+  {
+   "id": 26,
+   "score": 7.38,
+   "outlets": [
+    "Süddeutsche",
+    "WELT",
+    "n-tv"
+   ],
+   "regions": [
+    "DE"
+   ],
+   "trend": [],
+   "newest": "2026-11-13T23:32:49+00:00",
+   "articles": [
+    {
+     "source": "Süddeutsche",
+     "region": "DE",
+     "weight": 0.9,
+     "title": "3:1 gegen Serbien: Dominanz im Dauerregen",
+     "summary": "Das DFB-Team gewinnt in Belgrad auf einem durchgeweichten Rasen souverän gegen einen schwachen Gegner, der auch noch zwei rote Karten sieht. Die Frage ist: Was kann Trainer Jürgen Klopp aus diesem Auftritt lernen?",
+     "link": "https://www.sueddeutsche.de/sport/dfb-team-serbien-nations-league-klopp-gruda-li.3578389",
+     "image": "https://www.sueddeutsche.de/2026/11/13/40a56d8e-499f-43cb-b513-013cd05d32e9.jpg?rect=112%2C0%2C1799%2C1349&width=1000&fm=jpg&q=60",
+     "aggregator": false,
+     "published": "2026-11-13T22:03:56+00:00"
+    },
+    {
+     "source": "WELT",
+     "region": "DE",
+     "weight": 0.8,
+     "title": "Neuling Gruda überzeugt – Deutschland siegt souverän im Dauerregen von Belgrad",
+     "summary": "Die deutsche Nationalelf gewinnt souverän in Serbien und kann weiter auf das Viertelfinale in der Nations League hoffen. Im Dauerregen von Belgrad überzeugt vor allem ein Debütant.",
+     "link": "https://www.welt.de/sport/fussball/article6af74f2815e28ea3dd919cda/nations-league-neuling-gruda-ueberzeugt-deutschland-siegt-souveraen-im-dauerregen-von-belgrad.html",
+     "image": "https://images.welt.de/6af74f2815e28ea3dd919cda/ac336e843b599edab643e3d3f1225286/ci23x11-w1200/2026-11-13t210353z-1911882749-up1embd1migow-rtrmadp-3-soccer-uefanations-srb-ger-jpg",
+     "aggregator": false,
+     "published": "2026-11-13T19:44:30+00:00"
+    },
+    {
+     "source": "n-tv",
+     "region": "DE",
+     "weight": 0.8,
+     "title": "\"Katastrophaler\" Gegner für Klopp: \"Das war Fußball zum Verlieben - und jetzt zu Deutschland!\"",
+     "summary": "Deutschland gewinnt souverän gegen Serbien und bekommt das Nations-League-Gruppenfinale gegen die Niederlande. Der Gegner war schwach, die DFB-Elf aber stark. Besonders zwei Spieler gefallen unserem Experten Arie van Lent.",
+     "link": "https://www.n-tv.de/sport/fussball/Das-war-Fussball-zum-Verlieben-und-jetzt-zu-Deutschland-id31532379.html",
+     "image": "https://www.n-tv.de/img/31532993/1794611382/Img_4_3/250/image.jpg",
+     "aggregator": false,
+     "published": "2026-11-13T23:32:49+00:00"
+    }
+   ]
+  },
+  {
+   "id": 27,
+   "score": 7.26,
+   "outlets": [
+    "tagesschau",
+    "ZEIT ONLINE",
+    "DIE ZEIT"
+   ],
+   "regions": [
+    "DE",
+    "INT"
+   ],
+   "trend": [],
+   "newest": "2026-11-14T00:58:32+00:00",
+   "articles": [
+    {
+     "source": "tagesschau",
+     "region": "DE",
+     "weight": 1.0,
+     "title": "EU einigt sich auf europäisches Team für Ukraine-Verhandlungen",
+     "summary": "Lange wurde diskutiert, wer Europa bei Gesprächen mit Russland über ein Ende des Kriegs gegen die Ukraine vertreten soll. Nun gibt es eine Einigung: Das Team bilden Vertreter der EU-Institutionen und aus fünf Ländern - darunter auch Deutschland.",
+     "link": "https://www.tagesschau.de/ausland/eu-vertreter-ukraine-gespraeche-100.html",
+     "image": "https://images.tagesschau.de/image/c7de04a3-94b2-40c1-908c-35479fc47e03/AAABodY5obQ/AAABnSSvrFg/16x9-big/eu-dublin-100.jpg?width=1920",
+     "aggregator": false,
+     "published": "2026-11-13T18:44:23+00:00"
+    },
+    {
+     "source": "tagesschau Inland",
+     "region": "DE",
+     "weight": 1.0,
+     "title": "Warum sitzt Deutschland in Abu Dhabi nicht am Verhandlungstisch?",
+     "summary": "Derzeit treffen sich in Abu Dhabi Vertreter der Ukraine, Russlands und der USA, um Gespräche über ein Ende des Krieges wieder aufzunehmen. Europa scheint im Abseits, obwohl Deutschland der größte Unterstützer der Ukraine ist. Von N. Markwald.",
+     "link": "https://www.tagesschau.de/inland/innenpolitik/deutschland-rolle-ukraine-gespraeche-100.html",
+     "image": "https://images.tagesschau.de/image/59c612e1-678f-4aed-bbfb-7469096f2544/AAABocTEhrw/AAABnSSvrFg/16x9-big/merz-selenskyj-144.jpg?width=1920",
+     "aggregator": false,
+     "published": "2026-11-10T14:15:52+00:00"
+    },
+    {
+     "source": "tagesschau Ausland",
+     "region": "INT",
+     "weight": 1.0,
+     "title": "EU einigt sich auf europäisches Team für Ukraine-Verhandlungen",
+     "summary": "Lange wurde diskutiert, wer Europa bei Gesprächen mit Russland über ein Ende des Kriegs gegen die Ukraine vertreten soll. Nun gibt es eine Einigung: Das Team bilden Vertreter der EU-Institutionen und aus fünf Ländern - darunter auch Deutschland.",
+     "link": "https://www.tagesschau.de/ausland/eu-vertreter-ukraine-gespraeche-100.html",
+     "image": "https://images.tagesschau.de/image/c7de04a3-94b2-40c1-908c-35479fc47e03/AAABodY5obQ/AAABnSSvrFg/16x9-big/eu-dublin-100.jpg?width=1920",
+     "aggregator": false,
+     "published": "2026-11-13T18:44:23+00:00"
+    },
+    {
+     "source": "ZEIT ONLINE",
+     "region": "DE",
+     "weight": 0.9,
+     "title": "Ukrainefriedensgespräche: EU einigt sich auf Verhandlungsteam für Gespräche mit Russland",
+     "summary": "Bei Ukrainegesprächen mit Russland sollen Vertreter Europas mitreden. Auch Deutschland ist beteiligt. Konkrete Namen wurden zunächst aber nicht genannt.",
+     "link": "https://www.zeit.de/politik/ausland/2026-11/ukraine-friedensgespraeche-beteiligung-europa-deutschland",
+     "image": "https://img.zeit.de/politik/ausland/2026-11/https-vivi-zeit-de-repository-politik-ausland-2026-11-ukraine-friedensgespraeche-beteiligung-europa-deutschland-bild/original__640x360",
+     "aggregator": false,
+     "published": "2026-11-14T00:58:32+00:00"
+    },
+    {
+     "source": "DIE ZEIT",
+     "region": "DE",
+     "weight": 0.6,
+     "title": "Ukrainekrieg: Merz geht von deutscher Teilnahme an Ukraine-Friedensgesprächen aus",
+     "summary": "Ukrainekrieg: Merz geht von deutscher Teilnahme an Ukraine-Friedensgesprächen aus DIE ZEIT EU einigt sich auf europäisches Team für Ukraine-Verhandlungen tagesschau.de Ukraine-News: Drei Tote bei russischen Angriffen auf Saporischschja und Odessa MDR.de Ukrainefriedensgespräche: EU einigt sich auf Verhandlungsteam für Gespräche mit Russland DIE ZEIT EU einig: Verhandlungsteam für Gespräche mit Russland steht BILD",
+     "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQMDhQRkVBaTVDM29WV09lS0xvNEh2eE9HY19sQzZOb3V1c3lDcmJ1bHdHcHVyTmxMZm1YTk9tSGJhVlhnSVVYRHIyWFg3cWl2cE9lUmlWQmJoUXFFN2hHcE9VZ2VCNXlkUFZCTzhBS19VX3hMT1AxcFBqTmd1ZmdGVHFlYncyeTcxbUJlNWdtSGhITHdRSXEyZmhYVzFUUUtEbzhNUEJUV29QQklRVk45d3pjV19kQ1ZUYXc?oc=5",
+     "image": null,
+     "aggregator": true,
+     "published": "2026-11-13T13:10:48+00:00"
+    }
+   ]
+  }
+ ]
+}
