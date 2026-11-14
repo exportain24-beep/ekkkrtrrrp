@@ -1,0 +1,68 @@
+{
+  "format": "single",
+  "candidate_id": 3,
+  "pillar": "POLITIK",
+  "region": "DE",
+  "kicker": "MÜNCHEN",
+  "hook_screen": "ABSCHIED VON AIWANGER",
+  "hook_voice": "Aiwanger: Bayern ehrt ihn mit seltenem Trauerstaatsakt.",
+  "beats": [
+    {
+      "voice": "Mehr als tausend Trauergäste kamen in die Münchner Frauenkirche. Die Kirche konnte nicht alle aufnehmen.",
+      "big": "1.000+",
+      "label": "Trauergäste in der Frauenkirche"
+    },
+    {
+      "voice": "Der Freie-Wähler-Chef wurde nur fünfundfünfzig Jahre alt. Vor zehn Tagen fand man ihn tot in einem Berliner Hotelzimmer.",
+      "big": "55",
+      "label": "plötzlicher Tod vor zehn Tagen"
+    },
+    {
+      "voice": "Ministerpräsident Markus Söder würdigte ihn als Vollblutpolitiker und Heimatmenschen. Das ganze Land trauere.",
+      "big": "SÖDER",
+      "label": "„Vollblutpolitiker und Heimatmensch“"
+    },
+    {
+      "voice": "Der Sarg war weiß-blau, zum Abschied fielen Böllerschüsse. Söder und Aigner verneigten sich vor dem Sarg.",
+      "big": "WEISS-BLAU",
+      "label": "Böllerschüsse zum Abschied"
+    }
+  ],
+  "loop_line": "Und warum reichte die Frauenkirche für diesen Abschied nicht aus?",
+  "headline": "Bayern nimmt Abschied von Aiwanger",
+  "highlight": [
+    "Aiwanger"
+  ],
+  "entities": [
+    "Hubert Aiwanger",
+    "Frauenkirche München",
+    "Markus Söder",
+    "Freie Wähler"
+  ],
+  "youtube_title": "Staatsakt für Aiwanger: Warum reichte die Frauenkirche nicht?",
+  "description_lead": "Bayern hat Hubert Aiwanger, Vize-Ministerpräsident, Wirtschaftsminister und Chef der Freien Wähler, mit einem seltenen Trauerstaatsakt in der Münchner Frauenkirche verabschiedet – mehr als 1.000 Gäste kamen, nicht alle fanden Platz. Ministerpräsident Markus Söder würdigte den mit 55 Jahren plötzlich Verstorbenen als „Vollblutpolitiker und Heimatmensch“.",
+  "tags": [
+    "Hubert Aiwanger",
+    "Aiwanger",
+    "Markus Söder",
+    "Freie Wähler",
+    "Frauenkirche",
+    "München",
+    "Bayern",
+    "Ilse Aigner",
+    "Trauerstaatsakt",
+    "Staatsakt",
+    "Trauerfeier",
+    "Landespolitik",
+    "Nachrichten aktuell",
+    "Deutschland"
+  ],
+  "hashtags": [
+    "#aiwanger",
+    "#bayern",
+    "#politik"
+  ],
+  "facebook_caption_line1": "Bayern nimmt Abschied: Über 1.000 Trauergäste beim Staatsakt für Hubert Aiwanger.",
+  "facebook_question": "Wie werden Sie Hubert Aiwanger als Politiker in Erinnerung behalten?",
+  "comment_question": "Haben Sie den Staatsakt für Aiwanger verfolgt: ja oder nein?"
+}
