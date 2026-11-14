@@ -1,0 +1,26 @@
+{
+  "format": "single",
+  "candidate_id": 0,
+  "pillar": "WIRTSCHAFT",
+  "region": "INT",
+  "kicker": "MICROSOFT",
+  "hook_screen": "MICROSOFT-CRASH!",
+  "hook_voice": "Microsoft schaltet sich mit eigenem Update selbst ab.",
+  "beats": [
+    {"voice": "Störungsmeldungen kamen aus vierundsiebzig Ländern. Outlook, Teams und der KI-Assistent Copilot fielen am Freitag stundenlang aus.", "big": "74 LÄNDER", "label": "melden Störungen bei Microsoft 365"},
+    {"voice": "Firmen und Verbraucher mussten massive Einschränkungen hinnehmen. Für viele Büros hieß das: keine E-Mails, keine Teams-Besprechungen.", "big": "STUNDEN", "label": "Großstörung für Firmen und Verbraucher"},
+    {"voice": "Ein Hackerangriff war es nicht. Microsoft findet bislang keinen Hinweis auf eine Cyberattacke.", "big": "KEIN HACK", "label": "Microsoft: keine Spur eines Cyberangriffs"},
+    {"voice": "Jetzt nennt der Konzern die Ursache: ein hausinternes Update im eigenen Netzwerk.", "big": "UPDATE", "label": "Ursache laut Microsoft: Netzwerk-Upgrade"}
+  ],
+  "loop_line": "Ein einziges Update stoppt die Arbeit weltweit – wie abhängig ist Ihr Büro?",
+  "headline": "Microsoft-Update stoppt Outlook, Teams",
+  "highlight": ["Microsoft"],
+  "entities": ["Microsoft", "Microsoft Outlook", "Microsoft Teams"],
+  "youtube_title": "Microsoft schaltet sich selbst ab: Wie abhängig ist Ihr Büro?",
+  "description_lead": "Eine stundenlange Großstörung bei Microsoft 365 hat Outlook, Teams und Copilot weltweit ausfallen lassen – Störungsmeldungen kamen aus 74 Ländern. Microsoft findet keinen Hinweis auf einen Cyberangriff und nennt ein hausinternes Netzwerk-Update als Ursache.",
+  "tags": ["Microsoft", "Microsoft 365", "Outlook", "Microsoft Teams", "Copilot", "Microsoft Störung", "Outlook Störung", "Teams Ausfall", "Cloud-Ausfall", "Netzwerk-Update", "Cyberangriff", "Homeoffice", "Wirtschaft", "Nachrichten aktuell"],
+  "hashtags": ["#microsoft", "#outlook", "#nachrichten"],
+  "facebook_caption_line1": "Weltweiter Microsoft-Ausfall: Outlook und Teams stundenlang tot – schuld war ein eigenes Update.",
+  "facebook_question": "Sollten Firmen und Behörden weniger von einem einzigen Software-Konzern abhängen?",
+  "comment_question": "Hat der Microsoft-Ausfall auch Ihre Arbeit getroffen – ja oder nein?"
+}
