@@ -1,0 +1,26 @@
+{
+  "format": "single",
+  "candidate_id": 1,
+  "pillar": "WELT",
+  "region": "INT",
+  "kicker": "USA",
+  "hook_screen": "MASERN-ALARM USA!",
+  "hook_voice": "USA verlieren nach sechsundzwanzig Jahren den Status masernfrei.",
+  "beats": [
+    {"voice": "Fünftausendvierhundertzwölf Infektionen zählen die USA allein in diesem Jahr, berichten mehrere Medien.", "big": "5.412", "label": "Masern-Infektionen in den USA 2026"},
+    {"voice": "Der Grund: Derselbe Virusstamm springt seit mindestens zwölf Monaten ununterbrochen von Mensch zu Mensch.", "big": "12 Monate", "label": "ununterbrochene Übertragung im Land"},
+    {"voice": "Nur noch zweiundneunzig Prozent der Kindergartenkinder sind geimpft. Die Weltgesundheitsorganisation nennt Masern das ansteckendste Virus der Welt.", "big": "92 %", "label": "der Kindergartenkinder geimpft"},
+    {"voice": "Und Deutschland? Die Bundesrepublik war noch nie offiziell als masernfrei eingestuft.", "big": "NIE", "label": "Deutschland offiziell masernfrei"}
+  ],
+  "loop_line": "Was die USA gerade verlieren, hatte Deutschland also noch nie –",
+  "headline": "USA verlieren Status masernfrei",
+  "highlight": ["masernfrei"],
+  "entities": ["Masern", "Vereinigte Staaten", "Weltgesundheitsorganisation"],
+  "youtube_title": "Masern in den USA: Status nach 26 Jahren weg – und Deutschland?",
+  "description_lead": "Masern in den USA: Laut Medienberichten verlieren die Vereinigten Staaten nach 26 Jahren ihren Status als masernfreies Land – 5412 Infektionen wurden in diesem Jahr bereits registriert, derselbe Virusstamm wird seit mindestens zwölf Monaten übertragen. Nur noch 92 Prozent der Kindergartenkinder sind geimpft; Deutschland war noch nie offiziell als masernfrei eingestuft.",
+  "tags": ["Masern", "Masern USA", "USA", "masernfrei", "Masernimpfung", "Impfquote", "Weltgesundheitsorganisation", "WHO", "Deutschland", "Gesundheit", "Impfung", "Infektionen", "Virus", "Kindergarten"],
+  "hashtags": ["#masern", "#usa", "#gesundheit"],
+  "facebook_caption_line1": "Masern in den USA: Nach 26 Jahren verliert das Land laut Berichten seinen Status „masernfrei“ – 5412 Infektionen in diesem Jahr",
+  "facebook_question": "Sollte die Masernimpfung für alle Kinder Pflicht sein?",
+  "comment_question": "Haben Sie Ihren Masern-Impfschutz schon einmal überprüft: Ja oder nein?"
+}
