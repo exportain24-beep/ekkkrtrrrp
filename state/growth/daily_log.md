@@ -99,3 +99,15 @@
   18:30 fokus-politik · 19:30 fokus-prime (Abo-Benachrichtigung: mittag, abend, fokus-prime).
 - Entfernt + Desk-Aufgaben pausiert: 07:00 morgen (4er), 08:30 fokus-geld, 10:00 vormittag, 13:15 fokus-pause, 20:45 nacht, 22:00 fokus-top.
 - Ab 16. Nov getrennt messen (6/Tag vs. 12/Tag). Keine Slots zurückholen ohne Inhaber.
+
+## 2026-11-15 (vidIQ: 6 Calls, 40 Credits, Rest ≈ 4.938) – nach Audit (RECOVERED); kein Hebel geändert
+- YT-Analytics bis 13. Nov: 13. Nov 6.769 Views / 2.677 engaged (40 %) / Ø-Wiedergabe 58,6 % / +2 Abos / 12 Shares · 12. Nov 2.487 / 70,3 %.
+- Traffic 8.–15. Nov: Shorts-Feed 22.831 (75 %), Suche 6.818 (22 %), andere YT-Seiten 288, Abo-Feed 184, extern 63.
+- YT je Upload-Tag (öffentlich, 22:20 UTC): 13. Nov Ø 693 (10, 6.933) · 14. Nov Ø 694 (12, 8.325) · 15. Nov Ø 253 (10, 2.529, Median 93).
+- FB je Upload-Tag (Plays, 16:54 UTC): 13. Nov Ø 517 (10, 5.166) · 14. Nov Ø 760 (12, 9.120) · 15. Nov Ø 64 (8 gemessen, 509; jung).
+- Headline/4er 15. Nov: YT 242 / FB 12 (Frührente) — FOKUS 15. Nov (9): YT Ø 254 / FB Ø 71. 13.–15. Nov: 4er Ø 207/20 vs. FOKUS Ø 586/507.
+- Bestes 15. Nov: SpaceX-Starship-Fang YT 809 / FB 2 · Sabalenka 611 / 194. FB-Bestes 15. Nov: Sabalenka 194. Spätzünder FB: Aiwanger 5.487 (gestern 167).
+- Schlechtestes 15. Nov: Handwerk-Krise YT 44 / FB 1 · Solar 30 (7 h) / 13 · Meta 67 / 1.
+- vidIQ-Watch uvU1jemvg7U (SpaceX): „STARSHIP GEFANGEN!“ Sek. 0, Stimme sofort, Zahlkarten, Deutsch fehlerfrei; statische Fotos wiederholt.
+- vidIQ-Watch wQz4wHPiY5I (Handwerk): Hook + Zahl korrekt, Deutsch fehlerfrei; 31 s nur ein Porträt eines Verbandschefs.
+- Kein Hebel geändert: Inhaber hat heute Abend auf 6 Shorts/Tag umgestellt (gilt ab 16. Nov) – eine zweite Änderung am selben Tag würde die Messung vermischen. Kandidat in experiments.md.
