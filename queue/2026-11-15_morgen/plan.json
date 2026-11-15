@@ -1,0 +1,100 @@
+{
+  "stories": [
+    {
+      "candidate_id": 27,
+      "pillar": "POLITIK",
+      "region": "DE",
+      "kicker": "RENTE",
+      "headline": "Frührente: Höhere Abschläge geplant",
+      "highlight": [
+        "Frührente"
+      ],
+      "voice": "CSU-Landesgruppenchef Alexander Hoffmann will Frührentnern null Komma vier statt null Komma drei Prozent pro Monat abziehen. Das sind vier Komma acht Prozent pro Jahr.",
+      "subline": "Abschlag soll von 0,3 auf 0,4 Prozent pro Monat steigen",
+      "entities": [
+        "Alexander Hoffmann",
+        "Deutsche Rentenversicherung",
+        "CSU"
+      ]
+    },
+    {
+      "candidate_id": 26,
+      "pillar": "POLITIK",
+      "region": "DE",
+      "kicker": "GESUNDHEIT",
+      "headline": "Facharzt-Termin nur gegen Bezahlung?",
+      "highlight": [
+        "Facharzt-Termin"
+      ],
+      "voice": "Kassenärzte-Chef Andreas Gassen erwartet wegen Honorarkürzungen mehr Selbstzahler-Termine beim Facharzt. SPD, Krankenkassen und ein Sozialverband laufen Sturm, die Grünen warnen vor Drei-Klassen-Medizin.",
+      "subline": "Schneller zum Facharzt nur für Selbstzahler – heftige Kritik",
+      "entities": [
+        "Andreas Gassen",
+        "Kassenärztliche Bundesvereinigung"
+      ]
+    },
+    {
+      "candidate_id": 21,
+      "pillar": "POLITIK",
+      "region": "DE",
+      "kicker": "BERLIN",
+      "headline": "SPD-Gruppen gegen Klingbeil",
+      "highlight": [
+        "Klingbeil"
+      ],
+      "voice": "Klingbeil gerät unter Druck: SPD-Gruppen wollen offenbar seine Wiederwahl verhindern. Umweltminister Carsten Schneider hält dagegen: „Ich vertraue ihm.“ Rivale Hubertus Heil kandidiert im Januar.",
+      "subline": "Anti-Klingbeil-Anträge für den Parteitag in Bremen geplant",
+      "entities": [
+        "Lars Klingbeil",
+        "Hubertus Heil",
+        "Carsten Schneider"
+      ]
+    },
+    {
+      "candidate_id": 6,
+      "pillar": "TECHNOLOGIE",
+      "region": "INT",
+      "kicker": "GTA 6",
+      "headline": "GTA 6 löst Urlaubswelle aus",
+      "highlight": [
+        "GTA 6"
+      ],
+      "voice": "GTA 6 löst eine Urlaubswelle aus: Weltweit beantragen Beschäftigte mehr freie Tage für den Start. Logitech gibt seinen siebentausend Mitarbeitern sogar einen Tag frei.",
+      "subline": "13 Jahre nach dem Vorgänger steht das Spiel vor der Premiere",
+      "entities": [
+        "Grand Theft Auto VI",
+        "Rockstar Games",
+        "Logitech"
+      ]
+    }
+  ],
+  "hook_text": "Frührente wird teurer",
+  "hook_voice": "Frührente wird teurer: Die CSU will höhere Abschläge.",
+  "youtube_title": "Frührente: Abschläge rauf – wer früher geht, verliert mehr Rente",
+  "description_lead": "Rente: CSU-Landesgruppenchef Alexander Hoffmann will die Abschläge für Frührentner von 0,3 auf 0,4 Prozent pro Monat erhöhen. Außerdem: Kassenärzte-Chef Andreas Gassen erwartet Selbstzahler-Termine beim Facharzt, SPD-Gruppen wollen Lars Klingbeils Wiederwahl verhindern, während Hubertus Heil kandidiert, und GTA 6 löst eine weltweite Urlaubswelle aus.",
+  "tags": [
+    "Rente",
+    "Frührente",
+    "Rentenabschläge",
+    "Alexander Hoffmann",
+    "CSU",
+    "Andreas Gassen",
+    "Facharzttermin",
+    "Kassenärzte",
+    "Lars Klingbeil",
+    "Hubertus Heil",
+    "SPD",
+    "GTA 6",
+    "Rente mit 63",
+    "Altersvorsorge",
+    "Gesundheit"
+  ],
+  "hashtags": [
+    "#rente",
+    "#frührente",
+    "#klingbeil"
+  ],
+  "facebook_caption_line1": "Frührente wird teurer: CSU will Abschläge von 0,3 auf 0,4 Prozent pro Monat anheben",
+  "facebook_question": "Sind höhere Abschläge für Frührentner gerecht oder eine versteckte Rentenkürzung?",
+  "comment_question": "Ja oder nein: Würden Sie trotz höherer Abschläge früher in Rente gehen?"
+}
