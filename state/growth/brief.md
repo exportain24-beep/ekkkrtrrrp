@@ -1,42 +1,40 @@
-# Growth-Brief – So 15. Nov 2026, 05:45 Berlin (vidIQ, 7 Calls, 35 Credits, Rest 5.063)
-FREEZE bis Audit 15. Nov: Brief = Themenwahl-Hilfe, keine Format-/Slot-Änderung.
+# Growth-Brief – So 15. Nov 2026, 13:41 Berlin (vidIQ, 6 Calls, 30 Credits, Rest 4.978)
+Audit-Tag 15. Nov: Brief = Themenwahl-Hilfe, keine Format-/Slot-Änderung.
 
 ## Eilblick
-- **27 Abos (+4 seit 14. Nov 13:45; +11 seit 8. Nov) · 49.442 Views (+2.451; +6.748 am 14. Nov = bester Tag der Woche) · 101 Videos.**
-- Uploads 14. Nov (Views · VPH · Breakout): Aiwanger-Staatsakt 1.457 · 112 · 5,7x · **Berthold/AfD 1.268 · 115 · 5,3x** · Orbáns Ex-Minister 17 Mio. 1.064 · 106 · 4,5x
-  · USA-Flugstopp 887 · 39 · Emde 455 · Selenskyj 321 · Microsoft 268 · Tanker 262 · Trump/Putin/Xi 217 · Musk 127 · Nvidia/Trump 11 (~8 h) · Klingbeil/Heil 16 (~9 h).
-- Bestes: **Berthold 115 VPH** (Person + Bruch). Schlechtestes: **Nvidia/Trump 1,4 VPH** – 4. Nvidia-Short seit 10. Nov (42 · 80 · 11).
-- Lektion: Skandal mit harter Zahl im Titel („17 Millionen im Wald“) trägt auch abends (18:30 UTC); Nvidia-Folgen ohne DACH-Bezug sofort streichen.
+- **27 Abos (±0 seit 05:45; +11 seit 8. Nov) · 55.163 Views (+5.721 seit 05:45; +38.662 seit 8. Nov) · 106 Videos.**
+- Uploads 15. Nov (Views · VPH): **SpaceX Starship 491 · 70 · 3,2x** · Sabalenka-Eklat 60 · 60 (~2 h) · Frührente-Abschläge 165 · 27,5
+  · Meta 805 Mio. 19 · 3,8 · Handwerk-Krise 5 · 1,7 · Masern USA 0 (frisch, 12:15 UTC).
+- Nachreifen 14. Nov: Aiwanger 1.684 · 80 VPH · 6,6x · Berthold/AfD 1.507 · 79 · 7,1x · Orbán-Ex-Minister 1.222 · 68 · 5,1x · Nvidia/Trump 19 · Klingbeil/Heil 32.
+- Bestes heute: **SpaceX 70 VPH** (Spektakel + Bild). Schlechtestes: **Handwerk-Krise 1,7 VPH** (Branche ohne Gesicht).
+- Lektion: Institution/Branche ohne Person bleibt Schlusslicht (vgl. BND 144, Dax 67, Abo-Fallen 23); Zahl allein („80.000 Jobs“) rettet es nicht.
 
 ## Heißeste DACH-Themen in Shorts (vidIQ, seit 14. Nov)
-1. **Stromsteuer-Senkung geplatzt:** OOPS „Geld für stromsteuer Senkung nicht gefunden“ **338.632 · 19.240 VPH** (8 s). Bei uns 12. Nov 685 → Folge nur mit neuem Fakt.
-2. **Rente mit 70 / Generationen-Geld:** Fry Swelt „Rente mit 70? …“ 215.605 · 15.382 VPH (Satire, 374 Abos); Keremkxr „Warum hatten Boomer das Geld…“ 100.072 · 5.560.
-   → Echte Rentenzahl mit Quelle, kein Satire-Ton.
-3. **Wohin fließt das Geld / Ungerechtigkeit:** mym „Wohin das Geld wirklich fließt“ 137.623 · 7.040 VPH; DieLinke „Gregor Gysi: So Ungerecht Ist Deutschland WIRKLICH!“ 42.404 · 2.409.
-4. **Wegzugsteuer für Auswanderer:** Vindex 114.832 · 6.292 VPH (7 s). Nur wenn belegter Gesetzesstand.
-5. **Merz & Russland-Verhandlungen:** OOPS „Friedrich Merz hat gesprochen“ 72.441 · 3.829; Stuttgarter Zeitung „Merz: Deutschland ist bei Verhandlungen mit Russland gesetzt“
-   7.437 · 2.300 VPH; POLITIK BÄR „Russland dementiert“ 8.063 · 546. → Beide Seiten zitieren.
-6. **Aufrüstung/Wehrdienst:** LACROIX „Wenn Aufrüstung zur wirtschaftlichen Belastung wird“ 64.788 · 3.895; BSW-Clip Habeck-Zitat 3.537 · 1.015 VPH (15 % Engagement). Zitat nur im Original-Kontext.
-7. **Geheimdienst-Befugnisse (BND):** Deutschland Kurier 34.203 · 2.449 VPH. Bei uns BND 13. Nov nur 139 → nur mit Gesicht/Zahl.
-8. **Mercedes-Investitionsstopp:** eineminutenachrichten „Mercedes stoppt alle Investitionen in Deutschland!“ 9.418 · 901 VPH (bei uns 790).
-- Woche (Outliers): Füllkrug bricht ZDF-Interview ab 978.800 · 36x (einziger Breakout der 7 Wettbewerber) · Microsoft-Störung tagesschau 118.600 · 3.600 VPH
-  · Wohnhaus New York 230.800 · 887 VPH · Bundeswehr-Belästigungsstudie WELT 57.700 · 705 VPH · Tagesrückblick DACHschaden „Nachrichten vom 14. November“ 8.031 · 886 VPH.
-- Kriminalfälle dominieren die Outliers (Hafencity 46x, Fall Lisa bis 43x, Krakau 17x): nur Behörden-/Gerichtsfakten, keine Opfer-Details, keine Herkunft – im Zweifel weglassen.
+1. **Stromsteuer-Senkung geplatzt:** OOPS „Geld für stromsteuer Senkung nicht gefunden“ **382.473 · 14.960 VPH** (weiter steigend). Bei uns 12. Nov 690 → Folge nur mit neuem Fakt.
+2. **Rente mit 70 / Rentenreform:** Fry Swelt „Rente mit 70? …“ 239.870 · 10.854 VPH (Satire); „JUNGE UNION DROHT MERZ! Winkel stellt Rentenreform infrage!“ 72.000 · 13x.
+   → Unser Frührente-Short (27,5 VPH) ist das Thema – nächster Rente-Short mit Person (Merz/Winkel/Bas) zuerst.
+3. **Wegzugsteuer für Auswanderer:** Vindex 114.832 · 6.292 VPH. Nur mit belegtem Gesetzesstand.
+4. **EU-Kurs Ukraine/Aufrüstung:** LACROIX „Kritik an der EU: Militärischer Sieg statt diplomatischer Verhandlungen“ 93.261 · 3.755; „Wenn Aufrüstung zur wirtschaftlichen Belastung wird“ 70.763 · 3.190.
+5. **Merz in der Kritik:** OOPS „Friedrich Merz hat gesprochen“ 78.301 · 2.945; Streetvoices „Merz-Bürger stutzen ihn zurecht!“ 49.209 · 4.039. Neutral: Aussage + Gegenstimme.
+6. **CDU/Bundestag-Momente:** Finanzfuchs „CDU scheitert bei der Nationalhymne“ 21.457 · 3.140 VPH (33 s) · „Linke können es nicht“ 63.739 · 2.953.
+7. **Ungleichheit:** DieLinke „Gregor Gysi: So Ungerecht Ist Deutschland WIRKLICH!“ 59.711 · 2.334; Blumen Academy „Fast 40 Steuern in Deutschland?!“ 9.539 · 567.
+8. **Geheimdienst-Befugnisse (BND-Gesetz):** Deutschland Kurier 45.871 · 2.019; BITTEL TV „Computerdaten verfälschen…“ 12.277 · 1.113. Bei uns 144 → nur mit Gesicht + Zitat.
+- Woche (Outliers): Füllkrug bricht ZDF-Interview ab 982.900 · 36x · USA-Flugstopp Faktenfilter24 63.800 · **28x · 2.300 VPH** (bei uns 910)
+  · Wohnhaus New York tagesschau 231.500 · 1.100 VPH · Microsoft-Störung 119.500 · Aigner als Bundespräsidentin? 17.200 · 15x
+  · Tagesrückblick DACHschaden „Nachrichten vom 14. November“ 27.128 · 1.591 VPH · Mercedes-Stopp eineminutenachrichten 9.418 · 901.
+- Kriminalfälle dominieren weiter die Outliers (Hafencity 34x, Fall Lisa bis 43x, Krakau 17x) + „Remmo Skandal“ 6.210 · 2.129 VPH:
+  nur Behörden-/Gerichtsfakten, keine Opfer-Details, keine Herkunft – im Zweifel weglassen.
 
 ## Gewinner-Titelmuster (echte Titel)
-- „Mercedes stoppt alle Investitionen in Deutschland!“ (901 VPH) → Marke + Stopp-Verb + Deutschland + „!“.
-- „Merz: Deutschland ist bei Verhandlungen mit Russland gesetzt“ (2.300 VPH) → Name + Doppelpunkt + Zitat-Aussage.
-- „Geld für stromsteuer Senkung nicht gefunden“ (19.240 VPH) → Alltagsgeld + gebrochenes Versprechen, kurz, ohne Frage.
-- Eigener Beleg: „Orbáns Ex-Minister: 17 Millionen im Wald vergraben – woher?“ 106 VPH → Person + Zahl + Bild im Kopf.
+- „Mercedes stoppt alle Investitionen in Deutschland!“ (901 VPH) → Marke + Stopp-Verb + Deutschland, Aussage statt Frage.
+- „CDU scheitert bei der Nationalhymne“ (3.140 VPH) → Partei + Scheitern-Verb + konkretes Bild.
+- „Der komplette Flugverkehr in den USA steht still“ (28x) → Totalität („komplett“) + Stillstand, keine Frage.
+- Beobachtung: alle 6 heutigen Eilblick-Titel enden mit Frage; die Top-Markt-Titel oben sind Aussagesätze.
 
-## Keywords (vidIQ, YouTube-Suche DE, 05:41-Lauf)
-- nachrichten **54.561** (vorher 51.903) · nachrichten aktuell **35.569** · welt nachrichten 2.892 (vidIQ liefert nur 3 Zeilen).
-- Wiederkehrende Hashtags bei Gewinnern: #politik #deutschland #aktuell #nachrichten #aktuellenachrichten.
+## Keywords (vidIQ, YouTube-Suche DE – aus 05:41-Lauf, kein neuer Abruf)
+- nachrichten 54.561 · nachrichten aktuell 35.569 · welt nachrichten 2.892.
+- Wiederkehrende Hashtags bei Gewinnern: #politik #deutschland #aktuell #nachrichten #bundestag #aktuellenachrichten.
 
 ## Leitplanken
-Ausgelassen: „Migration Skandal“/„Syrer Skandal“ (Herkunfts-Zuspitzung), „Merz-Krieg gegen Deutsche“/„Merz lügt“ (Polemik ohne Fakt),
-Meme-/Satire-Clips, „Polen! Nicht Brüssel!“-Meme. Politik neutral.
-
-## Inhaber-Themenliste 15. Nov (aus Commit 7a83d13, nicht vidIQ – nur bei frischer Story mit ≥2 Quellen)
-Inflation Österreich · IG-Metall-Warnstreiks · Schengen-Grenzkontrollen/EES · Klimastreit Österreich/COP31 · Schweizer Banken. Keywords: config/keywords.yaml.
-Keine Videos zu: „Swiss Mountain Rescue record day“, „Queen of the Universe“, Viral-Compilations, Falling-Box-Challenge, AK AusserKontrolle.
+Ausgelassen: „Migration Skandal“, „Merz lügt“, „Merz Ruiniert Deutschland?!“ (Meme), „Ein übler Wendehals“, „Die AfD hatte wieder recht gehabt“,
+„Das ist Polen! Nicht Brüssel!“ (Polemik/Meme ohne Fakt), Remmo (Herkunfts-/Clan-Zuspitzung). Politik neutral, ≥2 Quellen.
