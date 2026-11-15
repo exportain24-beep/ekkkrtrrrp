@@ -1,37 +1,36 @@
-# Performance (best first) – 2026-11-15 03:38 UTC
+# Performance (best first) – 2026-11-15 04:24 UTC
 
 | YT views | YT likes | YT comments | FB plays | FB likes | FB comments | slot | title | story 1 |
 |---|---|---|---|---|---|---|---|---|
 | 1750 | 20 | 20 | 2 | 0 | 1 | 2026-11-11 vormittag | Habeck: „Die Trump-Regierung hat die Ukraine verraten“ | Habeck wirft Trump Ukraine-Verrat vor |
-| 1471 | 26 | 1 | 290 | 3 | 2 | 2026-11-14 abend | Staatsakt für Aiwanger: Warum reichte die Frauenkirche nicht? | Bayern nimmt Abschied von Aiwanger |
+| 1471 | 26 | 1 | 296 | 3 | 2 | 2026-11-14 abend | Staatsakt für Aiwanger: Warum reichte die Frauenkirche nicht? | Bayern nimmt Abschied von Aiwanger |
 | 1453 | 46 | 15 | 303 | 1 | 2 | 2026-11-13 nachmittag | Reichelts Auto angezündet: Gezielter Anschlag auf den Nius-Chef? | Auto von Julian Reichelt angezündet |
-| 1264 | 57 | 5 | 241 | 3 | 1 | 2026-11-14 fokus-politik | Weltmeister Berthold: Querdenker als AfD-Bundespräsident? | AfD schickt Berthold ins Rennen |
-| 1120 | 8 | 12 | 423 | 2 | 7 | 2026-11-13 fokus-prime | Merz will an den Ukraine-Tisch: Wer spricht jetzt für Europa? | Merz will an den Ukraine-Tisch |
-| 1069 | 9 | 3 | 227 | 0 | 1 | 2026-11-14 fokus-prime | Orbáns Ex-Minister: 17 Millionen im Wald vergraben – woher? | Millionen bei Orbáns Ex-Minister |
+| 1282 | 57 | 7 | 241 | 3 | 1 | 2026-11-14 fokus-politik | Weltmeister Berthold: Querdenker als AfD-Bundespräsident? | AfD schickt Berthold ins Rennen |
+| 1120 | 8 | 14 | 423 | 2 | 7 | 2026-11-13 fokus-prime | Merz will an den Ukraine-Tisch: Wer spricht jetzt für Europa? | Merz will an den Ukraine-Tisch |
+| 1076 | 9 | 5 | 228 | 0 | 1 | 2026-11-14 fokus-prime | Orbáns Ex-Minister: 17 Millionen im Wald vergraben – woher? | Millionen bei Orbáns Ex-Minister |
 | 987 | 2 | 6 | 7 | 0 | 1 | 2026-11-13 fokus-geld | Klingbeils Rekordhaushalt: 560 Milliarden – wer zahlt die Rechnung? | Rekordhaushalt: 560 Milliarden Euro |
-| 964 | 6 | 13 | 10 | 0 | 1 | 2026-11-13 nacht | Klopp beendet Nmechas Kronen-Jubel: Jubelt er beim BVB weiter? | Klopp beendet Nmechas Kronen-Jubel |
+| 972 | 6 | 13 | 10 | 0 | 1 | 2026-11-13 nacht | Klopp beendet Nmechas Kronen-Jubel: Jubelt er beim BVB weiter? | Klopp beendet Nmechas Kronen-Jubel |
 | 896 | 2 | 1 |  | 0 | 1 | 2026-11-14 fokus-frueh | USA stoppen alle Flüge: Legt veraltete Technik alles lahm? | USA stoppen alle Flüge |
 | 791 | 4 | 11 | 302 | 2 | 2 | 2026-11-13 fokus-frueh | Mercedes stoppt alle Investitionen: Schließen jetzt deutsche Werke? | Mercedes stoppt Investitionen |
 | 685 | 20 | 14 | 294 | 2 | 1 | 2026-11-12 fokus-prime | Merz unter Druck: Stromsteuer-Senkung für alle gescheitert | Stromsteuer-Senkung vorerst gescheitert |
 | 435 | 4 | 5 | 2 | 0 | 1 | 2026-11-14 vormittag | Emde-Streit: Linke-Chef bittet um Geduld – wie lange noch? | Linke-Chef verteidigt Emde-Verfahren |
 | 432 | 1 | 1 | 191 | 0 | 1 | 2026-11-11 abend | Italien räumt 300 Schulen: Wer steckt hinter den Drohmails? | Drohmails: Italien räumt 300 Schulen |
-| 352 | 1 | 1 | 258 | 2 | 3 | 2026-11-13 fokus-politik | BVB beendet Rheinmetall-Deal: Haben die Fans gewonnen? | BVB beendet Rheinmetall-Deal |
-| 318 | 3 | 4 | 651 | 1 | 7 | 2026-11-14 nachmittag | Selenskyj: USA bieten Nato gegen Donbass – tauscht Kiew Land? | USA: Nato-Beitritt gegen Donbass |
+| 359 | 1 | 1 | 258 | 2 | 3 | 2026-11-13 fokus-politik | BVB beendet Rheinmetall-Deal: Haben die Fans gewonnen? | BVB beendet Rheinmetall-Deal |
+| 318 | 3 | 4 | 652 | 1 | 7 | 2026-11-14 nachmittag | Selenskyj: USA bieten Nato gegen Donbass – tauscht Kiew Land? | USA: Nato-Beitritt gegen Donbass |
 | 274 | 3 | 1 | 238 | 1 | 1 | 2026-11-12 mittag | Iran droht US-Basen in Europa: „Keine sichere Entfernung“ | Iran droht US-Stützpunkten in Europa |
-| 271 | 6 | 10 | 3088 | 63 | 103 | 2026-11-13 mittag | Russland droht Deutschland: Platzt jetzt die Eishockey-WM 2027? | Russland droht WM-Gastgeber Deutschland |
+| 271 | 6 | 10 | 3101 | 63 | 105 | 2026-11-13 mittag | Russland droht Deutschland: Platzt jetzt die Eishockey-WM 2027? | Russland droht WM-Gastgeber Deutschland |
 | 268 | 3 | 3 | 4 | 0 | 1 | 2026-11-14 fokus-geld | Microsoft schaltet sich selbst ab: Wie abhängig ist Ihr Büro? | Microsoft-Update stoppt Outlook, Teams |
-| 257 | 2 | 1 | 27 | 0 | 1 | 2026-11-14 morgen | Tanker rammt Kreuzfahrtschiff: „Wie auf der Titanic“ | Tanker rammt Kreuzfahrtschiff |
-| 217 | 0 | 1 | 363 | 6 | 2 | 2026-11-14 fokus-pause | Trump trifft Putin und Xi: Entscheiden sie jetzt ohne Europa? | Trump trifft Putin und Xi in China |
+| 262 | 1 | 1 | 27 | 0 | 1 | 2026-11-14 morgen | Tanker rammt Kreuzfahrtschiff: „Wie auf der Titanic“ | Tanker rammt Kreuzfahrtschiff |
+| 217 | 0 | 1 | 367 | 6 | 2 | 2026-11-14 fokus-pause | Trump trifft Putin und Xi: Entscheiden sie jetzt ohne Europa? | Trump trifft Putin und Xi in China |
 | 164 | 3 | 6 | 277 | 0 | 2 | 2026-11-12 nachmittag | „Beton angerührt“: IG Metall droht mit 24-Stunden-Streiks | IG Metall droht mit Ganztags-Streiks |
 | 162 | 1 | 1 | 7 | 0 | 1 | 2026-11-11 fokus-frueh | Linke will Vanessa Emde rauswerfen: Reicht die Mehrheit? | Linke will Emde aus Fraktion werfen |
 | 146 | 0 | 1 | 766 | 2 | 4 | 2026-11-11 nachmittag | Boris Palmer sagt alle Auftritte ab: Wie lange noch? | Palmer sagt alle Auftritte ab |
 | 139 | 1 | 2 | 2 | 0 | 1 | 2026-11-13 vormittag | BND soll sabotieren dürfen: Jahrhundertwerk oder Monster? | BND soll im Ausland sabotieren |
 | 137 | 0 | 1 | 3 | 0 | 1 | 2026-11-13 fokus-top | DHL erhöht Paketpreise: Lohnt sich die Filiale jetzt noch? | DHL erhöht die Paketpreise |
-| 128 | 5 | 1 | 288 | 4 | 4 | 2026-11-14 mittag | Musk unter Druck: Wer bremst Starlink in der Ukraine aus? | Musk unter Druck wegen Starlink |
+| 128 | 5 | 1 | 290 | 4 | 4 | 2026-11-14 mittag | Musk unter Druck: Wer bremst Starlink in der Ukraine aus? | Musk unter Druck wegen Starlink |
 | 127 | 0 | 5 | 365 | 0 | 1 | 2026-11-11 fokus-politik | Prien kappt Unterhaltsvorschuss: Trifft es die Falschen? | Prien plant Grenze beim Vorschuss |
-| 94 | 0 | 1 | 257 | 2 | 1 | 2026-11-10 fokus-prime | Iran unter Verdacht: Wer hackt Europas Supermarkt-Kühlregale? | Iran unter Verdacht: Kühlregal-Hacks |
+| 84 | 0 | 3 | 13 | 0 | 1 | 2026-11-13 morgen | Bundeswehr stoppt Drohnen: Wer hat Quantum Systems gehackt? | Bundeswehr stoppt Drohnen nach Hack |
 | 83 | 0 | 4 | 3 | 0 | 1 | 2026-11-12 vormittag | Blatter über Infantino: „Er ist ein Diktator, unberührbar“ | Blatter nennt Infantino Diktator |
-| 82 | 0 | 3 | 13 | 0 | 1 | 2026-11-13 morgen | Bundeswehr stoppt Drohnen: Wer hat Quantum Systems gehackt? | Bundeswehr stoppt Drohnen nach Hack |
 | 80 | 1 | 1 | 311 | 1 | 3 | 2026-11-11 mittag | Pistorius-Studie: Tausende Soldatinnen belästigt – was nun? | Pistorius: Soldatinnen belästigt |
 | 80 | 1 | 1 | 211 | 1 | 1 | 2026-11-12 fokus-frueh | Nvidia-Chef Huang vor dem Rauswurf – wer übernimmt jetzt? | Nvidia bereitet Huangs Rauswurf vor |
 | 68 | 0 | 1 | 2 | 0 | 1 | 2026-11-12 morgen | Putin empfängt Kushner: Darf Europa jetzt mitverhandeln? | Putin empfängt Trumps Unterhändler |
@@ -39,6 +38,7 @@
 | 51 | 0 | 1 | 5 | 0 | 1 | 2026-11-11 morgen | Bundeswehr verbannt China-Autos: Angst vor Spionage | Bundeswehr sperrt China-Autos aus |
 | 30 | 0 | 1 | 221 | 0 | 1 | 2026-11-12 fokus-politik | Dobrindts Grenzkontrollen rechtswidrig: Fallen sie jetzt? | Gericht: Grenzkontrollen rechtswidrig |
 | 22 | 0 | 1 | 154 | 0 | 1 | 2026-11-11 fokus-prime | EU will Abo-Fallen verbieten: Setzt sich Brüssel durch? | EU will Abo-Fallen verbieten |
-| 14 | 0 | 0 | 1 | 0 | 0 | 2026-11-14 fokus-top | Klingbeil unter Druck: Stürzt Heil jetzt den SPD-Chef? | Heil greift nach dem SPD-Vorsitz |
-| 11 | 0 | 0 | 1 | 0 | 0 | 2026-11-14 nacht | Nvidia-Skandal erreicht Trump: Was wusste der Präsident? | Nvidia-Skandal erreicht Trumps Kabinett |
+| 14 | 0 | 1 | 1 | 0 | 1 | 2026-11-14 fokus-top | Klingbeil unter Druck: Stürzt Heil jetzt den SPD-Chef? | Heil greift nach dem SPD-Vorsitz |
+| 11 | 0 | 1 | 1 | 0 | 1 | 2026-11-14 nacht | Nvidia-Skandal erreicht Trump: Was wusste der Präsident? | Nvidia-Skandal erreicht Trumps Kabinett |
 | 5 | 0 | 1 | 7 | 0 | 1 | 2026-11-10 nacht | Der Tag in 45 Sekunden: Erste Einigung bei Ukraine-Gesprächen? | Ukraine-Gespräche: Erste Einigung? |
+| 0 | 0 | 0 |  | 0 | 0 | 2026-11-15 fokus-frueh | SpaceX Starship aus dem All gefangen: Was lief trotzdem schief? | SpaceX fängt Starship aus dem All |
