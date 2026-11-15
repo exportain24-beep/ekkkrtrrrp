@@ -1,0 +1,61 @@
+{
+ "format": "single",
+ "candidate_id": 16,
+ "pillar": "WIRTSCHAFT",
+ "region": "DE",
+ "kicker": "HANDWERK",
+ "hook_screen": "HANDWERK-ALARM!",
+ "hook_voice": "Dittrich schlägt Alarm: Das Handwerk verliert jährlich achtzigtausend Jobs.",
+ "beats": [
+  {
+   "voice": "Die Krise sei inzwischen auf dem Niveau der Corona-Pandemie, sagt Jörg Dittrich, Präsident des Zentralverbands des Deutschen Handwerks.",
+   "big": "Corona-Niveau",
+   "label": "so tief steckt das Handwerk in der Krise"
+  },
+  {
+   "voice": "Noch schlimmer: Die Investitionen der Handwerksbetriebe liegen auf dem Stand der Finanzkrise.",
+   "big": "Finanzkrise",
+   "label": "so schwach investieren die Betriebe"
+  },
+  {
+   "voice": "Seine Warnung: Wenn niemand gegensteuert, fallen im Handwerk jedes Jahr siebzig- bis achtzigtausend Arbeitsplätze weg.",
+   "big": "−80.000",
+   "label": "Jobs pro Jahr, wenn niemand gegensteuert"
+  }
+ ],
+ "loop_line": "Achtzigtausend Jobs pro Jahr – wer stoppt jetzt den Absturz des Handwerks?",
+ "headline": "Handwerk droht massiver Jobverlust",
+ "highlight": [
+  "Handwerk"
+ ],
+ "entities": [
+  "Jörg Dittrich",
+  "Zentralverband des Deutschen Handwerks",
+  "Handwerk"
+ ],
+ "youtube_title": "Handwerk-Krise: 80.000 Jobs pro Jahr weg – wer stoppt den Absturz?",
+ "description_lead": "Handwerkspräsident Jörg Dittrich schlägt Alarm: Ohne Gegensteuern verliert das Handwerk in Deutschland jedes Jahr 70.000 bis 80.000 Arbeitsplätze. Die Krise habe das Niveau der Corona-Pandemie erreicht, die Investitionen liegen laut dem Zentralverband des Deutschen Handwerks auf Finanzkrisen-Niveau.",
+ "tags": [
+  "Handwerk",
+  "Jörg Dittrich",
+  "Handwerk Krise",
+  "Zentralverband des Deutschen Handwerks",
+  "ZDH",
+  "Arbeitsplätze",
+  "Jobabbau",
+  "Wirtschaftskrise",
+  "Wirtschaft Deutschland",
+  "Handwerksbetriebe",
+  "Investitionen",
+  "Mittelstand",
+  "Konjunktur"
+ ],
+ "hashtags": [
+  "#handwerk",
+  "#wirtschaft",
+  "#arbeitsplätze"
+ ],
+ "facebook_caption_line1": "Handwerk-Alarm: Bis zu 80.000 Jobs pro Jahr in Gefahr – Krise auf Corona-Niveau",
+ "facebook_question": "Spüren Sie die Krise im Handwerk – etwa bei Preisen oder Wartezeiten?",
+ "comment_question": "Muss die Bundesregierung das Handwerk jetzt gezielt entlasten – ja oder nein?"
+}
