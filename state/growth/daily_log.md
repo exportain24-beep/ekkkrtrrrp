@@ -91,3 +91,4 @@
 - vidIQ-Watch XWgTQGdbeKs (Aiwanger): rote Hook-Karte Sek. 0–1, Zahl Sek. 4, Hochdeutsch fehlerfrei, 3–4 Fotos wiederholt.
 - vidIQ-Watch kjyuh6hufRg (Musk): Hook ok, Deutsch fehlerfrei, nur 2 Fotos in 32 s, US-Thema ohne DACH-Bezug.
 - Für Audit 15. Nov: 14. Nov lief mit 12 Uploads (Plan 11. Nov: 8/Tag); FB 07:30/09:00 UTC 5/5 < 10 Plays seit 12. Nov.
+- 2026-11-15 05:45 Berlin · Growth-Brief A · Credits 5.063 · Abos 27 · Views 49.442
