@@ -1,0 +1,67 @@
+{
+  "format": "single",
+  "candidate_id": 15,
+  "pillar": "TECHNOLOGIE",
+  "region": "DE",
+  "kicker": "PHANTASIALAND",
+  "hook_screen": "MICROSOFT-STÖRUNG!",
+  "hook_voice": "Microsoft-Störung: Fünfzehn Verletzte im Phantasialand.",
+  "beats": [
+    {
+      "voice": "Phantasialand in Brühl: Im Pool eines Hotels auf dem Parkgelände war zu viel Chlor. Fünfzehn Gäste wurden verletzt.",
+      "big": "15 VERLETZTE",
+      "label": "Chlor-Panne im Hotel-Pool"
+    },
+    {
+      "voice": "Das Personal merkte davon nichts. Eine Warnung kam wegen der Microsoft-Störung nie an.",
+      "big": "KEINE WARNUNG",
+      "label": "Meldung blieb in der Störung hängen"
+    },
+    {
+      "voice": "Der Freizeitpark bestätigt das selbst: Er führt die Chlor-Panne auf den Ausfall bei Microsoft zurück.",
+      "big": "URSACHE",
+      "label": "Park: Microsoft-Ausfall war schuld"
+    },
+    {
+      "voice": "Ein Software-Ausfall bei einem US-Konzern – und in Deutschland werden Menschen verletzt.",
+      "big": "US-PANNE",
+      "label": "Software-Ausfall mit Folgen in Deutschland"
+    }
+  ],
+  "loop_line": "Eine einzige Warnung, die nie ankam – und das war die Folge:",
+  "headline": "Microsoft-Störung: Chlor-Panne im Park",
+  "highlight": [
+    "Microsoft-Störung"
+  ],
+  "entities": [
+    "Phantasialand",
+    "Brühl",
+    "Microsoft"
+  ],
+  "youtube_title": "Microsoft-Störung: 15 Verletzte im Phantasialand – wie geht das?",
+  "description_lead": "Microsoft-Störung mit Folgen: Im Freizeitpark Phantasialand in Brühl war zu viel Chlor im Pool eines Hotels, 15 Gäste wurden verletzt. Eine Warnung kam wegen des Microsoft-Ausfalls nicht an – der Park führt die Panne selbst auf die Störung zurück.",
+  "tags": [
+    "Microsoft Störung",
+    "Microsoft",
+    "Phantasialand",
+    "Brühl",
+    "Microsoft Ausfall",
+    "Outlook",
+    "Chlor",
+    "Chlorunfall",
+    "Freizeitpark",
+    "Hotel-Pool",
+    "IT-Ausfall",
+    "Deutschland",
+    "Nachrichten aktuell",
+    "Microsoft 365"
+  ],
+  "hashtags": [
+    "#microsoft",
+    "#phantasialand",
+    "#nachrichten"
+  ],
+  "facebook_caption_line1": "Microsoft-Störung im Phantasialand: Zu viel Chlor im Hotel-Pool, 15 Gäste verletzt – die Warnung kam nie an.",
+  "facebook_question": "Verlassen sich Unternehmen bei Sicherheitswarnungen zu sehr auf E-Mail und Software?",
+  "comment_question": "Sollten Sicherheitswarnungen immer auch ohne Computer ankommen – ja oder nein?"
+}
