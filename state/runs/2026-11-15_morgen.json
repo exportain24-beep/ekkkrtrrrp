@@ -1,0 +1,40 @@
+{
+ "date": "2026-11-15",
+ "slot": "morgen",
+ "publish_at": "2026-11-15T06:00:00+00:00",
+ "title": "Frührente: Abschläge rauf – wer früher geht, verliert mehr Rente",
+ "duration": 49.7,
+ "stories": [
+  {
+   "headline": "Frührente: Höhere Abschläge geplant",
+   "region": "DE",
+   "pillar": "POLITIK"
+  },
+  {
+   "headline": "Facharzt-Termin nur gegen Bezahlung?",
+   "region": "DE",
+   "pillar": "POLITIK"
+  },
+  {
+   "headline": "SPD-Gruppen gegen Klingbeil",
+   "region": "DE",
+   "pillar": "POLITIK"
+  },
+  {
+   "headline": "GTA 6 löst Urlaubswelle aus",
+   "region": "INT",
+   "pillar": "TECHNOLOGIE"
+  }
+ ],
+ "comment": {
+  "text": "Ja oder nein: Würden Sie trotz höherer Abschläge früher in Rente gehen?",
+  "done": false
+ },
+ "youtube_id": "ZdiEzJPgRck",
+ "facebook_id": "2159032128318442",
+ "buffer": {
+  "twitter": "6af934eee86a5789a6ec1a67",
+  "tiktok": "6af934ef76c23bf1c75a50bb"
+ },
+ "created": "2026-11-15T04:28:31.240935+00:00"
+}
