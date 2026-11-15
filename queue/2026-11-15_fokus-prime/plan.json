@@ -1,0 +1,23 @@
+{
+  "format": "single",
+  "candidate_id": 0,
+  "pillar": "POLITIK", "region": "EU", "kicker": "PRAG",
+  "hook_screen": "HÄNDE WEG!",
+  "hook_voice": "Babiš gegen den Rundfunk: Riesendemo in Prag.",
+  "beats": [
+    {"voice": "Laut Veranstaltern kamen mehr als zweihunderttausend Menschen. Ihr Ruf: Hände weg von den Medien!", "big": "200.000+", "label": "Demonstranten laut Veranstaltern"},
+    {"voice": "Die Regierung von Ministerpräsident Andrej Babiš will die Rundfunkgebühr abschaffen. Die Sender sollen künftig Geld aus dem Staatshaushalt bekommen.", "big": "GEBÜHR WEG", "label": "Sender sollen am Staatshaushalt hängen"},
+    {"voice": "Kritiker fürchten: So bringt die Regierung Fernsehen und Radio unter ihre Kontrolle.", "big": "KONTROLLE?", "label": "Sorge um unabhängige Sender"},
+    {"voice": "Und es ist nicht das erste Mal: Prag demonstriert erneut gegen die Pläne.", "big": "ERNEUT", "label": "Wieder Großdemo in Tschechiens Hauptstadt"}
+  ],
+  "loop_line": "Gebühr weg, Freiheit weg – macht Babiš die Sender zum Staatsfernsehen?",
+  "headline": "Babiš gegen den Rundfunk", "highlight": ["Babiš"],
+  "entities": ["Andrej Babiš", "Prag", "Tschechien"],
+  "youtube_title": "Babiš gegen den Rundfunk: 200.000 in Prag – kommt Staatsfernsehen?",
+  "description_lead": "In Prag haben laut Veranstaltern mehr als 200.000 Menschen gegen die Rundfunkreform der tschechischen Regierung von Ministerpräsident Andrej Babiš demonstriert. Die Rundfunkgebühr soll wegfallen, die öffentlich-rechtlichen Sender sollen aus dem Staatshaushalt finanziert werden – Kritiker fürchten um ihre Unabhängigkeit.",
+  "tags": ["Andrej Babiš", "Babiš", "Tschechien", "Prag", "Rundfunkreform", "Rundfunkgebühr", "Demonstration Prag", "Pressefreiheit", "öffentlich-rechtlicher Rundfunk", "Staatsfernsehen", "Medienfreiheit", "Europa", "Politik"],
+  "hashtags": ["#tschechien", "#babis", "#pressefreiheit"],
+  "facebook_caption_line1": "Babiš gegen den Rundfunk: Laut Veranstaltern mehr als 200.000 Menschen protestieren in Prag gegen die Abschaffung der Rundfunkgebühr",
+  "facebook_question": "Sollte öffentlich-rechtlicher Rundfunk über Gebühren oder aus dem Staatshaushalt bezahlt werden?",
+  "comment_question": "Rundfunk aus dem Staatshaushalt statt per Gebühr: Gefahr für die Unabhängigkeit – ja oder nein?"
+}
