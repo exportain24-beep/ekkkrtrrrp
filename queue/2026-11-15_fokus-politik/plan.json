@@ -1,0 +1,24 @@
+{
+  "format": "single",
+  "candidate_id": 24,
+  "new_development": "Bekennerschreiben auf einer von Behörden als linksextrem eingestuften Plattform aufgetaucht – Polizei prüft die Echtheit (15. Nov).",
+  "pillar": "POLITIK", "region": "DE", "kicker": "BERLIN",
+  "hook_screen": "BEKENNERSCHREIBEN!",
+  "hook_voice": "Reichelt-Anschlag: Unbekannte bekennen sich jetzt im Internet.",
+  "beats": [
+    {"voice": "Das Bekennerschreiben erschien auf einer Plattform, die Behörden als linksextrem einstufen. Die Polizei prüft jetzt, ob es echt ist.", "big": "LINKSEXTREM", "label": "So stufen Behörden die Plattform ein"},
+    {"voice": "In der Nacht zu Freitag brannte in Berlin das Auto von Nius-Chefredakteur Julian Reichelt. Unbekannte hatten es angezündet.", "big": "BERLIN", "label": "Auto in der Nacht zu Freitag angezündet"},
+    {"voice": "Seitdem ermittelt der Staatsschutz. Er übernimmt Fälle, hinter denen ein politisches Motiv stehen kann.", "big": "STAATSSCHUTZ", "label": "Ermittler prüfen politisches Motiv"},
+    {"voice": "Noch ist offen, ob das Schreiben wirklich von den Tätern stammt.", "big": "ECHT?", "label": "Echtheit des Schreibens noch unklar"}
+  ],
+  "loop_line": "Echtes Bekenntnis oder falsche Spur – wer steckt hinter dem Reichelt-Anschlag?",
+  "headline": "Reichelt-Anschlag: Bekennerschreiben", "highlight": ["Reichelt"],
+  "entities": ["Julian Reichelt", "Nius", "Polizei Berlin"],
+  "youtube_title": "Reichelt-Anschlag: Bekennerschreiben aufgetaucht – ist es echt?",
+  "description_lead": "Nach dem Brandanschlag auf das Auto von Nius-Chefredakteur Julian Reichelt in Berlin ist ein Bekennerschreiben auf einer von Behörden als linksextrem eingestuften Plattform aufgetaucht. Die Polizei prüft die Echtheit, der Staatsschutz ermittelt.",
+  "tags": ["Julian Reichelt", "Reichelt Anschlag", "Nius", "Bekennerschreiben", "Staatsschutz", "Polizei Berlin", "Berlin", "Brandanschlag", "Linksextremismus", "Pressefreiheit", "Journalist", "Politik Deutschland"],
+  "hashtags": ["#reichelt", "#berlin", "#nachrichten"],
+  "facebook_caption_line1": "Reichelt-Anschlag: Unbekannte bekennen sich im Internet zum Brandanschlag auf das Auto des Nius-Chefs – die Polizei prüft das Schreiben",
+  "facebook_question": "Was erwarten Sie jetzt von den Ermittlern?",
+  "comment_question": "Bekennerschreiben zum Reichelt-Anschlag: Halten Sie es für echt – ja oder nein?"
+}
