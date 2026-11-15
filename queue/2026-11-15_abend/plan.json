@@ -1,0 +1,23 @@
+{
+  "format": "single",
+  "candidate_id": 13,
+  "pillar": "POLITIK", "region": "DE", "kicker": "ENERGIEWENDE",
+  "hook_screen": "SOLAR-KEHRTWENDE!",
+  "hook_voice": "Reiche droht Niederlage: Solarförderung fürs Hausdach soll bleiben.",
+  "beats": [
+    {"voice": "Kleine Solaranlagen bis fünfundzwanzig Kilowatt sollen ihre Einspeisevergütung behalten. Darauf steuern die Verhandler von SPD und CDU zu.", "big": "25 kW", "label": "Einspeisevergütung soll bleiben"},
+    {"voice": "Wirtschaftsministerin Katherina Reiche wollte genau diese Förderung für private Anlagen auslaufen lassen. Jetzt zeichnet sich die Kehrtwende ab.", "big": "KEHRTWENDE", "label": "Reiches Plan wohl vom Tisch"},
+    {"voice": "Für Sie heißt das: Wer Strom vom eigenen Dach ins Netz einspeist, soll weiter Geld dafür bekommen.", "big": "HAUSDACH", "label": "Geld für eingespeisten Solarstrom"},
+    {"voice": "Doch beim Energiepaket sind sich Union und SPD noch nicht einig.", "big": "OFFEN", "label": "Energiepaket noch ohne Einigung"}
+  ],
+  "loop_line": "Hält diese Kehrtwende – oder setzt sich Reiche doch durch?",
+  "headline": "Solarförderung für Hausdächer bleibt", "highlight": ["Solarförderung"],
+  "entities": ["Katherina Reiche", "Solaranlage", "Photovoltaik", "SPD"],
+  "youtube_title": "Solarförderung bleibt: Setzt sich Reiche noch durch? ☀️",
+  "description_lead": "Kehrtwende bei der Solarförderung: Kleine Solaranlagen bis 25 Kilowatt sollen ihre Einspeisevergütung behalten – Wirtschaftsministerin Katherina Reiche wollte sie streichen. Die Verhandler von SPD und CDU sind sich beim gesamten Energiepaket aber noch nicht einig.",
+  "tags": ["Solarförderung", "Einspeisevergütung", "Katherina Reiche", "EEG-Reform", "Solaranlage", "Photovoltaik", "SPD", "CDU", "Energiewende", "Wirtschaftsministerin", "Solarstrom", "Strom", "Energiepolitik"],
+  "hashtags": ["#solarförderung", "#energiewende", "#photovoltaik"],
+  "facebook_caption_line1": "Solarförderung: Reiches Plan wackelt – Einspeisevergütung für kleine Dachanlagen soll bleiben",
+  "facebook_question": "Sollte Strom vom eigenen Dach weiter gefördert werden – oder ist die Förderung überholt?",
+  "comment_question": "Solarförderung fürs Hausdach: richtig, dass sie bleibt – ja oder nein?"
+}
