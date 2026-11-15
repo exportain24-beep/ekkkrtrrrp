@@ -1,0 +1,2155 @@
+{
+ "slot": {
+  "id": "mittag",
+  "format": "single",
+  "time": "12:00",
+  "label": "am Mittag",
+  "focus": "Nur Tie-Breaker – immer zuerst die populärsten, meistberichteten Nachrichten. Bei Gleichstand bevorzugt: Der eine meistberichtete Aufreger des Mittags – bevorzugt Wirtschaft, Preise, Jobs, Technologie mit Wirkung auf die Menschen in DACH.",
+  "pillars": [
+   "WIRTSCHAFT",
+   "TECHNOLOGIE",
+   "POLITIK",
+   "WELT"
+  ],
+  "notify_subscribers": true
+ },
+ "slot_time": "2026-11-15T12:00:00+01:00",
+ "date_text": "Sonntag, 15. November 2026",
+ "already_published": [
+  "Russland droht WM-Gastgeber Deutschland",
+  "Auto von Julian Reichelt angezündet",
+  "BVB beendet Rheinmetall-Deal",
+  "Merz will an den Ukraine-Tisch",
+  "Klopp beendet Nmechas Kronen-Jubel",
+  "DHL erhöht die Paketpreise",
+  "USA stoppen alle Flüge",
+  "Tanker rammt Kreuzfahrtschiff",
+  "EU-Team für Russland-Gespräche steht",
+  "Geheimdienste dürfen zurückhacken",
+  "DFB-Elf siegt 3:1 in Serbien",
+  "Microsoft-Update stoppt Outlook, Teams",
+  "Linke-Chef verteidigt Emde-Verfahren",
+  "Musk unter Druck wegen Starlink",
+  "Trump trifft Putin und Xi in China",
+  "USA: Nato-Beitritt gegen Donbass",
+  "Bayern nimmt Abschied von Aiwanger",
+  "AfD schickt Berthold ins Rennen",
+  "Millionen bei Orbáns Ex-Minister",
+  "Nvidia-Skandal erreicht Trumps Kabinett",
+  "Heil greift nach dem SPD-Vorsitz",
+  "SpaceX fängt Starship aus dem All",
+  "Frührente: Höhere Abschläge geplant",
+  "Facharzt-Termin nur gegen Bezahlung?",
+  "SPD-Gruppen gegen Klingbeil",
+  "GTA 6 löst Urlaubswelle aus",
+  "Meta muss 805 Millionen Euro zahlen",
+  "Handwerk droht massiver Jobverlust"
+ ],
+ "candidates": [
+  {
+   "id": 0,
+   "score": 19.17,
+   "outlets": [
+    "tagesschau Ausland",
+    "ZDFheute",
+    "Deutsche Welle",
+    "SRF News",
+    "Handelsblatt",
+    "DER STANDARD",
+    "WELT",
+    "BILD"
+   ],
+   "regions": [
+    "AT",
+    "CH",
+    "DE",
+    "INT"
+   ],
+   "trend": [],
+   "newest": "2026-11-15T08:24:06+00:00",
+   "articles": [
+    {
+     "source": "tagesschau Ausland",
+     "region": "INT",
+     "weight": 1.0,
+     "title": "Weißes Haus kündigt Dreiertreffen von Trump mit Putin und Xi an",
+     "summary": "Es wäre das erste Dreiertreffen der Staatschefs der USA, Russlands und Chinas. Laut Weißem Haus soll es beim kommenden Apec-Gipfel in Shenzhen stattfinden. Hauptthema: der Abbau von Atomwaffen. Auch der Iran-Krieg könnte zur Sprache kommen.",
+     "link": "https://www.tagesschau.de/ausland/amerika/treffen-trump-putin-xi-100.html",
+     "image": "https://images.tagesschau.de/image/9d3761e3-aa01-4a4b-a182-a99466c453f8/AAABodf8HlI/AAABnSSvrFg/16x9-big/matroschka-trump-putin-xi-100.jpg?width=1920",
+     "aggregator": false,
+     "published": "2026-11-14T03:18:01+00:00"
+    },
+    {
+     "source": "ZDFheute",
+     "region": "DE",
+     "weight": 1.0,
+     "title": "Weißes Haus: Trump trifft sich mit Putin und Xi in China",
+     "summary": "Erstmals sollen Trump, Xi und Putin nach Angaben des Weißen Hauses zu einem Dreiertreffen nächste Woche in China zusammenkommen. Es soll auch um Atomwaffen gehen.",
+     "link": "https://www.zdfheute.de/politik/ausland/usa-dreiertreffen-trump-xi-putin-china-100.html",
+     "image": "https://www.zdfheute.de/assets/26-apu29-10-trump-102~384x216?cb=1793976811157",
+     "aggregator": false,
+     "published": "2026-11-14T02:38:00+00:00"
+    },
+    {
+     "source": "Deutsche Welle",
+     "region": "INT",
+     "weight": 0.95,
+     "title": "Weißes Haus kündigt Dreiertreffen Trumps mit Xi und Putin an",
+     "summary": "Das gab es bislang noch nicht: Erstmals wollen US-Präsident Donald Trump, Chinas Staatschef Xi Jinping und Kremlchef Wladimir Putin zusammenkommen. Die Beratungen sind für den nächsten Donnerstag in China geplant.",
+     "link": "https://www.dw.com/de/weißes-haus-kündigt-dreiertreffen-trumps-mit-xi-und-putin-an/a-79946925?maca=de-rss-de-all-1119-xml-mrss",
+     "image": "https://static.dw.com/image/79946435_302.jpg",
+     "aggregator": false,
+     "published": "2026-11-14T09:19:00+00:00"
+    },
+    {
+     "source": "SRF News",
+     "region": "CH",
+     "weight": 0.95,
+     "title": "In China – Weisses Haus kündigt Dreiertreffen Trumps mit Xi und Putin an",
+     "summary": "Bislang gab es nur bilaterale Gespräche zwischen den Atommächten, das Treffen ist historisch.",
+     "link": "https://www.srf.ch/news/international/in-china-weisses-haus-kuendigt-dreiertreffen-trumps-mit-xi-und-putin-an",
+     "image": "https://www.srf.ch/static/cms/images//320ws/164f9e.webp",
+     "aggregator": false,
+     "published": "2026-11-14T06:15:43+00:00"
+    },
+    {
+     "source": "Handelsblatt",
+     "region": "DE",
+     "weight": 0.9,
+     "title": "Treffen am Rande des Gipfels: Trump trifft Xi und Putin in China",
+     "summary": "Es bahnt sich ein Dreiertreffen auf höchster Ebene zwischen den USA, China und Russland an. Was wird bei dem historischen Zusammenkommen besprochen?",
+     "link": "https://www.handelsblatt.com/politik/international/treffen-am-rande-des-gipfels-trump-trifft-xi-und-putin-in-china/100269826.html",
+     "image": "https://images.handelsblatt.com/hufo2WMLYDvu/cover/900/506/236/235/0/0/0.5/0.5/kombo-donald-trump-xi-jinping-und-wladimir-putin.jpg",
+     "aggregator": false,
+     "published": "2026-11-14T16:00:24+00:00"
+    },
+    {
+     "source": "DER STANDARD",
+     "region": "AT",
+     "weight": 0.85,
+     "title": "Zerstört Trump die Nato für Putin?",
+     "summary": "Wir sprechen über die inzwischen beendeten Verhandlungen zwischen der Ukraine und Russland",
+     "link": "https://www.derstandard.at/story/3000000348937/zerstoert-trump-die-nato-fuer-putin?ref=rss",
+     "image": "https://i.ds.at/BKkLCA/rs:fill:150:0/plain/lido-images/2026/11/11/6256fd83-eb68-444f-9692-a863bb81c8be.jpg",
+     "aggregator": false,
+     "published": "2026-11-12T15:20:04+00:00"
+    },
+    {
+     "source": "WELT",
+     "region": "DE",
+     "weight": 0.8,
+     "title": "Trump trifft Xi und Putin kommende Woche in China",
+     "summary": "US-Präsident Trump, Chinas Staatschef Xi und der russische Präsident WPutin werden nach Angaben des Weißen Hauses und des Kreml in der nächsten Woche zu einem Treffen in China zusammenkommen.",
+     "link": "https://www.welt.de/politik/ausland/video6af94b4c4495f9bd85b80624/dreier-gipfel-trump-trifft-xi-und-putin-kommende-woche-in-china.html",
+     "image": "https://images.welt.de/6af94b4c4495f9bd85b80624/881d4937d6869765d3c16c6b46002d3c/ci16x9-w1200/dpa-com-261114-99-272560-jpg",
+     "aggregator": false,
+     "published": "2026-11-15T08:24:06+00:00"
+    },
+    {
+     "source": "BILD",
+     "region": "DE",
+     "weight": 0.6,
+     "title": "Trump, Putin und Xi: Historisches Dreier-Treffen in Shenzhen geplant",
+     "summary": "Trump, Putin und Xi: Historisches Dreier-Treffen in Shenzhen geplant BILD Historischer Dreier beim APEC-Gipfel: Treffen sich Trump, Putin und Xi … taz.de Treffen am Rande des Gipfels: Trump trifft Xi und Putin in China STERN.de Historisches Treffen - Weißes Haus kündigt Gespräche Trumps mit Xi und Putin an DW.com Trump trifft Putin und Xi: Gipfel der Supermächte – und Europa muss zuschauen Berliner Morgenpost",
+     "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQUndzTFdaTkNuY3NzdE1CRmFDUG9JRFlJaFhzUTdVbDJKbTVUVnZpTGRFalhNRXgxeG9OYktibUlna1FycXJZUzZ1My00T0ZWZjFjTE1GNEkwWlJZYlB2S0tra2JtOGpYWFZubFB4d1dCc1JBbFNpSjJmQkxxa0xKRU9mWDZvVFhzZE15MC12aUNkZ3M5SGxXSTRFcWZFWkdSZnBqeFVzX0dvSjRIR2ZLRGhrNU5mc09ET3pBaWh6TEdCSk0tdkd5SzlLV2x3WEZNMXJwaHhkUkhraWZoa015OA?oc=5",
+     "image": null,
+     "aggregator": true,
+     "published": "2026-11-15T05:10:44+00:00"
+    }
+   ]
+  },
+  {
+   "id": 1,
+   "score": 17.95,
+   "outlets": [
+    "Deutschlandfunk",
+    "ORF",
+    "SPIEGEL",
+    "Handelsblatt",
+    "NZZ",
+    "DER STANDARD",
+    "WELT",
+    "n-tv"
+   ],
+   "regions": [
+    "AT",
+    "CH",
+    "DE"
+   ],
+   "trend": [],
+   "newest": "2026-11-15T08:56:02+00:00",
+   "articles": [
+    {
+     "source": "Deutschlandfunk",
+     "region": "DE",
+     "weight": 0.95,
+     "title": "Berichte - USA verlieren Status als masernfreies Land",
+     "summary": "Die USA stehen vor der Aberkennung ihres Status als masernfreies Land.",
+     "link": "https://www.deutschlandfunk.de/usa-verlieren-status-als-masernfreies-land-100.html",
+     "image": "https://bilder.deutschlandfunk.de/35/bc/0a/70/35bc0a70-23d3-4dcd-bc00-fcf9e236347b/masern-impfung-usa-kind-tot-100-1920x1920.jpg",
+     "aggregator": false,
+     "published": "2026-11-15T08:56:02+00:00"
+    },
+    {
+     "source": "ORF",
+     "region": "AT",
+     "weight": 0.95,
+     "title": "Medien: USA verlieren Status als „masernfreies“ Land",
+     "summary": "",
+     "link": "https://orf.at/stories/3448201/",
+     "image": null,
+     "aggregator": false,
+     "published": "2026-11-14T20:02:24+00:00"
+    },
+    {
+     "source": "SPIEGEL",
+     "region": "DE",
+     "weight": 0.9,
+     "title": "Masern: USA verlieren offenbar Status als masernfreies Land",
+     "summary": "Die USA werden wohl nicht mehr als masernfrei eingestuft. Wie mehrere amerikanische Medien berichten, verliert das Land seinen Status – nach mehr als 25 Jahren.",
+     "link": "https://www.spiegel.de/ausland/masern-usa-verlieren-offenbar-status-als-masernfreies-land-a-c2e5f007-0fbc-4e62-aa55-4abb1388fbd9#ref=rss",
+     "image": "https://cdn.prod.www.spiegel.de/images/e1a7f1a7-fa96-4ad8-b40f-01a4bb545be2_w520_r2.08_fpx60.67_fpy54.99.jpg",
+     "aggregator": false,
+     "published": "2026-11-14T19:44:00+00:00"
+    },
+    {
+     "source": "Handelsblatt",
+     "region": "DE",
+     "weight": 0.9,
+     "title": "Dauerhaft Infektionsketten: USA verlieren Status „masernfrei“ - Wie ernst ist die Lage?",
+     "summary": "Deutschland war noch nie offiziell als frei von Masern eingestuft. Die USA hingegen können sich damit seit mehr als 25 Jahren rühmen. Nun aber wird der Status wohl aberkannt. Was heißt das?",
+     "link": "https://www.handelsblatt.com/technik/forschung-innovation/dauerhaft-infektionsketten-usa-verlieren-status-masernfrei-wie-ernst-ist-die-lage/100269983.html",
+     "image": "https://images.handelsblatt.com/ShwohCIXtFCr/cover/900/506/0/0/107/107/0.5/0.5/usa-verlieren-status-masernfrei-wie-schlimm-ist-die-lage.jpg",
+     "aggregator": false,
+     "published": "2026-11-15T08:22:33+00:00"
+    },
+    {
+     "source": "Handelsblatt",
+     "region": "DE",
+     "weight": 0.9,
+     "title": "Gesundheitspolitik: Medien: USA verlieren Status als masernfreies Land",
+     "summary": "Mehr als 25 Jahre lang galten die USA als masernfrei. Nun soll das Land diesen Status verlieren, heißt es in Medienberichten. Grund dafür sind anhaltende Ausbrüche der hochansteckenden Krankheit.",
+     "link": "https://www.handelsblatt.com/technik/forschung-innovation/gesundheitspolitik-medien-usa-verlieren-status-als-masernfreies-land/100269935.html",
+     "image": "https://images.handelsblatt.com/AYvD8S0RZ7iT/cover/900/506/0/0/107/107/0.5/0.5/medien-usa-verlieren-status-als-masernfreies-land.jpg",
+     "aggregator": false,
+     "published": "2026-11-14T19:03:32+00:00"
+    },
+    {
+     "source": "NZZ",
+     "region": "CH",
+     "weight": 0.9,
+     "title": "USA verlieren Status «masernfrei»",
+     "summary": "Das Masernvirus sei das ansteckendste Virus der Welt, sagt Chef der Weltgesundheitsorganisation.",
+     "link": "https://www.nzz.ch/panorama/usa-verlieren-status-masernfrei-ld.10064426",
+     "image": "https://img-msp-prod.nzz.ch/2026/11/01/d7325230-2b65-40a9-8163-3c6661ea0cdf.jpg?width=200&height=200&fit=bounds&quality=75&auto=webp&crop=2560,2560,x640,y0",
+     "aggregator": false,
+     "published": "2026-11-15T08:47:19+00:00"
+    },
+    {
+     "source": "DER STANDARD",
+     "region": "AT",
+     "weight": 0.85,
+     "title": "USA verlieren laut Berichten Status als masernfreies Land",
+     "summary": "Grund dafür ist, dass derselbe Masernvirusstamm seit mindestens zwölf Monaten ununterbrochen innerhalb des Lands übertragen wird. In diesem Jahr wurden bereits 5412 Infektionen registriert",
+     "link": "https://www.derstandard.at/story/3000000349253/usa-verlieren-status-als-masernfreies-land?ref=rss",
+     "image": "https://i.ds.at/pa7qIA/rs:fill:150:0/plain/lido-images/2026/03/01/9265d622-7542-4e0b-a230-d91eb091c799.jpg",
+     "aggregator": false,
+     "published": "2026-11-14T19:34:41+00:00"
+    },
+    {
+     "source": "WELT",
+     "region": "DE",
+     "weight": 0.8,
+     "title": "Nach 26 Jahren – USA verlieren Status als masernfreies Land",
+     "summary": "Sinkende Impfquoten begünstigen die Rückkehr der Masern in den USA: Nur noch 92 Prozent der Kindergartenkinder sind geimpft. In diesem Jahr wurden bereits 5412 Infektionen registriert.",
+     "link": "https://www.welt.de/vermischtes/article6af95af54495f9bd85b807a9/ueber-5400-masernfaelle-nach-26-jahren-usa-verlieren-status-als-masernfreies-land.html",
+     "image": "https://images.welt.de/6af95af54495f9bd85b807a9/62ac32ddd57eca75c0e83a9792e24690-master/ci23x11-w1200/dpa-com-261107-935-1727401-jpg",
+     "aggregator": false,
+     "published": "2026-11-15T07:47:14+00:00"
+    }
+   ]
+  },
+  {
+   "id": 2,
+   "score": 15.56,
+   "outlets": [
+    "tagesschau Wirtschaft",
+    "SRF News",
+    "Süddeutsche",
+    "heise online",
+    "DER STANDARD",
+    "n-tv"
+   ],
+   "regions": [
+    "AT",
+    "CH",
+    "DE"
+   ],
+   "trend": [],
+   "newest": "2026-11-15T05:57:47+00:00",
+   "articles": [
+    {
+     "source": "tagesschau Wirtschaft",
+     "region": "DE",
+     "weight": 1.0,
+     "title": "Nvidia: Huang-Affäre könnte zu Trump-Skandal werden",
+     "summary": "Laut Medienberichten wurde Trump zwei Mal von der Affäre des Nvidia-Chefs Huang mit einer mutmaßlichen chinesischen Spionin unterrichtet. Doch der Präsident beteuert, von nichts gewusst zu haben. Von C. Kühntopp.",
+     "link": "https://www.tagesschau.de/ausland/amerika/nvidia-trump-100.html",
+     "image": "https://images.tagesschau.de/image/f9401978-bea2-4fa5-9226-a0299084e01c/AAABodPof7M/AAABnSSvrFg/16x9-big/huang-trump-102.jpg?width=1920",
+     "aggregator": false,
+     "published": "2026-11-13T02:36:47+00:00"
+    },
+    {
+     "source": "SRF News",
+     "region": "CH",
+     "weight": 0.95,
+     "title": "Absetzung von Nvidia-Chef – Die Lehren aus dem Fall Jensen Huang und seinen Affären",
+     "summary": "Nvidias Erfolg war eng mit Jensen Huang verknüpft. Sein Sturz offenbart die Kehrseite dieser Abhängigkeit.",
+     "link": "https://www.srf.ch/news/wirtschaft/absetzung-von-nvidia-chef-die-lehren-aus-dem-fall-jensen-huang-und-seinen-affaeren",
+     "image": "https://www.srf.ch/static/cms/images//320ws/e85dcb.webp",
+     "aggregator": false,
+     "published": "2026-11-12T17:16:52+00:00"
+    },
+    {
+     "source": "Süddeutsche",
+     "region": "DE",
+     "weight": 0.9,
+     "title": "USA: Toxische Bekanntschaft",
+     "summary": "Die Nähe zum früheren Nvidia-Chef Huang belastet US-Präsident Trump, seit die Affäre mit einer mutmaßlichen Spionin aus China aufgeflogen ist. Noch gefährlicher wird der Skandal jedoch für Handelsminister Lutnick.",
+     "link": "https://www.sueddeutsche.de/politik/nvidia-tech-chips-megaspeed-lutnick-trump-spionage-china-li.3580148",
+     "image": "https://www.sueddeutsche.de/2026/11/15/18410e9f-d8e5-49e4-890f-b9c4080720f0.jpg?rect=81%2C74%2C2004%2C1503&width=1000&fm=jpg&q=60",
+     "aggregator": false,
+     "published": "2026-11-15T05:57:47+00:00"
+    },
+    {
+     "source": "heise online",
+     "region": "DE",
+     "weight": 0.85,
+     "title": "Donnerstag: Nvidia-Chef angeblich kurz vor Abschied, KI-Agent auch von ByteDance",
+     "summary": "Jensen Huangs weitere Affäre + Muse-Agentenkonkurrent aus China + Meta-Millionenstrafe nach Brasilien-Wahl + Unterschiede chinesischer E-Motoren + #heiseshow",
+     "link": "https://www.heise.de/news/Donnerstag-Nvidia-Chef-angeblich-kurz-vor-Abschied-KI-Agent-auch-von-ByteDance-11521643.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
+     "image": null,
+     "aggregator": false,
+     "published": "2026-11-12T05:15:00+00:00"
+    },
+    {
+     "source": "heise online",
+     "region": "DE",
+     "weight": 0.85,
+     "title": "Nvidia-Chef Jensen Huang nach zweiter Affäre wohl vor dem Ende bei seiner Firma",
+     "summary": "Neben der mutmaßlichen Agentin Chinas hatte der Nvidia-CEO offenbar auch eine Affäre mit einer Kollegin. Die Aktie rutscht weiter ab, der Abschied rückt näher.",
+     "link": "https://www.heise.de/news/Jensen-Huang-nach-weiterer-Affaere-mit-Mitarbeiterin-wohl-vor-dem-Aus-bei-Nvidia-11521625.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
+     "image": null,
+     "aggregator": false,
+     "published": "2026-11-12T04:02:00+00:00"
+    },
+    {
+     "source": "DER STANDARD",
+     "region": "AT",
+     "weight": 0.85,
+     "title": "Affäre mit Agentin: Der Spionage-Skandal von Nvidia",
+     "summary": "Wir sprechen über den mutmaßlichen Spionage-Skandal bei einem der weltweit größten Unternehmen",
+     "link": "https://www.derstandard.at/story/3000000348537/podcaffaere-mit-agentin-der-spionage-skandal-von-nvidia?ref=rss",
+     "image": "https://i.ds.at/m-woNA/rs:fill:150:0/plain/lido-images/2026/11/09/1d8c83a1-2471-4fc3-92c6-d77217b79811.jpg",
+     "aggregator": false,
+     "published": "2026-11-12T10:34:13+00:00"
+    },
+    {
+     "source": "DER STANDARD",
+     "region": "AT",
+     "weight": 0.85,
+     "title": "Wie das Netzwerk der Alice Huang den mächtigen Nvidia-Chef zu Fall brachte",
+     "summary": "Die Nvidia-Krise zieht Schockwellen bis ins Weiße Haus und bringt Trump unter Druck. Zugleich kommen immer mehr Details der mutmaßlichen Spionageaffäre ans Licht",
+     "link": "https://www.derstandard.at/story/3000000349082/wie-das-netzwerk-der-alice-huang-den-maechtigen-nvidia-chef-zu-fall-brachte?ref=rss",
+     "image": "https://i.ds.at/us12jw/rs:fill:150:0/plain/lido-images/2026/11/13/49fabf93-610f-42bc-a942-94269d0e6f6d.jpg",
+     "aggregator": false,
+     "published": "2026-11-13T16:59:40+00:00"
+    },
+    {
+     "source": "n-tv",
+     "region": "DE",
+     "weight": 0.8,
+     "title": "Als angemessen dargestellt: Huang soll Nvidia-Führungskräfte über Affäre getäuscht haben",
+     "summary": "Von seinem Chefposten bei Nvidia ist Huang bereits zurückgetreten. Ruhe kehrt in der Affäre um seine Liaison mit einer möglichen chinesischen Spionin allerdings nicht ein. Einem Bericht zufolge belog der Unternehmensgründer andere Führungskräfte aktiv darüber.",
+     "link": "https://www.n-tv.de/wirtschaft/Huang-soll-Nvidia-Fuehrungskraefte-ueber-Affaere-getaeuscht-haben-id31534364.html",
+     "image": "https://www.n-tv.de/img/31534368/1794667584/Img_4_3/250/632293468.jpg",
+     "aggregator": false,
+     "published": "2026-11-14T14:27:48+00:00"
+    }
+   ]
+  },
+  {
+   "id": 3,
+   "score": 14.65,
+   "outlets": [
+    "Deutschlandfunk",
+    "ORF",
+    "SPIEGEL",
+    "Handelsblatt",
+    "WirtschaftsWoche",
+    "DER STANDARD"
+   ],
+   "regions": [
+    "AT",
+    "DE"
+   ],
+   "trend": [],
+   "newest": "2026-11-15T08:56:02+00:00",
+   "articles": [
+    {
+     "source": "Deutschlandfunk",
+     "region": "DE",
+     "weight": 0.95,
+     "title": "Argentinien - Präsident Milei will für zweite Amtszeit kandidieren",
+     "summary": "Argentiniens Präsident Milei strebt eine zweite Amtszeit an.",
+     "link": "https://www.deutschlandfunk.de/praesident-milei-will-fuer-zweite-amtszeit-kandidieren-100.html",
+     "image": "https://bilder.deutschlandfunk.de/41/96/07/45/41960745-6ffd-4c14-abee-cfc48b6d66d8/milei-argentinien-108-1920x1920.jpg",
+     "aggregator": false,
+     "published": "2026-11-15T08:56:02+00:00"
+    },
+    {
+     "source": "ORF",
+     "region": "AT",
+     "weight": 0.95,
+     "title": "Argentinischer Präsident Milei will wieder kandidieren",
+     "summary": "",
+     "link": "https://orf.at/stories/3448214/",
+     "image": null,
+     "aggregator": false,
+     "published": "2026-11-15T06:49:15+00:00"
+    },
+    {
+     "source": "SPIEGEL",
+     "region": "DE",
+     "weight": 0.9,
+     "title": "Argentinien: Javier Milei will erneut kandidieren",
+     "summary": "Mit dem Versprechen einer »Kettensägen-Politik« wurde er Präsident. Nun strebt Javier Milei eine zweite Amtszeit an. Er rühmt den Aufschwung Argentiniens, doch seine radikale Politik treibt viele Menschen in die Armut.",
+     "link": "https://www.spiegel.de/ausland/javier-milei-argentiniens-praesident-will-erneut-kandidieren-a-86350cf4-1147-4493-af63-aa78f65f3581#ref=rss",
+     "image": "https://cdn.prod.www.spiegel.de/images/64750b20-ea3b-4550-83bf-9e56a8dec118_w520_r2.08_fpx57.33_fpy50.jpg",
+     "aggregator": false,
+     "published": "2026-11-15T03:28:00+00:00"
+    },
+    {
+     "source": "Handelsblatt",
+     "region": "DE",
+     "weight": 0.9,
+     "title": "Präsidentenwahl 2027: Argentiniens „Kettensägen“-Präsident will wieder kandidieren",
+     "summary": "Javier Milei strebt eine zweite Amtszeit an und rühmt den wirtschaftlichen Aufschwung unter seiner Ägide. Doch die Politik des Staatschefs ist umstritten und bringt erhebliche soziale Härten mit sich.",
+     "link": "https://www.handelsblatt.com/politik/international/praesidentenwahl-2027-argentiniens-kettensaegen-praesident-will-wieder-kandidieren/100269956.html",
+     "image": "https://images.handelsblatt.com/7DGfMby7UiHv/cover/900/506/0/0/107/106/0.5/0.5/vor-der-praesidentenwahl-in-argentinien.jpg",
+     "aggregator": false,
+     "published": "2026-11-15T06:06:49+00:00"
+    },
+    {
+     "source": "WirtschaftsWoche",
+     "region": "DE",
+     "weight": 0.85,
+     "title": "Javier Milei: Argentiniens „Kettensägen“-Präsident will wieder kandidieren",
+     "summary": "Javier Milei strebt eine zweite Amtszeit an und rühmt den wirtschaftlichen Aufschwung unter seiner Ägide. Doch die Politik des Staatschefs ist umstritten.",
+     "link": "https://www.wiwo.de/politik/ausland/praesidentenwahl-2027-argentiniens-kettensaegen-praesident-will-wieder-kandidieren/100269959.html",
+     "image": "https://images.wiwo.de/eArycDIBr6cb/cover/900/506/0/0/107/106/0.5/0.5/vor-der-praesidentenwahl-in-argentinien.jpg",
+     "aggregator": false,
+     "published": "2026-11-15T06:06:49+00:00"
+    },
+    {
+     "source": "DER STANDARD",
+     "region": "AT",
+     "weight": 0.85,
+     "title": "Argentiniens \"Kettensägen\"-Präsident Milei will wieder kandidieren",
+     "summary": "Seine marktradikale Politik brachte Wachstum, aber ein Drittel der Einwohner gilt als arm",
+     "link": "https://www.derstandard.at/story/3000000349270/argentiniens-kettens228gen-pr228sident-milei-will-wieder-kandidieren?ref=rss",
+     "image": "https://i.ds.at/Q2WWWg/rs:fill:150:0/plain/lido-images/2026/11/15/af1d4d4b-7434-44c0-a7c8-41b50bf346fa.jpg",
+     "aggregator": false,
+     "published": "2026-11-15T08:10:25+00:00"
+    }
+   ]
+  },
+  {
+   "id": 4,
+   "score": 14.64,
+   "outlets": [
+    "ZDFheute",
+    "ORF",
+    "SRF News",
+    "heise online",
+    "DER STANDARD"
+   ],
+   "regions": [
+    "AT",
+    "CH",
+    "DE"
+   ],
+   "trend": [],
+   "newest": "2026-11-15T07:42:00+00:00",
+   "articles": [
+    {
+     "source": "ZDFheute",
+     "region": "DE",
+     "weight": 1.0,
+     "title": "SpaceX fängt erstmals Starship-Rakete nach Flug wieder auf",
+     "summary": "Zum ersten Mal ist dem privaten Raumfahrtunternehmen SpaceX die erfolgreiche Landung einer großen Spaceship-Rakete im Greifarm geglückt. Zuvor lief nicht alles reibungslos.",
+     "link": "https://www.zdfheute.de/video/spacex-landung-rakete-greifarm-starship-100.html",
+     "image": "https://www.zdfheute.de/assets/spacex-landung-starship-100~384x216?cb=1794729194066",
+     "aggregator": false,
+     "published": "2026-11-15T07:40:00+00:00"
+    },
+    {
+     "source": "ZDFheute",
+     "region": "DE",
+     "weight": 1.0,
+     "title": "SpaceX fängt Starship-Rakete mit Greifarm auf",
+     "summary": "Spektakuläre Bilder von Elon Musks Raketenfirma SpaceX: In Texas fängt ein Greifarm einen Teil der Starship-Rakete bei der Landung auf. Kurz zuvor gab es noch einen Rückschlag.",
+     "link": "https://www.zdfheute.de/wirtschaft/unternehmen/space-x-rakete-greifarm-landung-elon-musk-texas-starship-100.html",
+     "image": "https://www.zdfheute.de/assets/spacex-rakete-flug15-100~384x216?cb=1794692641538",
+     "aggregator": false,
+     "published": "2026-11-15T07:42:00+00:00"
+    },
+    {
+     "source": "ORF",
+     "region": "AT",
+     "weight": 0.95,
+     "title": "SpaceX fängt Riesenrakete Starship erstmals wieder auf",
+     "summary": "",
+     "link": "https://orf.at/stories/3448204/",
+     "image": null,
+     "aggregator": false,
+     "published": "2026-11-14T21:41:57+00:00"
+    },
+    {
+     "source": "SRF News",
+     "region": "CH",
+     "weight": 0.95,
+     "title": "US-Raumfahrtunternehmen SpaceX – SpaceX fängt Starship-Rakete erstmals mit Greifarmen auf",
+     "summary": "Erstmals fing SpaceX die obere Raketenstufe des Raketensystems Starship nach einem Flug ins All am Startturm auf.",
+     "link": "https://www.srf.ch/news/international/us-raumfahrtunternehmen-spacex-spacex-faengt-starship-rakete-erstmals-mit-greifarmen-auf",
+     "image": "https://www.srf.ch/static/cms/images//320ws/d63e83.webp",
+     "aggregator": false,
+     "published": "2026-11-15T02:44:33+00:00"
+    },
+    {
+     "source": "heise online",
+     "region": "DE",
+     "weight": 0.85,
+     "title": "SpaceX fängt erstmals Starship nach Flug in der Erdumlaufbahn wieder auf",
+     "summary": "Nach 22 Stunden in der Erdumlaufbahn ist ein Starship zum Startplatz zurückgekehrt und wurde dort von zwei Greifarmen aufgefangen. Zuvor lief nicht alles rund.",
+     "link": "https://www.heise.de/news/SpaceX-faengt-erstmals-Starship-nach-Flug-in-der-Erdumlaufbahn-wieder-auf-11525437.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
+     "image": null,
+     "aggregator": false,
+     "published": "2026-11-14T22:29:00+00:00"
+    },
+    {
+     "source": "DER STANDARD",
+     "region": "AT",
+     "weight": 0.85,
+     "title": "SpaceX fängt Riesen-Rakete Starship erstmals wieder auf",
+     "summary": "Zuvor hatte es einen Rückschlag für das Raumfahrtunternehmen von Elon Musk gegeben",
+     "link": "https://www.derstandard.at/story/3000000349258/spacex-f228ngt-riesen-rakete-starship-erstmals-wieder-auf?ref=rss",
+     "image": "https://i.ds.at/v7WV3A/rs:fill:150:0/plain/lido-images/2026/11/14/c4d11de7-c099-4a03-b488-e7fd5f646b0e.jpg",
+     "aggregator": false,
+     "published": "2026-11-14T21:48:47+00:00"
+    },
+    {
+     "source": "DER STANDARD",
+     "region": "AT",
+     "weight": 0.85,
+     "title": "Starship: SpaceX will Freitag und Samstag erstmals Booster und Raumschiff auffangen",
+     "summary": "Zum ersten Mal soll nicht nur das Triebwerk, sondern auch das Raumschiff Starship von mechanischen Greifarmen eingefangen werden – angesichts explosiver Tests ein riskantes Unterfangen",
+     "link": "https://www.derstandard.at/story/3000000349125/starship-spacex-will-freitag-und-samstag-erstmals-booster-und-raumschiff-auffangen?ref=rss",
+     "image": "https://i.ds.at/H9_zCg/rs:fill:150:0/plain/lido-images/2026/11/13/0b21ced5-7a0f-4428-abab-6ca24165b4eb.jpg",
+     "aggregator": false,
+     "published": "2026-11-13T17:03:08+00:00"
+    }
+   ]
+  },
+  {
+   "id": 5,
+   "score": 14.48,
+   "outlets": [
+    "tagesschau",
+    "ZDFheute",
+    "Süddeutsche",
+    "NZZ"
+   ],
+   "regions": [
+    "CH",
+    "DE",
+    "INT"
+   ],
+   "trend": [
+    "new orleans",
+    "New Orleans port sues tanker owners over cruise ship collision for $1m",
+    "Tanker ‘lost control’ and hit cruise ship in New Orleans, spurring massive evacuation, officials say"
+   ],
+   "newest": "2026-11-15T04:30:56+00:00",
+   "articles": [
+    {
+     "source": "tagesschau",
+     "region": "DE",
+     "weight": 1.0,
+     "title": "Mississippi: 32 Verletzte nach Kollision von Dampfer und Tanker",
+     "summary": "Ein Kreuzfahrtschiff ist auf dem Mississippi in New Orleans von einem Tanker gerammt worden. Der Flussdampfer kenterte. Alle Passagiere an Bord überlebten. Die Bürgermeisterin spricht von einem Wunder.",
+     "link": "https://www.tagesschau.de/ausland/amerika/kreuzfahrtschiff-unfall-new-orleans-102.html",
+     "image": "https://images.tagesschau.de/image/4c666b85-a4b1-47cb-a502-ae3a44ffe086/AAABodkGYWQ/AAABnSSvrFg/16x9-big/new-orleans-kreuzfahrtschiff-102.jpg?width=1920",
+     "aggregator": false,
+     "published": "2026-11-14T13:48:00+00:00"
+    },
+    {
+     "source": "tagesschau Ausland",
+     "region": "INT",
+     "weight": 1.0,
+     "title": "Mississippi: 32 Verletzte nach Kollision von Dampfer und Tanker",
+     "summary": "Ein Kreuzfahrtschiff ist auf dem Mississippi in New Orleans von einem Tanker gerammt worden. Der Flussdampfer kenterte. Alle Passagiere an Bord überlebten. Die Bürgermeisterin spricht von einem Wunder.",
+     "link": "https://www.tagesschau.de/ausland/amerika/kreuzfahrtschiff-unfall-new-orleans-102.html",
+     "image": "https://images.tagesschau.de/image/4c666b85-a4b1-47cb-a502-ae3a44ffe086/AAABodkGYWQ/AAABnSSvrFg/16x9-big/new-orleans-kreuzfahrtschiff-102.jpg?width=1920",
+     "aggregator": false,
+     "published": "2026-11-14T13:48:00+00:00"
+    },
+    {
+     "source": "tagesschau Ausland",
+     "region": "INT",
+     "weight": 1.0,
+     "title": "US-Flusskreuzfahrtschiff kentert nach Zusammenprall in New Orleans",
+     "summary": "Das Flusskreuzfahrtschiff \"American Heritage\" ist im Hafen der US-Stadt New Orleans gekentert. Zuvor war es von einem Tanker gerammt worden. An Bord des Schiffes befanden sich mehr als 130 Menschen. Vermisst wird niemand.",
+     "link": "https://www.tagesschau.de/ausland/kreuzfahrtschiff-unfall-new-orleans-100.html",
+     "image": "https://images.tagesschau.de/image/70311613-6efe-4411-b26f-9638163067eb/AAABodk9D7w/AAABnSSvrFg/16x9-big/new-orleans-kreuzfahrtschiff-100.jpg?width=1920",
+     "aggregator": false,
+     "published": "2026-11-14T00:51:37+00:00"
+    },
+    {
+     "source": "ZDFheute",
+     "region": "DE",
+     "weight": 1.0,
+     "title": "Hafenbetreiber in New Orleans reicht wohl Millionenklage ein",
+     "summary": "Die Kollision eines Tankers mit einem Kreuzfahrtschiff in New Orleans wird rechtliche Folgen haben. Laut US-Medien fordert die Hafenverwaltung eine Million Dollar Schadensersatz.",
+     "link": "https://www.zdfheute.de/panorama/klage-unfall-frachter-kreuzfahrtschiff-new-orleans-100.html",
+     "image": "https://www.zdfheute.de/assets/new-orleans-schiffsunglueck-100~384x216?cb=1794714838557",
+     "aggregator": false,
+     "published": "2026-11-15T03:53:00+00:00"
+    },
+    {
+     "source": "Süddeutsche",
+     "region": "DE",
+     "weight": 0.9,
+     "title": "USA: „Wunder“ auf dem Mississippi: Kreuzfahrtschiff kentert, alle überleben",
+     "summary": "In New Orleans drückt ein Tanker ein Kreuzfahrtschiff an die Kaimauer, das danach binnen Minuten kentert. Menschen klettern über die Reling und schwimmen um ihr Leben.",
+     "link": "https://www.sueddeutsche.de/panorama/schiffsunglueck-zusammenstoss-tanker-kentern-kreuzfahrt-mississippi-usa-li.3580353",
+     "image": "https://www.sueddeutsche.de/2026/11/13/4c27a5c8-7582-41ce-9260-fdb7018f5430.jpg?rect=277%2C0%2C2328%2C1746&width=1000&fm=jpg&q=60",
+     "aggregator": false,
+     "published": "2026-11-14T10:13:13+00:00"
+    },
+    {
+     "source": "NZZ",
+     "region": "CH",
+     "weight": 0.9,
+     "title": "Kreuzfahrtschiff kentert nach Kollision mit Tanker auf dem Mississippi – die Ursache ist weiterhin unklar",
+     "summary": "Ein Tanker ist am Freitag auf dem Mississippi mit einem vertäuten Flusskreuzfahrtschiff kollidiert. Das Passagierschiff kenterte und versank zur Hälfte im Wasser. Rund 100 Menschen gingen über Bord. 32 Personen wurden leicht verletzt.",
+     "link": "https://www.nzz.ch/panorama/tankschiff-rammt-kreuzfahrtschiff-auf-dem-mississippi-in-new-orleans-ld.10063636",
+     "image": "https://img-msp-prod.nzz.ch/2026/11/13/95dcad35-3a44-4ec8-af43-b3eed1559e78.jpg?width=200&height=200&fit=bounds&quality=75&auto=webp&crop=857,857,x214,y0",
+     "aggregator": false,
+     "published": "2026-11-15T04:30:56+00:00"
+    }
+   ]
+  },
+  {
+   "id": 6,
+   "score": 13.38,
+   "outlets": [
+    "tagesschau",
+    "Deutschlandfunk",
+    "ORF",
+    "SRF News",
+    "Handelsblatt"
+   ],
+   "regions": [
+    "AT",
+    "CH",
+    "DE",
+    "INT"
+   ],
+   "trend": [],
+   "newest": "2026-11-15T09:00:53+00:00",
+   "articles": [
+    {
+     "source": "tagesschau",
+     "region": "DE",
+     "weight": 1.0,
+     "title": "Korruptionsermittlungen in Ungarn: Millionen bei Ex-Minister entdeckt",
+     "summary": "Beim früheren ungarischen Entwicklungsminister Seszták sind im Rahmen von Korruptionsermittlungen mehr als 17 Millionen Euro Bargeld gefunden worden. Es lag vergraben in Wäldern, Scheunen und Lagerhallen. Sesták gehörte zur Orbán-Regierung.",
+     "link": "https://www.tagesschau.de/ausland/europa/ungarn-bargeldfund-sesztak-100.html",
+     "image": "https://images.tagesschau.de/image/867930c5-6af5-4266-b8ff-96fdefbbb509/AAABodrlKvI/AAABnSSvrFg/16x9-big/sendungsbild-1827536.jpg?width=1920",
+     "aggregator": false,
+     "published": "2026-11-14T16:31:06+00:00"
+    },
+    {
+     "source": "tagesschau Ausland",
+     "region": "INT",
+     "weight": 1.0,
+     "title": "Korruptionsermittlungen in Ungarn: Millionen bei Ex-Minister entdeckt",
+     "summary": "Beim früheren ungarischen Entwicklungsminister Seszták sind im Rahmen von Korruptionsermittlungen mehr als 17 Millionen Euro Bargeld gefunden worden. Es lag vergraben in Wäldern, Scheunen und Lagerhallen. Sesták gehörte zur Orbán-Regierung.",
+     "link": "https://www.tagesschau.de/ausland/europa/ungarn-bargeldfund-sesztak-100.html",
+     "image": "https://images.tagesschau.de/image/867930c5-6af5-4266-b8ff-96fdefbbb509/AAABodrlKvI/AAABnSSvrFg/16x9-big/sendungsbild-1827536.jpg?width=1920",
+     "aggregator": false,
+     "published": "2026-11-14T16:31:06+00:00"
+    },
+    {
+     "source": "Deutschlandfunk",
+     "region": "DE",
+     "weight": 0.95,
+     "title": "Nach Orbán - Ermittlungen gegen ehemaligen Minister: Ungarische Behörden finden 17,6 Millionen Euro in bar",
+     "summary": "In Ungarn sind die Behörden weiter gegen mutmaßliche Korruption unter dem früheren Ministerpräsidenten Orbán vorgegangen.",
+     "link": "https://www.deutschlandfunk.de/ermittlungen-gegen-ehemaligen-minister-ungarische-behoerden-finden-17-6-millionen-euro-in-bar-108.html",
+     "image": "https://bilder.deutschlandfunk.de/d5/bb/f2/8e/d5bbf28e-4d2f-4cbe-9ae2-3f059ee0e7b5/ungarn-sesztak-100-1920x1920.jpg",
+     "aggregator": false,
+     "published": "2026-11-15T08:56:02+00:00"
+    },
+    {
+     "source": "ORF",
+     "region": "AT",
+     "weight": 0.95,
+     "title": "Ungarische Ermittler finden Millionen Euro",
+     "summary": "Die in Ungarn neu geschaffene Antikorruptionsbehörde NVVH hat Bargeld im Wert von knapp 18 Millionen Euro gefunden. In Bündeln sei das Geld in einem Wald vergraben, in Lagerhallen versteckt und in Tresoren gelagert gewesen. Der Fund betreffe Ermittlungen gegen den Ex-Minister der Regierung des früheren Premiers Viktor Orban, Miklos Sesztak, teilte die Behörde gegenüber der Nachrichtenagentur MTI am Freitag mit.",
+     "link": "https://orf.at/stories/3448196/",
+     "image": null,
+     "aggregator": false,
+     "published": "2026-11-14T19:15:11+00:00"
+    },
+    {
+     "source": "SRF News",
+     "region": "CH",
+     "weight": 0.95,
+     "title": "Korruptionsermittlungen – Im Wald vergraben: Ermittler finden in Ungarn Millionen Euro",
+     "summary": "Der Fund verstärkt den Druck auf Orbans angeschlagene Fidesz-Partei.",
+     "link": "https://www.srf.ch/news/international/korruptionsermittlungen-im-wald-vergraben-ermittler-finden-in-ungarn-millionen-euro",
+     "image": "https://www.srf.ch/static/cms/images//320ws/cd0de5.webp",
+     "aggregator": false,
+     "published": "2026-11-15T09:00:53+00:00"
+    },
+    {
+     "source": "Handelsblatt",
+     "region": "DE",
+     "weight": 0.9,
+     "title": "Orbans Ex-Minister: Im Wald vergraben: Ermittler in Ungarn finden Millionen Euro",
+     "summary": "In Erdlöchern, Lagerhallen und Tresoren stoßen ungarische Ermittler auf Bargeld im Wert von 17,7 Millionen Euro. Die Spur führt zu einem früheren Minister – und setzt Orbans Partei unter Druck.",
+     "link": "https://www.handelsblatt.com/politik/international/orbans-ex-minister-im-wald-vergraben-ermittler-in-ungarn-finden-millionen-euro/100269922.html",
+     "image": "https://images.handelsblatt.com/q1svZJqEk75i/cover/900/506/0/0/107/106/0.5/0.5/ehemaliger-ungarischer-ministerpraesident-viktor-orban.jpg",
+     "aggregator": false,
+     "published": "2026-11-14T17:13:22+00:00"
+    }
+   ]
+  },
+  {
+   "id": 7,
+   "score": 13.25,
+   "outlets": [
+    "Deutschlandfunk",
+    "SRF News",
+    "SPIEGEL",
+    "Handelsblatt"
+   ],
+   "regions": [
+    "CH",
+    "DE"
+   ],
+   "trend": [],
+   "newest": "2026-11-15T08:56:02+00:00",
+   "articles": [
+    {
+     "source": "Deutschlandfunk",
+     "region": "DE",
+     "weight": 0.95,
+     "title": "Raumfahrt - SpaceX fängt Starship-Rakete erstmals wieder auf",
+     "summary": "Dem US-Raumfahrtunternehmen SpaceX ist es erstmals gelungen, die obere Stufe der Riesenrakete Starship bei ihrer Rückkehr zur Erde aufzufangen.",
+     "link": "https://www.deutschlandfunk.de/spacex-faengt-starship-rakete-erstmals-wieder-auf-102.html",
+     "image": "https://bilder.deutschlandfunk.de/5b/6a/1d/7b/5b6a1d7b-3c9a-4a94-a082-bcf7f9fa1d02/spacex-rakete-100-1920x1920.jpg",
+     "aggregator": false,
+     "published": "2026-11-15T08:56:02+00:00"
+    },
+    {
+     "source": "SRF News",
+     "region": "CH",
+     "weight": 0.95,
+     "title": "US-Raumfahrtunternehmen – SpaceX scheitert beim Raketenfang – Starship erreicht Orbit",
+     "summary": "Beim jüngsten Testflug sollte SpaceX erstmals beide Teile seiner Riesenrakete auffangen. Es lief aber nicht wie geplant.",
+     "link": "https://www.srf.ch/news/international/us-raumfahrtunternehmen-spacex-scheitert-beim-raketenfang-starship-erreicht-orbit",
+     "image": "https://www.srf.ch/static/cms/images//320ws/64742c.webp",
+     "aggregator": false,
+     "published": "2026-11-14T05:59:29+00:00"
+    },
+    {
+     "source": "SPIEGEL",
+     "region": "DE",
+     "weight": 0.9,
+     "title": "Elon Musk: SpaceX fängt Starship-Rakete erstmals am Startturm wieder auf",
+     "summary": "Wichtiger Schritt in der Raumfahrtentwicklung: Elon Musks Unternehmen SpaceX hat es geschafft, die obere Stufe des Starship-Systems nach einem Testflug wieder aufzufangen. Ein voller Erfolg war das Manöver trotzdem nicht.",
+     "link": "https://www.spiegel.de/ausland/spacex-faengt-starship-rakete-am-startturm-erstmals-wieder-auf-a-8995a28f-b04d-4a0f-a6bd-1b2298f5b450#ref=rss",
+     "image": "https://cdn.prod.www.spiegel.de/images/7733a8e6-ad89-404f-a1c6-0afb190be916_w520_r2.08_fpx55.31_fpy52.98.jpg",
+     "aggregator": false,
+     "published": "2026-11-14T21:47:00+00:00"
+    },
+    {
+     "source": "Handelsblatt",
+     "region": "DE",
+     "weight": 0.9,
+     "title": "Raumfahrt: SpaceX fängt Riesen-Rakete Starship erstmals wieder auf",
+     "summary": "Mit dem größten je gebauten Raketensystem der Raumfahrtgeschichte will Elon Musk den Mars erschließen. Jetzt hat das Starship erneut einen Testflug absolviert - mit einem Erfolg und einem Rückschlag.",
+     "link": "https://www.handelsblatt.com/technik/forschung-innovation/raumfahrt-spacex-faengt-riesen-rakete-starship-erstmals-wieder-auf/100269942.html",
+     "image": "https://images.handelsblatt.com/w1zAy0uZ6MYL/cover/900/506/0/0/107/106/0.5/0.5/testflug-spacex-starship.jpg",
+     "aggregator": false,
+     "published": "2026-11-14T23:34:57+00:00"
+    },
+    {
+     "source": "Handelsblatt",
+     "region": "DE",
+     "weight": 0.9,
+     "title": "Raumfahrt: SpaceX fängt Riesen-Rakete Starship erstmals wieder auf",
+     "summary": "Mit dem größten je gebauten Raketensystem der Raumfahrtgeschichte will Elon Musk den Mars erschließen. Jetzt hat das Starship erneut einen Testflug absolviert – mit einem Rückschlag und einem Erfolg.",
+     "link": "https://www.handelsblatt.com/technik/raumfahrt-spacex-faengt-riesen-rakete-starship-erstmals-wieder-auf/100269941.html",
+     "image": "https://images.handelsblatt.com/-yBQdLzwltnu/cover/900/506/0/0/232/231/0.5/0.5/spacex-starship-42-returns-from-orbit-to-the-launch-pad-on-the-15th-test-flight-from-the-spacex-laun.jpg",
+     "aggregator": false,
+     "published": "2026-11-14T21:39:22+00:00"
+    }
+   ]
+  },
+  {
+   "id": 8,
+   "score": 13.15,
+   "outlets": [
+    "tagesschau",
+    "Deutschlandfunk",
+    "ORF",
+    "Handelsblatt",
+    "DER STANDARD"
+   ],
+   "regions": [
+    "AT",
+    "DE"
+   ],
+   "trend": [],
+   "newest": "2026-11-15T08:56:02+00:00",
+   "articles": [
+    {
+     "source": "tagesschau",
+     "region": "DE",
+     "weight": 1.0,
+     "title": "Mehr als 200 Festnahmen: Proteste in Frankreich dauern an",
+     "summary": "Mehr als 200 Festnahmen: Proteste in Frankreich dauern an",
+     "link": "https://www.tagesschau.de/video/video-1684098.html",
+     "image": "https://images.tagesschau.de/image/06e457f1-76e8-44be-a80c-2802370cdccc/AAABod5LR3A/AAABnSSvrFg/16x9-big/sendungsbild-1827812.jpg?width=1920",
+     "aggregator": false,
+     "published": "2026-11-15T08:20:51+00:00"
+    },
+    {
+     "source": "Deutschlandfunk",
+     "region": "DE",
+     "weight": 0.95,
+     "title": "Demonstrationen - Mehr als 200 Festnahmen bei Protesten in Frankreich",
+     "summary": "In Frankreich sind bei Protesten gegen die Regierung mehr als 200 Menschen festgenommen worden.",
+     "link": "https://www.deutschlandfunk.de/mehr-als-200-festnahmen-bei-protesten-in-frankreich-104.html",
+     "image": "https://bilder.deutschlandfunk.de/84/68/95/39/84689539-402e-48ea-9d16-787384e48bdf/frankreich-proteste-122-1920x1920.jpg",
+     "aggregator": false,
+     "published": "2026-11-15T08:56:02+00:00"
+    },
+    {
+     "source": "ORF",
+     "region": "AT",
+     "weight": 0.95,
+     "title": "200 Festnahmen bei neuen Protesten in Frankreich",
+     "summary": "",
+     "link": "https://orf.at/stories/3448200/",
+     "image": null,
+     "aggregator": false,
+     "published": "2026-11-14T19:58:27+00:00"
+    },
+    {
+     "source": "Handelsblatt",
+     "region": "DE",
+     "weight": 0.9,
+     "title": "Hohe Lebenshaltungskosten: 200 Festnahmen bei Protesten in Frankreich",
+     "summary": "Seit Wochen demonstrieren Menschen in Frankreich gegen hohe Kosten. Erneut gehen nun weniger auf die Straße. Reißt der Protest ab?",
+     "link": "https://www.handelsblatt.com/politik/international/hohe-lebenshaltungskosten-200-festnahmen-bei-protesten-in-frankreich/100269934.html",
+     "image": "https://images.handelsblatt.com/8Fl-X5V7ayF7/cover/900/506/0/0/107/106/0.5/0.5/proteste-in-frankreich.jpg",
+     "aggregator": false,
+     "published": "2026-11-14T19:02:22+00:00"
+    },
+    {
+     "source": "DER STANDARD",
+     "region": "AT",
+     "weight": 0.85,
+     "title": "200 Festnahmen bei Protesten in Frankreich",
+     "summary": "Erneut gab es in Frankreich Proteste gegen hohe Lebenshaltungskosten und für bessere Bildung. In mehreren Städten wie Marseille, Grenoble und Lyon gab es Zwischenfälle",
+     "link": "https://www.derstandard.at/story/3000000349254/200-festnahmen-bei-protesten-in-frankreich?ref=rss",
+     "image": "https://i.ds.at/IqRDBQ/rs:fill:150:0/plain/lido-images/2026/11/14/b6b20489-e2c6-4231-a993-a5f74c123124.jpg",
+     "aggregator": false,
+     "published": "2026-11-14T19:51:23+00:00"
+    }
+   ]
+  },
+  {
+   "id": 9,
+   "score": 13.13,
+   "outlets": [
+    "tagesschau",
+    "ZDFheute",
+    "Süddeutsche",
+    "Handelsblatt",
+    "n-tv"
+   ],
+   "regions": [
+    "DE"
+   ],
+   "trend": [],
+   "newest": "2026-11-15T09:11:15+00:00",
+   "articles": [
+    {
+     "source": "tagesschau",
+     "region": "DE",
+     "weight": 1.0,
+     "title": "Ex-Arbeitsminister Hubertus Heil kandidiert für SPD-Vorsitz",
+     "summary": "Mitte Januar wird auf einem Bundesparteitag die komplette Führung der SPD neu gewählt. Ex-Arbeitsminister Heil hat laut ARD-Hauptstadtstudio jetzt als Erster offiziell seine Kandidatur für den Vorsitz angekündigt. Von Moritz Rödle.",
+     "link": "https://www.tagesschau.de/inland/innenpolitik/heil-spd-vorsitz-kandidatur-100.html",
+     "image": "https://images.tagesschau.de/image/5cdff6b6-d243-40c2-bc41-897b5aab9b1a/AAABodmGHmQ/AAABnSSvrFg/16x9-big/hubertus-heil-210.jpg?width=1920",
+     "aggregator": false,
+     "published": "2026-11-14T18:12:45+00:00"
+    },
+    {
+     "source": "tagesschau Inland",
+     "region": "DE",
+     "weight": 1.0,
+     "title": "Ex-Arbeitsminister Hubertus Heil kandidiert für SPD-Vorsitz",
+     "summary": "Mitte Januar wird auf einem Bundesparteitag die komplette Führung der SPD neu gewählt. Ex-Arbeitsminister Heil hat laut ARD-Hauptstadtstudio jetzt als Erster offiziell seine Kandidatur für den Vorsitz angekündigt. Von Moritz Rödle.",
+     "link": "https://www.tagesschau.de/inland/innenpolitik/heil-spd-vorsitz-kandidatur-100.html",
+     "image": "https://images.tagesschau.de/image/5cdff6b6-d243-40c2-bc41-897b5aab9b1a/AAABodmGHmQ/AAABnSSvrFg/16x9-big/hubertus-heil-210.jpg?width=1920",
+     "aggregator": false,
+     "published": "2026-11-14T18:12:45+00:00"
+    },
+    {
+     "source": "ZDFheute",
+     "region": "DE",
+     "weight": 1.0,
+     "title": "Hubertus Heil kandidiert für SPD-Vorsitz",
+     "summary": "Hubertus Heil eröffnet das Rennen um den Vorsitz der SPD. Er kündigt als Erster offiziell seine Kandidatur an. Das schreibt der Ex-Arbeitsminister in einem Brief an die Partei.",
+     "link": "https://www.zdfheute.de/politik/deutschland/hubertus-heil-spd-partei-vorsitz-kandidatur-100.html",
+     "image": "https://www.zdfheute.de/assets/hubertus-heil-spd-104~384x216?cb=1794680831705",
+     "aggregator": false,
+     "published": "2026-11-14T19:59:00+00:00"
+    },
+    {
+     "source": "Süddeutsche",
+     "region": "DE",
+     "weight": 0.9,
+     "title": "Bundespolitik: Hubertus Heil kandidiert für SPD-Vorsitz",
+     "summary": "Der 54-Jährige will sich beim Parteitag Mitte Januar zur Wahl stellen. Er ist der erste, der seine Kandidatur offiziell verkündet hat.",
+     "link": "https://www.sueddeutsche.de/politik/spd-hubertus-heil-li.3580581",
+     "image": "https://www.sueddeutsche.de/2026/11/14/a4bfb9ff-0bea-4e06-8765-1fd918e9962d.jpg?rect=114%2C0%2C1820%2C1365&width=1000&fm=jpg&q=60",
+     "aggregator": false,
+     "published": "2026-11-14T19:22:20+00:00"
+    },
+    {
+     "source": "Handelsblatt",
+     "region": "DE",
+     "weight": 0.9,
+     "title": "SPD-Vorsitz: Der Parteisoldat strebt an die Macht – Hubertus Heil will SPD-Chef werden",
+     "summary": "Der frühere Arbeitsminister will beim Bundesparteitag im Januar kandidieren. Dabei hatte er jüngst noch beklagt, dass die SPD aktuell eher zu männerlastig aufgestellt sei.",
+     "link": "https://www.handelsblatt.com/politik/deutschland/spd-vorsitz-der-parteisoldat-strebt-an-die-macht-hubertus-heil-will-spd-chef-werden/100269930.html",
+     "image": "https://images.handelsblatt.com/YDBNCXtR46wC/cover/900/506/0/0/132/993/0.5/0.5/hubertus-heil.jpg",
+     "aggregator": false,
+     "published": "2026-11-15T09:11:15+00:00"
+    },
+    {
+     "source": "n-tv",
+     "region": "DE",
+     "weight": 0.8,
+     "title": "Ex-Bundesarbeitsminister: Hubertus Heil will für SPD-Vorsitz kandidieren",
+     "summary": "Der frühere Arbeitsminister Heil will SPD-Parteivorsitzender werden. Er habe sich entschieden, beim Parteitag Mitte Januar in Bremen zu kandidieren, schreibt der 54-Jährige in einem dreiseitigen Brief an die Landesverbände und den Parteivorstand.",
+     "link": "https://www.n-tv.de/politik/Hubertus-Heil-will-fuer-SPD-Vorsitz-kandidieren-id31534749.html",
+     "image": "https://www.n-tv.de/img/31534752/1794684640/Img_4_3/250/628513495.jpg",
+     "aggregator": false,
+     "published": "2026-11-14T18:28:32+00:00"
+    }
+   ]
+  },
+  {
+   "id": 10,
+   "score": 12.75,
+   "outlets": [
+    "Deutschlandfunk",
+    "ORF",
+    "Handelsblatt",
+    "DER STANDARD",
+    "n-tv"
+   ],
+   "regions": [
+    "AT",
+    "DE"
+   ],
+   "trend": [],
+   "newest": "2026-11-15T08:56:02+00:00",
+   "articles": [
+    {
+     "source": "Deutschlandfunk",
+     "region": "DE",
+     "weight": 0.95,
+     "title": "US-Wahlen - Demokrat gewinnt Gouverneurswahl in Alaska",
+     "summary": "Fast zwei Wochen nach den US-Wahlen gibt es ein weiteres Ergebnis: Im Bundesstaat Alaska hat der Demokrat Jonathan Kreiss-Tomkins die Gouverneurswahl gewonnen. Damit wird der nördlichste Bundesstaat der USA zum ersten Mal seit 1998 wieder von einem Demokraten regiert.",
+     "link": "https://www.deutschlandfunk.de/demokrat-gewinnt-gouverneurswahl-in-alaska-100.html",
+     "image": "https://bilder.deutschlandfunk.de/92/c1/04/0c/92c1040c-b405-45d8-8305-f8d05762e747/kreiss-tomkins-100-1920x1920.jpg",
+     "aggregator": false,
+     "published": "2026-11-15T08:56:02+00:00"
+    },
+    {
+     "source": "ORF",
+     "region": "AT",
+     "weight": 0.95,
+     "title": "Medien: Demokraten gewinnen Gouverneurswahl in Alaska",
+     "summary": "",
+     "link": "https://orf.at/stories/3448192/",
+     "image": null,
+     "aggregator": false,
+     "published": "2026-11-14T15:55:28+00:00"
+    },
+    {
+     "source": "Handelsblatt",
+     "region": "DE",
+     "weight": 0.9,
+     "title": "Erstmals seit 1998: Demokrat gewinnt Gouverneurswahl in Alaska",
+     "summary": "Nach zwei Amtszeiten durfte Alaskas republikanischer Gouverneur Michael Dunleavy nicht mehr antreten. Nun wurde erstmals seit 1998 wieder ein Demokrat zum Gouverneur gewählt.",
+     "link": "https://www.handelsblatt.com/politik/international/erstmals-seit-1998-demokrat-gewinnt-gouverneurswahl-in-alaska/100269916.html",
+     "image": "https://images.handelsblatt.com/VHJ1mq1WBeZz/cover/900/506/0/0/107/106/0.5/0.5/us-midterms-alaska.jpg",
+     "aggregator": false,
+     "published": "2026-11-14T15:53:15+00:00"
+    },
+    {
+     "source": "DER STANDARD",
+     "region": "AT",
+     "weight": 0.85,
+     "title": "Demokrat Kreiss-Tomkins gewinnt Gouverneurswahl in Alaska",
+     "summary": "Es ist der erste Sieg für die Demokraten in Alaska seit rund 30 Jahren. Kreiss-Tomkins wird der jüngste Gouverneur in der Geschichte des Bundesstaats",
+     "link": "https://www.derstandard.at/story/3000000349244/demokrat-kreiss-tomkins-gewinnt-gouverneurswahl-in-alaska?ref=rss",
+     "image": "https://i.ds.at/ge_nOg/rs:fill:150:0/plain/lido-images/2026/11/14/92a77d92-c957-48b7-947e-6a5869def21c.jpg",
+     "aggregator": false,
+     "published": "2026-11-14T16:12:29+00:00"
+    },
+    {
+     "source": "n-tv",
+     "region": "DE",
+     "weight": 0.8,
+     "title": "51 Prozent der Stimmen: Alaska bekommt erstmals seit 28 Jahren demokratischen Gouverneur",
+     "summary": "Mit dem Sieg von Jonathan Kreiss-Tomkins bei der Gouverneurswahl bekommt der größte US-Bundesstaat den ersten demokratischen Regierungschef seit fast 30 Jahren. Dieser setzt sich gegen drei republikanische Gegenkandidaten durch.",
+     "link": "https://www.n-tv.de/politik/Alaska-bekommt-erstmals-seit-28-Jahren-demokratischen-Gouverneur-id31534628.html",
+     "image": "https://www.n-tv.de/img/31534625/1794676511/Img_4_3/250/AP26280820931494.jpg",
+     "aggregator": false,
+     "published": "2026-11-14T16:50:53+00:00"
+    }
+   ]
+  },
+  {
+   "id": 11,
+   "score": 12.73,
+   "outlets": [
+    "tagesschau",
+    "Handelsblatt",
+    "WirtschaftsWoche",
+    "DER STANDARD",
+    "derStandard.de"
+   ],
+   "regions": [
+    "AT",
+    "DE"
+   ],
+   "trend": [],
+   "newest": "2026-11-15T09:09:58+00:00",
+   "articles": [
+    {
+     "source": "tagesschau",
+     "region": "DE",
+     "weight": 1.0,
+     "title": "Heils Kandidatur für SPD-Vorsitz aktiviert Klingbeils Fürsprecher",
+     "summary": "Der Erste wagt sich aus der Deckung: Ex-Arbeitsminister Heil will die SPD führen. Was macht Parteichef Klingbeil? Tritt er beim Parteitag im Januar erneut für den Vorsitz an? Nun sprachen sich weitere namhafte SPD-Politiker für ihn aus.",
+     "link": "https://www.tagesschau.de/inland/innenpolitik/spd-spitze-klingbeil-heil-100.html",
+     "image": "https://images.tagesschau.de/image/cfa04f79-ad8c-4715-92f8-9f25a2c9a38c/AAABod5Tybk/AAABnSSvrFg/16x9-big/klingbeil-466.jpg?width=1920",
+     "aggregator": false,
+     "published": "2026-11-15T09:09:58+00:00"
+    },
+    {
+     "source": "tagesschau",
+     "region": "DE",
+     "weight": 1.0,
+     "title": "Moritz Rödle, ARD Berlin, über die Kandidatur von Ex-Arbeitsminister Hubertus Heil für SPD-Vorsitz",
+     "summary": "Moritz Rödle, ARD Berlin, über die Kandidatur von Ex-Arbeitsminister Hubertus Heil für SPD-Vorsitz",
+     "link": "https://www.tagesschau.de/tagesthemen/video-1684008.html",
+     "image": "https://images.tagesschau.de/image/f7213842-8a91-40da-b36f-825be4857775/AAABodvqhMM/AAABnSSvrFg/16x9-big/sendungsbild-1827678.jpg?width=1920",
+     "aggregator": false,
+     "published": "2026-11-14T21:15:55+00:00"
+    },
+    {
+     "source": "tagesschau Inland",
+     "region": "DE",
+     "weight": 1.0,
+     "title": "Heils Kandidatur für SPD-Vorsitz aktiviert Klingbeils Fürsprecher",
+     "summary": "Der Erste wagt sich aus der Deckung: Ex-Arbeitsminister Heil will die SPD führen. Was macht Parteichef Klingbeil? Tritt er beim Parteitag im Januar erneut für den Vorsitz an? Nun sprachen sich weitere namhafte SPD-Politiker für ihn aus.",
+     "link": "https://www.tagesschau.de/inland/innenpolitik/spd-spitze-klingbeil-heil-100.html",
+     "image": "https://images.tagesschau.de/image/cfa04f79-ad8c-4715-92f8-9f25a2c9a38c/AAABod5Tybk/AAABnSSvrFg/16x9-big/klingbeil-466.jpg?width=1920",
+     "aggregator": false,
+     "published": "2026-11-15T09:09:58+00:00"
+    },
+    {
+     "source": "Handelsblatt",
+     "region": "DE",
+     "weight": 0.9,
+     "title": "Kandidaten-Suche: Der Machtkampf ist eröffnet: Heil tritt für SPD-Vorsitz an",
+     "summary": "Der Erste wagt sich aus der Deckung: Ein Dauer-Rivale von Vizekanzler Lars Klingbeil tritt für den SPD-Vorsitz an. Wer könnte sonst noch kandidieren?",
+     "link": "https://www.handelsblatt.com/politik/deutschland/kandidaten-suche-der-machtkampf-ist-eroeffnet-heil-tritt-fuer-spd-vorsitz-an/100269975.html",
+     "image": "https://images.handelsblatt.com/srWE-VIcsxsm/cover/900/506/0/0/107/106/0.5/0.5/hubertus-heil.jpg",
+     "aggregator": false,
+     "published": "2026-11-15T06:00:05+00:00"
+    },
+    {
+     "source": "Handelsblatt",
+     "region": "DE",
+     "weight": 0.9,
+     "title": "Bundespolitik: Hubertus Heil will für SPD-Vorsitz kandidieren",
+     "summary": "Ein Dauer-Rivale von Vizekanzler Lars Klingbeil tritt für den SPD-Vorsitz an. Der frühere Arbeitsminister Hubertus Heil hat einen entsprechenden Brief an die Landesverbände und den Parteivorstand geschrieben.",
+     "link": "https://www.handelsblatt.com/politik/deutschland/bundespolitik-hubertus-heil-will-fuer-spd-vorsitz-kandidieren/100269928.html",
+     "image": "https://images.handelsblatt.com/E0kWO1e-eaP2/cover/900/506/0/0/107/106/0.5/0.5/hubertus-heil.jpg",
+     "aggregator": false,
+     "published": "2026-11-14T18:54:22+00:00"
+    },
+    {
+     "source": "Handelsblatt",
+     "region": "DE",
+     "weight": 0.9,
+     "title": "Kandidaten-Suche: Heil tritt an - Wer noch Chancen auf den SPD-Vorsitz hat",
+     "summary": "Der erste wagt sich aus der Deckung: Ein Dauer-Rivale von Vizekanzler Lars Klingbeil tritt für den SPD-Vorsitz an. Wer könnte sonst noch kandidieren?",
+     "link": "https://www.handelsblatt.com/politik/deutschland/kandidaten-suche-heil-tritt-an-wer-noch-chancen-auf-den-spd-vorsitz-hat/100269926.html",
+     "image": "https://images.handelsblatt.com/E0kWO1e-eaP2/cover/900/506/0/0/107/106/0.5/0.5/hubertus-heil.jpg",
+     "aggregator": false,
+     "published": "2026-11-14T18:39:34+00:00"
+    },
+    {
+     "source": "WirtschaftsWoche",
+     "region": "DE",
+     "weight": 0.85,
+     "title": "Konkurrenz für Klingbeil: Der Machtkampf ist eröffnet – Hubertus Heil tritt für SPD-Vorsitz an",
+     "summary": "Der Erste wagt sich aus der Deckung: Ein Dauer-Rivale von Vizekanzler Lars Klingbeil tritt für den SPD-Vorsitz an. Wer könnte sonst noch kandidieren?",
+     "link": "https://www.wiwo.de/politik/deutschland/kandidaten-suche-der-machtkampf-ist-eroeffnet-heil-tritt-fuer-spd-vorsitz-an/100269976.html",
+     "image": "https://images.wiwo.de/3VZLecnZx3VA/cover/900/506/0/0/107/106/0.5/0.5/hubertus-heil.jpg",
+     "aggregator": false,
+     "published": "2026-11-15T06:00:05+00:00"
+    },
+    {
+     "source": "DER STANDARD",
+     "region": "AT",
+     "weight": 0.85,
+     "title": "Deutscher Ex-Arbeitsminister Hubertus Heil kandidiert für SPD-Vorsitz",
+     "summary": "Heil hat laut Berichten am Samstag seine Bewerbung verschickt. Die SPD will im Jänner bei einem Sonder-Parteitag ihre gesamte Führungsspitze neu wählen",
+     "link": "https://www.derstandard.at/story/3000000349250/zeitung-ex-arbeitsminister-hubertus-heil-kandidiert-f252r-spd-vorsitz?ref=rss",
+     "image": "https://i.ds.at/ORN65Q/rs:fill:150:0/plain/lido-images/2026/11/14/745aeb18-a70a-4ceb-9e4b-4b8249502076.jpg",
+     "aggregator": false,
+     "published": "2026-11-14T18:49:11+00:00"
+    }
+   ]
+  },
+  {
+   "id": 12,
+   "score": 12.45,
+   "outlets": [
+    "tagesschau",
+    "Deutsche Welle",
+    "Deutschlandfunk",
+    "Handelsblatt"
+   ],
+   "regions": [
+    "DE",
+    "INT"
+   ],
+   "trend": [],
+   "newest": "2026-11-15T08:56:02+00:00",
+   "articles": [
+    {
+     "source": "tagesschau",
+     "region": "DE",
+     "weight": 1.0,
+     "title": "USA bieten Ukraine laut Selenskyj NATO-Beitritt bei Gebietsverzicht",
+     "summary": "Ein Rückzug aus dem Donbass im Tausch für einen NATO-Beitritt - das haben die USA der Ukraine nach Angaben Selenskyjs nahegelegt. Unter bestimmten Bedingungen würde er diese Frage in einem Referendum zur Abstimmung stellen, so der Präsident.",
+     "link": "https://www.tagesschau.de/ausland/europa/ukraine-usa-nato-gebietsverzicht-100.html",
+     "image": "https://images.tagesschau.de/image/38aae710-371d-4286-9a79-325f40e6837c/AAABodm4fQE/AAABnSSvrFg/16x9-big/wolodymyr-selenskyj-284.jpg?width=1920",
+     "aggregator": false,
+     "published": "2026-11-14T17:21:30+00:00"
+    },
+    {
+     "source": "tagesschau Ausland",
+     "region": "INT",
+     "weight": 1.0,
+     "title": "USA bieten Ukraine laut Selenskyj NATO-Beitritt bei Gebietsverzicht",
+     "summary": "Ein Rückzug aus dem Donbass im Tausch für einen NATO-Beitritt - das haben die USA der Ukraine nach Angaben Selenskyjs nahegelegt. Unter bestimmten Bedingungen würde er diese Frage in einem Referendum zur Abstimmung stellen, so der Präsident.",
+     "link": "https://www.tagesschau.de/ausland/europa/ukraine-usa-nato-gebietsverzicht-100.html",
+     "image": "https://images.tagesschau.de/image/38aae710-371d-4286-9a79-325f40e6837c/AAABodm4fQE/AAABnSSvrFg/16x9-big/wolodymyr-selenskyj-284.jpg?width=1920",
+     "aggregator": false,
+     "published": "2026-11-14T17:21:30+00:00"
+    },
+    {
+     "source": "Deutsche Welle",
+     "region": "INT",
+     "weight": 0.95,
+     "title": "Neue Impulse für NATO-Mitgliedschaft der Ukraine",
+     "summary": "Die USA haben nach Angaben des ukrainischen Präsidenten Wolodymyr Selenskyj einen NATO-Beitritt der Ukraine ins Spiel gebracht. Voraussetzung sei, dass die Ukraine die Donbass-Region im Osten aufgebe.",
+     "link": "https://www.dw.com/de/neue-impulse-für-nato-mitgliedschaft-der-ukraine/a-79948144?maca=de-rss-de-all-1119-xml-mrss",
+     "image": "https://static.dw.com/image/79931197_302.jpg",
+     "aggregator": false,
+     "published": "2026-11-14T13:36:00+00:00"
+    },
+    {
+     "source": "Deutschlandfunk",
+     "region": "DE",
+     "weight": 0.95,
+     "title": "Ukraine - Selenskyj: USA haben Gebietsabtretungen an Russland im Gegenzug für eine NATO-Mitgliedschaft ins Gespräch gebracht",
+     "summary": "Die USA haben nach Angaben des ukrainischen Präsidenten Selenskyj eine NATO-Mitgliedschaft seines Landes bei gleichzeitigen Gebietsabtretungen an Russland ins Gespräch gebracht.",
+     "link": "https://www.deutschlandfunk.de/selenskyj-usa-haben-gebietsabtretungen-an-russland-im-gegenzug-fuer-eine-nato-mitgliedschaft-ins-ges-114.html",
+     "image": "https://bilder.deutschlandfunk.de/54/48/fe/aa/5448feaa-710f-4b18-8d99-573ff6a166b9/selenskyj-186-1920x1920.jpg",
+     "aggregator": false,
+     "published": "2026-11-15T08:56:02+00:00"
+    },
+    {
+     "source": "Handelsblatt",
+     "region": "DE",
+     "weight": 0.9,
+     "title": "Ukraine: USA schlagen laut Selenskyj Donbass-Rückzug gegen Nato-Beitritt vor",
+     "summary": "US-Unterhändler haben laut Selenskyj einen Nato-Beitritt gegen einen Rückzug aus dem Donbass ins Spiel gebracht. Ob ein Referendum stattfindet, hängt von umfassenden Sicherheitshilfen ab.",
+     "link": "https://www.handelsblatt.com/politik/international/ukraine-usa-schlagen-laut-selenskyj-donbass-rueckzug-gegen-nato-beitritt-vor/100269908.html",
+     "image": "https://images.handelsblatt.com/AK1UlehnG0cf/cover/900/506/0/0/0/195/0.5/0.5/dpatopbilder-12.11.2026-irland-dublin-die-us-sonderbeauftragten-steve-witkoff-r-und-jared-kus.jpg",
+     "aggregator": false,
+     "published": "2026-11-14T15:38:32+00:00"
+    }
+   ]
+  },
+  {
+   "id": 13,
+   "score": 12.45,
+   "outlets": [
+    "tagesschau Inland",
+    "ZDFheute",
+    "Deutschlandfunk",
+    "DER STANDARD"
+   ],
+   "regions": [
+    "AT",
+    "DE"
+   ],
+   "trend": [],
+   "newest": "2026-11-15T08:56:02+00:00",
+   "articles": [
+    {
+     "source": "tagesschau Inland",
+     "region": "DE",
+     "weight": 1.0,
+     "title": "AfD will Ex-Fußballprofi Berthold als Bundespräsidenten nominieren",
+     "summary": "Der ehemalige Fußballprofi Thomas Berthold soll nach ARD-Informationen für die AfD ins Rennen um das Amt des Bundespräsidenten gehen. Der Weltmeister von 1990 tat sich während der Corona-Pandemie als \"Querdenker\" hervor.",
+     "link": "https://www.tagesschau.de/inland/innenpolitik/berthold-afd-wahl-bundespraesident-100.html",
+     "image": "https://images.tagesschau.de/image/8a357c52-432c-4162-988c-fb5723ee6c98/AAABodZtqQ0/AAABnSSvrFg/16x9-big/thomas-berthold-110.jpg?width=1920",
+     "aggregator": false,
+     "published": "2026-11-13T16:37:14+00:00"
+    },
+    {
+     "source": "ZDFheute",
+     "region": "DE",
+     "weight": 1.0,
+     "title": "AfD will Fußball-Weltmeister als Bundespräsidenten nominieren",
+     "summary": "Thomas Berthold soll für die AfD bei der Wahl des Bundespräsidenten antreten. Das erfuhr das ZDF aus AfD-Kreisen.",
+     "link": "https://www.zdfheute.de/politik/deutschland/wahl-bundespraesident-afd-kandidat-thomas-berthold-100.html",
+     "image": "https://www.zdfheute.de/assets/thomas-berthold-118~384x216?cb=1794577307545",
+     "aggregator": false,
+     "published": "2026-11-13T14:12:00+00:00"
+    },
+    {
+     "source": "Deutschlandfunk",
+     "region": "DE",
+     "weight": 0.95,
+     "title": "Steinmeier-Nachfolge - AfD ernennt Ex-Fußballweltmeister Thomas Berthold zu ihrem Kandidaten für das Amt des Bundespräsidenten",
+     "summary": "Die AfD hat den früheren Fußball-Weltmeister Thomas Berthold zu ihrem Kandidaten für das Amt des Bundespräsidenten ernannt.",
+     "link": "https://www.deutschlandfunk.de/afd-ernennt-ex-fussballweltmeister-thomas-berthold-zu-ihrem-kandidaten-fuer-das-amt-des-bundespraesi-102.html",
+     "image": "https://bilder.deutschlandfunk.de/04/45/15/ce/044515ce-3cfd-43ca-b625-20f1fd46b428/berthold-100-1920x1920.jpg",
+     "aggregator": false,
+     "published": "2026-11-15T08:56:02+00:00"
+    },
+    {
+     "source": "DER STANDARD",
+     "region": "AT",
+     "weight": 0.85,
+     "title": "AfD nominiert Ex-Profi-Fußballer Thomas Berthold als Bundespräsident",
+     "summary": "Als \"Weltmeister ohne Parteibuch\" sei der 62-Jährige \"als Bundespräsident für alle Deutschen\" bestens geeignet",
+     "link": "https://www.derstandard.at/story/3000000349239/afd-nominiert-ex-profi-fussballer-thomas-berthold-als-bundespraesident?ref=rss",
+     "image": "https://i.ds.at/fY0E1Q/rs:fill:150:0/plain/lido-images/2026/11/14/becf2aaf-8b83-429e-8cd6-18a83707538f.jpg",
+     "aggregator": false,
+     "published": "2026-11-14T14:10:43+00:00"
+    }
+   ]
+  },
+  {
+   "id": 14,
+   "score": 12.0,
+   "outlets": [
+    "tagesschau",
+    "ORF",
+    "SRF News",
+    "DER STANDARD",
+    "tagesschau.de"
+   ],
+   "regions": [
+    "AT",
+    "CH",
+    "DE",
+    "INT"
+   ],
+   "trend": [],
+   "newest": "2026-11-15T09:04:29+00:00",
+   "articles": [
+    {
+     "source": "tagesschau",
+     "region": "DE",
+     "weight": 1.0,
+     "title": "EU: Israel soll Zugang für Helfer in den Gazastreifen gewähren",
+     "summary": "Die EU fordert Israel auf, sofort Helfer in den Gazastreifen zu lassen. Dort hatte heftiger Regen die Zelte von Zehntausenden Vertriebenen überschwemmt. Auch die Kälte wird zunehmend zur Gefahr.",
+     "link": "https://www.tagesschau.de/ausland/asien/gaza-hilfsforderung-eu-100.html",
+     "image": "https://images.tagesschau.de/image/839647fd-b961-4bbb-8b5c-b84761349bb9/AAABodsq-eo/AAABnSSvrFg/16x9-big/gaza-1518.jpg?width=1920",
+     "aggregator": false,
+     "published": "2026-11-14T19:09:28+00:00"
+    },
+    {
+     "source": "tagesschau Ausland",
+     "region": "INT",
+     "weight": 1.0,
+     "title": "EU: Israel soll Zugang für Helfer in den Gazastreifen gewähren",
+     "summary": "Die EU fordert Israel auf, sofort Helfer in den Gazastreifen zu lassen. Dort hatte heftiger Regen die Zelte von Zehntausenden Vertriebenen überschwemmt. Auch die Kälte wird zunehmend zur Gefahr.",
+     "link": "https://www.tagesschau.de/ausland/asien/gaza-hilfsforderung-eu-100.html",
+     "image": "https://images.tagesschau.de/image/839647fd-b961-4bbb-8b5c-b84761349bb9/AAABodsq-eo/AAABnSSvrFg/16x9-big/gaza-1518.jpg?width=1920",
+     "aggregator": false,
+     "published": "2026-11-14T19:09:28+00:00"
+    },
+    {
+     "source": "ORF",
+     "region": "AT",
+     "weight": 0.95,
+     "title": "Unwetter in Gaza: EU fordert von Israel Zugang für Helfer",
+     "summary": "",
+     "link": "https://orf.at/stories/3448181/",
+     "image": null,
+     "aggregator": false,
+     "published": "2026-11-14T13:51:43+00:00"
+    },
+    {
+     "source": "SRF News",
+     "region": "CH",
+     "weight": 0.95,
+     "title": "Krieg im Nahen Osten – EU fordert ungehinderten Zugang für Hilfsgüter nach Gaza",
+     "summary": "Schwere Regenfälle haben Zehntausende Zelte überflutet. Die EU verlangt von Israel, alle Übergänge zu öffnen.",
+     "link": "https://www.srf.ch/news/international/nahost/krieg-im-nahen-osten-eu-fordert-ungehinderten-zugang-fuer-hilfsgueter-nach-gaza",
+     "image": "https://www.srf.ch/static/cms/images//320ws/288b6d.webp",
+     "aggregator": false,
+     "published": "2026-11-15T09:04:29+00:00"
+    },
+    {
+     "source": "DER STANDARD",
+     "region": "AT",
+     "weight": 0.85,
+     "title": "Nach Unwettern in Gaza: EU fordert von Israel Sofortzugang für Helfer",
+     "summary": "Zehntausende Zelte wurden bereits überschwemmt. Israel muss die Arbeit von Helfern \"erleichtern und all seinen Verpflichtungen gemäß dem Völkerrecht\" nachkommen, fordert EU-Außenbeauftragte Kallas",
+     "link": "https://www.derstandard.at/story/3000000349240/nach-unwettern-in-gaza-eu-fordert-von-israel-sofortzugang-f252r-helfer?ref=rss",
+     "image": "https://i.ds.at/CqlBgA/rs:fill:150:0/plain/lido-images/2026/11/14/21fd2121-a7f9-49eb-82bf-015db34e1ffe.jpg",
+     "aggregator": false,
+     "published": "2026-11-14T14:26:41+00:00"
+    },
+    {
+     "source": "tagesschau.de",
+     "region": "DE",
+     "weight": 0.6,
+     "title": "EU: Israel soll Zugang für Helfer in den Gazastreifen gewähren",
+     "summary": "EU: Israel soll Zugang für Helfer in den Gazastreifen gewähren tagesschau.de Gaza nach Starkregen: WHO warnt vor Anstieg von Atemwegserkrankungen FAZ Gaza: Hamas beschlagnahmt Zelte von vertriebenen Palästinensern WELT Gaza: Humanitäre Lage durch Regenfälle verschärft sich DW.com Die Hölle von Gaza: Eine Doku erzählt, was Ärzt:innen mitansehen mussten taz.de",
+     "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5FN2xhOFAtT29nQWtJdm14YmdSdDFnZ2JjZHZvaGpycHRuUXpXZlA1QktnelFjRVZKMHZYeV9SNEVPSkZaNjZIV3dpSUV0R19VcWFMTmpLRHpSYVBkeU1lOWVZeXQzcE5nUGsxcU5TS05mS053ZjRmLXE2OA?oc=5",
+     "image": null,
+     "aggregator": true,
+     "published": "2026-11-14T19:09:00+00:00"
+    }
+   ]
+  },
+  {
+   "id": 15,
+   "score": 11.95,
+   "outlets": [
+    "Deutschlandfunk",
+    "ORF",
+    "SRF News",
+    "Handelsblatt",
+    "Spiegel"
+   ],
+   "regions": [
+    "AT",
+    "CH",
+    "DE"
+   ],
+   "trend": [],
+   "newest": "2026-11-15T08:56:02+00:00",
+   "articles": [
+    {
+     "source": "Deutschlandfunk",
+     "region": "DE",
+     "weight": 0.95,
+     "title": "Datenschutz - Strafe von 805 Millionen Euro für Meta in Italien",
+     "summary": "Die italienische Datenschutzbehörde hat gegen den Facebook-Konzern Meta eine Strafzahlung von 805 Millionen Euro verhängt.",
+     "link": "https://www.deutschlandfunk.de/strafe-von-805-millionen-euro-fuer-meta-in-italien-104.html",
+     "image": "https://bilder.deutschlandfunk.de/fe/df/5a/09/fedf5a09-7960-47ba-8ec1-40c6dbf8655c/meta-facebook-100-1920x1920.jpg",
+     "aggregator": false,
+     "published": "2026-11-15T08:56:02+00:00"
+    },
+    {
+     "source": "ORF",
+     "region": "AT",
+     "weight": 0.95,
+     "title": "Datenschutz: 805 Millionen Euro Strafe für Meta in Italien",
+     "summary": "",
+     "link": "https://orf.at/stories/3448189/",
+     "image": null,
+     "aggregator": false,
+     "published": "2026-11-14T15:30:47+00:00"
+    },
+    {
+     "source": "SRF News",
+     "region": "CH",
+     "weight": 0.95,
+     "title": "Zugriff ohne Einwilligung – Meta muss in Italien 805 Millionen Euro Strafe zahlen",
+     "summary": "Der Konzern hat über eine Funktion der Facebook-App ohne gesonderte Zustimmung auf Nutzerfotos und -videos zugegriffen.",
+     "link": "https://www.srf.ch/news/wirtschaft/zugriff-ohne-einwilligung-meta-muss-in-italien-805-millionen-euro-strafe-zahlen",
+     "image": "https://www.srf.ch/static/cms/images//320ws/a6b2a2.webp",
+     "aggregator": false,
+     "published": "2026-11-14T15:30:26+00:00"
+    },
+    {
+     "source": "Handelsblatt",
+     "region": "DE",
+     "weight": 0.9,
+     "title": "Urteil: Italien verhängt 805 Millionen Euro Strafe gegen Meta",
+     "summary": "Eine Funktion, die Facebook-Nutzern Ideen für eigene Beiträge liefern sollte, wird für Meta zum Problem. Im Mittelpunkt steht der Zugriff auf private Fotos und Videos auf Millionen Geräten.",
+     "link": "https://www.handelsblatt.com/unternehmen/it-medien/urteil-italien-verhaengt-805-millionen-euro-strafe-gegen-meta/100269913.html",
+     "image": "https://images.handelsblatt.com/KJjA-NLrT9SR/cover/900/506/0/0/177/239/0.5/0.5/file-photo-meta-logo-in-this-illustration-taken-november-6-2026.-reuters-dado-ruvic-illustration-f.jpg",
+     "aggregator": false,
+     "published": "2026-11-14T15:55:42+00:00"
+    },
+    {
+     "source": "Handelsblatt",
+     "region": "DE",
+     "weight": 0.9,
+     "title": "Facebook-Konzern: Italien verhängt 805 Millionen Euro Strafe gegen Meta",
+     "summary": "Eine Funktion, die Facebook-Nutzern Ideen für eigene Beiträge liefern sollte, wird für Meta zum Problem. Im Mittelpunkt steht der Zugriff auf private Fotos und Videos auf Millionen Smartphones.",
+     "link": "https://www.handelsblatt.com/politik/deutschland/facebook-konzern-italien-verhaengt-805-millionen-euro-strafe-gegen-meta/100269912.html",
+     "image": "https://images.handelsblatt.com/d6JCQX5utK5t/cover/900/506/0/0/107/106/0.5/0.5/facebook.jpg",
+     "aggregator": false,
+     "published": "2026-11-14T15:38:42+00:00"
+    },
+    {
+     "source": "Spiegel",
+     "region": "DE",
+     "weight": 0.6,
+     "title": "Meta: Facebook muss wegen ausgelesener Fotogalerien 805 Millionen Euro zahlen",
+     "summary": "Meta: Facebook muss wegen ausgelesener Fotogalerien 805 Millionen Euro zahlen Spiegel Datenschutz - Strafe von 805 Millionen Euro für Meta in Italien Deutschlandfunk Meta: 805 Millionen Euro Strafe wegen Facebook-Fotofunktion BILD Meta muss in Italien 805 Millionen Euro Strafe zahlen - Wirtschaft - SZ.de SZ.de Datenschutz-Verstöße: Strafe von 805 Millionen Euro für Meta in Italien verkündet STERN.de",
+     "link": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxPdlh3WEJGQjFFNUVLS0ZDS0FEdjRWeHpIX0wtYkw2VUNJYV9xR0xQdnFTZDIxNTcyTUJjaFc3VVVSeFY1dHIzek9iZjNyajBjTU9uTzg3VGw5S09rbFNuZkZNVzd4emVrNDNDTmFKSXZ3RGswRWJ6YkItR3pKbU9pSmloaERITEpaaTIxUGstZ1cyZ0w5Tm50YUxpNEZBN211NXFoYWp5NmtRZ1FIOHhVU3hwU3NxbThNRGE4OFd2bFp0V1E0S3U3aU5TUXBZVEwyTHJhTDV5Mno2RnBjdVhOeEhHcUJOVmp3UDNTNFlUZlBBTXM?oc=5",
+     "image": null,
+     "aggregator": true,
+     "published": "2026-11-15T08:32:00+00:00"
+    }
+   ]
+  },
+  {
+   "id": 16,
+   "score": 11.65,
+   "outlets": [
+    "tagesschau",
+    "ZDFheute",
+    "Deutsche Welle",
+    "Deutschlandfunk"
+   ],
+   "regions": [
+    "DE",
+    "INT"
+   ],
+   "trend": [],
+   "newest": "2026-11-15T08:56:02+00:00",
+   "articles": [
+    {
+     "source": "tagesschau",
+     "region": "DE",
+     "weight": 1.0,
+     "title": "Papst Leo in Südamerika: Empfangen wie ein lang vermisster alter Freund",
+     "summary": "Auf seiner bisher längsten Auslandsreise als Papst wird Leo XIV. vor allem in Peru und Argentinien begeistert empfangen. Welche Akzente hat er in seiner \"zweiten Heimat\" gesetzt? Eine erste Bilanz des Südamerika-Besuchs. Von Tilmann Kleinjung.",
+     "link": "https://www.tagesschau.de/ausland/amerika/papst-reise-suedamerika-bilanz-100.html",
+     "image": "https://images.tagesschau.de/image/4d4b7c29-3f12-497e-a2cf-84b26132a12b/AAABod3Z2vo/AAABnSSvrFg/16x9-big/papst-peru-110.jpg?width=1920",
+     "aggregator": false,
+     "published": "2026-11-15T07:35:51+00:00"
+    },
+    {
+     "source": "tagesschau",
+     "region": "DE",
+     "weight": 1.0,
+     "title": "Schlafender Passagier, Möwen in Travemünde, Papst Leo XIV.",
+     "summary": "Schlafender Passagier, Möwen in Travemünde, Papst Leo XIV.",
+     "link": "https://www.tagesschau.de/multimedia/bilder/blickpunkte-10566.html",
+     "image": "https://images.tagesschau.de/image/fb812ba2-f06b-4a9a-9836-422df7530b2b/AAABodlcsCE/AAABnSSvrFg/16x9-big/lincoln-schlafender-100.jpg?width=1920",
+     "aggregator": false,
+     "published": "2026-11-14T10:32:33+00:00"
+    },
+    {
+     "source": "tagesschau Ausland",
+     "region": "INT",
+     "weight": 1.0,
+     "title": "Papst Leo in Südamerika: Empfangen wie ein lang vermisster alter Freund",
+     "summary": "Auf seiner bisher längsten Auslandsreise als Papst wird Leo XIV. vor allem in Peru und Argentinien begeistert empfangen. Welche Akzente hat er in seiner \"zweiten Heimat\" gesetzt? Eine erste Bilanz des Südamerika-Besuchs. Von Tilmann Kleinjung.",
+     "link": "https://www.tagesschau.de/ausland/amerika/papst-reise-suedamerika-bilanz-100.html",
+     "image": "https://images.tagesschau.de/image/4d4b7c29-3f12-497e-a2cf-84b26132a12b/AAABod3Z2vo/AAABnSSvrFg/16x9-big/papst-peru-110.jpg?width=1920",
+     "aggregator": false,
+     "published": "2026-11-15T07:35:51+00:00"
+    },
+    {
+     "source": "ZDFheute",
+     "region": "DE",
+     "weight": 1.0,
+     "title": "Gefängnisbesuch in Buenos Aires: Papst Leo umarmt Häftlinge",
+     "summary": "Bewegende Szenen in einem Gefängnis in Buenos Aires in Argentinien. Auf seiner Reise durch Südamerika hat Papst Leo die Häftlinge dort besucht und ihnen Mut zugesprochen.",
+     "link": "https://www.zdfheute.de/video/panorama-papst-leo-umarmt-haeftlinge-buenos-aires-video-102.html",
+     "image": "https://www.zdfheute.de/assets/papst-besucht-gefaengnis-100~384x216?cb=1794417285119",
+     "aggregator": false,
+     "published": "2026-11-11T20:34:00+00:00"
+    },
+    {
+     "source": "Deutsche Welle",
+     "region": "INT",
+     "weight": 0.95,
+     "title": "Begeisterter Empfang für Papst Leo XIV. in Peru",
+     "summary": "Für den Pontifex, der auch die peruanische Staatsbürgerschaft besitzt, ist die letzte Station seiner Lateinamerika-Reise ein Heimspiel. Doch im Beisein von Präsidentin Fujimori findet er mahnende Worte.",
+     "link": "https://www.dw.com/de/begeisterter-empfang-für-papst-leo-xiv-in-peru/a-79926779?maca=de-rss-de-all-1119-xml-mrss",
+     "image": "https://static.dw.com/image/79925065_302.jpg",
+     "aggregator": false,
+     "published": "2026-11-12T10:01:00+00:00"
+    },
+    {
+     "source": "Deutschlandfunk",
+     "region": "DE",
+     "weight": 0.95,
+     "title": "Südamerika-Reise - Papst Leo prangert hohe Gewaltrate in Peru an",
+     "summary": "Papst Leo XIV. hat die Bevölkerung in Peru aufgerufen, sich durch die hohe Kriminalität nicht entmutigen zu lassen.",
+     "link": "https://www.deutschlandfunk.de/papst-leo-prangert-hohe-gewaltrate-in-peru-an-100.html",
+     "image": "https://bilder.deutschlandfunk.de/0c/17/84/96/0c178496-0f8e-4535-b4ed-01a8c660ed75/papst-peru-100-1920x1920.jpg",
+     "aggregator": false,
+     "published": "2026-11-15T08:56:02+00:00"
+    }
+   ]
+  },
+  {
+   "id": 17,
+   "score": 11.46,
+   "outlets": [
+    "ORF",
+    "DER STANDARD"
+   ],
+   "regions": [
+    "AT"
+   ],
+   "trend": [
+    "new orleans",
+    "New Orleans port sues tanker owners over cruise ship collision for $1m",
+    "Tanker ‘lost control’ and hit cruise ship in New Orleans, spurring massive evacuation, officials say"
+   ],
+   "newest": "2026-11-15T07:27:41+00:00",
+   "articles": [
+    {
+     "source": "ORF",
+     "region": "AT",
+     "weight": 0.95,
+     "title": "Schiffskollision in New Orleans: Hafenbetreiber klagt",
+     "summary": "",
+     "link": "https://orf.at/stories/3448216/",
+     "image": null,
+     "aggregator": false,
+     "published": "2026-11-15T07:00:37+00:00"
+    },
+    {
+     "source": "DER STANDARD",
+     "region": "AT",
+     "weight": 0.85,
+     "title": "Hafenbetreiber klagt Tanker nach Schiffskollision in New Orleans",
+     "summary": "Der Tankschiffbetreiber soll für rund eine Million Schaden aufkommen",
+     "link": "https://www.derstandard.at/story/3000000349267/hafenbetreiber-klagt-tanker-nach-schiffskollision-in-new-orleans?ref=rss",
+     "image": "https://i.ds.at/tqTdUQ/rs:fill:150:0/plain/lido-images/2026/11/15/8e9a191a-7bf0-4e43-99bc-dd4601a8e88f.jpg",
+     "aggregator": false,
+     "published": "2026-11-15T07:27:41+00:00"
+    }
+   ]
+  },
+  {
+   "id": 18,
+   "score": 11.45,
+   "outlets": [
+    "ZDFheute",
+    "Deutschlandfunk",
+    "ORF",
+    "Handelsblatt"
+   ],
+   "regions": [
+    "AT",
+    "DE"
+   ],
+   "trend": [],
+   "newest": "2026-11-15T08:56:02+00:00",
+   "articles": [
+    {
+     "source": "ZDFheute",
+     "region": "DE",
+     "weight": 1.0,
+     "title": "Proteste bei Klimakonferenz in der Türkei",
+     "summary": "Tausende Menschen gingen zur Halbzeit der Klimakonferenz in Antalya auf die Straße. Sie fordern den Schutz von Menschenrechte und Klima. Große Proteste sind in der Türkei selten.",
+     "link": "https://www.zdfheute.de/video/klima-proteste-tuerkei-100.html",
+     "image": "https://www.zdfheute.de/assets/proteste-klima-tuerkei-100~384x216?cb=1794686516899",
+     "aggregator": false,
+     "published": "2026-11-14T20:01:00+00:00"
+    },
+    {
+     "source": "ZDFheute",
+     "region": "DE",
+     "weight": 1.0,
+     "title": "Türkei: Tausende demonstrieren für Klima und Menschenrechte",
+     "summary": "Während der Klimakonferenz sind im türkischen Antalya tausende Menschen auf die Straße gegangen. Die Opposition nutzte eine seltene Gelegenheit zum Protest gegen die Regierung.",
+     "link": "https://www.zdfheute.de/politik/ausland/tuerkei-antalya-demo-klimaschutz-menschenrechte-100.html",
+     "image": "https://www.zdfheute.de/assets/demonstration-cop31-antalya-100~384x216?cb=1794668935389",
+     "aggregator": false,
+     "published": "2026-11-14T15:25:00+00:00"
+    },
+    {
+     "source": "Deutschlandfunk",
+     "region": "DE",
+     "weight": 0.95,
+     "title": "Türkei - Tausende demonstrieren bei UNO-Klimakonferenz in Antalya - \"Gipfel der Völker\" startet",
+     "summary": "Zur Halbzeit der UNO-Klimakonferenz haben im türkischen Antalya tausende Menschen für Klimaschutz und Menschenrechte demonstriert. Nach Angaben der Polizei nahmen mehr als 7.000 Menschen teil. Die Veranstalter sprachen von mehr als 10.000 Teilnehmern.",
+     "link": "https://www.deutschlandfunk.de/tausende-demonstrieren-bei-uno-klimakonferenz-in-antalya-gipfel-der-voelker-startet-114.html",
+     "image": "https://bilder.deutschlandfunk.de/06/40/f9/3d/0640f93d-e64d-4915-b713-78113d9642f3/demo-antalya-100-1920x1920.jpg",
+     "aggregator": false,
+     "published": "2026-11-15T08:56:02+00:00"
+    },
+    {
+     "source": "ORF",
+     "region": "AT",
+     "weight": 0.95,
+     "title": "Tausende gehen in Antalya auf die Straße",
+     "summary": "Zur Halbzeit der UNO-Klimakonferenz (COP31) im türkischen Antalya hat am Samstag ein großer Protest zivilgesellschaftlicher Organisationen stattgefunden. Mehr als 10.000 Menschen gingen nach Angaben der Veranstalter für Klimaschutz friedlich auf die Straße. UNO-Klimachef Simon Stiell warnte die Verhandler vor taktischen Spielchen. Demonstriert wurde auch für Menschenrechte und gegen die Regierung in Ankara.",
+     "link": "https://orf.at/stories/3448187/",
+     "image": null,
+     "aggregator": false,
+     "published": "2026-11-14T16:05:52+00:00"
+    },
+    {
+     "source": "Handelsblatt",
+     "region": "DE",
+     "weight": 0.9,
+     "title": "Weltklimakonferenz: Regenbogen trotz Razzien: Tausende demonstrieren in Türkei",
+     "summary": "Regenbogenflaggen, Eisbärenkostüme und Kritik an der türkischen Regierung: Zur Halbzeit der Klimakonferenz wurde Antalya zum Schauplatz einer Großdemonstration - ein seltenes Ereignis.",
+     "link": "https://www.handelsblatt.com/politik/international/weltklimakonferenz-regenbogen-trotz-razzien-tausende-demonstrieren-in-tuerkei/100269905.html",
+     "image": "https://images.handelsblatt.com/9RcUuZklvutb/cover/900/506/0/0/1/0/0.5/0.5/weltklimakonferenz-cop31.jpg",
+     "aggregator": false,
+     "published": "2026-11-14T13:59:31+00:00"
+    }
+   ]
+  },
+  {
+   "id": 19,
+   "score": 11.25,
+   "outlets": [
+    "tagesschau",
+    "Deutschlandfunk",
+    "SRF News",
+    "WELT"
+   ],
+   "regions": [
+    "CH",
+    "DE"
+   ],
+   "trend": [],
+   "newest": "2026-11-15T08:56:02+00:00",
+   "articles": [
+    {
+     "source": "tagesschau",
+     "region": "DE",
+     "weight": 1.0,
+     "title": "Krieg gegen die Ukraine: Verletzte bei russischen Angriffen",
+     "summary": "Krieg gegen die Ukraine: Verletzte bei russischen Angriffen",
+     "link": "https://www.tagesschau.de/video/video-1684096.html",
+     "image": "https://images.tagesschau.de/image/2c57cfb5-ac10-49ce-8df5-0fca701e29c8/AAABod5A_-M/AAABnSSvrFg/16x9-big/sendungsbild-1827810.jpg?width=1920",
+     "aggregator": false,
+     "published": "2026-11-15T08:09:54+00:00"
+    },
+    {
+     "source": "Deutschlandfunk",
+     "region": "DE",
+     "weight": 0.95,
+     "title": "Ukraine-Krieg - Toter bei ukrainischem Angriff auf russisches Umspannwerk",
+     "summary": "Die Ukraine hat nach russischen Angaben mehrere Ziele in Russland angegriffen.",
+     "link": "https://www.deutschlandfunk.de/toter-bei-ukrainischem-angriff-auf-russisches-umspannwerk-102.html",
+     "image": "https://bilder.deutschlandfunk.de/73/35/d9/54/7335d954-c085-4c33-ab53-6be6c2cb7fa0/ukraine-russland-krieg-angriff-raketen-drohnen-woronesch-100-1920x1920.jpg",
+     "aggregator": false,
+     "published": "2026-11-15T08:56:02+00:00"
+    },
+    {
+     "source": "SRF News",
+     "region": "CH",
+     "weight": 0.95,
+     "title": "Krieg in der Ukraine – New York Times: Russland will Nato auf Stand von 1997 schrumpfen",
+     "summary": "Die Zeitung soll eine Kopie eines Dokuments erhalten haben, das von russischen Beamten in Umlauf gebracht wurde.",
+     "link": "https://www.srf.ch/news/international/ukraine/krieg-in-der-ukraine-new-york-times-russland-will-nato-auf-stand-von-1997-schrumpfen",
+     "image": "https://www.srf.ch/static/cms/images//320ws/b637bb6.webp",
+     "aggregator": false,
+     "published": "2026-11-14T13:56:56+00:00"
+    },
+    {
+     "source": "WELT",
+     "region": "DE",
+     "weight": 0.8,
+     "title": "Drei Tote bei russischen Angriffen uaf ukainische Städte",
+     "summary": "Bei russischen Angriffen auf ukrainische Städte sind mindestens drei Menschen getötet und mehr als 30 verletzt worden. In Saporischschja wurden nach Angaben der regionalen Militärverwaltung mindestens 22 Menschen verletzt, darunter drei Kinder.",
+     "link": "https://www.welt.de/politik/ausland/video6af94b794495f9bd85b8062a/ueber-30-verletzte-drei-tote-bei-russischen-angriffen-uaf-ukainische-staedte.html",
+     "image": "https://images.welt.de/6af94b794495f9bd85b8062a/8c4fb33fb2852c0a54af85b9a65ac85b/ci16x9-w1200/2026-11-14t232352z-884360501-rc2xnoa948w5-rtrmadp-3-ukraine-crisis-attack-zaporizhzhia-jpg",
+     "aggregator": false,
+     "published": "2026-11-15T08:20:09+00:00"
+    }
+   ]
+  },
+  {
+   "id": 20,
+   "score": 10.85,
+   "outlets": [
+    "ORF",
+    "Handelsblatt",
+    "WELT",
+    "n-tv"
+   ],
+   "regions": [
+    "AT",
+    "DE"
+   ],
+   "trend": [],
+   "newest": "2026-11-15T09:14:06+00:00",
+   "articles": [
+    {
+     "source": "ORF",
+     "region": "AT",
+     "weight": 0.95,
+     "title": "Iran meldet Angriff auf US-Stützpunkt in Bahrain",
+     "summary": "",
+     "link": "https://orf.at/stories/3448215/",
+     "image": null,
+     "aggregator": false,
+     "published": "2026-11-15T06:54:07+00:00"
+    },
+    {
+     "source": "Handelsblatt",
+     "region": "DE",
+     "weight": 0.9,
+     "title": "Iran-Krieg: Iran greift Ziele in Bahrain mit Drohnen an",
+     "summary": "Das US-Militär nimmt immer wieder Radaranlagen und Raketenabschussrampen an der iranischen Küste ins Visier. Als Reaktion meldet der Iran nun erneut einen Angriff auf den US-Verbündeten Bahrain.",
+     "link": "https://www.handelsblatt.com/politik/international/iran-krieg-iran-greift-ziele-in-bahrain-mit-drohnen-an/100269980.html",
+     "image": "https://images.handelsblatt.com/sL1UVDOHDnP1/cover/900/506/0/0/107/106/0.5/0.5/bahrain.jpg",
+     "aggregator": false,
+     "published": "2026-11-15T07:31:39+00:00"
+    },
+    {
+     "source": "WELT",
+     "region": "DE",
+     "weight": 0.8,
+     "title": "Iran greift US-Stützpunkt in Bahrain an – Saudi-Arabien wehrt Angriff auf Riad ab",
+     "summary": "Die Angriffe in der Golfregion gehen weiter: Iran meldet einen Treffer auf einen US-Stützpunkt in Bahrain. Saudi-Arabien berichtet von abgefangenen Raketen auf die Hauptstadt Riad.",
+     "link": "https://www.welt.de/politik/ausland/article6af966ad4495f9bd85b80873/nahost-iran-greift-us-stuetzpunkt-in-bahrain-an-saudi-arabien-wehrt-angriff-auf-riad-ab.html",
+     "image": "https://images.welt.de/6af966ad4495f9bd85b80873/6347a39dc4adfafa0df26e0583a74a91-master/ci23x11-w1200/dpa-com-261017-935-1682567-jpg",
+     "aggregator": false,
+     "published": "2026-11-15T08:31:38+00:00"
+    },
+    {
+     "source": "n-tv",
+     "region": "DE",
+     "weight": 0.8,
+     "title": "Radarsystem getroffen: Iran greift US-Stützpunkt in Bahrain mit Drohnen an",
+     "summary": "Das US-Militär nimmt immer wieder Radaranlagen und Raketenabschussrampen an der iranischen Küste ins Visier. Als Reaktion meldet der Iran nun erneut einen Angriff auf den US-Verbündeten Bahrain.",
+     "link": "https://www.n-tv.de/politik/Iran-greift-US-Stuetzpunkt-in-Bahrain-mit-Drohnen-an-id31535387.html",
+     "image": "https://www.n-tv.de/img/30733324/1776684430/Img_4_3/250/562526672.jpg",
+     "aggregator": false,
+     "published": "2026-11-15T09:14:06+00:00"
+    }
+   ]
+  },
+  {
+   "id": 21,
+   "score": 10.85,
+   "outlets": [
+    "Deutschlandfunk",
+    "SRF News",
+    "WELT",
+    "n-tv"
+   ],
+   "regions": [
+    "CH",
+    "DE"
+   ],
+   "trend": [],
+   "newest": "2026-11-15T08:56:02+00:00",
+   "articles": [
+    {
+     "source": "Deutschlandfunk",
+     "region": "DE",
+     "weight": 0.95,
+     "title": "WTA Finals - Tennis-Profi Sabalenka entschuldigt sich für Beleidigungen gegen ihre Gegnerin Switolina",
+     "summary": "Tennis-Profi Aryna Sabalenka hat für ihre Entgleisungen bei den WTA Finals um Entschuldigung gebeten. Die frühere Weltranglistenerste aus Belarus soll im Saisonfinale ihre ukrainische Gegnerin Elina Switolina beleidigt haben.",
+     "link": "https://www.deutschlandfunk.de/tennis-profi-sabalenka-entschuldigt-sich-fuer-beleidigungen-gegen-ihre-gegnerin-switolina-102.html",
+     "image": "https://bilder.deutschlandfunk.de/d5/47/22/81/d5472281-2730-46a8-8ce9-b5b94ce00ecc/sabalenka-wta-finals-100-1280x1280.jpg",
+     "aggregator": false,
+     "published": "2026-11-15T08:56:02+00:00"
+    },
+    {
+     "source": "SRF News",
+     "region": "CH",
+     "weight": 0.95,
+     "title": "WTA Finals in Indian Wells – «Habe emotional reagiert»: Sabalenka gibt verbale Entgleisung zu",
+     "summary": "Die Belarussin Aryna Sabalenka leistete sich im Duell mit der Ukrainerin Jelina Switolina verbale Aussetzer.",
+     "link": "https://www.srf.ch/sport/tennis/wta-tour/wta-finals-in-indian-wells-habe-emotional-reagiert-sabalenka-gibt-verbale-entgleisung-zu",
+     "image": "https://www.srf.ch/static/cms/images//320ws/bf6a6b.webp",
+     "aggregator": false,
+     "published": "2026-11-15T06:36:35+00:00"
+    },
+    {
+     "source": "WELT",
+     "region": "DE",
+     "weight": 0.8,
+     "title": "Sabalenka entschuldigt sich nach Wutausbruch im Spiel gegen Ukrainerin Switolina",
+     "summary": "Tennisstar Aryna Sabalenka weist eine Beleidigung von Elina Switolina zurück – und entschuldigt sich für ihren Wutausbruch. Sie habe ihren Frust gegen andere in der Arena gerichtet.",
+     "link": "https://www.welt.de/sport/tennis/article6af958df4495f9bd85b8071b/tennis-eklat-sabalenka-entschuldigt-sich-nach-wutausbruch-gegen-ukrainerin-switolina.html",
+     "image": "https://images.welt.de/6af958df4495f9bd85b8071b/3ca44d002cca1fa43b5df6a31fb14097-master/ci23x11-w1200/2026-11-13t185921z-1594517598-mt1usatoday30350277-rtrmadp-3-tennis-wta-finals-day-6-jpg",
+     "aggregator": false,
+     "published": "2026-11-15T07:42:59+00:00"
+    },
+    {
+     "source": "n-tv",
+     "region": "DE",
+     "weight": 0.8,
+     "title": "Belarussin gegen Ukrainerin: Ganz üble Worte gegen Rivalin: Sabalenka gesteht Entgleisung",
+     "summary": "Sie verliert - und rastet im Spiel aus: Tennisprofi Aryna Sabalenka beschimpft ihre Gegnerin bei den WTA Finals. Es fallen wohl auch Worte, die wegen des Krieges in der Ukraine besonders brisant sind. Die frühere Weltranglistenerste entschuldigt sich nun.",
+     "link": "https://www.n-tv.de/sport/Ganz-ueble-Worte-gegen-Rivalin-Sabalenka-gesteht-Entgleisung-id31535261.html",
+     "image": "https://www.n-tv.de/img/31535200/1794728103/Img_4_3/250/632865187.jpg",
+     "aggregator": false,
+     "published": "2026-11-15T08:27:10+00:00"
+    }
+   ]
+  },
+  {
+   "id": 22,
+   "score": 10.14,
+   "outlets": [
+    "tagesschau Wirtschaft",
+    "Handelsblatt",
+    "heise online",
+    "Golem",
+    "Tagesspiegel"
+   ],
+   "regions": [
+    "DE"
+   ],
+   "trend": [],
+   "newest": "2026-11-15T02:01:02+00:00",
+   "articles": [
+    {
+     "source": "tagesschau Wirtschaft",
+     "region": "DE",
+     "weight": 1.0,
+     "title": "Weltweit mehr Urlaubsanträge vor Start des Videospiels \"GTA VI\"",
+     "summary": "13 Jahre nach seiner letzten Version steht das neue Videospiel \"Grand Theft Auto VI\" vor der Premiere. Software-Anbieter berichten von weltweit gestiegenen Urlaubsanträgen im Vorfeld. Der Entwickler hofft auf ein Milliardengeschäft.",
+     "link": "https://www.tagesschau.de/wirtschaft/verbraucher/weltweit-mehr-urlaubsantraege-start-gta6-100.html",
+     "image": "https://images.tagesschau.de/image/12af396e-7e92-45b4-86cc-bc2d73c912e3/AAABodOvJLM/AAABnSSvrFg/16x9-big/gta-122.jpg?width=1920",
+     "aggregator": false,
+     "published": "2026-11-13T09:12:03+00:00"
+    },
+    {
+     "source": "Handelsblatt",
+     "region": "DE",
+     "weight": 0.9,
+     "title": "„Grand Theft Auto VI“: Ein gewaltiges Videospiel - Der lange Weg zu GTA 6",
+     "summary": "Ein Hackerangriff, zwei Verschiebungen und ein Streit um Entlassungen beim Publisher: So turbulent verlief die lange Wartezeit auf das Eintauchen in den fiktiven US-Bundesstaat Leonida.",
+     "link": "https://www.handelsblatt.com/technik/it-internet/grand-theft-auto-vi-ein-gewaltiges-videospiel-der-lange-weg-zu-gta-6/100269952.html",
+     "image": "https://images.handelsblatt.com/YFkyEGf21Xi3/cover/900/506/0/0/107/106/0.5/0.5/werbung-gta-6.jpg",
+     "aggregator": false,
+     "published": "2026-11-15T02:00:07+00:00"
+    },
+    {
+     "source": "heise online",
+     "region": "DE",
+     "weight": 0.85,
+     "title": "Bereit für GTA 6: Die Checkliste zum Release von Grand Theft Auto VI",
+     "summary": "GTA 6 steht in den Startlöchern und Millionen von Spielern warten sehnsüchtig auf den Release. Wir zeigen, was man vor dem Launch des Spiels wissen muss.",
+     "link": "https://www.heise.de/bestenlisten/ratgeber/bereit-fuer-gta-6-die-checkliste-zum-release-von-grand-theft-auto-vi/3ht03fp?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
+     "image": null,
+     "aggregator": false,
+     "published": "2026-11-12T16:00:00+00:00"
+    },
+    {
+     "source": "Golem",
+     "region": "DE",
+     "weight": 0.75,
+     "title": "GTA 6: Warum jetzt alle Urlaub nehmen wollen",
+     "summary": "Weltweit reichen Beschäftigte überdurchschnittlich viele Urlaubsanträge ein, nur um den Release von Grand Theft Auto VI nicht zu verpassen. ( GTA 6 , Arbeit )",
+     "link": "https://www.golem.de/news/gta-6-warum-jetzt-alle-urlaub-nehmen-wollen-2611-215221.html",
+     "image": "https://cpx.golem.de/cpx.php?class=17&amp;aid=215221&amp;page=1&amp;ts=1794656102",
+     "aggregator": false,
+     "published": "2026-11-14T11:35:02+00:00"
+    },
+    {
+     "source": "Tagesspiegel",
+     "region": "DE",
+     "weight": 0.6,
+     "title": "„Grand Theft Auto VI“: Ein gewaltiges Videospiel - Der lange Weg zu GTA 6",
+     "summary": "„Grand Theft Auto VI“: Ein gewaltiges Videospiel - Der lange Weg zu GTA 6 Tagesspiegel Rockstar Games: Fast 5.000 Menschen haben an GTA 6 gearbeitet Golem.de GTA 6: Das fehlende Feature ist offensichtlich – und es macht mich so sauer PC Games (DE) Die komplette Leonida-Karte von GTA 6 sorgt für neue Hinweise PCGH Ein gewaltiges Videospiel – Der lange Weg zu GTA 6 Badische Neueste Nachrichten",
+     "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNWTZmZXNIdXFYM1BpU3A2N3pfczk2RTRLOUdOcFNzdnJ2WnZ6WEpMRGR4Z0hTc0tlLVpOM3VTZUdldjd6T2RZaGU2Y1pnNW1XeWJzb2JXejZMd29KQkNTM0VTRW9WTXlPQk9QMmFpaHNQWTREUDFFZXl2TWlYb2VqZmJTWlJVVjQ4UWlNUGNZUXJseTNLWkt0S0lVVk9VcWdVa3ZUWklLa1E4N0dZY2NLQnpiNkNrWXlISzZ2NkUtNS1TMDVDckZkM0tjYk1GRFk?oc=5",
+     "image": null,
+     "aggregator": true,
+     "published": "2026-11-15T02:01:02+00:00"
+    }
+   ]
+  },
+  {
+   "id": 23,
+   "score": 9.42,
+   "outlets": [
+    "ORF",
+    "SPIEGEL",
+    "n-tv"
+   ],
+   "regions": [
+    "AT",
+    "DE"
+   ],
+   "trend": [],
+   "newest": "2026-11-15T06:44:10+00:00",
+   "articles": [
+    {
+     "source": "ORF",
+     "region": "AT",
+     "weight": 0.95,
+     "title": "US-Richterin stoppt Trumps Golfplatzprojekt in Washington",
+     "summary": "",
+     "link": "https://orf.at/stories/3448213/",
+     "image": null,
+     "aggregator": false,
+     "published": "2026-11-15T06:44:10+00:00"
+    },
+    {
+     "source": "SPIEGEL",
+     "region": "DE",
+     "weight": 0.9,
+     "title": "Golfplatz in Washington: Richterin stoppt von Donald Trump geplante Schließung",
+     "summary": "Der US-Präsident möchte in Washington einen historischen Golfplatz umgestalten lassen. Die Arbeiten dafür können aber noch nicht beginnen. Es ist bereits die zweite juristische Niederlage für Donald Trump bei diesem Projekt.",
+     "link": "https://www.spiegel.de/ausland/golfplatz-in-washington-richterin-stoppt-von-donald-trump-geplante-schliessung-a-af66c6dc-0a58-4135-a49f-6e265702f589#ref=rss",
+     "image": "https://cdn.prod.www.spiegel.de/images/593fbe74-0001-0004-0000-000001316426_w520_r2.08_fpx44.59_fpy44.97.jpg",
+     "aggregator": false,
+     "published": "2026-11-15T04:10:00+00:00"
+    },
+    {
+     "source": "n-tv",
+     "region": "DE",
+     "weight": 0.8,
+     "title": "\"Von allen Schichten genutzt\": Richterin stoppt Trumps Golfplatz-Träume für einen Park",
+     "summary": "Der US-Präsident will einen Golfplatz im Zentrum von Washington für international bedeutende Turniere ausbauen. Dieser liegt in einem Park, 500 Bäume mussten bereits weichen. Im Laufe des Tages sollte der Volkspark geschlossen werden. Ausgerechnet Golfer verhindern das.",
+     "link": "https://www.n-tv.de/politik/Richterin-stoppt-Trumps-Golfplatz-Traeume-fuer-einen-Park-id31535133.html",
+     "image": "https://www.n-tv.de/img/31535155/1794725248/Img_4_3/250/628448740.jpg",
+     "aggregator": false,
+     "published": "2026-11-15T06:24:49+00:00"
+    }
+   ]
+  },
+  {
+   "id": 24,
+   "score": 9.02,
+   "outlets": [
+    "SPIEGEL",
+    "ZEIT ONLINE",
+    "n-tv"
+   ],
+   "regions": [
+    "DE"
+   ],
+   "trend": [],
+   "newest": "2026-11-15T08:50:41+00:00",
+   "articles": [
+    {
+     "source": "SPIEGEL",
+     "region": "DE",
+     "weight": 0.9,
+     "title": "Tödlicher Unfall in Berlin: Achtjährige fällt vom Rad und wird von Linienbus überfahren",
+     "summary": "Ein achtjähriges Mädchen stürzte in Berlin vom Rad und wurde von einem nachfolgenden Bus tödlich verletzt. Die Mutter wurde ebenfalls verletzt.",
+     "link": "https://www.spiegel.de/panorama/toedlicher-unfall-in-berlin-achtjaehrige-faellt-vom-rad-und-wird-von-linienbus-ueberfahren-a-8a1ac673-7e94-4824-bdd1-d185a1d24414#ref=rss",
+     "image": "https://cdn.prod.www.spiegel.de/images/03aee6ff-06e4-4beb-8ebd-39487ab7b339_w520_r2.08_fpx62.34_fpy48.98.jpg",
+     "aggregator": false,
+     "published": "2026-11-15T07:54:00+00:00"
+    },
+    {
+     "source": "ZEIT ONLINE",
+     "region": "DE",
+     "weight": 0.9,
+     "title": "Tödlicher Unfall: Überfahrenes Kind war acht Jahre altes Mädchen",
+     "summary": "",
+     "link": "https://www.zeit.de/news/2026-11/14/kind-wird-in-berlin-von-bus-ueberfahren-und-stirbt",
+     "image": "https://img.zeit.de/news/2026-11/14/kind-wird-in-berlin-von-bus-ueberfahren-und-stirbt-image-group/original__640x360",
+     "aggregator": false,
+     "published": "2026-11-15T08:50:41+00:00"
+    },
+    {
+     "source": "n-tv",
+     "region": "DE",
+     "weight": 0.8,
+     "title": "Tödlicher Unfall in Berlin: Kind wird nach Fahrradsturz von Bus überrollt",
+     "summary": "In Berlin kommt es am Nachmittag zu einem tödlichen Unfall. Eine Mutter und ihr Kind sind auf Fahrrädern auf einer Straße unterwegs, als das Kind stürzt. Ein Busfahrer kann nicht mehr reagieren und überrollt es. Für das Kind kommt jede Hilfe zu spät.",
+     "link": "https://www.n-tv.de/panorama/Kind-wird-nach-Fahrradsturz-von-Bus-ueberrollt-id31534779.html",
+     "image": "https://www.n-tv.de/img/31534778/1794686525/Img_4_3/250/619690849.jpg",
+     "aggregator": false,
+     "published": "2026-11-14T20:58:38+00:00"
+    }
+   ]
+  },
+  {
+   "id": 25,
+   "score": 8.75,
+   "outlets": [
+    "tagesschau",
+    "Deutschlandfunk"
+   ],
+   "regions": [
+    "DE"
+   ],
+   "trend": [],
+   "newest": "2026-11-15T08:56:02+00:00",
+   "articles": [
+    {
+     "source": "tagesschau",
+     "region": "DE",
+     "weight": 1.0,
+     "title": "Zu viel Chlor im Pool: 15 Gäste im Phantasialand verletzt",
+     "summary": "Durch die Microsoft-Störung bekam die Belegschaft im Freizeitpark Phantasialand nicht mit, dass zu viel Chlor im Schwimmbecken eines Hotels auf dem Gelände war. 15 Gäste wurden verletzt.",
+     "link": "https://www.tagesschau.de/inland/regional/nordrheinwestfalen/verletzte-phantasialand-chlor-100.html",
+     "image": "https://images.tagesschau.de/image/d0a6dd51-fdff-4a63-b2b8-cb7f4fac5855/AAABodtPPGM/AAABnSSvrFg/16x9-big/wdr-phantasialand-102.jpg?width=1920",
+     "aggregator": false,
+     "published": "2026-11-14T17:01:00+00:00"
+    },
+    {
+     "source": "Deutschlandfunk",
+     "region": "DE",
+     "weight": 0.95,
+     "title": "Zu viel Chlor - Phantasialand führt Pool-Panne auf Störung bei Microsoft zurück",
+     "summary": "Der Freizeitpark Phantasialand in Brühl führt die Chlor-Panne in einem Hotel-Pool auf die Störung bei Microsoft-Diensten zurück.",
+     "link": "https://www.deutschlandfunk.de/phantasialand-fuehrt-pool-panne-auf-stoerung-bei-microsoft-zurueck-100.html",
+     "image": null,
+     "aggregator": false,
+     "published": "2026-11-15T08:56:02+00:00"
+    }
+   ]
+  },
+  {
+   "id": 26,
+   "score": 8.6,
+   "outlets": [
+    "Deutsche Welle",
+    "Süddeutsche",
+    "DER STANDARD"
+   ],
+   "regions": [
+    "AT",
+    "DE",
+    "INT"
+   ],
+   "trend": [],
+   "newest": "2026-11-15T06:58:47+00:00",
+   "articles": [
+    {
+     "source": "Deutsche Welle",
+     "region": "INT",
+     "weight": 0.95,
+     "title": "Papst Leo XIV. zu Besuch in seinem früheren Bistum in Peru",
+     "summary": "Gut sieben Jahre war der heutige Papst Leo XIV. Bischof von Chiclayo in Peru. Im Rahmen seiner Südamerikareise kehrte er nun an seine alte Wirkungsstätte zurück - und wurde dort wie ein Popstar empfangen.",
+     "link": "https://www.dw.com/de/papst-leo-xiv-zu-besuch-in-seinem-früheren-bistum-in-peru/a-79947665?maca=de-rss-de-all-1119-xml-mrss",
+     "image": "https://static.dw.com/image/79947703_302.jpg",
+     "aggregator": false,
+     "published": "2026-11-14T11:28:00+00:00"
+    },
+    {
+     "source": "Süddeutsche",
+     "region": "DE",
+     "weight": 0.9,
+     "title": "Papst in Lateinamerika: „Padre Roberto“ ist zurück in Peru",
+     "summary": "Hier war er Missionar und Bischof: Papst Leo XIV. wird in der peruanischen Stadt Chiclayo emotional empfangen. Aber auch ein dunkles Kapitel der Kirche begleitet ihn bis hierher.",
+     "link": "https://www.sueddeutsche.de/politik/papst-leo-xiv-peru-li.3577629",
+     "image": "https://www.sueddeutsche.de/2026/11/14/b729d91b-0ddd-4a86-bb31-ee07b398f2af.jpg?rect=167%2C0%2C2667%2C2000&width=1000&fm=jpg&q=60",
+     "aggregator": false,
+     "published": "2026-11-15T06:24:00+00:00"
+    },
+    {
+     "source": "DER STANDARD",
+     "region": "AT",
+     "weight": 0.85,
+     "title": "Ein Papst auf Triumphzug: Leo zurück in Chiclayo",
+     "summary": "Die Heimkehr in seine alte Wirkungsstätte ist der emotionale Höhepunkt des zwölftägigen Südamerika-Besuchs des Kirchenoberhaupts",
+     "link": "https://www.derstandard.at/story/3000000349264/ein-papst-auf-triumphzug-leo-zur252ck-in-chiclayo?ref=rss",
+     "image": "https://i.ds.at/0-AR1w/rs:fill:150:0/plain/lido-images/2026/11/15/6efc55f4-ebb7-49a5-82f2-74769839ae1b.jpg",
+     "aggregator": false,
+     "published": "2026-11-15T06:58:47+00:00"
+    }
+   ]
+  },
+  {
+   "id": 27,
+   "score": 8.39,
+   "outlets": [
+    "tagesschau",
+    "Deutsche Welle",
+    "t-online – Hamburg"
+   ],
+   "regions": [
+    "DE",
+    "INT"
+   ],
+   "trend": [],
+   "newest": "2026-11-15T09:03:47+00:00",
+   "articles": [
+    {
+     "source": "tagesschau",
+     "region": "DE",
+     "weight": 1.0,
+     "title": "Wolf Biermann wird 90: Zwei Wunden als Auftrag fürs Leben",
+     "summary": "In Hamburg geboren, in die DDR ausgewandert - und von ihr 1976 spektakulär ausgebürgert: Heute wird Wolf Biermann 90 Jahre alt. Geprägt wird er vor allem von Erfahrungen aus seiner frühen Kindheit. Von Alexander Solloch.",
+     "link": "https://www.tagesschau.de/kultur/wolf-biermann-portraet-neunzig-100.html",
+     "image": "https://images.tagesschau.de/image/cb67c2c2-317a-4d5f-a74d-5c5aafd24eef/AAABocr9oWc/AAABnSSvrFg/16x9-big/biermann-188.jpg?width=1920",
+     "aggregator": false,
+     "published": "2026-11-15T07:24:10+00:00"
+    },
+    {
+     "source": "Deutsche Welle",
+     "region": "INT",
+     "weight": 0.95,
+     "title": "Der Liedermacher Wolf Biermann wird 90 Jahre alt",
+     "summary": "Sein Leben ist ein Spiegel deutsch-deutscher Zeitgeschichte. Mit Gitarre und frechem Mundwerk hat Wolf Biermann sie kommentiert, und mit 90 ist er kämpferisch wie eh und je.",
+     "link": "https://www.dw.com/de/der-liedermacher-wolf-biermann-wird-90-jahre-alt/a-79902741?maca=de-rss-de-all-1119-xml-mrss",
+     "image": "https://static.dw.com/image/79844530_302.jpg",
+     "aggregator": false,
+     "published": "2026-11-14T09:59:00+00:00"
+    },
+    {
+     "source": "t-online – Hamburg",
+     "region": "DE",
+     "weight": 0.6,
+     "title": "Hamburger Wolf Biermann wird 90 Jahre alt: Einst liebte er die \"Brigitte Bardot der DDR\"",
+     "summary": "Hamburger Wolf Biermann wird 90 Jahre alt: Einst liebte er die \"Brigitte Bardot der DDR\" t-online – Hamburg Wolf Biermann wird 90: Singend, brüllend, lachend gegen die Niedertracht der Diktaturen tagesschau.de Ausgebürgert nach Konzert in Köln 1976: Nun wird Liedermacher und DDR-Dissident Wolf Biermann 90 Deutschlandfunk Wolf Biermann im Gespräch: „Der Osten hat immer die Arschkarte gezogen“ taz.de \"Ich bin ein Glückskind\": Wolf Biermann wird heute 90 Jahre alt NDR.de",
+     "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPa3JEcVRyLVZXQWQ2UGFlbUlacWxuS0VTTXlNOHJ2NzAwc08tRk9rU1RsUk1OVmt3MlNYeGZzczVtYy1DclRGUUNnTkpyTGNCLVJiQ3hkLVJNMUZKVV9melZYajZGcnNDZWU4c2xqdzQ4eWt2c19MZDdxSXpHY3hkRXlYN1JhaG5vWDBvRzJSUERISW5jM3VPSmltUDh1WXFEM0wzTUpVRE9fZ0U3a3BEYlQ4VThYNGpQb0g5Ykt3UTNqOWhqNDNVcA?oc=5",
+     "image": null,
+     "aggregator": true,
+     "published": "2026-11-15T09:03:47+00:00"
+    }
+   ]
+  }
+ ]
+}
