@@ -1,47 +1,47 @@
-# recent_uploads.md – 2026-11-11 15:28 UTC
+# recent_uploads.md – 2026-11-15 16:57 UTC
 
-- YT aGsqzFGzGcw 2026-11-11T15:26:45Z (known) Italien räumt 300 Schulen: Wer steckt hinter den Drohmails?
-    privacy=public upload=processed kids=False embeddable=True rating={} region={} views=0
-- YT nD3jEBaM77o 2026-11-11T13:30:33Z (known) Boris Palmer sagt alle Auftritte ab: Wie lange noch?
-    privacy=public upload=processed kids=False embeddable=True rating={} region={} views=8
-- YT pWQmaAfb7DY 2026-11-11T11:00:03Z (known) Pistorius-Studie: Tausende Soldatinnen belästigt – was nun?
-    privacy=public upload=processed kids=False embeddable=True rating={} region={} views=12
-- YT Co7Er77RFhc 2026-11-11T09:00:05Z (known) Habeck: „Die Trump-Regierung hat die Ukraine verraten“
-    privacy=public upload=processed kids=False embeddable=True rating={} region={} views=356
-- YT 057VhkOAvmU 2026-11-11T06:00:11Z (known) Bundeswehr verbannt China-Autos: Angst vor Spionage
-    privacy=public upload=processed kids=False embeddable=True rating={} region={} views=17
-- YT Q9D8pK1H3Kg 2026-11-11T05:15:04Z (known) Linke will Vanessa Emde rauswerfen: Reicht die Mehrheit?
-    privacy=public upload=processed kids=False embeddable=True rating={} region={} views=58
-- YT Fb4hGpvbY9A 2026-11-10T19:45:08Z (known) Der Tag in 45 Sekunden: Erste Einigung bei Ukraine-Gesprächen?
-    privacy=public upload=processed kids=False embeddable=True rating={} region={} views=4
-- YT NjK1C-YdxJo 2026-11-10T18:30:32Z (known) Iran unter Verdacht: Wer hackt Europas Supermarkt-Kühlregale?
-    privacy=public upload=processed kids=False embeddable=True rating={} region={} views=79
-- YT KMKySNlRpAQ 2026-11-10T17:30:02Z (known) Klingbeil will Steuerklasse III kippen: Weniger Netto für Paare?
-    privacy=public upload=processed kids=False embeddable=True rating={} region={} views=221
-- YT 5-6Rv-uPPkc 2026-11-10T15:30:38Z (known) Ukraine-Gespräche in Abu Dhabi: Wird ohne Europa entschieden?
-    privacy=public upload=processed kids=False embeddable=True rating={} region={} views=259
-- YT uW0RbJkqwPA 2026-11-10T13:30:35Z (known) Fall Fabian: Lebenslang für Gina H. – reichen Indizien für Mord?
-    privacy=public upload=processed kids=False embeddable=True rating={} region={} views=1239
-- YT DZQNVvhUElA 2026-11-10T12:15:29Z (known) Nmechas Kronen-Jubel: Muss der BVB-Star jetzt damit aufhören?
-    privacy=public upload=processed kids=False embeddable=True rating={} region={} views=368
-- YT hYlQlB5bER0 2026-11-10T11:00:32Z (known) Milliardärssteuer gekippt: Haben die Superreichen gesiegt?
-    privacy=public upload=processed kids=False embeddable=True rating={} region={} views=48
-- YT m_fcWwq4Uv8 2026-11-10T09:00:06Z (known) Patricia Schlesinger vor Gericht: Hat sie sich strafbar gemacht?
-    privacy=public upload=processed kids=False embeddable=True rating={} region={} views=190
-- YT NoYyUPGXkUE 2026-11-10T07:30:06Z (known) Merz droht EU mit Haushalts-Blockade: Zahlen jetzt alle?
-    privacy=public upload=processed kids=False embeddable=True rating={} region={} views=1027
-- FB 1977220203663679 2026-11-11T15:26:38+0000 '🚨 Drohmail-Welle: Italien räumt mehr als 300 Schulen – auch Nordirland'
-- FB 1863214701778375 2026-11-11T12:03:33+0000 '🚨 Boris Palmer zieht sich zurück: Tübingens OB sagt vorerst alle öffen'
-- FB 1808391986913467 2026-11-11T09:33:52+0000 '🚨 Studie erschüttert die Bundeswehr: Tausende Soldatinnen berichten vo'
-- FB 1144229364719376 2026-11-11T07:31:53+0000 '🚨 „Verraten“: Robert Habeck rechnet mit Trumps Ukraine-Politik ab\nWie '
-- FB 1378661090808034 2026-11-11T04:29:50+0000 '🚨 Bundeswehr verbannt chinesische Autos und Drohnen aus den Kasernen\nI'
-- FB 1026461473825147 2026-11-11T03:44:49+0000 '🚨 Rauswurf droht: Berliner Linke will Vanessa Emde aus der Fraktion au'
-- FB 3534019633443597 2026-11-10T18:15:21+0000 '🚨 Der Tag in 45 Sekunden: Erste Einigung bei den Ukraine-Gesprächen in'
-- FB 2937647773255095 2026-11-10T16:57:44+0000 '🚨 Iran unter Verdacht: Frankreich sieht Revolutionsgarden hinter Super'
-- FB 2163348201240559 2026-11-10T16:04:03+0000 '🚨 Klingbeil will Steuerklassen III und V abschaffen – Millionen Ehepaa'
-- FB 2365175554325399 2026-11-10T14:00:15+0000 '🚨 Ukraine-Gespräche in Abu Dhabi: Moskau und Kiew verhandeln wieder di'
-- FB 1518698560290995 2026-11-10T11:58:20+0000 '🚨 Urteil im Fall Fabian: Lebenslange Haft für Gina H.\nWie bewerten Sie'
-- FB 1136719845758641 2026-11-10T10:50:34+0000 '🚨 Ärger um Torjubel: BVB-Star Felix Nmecha spricht von Missverständnis'
-- FB 982702554423923 2026-11-10T09:27:10+0000 '🚨 Kalifornien stimmt gegen Milliardärssteuer – Superreiche setzen sich'
-- FB 4013010515508204 2026-11-10T07:33:22+0000 '🚨 Prozessauftakt in Berlin: Ex-rbb-Intendantin Patricia Schlesinger st'
-- FB 1500313141954795 2026-11-10T06:03:18+0000 '🚨 Merz droht mit Blockade des EU-Haushalts – alle EU-Staaten sollen fü'
+- YT ETtj9nJoXT0 2026-11-15T15:57:52Z (known) Reichelt-Anschlag: Bekennerschreiben aufgetaucht – ist es echt?
+    privacy=private upload=processed kids=False embeddable=True rating={} region={} views=0
+- YT uWSrtQVG1hQ 2026-11-15T15:30:25Z (known) Solarförderung bleibt: Setzt sich Reiche noch durch? ☀️
+    privacy=public upload=processed kids=False embeddable=True rating={} region={} views=3
+- YT do5RrRtkXKQ 2026-11-15T13:30:00Z (known) Microsoft-Störung: 15 Verletzte im Phantasialand – wie geht das?
+    privacy=public upload=processed kids=False embeddable=True rating={} region={} views=2
+- YT PBEdqHMAjc0 2026-11-15T12:15:12Z (known) Masern in den USA: Status nach 26 Jahren weg – und Deutschland?
+    privacy=public upload=processed kids=False embeddable=True rating={} region={} views=45
+- YT bYUjKJWi5Uw 2026-11-15T11:00:15Z (known) Sabalenka-Eklat: Galt ihr Wutausbruch wirklich nicht Switolina?
+    privacy=public upload=processed kids=False embeddable=True rating={} region={} views=337
+- YT wQz4wHPiY5I 2026-11-15T09:00:39Z (known) Handwerk-Krise: 80.000 Jobs pro Jahr weg – wer stoppt den Absturz?
+    privacy=public upload=processed kids=False embeddable=True rating={} region={} views=26
+- YT A-colEnQpIc 2026-11-15T07:30:21Z (known) Facebook-Strafe: Meta zahlt 805 Millionen – wer gab die Fotos frei?
+    privacy=public upload=processed kids=False embeddable=True rating={} region={} views=65
+- YT ZdiEzJPgRck 2026-11-15T06:00:07Z (known) Frührente: Abschläge rauf – wer früher geht, verliert mehr Rente
+    privacy=public upload=processed kids=False embeddable=True rating={} region={} views=238
+- YT uvU1jemvg7U 2026-11-15T05:15:17Z (known) SpaceX Starship aus dem All gefangen: Was lief trotzdem schief?
+    privacy=public upload=processed kids=False embeddable=True rating={} region={} views=655
+- YT triZeNfEu-8 2026-11-14T21:00:39Z (known) Klingbeil unter Druck: Stürzt Heil jetzt den SPD-Chef?
+    privacy=public upload=processed kids=False embeddable=True rating={} region={} views=61
+- YT 06QPbspz1iE 2026-11-14T19:45:20Z (known) Nvidia-Skandal erreicht Trump: Was wusste der Präsident?
+    privacy=public upload=processed kids=False embeddable=True rating={} region={} views=21
+- YT emsazNq_nJM 2026-11-14T18:30:34Z (known) Orbáns Ex-Minister: 17 Millionen im Wald vergraben – woher?
+    privacy=public upload=processed kids=False embeddable=True rating={} region={} views=1307
+- YT -1T9yWdtAPI 2026-11-14T17:30:10Z (known) Weltmeister Berthold: Querdenker als AfD-Bundespräsident?
+    privacy=public upload=processed kids=False embeddable=True rating={} region={} views=1647
+- YT XWgTQGdbeKs 2026-11-14T15:30:07Z (known) Staatsakt für Aiwanger: Warum reichte die Frauenkirche nicht?
+    privacy=public upload=processed kids=False embeddable=True rating={} region={} views=1728
+- YT RiTaTiekUkM 2026-11-14T13:30:03Z (known) Selenskyj: USA bieten Nato gegen Donbass – tauscht Kiew Land?
+    privacy=public upload=processed kids=False embeddable=True rating={} region={} views=379
+- FB 4140302166274185 2026-11-15T13:58:47+0000 '🚨 Solarförderung: Reiches Plan wackelt – Einspeisevergütung für kleine'
+- FB 1501571405212774 2026-11-15T11:57:59+0000 '🚨 Microsoft-Störung im Phantasialand: Zu viel Chlor im Hotel-Pool, 15 '
+- FB 1829223364940287 2026-11-15T10:44:27+0000 '🚨 Masern in den USA: Nach 26 Jahren verliert das Land laut Berichten s'
+- FB 4603874019891843 2026-11-15T09:31:46+0000 '🚨 Belarussin gegen Ukrainerin: Sabalenka entschuldigt sich für Wutausb'
+- FB 1606313514848799 2026-11-15T07:28:04+0000 '🚨 Handwerk-Alarm: Bis zu 80.000 Jobs pro Jahr in Gefahr – Krise auf Co'
+- FB 1456580382521631 2026-11-15T05:58:20+0000 '🚨 Facebook-Konzern Meta muss 805 Millionen Euro zahlen – wegen Zugriff'
+- FB 2159032128318442 2026-11-15T04:28:12+0000 '🚨 Frührente wird teurer: CSU will Abschläge von 0,3 auf 0,4 Prozent pr'
+- FB 2373764420033829 2026-11-15T03:42:16+0000 '🚨 SpaceX Starship: Musks Riesenrakete kehrt aus dem All zurück – und w'
+- FB 967437806118242 2026-11-14T19:33:27+0000 '🚨 Klingbeil unter Druck: Hubertus Heil will SPD-Chef werden – Machtkam'
+- FB 1893717995401572 2026-11-14T18:12:53+0000 '🚨 Nvidia-Skandal erreicht Trumps Kabinett: Finanzminister Bessent grei'
+- FB 1148013117774470 2026-11-14T16:59:44+0000 '🚨 Vergraben im Wald, versteckt in Scheunen: Über 17 Millionen Euro Bar'
+- FB 1520091280177857 2026-11-14T15:59:51+0000 '🚨 Vom WM-Helden 1990 ins Schloss Bellevue? Die AfD schickt Thomas Bert'
+- FB 3273087006229659 2026-11-14T13:58:15+0000 '🚨 Bayern nimmt Abschied: Über 1.000 Trauergäste beim Staatsakt für Hub'
+- FB 908673138902754 2026-11-14T11:58:40+0000 '🚨 Brisanter US-Vorstoß: Nato-Beitritt für die Ukraine – aber nur ohne '
+- FB 981528241235919 2026-11-14T10:42:48+0000 '🚨 Historisch: Trump, Putin und Xi wollen sich erstmals zu dritt treffe'
