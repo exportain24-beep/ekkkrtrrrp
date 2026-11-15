@@ -1,0 +1,1926 @@
+{
+ "slot": {
+  "id": "fokus-prime",
+  "format": "single",
+  "time": "19:30",
+  "label": "Fokus Prime Time",
+  "focus": "Nur Tie-Breaker – immer zuerst die populärsten, meistberichteten Nachrichten. Bei Gleichstand bevorzugt: Die größte politische oder weltpolitische Entwicklung des Abends mit Folgen für Deutschland.",
+  "notify_subscribers": false
+ },
+ "slot_time": "2026-11-15T19:30:00+01:00",
+ "date_text": "Sonntag, 15. November 2026",
+ "already_published": [
+  "Merz will an den Ukraine-Tisch",
+  "Klopp beendet Nmechas Kronen-Jubel",
+  "DHL erhöht die Paketpreise",
+  "USA stoppen alle Flüge",
+  "Tanker rammt Kreuzfahrtschiff",
+  "EU-Team für Russland-Gespräche steht",
+  "Geheimdienste dürfen zurückhacken",
+  "DFB-Elf siegt 3:1 in Serbien",
+  "Microsoft-Update stoppt Outlook, Teams",
+  "Linke-Chef verteidigt Emde-Verfahren",
+  "Musk unter Druck wegen Starlink",
+  "Trump trifft Putin und Xi in China",
+  "USA: Nato-Beitritt gegen Donbass",
+  "Bayern nimmt Abschied von Aiwanger",
+  "AfD schickt Berthold ins Rennen",
+  "Millionen bei Orbáns Ex-Minister",
+  "Nvidia-Skandal erreicht Trumps Kabinett",
+  "Heil greift nach dem SPD-Vorsitz",
+  "SpaceX fängt Starship aus dem All",
+  "Frührente: Höhere Abschläge geplant",
+  "Facharzt-Termin nur gegen Bezahlung?",
+  "SPD-Gruppen gegen Klingbeil",
+  "GTA 6 löst Urlaubswelle aus",
+  "Meta muss 805 Millionen Euro zahlen",
+  "Handwerk droht massiver Jobverlust",
+  "Sabalenka entschuldigt sich",
+  "USA verlieren Status masernfrei",
+  "Microsoft-Störung: Chlor-Panne im Park",
+  "Solarförderung für Hausdächer bleibt",
+  "Reichelt-Anschlag: Bekennerschreiben"
+ ],
+ "candidates": [
+  {
+   "id": 0,
+   "score": 15.79,
+   "outlets": [
+    "tagesschau",
+    "ZDFheute",
+    "Deutschlandfunk",
+    "SRF News",
+    "Handelsblatt",
+    "WELT",
+    "DIE ZEIT"
+   ],
+   "regions": [
+    "CH",
+    "DE",
+    "INT"
+   ],
+   "trend": [],
+   "newest": "2026-11-15T16:51:16+00:00",
+   "articles": [
+    {
+     "source": "tagesschau",
+     "region": "DE",
+     "weight": 1.0,
+     "title": "Zehntausende protestieren gegen Rundfunkreform in Tschechien",
+     "summary": "Zehntausende sind in Prag auf die Straße gegangen, um gegen Pläne zur Finanzierung der öffentlich-rechtlichen Medien zu protestieren. Sie fürchten, die Regierung könnte die Sender mit der Reform unter ihre Kontrolle bringen.",
+     "link": "https://www.tagesschau.de/ausland/europa/demo-tschechien-rundfunk-100.html",
+     "image": "https://images.tagesschau.de/image/5b018cb0-b341-49a7-9b0f-0f90b00a8adb/AAABod_QJDk/AAABnSSvrFg/16x9-big/prag-demo-108.jpg?width=1920",
+     "aggregator": false,
+     "published": "2026-11-15T15:40:55+00:00"
+    },
+    {
+     "source": "tagesschau Ausland",
+     "region": "INT",
+     "weight": 1.0,
+     "title": "Zehntausende protestieren gegen Rundfunkreform in Tschechien",
+     "summary": "Zehntausende sind in Prag auf die Straße gegangen, um gegen Pläne zur Finanzierung der öffentlich-rechtlichen Medien zu protestieren. Sie fürchten, die Regierung könnte die Sender mit der Reform unter ihre Kontrolle bringen.",
+     "link": "https://www.tagesschau.de/ausland/europa/demo-tschechien-rundfunk-100.html",
+     "image": "https://images.tagesschau.de/image/5b018cb0-b341-49a7-9b0f-0f90b00a8adb/AAABod_QJDk/AAABnSSvrFg/16x9-big/prag-demo-108.jpg?width=1920",
+     "aggregator": false,
+     "published": "2026-11-15T15:40:55+00:00"
+    },
+    {
+     "source": "ZDFheute",
+     "region": "DE",
+     "weight": 1.0,
+     "title": "Zehntausende Spanier protestieren gegen Wohnungsnot",
+     "summary": "In Spanien sind Zehntausende Menschen wegen der akuten Wohnungsnot auf die Straße gegangen. Die Wut ist groß - und die Parlamentswahl steht kurz bevor.",
+     "link": "https://www.zdfheute.de/video/spanien-wohnungsnot-generalstreik-video-100.html",
+     "image": "https://www.zdfheute.de/assets/spanien-proteste-wohnungsnot-100~384x216?cb=1794486762306",
+     "aggregator": false,
+     "published": "2026-11-12T13:36:00+00:00"
+    },
+    {
+     "source": "Deutschlandfunk",
+     "region": "DE",
+     "weight": 0.95,
+     "title": "Prag - Zehntausende protestieren erneut gegen Abschaffung der tschechischen Rundfunkgebühren",
+     "summary": "In der tschechischen Hauptstadt Prag haben erneut Zehntausende Menschen gegen die geplante Abschaffung der Rundfunkgebühren demonstriert.",
+     "link": "https://www.deutschlandfunk.de/zehntausende-protestieren-erneut-gegen-abschaffung-der-tschechischen-rundfunkgebuehren-102.html",
+     "image": "https://bilder.deutschlandfunk.de/db/6a/f2/45/db6af245-6115-4ea5-88d7-0503f59ad598/prag-proteste-rundfunk-100-1920x1920.jpg",
+     "aggregator": false,
+     "published": "2026-11-15T16:51:16+00:00"
+    },
+    {
+     "source": "SRF News",
+     "region": "CH",
+     "weight": 0.95,
+     "title": "Umstrittene Medienreform – Grossdemo in Tschechien gegen Abschaffung von Rundfunkgebühr",
+     "summary": "Die Menschen protestieren in Prag gegen geplante Änderungen bei der Finanzierung der öffentlich-rechtlichen Sender.",
+     "link": "https://www.srf.ch/news/international/umstrittene-medienreform-grossdemo-in-tschechien-gegen-abschaffung-von-rundfunkgebuehr",
+     "image": "https://www.srf.ch/static/cms/images//320ws/7e7209.webp",
+     "aggregator": false,
+     "published": "2026-11-15T16:23:43+00:00"
+    },
+    {
+     "source": "Handelsblatt",
+     "region": "DE",
+     "weight": 0.9,
+     "title": "Sorge um Medien: Riesendemo gegen umstrittene Medienreform in Tschechien",
+     "summary": "Eine riesige Menschenmenge protestiert in Tschechien gegen geplante Änderungen bei der Finanzierung der öffentlich-rechtlichen Sender. Was sie an den Plänen der Regierung besonders beunruhigt.",
+     "link": "https://www.handelsblatt.com/politik/international/sorge-um-medien-riesendemo-gegen-umstrittene-medienreform-in-tschechien/100270017.html",
+     "image": "https://images.handelsblatt.com/KX1V2qqcFIXT/cover/900/506/0/0/107/106/0.5/0.5/demonstration-gegen-medienreform.jpg",
+     "aggregator": false,
+     "published": "2026-11-15T15:31:16+00:00"
+    },
+    {
+     "source": "WELT",
+     "region": "DE",
+     "weight": 0.8,
+     "title": "„Hände weg von den Medien“ – Mehr als 200.000 Menschen demonstrieren gegen Reform in Tschechien",
+     "summary": "In Prag demonstrieren mehr als 200.000 Menschen gegen die Rundfunkreform der Regierung. Die geplante Finanzierung aus dem Staatshaushalt weckt Sorgen um die Unabhängigkeit der Sender.",
+     "link": "https://www.welt.de/politik/article6af9c9c76b444af68d4ad63d/abschaffung-der-rundfunkgebuehren-haende-weg-von-den-medien-mehr-als-200-000-menschen-demonstrieren-gegen-reform-in-tschechien.html",
+     "image": "https://images.welt.de/6af9c9c76b444af68d4ad63d/c55d42124c03cd8d09f46562301849a3-master/ci23x11-w1200/633148003-jpg",
+     "aggregator": false,
+     "published": "2026-11-15T15:39:23+00:00"
+    },
+    {
+     "source": "DIE ZEIT",
+     "region": "DE",
+     "weight": 0.6,
+     "title": "Tschechien: Demonstration in Prag gegen geplante Abschaffung der Rundfunkgebühr",
+     "summary": "Tschechien: Demonstration in Prag gegen geplante Abschaffung der Rundfunkgebühr DIE ZEIT Zehntausende protestieren gegen Rundfunkreform in Tschechien tagesschau.de „Hände weg von den Medien“ – Mehr als 200.000 Menschen demonstrieren gegen Reform in Tschechien WELT Riesendemo gegen umstrittene Medienreform in Tschechien Badische Neueste Nachrichten Großdemo gegen umstrittene Medienreform in Tschechien Antenne Bayern",
+     "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPM2Z2bkc1cW5CWk1CMHJaQVBRamlKZTZBSExUYWRjT0NsckNPMkJHVWh2TVdEZU5qRFdKVmdLVGFOZVZBWmFURi1yejFadzlzX2dsWXYyWjdMWHFveEJrLWZid2ZMQTAzaEIxTVZmd05ZRVNOT1F2SGVBYkdLUEJlS3FpNDh5VGtGYUx5TWRrLU54dw?oc=5",
+     "image": null,
+     "aggregator": true,
+     "published": "2026-11-15T15:12:39+00:00"
+    }
+   ]
+  },
+  {
+   "id": 1,
+   "score": 15.09,
+   "outlets": [
+    "ZDFheute",
+    "Deutschlandfunk",
+    "ORF",
+    "SPIEGEL",
+    "Handelsblatt",
+    "DER STANDARD"
+   ],
+   "regions": [
+    "AT",
+    "DE"
+   ],
+   "trend": [],
+   "newest": "2026-11-15T16:51:16+00:00",
+   "articles": [
+    {
+     "source": "ZDFheute",
+     "region": "DE",
+     "weight": 1.0,
+     "title": "Van der Bellen: \"Mitgefühl ist keine Schwäche\"",
+     "summary": "Der Volkstrauertag gilt dem Gedenken der Toten beider Weltkriege. In Berlin rief Österreichs Präsident Van der Bellen zu mehr Empathie auf. Man müsse aus der Vergangenheit lernen.",
+     "link": "https://www.zdfheute.de/politik/deutschland/volkstrauertag-gedenken-krieg-veranstaltung-gedenktag-berlin-100.html",
+     "image": "https://www.zdfheute.de/assets/alexander-van-der-bellen-bei-gedenkstunde-zum-volkstrauertag-100~384x216?cb=1794753015207",
+     "aggregator": false,
+     "published": "2026-11-15T14:37:00+00:00"
+    },
+    {
+     "source": "Deutschlandfunk",
+     "region": "DE",
+     "weight": 0.95,
+     "title": "Gedenkstunde im Bundestag - Österreichs Bundespräsident van der Bellen warnt vor \"Abstumpfung durch Algorithmen\" - Appell zu mehr Mitgefühl im Alltag",
+     "summary": "Der österreichische Bundespräsident van der Bellen hat in einer Gedenkstunde zum Volkstrauertag im Deutschen Bundestag zu Empathie aufgerufen - trotz \"Dauerfeuer aus Leid und Wahnsinn\", das im Internet durch Algorithmen verbreitet werde.",
+     "link": "https://www.deutschlandfunk.de/oesterreichs-bundespraesident-van-der-bellen-warnt-vor-abstumpfung-durch-algorithmen-appell-zu-mehr--100.html",
+     "image": "https://bilder.deutschlandfunk.de/a9/37/7f/5e/a9377f5e-dda6-48ad-a8a2-8dd5ec8b7882/vanderbellen-volkstrauertag-100-1920x1920.jpg",
+     "aggregator": false,
+     "published": "2026-11-15T16:51:16+00:00"
+    },
+    {
+     "source": "ORF",
+     "region": "AT",
+     "weight": 0.95,
+     "title": "Van der Bellen hielt Rede zum deutschen Volkstrauertag",
+     "summary": "",
+     "link": "https://orf.at/stories/3448251/",
+     "image": null,
+     "aggregator": false,
+     "published": "2026-11-15T14:23:28+00:00"
+    },
+    {
+     "source": "SPIEGEL",
+     "region": "DE",
+     "weight": 0.9,
+     "title": "Volkstrauertag: Van der Bellen fordert bei Gedenkakt in Berlin mehr Mitgefühl",
+     "summary": "Eine Rede von Alexander Van der Bellen hat das Gedenken zum Volkstrauertag im Bundestag geprägt. Der österreichische Bundespräsident mahnte an, aus der Vergangenheit zu lernen. Und erklärte, warum Mitgefühl keine Schwäche ist.",
+     "link": "https://www.spiegel.de/politik/volkstrauertag-van-der-bellen-fordert-bei-gedenkakt-in-berlin-mehr-mitgefuehl-a-e630014a-fe36-4b74-a98e-11dc07c59a21#ref=rss",
+     "image": "https://cdn.prod.www.spiegel.de/images/24268958-a4b8-473d-8dc0-40a0f0794d94_w520_r2.08_fpx50_fpy37.jpg",
+     "aggregator": false,
+     "published": "2026-11-15T14:40:00+00:00"
+    },
+    {
+     "source": "Handelsblatt",
+     "region": "DE",
+     "weight": 0.9,
+     "title": "Totengedenken: Van der Bellen ruft am Volkstrauertag zu Mitgefühl auf",
+     "summary": "Am Volkstrauertag gedenkt Deutschland der Opfer der Weltkriege und des Nationalsozialismus. Bei der zentralen Gedenkstunde im Bundestag hält Österreichs Präsident Van der Bellen eine bewegende Rede.",
+     "link": "https://www.handelsblatt.com/politik/deutschland/totengedenken-van-der-bellen-ruft-am-volkstrauertag-zu-mitgefuehl-auf/100270018.html",
+     "image": "https://images.handelsblatt.com/sd6VNKNqBoCc/cover/900/506/0/0/107/106/0.5/0.5/volkstrauertag-gedenkstunde-im-bundestag.jpg",
+     "aggregator": false,
+     "published": "2026-11-15T14:53:38+00:00"
+    },
+    {
+     "source": "DER STANDARD",
+     "region": "AT",
+     "weight": 0.85,
+     "title": "Van der Bellen in Berlin: \"Mitgefühl ist Zeichen von Stärke\"",
+     "summary": "Bundespräsident Alexander Van der Bellen war am deutschen Volkstrauertag bei seinem Amtskollegen Frank-Walter Steinmeier zu Gast",
+     "link": "https://www.derstandard.at/story/3000000349328/van-der-bellen-in-berlin-mitgef252hl-ist-zeichen-von-st228rke?ref=rss",
+     "image": "https://i.ds.at/dzdUnA/rs:fill:150:0/plain/lido-images/2026/11/15/71584d7f-1789-4406-b7c1-ee8054e50970.jpg",
+     "aggregator": false,
+     "published": "2026-11-15T15:58:10+00:00"
+    }
+   ]
+  },
+  {
+   "id": 2,
+   "score": 13.49,
+   "outlets": [
+    "tagesschau Wirtschaft",
+    "SRF News",
+    "WirtschaftsWoche",
+    "heise online",
+    "DER STANDARD"
+   ],
+   "regions": [
+    "AT",
+    "CH",
+    "DE"
+   ],
+   "trend": [],
+   "newest": "2026-11-15T12:22:00+00:00",
+   "articles": [
+    {
+     "source": "tagesschau Wirtschaft",
+     "region": "DE",
+     "weight": 1.0,
+     "title": "Nvidia: Huang-Affäre könnte zu Trump-Skandal werden",
+     "summary": "Laut Medienberichten wurde Trump zwei Mal von der Affäre des Nvidia-Chefs Huang mit einer mutmaßlichen chinesischen Spionin unterrichtet. Doch der Präsident beteuert, von nichts gewusst zu haben. Von C. Kühntopp.",
+     "link": "https://www.tagesschau.de/ausland/amerika/nvidia-trump-100.html",
+     "image": "https://images.tagesschau.de/image/f9401978-bea2-4fa5-9226-a0299084e01c/AAABodPof7M/AAABnSSvrFg/16x9-big/huang-trump-102.jpg?width=1920",
+     "aggregator": false,
+     "published": "2026-11-13T02:36:47+00:00"
+    },
+    {
+     "source": "SRF News",
+     "region": "CH",
+     "weight": 0.95,
+     "title": "Absetzung von Nvidia-Chef – Die Lehren aus dem Fall Jensen Huang und seinen Affären",
+     "summary": "Nvidias Erfolg war eng mit Jensen Huang verknüpft. Sein Sturz offenbart die Kehrseite dieser Abhängigkeit.",
+     "link": "https://www.srf.ch/news/wirtschaft/absetzung-von-nvidia-chef-die-lehren-aus-dem-fall-jensen-huang-und-seinen-affaeren",
+     "image": "https://www.srf.ch/static/cms/images//320ws/e85dcb.webp",
+     "aggregator": false,
+     "published": "2026-11-12T17:16:52+00:00"
+    },
+    {
+     "source": "WirtschaftsWoche",
+     "region": "DE",
+     "weight": 0.85,
+     "title": "Nvidia-Affäre: Verdächtige Managerin verließ Megaspeed im August 2025",
+     "summary": "Alice Huang soll eine chinesische Spionin gewesen sein und hatte eine Affäre mit dem Nvidia-Chef. Nvidia-Kunde Megaspeed stellt klar, seit wann die Managerin nicht mehr für das Unternehmen arbeitet.",
+     "link": "https://www.wiwo.de/unternehmen/dienstleister/megaspeed-verdaechtige-managerin-in-nvidia-affaere-verliess-unternehmen-im-august-2025/100269997.html",
+     "image": "https://images.wiwo.de/-7-cfQyN7RIq/cover/900/506/0/0/192/192/0.5/0.5/archiv-22.05.2025-taiwan-taipeh-auf-diesem-bild-das-einem-von-tvbs-zur-verfuegung-gestellten-vi.jpg",
+     "aggregator": false,
+     "published": "2026-11-15T11:59:10+00:00"
+    },
+    {
+     "source": "heise online",
+     "region": "DE",
+     "weight": 0.85,
+     "title": "Megaspeed bestätigt: Alice Huang hat Unternehmen verlassen",
+     "summary": "Alice Huang soll eine chinesische Spionin gewesen sein und hatte eine Affäre mit dem Nvidia-Chef. Sie hat das Unternehmen Megaspeed vor Monaten verlassen.",
+     "link": "https://www.heise.de/news/Megaspeed-bestaetigt-Alice-Huang-hat-Unternehmen-verlassen-11525549.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
+     "image": null,
+     "aggregator": false,
+     "published": "2026-11-15T12:22:00+00:00"
+    },
+    {
+     "source": "heise online",
+     "region": "DE",
+     "weight": 0.85,
+     "title": "Donnerstag: Nvidia-Chef angeblich kurz vor Abschied, KI-Agent auch von ByteDance",
+     "summary": "Jensen Huangs weitere Affäre + Muse-Agentenkonkurrent aus China + Meta-Millionenstrafe nach Brasilien-Wahl + Unterschiede chinesischer E-Motoren + #heiseshow",
+     "link": "https://www.heise.de/news/Donnerstag-Nvidia-Chef-angeblich-kurz-vor-Abschied-KI-Agent-auch-von-ByteDance-11521643.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
+     "image": null,
+     "aggregator": false,
+     "published": "2026-11-12T05:15:00+00:00"
+    },
+    {
+     "source": "heise online",
+     "region": "DE",
+     "weight": 0.85,
+     "title": "Nvidia-Chef Jensen Huang nach zweiter Affäre wohl vor dem Ende bei seiner Firma",
+     "summary": "Neben der mutmaßlichen Agentin Chinas hatte der Nvidia-CEO offenbar auch eine Affäre mit einer Kollegin. Die Aktie rutscht weiter ab, der Abschied rückt näher.",
+     "link": "https://www.heise.de/news/Jensen-Huang-nach-weiterer-Affaere-mit-Mitarbeiterin-wohl-vor-dem-Aus-bei-Nvidia-11521625.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
+     "image": null,
+     "aggregator": false,
+     "published": "2026-11-12T04:02:00+00:00"
+    },
+    {
+     "source": "DER STANDARD",
+     "region": "AT",
+     "weight": 0.85,
+     "title": "Affäre mit Agentin: Der Spionage-Skandal von Nvidia",
+     "summary": "Wir sprechen über den mutmaßlichen Spionage-Skandal bei einem der weltweit größten Unternehmen",
+     "link": "https://www.derstandard.at/story/3000000348537/podcaffaere-mit-agentin-der-spionage-skandal-von-nvidia?ref=rss",
+     "image": "https://i.ds.at/m-woNA/rs:fill:150:0/plain/lido-images/2026/11/09/1d8c83a1-2471-4fc3-92c6-d77217b79811.jpg",
+     "aggregator": false,
+     "published": "2026-11-12T10:34:13+00:00"
+    },
+    {
+     "source": "DER STANDARD",
+     "region": "AT",
+     "weight": 0.85,
+     "title": "Wie das Netzwerk der Alice Huang den mächtigen Nvidia-Chef zu Fall brachte",
+     "summary": "Die Nvidia-Krise zieht Schockwellen bis ins Weiße Haus und bringt Trump unter Druck. Zugleich kommen immer mehr Details der mutmaßlichen Spionageaffäre ans Licht",
+     "link": "https://www.derstandard.at/story/3000000349082/wie-das-netzwerk-der-alice-huang-den-maechtigen-nvidia-chef-zu-fall-brachte?ref=rss",
+     "image": "https://i.ds.at/us12jw/rs:fill:150:0/plain/lido-images/2026/11/13/49fabf93-610f-42bc-a942-94269d0e6f6d.jpg",
+     "aggregator": false,
+     "published": "2026-11-13T16:59:40+00:00"
+    }
+   ]
+  },
+  {
+   "id": 3,
+   "score": 13.39,
+   "outlets": [
+    "tagesschau",
+    "ZDFheute",
+    "Deutschlandfunk",
+    "Handelsblatt",
+    "WirtschaftsWoche"
+   ],
+   "regions": [
+    "DE"
+   ],
+   "trend": [],
+   "newest": "2026-11-15T16:51:16+00:00",
+   "articles": [
+    {
+     "source": "tagesschau",
+     "region": "DE",
+     "weight": 1.0,
+     "title": "Arzttermin gegen Bezahlung - warum der Vorstoß für Empörung sorgt",
+     "summary": "Schneller zum Facharzt - aber nur wenn man die Behandlung selbst zahlt: Kassenärzte-Chef Gassen hat mit seinen Äußerungen zu Terminen gegen Aufpreis breite Kritik ausgelöst. Wie ist die Situation für Kassenpatienten - und was macht die Politik?",
+     "link": "https://www.tagesschau.de/inland/gesellschaft/arzttermine-selbst-zahlen-debatte-100.html",
+     "image": "https://images.tagesschau.de/image/ee9f6cc9-2abe-4ab6-a786-06eaecbbc82c/AAABm2psovs/AAABnSSvrFg/16x9-big/arzt-patient-102.jpg?width=1920",
+     "aggregator": false,
+     "published": "2026-11-15T12:42:46+00:00"
+    },
+    {
+     "source": "tagesschau Inland",
+     "region": "DE",
+     "weight": 1.0,
+     "title": "Arzttermin gegen Bezahlung - warum der Vorstoß für Empörung sorgt",
+     "summary": "Schneller zum Facharzt - aber nur wenn man die Behandlung selbst zahlt: Kassenärzte-Chef Gassen hat mit seinen Äußerungen zu Terminen gegen Aufpreis breite Kritik ausgelöst. Wie ist die Situation für Kassenpatienten - und was macht die Politik?",
+     "link": "https://www.tagesschau.de/inland/gesellschaft/arzttermine-selbst-zahlen-debatte-100.html",
+     "image": "https://images.tagesschau.de/image/ee9f6cc9-2abe-4ab6-a786-06eaecbbc82c/AAABm2psovs/AAABnSSvrFg/16x9-big/arzt-patient-102.jpg?width=1920",
+     "aggregator": false,
+     "published": "2026-11-15T12:42:46+00:00"
+    },
+    {
+     "source": "tagesschau Inland",
+     "region": "DE",
+     "weight": 1.0,
+     "title": "Selbstzahlen oder lange Wartezeit? Kritik an Kassenärzte-Chef",
+     "summary": "Schneller zum Facharzt, wenn man den Termin selbst zahlt? Wegen der anstehenden Honorarkürzungen hält Kassenärzte-Chef Gassen das für wahrscheinlich. Er handelte sich damit deutliche Kritik ein.",
+     "link": "https://www.tagesschau.de/inland/reaktionen-selbstzahler-arzttermine-100.html",
+     "image": "https://images.tagesschau.de/image/d5214042-cf3f-48f9-bc4b-89dd65405722/AAABleWVibQ/AAABnSSvrFg/16x9-big/aerzte-113.jpg?width=1920",
+     "aggregator": false,
+     "published": "2026-11-14T19:45:01+00:00"
+    },
+    {
+     "source": "ZDFheute",
+     "region": "DE",
+     "weight": 1.0,
+     "title": "Facharzt: Schneller Termin bald nur für Selbstzahler?",
+     "summary": "Wer selbst zahlt, kommt schneller zum Facharzt? Kassenärzte-Chef Gassen hält das wegen Honorarkürzungen bald für wahrscheinlich. SPD, Kassen und ein Sozialverband laufen Sturm.",
+     "link": "https://www.zdfheute.de/politik/deutschland/arzt-termin-kosten-facharzt-verband-kassenaerzte-gassen-kritik-100.html",
+     "image": "https://www.zdfheute.de/assets/arztpraxis-wartezimmer-102~384x216?cb=1794676515551",
+     "aggregator": false,
+     "published": "2026-11-14T18:26:00+00:00"
+    },
+    {
+     "source": "Deutschlandfunk",
+     "region": "DE",
+     "weight": 0.95,
+     "title": "Gesundheit - Sprechstunde nur für Selbstzahler? Kritik an Vorstoß von Kassenärzte-Chef Gassen",
+     "summary": "Der Vorstandsvorsitzende der Kassenärztlichen Bundesvereinigung, Gassen, hat mit seinen Äußerungen zu möglichen Selbstzahler-Terminen Kritik auf sich gezogen.",
+     "link": "https://www.deutschlandfunk.de/sprechstunde-nur-fuer-selbstzahler-kritik-an-vorstoss-von-kassenaerzte-chef-gassen-100.html",
+     "image": "https://bilder.deutschlandfunk.de/FI/LE/_a/ca/FILE_aca2da5d75a1b4875733ba77102ad49a/arzt-migrantin-jpg-102-1280x1280.jpg",
+     "aggregator": false,
+     "published": "2026-11-15T16:51:16+00:00"
+    },
+    {
+     "source": "Handelsblatt",
+     "region": "DE",
+     "weight": 0.9,
+     "title": "Krankenversicherung: Facharzttermine auf eigene Kosten: Vorstoß des Kassenärzte-Chefs löst Kritik aus",
+     "summary": "Selbst zahlen beim Facharzt, um als gesetzlich Versicherter schneller einen Termin zu bekommen: Für diesen Vorschlag zieht Kassenärzte-Chef Andreas Gassen Kritik auf sich.",
+     "link": "https://www.handelsblatt.com/politik/deutschland/gesundheit-vorstoss-fuer-facharzttermine-gegen-bezahlung-loest-kritik-aus/100270001.html",
+     "image": "https://images.handelsblatt.com/xgpZSO15358t/cover/900/506/0/0/0/625/0.5/0.5/medizin.jpg",
+     "aggregator": false,
+     "published": "2026-11-15T12:29:08+00:00"
+    },
+    {
+     "source": "WirtschaftsWoche",
+     "region": "DE",
+     "weight": 0.85,
+     "title": "Warten auf Facharzttermin: Empörung über Vorstoß für Facharzttermin gegen Bezahlung ist groß",
+     "summary": "Dass gesetzlich Versicherte lange auf Facharzttermine warten müssen, ärgert diese erheblich. Nun macht Kassenärzte-Chef Gassen einen Vorstoß, wie das zu ändern sei. Die Kritik daran ist einhellig.",
+     "link": "https://www.wiwo.de/politik/deutschland/warten-auf-facharzttermin-empoerung-ueber-vorstoss-fuer-facharzttermin-gegen-bezahlung-ist-gross/100269861.html",
+     "image": "https://images.wiwo.de/-Sl22Cr7nJrp/cover/900/506/0/0/226/226/0.5/0.5/patienten-warten-im-wartezimmer-einer-arztpraxis.-zu-dpa-neuer-vorschlag-preis-wettbewerb-beim-a.jpg",
+     "aggregator": false,
+     "published": "2026-11-15T10:56:00+00:00"
+    }
+   ]
+  },
+  {
+   "id": 4,
+   "score": 12.99,
+   "outlets": [
+    "tagesschau",
+    "Deutschlandfunk",
+    "Handelsblatt",
+    "WirtschaftsWoche",
+    "tagesschau.de"
+   ],
+   "regions": [
+    "DE"
+   ],
+   "trend": [],
+   "newest": "2026-11-15T16:51:16+00:00",
+   "articles": [
+    {
+     "source": "tagesschau",
+     "region": "DE",
+     "weight": 1.0,
+     "title": "Heils Kandidatur für SPD-Vorsitz aktiviert Klingbeils Fürsprecher",
+     "summary": "Der Erste wagt sich aus der Deckung: Ex-Arbeitsminister Heil will die SPD führen. Was macht Parteichef Klingbeil? Tritt er beim Parteitag im Januar erneut für den Vorsitz an? Nun sprachen sich weitere namhafte SPD-Politiker für ihn aus.",
+     "link": "https://www.tagesschau.de/inland/innenpolitik/spd-spitze-klingbeil-heil-100.html",
+     "image": "https://images.tagesschau.de/image/cfa04f79-ad8c-4715-92f8-9f25a2c9a38c/AAABod5Tybk/AAABnSSvrFg/16x9-big/klingbeil-466.jpg?width=1920",
+     "aggregator": false,
+     "published": "2026-11-15T13:30:13+00:00"
+    },
+    {
+     "source": "tagesschau Inland",
+     "region": "DE",
+     "weight": 1.0,
+     "title": "Heils Kandidatur für SPD-Vorsitz aktiviert Klingbeils Fürsprecher",
+     "summary": "Der Erste wagt sich aus der Deckung: Ex-Arbeitsminister Heil will die SPD führen. Was macht Parteichef Klingbeil? Tritt er beim Parteitag im Januar erneut für den Vorsitz an? Nun sprachen sich weitere namhafte SPD-Politiker für ihn aus.",
+     "link": "https://www.tagesschau.de/inland/innenpolitik/spd-spitze-klingbeil-heil-100.html",
+     "image": "https://images.tagesschau.de/image/cfa04f79-ad8c-4715-92f8-9f25a2c9a38c/AAABod5Tybk/AAABnSSvrFg/16x9-big/klingbeil-466.jpg?width=1920",
+     "aggregator": false,
+     "published": "2026-11-15T13:30:13+00:00"
+    },
+    {
+     "source": "Deutschlandfunk",
+     "region": "DE",
+     "weight": 0.95,
+     "title": "Debatte um künftige Spitze - Lies warnt SPD vor \"Selbstbeschäftigung\" - Rückhalt für Klingbeil",
+     "summary": "Der frühere Arbeitsminister Heil hat als erster seine Kandidatur für den SPD-Vorsitz angekündigt. Daraufhin meldeten sich namhafte Fürsprecher des bisherigen Parteichefs Klingbeil. Der niedersächsische Ministerpräsident Lies warnte vor Streit in der Partei.",
+     "link": "https://www.deutschlandfunk.de/lies-warnt-spd-vor-selbstbeschaeftigung-rueckhalt-fuer-klingbeil-100.html",
+     "image": "https://bilder.deutschlandfunk.de/d3/11/b4/9a/d311b49a-5803-4f77-989b-e0f49b800c05/spd-partei-spitze-bas-klingbeil-100-1920x1920.jpg",
+     "aggregator": false,
+     "published": "2026-11-15T16:51:16+00:00"
+    },
+    {
+     "source": "Handelsblatt",
+     "region": "DE",
+     "weight": 0.9,
+     "title": "Kandidaten-Suche: Machtkampf in SPD ist eröffnet: Heil tritt für Vorsitz an",
+     "summary": "Der Erste wagt sich aus der Deckung: Hubertus Heil, Dauerrivale von Vizekanzler Lars Klingbeil, tritt für den SPD-Vorsitz an. Wer könnte sonst noch kandidieren?",
+     "link": "https://www.handelsblatt.com/politik/deutschland/kandidaten-suche-machtkampf-in-spd-ist-eroeffnet-heil-tritt-fuer-vorsitz-an/100269975.html",
+     "image": "https://images.handelsblatt.com/Fc1diTBW7j0s/cover/900/506/0/0/107/106/0.5/0.5/hubertus-heil.jpg",
+     "aggregator": false,
+     "published": "2026-11-15T13:18:14+00:00"
+    },
+    {
+     "source": "Handelsblatt",
+     "region": "DE",
+     "weight": 0.9,
+     "title": "Kandidaten-Suche: Heil tritt an - Wer noch Chancen auf den SPD-Vorsitz hat",
+     "summary": "Der erste wagt sich aus der Deckung: Ein Dauer-Rivale von Vizekanzler Lars Klingbeil tritt für den SPD-Vorsitz an. Wer könnte sonst noch kandidieren?",
+     "link": "https://www.handelsblatt.com/politik/deutschland/kandidaten-suche-heil-tritt-an-wer-noch-chancen-auf-den-spd-vorsitz-hat/100269926.html",
+     "image": "https://images.handelsblatt.com/E0kWO1e-eaP2/cover/900/506/0/0/107/106/0.5/0.5/hubertus-heil.jpg",
+     "aggregator": false,
+     "published": "2026-11-14T18:39:34+00:00"
+    },
+    {
+     "source": "WirtschaftsWoche",
+     "region": "DE",
+     "weight": 0.85,
+     "title": "Konkurrenz für Klingbeil: Der Machtkampf ist eröffnet – Hubertus Heil tritt für SPD-Vorsitz an",
+     "summary": "Der Erste wagt sich aus der Deckung: Ein Dauer-Rivale von Vizekanzler Lars Klingbeil tritt für den SPD-Vorsitz an. Wer könnte sonst noch kandidieren?",
+     "link": "https://www.wiwo.de/politik/deutschland/kandidaten-suche-der-machtkampf-ist-eroeffnet-heil-tritt-fuer-spd-vorsitz-an/100269976.html",
+     "image": "https://images.wiwo.de/3VZLecnZx3VA/cover/900/506/0/0/107/106/0.5/0.5/hubertus-heil.jpg",
+     "aggregator": false,
+     "published": "2026-11-15T11:18:00+00:00"
+    },
+    {
+     "source": "tagesschau.de",
+     "region": "DE",
+     "weight": 0.6,
+     "title": "Heils Kandidatur für SPD-Vorsitz aktiviert Klingbeils Fürsprecher",
+     "summary": "Heils Kandidatur für SPD-Vorsitz aktiviert Klingbeils Fürsprecher tagesschau.de SPD-Parteivorsitz: Niedersachsens Ministerpräsident warnt SPD vor »Selbstbeschäftigung« DIE ZEIT Ex-Arbeitsminister: Grüne fordern Heil zur Abkehr von „zutiefst ungerechter Politik“ unter Schwarz-Rot auf WELT Hubertus Heil kandidiert für SPD-Vorsitz: Muss Lars Klingbeil weichen? FAZ Heil, Klingbeil oder doch Schwesig? Das Ringen um den SPD-Vorsitz NDR.de",
+     "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNMHphSWNuOU8zdTRQM2NnQXo1b2pBT09YT2FGVlF2bFVmNUh5OHZ3YzVYUHI3N2xrZTdFTXlCcFN0Ri1oZ0hmbkhrV3gyTktBLVdTQ2Z5cFFBaG43d0NTUExEZGZSWmZsazFERkdnS1pBajlNT2ZUSVZvRzIwbDNsWkI4THhtNms?oc=5",
+     "image": null,
+     "aggregator": true,
+     "published": "2026-11-15T13:30:00+00:00"
+    }
+   ]
+  },
+  {
+   "id": 5,
+   "score": 12.99,
+   "outlets": [
+    "Deutschlandfunk",
+    "ORF",
+    "SRF News",
+    "DER STANDARD",
+    "n-tv"
+   ],
+   "regions": [
+    "AT",
+    "CH",
+    "DE"
+   ],
+   "trend": [],
+   "newest": "2026-11-15T16:51:16+00:00",
+   "articles": [
+    {
+     "source": "Deutschlandfunk",
+     "region": "DE",
+     "weight": 0.95,
+     "title": "Krieg im Jemen - Regierungstruppen ziehen sich nach Kämpfen mit Huthi-Miliz von Meerenge Bab al-Mandab zurück",
+     "summary": "Im Jemen ziehen sich die Truppen der international anerkannten Regierung von der strategisch wichtigen Meerenge Bab al-Mandab zurück.",
+     "link": "https://www.deutschlandfunk.de/regierungstruppen-ziehen-sich-nach-kaempfen-mit-huthi-miliz-von-meerenge-bab-al-mandab-zurueck-100.html",
+     "image": "https://bilder.deutschlandfunk.de/ad/25/65/a0/ad2565a0-634e-42a1-bece-9ae3f215448f/bab-al-mandab-102-1920x1920.jpg",
+     "aggregator": false,
+     "published": "2026-11-15T16:51:16+00:00"
+    },
+    {
+     "source": "ORF",
+     "region": "AT",
+     "weight": 0.95,
+     "title": "Truppen des Jemen ziehen sich von Bab al-Mandab zurück",
+     "summary": "",
+     "link": "https://orf.at/stories/3448228/",
+     "image": null,
+     "aggregator": false,
+     "published": "2026-11-15T09:27:46+00:00"
+    },
+    {
+     "source": "SRF News",
+     "region": "CH",
+     "weight": 0.95,
+     "title": "Strategische Meerenge – Bab al-Mandab fällt wieder in die Hände der Huthi-Miliz",
+     "summary": "Die Regierungstruppen ziehen sich von der wichtigen Meerenge zurück. Vorrang hat nun die Sicherung der Hauptstadt.",
+     "link": "https://www.srf.ch/news/international/strategische-meerenge-bab-al-mandab-faellt-wieder-in-die-haende-der-huthi-miliz",
+     "image": "https://www.srf.ch/static/cms/images//320ws/45bb0a.webp",
+     "aggregator": false,
+     "published": "2026-11-15T14:36:16+00:00"
+    },
+    {
+     "source": "DER STANDARD",
+     "region": "AT",
+     "weight": 0.85,
+     "title": "Rückzug bei Bab al-Mandab: Regierungstruppen überlassen Huthis strategisches Küstengebiet",
+     "summary": "Jemenitische Kräfte verlegen Truppen zur Verteidigung Adens. Der Rückzug stärkt die Huthis an einer wichtigen Handelsroute zwischen Asien und Europa",
+     "link": "https://www.derstandard.at/story/3000000349312/rueckzug-bei-bab-al-mandab-regierungstruppen-ueberlassen-huthis-strategisches-kuestengebiet?ref=rss",
+     "image": "https://i.ds.at/l01Vsg/rs:fill:150:0/plain/lido-images/2026/11/15/12114b2a-bf98-421c-bf2a-8cc97db4fa1c.jpg",
+     "aggregator": false,
+     "published": "2026-11-15T13:26:34+00:00"
+    },
+    {
+     "source": "n-tv",
+     "region": "DE",
+     "weight": 0.8,
+     "title": "An Meerenge Bab al-Mandab: Jemens Regierungstruppen ziehen sich vor Huthis zurück",
+     "summary": "Die Kämpfe im Jemen wogen immer wieder hin und her. Nachdem die Regierungstruppen zuletzt Erfolge feiern, treten sie nun nahe der wichtigen Meerenge Bab al-Mandab den Rückzug an. Mit dem Schritt soll eine wichtige Großstadt besser geschützt werden.",
+     "link": "https://www.n-tv.de/politik/Jemens-Regierungstruppen-ziehen-sich-vor-Huthis-zurueck-id31536018.html",
+     "image": "https://www.n-tv.de/img/31536037/1794755204/Img_4_3/250/621098659.jpg",
+     "aggregator": false,
+     "published": "2026-11-15T14:35:48+00:00"
+    }
+   ]
+  },
+  {
+   "id": 6,
+   "score": 12.25,
+   "outlets": [
+    "ZDFheute",
+    "SPIEGEL",
+    "WELT",
+    "n-tv"
+   ],
+   "regions": [
+    "DE"
+   ],
+   "trend": [
+    "Belarus vs Albania: UEFA Nations League stats & head-to-head",
+    "UEFA Nations League: Vorschau auf den 6. Spieltag - Spanien gegen England, Italien in Belgien"
+   ],
+   "newest": "2026-11-15T11:38:45+00:00",
+   "articles": [
+    {
+     "source": "ZDFheute",
+     "region": "DE",
+     "weight": 1.0,
+     "title": "Portugal ehrt Ronaldo - und unterliegt Dänemark deutlich",
+     "summary": "Portugal hat Cristiano Ronaldo im ersten Länderspiel nach dessen Rücktritt gehuldigt. Die Partie in der Nations League gegen Dänemark endete freilich mit einer Enttäuschung.",
+     "link": "https://www.zdfheute.de/sport/fussball-nations-league-portugal-daenemark-ronaldo-abschied-100.html",
+     "image": "https://www.zdfheute.de/assets/fussball-nations-league-portugal-daenemark-100~384x216?cb=1794688250367",
+     "aggregator": false,
+     "published": "2026-11-14T21:55:00+00:00"
+    },
+    {
+     "source": "SPIEGEL",
+     "region": "DE",
+     "weight": 0.9,
+     "title": "Nations League: Portugal ehrt Ronaldo und verliert deutlich gegen Dänemark",
+     "summary": "Ohne ihn läuft es nicht: Im ersten Spiel nach dem Rücktritt von Cristiano Ronaldo aus dem Nationalteam geht Portugal unter. Daran änderte auch ein verändertes Trikotnummerdesign nichts. Die Pleite könnte auch das DFB-Team betreffen.",
+     "link": "https://www.spiegel.de/sport/fussball/nations-league-portugal-ehrt-ronaldo-und-verliert-deutlich-gegen-daenemark-a-0d14c2bb-debd-45e8-9406-5a9bbc7a123a#ref=rss",
+     "image": "https://cdn.prod.www.spiegel.de/images/386793b6-d6d8-444d-9078-90d7a61218d4_w520_r2.08_fpx45.31_fpy49.99.jpg",
+     "aggregator": false,
+     "published": "2026-11-15T09:55:00+00:00"
+    },
+    {
+     "source": "WELT",
+     "region": "DE",
+     "weight": 0.8,
+     "title": "Nach dem vierten Gegentreffer skandieren Portugals Fans höhnisch „Cristiano Ronaldo“",
+     "summary": "Portugals Nationalteam kassiert in Partie eins nach dem Rücktritt von Cristiano Ronaldo eine herbe Pleite. Die Mannschaft wird verspottet – und die Spieler machen keinen Hehl daraus, dass sie den Superstar vermissen.",
+     "link": "https://www.welt.de/sport/fussball/article6af985b46b444af68d4ad221/nations-league-nach-4-gegentor-skandieren-portugals-fans-hoehnisch-cristiano-ronaldo.html",
+     "image": "https://images.welt.de/6af985b46b444af68d4ad221/b592ba17534e2aece95fd5ad8e54d7b2-master/ci23x11-w1200/gyi-2305153027-jpg",
+     "aggregator": false,
+     "published": "2026-11-15T11:38:45+00:00"
+    },
+    {
+     "source": "n-tv",
+     "region": "DE",
+     "weight": 0.8,
+     "title": "Relegation möglich: Portugal-Klatsche vermiest DFB die Nations-League-Situation",
+     "summary": "Völlig überraschend verliert Portugal in Spiel eins nach Ronaldo gegen Dänemark. Das sorgt in der Nations League auch dafür, dass das DFB-Team weiter zittern muss. Historisch Schlechtes ist noch möglich.",
+     "link": "https://www.n-tv.de/sport/fussball/Portugal-Klatsche-vermiest-DFB-die-Nations-League-Situation-id31535119.html",
+     "image": "https://www.n-tv.de/img/31535121/1794723052/Img_4_3/250/imago1085911377h.jpg",
+     "aggregator": false,
+     "published": "2026-11-15T05:28:29+00:00"
+    }
+   ]
+  },
+  {
+   "id": 7,
+   "score": 11.79,
+   "outlets": [
+    "tagesschau",
+    "ZDFheute",
+    "Deutsche Welle",
+    "Deutschlandfunk"
+   ],
+   "regions": [
+    "DE",
+    "INT"
+   ],
+   "trend": [],
+   "newest": "2026-11-15T16:51:16+00:00",
+   "articles": [
+    {
+     "source": "tagesschau",
+     "region": "DE",
+     "weight": 1.0,
+     "title": "Papst Leo in Südamerika: Empfangen wie ein lang vermisster alter Freund",
+     "summary": "Auf seiner bisher längsten Auslandsreise als Papst wird Leo XIV. vor allem in Peru und Argentinien begeistert empfangen. Welche Akzente hat er in seiner \"zweiten Heimat\" gesetzt? Eine erste Bilanz des Südamerika-Besuchs. Von Tilmann Kleinjung.",
+     "link": "https://www.tagesschau.de/ausland/amerika/papst-reise-suedamerika-bilanz-100.html",
+     "image": "https://images.tagesschau.de/image/4d4b7c29-3f12-497e-a2cf-84b26132a12b/AAABod3Z2vo/AAABnSSvrFg/16x9-big/papst-peru-110.jpg?width=1920",
+     "aggregator": false,
+     "published": "2026-11-15T07:35:51+00:00"
+    },
+    {
+     "source": "tagesschau Ausland",
+     "region": "INT",
+     "weight": 1.0,
+     "title": "Papst Leo in Südamerika: Empfangen wie ein lang vermisster alter Freund",
+     "summary": "Auf seiner bisher längsten Auslandsreise als Papst wird Leo XIV. vor allem in Peru und Argentinien begeistert empfangen. Welche Akzente hat er in seiner \"zweiten Heimat\" gesetzt? Eine erste Bilanz des Südamerika-Besuchs. Von Tilmann Kleinjung.",
+     "link": "https://www.tagesschau.de/ausland/amerika/papst-reise-suedamerika-bilanz-100.html",
+     "image": "https://images.tagesschau.de/image/4d4b7c29-3f12-497e-a2cf-84b26132a12b/AAABod3Z2vo/AAABnSSvrFg/16x9-big/papst-peru-110.jpg?width=1920",
+     "aggregator": false,
+     "published": "2026-11-15T07:35:51+00:00"
+    },
+    {
+     "source": "ZDFheute",
+     "region": "DE",
+     "weight": 1.0,
+     "title": "Gefängnisbesuch in Buenos Aires: Papst Leo umarmt Häftlinge",
+     "summary": "Bewegende Szenen in einem Gefängnis in Buenos Aires in Argentinien. Auf seiner Reise durch Südamerika hat Papst Leo die Häftlinge dort besucht und ihnen Mut zugesprochen.",
+     "link": "https://www.zdfheute.de/video/panorama-papst-leo-umarmt-haeftlinge-buenos-aires-video-102.html",
+     "image": "https://www.zdfheute.de/assets/papst-besucht-gefaengnis-100~384x216?cb=1794417285119",
+     "aggregator": false,
+     "published": "2026-11-11T20:34:00+00:00"
+    },
+    {
+     "source": "Deutsche Welle",
+     "region": "INT",
+     "weight": 0.95,
+     "title": "Begeisterter Empfang für Papst Leo XIV. in Peru",
+     "summary": "Für den Pontifex, der auch die peruanische Staatsbürgerschaft besitzt, ist die letzte Station seiner Lateinamerika-Reise ein Heimspiel. Doch im Beisein von Präsidentin Fujimori findet er mahnende Worte.",
+     "link": "https://www.dw.com/de/begeisterter-empfang-für-papst-leo-xiv-in-peru/a-79926779?maca=de-rss-de-all-1119-xml-mrss",
+     "image": "https://static.dw.com/image/79925065_302.jpg",
+     "aggregator": false,
+     "published": "2026-11-12T10:01:00+00:00"
+    },
+    {
+     "source": "Deutschlandfunk",
+     "region": "DE",
+     "weight": 0.95,
+     "title": "Südamerika-Reise - Papst Leo prangert hohe Gewaltrate in Peru an",
+     "summary": "Papst Leo XIV. hat die Bevölkerung in Peru aufgerufen, sich durch die hohe Kriminalität nicht entmutigen zu lassen.",
+     "link": "https://www.deutschlandfunk.de/papst-leo-prangert-hohe-gewaltrate-in-peru-an-100.html",
+     "image": "https://bilder.deutschlandfunk.de/0c/17/84/96/0c178496-0f8e-4535-b4ed-01a8c660ed75/papst-peru-100-1920x1920.jpg",
+     "aggregator": false,
+     "published": "2026-11-15T16:51:16+00:00"
+    }
+   ]
+  },
+  {
+   "id": 8,
+   "score": 11.79,
+   "outlets": [
+    "tagesschau Ausland",
+    "ZDFheute",
+    "Deutschlandfunk",
+    "SRF News"
+   ],
+   "regions": [
+    "CH",
+    "DE",
+    "INT"
+   ],
+   "trend": [],
+   "newest": "2026-11-15T16:51:16+00:00",
+   "articles": [
+    {
+     "source": "tagesschau Ausland",
+     "region": "INT",
+     "weight": 1.0,
+     "title": "Korruptionsermittlungen in Ungarn: Millionen bei Ex-Minister entdeckt",
+     "summary": "Beim früheren ungarischen Entwicklungsminister Seszták sind im Rahmen von Korruptionsermittlungen mehr als 17 Millionen Euro Bargeld gefunden worden. Es lag vergraben in Wäldern, Scheunen und Lagerhallen. Sesták gehörte zur Orbán-Regierung.",
+     "link": "https://www.tagesschau.de/ausland/europa/ungarn-bargeldfund-sesztak-100.html",
+     "image": "https://images.tagesschau.de/image/867930c5-6af5-4266-b8ff-96fdefbbb509/AAABodrlKvI/AAABnSSvrFg/16x9-big/sendungsbild-1827536.jpg?width=1920",
+     "aggregator": false,
+     "published": "2026-11-14T16:31:06+00:00"
+    },
+    {
+     "source": "ZDFheute",
+     "region": "DE",
+     "weight": 1.0,
+     "title": "Ermittler finden Millionen Euro bei Ex-Minister",
+     "summary": "In Ungarn wurde bei einer Durchsuchung beim früheren Entwicklungsminister Sesztak Bargeld im Wert von 17,7 Millionen Euro gefunden. Die Durchsuchung war Teil einer Anti-Korruptions-Kampagne.",
+     "link": "https://www.zdfheute.de/video/zdfheute-xpress/ungarn-ex-minister-bargeld-fund-video-100.html",
+     "image": "https://www.zdfheute.de/assets/miklos-sesztak-bargeld-gefunden-100~384x216?cb=1794742209867",
+     "aggregator": false,
+     "published": "2026-11-15T11:54:00+00:00"
+    },
+    {
+     "source": "Deutschlandfunk",
+     "region": "DE",
+     "weight": 0.95,
+     "title": "Nach Orbán - Ermittlungen gegen ehemaligen Minister: Ungarische Behörden finden 17,6 Millionen Euro in bar",
+     "summary": "In Ungarn sind die Behörden weiter gegen mutmaßliche Korruption unter dem früheren Ministerpräsidenten Orbán vorgegangen.",
+     "link": "https://www.deutschlandfunk.de/ermittlungen-gegen-ehemaligen-minister-ungarische-behoerden-finden-17-6-millionen-euro-in-bar-108.html",
+     "image": "https://bilder.deutschlandfunk.de/d5/bb/f2/8e/d5bbf28e-4d2f-4cbe-9ae2-3f059ee0e7b5/ungarn-sesztak-100-1920x1920.jpg",
+     "aggregator": false,
+     "published": "2026-11-15T16:51:16+00:00"
+    },
+    {
+     "source": "SRF News",
+     "region": "CH",
+     "weight": 0.95,
+     "title": "Korruptionsermittlungen – Im Wald vergraben: Ermittler finden in Ungarn Millionen Euro",
+     "summary": "Der Fund verstärkt den Druck auf Orbans angeschlagene Fidesz-Partei.",
+     "link": "https://www.srf.ch/news/international/korruptionsermittlungen-im-wald-vergraben-ermittler-finden-in-ungarn-millionen-euro",
+     "image": "https://www.srf.ch/static/cms/images//320ws/8f457d.webp",
+     "aggregator": false,
+     "published": "2026-11-15T11:51:01+00:00"
+    }
+   ]
+  },
+  {
+   "id": 9,
+   "score": 11.42,
+   "outlets": [
+    "tagesschau",
+    "Deutsche Welle",
+    "NZZ"
+   ],
+   "regions": [
+    "CH",
+    "DE",
+    "INT"
+   ],
+   "trend": [],
+   "newest": "2026-11-15T16:02:28+00:00",
+   "articles": [
+    {
+     "source": "tagesschau",
+     "region": "DE",
+     "weight": 1.0,
+     "title": "Erfolg für SpaceX: Rakete kehrt nach Flug zur Startrampe zurück",
+     "summary": "Erfolg für SpaceX: Rakete kehrt nach Flug zur Startrampe zurück",
+     "link": "https://www.tagesschau.de/video/video-1684100.html",
+     "image": "https://images.tagesschau.de/image/36e24dd4-b663-40f4-ba1e-ca9c4566070c/AAABod5STRI/AAABnSSvrFg/16x9-big/sendungsbild-1827820.jpg?width=1920",
+     "aggregator": false,
+     "published": "2026-11-15T08:29:03+00:00"
+    },
+    {
+     "source": "tagesschau",
+     "region": "DE",
+     "weight": 1.0,
+     "title": "Erfolg für SpaceX: \"Starship\"-Rakete kehrt zur Startrampe zurück",
+     "summary": "Eine Rakete, die wie ein ziviles Flugzeug eingesetzt werden kann, das ist das Ziel von SpaceX. Nun kann das \"Starship\"-System einen Erfolg verbuchen: Erstmals landete die etwa 50 Meter große obere Raketenstufe wieder auf der Erde.",
+     "link": "https://www.tagesschau.de/ausland/amerika/space-x-rakete-rueckkehr-100.html",
+     "image": "https://images.tagesschau.de/image/adcb012d-ef76-4b35-9e82-de8032b4f0b2/AAABod8Asxc/AAABnSSvrFg/16x9-big/space-x-rakete-104.jpg?width=1920",
+     "aggregator": false,
+     "published": "2026-11-14T23:12:16+00:00"
+    },
+    {
+     "source": "tagesschau Ausland",
+     "region": "INT",
+     "weight": 1.0,
+     "title": "Erfolg für SpaceX: \"Starship\"-Rakete kehrt zur Startrampe zurück",
+     "summary": "Eine Rakete, die wie ein ziviles Flugzeug eingesetzt werden kann, das ist das Ziel von SpaceX. Nun kann das \"Starship\"-System einen Erfolg verbuchen: Erstmals landete die etwa 50 Meter große obere Raketenstufe wieder auf der Erde.",
+     "link": "https://www.tagesschau.de/ausland/amerika/space-x-rakete-rueckkehr-100.html",
+     "image": "https://images.tagesschau.de/image/adcb012d-ef76-4b35-9e82-de8032b4f0b2/AAABod8Asxc/AAABnSSvrFg/16x9-big/space-x-rakete-104.jpg?width=1920",
+     "aggregator": false,
+     "published": "2026-11-14T23:12:16+00:00"
+    },
+    {
+     "source": "Deutsche Welle",
+     "region": "INT",
+     "weight": 0.95,
+     "title": "\"Starship\"-Rakete kehrt erstmals nach Flug zur Rampe zurück",
+     "summary": "Das US-Raumfahrtunternehmen SpaceX kann sich über eine historische Premiere freuen - auf dem Weg zu einer vollständig wiederverwendbaren Superrakete. Doch es gab auch einen Rückschlag beim 15. Testflug.",
+     "link": "https://www.dw.com/de/starship-rakete-kehrt-erstmals-nach-flug-zur-rampe-zurück/a-79951426?maca=de-rss-de-all-1119-xml-mrss",
+     "image": "https://static.dw.com/image/79950260_302.jpg",
+     "aggregator": false,
+     "published": "2026-11-15T09:31:00+00:00"
+    },
+    {
+     "source": "NZZ",
+     "region": "CH",
+     "weight": 0.9,
+     "title": "VIDEO - SpaceX fängt die obere Stufe der Starship-Rakete erstmals auf",
+     "summary": "Rund 20 Stunden nach dem Start kehrte das Starship zum Weltraumbahnhof Starbase im US-Bundesstaat Texas zurück und wurde dort von Greifarmen am Startturm aufgefangen. Wie das funktionierte und was dafür alles nötig war lesen Sie hier.",
+     "link": "https://www.nzz.ch/shorts/spacex-faengt-die-obere-stufe-der-starship-rakete-erstmals-auf-ld.10064611",
+     "image": "https://img-msp-prod.nzz.ch/2026/11/14/7c7b763d-3f4a-429c-bf0b-5f694f7ed72c.jpg?width=200&height=200&fit=bounds&quality=75&auto=webp&crop=2430,2430,x608,y0",
+     "aggregator": false,
+     "published": "2026-11-15T16:02:28+00:00"
+    }
+   ]
+  },
+  {
+   "id": 10,
+   "score": 11.29,
+   "outlets": [
+    "Deutschlandfunk",
+    "ORF",
+    "Handelsblatt",
+    "DER STANDARD"
+   ],
+   "regions": [
+    "AT",
+    "DE"
+   ],
+   "trend": [],
+   "newest": "2026-11-15T16:51:16+00:00",
+   "articles": [
+    {
+     "source": "Deutschlandfunk",
+     "region": "DE",
+     "weight": 0.95,
+     "title": "Argentinien - Präsident Milei will für zweite Amtszeit kandidieren",
+     "summary": "Argentiniens Präsident Milei strebt eine zweite Amtszeit an.",
+     "link": "https://www.deutschlandfunk.de/praesident-milei-will-fuer-zweite-amtszeit-kandidieren-100.html",
+     "image": "https://bilder.deutschlandfunk.de/41/96/07/45/41960745-6ffd-4c14-abee-cfc48b6d66d8/milei-argentinien-108-1920x1920.jpg",
+     "aggregator": false,
+     "published": "2026-11-15T16:51:16+00:00"
+    },
+    {
+     "source": "ORF",
+     "region": "AT",
+     "weight": 0.95,
+     "title": "Argentinischer Präsident Milei will wieder kandidieren",
+     "summary": "",
+     "link": "https://orf.at/stories/3448214/",
+     "image": null,
+     "aggregator": false,
+     "published": "2026-11-15T06:49:15+00:00"
+    },
+    {
+     "source": "Handelsblatt",
+     "region": "DE",
+     "weight": 0.9,
+     "title": "Präsidentenwahl 2027: Argentiniens „Kettensägen“-Präsident will wieder kandidieren",
+     "summary": "Javier Milei strebt eine zweite Amtszeit an und rühmt den wirtschaftlichen Aufschwung unter seiner Ägide. Doch die Politik des Staatschefs ist umstritten und bringt erhebliche soziale Härten mit sich.",
+     "link": "https://www.handelsblatt.com/politik/international/praesidentenwahl-2027-argentiniens-kettensaegen-praesident-will-wieder-kandidieren/100269956.html",
+     "image": "https://images.handelsblatt.com/7DGfMby7UiHv/cover/900/506/0/0/107/106/0.5/0.5/vor-der-praesidentenwahl-in-argentinien.jpg",
+     "aggregator": false,
+     "published": "2026-11-15T06:06:49+00:00"
+    },
+    {
+     "source": "DER STANDARD",
+     "region": "AT",
+     "weight": 0.85,
+     "title": "Argentiniens \"Kettensägen\"-Präsident Milei will wieder kandidieren",
+     "summary": "Seine marktradikale Politik brachte Wachstum, aber ein Drittel der Einwohner gilt als arm",
+     "link": "https://www.derstandard.at/story/3000000349270/argentiniens-kettens228gen-pr228sident-milei-will-wieder-kandidieren?ref=rss",
+     "image": "https://i.ds.at/Q2WWWg/rs:fill:150:0/plain/lido-images/2026/11/15/af1d4d4b-7434-44c0-a7c8-41b50bf346fa.jpg",
+     "aggregator": false,
+     "published": "2026-11-15T08:10:25+00:00"
+    }
+   ]
+  },
+  {
+   "id": 11,
+   "score": 11.19,
+   "outlets": [
+    "ZDFheute",
+    "Deutschlandfunk",
+    "DER STANDARD",
+    "n-tv"
+   ],
+   "regions": [
+    "AT",
+    "DE"
+   ],
+   "trend": [],
+   "newest": "2026-11-15T16:51:16+00:00",
+   "articles": [
+    {
+     "source": "ZDFheute",
+     "region": "DE",
+     "weight": 1.0,
+     "title": "Zverev startet mit souveränem Sieg in ATP Finals",
+     "summary": "Alexander Zverev ist perfekt in seine Titelmission bei den ATP Finals gestartet. Der Hamburger Tennisprofi bezwang im ersten Gruppenspiel den spanischen Youngster Rafael Joda.",
+     "link": "https://www.zdfheute.de/sport/tennis-atp-finals-zverev-jodar-100.html",
+     "image": "https://www.zdfheute.de/assets/alexander-zverev-878~384x216?cb=1794753247412",
+     "aggregator": false,
+     "published": "2026-11-15T14:06:47+00:00"
+    },
+    {
+     "source": "Deutschlandfunk",
+     "region": "DE",
+     "weight": 0.95,
+     "title": "Tennis - Alexander Zverev gewinnt Auftaktmatch bei den ATP Finals",
+     "summary": "Tennisprofi Alexander Zverev ist erfolgreich in die ATP Finals in Turin gestartet. Der Weltranglisten-Erste gewann sein Auftaktmatch gegen den Spanier Rafael Jodar.",
+     "link": "https://www.deutschlandfunk.de/alexander-zverev-gewinnt-auftaktmatch-bei-den-atp-finals-100.html",
+     "image": "https://bilder.deutschlandfunk.de/05/80/d3/63/0580d363-d962-45b4-af5e-b435a2f05075/zverev-atp-finals-turin-100-1920x1920.jpg",
+     "aggregator": false,
+     "published": "2026-11-15T16:51:16+00:00"
+    },
+    {
+     "source": "DER STANDARD",
+     "region": "AT",
+     "weight": 0.85,
+     "title": "Erster Sieg als Nummer eins: Zverev startet stark in die ATP Finals",
+     "summary": "Der Deutsche bezwang Rafael Jódar mit 6:4, 6:4. Er strebt nach seinem dritten Titel beim Jahresendturnier",
+     "link": "https://www.derstandard.at/story/3000000349323/erster-sieg-als-nummer-eins-zverev-startet-stark-in-die-atp-finals?ref=rss",
+     "image": "https://i.ds.at/cA26Hw/rs:fill:150:0/plain/lido-images/2026/11/15/5647906a-26c7-40a2-8608-822c8a4e9392.jpg",
+     "aggregator": false,
+     "published": "2026-11-15T15:05:05+00:00"
+    },
+    {
+     "source": "n-tv",
+     "region": "DE",
+     "weight": 0.8,
+     "title": "Auftakterfolg bei ATP Finals : Zverev feiert vor den Augen von Becker den ersten Sieg als Nummer eins",
+     "summary": "Deutschlands Tennisstar Alexander Zverev wirkt zuletzt etwas müde. Doch zum Start in die ATP Finals ist die Nummer eins der Welt voll da und startet mit einem Sieg ins Turnier.",
+     "link": "https://www.n-tv.de/sport/tennis/Zverev-feiert-vor-den-Augen-von-Becker-den-ersten-Sieg-als-Nummer-eins-id31535996.html",
+     "image": "https://www.n-tv.de/img/31536185/1794759001/Img_4_3/250/image.jpg",
+     "aggregator": false,
+     "published": "2026-11-15T16:00:28+00:00"
+    }
+   ]
+  },
+  {
+   "id": 12,
+   "score": 10.99,
+   "outlets": [
+    "Deutschlandfunk",
+    "Handelsblatt",
+    "DER STANDARD",
+    "n-tv"
+   ],
+   "regions": [
+    "AT",
+    "DE"
+   ],
+   "trend": [],
+   "newest": "2026-11-15T16:51:16+00:00",
+   "articles": [
+    {
+     "source": "Deutschlandfunk",
+     "region": "DE",
+     "weight": 0.95,
+     "title": "Cyberangriff - Millionen Adressdaten bei Postdienstleister in Frankreich abgegriffen",
+     "summary": "In Frankreich sind bei einem Cyberangriff auf einen Postdienstleister Millionen Adressdaten gestohlen worden.",
+     "link": "https://www.deutschlandfunk.de/millionen-adressdaten-bei-postdienstleister-in-frankreich-abgegriffen-106.html",
+     "image": "https://bilder.deutschlandfunk.de/7e/09/d5/fe/7e09d5fe-8d43-4109-84ac-da6ee1a6f963/maileva-post-frankreich-100-1920x1920.jpg",
+     "aggregator": false,
+     "published": "2026-11-15T16:51:16+00:00"
+    },
+    {
+     "source": "Handelsblatt",
+     "region": "DE",
+     "weight": 0.9,
+     "title": "Cyberangriff: Hacker stehlen in Frankreich Daten von 22 Millionen Menschen",
+     "summary": "Es ist eine der größten Cyberattacken des Landes: Bereits im September wurde eine Tochterfirma der französischen Post Opfer eines Hackerangriffs.",
+     "link": "https://www.handelsblatt.com/unternehmen/dienstleister/cyberangriff-hacker-stehlen-in-frankreich-daten-von-22-millionen-menschen/100270012.html",
+     "image": "https://images.handelsblatt.com/ma5jSOP6dTzO/cover/900/506/0/0/378/378/0.5/0.5/archiv-26.05.2025-frankreich-paris-das-logo-der-franzoesischen-post-haengt-an-einer-filiale-daru.jpg",
+     "aggregator": false,
+     "published": "2026-11-15T14:03:20+00:00"
+    },
+    {
+     "source": "DER STANDARD",
+     "region": "AT",
+     "weight": 0.85,
+     "title": "Bei Cyberangriff in Frankreich 22 Millionen Adressdaten gestohlen",
+     "summary": "Maileva, eine Tochtergesellschaft der französischen Post, ist Opfer eines großangelegten Cyberangriffs geworden. Die Ermittlungen laufen",
+     "link": "https://www.derstandard.at/story/3000000349311/bei-cyberangriff-in-frankreich-22-millionen-adressdaten-gestohlen?ref=rss",
+     "image": "https://i.ds.at/vxzG5w/rs:fill:150:0/plain/lido-images/2026/11/15/7d43bdd8-7518-46c2-8961-b32ff1dcbb9b.jpg",
+     "aggregator": false,
+     "published": "2026-11-15T13:19:23+00:00"
+    },
+    {
+     "source": "n-tv",
+     "region": "DE",
+     "weight": 0.8,
+     "title": "Tochterunternehmen der Post: Daten von 22 Millionen Menschen bei Cyberangriff in Frankreich geklaut",
+     "summary": "Es könnte sich um einen der größten Cyberangriffe in der Geschichte Frankreichs handeln: Bei einem Angriff auf eine Tochterfirma der französischen Post werden Daten von 22 Millionen Menschen geklaut. Unklar ist, ob auch außerhalb Frankreichs Menschen betroffen sind.",
+     "link": "https://www.n-tv.de/panorama/Daten-von-22-Millionen-Menschen-bei-Cyberangriff-in-Frankreich-geklaut-id31536015.html",
+     "image": "https://www.n-tv.de/img/31536011/1794754285/Img_4_3/250/AFP__20260730__C3K727T__v2__HighRes__FranceEconomyDelivery.jpg",
+     "aggregator": false,
+     "published": "2026-11-15T14:36:17+00:00"
+    }
+   ]
+  },
+  {
+   "id": 13,
+   "score": 10.69,
+   "outlets": [
+    "ZDFheute",
+    "Deutschlandfunk",
+    "SPIEGEL"
+   ],
+   "regions": [
+    "DE"
+   ],
+   "trend": [],
+   "newest": "2026-11-15T16:51:16+00:00",
+   "articles": [
+    {
+     "source": "ZDFheute",
+     "region": "DE",
+     "weight": 1.0,
+     "title": "Gen Z protestiert erneut - mit deutlich weniger Teilnehmern",
+     "summary": "In mehreren Städten haben am Samstag erneut junge Menschen demonstriert. Die Teilnehmerzahlen waren dabei deutlich kleiner als noch vor zwei Wochen. In Berlin kam es zu Festnahmen.",
+     "link": "https://www.zdfheute.de/politik/deutschland/genz-z-demonstration-weniger-teilnehmer-100.html",
+     "image": "https://www.zdfheute.de/assets/proteste-gen-z-berlin-100~384x216?cb=1794732565887",
+     "aggregator": false,
+     "published": "2026-11-15T09:15:00+00:00"
+    },
+    {
+     "source": "Deutschlandfunk",
+     "region": "DE",
+     "weight": 0.95,
+     "title": "Gen-Z-Proteste - Überschaubare Teilnehmerzahlen bei erneuten Kundgebungen",
+     "summary": "Nach den großen Gen-Z-Protesten vor zwei Wochen sind bei erneuten Demonstrationen gestern weniger junge Menschen auf die Straße gegangen.",
+     "link": "https://www.deutschlandfunk.de/ueberschaubare-teilnehmerzahlen-bei-erneuten-kundgebungen-102.html",
+     "image": "https://bilder.deutschlandfunk.de/7b/fe/a8/81/7bfea881-65f9-470b-b1a3-5b8edcf1de74/gen-z-demo-100-1920x1920.jpg",
+     "aggregator": false,
+     "published": "2026-11-15T16:51:16+00:00"
+    },
+    {
+     "source": "SPIEGEL",
+     "region": "DE",
+     "weight": 0.9,
+     "title": "»Gen Z regelt«: Deutlich weniger Teilnehmer bei neuen Jugendprotesten",
+     "summary": "Die erneuten Gen-Z-Proteste am Samstag haben an Zulauf verloren. Meist blieb es friedlich, nur in Berlin gab es 22 Festnahmen. Am Freitag soll ein europaweiter Jugendstreik folgen.",
+     "link": "https://www.spiegel.de/panorama/gen-z-regelt-proteste-weniger-zulauf-22-festnahmen-in-berlin-a-bd129e26-8004-4562-a07a-ecee3e5ea39d#ref=rss",
+     "image": "https://cdn.prod.www.spiegel.de/images/3298d088-4262-4c57-a443-8b0145025442_w520_r2.08_fpx60.75_fpy50.jpg",
+     "aggregator": false,
+     "published": "2026-11-15T11:41:00+00:00"
+    }
+   ]
+  },
+  {
+   "id": 14,
+   "score": 10.3,
+   "outlets": [
+    "ZDFheute",
+    "SRF News",
+    "heise online",
+    "DER STANDARD"
+   ],
+   "regions": [
+    "AT",
+    "CH",
+    "DE"
+   ],
+   "trend": [],
+   "newest": "2026-11-15T07:42:00+00:00",
+   "articles": [
+    {
+     "source": "ZDFheute",
+     "region": "DE",
+     "weight": 1.0,
+     "title": "SpaceX fängt erstmals Starship-Rakete nach Flug wieder auf",
+     "summary": "Zum ersten Mal ist dem privaten Raumfahrtunternehmen SpaceX die erfolgreiche Landung einer großen Spaceship-Rakete im Greifarm geglückt. Zuvor lief nicht alles reibungslos.",
+     "link": "https://www.zdfheute.de/video/spacex-landung-rakete-greifarm-starship-100.html",
+     "image": "https://www.zdfheute.de/assets/spacex-landung-starship-100~384x216?cb=1794729194066",
+     "aggregator": false,
+     "published": "2026-11-15T07:40:00+00:00"
+    },
+    {
+     "source": "ZDFheute",
+     "region": "DE",
+     "weight": 1.0,
+     "title": "SpaceX fängt Starship-Rakete mit Greifarm auf",
+     "summary": "Spektakuläre Bilder von Elon Musks Raketenfirma SpaceX: In Texas fängt ein Greifarm einen Teil der Starship-Rakete bei der Landung auf. Kurz zuvor gab es noch einen Rückschlag.",
+     "link": "https://www.zdfheute.de/wirtschaft/unternehmen/space-x-rakete-greifarm-landung-elon-musk-texas-starship-100.html",
+     "image": "https://www.zdfheute.de/assets/spacex-rakete-flug15-100~384x216?cb=1794692641538",
+     "aggregator": false,
+     "published": "2026-11-15T07:42:00+00:00"
+    },
+    {
+     "source": "SRF News",
+     "region": "CH",
+     "weight": 0.95,
+     "title": "US-Raumfahrtunternehmen SpaceX – SpaceX fängt Starship-Rakete erstmals mit Greifarmen auf",
+     "summary": "Erstmals fing SpaceX die obere Raketenstufe des Raketensystems Starship nach einem Flug ins All am Startturm auf.",
+     "link": "https://www.srf.ch/news/international/us-raumfahrtunternehmen-spacex-spacex-faengt-starship-rakete-erstmals-mit-greifarmen-auf",
+     "image": "https://www.srf.ch/static/cms/images//320ws/d63e83.webp",
+     "aggregator": false,
+     "published": "2026-11-15T02:44:33+00:00"
+    },
+    {
+     "source": "heise online",
+     "region": "DE",
+     "weight": 0.85,
+     "title": "SpaceX fängt erstmals Starship nach Flug in der Erdumlaufbahn wieder auf",
+     "summary": "Nach 22 Stunden in der Erdumlaufbahn ist ein Starship zum Startplatz zurückgekehrt und wurde dort von zwei Greifarmen aufgefangen. Zuvor lief nicht alles rund.",
+     "link": "https://www.heise.de/news/SpaceX-faengt-erstmals-Starship-nach-Flug-in-der-Erdumlaufbahn-wieder-auf-11525437.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
+     "image": null,
+     "aggregator": false,
+     "published": "2026-11-14T22:29:00+00:00"
+    },
+    {
+     "source": "DER STANDARD",
+     "region": "AT",
+     "weight": 0.85,
+     "title": "SpaceX fängt Riesen-Rakete Starship erstmals wieder auf",
+     "summary": "Zuvor hatte es einen Rückschlag für das Raumfahrtunternehmen von Elon Musk gegeben",
+     "link": "https://www.derstandard.at/story/3000000349258/spacex-f228ngt-riesen-rakete-starship-erstmals-wieder-auf?ref=rss",
+     "image": "https://i.ds.at/v7WV3A/rs:fill:150:0/plain/lido-images/2026/11/14/c4d11de7-c099-4a03-b488-e7fd5f646b0e.jpg",
+     "aggregator": false,
+     "published": "2026-11-14T21:48:47+00:00"
+    }
+   ]
+  },
+  {
+   "id": 15,
+   "score": 9.94,
+   "outlets": [
+    "ZDFheute",
+    "Deutsche Welle",
+    "SRF News",
+    "Handelsblatt"
+   ],
+   "regions": [
+    "CH",
+    "DE",
+    "INT"
+   ],
+   "trend": [],
+   "newest": "2026-11-15T11:54:00+00:00",
+   "articles": [
+    {
+     "source": "ZDFheute",
+     "region": "DE",
+     "weight": 1.0,
+     "title": "Proteste bei Klimakonferenz in der Türkei",
+     "summary": "Tausende Menschen gingen zur Halbzeit der Klimakonferenz in Antalya auf die Straße. Sie fordern den Schutz von Menschenrechte und Klima. Große Proteste sind in der Türkei selten.",
+     "link": "https://www.zdfheute.de/video/klima-proteste-tuerkei-100.html",
+     "image": "https://www.zdfheute.de/assets/proteste-klima-tuerkei-100~384x216?cb=1794686516899",
+     "aggregator": false,
+     "published": "2026-11-14T20:01:00+00:00"
+    },
+    {
+     "source": "ZDFheute",
+     "region": "DE",
+     "weight": 1.0,
+     "title": "Türkei: Tausende demonstrieren für Klima und Menschenrechte",
+     "summary": "Während der Klimakonferenz sind im türkischen Antalya tausende Menschen auf die Straße gegangen. Die Opposition nutzte eine seltene Gelegenheit zum Protest gegen die Regierung.",
+     "link": "https://www.zdfheute.de/politik/ausland/tuerkei-antalya-demo-klimaschutz-menschenrechte-100.html",
+     "image": "https://www.zdfheute.de/assets/demonstration-cop31-antalya-100~384x216?cb=1794668935389",
+     "aggregator": false,
+     "published": "2026-11-14T15:25:00+00:00"
+    },
+    {
+     "source": "Deutsche Welle",
+     "region": "INT",
+     "weight": 0.95,
+     "title": "Türkei: Tausende protestieren am Rande der COP31 in Antalya",
+     "summary": "Die Weltklimakonferenz in der Türkei bietet auch eine seltene Gelegenheit für Kritik am Staatsapparat. Tausende Menschen gehen auf die Straße - auch mit Regenbogenflaggen oder als Eisbär verkleidet.",
+     "link": "https://www.dw.com/de/türkei-tausende-protestieren-am-rande-der-cop31-in-antalya/a-79951855?maca=de-rss-de-all-1119-xml-mrss",
+     "image": "https://static.dw.com/image/79951696_302.jpg",
+     "aggregator": false,
+     "published": "2026-11-15T11:54:00+00:00"
+    },
+    {
+     "source": "SRF News",
+     "region": "CH",
+     "weight": 0.95,
+     "title": "Mehr als 10'000 Menschen – Regenbogen statt Razzien: Tausende demonstrieren in der Türkei",
+     "summary": "Tausende nutzen den Klimagipfel in Antalya für Kritik an der türkischen Regierung.",
+     "link": "https://www.srf.ch/news/international/mehr-als-10-000-menschen-regenbogen-statt-razzien-tausende-demonstrieren-in-der-tuerkei",
+     "image": "https://www.srf.ch/static/cms/images//320ws/c82a29.webp",
+     "aggregator": false,
+     "published": "2026-11-15T10:12:07+00:00"
+    },
+    {
+     "source": "Handelsblatt",
+     "region": "DE",
+     "weight": 0.9,
+     "title": "Klimakonferenz: Regenbogen trotz Razzien – Tausende demonstrieren in Türkei",
+     "summary": "Regenbogenflaggen und Eisbärenkostüme: Zur Klimakonferenz gehen in der Türkei Tausende auf die Straße. Der Protest bietet auch eine seltene Gelegenheit für Kritik an der Regierung.",
+     "link": "https://www.handelsblatt.com/politik/international/klimakonferenz-regenbogen-trotz-razzien-tausende-demonstrieren-in-tuerkei/100269991.html",
+     "image": "https://images.handelsblatt.com/LNa29CmFMfPP/cover/900/506/0/0/0/595/0.5/0.5/14.11.2026-tuerkei-antalya-ein-demonstrant-schwenkt-eine-regenbogenflagge-fuer-queere-menschen-bei.jpg",
+     "aggregator": false,
+     "published": "2026-11-15T09:43:13+00:00"
+    }
+   ]
+  },
+  {
+   "id": 16,
+   "score": 9.69,
+   "outlets": [
+    "tagesschau",
+    "Deutschlandfunk",
+    "Handelsblatt"
+   ],
+   "regions": [
+    "DE"
+   ],
+   "trend": [],
+   "newest": "2026-11-15T16:51:16+00:00",
+   "articles": [
+    {
+     "source": "tagesschau",
+     "region": "DE",
+     "weight": 1.0,
+     "title": "Mehr als 200 Festnahmen: Proteste in Frankreich dauern an",
+     "summary": "Mehr als 200 Festnahmen: Proteste in Frankreich dauern an",
+     "link": "https://www.tagesschau.de/video/video-1684098.html",
+     "image": "https://images.tagesschau.de/image/06e457f1-76e8-44be-a80c-2802370cdccc/AAABod5LR3A/AAABnSSvrFg/16x9-big/sendungsbild-1827812.jpg?width=1920",
+     "aggregator": false,
+     "published": "2026-11-15T08:20:51+00:00"
+    },
+    {
+     "source": "Deutschlandfunk",
+     "region": "DE",
+     "weight": 0.95,
+     "title": "Demonstrationen - Mehr als 200 Festnahmen bei Protesten in Frankreich",
+     "summary": "In Frankreich sind bei Protesten gegen die Regierung mehr als 200 Menschen festgenommen worden.",
+     "link": "https://www.deutschlandfunk.de/mehr-als-200-festnahmen-bei-protesten-in-frankreich-104.html",
+     "image": "https://bilder.deutschlandfunk.de/84/68/95/39/84689539-402e-48ea-9d16-787384e48bdf/frankreich-proteste-122-1920x1920.jpg",
+     "aggregator": false,
+     "published": "2026-11-15T16:51:16+00:00"
+    },
+    {
+     "source": "Handelsblatt",
+     "region": "DE",
+     "weight": 0.9,
+     "title": "Hohe Lebenshaltungskosten: 200 Festnahmen bei Protesten in Frankreich",
+     "summary": "Seit Wochen demonstrieren Menschen in Frankreich gegen hohe Kosten. Erneut gehen nun weniger auf die Straße. Reißt der Protest ab?",
+     "link": "https://www.handelsblatt.com/politik/international/hohe-lebenshaltungskosten-200-festnahmen-bei-protesten-in-frankreich/100269934.html",
+     "image": "https://images.handelsblatt.com/8Fl-X5V7ayF7/cover/900/506/0/0/107/106/0.5/0.5/proteste-in-frankreich.jpg",
+     "aggregator": false,
+     "published": "2026-11-14T19:02:22+00:00"
+    }
+   ]
+  },
+  {
+   "id": 17,
+   "score": 9.69,
+   "outlets": [
+    "tagesschau",
+    "Deutschlandfunk",
+    "SPIEGEL"
+   ],
+   "regions": [
+    "DE"
+   ],
+   "trend": [],
+   "newest": "2026-11-15T16:51:16+00:00",
+   "articles": [
+    {
+     "source": "tagesschau",
+     "region": "DE",
+     "weight": 1.0,
+     "title": "Krise im Handwerk: \"Stilles Sterben der Betriebe\"",
+     "summary": "Weniger Aufträge, steigende Kosten: Handwerkspräsident Dittrich warnt davor, dass die Branche bis zu 80.000 Arbeitsplätze pro Jahr verlieren könnte - wenn nicht gegengesteuert wird.",
+     "link": "https://www.tagesschau.de/wirtschaft/unternehmen/handwerk-krise-100.html",
+     "image": "https://images.tagesschau.de/image/d7cefaf8-7d0b-4ccb-aa03-c8ee9fd7e43a/AAABod60Vw0/AAABnSSvrFg/16x9-big/backstube-104.jpg?width=1920",
+     "aggregator": false,
+     "published": "2026-11-15T11:15:26+00:00"
+    },
+    {
+     "source": "tagesschau Wirtschaft",
+     "region": "DE",
+     "weight": 1.0,
+     "title": "Krise im Handwerk: \"Stilles Sterben der Betriebe\"",
+     "summary": "Weniger Aufträge, steigende Kosten: Handwerkspräsident Dittrich warnt davor, dass die Branche bis zu 80.000 Arbeitsplätze pro Jahr verlieren könnte - wenn nicht gegengesteuert wird.",
+     "link": "https://www.tagesschau.de/wirtschaft/unternehmen/handwerk-krise-100.html",
+     "image": "https://images.tagesschau.de/image/d7cefaf8-7d0b-4ccb-aa03-c8ee9fd7e43a/AAABod60Vw0/AAABnSSvrFg/16x9-big/backstube-104.jpg?width=1920",
+     "aggregator": false,
+     "published": "2026-11-15T11:15:26+00:00"
+    },
+    {
+     "source": "Deutschlandfunk",
+     "region": "DE",
+     "weight": 0.95,
+     "title": "Wirtschaft - Handwerkspräsident Dittrich: Krise verschärft sich",
+     "summary": "Die Krise im Handwerk verschärft sich nach Angaben von Handwerkspräsident Dittrich.",
+     "link": "https://www.deutschlandfunk.de/handwerkspraesident-dittrich-krise-verschaerft-sich-102.html",
+     "image": "https://bilder.deutschlandfunk.de/98/8c/e7/62/988ce762-cdc4-4b1c-9e64-9617c3d8efbd/zdh-dittrich-100-1920x1920.jpg",
+     "aggregator": false,
+     "published": "2026-11-15T16:51:16+00:00"
+    },
+    {
+     "source": "SPIEGEL",
+     "region": "DE",
+     "weight": 0.9,
+     "title": "Wirtschaftskrise in Deutschland: Handwerk warnt vor »stillem Sterben der Betriebe«",
+     "summary": "Hohe Kosten und fehlende Bauaufträge setzen vielen Handwerkern zu, sagt Verbandschef Jörg Dittrich. Allein in den vergangenen zwei Jahren seien so 150.000 Arbeitsplätze weggefallen, Tendenz: steigend.",
+     "link": "https://www.spiegel.de/wirtschaft/unternehmen/handwerk-warnt-vor-stillem-sterben-der-betriebe-a-8ae8249b-be4e-467e-b6c8-dce66525f1e0#ref=rss",
+     "image": "https://cdn.prod.www.spiegel.de/images/169f9015-ef4c-47ca-8733-050e48699de2_w520_r2.08_fpx41.3_fpy50.jpg",
+     "aggregator": false,
+     "published": "2026-11-15T08:52:00+00:00"
+    }
+   ]
+  },
+  {
+   "id": 18,
+   "score": 9.69,
+   "outlets": [
+    "tagesschau",
+    "Deutschlandfunk",
+    "SPIEGEL"
+   ],
+   "regions": [
+    "DE"
+   ],
+   "trend": [],
+   "newest": "2026-11-15T16:51:16+00:00",
+   "articles": [
+    {
+     "source": "tagesschau",
+     "region": "DE",
+     "weight": 1.0,
+     "title": "Schafszug in Nürnberg,Wu-Tang Clan in der Rock & Roll Hall of Fame, Benzinknappheit in Taiz",
+     "summary": "Schafszug in Nürnberg,Wu-Tang Clan in der Rock & Roll Hall of Fame, Benzinknappheit in Taiz",
+     "link": "https://www.tagesschau.de/multimedia/bilder/blickpunkte-10568.html",
+     "image": "https://images.tagesschau.de/image/ceee942e-aa0f-4ac6-a9d6-c461b7fce809/AAABod7moFo/AAABnSSvrFg/16x9-big/schafszug-nuernberg-100.jpg?width=1920",
+     "aggregator": false,
+     "published": "2026-11-15T11:20:18+00:00"
+    },
+    {
+     "source": "Deutschlandfunk",
+     "region": "DE",
+     "weight": 0.95,
+     "title": "Los Angeles - 18 neue Namen für die Rock & Roll Hall of Fame",
+     "summary": "Die Rock & Roll Hall of Fame hat im Peacock Theater in Los Angeles weitere 18 musikalische Größen aufgenommen. Geehrt wurden die Künstler bei einem Festakt mit zahlreichen Live-Auftritten und vielen emotionalen Momenten.",
+     "link": "https://www.deutschlandfunk.de/18-neue-namen-fuer-die-rock-roll-hall-of-fame-102.html",
+     "image": "https://bilder.deutschlandfunk.de/30/39/86/1e/3039861e-6157-49ab-98ab-4fc73de0e637/phil-collins-hall-of-fame-100-1920x1920.jpg",
+     "aggregator": false,
+     "published": "2026-11-15T16:51:16+00:00"
+    },
+    {
+     "source": "SPIEGEL",
+     "region": "DE",
+     "weight": 0.9,
+     "title": "Rock ’n’ Roll Hall of Fame: Emotionaler Auftritt von Phil Collins in Los Angeles",
+     "summary": "Mit Genesis ist Phil Collins schon Mitglied der Rock ’n’ Roll Hall of Fame, jetzt wurde er auch als Solokünstler aufgenommen. Sein Auftritt war der bewegende Höhepunkt der Gala in Los Angeles.",
+     "link": "https://www.spiegel.de/kultur/musik/phil-collins-musiker-als-solokuenstler-in-rock-roll-hall-of-fame-aufgenommen-a-391cb5ee-b14c-4d66-9434-06448be93b75#ref=rss",
+     "image": "https://cdn.prod.www.spiegel.de/images/98af5b7f-51a3-4f5b-8ddd-f11364608b5f_w520_r2.08_fpx34.12_fpy50.jpg",
+     "aggregator": false,
+     "published": "2026-11-15T11:48:00+00:00"
+    }
+   ]
+  },
+  {
+   "id": 19,
+   "score": 9.69,
+   "outlets": [
+    "Deutschlandfunk",
+    "Handelsblatt"
+   ],
+   "regions": [
+    "DE"
+   ],
+   "trend": [],
+   "newest": "2026-11-15T16:51:16+00:00",
+   "articles": [
+    {
+     "source": "Deutschlandfunk",
+     "region": "DE",
+     "weight": 0.95,
+     "title": "Raumfahrt - SpaceX fängt Starship-Rakete erstmals wieder auf",
+     "summary": "Dem US-Raumfahrtunternehmen SpaceX ist es erstmals gelungen, die obere Stufe der Riesenrakete Starship bei ihrer Rückkehr zur Erde aufzufangen.",
+     "link": "https://www.deutschlandfunk.de/spacex-faengt-starship-rakete-erstmals-wieder-auf-102.html",
+     "image": "https://bilder.deutschlandfunk.de/5b/6a/1d/7b/5b6a1d7b-3c9a-4a94-a082-bcf7f9fa1d02/spacex-rakete-100-1920x1920.jpg",
+     "aggregator": false,
+     "published": "2026-11-15T16:51:16+00:00"
+    },
+    {
+     "source": "Handelsblatt",
+     "region": "DE",
+     "weight": 0.9,
+     "title": "Raumfahrt: SpaceX fängt Riesen-Rakete Starship erstmals wieder auf",
+     "summary": "Mit dem größten je gebauten Raketensystem der Raumfahrtgeschichte will Elon Musk den Mars erschließen. Jetzt hat das Starship erneut einen Testflug absolviert - mit einem Erfolg und einem Rückschlag.",
+     "link": "https://www.handelsblatt.com/technik/forschung-innovation/raumfahrt-spacex-faengt-riesen-rakete-starship-erstmals-wieder-auf/100269942.html",
+     "image": "https://images.handelsblatt.com/w1zAy0uZ6MYL/cover/900/506/0/0/107/106/0.5/0.5/testflug-spacex-starship.jpg",
+     "aggregator": false,
+     "published": "2026-11-14T23:34:57+00:00"
+    },
+    {
+     "source": "Handelsblatt",
+     "region": "DE",
+     "weight": 0.9,
+     "title": "Raumfahrt: SpaceX fängt Riesen-Rakete Starship erstmals wieder auf",
+     "summary": "Mit dem größten je gebauten Raketensystem der Raumfahrtgeschichte will Elon Musk den Mars erschließen. Jetzt hat das Starship erneut einen Testflug absolviert – mit einem Rückschlag und einem Erfolg.",
+     "link": "https://www.handelsblatt.com/technik/raumfahrt-spacex-faengt-riesen-rakete-starship-erstmals-wieder-auf/100269941.html",
+     "image": "https://images.handelsblatt.com/-yBQdLzwltnu/cover/900/506/0/0/232/231/0.5/0.5/spacex-starship-42-returns-from-orbit-to-the-launch-pad-on-the-15th-test-flight-from-the-spacex-laun.jpg",
+     "aggregator": false,
+     "published": "2026-11-14T21:39:22+00:00"
+    }
+   ]
+  },
+  {
+   "id": 20,
+   "score": 9.59,
+   "outlets": [
+    "tagesschau",
+    "Deutschlandfunk",
+    "DER STANDARD"
+   ],
+   "regions": [
+    "AT",
+    "DE",
+    "INT"
+   ],
+   "trend": [],
+   "newest": "2026-11-15T16:51:16+00:00",
+   "articles": [
+    {
+     "source": "tagesschau",
+     "region": "DE",
+     "weight": 1.0,
+     "title": "Israelischer Angriff im Gazastreifen: Ranghoher Hamas-Kommandeur tot",
+     "summary": "Die israelische Armee hat im Gazastreifen einen ranghohen Kommandeur der Hamas getötet. Samir Abu Junis soll einer der wichtigsten Köpfe bei der Planung der Attacke auf Israel am 7. Oktober 2023 gewesen sein. Die Hamas bestätigte seinen Tod.",
+     "link": "https://www.tagesschau.de/ausland/asien/hamas-kommandeur-gazastreifen-getoetet-100.html",
+     "image": "https://images.tagesschau.de/image/e3f6ce26-a53c-4ebc-a5db-d36b67c80c1a/AAABod8TJPM/AAABnSSvrFg/16x9-big/abu-younis-100.jpg?width=1920",
+     "aggregator": false,
+     "published": "2026-11-15T12:46:16+00:00"
+    },
+    {
+     "source": "tagesschau Ausland",
+     "region": "INT",
+     "weight": 1.0,
+     "title": "Israelischer Angriff im Gazastreifen: Ranghoher Hamas-Kommandeur tot",
+     "summary": "Die israelische Armee hat im Gazastreifen einen ranghohen Kommandeur der Hamas getötet. Samir Abu Junis soll einer der wichtigsten Köpfe bei der Planung der Attacke auf Israel am 7. Oktober 2023 gewesen sein. Die Hamas bestätigte seinen Tod.",
+     "link": "https://www.tagesschau.de/ausland/asien/hamas-kommandeur-gazastreifen-getoetet-100.html",
+     "image": "https://images.tagesschau.de/image/e3f6ce26-a53c-4ebc-a5db-d36b67c80c1a/AAABod8TJPM/AAABnSSvrFg/16x9-big/abu-younis-100.jpg?width=1920",
+     "aggregator": false,
+     "published": "2026-11-15T12:46:16+00:00"
+    },
+    {
+     "source": "Deutschlandfunk",
+     "region": "DE",
+     "weight": 0.95,
+     "title": "Gazastreifen - Ranghoher Hamas-Kommandeur bei Luftangriff getötet",
+     "summary": "Das israelische Militär hat einen ranghohen Kommandeur der Hamas im Gazastreifen getötet.",
+     "link": "https://www.deutschlandfunk.de/ranghoher-hamas-kommandeur-bei-luftangriff-getoetet-116.html",
+     "image": "https://bilder.deutschlandfunk.de/e1/06/7d/e2/e1067de2-6230-41ae-943b-92085b1ff504/die-nachrichten-kachel-2176-zu1224-100-768x768.jpg",
+     "aggregator": false,
+     "published": "2026-11-15T16:51:16+00:00"
+    },
+    {
+     "source": "DER STANDARD",
+     "region": "AT",
+     "weight": 0.85,
+     "title": "Hamas-Kommandant bei israelischem Angriff in Gaza getötet",
+     "summary": "Samir Abu Younis befehligte die Rafah-Brigade im Süden des Gazastreifens",
+     "link": "https://www.derstandard.at/story/3000000349276/nahost-hamas-kommandant-bei-israelischem-angriff-in-gaza-get246tet?ref=rss",
+     "image": "https://i.ds.at/GS9gEg/rs:fill:150:0/plain/lido-images/2026/11/15/82878f21-e0aa-4462-9a09-7f08936b6513.jpg",
+     "aggregator": false,
+     "published": "2026-11-15T09:04:54+00:00"
+    }
+   ]
+  },
+  {
+   "id": 21,
+   "score": 9.49,
+   "outlets": [
+    "Deutschlandfunk",
+    "Handelsblatt",
+    "NZZ"
+   ],
+   "regions": [
+    "CH",
+    "DE"
+   ],
+   "trend": [],
+   "newest": "2026-11-15T16:51:16+00:00",
+   "articles": [
+    {
+     "source": "Deutschlandfunk",
+     "region": "DE",
+     "weight": 0.95,
+     "title": "Berichte - USA verlieren Status als masernfreies Land",
+     "summary": "Die USA stehen vor der Aberkennung ihres Status als masernfreies Land.",
+     "link": "https://www.deutschlandfunk.de/usa-verlieren-status-als-masernfreies-land-100.html",
+     "image": "https://bilder.deutschlandfunk.de/35/bc/0a/70/35bc0a70-23d3-4dcd-bc00-fcf9e236347b/masern-impfung-usa-kind-tot-100-1920x1920.jpg",
+     "aggregator": false,
+     "published": "2026-11-15T16:51:16+00:00"
+    },
+    {
+     "source": "Handelsblatt",
+     "region": "DE",
+     "weight": 0.9,
+     "title": "Dauerhaft Infektionsketten: USA verlieren Status „masernfrei“ - Wie ernst ist die Lage?",
+     "summary": "Deutschland war noch nie offiziell als frei von Masern eingestuft. Die USA hingegen können sich damit seit mehr als 25 Jahren rühmen. Nun aber wird der Status wohl aberkannt. Was heißt das?",
+     "link": "https://www.handelsblatt.com/technik/forschung-innovation/dauerhaft-infektionsketten-usa-verlieren-status-masernfrei-wie-ernst-ist-die-lage/100269983.html",
+     "image": "https://images.handelsblatt.com/ShwohCIXtFCr/cover/900/506/0/0/107/107/0.5/0.5/usa-verlieren-status-masernfrei-wie-schlimm-ist-die-lage.jpg",
+     "aggregator": false,
+     "published": "2026-11-15T08:22:33+00:00"
+    },
+    {
+     "source": "Handelsblatt",
+     "region": "DE",
+     "weight": 0.9,
+     "title": "Gesundheitspolitik: Medien: USA verlieren Status als masernfreies Land",
+     "summary": "Mehr als 25 Jahre lang galten die USA als masernfrei. Nun soll das Land diesen Status verlieren, heißt es in Medienberichten. Grund dafür sind anhaltende Ausbrüche der hochansteckenden Krankheit.",
+     "link": "https://www.handelsblatt.com/technik/forschung-innovation/gesundheitspolitik-medien-usa-verlieren-status-als-masernfreies-land/100269935.html",
+     "image": "https://images.handelsblatt.com/AYvD8S0RZ7iT/cover/900/506/0/0/107/107/0.5/0.5/medien-usa-verlieren-status-als-masernfreies-land.jpg",
+     "aggregator": false,
+     "published": "2026-11-14T19:03:32+00:00"
+    },
+    {
+     "source": "NZZ",
+     "region": "CH",
+     "weight": 0.9,
+     "title": "Die USA verlieren laut Medienberichten den Status «masernfrei»",
+     "summary": "Das Masernvirus sei das ansteckendste Virus der Welt, sagt der Chef der Weltgesundheitsorganisation.",
+     "link": "https://www.nzz.ch/panorama/usa-verlieren-status-masernfrei-ld.10064426",
+     "image": "https://img-msp-prod.nzz.ch/2026/11/01/d7325230-2b65-40a9-8163-3c6661ea0cdf.jpg?width=200&height=200&fit=bounds&quality=75&auto=webp&crop=2560,2560,x640,y0",
+     "aggregator": false,
+     "published": "2026-11-15T08:47:19+00:00"
+    }
+   ]
+  },
+  {
+   "id": 22,
+   "score": 9.36,
+   "outlets": [
+    "Deutsche Welle",
+    "heise online"
+   ],
+   "regions": [
+    "DE",
+    "INT"
+   ],
+   "trend": [],
+   "newest": "2026-11-15T16:09:00+00:00",
+   "articles": [
+    {
+     "source": "Deutsche Welle",
+     "region": "INT",
+     "weight": 0.95,
+     "title": "Nvidia-Chef Jensen Huang tritt nach Affären zurück",
+     "summary": "Der CEO des wichtigsten Herstellers für KI-Prozessoren räumt seinen Stuhl. Auch wenn das US-Unternehmen offiziell keine Gründe nennt, ist die Sachlage klar. Im Kongress in Washington dürfte ein Nachspiel folgen.",
+     "link": "https://www.dw.com/de/nvidia-chef-jensen-huang-tritt-nach-affären-zurück/a-79932950?maca=de-rss-de-all-1119-xml-mrss",
+     "image": "https://static.dw.com/image/79933651_302.jpg",
+     "aggregator": false,
+     "published": "2026-11-12T15:35:00+00:00"
+    },
+    {
+     "source": "Deutsche Welle",
+     "region": "INT",
+     "weight": 0.95,
+     "title": "Die Affäre des Nvidia-Chefs und die Folgen",
+     "summary": "Nvidia-Chef Jensen Huang hat sich für eine Affäre mit einer Frau entschuldigt, die nach Einschätzung der USA für China spioniert hat. Wie weitreichend sind die Folgen für das wertvollste Unternehmen der Welt?",
+     "link": "https://www.dw.com/de/die-affäre-des-nvidia-chefs-und-die-folgen/a-79900932?maca=de-rss-de-all-1119-xml-mrss",
+     "image": "https://static.dw.com/image/75070893_302.jpg",
+     "aggregator": false,
+     "published": "2026-11-09T16:24:00+00:00"
+    },
+    {
+     "source": "heise online",
+     "region": "DE",
+     "weight": 0.85,
+     "title": "Nvidia-Angestellte wollen Jensen Huang zurück",
+     "summary": "Nachdem eine dritte Affäre des vormaligen Nvidia-Chefs Jensen Huang bekannt wurde, setzt der Fallout ein. Trotzdem wollen manche, dass er wiederkehrt.",
+     "link": "https://www.heise.de/news/Nvidia-Angestellte-wollen-Jensen-Huang-zurueck-11525279.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
+     "image": null,
+     "aggregator": false,
+     "published": "2026-11-15T16:09:00+00:00"
+    }
+   ]
+  },
+  {
+   "id": 23,
+   "score": 9.19,
+   "outlets": [
+    "Deutschlandfunk",
+    "SPIEGEL",
+    "Golem"
+   ],
+   "regions": [
+    "DE"
+   ],
+   "trend": [],
+   "newest": "2026-11-15T16:51:16+00:00",
+   "articles": [
+    {
+     "source": "Deutschlandfunk",
+     "region": "DE",
+     "weight": 0.95,
+     "title": "Erneuerbare-Energien-Gesetz - SPD: Solarförderung für kleine Anlagen soll bleiben",
+     "summary": "Für kleine Solaranlagen in Deutschland soll die Einspeisevergütung erhalten bleiben.",
+     "link": "https://www.deutschlandfunk.de/spd-solarfoerderung-fuer-kleine-anlagen-soll-bleiben-100.html",
+     "image": "https://bilder.deutschlandfunk.de/FI/LE/_b/f5/FILE_bf59e3b66baed6c7a208048d472a3b5f/imago0102573625h-jpg-100-768x768.jpg",
+     "aggregator": false,
+     "published": "2026-11-15T16:51:16+00:00"
+    },
+    {
+     "source": "SPIEGEL",
+     "region": "DE",
+     "weight": 0.9,
+     "title": "Energiewende: Solarförderung für kleine Anlagen soll offenbar doch bleiben",
+     "summary": "Eigentlich wollte Wirtschaftsministerin Reiche in Zukunft kein Geld mehr für private Solaranlagen lockermachen. Doch nun zeichnet sich bei den Verhandlern von SPD und CDU eine Kehrtwende ab.",
+     "link": "https://www.spiegel.de/wirtschaft/service/solarfoerderung-fuer-kleine-anlagen-soll-offenbar-doch-bleiben-a-6b026b8d-e1f0-4e89-83f5-cc7d948a60c1#ref=rss",
+     "image": "https://cdn.prod.www.spiegel.de/images/daa4cae3-21d9-4ce5-9ba9-bd5a8de31dba_w520_r2.08_fpx33.34_fpy50.jpg",
+     "aggregator": false,
+     "published": "2026-11-15T10:46:00+00:00"
+    },
+    {
+     "source": "Golem",
+     "region": "DE",
+     "weight": 0.75,
+     "title": "EEG-Reform: Einspeisevergütung für kleine Solaranlagen soll bleiben",
+     "summary": "Wirtschaftsministerin Katerina Reiche wollte die Einspeisevergütung für kleine Solaranlagen auslaufen lassen. Der Plan ist nun wohl vom Tisch. ( Energiewende , Solarenergie )",
+     "link": "https://www.golem.de/news/eeg-reform-einspeiseverguetung-fuer-kleine-solaranlagen-soll-bleiben-2611-215234.html",
+     "image": "https://cpx.golem.de/cpx.php?class=17&amp;aid=215234&amp;page=1&amp;ts=1794746701",
+     "aggregator": false,
+     "published": "2026-11-15T12:45:01+00:00"
+    }
+   ]
+  },
+  {
+   "id": 24,
+   "score": 8.92,
+   "outlets": [
+    "Handelsblatt",
+    "WirtschaftsWoche",
+    "WELT",
+    "DIE ZEIT"
+   ],
+   "regions": [
+    "DE"
+   ],
+   "trend": [],
+   "newest": "2026-11-15T14:32:14+00:00",
+   "articles": [
+    {
+     "source": "Handelsblatt",
+     "region": "DE",
+     "weight": 0.9,
+     "title": "Autohändler: VW-Chef Blume will 2030 Rekordrendite erreichen",
+     "summary": "Volkswagen kämpft um Werke und Arbeitsplätze. Doch Konzernchef Oliver Blume plant bereits wieder mit hohen Renditezielen: und will sogar noch Rekorde brechen.",
+     "link": "https://www.handelsblatt.com/unternehmen/industrie/autohaendler-vw-chef-blume-will-2030-rekordrendite-erreichen/100270010.html",
+     "image": "https://images.handelsblatt.com/Kp4QQucUwhL1/cover/900/506/0/0/313/312/0.5/0.5/archiv-23.06.2026-berlin-oliver-blume-vorstandsvorsitzender-der-volkswagen-ag.-zu-dpa-ringen.jpg",
+     "aggregator": false,
+     "published": "2026-11-15T13:17:20+00:00"
+    },
+    {
+     "source": "Handelsblatt",
+     "region": "DE",
+     "weight": 0.9,
+     "title": "Automarkt: VW-Chef Blume will 2030 Rekordrendite erreichen",
+     "summary": "Volkswagen kämpft um Werke und Arbeitsplätze. Doch Konzernchef Oliver Blume plant bereits wieder mit hohen Renditezielen.",
+     "link": "https://www.handelsblatt.com/politik/deutschland/automarkt-vw-chef-blume-will-2030-rekordrendite-erreichen/100270008.html",
+     "image": "https://images.handelsblatt.com/TPwjwYCLOjDJ/cover/900/506/0/0/48/48/0.5/0.5/volkswagen-ag.jpg",
+     "aggregator": false,
+     "published": "2026-11-15T13:02:11+00:00"
+    },
+    {
+     "source": "WirtschaftsWoche",
+     "region": "DE",
+     "weight": 0.85,
+     "title": "Automarkt: VW-Chef Blume will 2030 Rekordrendite erreichen",
+     "summary": "Volkswagen kämpft um Werke und Arbeitsplätze. Doch Konzernchef Oliver Blume plant bereits wieder mit hohen Renditezielen.",
+     "link": "https://www.wiwo.de/unternehmen/auto/automarkt-vw-chef-blume-will-2030-rekordrendite-erreichen/100270009.html",
+     "image": "https://images.wiwo.de/cXYCDlMi4nqV/cover/900/506/0/0/48/48/0.5/0.5/volkswagen-ag.jpg",
+     "aggregator": false,
+     "published": "2026-11-15T13:02:11+00:00"
+    },
+    {
+     "source": "WELT",
+     "region": "DE",
+     "weight": 0.8,
+     "title": "VW-Chef Blume will 2030 Rekordrendite erreichen – trotz Stellenabbau",
+     "summary": "Volkswagen steckt in der Krise, doch Konzernchef Oliver Blume hält an ambitionierten Zielen fest: Bis 2030 soll der Autobauer neun Millionen Fahrzeuge verkaufen und eine Rendite von neun Prozent erzielen.",
+     "link": "https://www.welt.de/wirtschaft/article6af9b9824495f9bd85b80f98/autobauer-in-der-krise-vw-chef-blume-will-2030-rekordrendite-erreichen-trotz-stellenabbau.html",
+     "image": "https://images.welt.de/6af9b9824495f9bd85b80f98/600288afd97b40d10a2734a6073efac7-master/ci23x11-w1200/dpa-com-261011-935-1669831-jpg",
+     "aggregator": false,
+     "published": "2026-11-15T14:32:14+00:00"
+    },
+    {
+     "source": "DIE ZEIT",
+     "region": "DE",
+     "weight": 0.6,
+     "title": "Automarkt: VW-Chef Blume will 2030 Rekordrendite erreichen",
+     "summary": "Automarkt: VW-Chef Blume will 2030 Rekordrendite erreichen DIE ZEIT „Ich will neun Prozent Rendite!“ BILD Autobauer in der Krise: VW-Chef Blume will 2030 Rekordrendite erreichen – trotz Stellenabbau WELT Volkswagen: Blume kündigt Rekordrendite für 2030 an – trotz aktueller Krise HAZ VW-Chef Blume will 2030 Rekordrendite erreichen GN-Online",
+     "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOWXVuZllCai16RU1sRFEtblJLNEVOVmRaVTJHWVVtNjk1Z3JSY3N0Y042VG1KYzFIdWVBMUw4SmhPY2hrUE1ndGE1MnBXTHJ1dVdHc1J5dlhZeTAtd19hbkRCbnVXVU1OcEdsTHg0aTUtSlBsa1MwSXlyV3pfU2lNTjM3ZzRZWVhDbE80?oc=5",
+     "image": null,
+     "aggregator": true,
+     "published": "2026-11-15T13:02:11+00:00"
+    }
+   ]
+  },
+  {
+   "id": 25,
+   "score": 8.89,
+   "outlets": [
+    "ZDFheute",
+    "Deutschlandfunk"
+   ],
+   "regions": [
+    "DE"
+   ],
+   "trend": [],
+   "newest": "2026-11-15T16:51:16+00:00",
+   "articles": [
+    {
+     "source": "ZDFheute",
+     "region": "DE",
+     "weight": 1.0,
+     "title": "Rede UN-Generalsekretär Guterres auf der COP31",
+     "summary": "Rede von UN-Generalsekretär António Guterres auf der Weltklimakonferenz COP31 in Antalya",
+     "link": "https://www.phoenix.de/php/mediaplayer/vod_embed.php?cmsid=5247944",
+     "image": "https://www.zdfheute.de/assets/teaser-phoenix-rede-un-generalsekretaer-guterres-auf-der-cop31-5247944-100~384x216?cb=1794589447394",
+     "aggregator": false,
+     "published": "2026-11-13T16:51:00+00:00"
+    },
+    {
+     "source": "ZDFheute",
+     "region": "DE",
+     "weight": 1.0,
+     "title": "Rede Ursula von der Leyen auf der COP31",
+     "summary": "Rede von EU-Kommissionspräsidentin Ursula von der Leyen auf der Weltklimakonferenz (COP31) in Antalya",
+     "link": "https://www.phoenix.de/php/mediaplayer/vod_embed.php?cmsid=5247151",
+     "image": "https://www.zdfheute.de/assets/teaser-phoenix-rede-ursula-von-der-leyen-auf-der-cop31-5247151-100~384x216?cb=1794416637055",
+     "aggregator": false,
+     "published": "2026-11-11T16:44:00+00:00"
+    },
+    {
+     "source": "ZDFheute",
+     "region": "DE",
+     "weight": 1.0,
+     "title": "Rede UN-Generalsekretär Guterres auf der COP31",
+     "summary": "Rede von UN-Generalsekretär António Guterres auf der Weltklimakonferenz COP31 in Antalya",
+     "link": "https://www.phoenix.de/php/mediaplayer/vod_embed.php?cmsid=5247139",
+     "image": "https://www.zdfheute.de/assets/teaser-phoenix-rede-un-generalsekretaer-guterres-auf-der-cop31-5247139-100~384x216?cb=1794413638898",
+     "aggregator": false,
+     "published": "2026-11-11T15:46:00+00:00"
+    },
+    {
+     "source": "Deutschlandfunk",
+     "region": "DE",
+     "weight": 0.95,
+     "title": "COP31 - Zur Halbzeit der Weltklimakonferenz in Antalya stocken die Verhandlungen",
+     "summary": "Zur Halbzeit der Weltklimakonferenz in der Türkei sehen Beobachter die Verhandlungen ins Stocken geraten. Am heutigen Pausentag der COP31 machten Nichtregierungsorganisationen mit einem \"Klimagipfel der Völker\" in Antalya auf sich aufmerksam. Sie fordern mehr Elan bei den Verhandlungen und mehr Klimagerechtigkeit.",
+     "link": "https://www.deutschlandfunk.de/zur-halbzeit-der-weltklimakonferenz-in-antalya-stocken-die-verhandlungen-100.html",
+     "image": "https://bilder.deutschlandfunk.de/78/ed/5b/2a/78ed5b2a-40ab-444f-9c58-d4321446490a/weltklimakonferenz-cop31-antalya-demo-100-1920x1920.jpg",
+     "aggregator": false,
+     "published": "2026-11-15T16:51:16+00:00"
+    }
+   ]
+  },
+  {
+   "id": 26,
+   "score": 8.51,
+   "outlets": [
+    "tagesschau",
+    "Handelsblatt",
+    "WELT"
+   ],
+   "regions": [
+    "DE"
+   ],
+   "trend": [],
+   "newest": "2026-11-15T14:13:26+00:00",
+   "articles": [
+    {
+     "source": "tagesschau",
+     "region": "DE",
+     "weight": 1.0,
+     "title": "Polizei prüft Bekennerschreiben nach Angriff auf Auto von Nius-Chefredakteur",
+     "summary": "In Berlin ist am Freitag das Auto von Nius-Chefredakteur Reichelt angezündet worden. Nun prüft die Polizei ein im Internet veröffentlichtes Bekennerschreiben. Unklar ist, ob das Schreiben authentisch ist.",
+     "link": "https://www.tagesschau.de/inland/regional/berlin/nius-chef-reichelt-auto-angezuendet-bekennerschreiben-100.html",
+     "image": "https://images.tagesschau.de/image/254e1338-bef5-4177-b90e-b49363b6317c/AAABod9D8gA/AAABnSSvrFg/16x9-big/rbb-632737987-100.jpg?width=1920",
+     "aggregator": false,
+     "published": "2026-11-15T14:13:26+00:00"
+    },
+    {
+     "source": "Handelsblatt",
+     "region": "DE",
+     "weight": 0.9,
+     "title": "„Nius“-Chefredakteur: Brandanschlag auf Auto von Julian Reichelt: Polizei prüft Bekennerschreiben",
+     "summary": "In der Nacht zu Freitag zündeten Unbekannte in Berlin das Auto von „Nius“-Chefredakteur Julian Reichelt an. Nun ermittelt der Staatsschutz.",
+     "link": "https://www.handelsblatt.com/politik/deutschland/julian-reichelt-polizei-prueft-bekennerschreiben-nach-brandanschlag/100270006.html",
+     "image": "https://images.handelsblatt.com/SRQ38EATzZFR/cover/900/506/0/0/313/312/0.5/0.5/13.11.2026-berlin-das-auto-von-nius-chefredakteur-j.-reichelt-steht-ausgebrannt-am-strassenrand-i.jpg",
+     "aggregator": false,
+     "published": "2026-11-15T13:03:03+00:00"
+    },
+    {
+     "source": "WELT",
+     "region": "DE",
+     "weight": 0.8,
+     "title": "Auto von „Nius“-Chef angezündet – Polizei prüft Bekennerschreiben",
+     "summary": "Auf einer von Behörden als linksextrem eingestuften Plattform haben sich Unbekannte zu dem Anschlag auf den Wagen von „Nius“-Chefredakteur Reichelt bekannt. Nun wird die Echtheit des Schreibens geprüft.",
+     "link": "https://www.welt.de/politik/deutschland/article6af9a0104495f9bd85b80db2/staatsschutz-ermittelt-auto-von-nius-chef-angezuendet-polizei-prueft-bekennerschreiben.html",
+     "image": "https://images.welt.de/6af9a0104495f9bd85b80db2/3a808bdcc8aa053d2d31ad0c96be02a7/ci23x11-w1200/dpa-com-261115-935-1744495-jpg",
+     "aggregator": false,
+     "published": "2026-11-15T13:32:52+00:00"
+    }
+   ]
+  },
+  {
+   "id": 27,
+   "score": 8.49,
+   "outlets": [
+    "Deutschlandfunk",
+    "n-tv"
+   ],
+   "regions": [
+    "DE"
+   ],
+   "trend": [],
+   "newest": "2026-11-15T16:51:16+00:00",
+   "articles": [
+    {
+     "source": "Deutschlandfunk",
+     "region": "DE",
+     "weight": 0.95,
+     "title": "Frauen-Fußball - Dortmund gewinnt Derby gegen Schalke vor Rekordkulisse",
+     "summary": "Borussia Dortmunds Fußballerinnen haben vor der Drittliga-Rekordkulisse von 17.555 Zuschauern das Revierderby für sich entschieden. In der Regionalliga West gewann der BVB im ausverkauften Stadion Rote Erde mit 4:0.",
+     "link": "https://www.deutschlandfunk.de/dortmund-gewinnt-derby-gegen-schalke-vor-rekordkulisse-102.html",
+     "image": "https://bilder.deutschlandfunk.de/16/84/83/b4/168483b4-7c0f-48cc-8aad-85f4e18a88b7/dortmund-schalke-frauen-rekord-100-1920x1920.jpg",
+     "aggregator": false,
+     "published": "2026-11-15T16:51:16+00:00"
+    },
+    {
+     "source": "n-tv",
+     "region": "DE",
+     "weight": 0.8,
+     "title": "Rekordkulisse in Dortmund: Überragende Popp schießt BVB mit Dreierpack zum Derbysieg",
+     "summary": "Die frühere Nationalspielerin Alexandra Popp trifft auch im Revierderby gegen Schalke 04 nach Belieben. Die Stürmerin führt Borussia Dortmund vor einer Rekordkulisse zum nächsten Sieg und bekommt Gänsehaut.",
+     "link": "https://www.n-tv.de/sport/Ueberragende-Popp-schiesst-BVB-mit-Dreierpack-zum-Derbysieg-id31536326.html",
+     "image": "https://www.n-tv.de/img/31536313/1794762239/Img_4_3/250/image.jpg",
+     "aggregator": false,
+     "published": "2026-11-15T16:12:00+00:00"
+    },
+    {
+     "source": "n-tv",
+     "region": "DE",
+     "weight": 0.8,
+     "title": "17.555 beim Revierderby: Popps BVB spielt völlig entfesselt - und hat doch nichts sicher",
+     "summary": "Das Revierderby zwischen Borussia Dortmund und dem FC Schalke elektrisiert die Massen - auch in der Frauen-Regionalliga. Es ist das Spiel des Ersten gegen den Tabellenzweiten und Alexandra Popp ist mittendrin. Die Dominanz des BVB hilft und ärgert zugleich.",
+     "link": "https://www.n-tv.de/sport/fussball/Popps-BVB-spielt-voellig-entfesselt-und-hat-doch-nichts-sicher-id31521536.html",
+     "image": "https://www.n-tv.de/img/31521540/1794402887/Img_4_3/250/623375617.jpg",
+     "aggregator": false,
+     "published": "2026-11-15T07:10:47+00:00"
+    }
+   ]
+  }
+ ]
+}
