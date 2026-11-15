@@ -1,0 +1,26 @@
+{
+  "format": "single",
+  "candidate_id": 10,
+  "pillar": "WIRTSCHAFT",
+  "region": "EU",
+  "kicker": "ROM",
+  "hook_screen": "805 MIO. STRAFE!",
+  "hook_voice": "Meta muss achthundertfünf Millionen Euro Strafe zahlen.",
+  "beats": [
+    {"voice": "Italiens Datenschutzbehörde bestraft den Facebook-Konzern, weil die App auf private Fotos und Videos der Nutzer zugegriffen hat.", "big": "805 Mio. €", "label": "Strafe für Meta in Italien"},
+    {"voice": "Und zwar ohne gesonderte Zustimmung – auf Millionen Smartphones.", "big": "Millionen", "label": "Handys mit Zugriff auf private Fotos"},
+    {"voice": "Dabei sollte die Funktion Facebook-Nutzern nur Ideen für eigene Beiträge liefern.", "big": "Ideen-Funktion", "label": "sollte nur Beitragsvorschläge machen"},
+    {"voice": "Für Sie heißt das: Prüfen Sie, welche Apps auf Ihre Fotogalerie zugreifen dürfen.", "big": "Galerie", "label": "Fotozugriff in den App-Rechten prüfen"}
+  ],
+  "loop_line": "Denn wer hat Facebook den Zugriff auf seine Fotos je erlaubt?",
+  "headline": "Meta muss 805 Millionen Euro zahlen",
+  "highlight": ["Meta"],
+  "entities": ["Meta Platforms", "Facebook", "Garante per la protezione dei dati personali", "Rom"],
+  "youtube_title": "Facebook-Strafe: Meta zahlt 805 Millionen – wer gab die Fotos frei?",
+  "description_lead": "Meta muss in Italien 805 Millionen Euro Strafe zahlen: Laut der italienischen Datenschutzbehörde griff eine Facebook-Funktion ohne gesonderte Zustimmung auf private Fotos und Videos auf Millionen Smartphones zu. Die Funktion sollte Facebook-Nutzern eigentlich Ideen für eigene Beiträge liefern.",
+  "tags": ["Meta", "Facebook", "Meta Strafe", "Facebook Datenschutz", "Datenschutz", "Italien", "Datenschutzbehörde", "private Fotos", "Smartphone", "App-Berechtigungen", "Meta Italien", "Wirtschaft"],
+  "hashtags": ["#meta", "#facebook", "#datenschutz"],
+  "facebook_caption_line1": "Facebook-Konzern Meta muss 805 Millionen Euro zahlen – wegen Zugriff auf private Fotos und Videos",
+  "facebook_question": "Wissen Sie, welche Apps auf Ihre Fotos zugreifen dürfen?",
+  "comment_question": "Ist eine Strafe von 805 Millionen Euro für Meta angemessen: Ja oder nein?"
+}
