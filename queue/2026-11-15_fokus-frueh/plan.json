@@ -1,0 +1,26 @@
+{
+  "format": "single",
+  "candidate_id": 0,
+  "pillar": "TECHNOLOGIE",
+  "region": "INT",
+  "kicker": "RAUMFAHRT",
+  "hook_screen": "STARSHIP GEFANGEN!",
+  "hook_voice": "SpaceX Starship: Musks Riesenrakete landet aus dem All im Greifarm.",
+  "beats": [
+    {"voice": "Zweiundzwanzig Stunden kreiste die obere Stufe um die Erde. Dann fingen zwei Greifarme sie am Startturm auf.", "big": "22 STUNDEN", "label": "im Erdorbit – dann der Fang am Turm"},
+    {"voice": "Das ist SpaceX zum ersten Mal gelungen – nach einem Flug in der Erdumlaufbahn.", "big": "ERSTMALS", "label": "obere Stufe zurück am Startplatz"},
+    {"voice": "Geplant war aber mehr: Beide Teile der Rakete sollten aufgefangen werden. Das lief nicht wie geplant.", "big": "1 VON 2", "label": "Doppelfang misslungen"},
+    {"voice": "Elon Musk will mit dem größten je gebauten Raketensystem den Mars erschließen.", "big": "MARS", "label": "Musks Ziel mit dem Starship"}
+  ],
+  "loop_line": "Also: Durchbruch für Musk – oder doch ein Rückschlag?",
+  "headline": "SpaceX fängt Starship aus dem All",
+  "highlight": ["Starship"],
+  "entities": ["SpaceX Starship", "Elon Musk", "SpaceX"],
+  "youtube_title": "SpaceX Starship aus dem All gefangen: Was lief trotzdem schief?",
+  "description_lead": "SpaceX hat die obere Stufe seiner Riesenrakete Starship nach 22 Stunden in der Erdumlaufbahn erstmals mit zwei Greifarmen am Startturm aufgefangen. Der geplante Fang beider Raketenteile gelang Elon Musks Unternehmen jedoch nicht – ein Erfolg mit Rückschlag auf dem Weg zum Mars.",
+  "tags": ["SpaceX Starship", "Starship", "SpaceX", "Elon Musk", "Starship Testflug", "Raketenfang", "Greifarme", "Startturm", "Raumfahrt", "Mars", "Rakete", "Weltraum", "Technik", "Wissenschaft"],
+  "hashtags": ["#starship", "#spacex", "#raumfahrt"],
+  "facebook_caption_line1": "SpaceX Starship: Musks Riesenrakete kehrt aus dem All zurück – und wird am Turm aufgefangen.",
+  "facebook_question": "Ist das der Durchbruch für die Raumfahrt oder nur ein teurer Test?",
+  "comment_question": "Durchbruch oder Rückschlag für Musk – was meinen Sie?"
+}
