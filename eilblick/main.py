@@ -804,7 +804,7 @@ def cmd_buffer_test() -> int:
     """Renders the offline demo and sends it to Buffer as DRAFTS (never published)."""
     from . import upload_buffer as BU
     from .demo import demo_inputs
-    slot, slot_time = slot_by_id("morgen")
+    slot, slot_time = slot_by_id("mittag")
     images.reset_tmp()
     plan, stories, photos = demo_inputs()
     video, tl = make_video(plan, slot, slot_time, stories, photos, offline_voice=True)
@@ -836,7 +836,7 @@ def cmd_buffer_delete(args) -> int:
 
 def cmd_demo(args) -> int:
     from .demo import demo_inputs
-    slot, slot_time = slot_by_id(args.slot or "morgen")
+    slot, slot_time = slot_by_id(args.slot or "mittag")
     images.reset_tmp()
     plan, stories, photos = demo_inputs()
     video, tl = make_video(plan, slot, slot_time, stories, photos, offline_voice=not args.real_voice)
