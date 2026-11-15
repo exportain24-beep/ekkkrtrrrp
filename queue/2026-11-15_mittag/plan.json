@@ -1,0 +1,42 @@
+{
+ "format": "single",
+ "candidate_id": 21,
+ "pillar": "WELT",
+ "region": "INT",
+ "kicker": "WTA FINALS",
+ "hook_screen": "SABALENKA-EKLAT!",
+ "hook_voice": "Sabalenka beschimpft Switolina – jetzt kommt die Entschuldigung.",
+ "beats": [
+  {
+   "voice": "Tennisstar Aryna Sabalenka gesteht ihre Entgleisung im Saisonfinale in Indian Wells. Ihre Gegnerin: die Ukrainerin Elina Switolina.",
+   "big": "WTA FINALS",
+   "label": "Eklat im Saisonfinale in Indian Wells"
+  },
+  {
+   "voice": "Brisant: Die Belarussin soll Worte gewählt haben, die wegen des Ukraine-Kriegs besonders heikel sind.",
+   "big": "UKRAINE-KRIEG",
+   "label": "macht die Worte besonders brisant"
+  },
+  {
+   "voice": "Sabalenka verlor das Spiel und rastete aus. Jetzt sagt sie: „Habe emotional reagiert.“",
+   "big": "ENTSCHULDIGUNG",
+   "label": "„Habe emotional reagiert“"
+  },
+  {
+   "voice": "Eine Beleidigung von Switolina weist sie aber zurück. Ihr Frust habe anderen in der Arena gegolten.",
+   "big": "DEMENTI",
+   "label": "Frust galt angeblich anderen in der Arena"
+  }
+ ],
+ "loop_line": "Wem galten Sabalenkas Worte wirklich – Switolina oder der Arena?",
+ "headline": "Sabalenka entschuldigt sich",
+ "highlight": ["Sabalenka"],
+ "entities": ["Aryna Sabalenka", "Elina Switolina", "WTA Finals", "Indian Wells"],
+ "youtube_title": "Sabalenka-Eklat: Galt ihr Wutausbruch wirklich nicht Switolina?",
+ "description_lead": "Tennisstar Aryna Sabalenka entschuldigt sich nach ihrem Wutausbruch bei den WTA Finals in Indian Wells gegen die Ukrainerin Elina Switolina. Eine Beleidigung ihrer Gegnerin weist die Belarussin zurück – ihr Frust habe anderen in der Arena gegolten.",
+ "tags": ["Aryna Sabalenka", "Elina Switolina", "Sabalenka", "Switolina", "WTA Finals", "Indian Wells", "Ukraine-Krieg", "Tennis", "Tennis-Eklat", "Belarus", "Ukraine", "Damentennis", "Sport und Politik"],
+ "hashtags": ["#sabalenka", "#tennis", "#wtafinals"],
+ "facebook_caption_line1": "Belarussin gegen Ukrainerin: Sabalenka entschuldigt sich für Wutausbruch gegen Switolina",
+ "facebook_question": "Reicht Sabalenkas Entschuldigung – oder muss die WTA Konsequenzen ziehen?",
+ "comment_question": "Nehmen Sie Sabalenka die Entschuldigung ab – ja oder nein?"
+}
