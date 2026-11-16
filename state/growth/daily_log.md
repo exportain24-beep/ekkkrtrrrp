@@ -112,3 +112,4 @@
 - vidIQ-Watch wQz4wHPiY5I (Handwerk): Hook + Zahl korrekt, Deutsch fehlerfrei; 31 s nur ein Porträt eines Verbandschefs.
 - Kein Hebel geändert: Inhaber hat heute Abend auf 6 Shorts/Tag umgestellt (gilt ab 16. Nov) – eine zweite Änderung am selben Tag würde die Messung vermischen. Kandidat in experiments.md.
 - 2026-11-16 05:44 Berlin · Growth-Brief A · Credits 4.903 · Abos 28 · Views 56.908
+- 2026-11-16 13:43 Berlin · Growth-Brief A · Credits ~4.878 · Abos 28 · Views 61.854
