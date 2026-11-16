@@ -1,39 +1,39 @@
-# Learnings aus eigenen Daten (YouTube Analytics + FB-Plays) – Stand 15. Nov 2026, 23 Uhr (Nacht-Analyse)
-Datenlage: YT-Analytics bis 13. Nov (Verzug ~2 Tage); 14./15. Nov = öffentliche Zähler (YT 22:20 UTC). FB-Plays = performance.md 16:54 UTC (15. Nov-Videos 0–12 h alt).
-Audit 15. Nov = RECOVERED. Ab 16. Nov nur noch 6 Shorts/Tag (Inhaber) → 16. Nov = neue Messreihe, nicht mit 10–12/Tag mischen.
-Trend YT je Upload-Tag: 13. Nov Ø 693 (10, 6.933) · 14. Nov Ø 694 (12, 8.325) · 15. Nov Ø 253 (10, 2.529; Median 93) – Vortag hatte zur gleichen Uhrzeit Ø 356.
-Trend FB je Upload-Tag: 13. Nov Ø 517 (10, Median 139) · 14. Nov Ø 760 (12, Median 215) · 15. Nov Ø 64 (8 gemessen, Median 13, jung).
-Format 13.–15. Nov: 4er YT Ø 207 / FB Ø 20 (3 Videos: 90/13 · 288/36 · 242/12) vs. FOKUS YT Ø 586 / FB Ø 507 (29 Videos).
+# Learnings aus eigenen Daten (YouTube Analytics + FB-Plays) – Stand 16. Nov 2026, 23 Uhr (Nacht-Analyse)
+Datenlage: YT-Analytics bis 14. Nov (Verzug ~2 Tage); 15./16. Nov = öffentliche Zähler (YT 22:20 UTC). FB-Plays = performance.md 16:55 UTC (16. Nov-Videos 3–6 h alt).
+16. Nov = Tag 1 der 6/Tag-Reihe (Inhaber) – aber nur **5 Uploads** (kein fokus-frueh-Lauf/-Plan 06:15). Erste 48-h-Bewertung am 18. Nov.
+Trend YT je Upload-Tag: 14. Nov Ø 800 (12, 9.599; Median 352) · 15. Nov Ø 369 (10, 3.690; Median 231) · 16. Nov Ø 137 (5, 686; Median 89, jung).
+Gleiche Slots, gleiche Uhrzeit (mittag/nachmittag/abend/politik/prime): 15. Nov Ø 259 → 16. Nov Ø 137 (−47 %). Montag + schwächere Themen, Reihe zu jung für ein Urteil.
+Trend FB je Upload-Tag: 14. Nov Ø 1.111 (12, 13.330; Median 236) · 15. Nov Ø 196 (10, 1.956) · 16. Nov Ø 188 (2 gemessen).
+Format 14.–15. Nov: 4er YT Ø 291 / FB Ø 35 (Tanker 310/45 · Frührente 271/24) vs. FOKUS YT Ø 635 / FB Ø 761 (20 Videos). Ab 16. Nov keine 4er-Slots mehr.
 
 ## YouTube
-1. **15. Nov schwach (Sonntag, keine DE-Politik-Hauptperson):** SpaceX-Fang 809 (18 h) · Sabalenka 611 · Phantasialand/Microsoft 467 – aber Handwerk 44 (13 h) · Meta-Strafe 67 · Masern-USA 74 · Solar 30 (7 h).
-2. **vidIQ-Watch SpaceX (bestes, 809):** „STARSHIP GEFANGEN!“ Sek. 0, Stimme sofort ohne Pause, Zahl-Karten („22 STUNDEN“, „1 VON 2 … MISSLUNGEN“), Deutsch fehlerfrei; Schwäche: statische, wiederholte Fotos.
-3. **vidIQ-Watch Handwerk (schlechtestes, 44):** „HANDWERK-ALARM!“ + Zahl 80.000 korrekt, Hochdeutsch fehlerfrei – aber 31 s nur EIN Porträt (Verbandschef Dittrich) → Verband ohne bekanntes Gesicht + 1 Foto = Absprung.
-4. **Bildarmut ist 3 Abende in Folge der Watch-Befund (13.–15. Nov: Klingbeil, Musk, Aiwanger, SpaceX, Handwerk).** Sprache/Untertitel nie das Problem.
-5. **Nachdreh ohne große Wende schwach:** Reichelt-Bekennerschreiben 81 in 5 h (Original 1.698) · Klingbeil/Heil 69 · Nvidia/Trump 26.
-6. **14. Nov reift weiter:** Aiwanger 1.957 · Berthold/AfD 1.814 (75 Likes) · Orbán-Ex-Minister 1.346 · USA-Flugstopp 975 · Emde 761 (von 244 auf 761 in 24 h).
-7. **Muster bestätigt (13.–15. Nov, 32 Videos):** bekannte Person + Bruch (Tod, Anschlag, AfD-Kandidat, Millionen-Fund) Ø ~1.500; Verband/Behörde/Ausland ohne DACH Ø < 150.
-8. **4er-Morgen 6 von 6 seit 10. Nov ≤ 288 YT** (Frührente 242 = 50 s, bester 4er-Wert nur dank Rente-Keyword).
-9. **YT-Analytics 13. Nov: 6.769 Views (bester Tag seit 8. Nov) / 2.677 engaged (40 %) / Ø 58,6 % / +2 Abos / 12 Shares.**
-10. **Retention-Spitzen 8.–15. Nov:** Klopp 87,3 % · Eh_d3u8YqeM 84,3 % · wRXDSJAQh94 83,8 % · uW0RbJkqwPA 83,0 % · Mercedes 81,3 %; Schlusslicht oETvsH47LdY 50,2 % · 7LE4bxgDKVA 51,0 %.
-11. **Abos bleiben das Problem:** 8.–13. Nov +11 Abos bei 30.303 Views (0,04 %); bestes Abo-Video vpynBhhUuzk +2; Shares-Spitze NoYyUPGXkUE + aGsqzFGzGcw je 6.
-12. **Suche stabil 22 %:** Traffic 8.–15. Nov Shorts-Feed 22.831 (75 %) · Suche 6.818 (22 %) · andere YT 288 · Abo-Feed 184 · extern 63.
-13. Slots YT 15. Nov (UTC): 05:15 809 · 11:00 611 · 13:30 467 · 06:00 242 · 18:30 104 (4 h) · 17:30 81 (5 h) · 12:15 74 · 07:30 67 · 09:00 44 · 15:30 30.
+1. **16. Nov bestes: Merz/Stromsteuer „doch?“ 387 in 9 h (48 VPH, Breakout 3,2)** – bekanntes Gesicht + Geld im Alltag; Vorgänger 12. Nov 706. Folge mit neuer Wende trägt.
+2. **16. Nov schwach: Commerzbank/Unicredit 50 in 7 h · Amazon-Satelliten 149 in 11 h** – Bank/Behörde ohne Gesicht bzw. US-Tech ohne DACH-Bezug (Muster wie Handwerk 61, Meta 88).
+3. **16. Nov Abend jung:** Dobrindt Ruanda 89 (4,8 h) · James Bond/Pattinson 11 (3,8 h) – morgen nachmessen.
+4. **vidIQ-Watch Stromsteuer (bestes):** Söder+Merz-Foto Sek. 0, Hook-Frage sofort gesprochen, Hochdeutsch korrekt; aber nur 3 Fotos im Loop und Hook-Karte abgeschnitten („STROMSTEUER-WEN“ statt „…-WENDE“).
+5. **vidIQ-Watch Commerzbank (schlechtestes):** „COMMERZBANK FÄLLT?“ + „0 AUFLAGEN“ in Sek. 0–3, Deutsch korrekt; erstes Bild = Nachrichtensprecherin (Stock), danach 3 Fassaden-Fotos im Loop → kein Gesicht, keine Fallhöhe.
+6. **Bildarmut 4. Abend in Folge der Watch-Befund (13.–16. Nov, 8 Videos).** Sprache/Untertitel nie das Problem. (vidIQ nennt Merz fälschlich „nicht Kanzler“ – veraltetes Modellwissen, ignorieren.)
+7. **15. Nov reifte:** SpaceX 1.051 · Sabalenka 1.049 · Phantasialand 551 · Frührente 271 · Reichelt-Bekennerschreiben 252 · Babiš 209; Solar 52 · Handwerk 61 · Meta 88.
+8. **14. Nov = Rekordtag (Analytics): 8.374 Views / 3.417 engaged (41 %) / Ø 66,4 % / +5 Abos / 12 Shares.** Berthold 2.218 · Aiwanger 2.198 · Orbán-Ex-Minister 1.625.
+9. **Muster (14.–16. Nov, 27 Videos):** bekannte Person + Bruch/Konflikt Ø ~1.400; Firma/Verband/Behörde ohne Gesicht Ø < 100 (Commerzbank 50, Handwerk 61, Meta 88, Klingbeil/Heil 113).
+10. **Retention 9.–16. Nov (Analytics):** wRXDSJAQh94 87,8 % · zh1nw0nDO84 (USA-Flüge) 86,1 % · 9Afp2OWJHJw (Klopp) 83,1 % · uW0RbJkqwPA 82,9 %; Schlusslicht oETvsH47LdY 51,1 % · EcxVh9cCErc 51,8 %.
+11. **Abos bleiben das Problem:** Top-25 der Woche zusammen +9 Abos; beste Co7Er77RFhc +2 · Berthold +2 (4 Shares) · Shares-Spitze Orbán, NoYyUPGXkUE, aGsqzFGzGcw je 6.
+12. **Suche wächst: 26 %** (9.–16. Nov: Shorts-Feed 22.269 = 72 % · Suche 7.991 · andere YT 306 · Abo-Feed 207 · extern 74; Vorwoche 22 %).
+13. Slots YT 16. Nov (UTC): 13:30 387 · 11:00 149 · 17:30 89 · 15:30 50 · 18:30 11 · 05:15 fehlte.
 
 ## Facebook
-14. **FB 07:30 + 09:00 UTC 4 Tage in Folge tot: 7 von 7 < 10 Plays** (15. Nov Meta 1, Handwerk 1) – Slots fallen ab 16. Nov weg (Inhaber, 6/Tag).
-15. **FB 05:15 UTC ebenfalls tot trotz YT-Hit:** SpaceX 2 (YT 809) · USA-Flugstopp 1 (YT 975) – fokus-frueh bleibt, beobachten.
-16. **FB 11:00–15:30 UTC tragen:** 15. Nov Sabalenka 194 · Masern 161 · Phantasialand 125 (je < 6 h) · 14. Nov Aiwanger 5.487 · Selenskyj 827 · Musk 427.
-17. **Aiwanger-Staatsakt wuchs auf FB 5.487 Plays / 77 Likes** (gestern 167) = Spätzünder; Orbán-Ex-Minister 1.510 / 59 Likes / 29 Komm. (Justiz/Skandal-Muster).
-18. **Eishockey-WM/Russland jetzt 3.823 Plays, 152 Komm.** (YT 281) – FB belohnt Konflikt Russland ↔ Deutschland.
-19. FB 19:45 + 21:00 UTC weiter schwach: Klingbeil/Heil 5 · Nvidia/Trump 5 · DHL 4 (Slots ab 16. Nov gestrichen).
-20. 4er auf FB tot: 13 · 36 · 12 Plays (13.–15. Nov).
-21. Doppel-Gewinner (YT ≥ 600 + FB ≥ 300) 13./14. Nov: Aiwanger 1.957/5.487 · Orbán 1.346/1.510 · Reichelt 1.698/306 · Merz Ukraine 1.235/432 · Berthold 1.814/394 · Mercedes 898/302.
+14. **16. Nov (3–6 h alt): Stromsteuer 188 · Amazon 188** – beide gleichauf, obwohl YT 387 vs. 149; Abend-Videos noch ohne FB-Wert.
+15. **14. Nov Spätzünder wächst weiter:** Aiwanger 8.377 Plays / 120 Likes (gestern 5.487) · Orbán-Ex-Minister 2.670 / 112 Likes / 71 Komm. · Selenskyj 864.
+16. **15. Nov FB Ø 196:** Sabalenka 565 · Reichelt-Bekennerschreiben 386 · Masern 311 · Solar 271 (YT nur 52!) · Phantasialand 158.
+17. **FB 05:15 UTC (fokus-frueh) 2 von 3 Tagen tot trotz YT-Hit:** SpaceX 3 (YT 1.051) · USA-Flüge 1 (YT 1.021); nur Mercedes 302.
+18. **FB 07:30/09:00 UTC tot (seit 16. Nov gestrichen):** 15. Nov Meta 2 · Handwerk 3 · 14. Nov Microsoft 5 · Emde 4.
+19. **FB belohnt Konflikt/Skandal/Trauer:** Eishockey-WM/Russland 4.432 Plays / 170 Komm. (YT 305) · Orbán 2.670 · Aiwanger 8.377.
+20. 4er auf FB tot: 45 · 24 Plays (14./15. Nov).
+21. Doppel-Gewinner (YT ≥ 600 + FB ≥ 300) 13.–15. Nov: Aiwanger 2.198/8.377 · Orbán 1.625/2.670 · Reichelt 1.731/306 · Merz Ukraine 1.257/436 · Berthold 2.218/475 · Sabalenka 1.049/565 · Mercedes 898/302.
 
-## Ältere Learnings (6.–14. Nov), weiterhin gültig
-- Zahl + Alltagsschmerz im Frame 1 trägt (Klingbeil „560 MILLIARDEN!“ 1.038); Marken-Titelkarte statt Story in Sek. 0–2 = Absprung (Quantum-4er 90).
+## Ältere Learnings (6.–15. Nov), weiterhin gültig
+- Zahl + Alltagsschmerz im Frame 1 trägt (Klingbeil „560 MILLIARDEN!“ 1.056); Marken-Titelkarte statt Story in Sek. 0–2 = Absprung (Quantum-4er 92).
 - Hook beginnt mit Person: Engaged Ø 47 % vs. Ort/Sache Ø 36 % (9. Nov). Konfliktverb + Name: Habeck „verraten“ 1.750, Merz „droht“ 1.205.
 - Sek. 4–5 Klippe in 3 von 4 Kurven (8. Nov) → Bildwechsel + harte Zahl in Beat 1. Loop-Fragen am Ende wirken nicht.
-- Ein Thema / eine Hauptperson höchstens 1× pro 24 h; Folge nur mit großem neuen Fakt (Nmecha 564 → Klopp 1.031; Reichelt-Nachdreh 81).
-- Institution/Behörde ohne Gesicht schwach: BND 144 · Grenzkontrollen 30 · EU-Abo-Fallen 23 · Dax 67 · Handwerk 44.
-- FB-Riesen nur bei Justiz/Skandal/Konflikt/Trauer: Orbán-Bruder 19.080 · Fabian 9.934 · Aiwanger 5.487 · Eishockey 3.823.
+- Ein Thema / eine Hauptperson höchstens 1× pro 24 h; Folge nur mit großem neuen Fakt (Nmecha 564 → Klopp 1.080; Reichelt-Nachdreh 252 vs. Original 1.731).
+- FB-Riesen nur bei Justiz/Skandal/Konflikt/Trauer: Orbán-Bruder 19.080 · Fabian 9.934 · Aiwanger 8.377 · Eishockey 4.432.

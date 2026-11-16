@@ -113,3 +113,16 @@
 - Kein Hebel geändert: Inhaber hat heute Abend auf 6 Shorts/Tag umgestellt (gilt ab 16. Nov) – eine zweite Änderung am selben Tag würde die Messung vermischen. Kandidat in experiments.md.
 - 2026-11-16 05:44 Berlin · Growth-Brief A · Credits 4.903 · Abos 28 · Views 56.908
 - 2026-11-16 13:43 Berlin · Growth-Brief A · Credits ~4.878 · Abos 28 · Views 61.854
+
+## 2026-11-16 (vidIQ: 6 Calls, 40 Credits, Rest ≈ 4.838) – Tag 1 der 6/Tag-Reihe; kein Hebel geändert
+- YT-Analytics bis 14. Nov: 14. Nov 8.374 Views / 3.417 engaged (41 %) / Ø-Wiedergabe 66,4 % / +5 Abos / 12 Shares (Rekordtag) · 13. Nov 6.769 / 58,6 %.
+- Traffic 9.–16. Nov: Shorts-Feed 22.269 (72 %), Suche 7.991 (26 %, Vorwoche 22 %), andere YT-Seiten 306, Abo-Feed 207, extern 74.
+- YT je Upload-Tag (öffentlich, 22:20 UTC): 14. Nov Ø 800 (12, 9.599) · 15. Nov Ø 369 (10, 3.690) · 16. Nov Ø 137 (5, 686; 2 Videos < 5 h).
+- Gleiche 5 Slots zur gleichen Uhrzeit: 15. Nov Ø 259 → 16. Nov Ø 137. 16. Nov nur 5 statt 6 Uploads (kein fokus-frueh 06:15 in runs/ oder queue/).
+- FB je Upload-Tag (Plays, 16:55 UTC): 14. Nov Ø 1.111 (12, 13.330) · 15. Nov Ø 196 (10, 1.956) · 16. Nov Ø 188 (2 gemessen, 376; jung).
+- Headline/4er: 16. Nov keine (Slot gestrichen); 14.–15. Nov 4er Ø YT 291 / FB 35 (2) — FOKUS 14.–15. Nov Ø YT 635 / FB 761 (20). 16. Nov FOKUS = alle 5: YT Ø 137 / FB Ø 188.
+- Bestes 16. Nov: Merz/Stromsteuer „doch?“ YT 387 / FB 188 (48 VPH). FB-Bestes: Stromsteuer + Amazon je 188. Spätzünder FB: Aiwanger 8.377 (gestern 5.487).
+- Schlechtestes 16. Nov: Commerzbank/Unicredit YT 50 (7 h) / FB – · Bond/Pattinson 11 (3,8 h, zu jung).
+- vidIQ-Watch rodErJlAaTw (Stromsteuer): Hook sofort, Deutsch korrekt; nur 3 Fotos im Loop, Hook-Karte abgeschnitten („STROMSTEUER-WEN“).
+- vidIQ-Watch joutIhbYI-4 (Commerzbank): „COMMERZBANK FÄLLT?“ Sek. 0, Deutsch korrekt; Stock-Sprecherin + 3 Fassadenfotos, kein Gesicht.
+- Kein Hebel geändert: 6/Tag-Reihe läuft erst seit heute (48-h-Vergleich am 18. Nov); Kandidaten „Bildvielfalt“ und „Hook-Karten-Kürzung prüfen“ in experiments.md.
