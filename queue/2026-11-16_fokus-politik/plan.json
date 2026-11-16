@@ -1,0 +1,23 @@
+{
+  "format": "single",
+  "candidate_id": 8,
+  "pillar": "POLITIK", "region": "DE", "kicker": "RUANDA-PLAN",
+  "hook_screen": "RUANDA-PLAN!",
+  "hook_voice": "Dobrindt will abgelehnte Asylbewerber nach Ruanda bringen – SPD bremst.",
+  "beats": [
+    {"voice": "Fünf EU-Staaten, darunter Deutschland und Österreich, wollen das Zentrum schon zwanzig siebenundzwanzig starten.", "big": "2027", "label": "Start des Abschiebezentrums geplant"},
+    {"voice": "Österreichs Kanzler Stocker nennt das einen historischen Paradigmenwechsel. Auch Griechenland, Dänemark und die Niederlande sind dabei.", "big": "5 STAATEN", "label": "DE, AT, GR, DK und NL"},
+    {"voice": "SPD-Innenexperte Fiedler will das Vorhaben nicht vorbehaltlos unterstützen. Streitpunkt sind vor allem die hohen Kosten.", "big": "KOSTEN", "label": "Widerstand in der SPD"},
+    {"voice": "Großbritannien ist mit einem eigenen Ruanda-Plan schon gescheitert. Menschenrechtler kritisieren das Vorhaben scharf.", "big": "GESCHEITERT", "label": "Großbritanniens Ruanda-Plan"}
+  ],
+  "loop_line": "Schafft Dobrindt, woran London gescheitert ist – oder stoppt ihn die SPD?",
+  "headline": "Dobrindts Ruanda-Plan: SPD bremst", "highlight": ["Ruanda-Plan"],
+  "entities": ["Alexander Dobrindt", "Christian Stocker", "Ruanda", "SPD"],
+  "youtube_title": "Dobrindts Ruanda-Plan: Abschiebezentrum ab 2027 – stoppt ihn die SPD?",
+  "description_lead": "Bundesinnenminister Alexander Dobrindt (CSU) plant mit Österreich, Griechenland, Dänemark und den Niederlanden ein Abschiebezentrum in Ruanda – Start schon 2027. Österreichs Kanzler Christian Stocker spricht von einem Paradigmenwechsel, doch in der SPD wächst die Kritik an den Kosten.",
+  "tags": ["Dobrindt", "Abschiebezentrum Ruanda", "Abschiebung", "Migration", "Alexander Dobrindt", "Ruanda", "SPD", "Christian Stocker", "Österreich", "Return Hubs", "Asylpolitik", "Bundesregierung", "CSU", "EU"],
+  "hashtags": ["#dobrindt", "#ruanda", "#abschiebung"],
+  "facebook_caption_line1": "Dobrindts Ruanda-Plan: Fünf EU-Staaten wollen ab 2027 abschieben – die SPD bremst",
+  "facebook_question": "Abschiebezentren außerhalb Europas – richtiger Weg oder teurer Irrweg?",
+  "comment_question": "Ruanda-Plan: Sollte Deutschland mitmachen – ja oder nein?"
+}
