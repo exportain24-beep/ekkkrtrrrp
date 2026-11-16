@@ -1,0 +1,57 @@
+{
+  "format": "single",
+  "candidate_id": 0,
+  "pillar": "WIRTSCHAFT",
+  "region": "DE",
+  "kicker": "COMMERZBANK",
+  "hook_screen": "COMMERZBANK FÄLLT?",
+  "hook_text": "Commerzbank-Übernahme frei",
+  "hook_voice": "Commerzbank-Übernahme: Brüssel winkt Unicredit durch.",
+  "beats": [
+    {
+      "voice": "Die EU-Kommission genehmigt die umstrittene Übernahme ohne jede Auflage. Wettbewerbsrechtliche Bedenken sieht Brüssel nicht.",
+      "big": "0 AUFLAGEN",
+      "label": "EU-Kommission gibt die Freigabe"
+    },
+    {
+      "voice": "Die italienische Großbank Unicredit hält schon fast die Hälfte der Stimmrechte an der Commerzbank.",
+      "big": "FAST 50 %",
+      "label": "der Stimmrechte bei Unicredit"
+    },
+    {
+      "voice": "Commerzbank-Chefin Bettina Orlopp rechnet damit, dass Unicredit noch in diesem Jahr die Kontrolle übernimmt.",
+      "big": "2026",
+      "label": "Kontrolle noch in diesem Jahr"
+    },
+    {
+      "voice": "Zwei Jahre hat Unicredit auf diesen Schritt hingearbeitet. Jetzt rückt die Fusion der beiden Banken näher.",
+      "big": "2 JAHRE",
+      "label": "Übernahmekampf um die Commerzbank"
+    }
+  ],
+  "loop_line": "Bleibt die Commerzbank eigenständig – oder ist der Kampf jetzt entschieden?",
+  "headline": "Commerzbank-Übernahme genehmigt",
+  "highlight": ["Commerzbank"],
+  "entities": ["Commerzbank", "Unicredit", "Bettina Orlopp", "Europäische Kommission"],
+  "youtube_title": "Commerzbank-Übernahme: Brüssel winkt Unicredit durch – war es das?",
+  "description_lead": "Commerzbank-Übernahme: Die EU-Kommission genehmigt den umstrittenen Kauf der Commerzbank durch die italienische Großbank Unicredit ohne Auflagen. Unicredit hält bereits fast die Hälfte der Stimmrechte, Commerzbank-Chefin Bettina Orlopp rechnet noch in diesem Jahr mit der Kontrolle durch Unicredit.",
+  "tags": [
+    "Commerzbank",
+    "Commerzbank Übernahme",
+    "Unicredit",
+    "Unicredit Commerzbank",
+    "Bettina Orlopp",
+    "EU-Kommission",
+    "Brüssel",
+    "Bankenfusion",
+    "Banken",
+    "Übernahme",
+    "Wirtschaft Deutschland",
+    "Börse",
+    "Frankfurt"
+  ],
+  "hashtags": ["#commerzbank", "#unicredit", "#wirtschaft"],
+  "facebook_caption_line1": "Commerzbank-Übernahme: EU erlaubt Unicredit den Kauf – ohne jede Auflage",
+  "facebook_question": "Sollte eine deutsche Großbank wie die Commerzbank eigenständig bleiben?",
+  "comment_question": "Ist die Übernahme der Commerzbank durch Unicredit richtig – ja oder nein?"
+}
