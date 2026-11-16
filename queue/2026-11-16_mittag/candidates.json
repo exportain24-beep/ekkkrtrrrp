@@ -1,0 +1,1654 @@
+{
+ "slot": {
+  "id": "mittag",
+  "format": "single",
+  "time": "12:00",
+  "label": "am Mittag",
+  "focus": "Nur Tie-Breaker – immer zuerst die populärsten, meistberichteten Nachrichten. Bei Gleichstand bevorzugt: Der eine meistberichtete Aufreger des Mittags – bevorzugt Wirtschaft, Preise, Jobs, Technologie mit Wirkung auf die Menschen in DACH.",
+  "pillars": [
+   "WIRTSCHAFT",
+   "TECHNOLOGIE",
+   "POLITIK",
+   "WELT"
+  ],
+  "notify_subscribers": true
+ },
+ "slot_time": "2026-11-16T12:00:00+01:00",
+ "date_text": "Montag, 16. November 2026",
+ "already_published": [
+  "Musk unter Druck wegen Starlink",
+  "Trump trifft Putin und Xi in China",
+  "USA: Nato-Beitritt gegen Donbass",
+  "Bayern nimmt Abschied von Aiwanger",
+  "AfD schickt Berthold ins Rennen",
+  "Millionen bei Orbáns Ex-Minister",
+  "Nvidia-Skandal erreicht Trumps Kabinett",
+  "Heil greift nach dem SPD-Vorsitz",
+  "SpaceX fängt Starship aus dem All",
+  "Frührente: Höhere Abschläge geplant",
+  "Facharzt-Termin nur gegen Bezahlung?",
+  "SPD-Gruppen gegen Klingbeil",
+  "GTA 6 löst Urlaubswelle aus",
+  "Meta muss 805 Millionen Euro zahlen",
+  "Handwerk droht massiver Jobverlust",
+  "Sabalenka entschuldigt sich",
+  "USA verlieren Status masernfrei",
+  "Microsoft-Störung: Chlor-Panne im Park",
+  "Solarförderung für Hausdächer bleibt",
+  "Reichelt-Anschlag: Bekennerschreiben",
+  "Babiš gegen den Rundfunk"
+ ],
+ "candidates": [
+  {
+   "id": 0,
+   "score": 18.94,
+   "outlets": [
+    "tagesschau",
+    "Deutsche Welle",
+    "Deutschlandfunk",
+    "SRF News",
+    "SPIEGEL",
+    "DER STANDARD",
+    "WELT",
+    "n-tv",
+    "tagesschau.de"
+   ],
+   "regions": [
+    "AT",
+    "CH",
+    "DE",
+    "INT"
+   ],
+   "trend": [],
+   "newest": "2026-11-16T09:12:06+00:00",
+   "articles": [
+    {
+     "source": "tagesschau",
+     "region": "DE",
+     "weight": 1.0,
+     "title": "Dritter US-Flugzeugträger erreicht laut Medienberichten Nahen Osten",
+     "summary": "Das US-Militär hat seine Flotte im Nahen Osten um einen dritten Flugzeugträger ergänzt. Ob die USA dauerhaft ihre Präsenz verstärken oder einen anderen Flugzeugträger ablösen, ist unklar. Die Lage bleibt angespannt.",
+     "link": "https://www.tagesschau.de/ausland/amerika/usa-flugzeugtraeger-nahost-102.html",
+     "image": "https://images.tagesschau.de/image/a29c7668-f235-4ea4-b38e-0ca797c6d6d4/AAABoeMwvS0/AAABnSSvrFg/16x9-big/uss-rosevelt-flugzeugtraeger-us-marine-101.jpg?width=1920",
+     "aggregator": false,
+     "published": "2026-11-16T07:11:37+00:00"
+    },
+    {
+     "source": "tagesschau Ausland",
+     "region": "INT",
+     "weight": 1.0,
+     "title": "Dritter US-Flugzeugträger erreicht laut Medienberichten Nahen Osten",
+     "summary": "Das US-Militär hat seine Flotte im Nahen Osten um einen dritten Flugzeugträger ergänzt. Ob die USA dauerhaft ihre Präsenz verstärken oder einen anderen Flugzeugträger ablösen, ist unklar. Die Lage bleibt angespannt.",
+     "link": "https://www.tagesschau.de/ausland/amerika/usa-flugzeugtraeger-nahost-102.html",
+     "image": "https://images.tagesschau.de/image/a29c7668-f235-4ea4-b38e-0ca797c6d6d4/AAABoeMwvS0/AAABnSSvrFg/16x9-big/uss-rosevelt-flugzeugtraeger-us-marine-101.jpg?width=1920",
+     "aggregator": false,
+     "published": "2026-11-16T07:11:37+00:00"
+    },
+    {
+     "source": "Deutsche Welle",
+     "region": "INT",
+     "weight": 0.95,
+     "title": "News kompakt: Dritter US-Flugzeugträger erreicht Nahen Osten",
+     "summary": "Die Entsendung des dritten US-Flugzeugträgers in den Nahen Osten war seit Wochen bekannt. Nun soll er eingetroffen sein. Bei der UN-Klimakonferenz in Antalya beginnt die entscheidende Woche. Der DW-Nachrichtenüberblick.",
+     "link": "https://www.dw.com/de/news-kompakt-dritter-us-flugzeugträger-erreicht-nahen-osten/a-79954671?maca=de-rss-de-all-1119-xml-mrss",
+     "image": "https://static.dw.com/image/79954765_302.jpg",
+     "aggregator": false,
+     "published": "2026-11-16T08:00:00+00:00"
+    },
+    {
+     "source": "Deutschlandfunk",
+     "region": "DE",
+     "weight": 0.95,
+     "title": "Golf-Region - Bericht: Dritter US-Flugzeugträger erreicht Nahen Osten",
+     "summary": "Der in den Nahen Osten geschickte dritte US-Flugzeugträger steht nach Presseinformationen vor seiner Ankunft in der Region.",
+     "link": "https://www.deutschlandfunk.de/bericht-dritter-us-flugzeugtraeger-erreicht-nahen-osten-104.html",
+     "image": "https://bilder.deutschlandfunk.de/FI/LE/_b/b5/FILE_bb5ab582b9a1209dfd6649e807f6fbf5/uebung-der-us-marine-54375257-jpg-100-768x768.jpg",
+     "aggregator": false,
+     "published": "2026-11-16T09:12:06+00:00"
+    },
+    {
+     "source": "SRF News",
+     "region": "CH",
+     "weight": 0.95,
+     "title": "Krieg im Nahen Osten – Presse: Dritter US-Flugzeugträger erreicht Nahen Osten",
+     "summary": "Damit wäre das US-Militär zumindest vorübergehend wieder mit drei Flugzeugträgern gleichzeitig im Nahen Osten präsent.",
+     "link": "https://www.srf.ch/news/international/nahost/krieg-im-nahen-osten-presse-dritter-us-flugzeugtraeger-erreicht-nahen-osten",
+     "image": "https://www.srf.ch/static/cms/images//320ws/023265.webp",
+     "aggregator": false,
+     "published": "2026-11-16T08:35:26+00:00"
+    },
+    {
+     "source": "SPIEGEL",
+     "region": "DE",
+     "weight": 0.9,
+     "title": "Iran-Krieg: Dritter US-Flugzeugträger erreicht Nahen Osten",
+     "summary": "Deeskalation sieht sicher anders aus: Mit der USS »Theodore Roosevelt« ist ein weiterer Flugzeugträger in Nahost angekommen. Unklar bleibt, was die USA im Konflikt mit Iran nun vorhaben.",
+     "link": "https://www.spiegel.de/ausland/iran-krieg-dritter-us-flugzeugtraeger-erreicht-nahen-osten-a-97da317f-1d1c-41c8-ae22-22a908b3b203#ref=rss",
+     "image": "https://cdn.prod.www.spiegel.de/images/ab7dad52-b12c-4634-bf12-b32a35c57fb6_w520_r2.08_fpx39.72_fpy50.jpg",
+     "aggregator": false,
+     "published": "2026-11-16T03:37:00+00:00"
+    },
+    {
+     "source": "DER STANDARD",
+     "region": "AT",
+     "weight": 0.85,
+     "title": "Dritter US-Flugzeugträger im Nahen Osten eingetroffen",
+     "summary": "Erstmals seit April befinden sich wieder drei US-Flugzeugträger gleichzeitig im Nahen Osten",
+     "link": "https://www.derstandard.at/story/3000000349342/nahost-dritter-us-flugzeugtr228ger-in-der-region-eingetroffen?ref=rss",
+     "image": "https://i.ds.at/dQ9WnA/rs:fill:150:0/plain/lido-images/2026/11/16/081633a1-f096-441d-9122-fd3a347f1ed1.jpg",
+     "aggregator": false,
+     "published": "2026-11-16T04:52:52+00:00"
+    },
+    {
+     "source": "WELT",
+     "region": "DE",
+     "weight": 0.8,
+     "title": "Dritter US-Flugzeugträger erreicht Nahen Osten",
+     "summary": "Der vor Wochen in den Nahen Osten geschickte dritte US-Flugzeugträger ist Medienberichten zufolge in der Region eingetroffen.",
+     "link": "https://www.welt.de/politik/ausland/video6afabcc1172b587f4434d4d1/konflikt-mit-iran-dritter-us-flugzeugtraeger-erreicht-nahen-osten.html",
+     "image": "https://images.welt.de/6afabcc1172b587f4434d4d1/884ded21dea7a24fe9fc7a02996ec135/ci16x9-w1200/dpa-com-261115-935-1745167-jpg",
+     "aggregator": false,
+     "published": "2026-11-16T09:07:49+00:00"
+    }
+   ]
+  },
+  {
+   "id": 1,
+   "score": 16.74,
+   "outlets": [
+    "Deutschlandfunk",
+    "SPIEGEL",
+    "WirtschaftsWoche",
+    "heise online",
+    "DER STANDARD"
+   ],
+   "regions": [
+    "AT",
+    "DE"
+   ],
+   "trend": [
+    "amazon verliert 40 satelliten",
+    "Amazon verliert 40 Satelliten beim Raketenstart - Rückschlag für Bezos’ Konkurrenz zu Musks Starlink"
+   ],
+   "newest": "2026-11-16T09:12:06+00:00",
+   "articles": [
+    {
+     "source": "Deutschlandfunk",
+     "region": "DE",
+     "weight": 0.95,
+     "title": "Raumfahrt - Vulcan-Rakete versagt nach Start, Amazon verliert 40 \"Leo\"-Satelliten",
+     "summary": "Der Start einer Vulcan-Rakete des Raumfahrtunternehmens United Launch Alliance ist gescheitert.",
+     "link": "https://www.deutschlandfunk.de/vulcan-rakete-versagt-nach-start-amazon-verliert-40-leo-satelliten-102.html",
+     "image": "https://bilder.deutschlandfunk.de/5f/d5/4b/c2/5fd54bc2-78be-47f3-9482-6d5a0d1f82ec/rakete-alliance-vulkan-cape-canaveral-100-1920x1920.jpg",
+     "aggregator": false,
+     "published": "2026-11-16T09:12:06+00:00"
+    },
+    {
+     "source": "SPIEGEL",
+     "region": "DE",
+     "weight": 0.9,
+     "title": "Amazon: Absturz der Vulcan-Rakete kostet US-Konzern 40 Satelliten",
+     "summary": "Der missglückte Start einer Rakete am Sonntag ist ein schwerer Schlag für den US-Internetriesen Amazon. Denn damit gingen 40 Satelliten verloren, die für den Internetdienst Amazon Leo bestimmt waren.",
+     "link": "https://www.spiegel.de/wirtschaft/amazon-absturz-der-vulcan-rakete-kostet-us-konzern-40-satelliten-a-8bd0dc5f-699c-493e-a188-437d49521bcb#ref=rss",
+     "image": "https://cdn.prod.www.spiegel.de/images/013db721-3ae2-44b2-b888-e1902f5e5226_w520_r2.08_fpx35.23_fpy44.86.jpg",
+     "aggregator": false,
+     "published": "2026-11-16T06:16:00+00:00"
+    },
+    {
+     "source": "WirtschaftsWoche",
+     "region": "DE",
+     "weight": 0.85,
+     "title": "United Launch Alliance: Amazon verliert 40 Satelliten bei Raketenstart",
+     "summary": "Der Fehlstart der Vulcan-Rakete zerstört 40 Amazon-Satelliten. Nun drohen Verzögerungen für Amazons Internetdienst Leo.",
+     "link": "https://www.wiwo.de/unternehmen/dienstleister/amazon-verliert-40-satelliten-rakete-stuerzt-ab/100270110.html",
+     "image": "https://images.wiwo.de/WPyGk9JTyQpL/cover/900/506/0/0/475/475/0.5/0.5/a-united-launch-alliance-ula-vulcan-rocket-launches-amazon-leo-satellites-from-launch-complex-41-at.jpg",
+     "aggregator": false,
+     "published": "2026-11-16T08:29:00+00:00"
+    },
+    {
+     "source": "heise online",
+     "region": "DE",
+     "weight": 0.85,
+     "title": "Vulcan-Trägerrakete verliert nach Problem Amazon-Satelliten im All",
+     "summary": "Eine Vulcan-Rakete sollte 40 Satelliten für Amazon Leo in den Orbit bringen. Doch diese wurden nicht ausgesetzt - ein Rückschlag für den Starlink-Konkurrenten.",
+     "link": "https://www.heise.de/news/Amazon-Satelliten-nach-Problem-einer-Vulcan-Traegerrakete-im-All-verloren-11525671.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
+     "image": null,
+     "aggregator": false,
+     "published": "2026-11-16T04:05:00+00:00"
+    },
+    {
+     "source": "DER STANDARD",
+     "region": "AT",
+     "weight": 0.85,
+     "title": "Nutzlast-Rakete von Boeing/Lockheed kurz nach Start abgestürzt",
+     "summary": "Dabei wurden 40 Satelliten zerstört, die für das Internet-Netzwerk Leo des Online-Konzerns Amazon gedacht waren. Die Ursache war zunächst unklar",
+     "link": "https://www.derstandard.at/story/3000000349335/nutzlast-rakete-von-boeinglockheed-kurz-nach-start-abgest252rzt?ref=rss",
+     "image": "https://i.ds.at/mlkjeQ/rs:fill:150:0/plain/lido-images/2026/11/15/60464a39-fb0e-40eb-9744-b816e50269b1.jpg",
+     "aggregator": false,
+     "published": "2026-11-15T21:41:47+00:00"
+    }
+   ]
+  },
+  {
+   "id": 2,
+   "score": 12.14,
+   "outlets": [
+    "tagesschau",
+    "ZDFheute",
+    "Deutschlandfunk",
+    "DER STANDARD",
+    "WELT"
+   ],
+   "regions": [
+    "AT",
+    "DE",
+    "INT"
+   ],
+   "trend": [],
+   "newest": "2026-11-16T09:12:06+00:00",
+   "articles": [
+    {
+     "source": "tagesschau",
+     "region": "DE",
+     "weight": 1.0,
+     "title": "Grenzschließung zu Russland soll Estlands Sicherheit schützen",
+     "summary": "In Estland ist die Empörung groß: Ab Dezember sollen Grenzübergänge zu Russland dichtgemacht werden. Hintergrund ist ein versuchter Anschlag auf ein Rüstungsunternehmen - das war nicht der erste Vorfall. Von Christian Stichler.",
+     "link": "https://www.tagesschau.de/ausland/europa/estland-grenze-russland-100.html",
+     "image": "https://images.tagesschau.de/image/4f60a995-0503-464d-81f1-03b438486062/AAABoeL92W0/AAABnSSvrFg/16x9-big/narva-estland-grenzuebergang-100.jpg?width=1920",
+     "aggregator": false,
+     "published": "2026-11-16T06:14:09+00:00"
+    },
+    {
+     "source": "tagesschau Ausland",
+     "region": "INT",
+     "weight": 1.0,
+     "title": "Grenzschließung zu Russland soll Estlands Sicherheit schützen",
+     "summary": "In Estland ist die Empörung groß: Ab Dezember sollen Grenzübergänge zu Russland dichtgemacht werden. Hintergrund ist ein versuchter Anschlag auf ein Rüstungsunternehmen - das war nicht der erste Vorfall. Von Christian Stichler.",
+     "link": "https://www.tagesschau.de/ausland/europa/estland-grenze-russland-100.html",
+     "image": "https://images.tagesschau.de/image/4f60a995-0503-464d-81f1-03b438486062/AAABoeL92W0/AAABnSSvrFg/16x9-big/narva-estland-grenzuebergang-100.jpg?width=1920",
+     "aggregator": false,
+     "published": "2026-11-16T06:14:09+00:00"
+    },
+    {
+     "source": "tagesschau Ausland",
+     "region": "INT",
+     "weight": 1.0,
+     "title": "Estland schließt ab Dezember Grenzübergänge nach Russland",
+     "summary": "Estland unterstützt die Ukraine im Kampf gegen Russland - unter anderem mit Drohnen. Eine Drohnenfabrik wurde am Wochenende angegriffen, laut Estland von russischen Agenten. Nun schließt Estland seine drei Grenzübergänge zum Nachbarland.",
+     "link": "https://www.tagesschau.de/ausland/europa/estland-russland-grenze-geschlossen-100.html",
+     "image": "https://images.tagesschau.de/image/11e09190-b5e6-46e8-a56c-d80e5758e5aa/AAABoeAPp-M/AAABnSSvrFg/16x9-big/grenze-estland-russland-104.jpg?width=1920",
+     "aggregator": false,
+     "published": "2026-11-15T20:44:43+00:00"
+    },
+    {
+     "source": "ZDFheute",
+     "region": "DE",
+     "weight": 1.0,
+     "title": "Estland schließt Grenzübergänge zu Russland",
+     "summary": "Nach einem versuchten Brandanschlag auf ein Rüstungsunternehmen schließt Estland seine Grenze zu Russland. Es gebe eindeutige Hinweise auf eine Beteiligung des Geheimdienstes GRU.",
+     "link": "https://www.zdfheute.de/politik/ausland/estland-grenze-russland-sabotage-drohnenhersteller-100.html",
+     "image": "https://www.zdfheute.de/assets/estland-grenze-russland-102~384x216?cb=1794761839464",
+     "aggregator": false,
+     "published": "2026-11-15T20:30:00+00:00"
+    },
+    {
+     "source": "Deutschlandfunk",
+     "region": "DE",
+     "weight": 0.95,
+     "title": "Baltikum - Estland vereitelt Anschlag auf Drohnenfabrik - Grenzübergänge nach Russland werden geschlossen",
+     "summary": "Estland will ab dem 1. Dezember alle Grenzübergänge nach Russland schließen. Zuvor hatten Sicherheitskräfte nach Regierungsangaben einen Anschlag auf eine estnische Drohnenfabrik vereitelt.",
+     "link": "https://www.deutschlandfunk.de/estland-vereitelt-anschlag-auf-drohnenfabrik-grenzuebergaenge-nach-russland-werden-geschlossen-102.html",
+     "image": "https://bilder.deutschlandfunk.de/bd/d1/a5/a8/bdd1a5a8-e2a2-4d84-8836-5f9d7d9d467c/narva-100-1920x1920.jpg",
+     "aggregator": false,
+     "published": "2026-11-16T09:12:06+00:00"
+    },
+    {
+     "source": "DER STANDARD",
+     "region": "AT",
+     "weight": 0.85,
+     "title": "Russland meldet Verletzte nach Angriff, Prinz Harry überrascht mit Ukraine-Besuch",
+     "summary": "Estland schließt nach einem Sabotageangriff alle Grenzübergänge zu Russland ab dem 1. Dezember. Der französische Präsident Macron warnte vor einer Kürzung der Militärhilfe für die Ukraine",
+     "link": "https://www.derstandard.at/jetzt/livebericht/3000000349324/russland-meldet-verletzte-nach-angriff-prinz-harry-ueberrascht-mit-ukraine-besuch?ref=rss",
+     "image": "https://i.ds.at/oczn5g/rs:fill:150:0/plain/lido-images/2026/11/16/27dabd17-2dc7-4ac5-8455-ab5936b3c9f4.jpg",
+     "aggregator": false,
+     "published": "2026-11-16T04:57:56+00:00"
+    },
+    {
+     "source": "WELT",
+     "region": "DE",
+     "weight": 0.6,
+     "title": "Estland schließt nach versuchtem Anschlag Grenze zu Russland – Moskau prüft „zügellose Russophobie“",
+     "summary": "Estland schließt nach versuchtem Anschlag Grenze zu Russland – Moskau prüft „zügellose Russophobie“ WELT Grenzschließung zu Russland soll Estlands Sicherheit schützen tagesschau.de Nach versuchtem Brandanschlag: Estland schließt Grenze zu Russland BILD Nach Angriff auf Drohnenfabrik - Estland will ab Dezember alle Grenzübergänge nach Russland schließen Deutschlandfunk Nach Anschlagsversuch auf Drohnenhersteller: Estland macht ab Dezember alle Grenzübergänge zu Russland dicht FOCUS online",
+     "link": "https://news.google.com/rss/articles/CBMiqAJBVV95cUxOMVFDcEtobm5vQklOdzdBSE9LTlJZTktUU3ZNSTJvc0ZNUWJOWHQ2SjRaYlBDN0Y0Z1hlTGlYOV80XzRMbnlzOTMtN1ZocGVDSFRkeGZfTUl1S2hqdUNxaXF1anBTRDdYb0tnQ1h4SE1xd2xQeGMtbDVZdWhaYm1aSUUyZzdXZXBQWEEzS2hzX19senBlcW1FUXNvRDNzZ0VwRU9tS3pRNkE4NW1KbjJkN2JaeDNIY2pFbThuMHNURU9ySHlMTEFSVnhuTV9wcHBxd3k2LWlsZ3pDVGczWFQ3eFBmNjlfREswQnNwZU1QWk05YXRTc2lzU040bjhqMnlLT2paa0Z4cDNSa00tajhkLXZiaHFscnNmX0dMRjVTeWQyVE5wdUhBMQ?oc=5",
+     "image": null,
+     "aggregator": true,
+     "published": "2026-11-16T05:43:12+00:00"
+    }
+   ]
+  },
+  {
+   "id": 3,
+   "score": 11.65,
+   "outlets": [
+    "tagesschau",
+    "ZDFheute",
+    "Süddeutsche",
+    "n-tv",
+    "BILD"
+   ],
+   "regions": [
+    "DE"
+   ],
+   "trend": [],
+   "newest": "2026-11-16T08:20:38+00:00",
+   "articles": [
+    {
+     "source": "tagesschau",
+     "region": "DE",
+     "weight": 1.0,
+     "title": "Klopp spricht über das \"Endspiel des Jahres\"",
+     "summary": "Wie weit ist das deutsche Team nach drei Monaten Jürgen Klopp? Der Bundestrainer zeigt sich begeistert - und will die Qualität gegen die Niederlande \"sichtbar machen\".",
+     "link": "https://www.sportschau.de/fussball/nationalmannschaft/klopp-spricht-ueber-endspiel-des-jahres,juergen-klopp-pressekonferenz-niederlande-100.html",
+     "image": "https://images.sportschau.de/image/75c705f2-f0a6-4cbe-ad14-248f8b744c84/AAABoeCmzKQ/AAABnSSvrFg/16x9-big/juergen-klopp-512.jpg?width=1920",
+     "aggregator": false,
+     "published": "2026-11-15T19:19:50+00:00"
+    },
+    {
+     "source": "ZDFheute",
+     "region": "DE",
+     "weight": 1.0,
+     "title": "Klopp übt harte Kritik an Infantino: Schlimmer als Blatter",
+     "summary": "Bundestrainer Jürgen Klopp spricht sich für einen Wechsel an der FIFA-Spitze aus. Den aktuellen FIFA-Präsidenten Gianni Infantino kritisiert er scharf.",
+     "link": "https://www.zdfheute.de/sport/fussball-klopp-infantino-fifa-praesident-blatter-100.html",
+     "image": "https://www.zdfheute.de/assets/juergen-klopp-378~384x216?cb=1794813141802",
+     "aggregator": false,
+     "published": "2026-11-16T07:48:00+00:00"
+    },
+    {
+     "source": "Süddeutsche",
+     "region": "DE",
+     "weight": 0.9,
+     "title": "Bundestrainer Jürgen Klopp: Gut gelaunt ins erste kleine Endspiel",
+     "summary": "Gruppensieg? Abstiegsrunde? Gegen die Niederlande steht für die DFB-Elf nicht wenig auf dem Spiel: Jürgen Klopp versucht, Vorfreude zu verbreiten – harsche Worte gegen Fifa-Boss Infantino und schwarzer Humor inklusive.",
+     "link": "https://www.sueddeutsche.de/sport/klopp-bundestrainer-niederlande-nations-league-abstieg-li.3580854",
+     "image": "https://www.sueddeutsche.de/2026/11/15/08b2c63d-3137-4231-98c5-023c4ec77f1b.jpg?rect=410%2C163%2C3048%2C2286&width=1000&fm=jpg&q=60",
+     "aggregator": false,
+     "published": "2026-11-15T20:54:27+00:00"
+    },
+    {
+     "source": "n-tv",
+     "region": "DE",
+     "weight": 0.8,
+     "title": "Hierarchie unter Spielern?: Klopp: \"Ihr denkt, ich habe nicht alle Latten am Zaun\"",
+     "summary": "Um die DFB-Startelf im \"Endspiel\" gegen die Niederlande macht Bundestrainer Jürgen Klopp noch ein Geheimnis. Vieles deutet darauf hin, dass Nico Schlotterbeck zurückkehrt. Doch dass es eine Stamm-Innenverteidigung gibt, das will er nicht bestätigen.",
+     "link": "https://www.n-tv.de/sport/fussball/Klopp-Ihr-denkt-ich-habe-nicht-alle-Latten-am-Zaun-id31537108.html",
+     "image": "https://www.n-tv.de/img/31537128/1794812419/Img_4_3/250/621302401.jpg",
+     "aggregator": false,
+     "published": "2026-11-16T07:20:26+00:00"
+    },
+    {
+     "source": "BILD",
+     "region": "DE",
+     "weight": 0.6,
+     "title": "Klopp bringt diese 2 Abwehr-Stars neu im Holland-Endspiel",
+     "summary": "Klopp bringt diese 2 Abwehr-Stars neu im Holland-Endspiel BILD Showdown gegen die Niederlande: Klopp spricht über das \"Endspiel des Jahres\" sportschau.de Debatte um Nmecha im DFB-Team: Klopps Motto steht auf der Probe FAZ Pleite gegen Oranje befürchtet – doch das ist egal WEB.DE Nations League: So sehen Sie Deutschland gegen die Niederlande live im TV WELT",
+     "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPLUhDUHlMNG8wNkYxaGtQRVhtc2h0T1ZrN29HTjRsQzNJS3Z1cDhZaWlibmFBQXBBUUIteS0tR0ptRy1vT0VvSTNQNV9vOURic3B0c0xpd201RHNhc0JOTlZwR3dpNE9fZlFaRU5POG1UZ2pfRWZCXzd3dko5c1c3Q29INUktZGpOT0lCbkR5OUpJclAzdGJDclRoMkVvYjR1RklhTkNVM2xmY0EydFpUVTl6YUotU1Y5aHcxQ2daTEhSQjA?oc=5",
+     "image": null,
+     "aggregator": true,
+     "published": "2026-11-16T08:20:38+00:00"
+    }
+   ]
+  },
+  {
+   "id": 4,
+   "score": 11.65,
+   "outlets": [
+    "tagesschau",
+    "ZDFheute",
+    "SRF News",
+    "SPIEGEL",
+    "Eurosport"
+   ],
+   "regions": [
+    "CH",
+    "DE"
+   ],
+   "trend": [],
+   "newest": "2026-11-16T07:26:00+00:00",
+   "articles": [
+    {
+     "source": "tagesschau",
+     "region": "DE",
+     "weight": 1.0,
+     "title": "Nations League: Furioses England stoppt Spaniens Rekordserie",
+     "summary": "43 Pflichtspiele in Folge hatte Spanien nicht verloren, dann kam England nach Madrid. Das Team von Thomas Tuchel drehte mächtig auf, musste aber am Ende noch unnötig zittern.",
+     "link": "https://www.sportschau.de/fussball/nationsleague/furioses-england-stoppt-spaniens-rekordserie,spielbericht-spanien-england-100.html",
+     "image": "https://images.sportschau.de/image/903fd705-d2f6-4995-a046-cc06005f10ff/AAABoeEwUZY/AAABnSSvrFg/16x9-big/england-jubel-200.jpg?width=1920",
+     "aggregator": false,
+     "published": "2026-11-15T22:17:51+00:00"
+    },
+    {
+     "source": "ZDFheute",
+     "region": "DE",
+     "weight": 1.0,
+     "title": "England beendet Spaniens Super-Serie und holt Gruppensieg",
+     "summary": "Mit einem knappen Sieg in Spanien hat England in der Nations League den Gruppensieg geholt. Für die bereits fürs Viertelfinale qualifizierten Gastgeber endete eine lange Serie.",
+     "link": "https://www.zdfheute.de/sport/fussball-nations-league-gruppe-3-spanien-england-spielbericht-100.html",
+     "image": "https://www.zdfheute.de/assets/spanien-england-112~384x216?cb=1794777726900",
+     "aggregator": false,
+     "published": "2026-11-15T22:03:00+00:00"
+    },
+    {
+     "source": "ZDFheute",
+     "region": "DE",
+     "weight": 1.0,
+     "title": "England beendet Spaniens Super-Serie",
+     "summary": "Spanien hat nach 43 Partien mal wieder ein Fußball-Länderspiel verloren. In Madrid unterlag der Weltmeister in einer hochspannenden Begegnung mit 2:3 gegen England.",
+     "link": "https://www.zdfheute.de/sport/fussball-nations-league/video/spanien-england-highlights-maenner-zusammenfassung-100.html",
+     "image": "https://www.zdfheute.de/assets/spanien-england-110~384x216?cb=1794777037299",
+     "aggregator": false,
+     "published": "2026-11-15T23:00:00+00:00"
+    },
+    {
+     "source": "SRF News",
+     "region": "CH",
+     "weight": 0.95,
+     "title": "Nations League: Gruppe A3 – England beendet Spaniens Monster-Serie",
+     "summary": "Nach 43 Länderspielen ohne Niederlage muss sich Spanien den «Three Lions» in Madrid 2:3 geschlagen geben.",
+     "link": "https://www.srf.ch/sport/fussball/nations-league/nations-league-gruppe-a3-england-beendet-spaniens-monster-serie",
+     "image": "https://www.srf.ch/static/cms/images//320ws/3e6051.webp",
+     "aggregator": false,
+     "published": "2026-11-15T22:44:26+00:00"
+    },
+    {
+     "source": "SPIEGEL",
+     "region": "DE",
+     "weight": 0.9,
+     "title": "Nations League: England beendet Spaniens Rekordserie, Italien verpasst Viertelfinale",
+     "summary": "Spanien muss im Topspiel der Nations League erstmals nach 43 Spielen eine Niederlage hinnehmen. Italien verliert hoch gegen Belgien und verpasst das Viertelfinale.",
+     "link": "https://www.spiegel.de/sport/fussball/nations-league-england-beendet-spaniens-rekordserie-italien-verpasst-viertelfinale-a-874b9eb4-e821-4514-8e92-531290cd63b2#ref=rss",
+     "image": "https://cdn.prod.www.spiegel.de/images/89a1beb9-adf3-4f88-b9da-51cc784f1433_w520_r2.08_fpx49.34_fpy50.jpg",
+     "aggregator": false,
+     "published": "2026-11-16T07:26:00+00:00"
+    },
+    {
+     "source": "Eurosport",
+     "region": "DE",
+     "weight": 0.6,
+     "title": "Drei Dinge, die beim England-Coup auffielen: Vorsicht, bissige Löwen!",
+     "summary": "Drei Dinge, die beim England-Coup auffielen: Vorsicht, bissige Löwen! Eurosport Nations League: Furioses England stoppt Spaniens Rekordserie sportschau.de \"Brillante Leistung\": Spanien-Schreck Tuchel übersteht \"drei Stunden\" Schlussphase n-tv.de Nations League: England beendet Spaniens Rekordserie, Italien verpasst Viertelfinale Spiegel Wichtige Siege für Kane, Olise und Stanišić FC Bayern",
+     "link": "https://news.google.com/rss/articles/CBMioAJBVV95cUxQd2VrSk1tdXl3YWJoT3ExczRwYWtubnctMHlyMVg3VFlSTURnR1FZSjNCX0Q2MzY4di05S05LODh0S3gycm1VeFBYMmtEOWp6RXVZSFcxRURoOW9pdk9Mcmd5ZUUteGNSVFprVEVCUV9wZzJyYkVrZmlkWk1PSldEcVZCNUZLSWk3NUY4T25LQXBDbHVFSTc2Vlh4Ym5CSnZtajQwSlVLTVBRRWRFWk80S1lKdGR3SXh5RHRZcWZ4TXZYakprZnZEZU44U1NCa0syUjNUaGp4bTB3YkloMmM4X2lrWmlnTnE5X1ZvNlJEdlF2aDBLS21IUjRqRU5RQ0trTm5STER6akluTEQtUjJ1TGJ2ZUZ5NFdiWjZPSlU2SVI?oc=5",
+     "image": null,
+     "aggregator": true,
+     "published": "2026-11-16T00:06:00+00:00"
+    }
+   ]
+  },
+  {
+   "id": 5,
+   "score": 11.34,
+   "outlets": [
+    "tagesschau",
+    "n-tv",
+    "Tagesspiegel"
+   ],
+   "regions": [
+    "DE"
+   ],
+   "trend": [
+    "amazon verliert 40 satelliten",
+    "Amazon verliert 40 Satelliten beim Raketenstart - Rückschlag für Bezos’ Konkurrenz zu Musks Starlink"
+   ],
+   "newest": "2026-11-16T06:48:12+00:00",
+   "articles": [
+    {
+     "source": "tagesschau",
+     "region": "DE",
+     "weight": 1.0,
+     "title": "Missglückter Raketenstart: Amazon verliert 40 Satelliten",
+     "summary": "Techmilliardär Musks Starlink-Netzwerk dominiert, aber Amazon will ihm Konkurrenz machen. Nun muss das Unternehmen von Jeff Bezos aber einen Rückschlag hinnehmen - und der könnte langfristige Folgen haben.",
+     "link": "https://www.tagesschau.de/wirtschaft/technologie/rakete-amazon-satelliten-100.html",
+     "image": "https://images.tagesschau.de/image/c7c89c37-e4fe-49cb-b6ed-85722cd70b68/AAABoeMKW94/AAABnSSvrFg/16x9-big/vulcan-rakete-104.jpg?width=1920",
+     "aggregator": false,
+     "published": "2026-11-16T06:48:12+00:00"
+    },
+    {
+     "source": "tagesschau Wirtschaft",
+     "region": "DE",
+     "weight": 1.0,
+     "title": "Missglückter Raketenstart: Amazon verliert 40 Satelliten",
+     "summary": "Techmilliardär Musks Starlink-Netzwerk dominiert, aber Amazon will ihm Konkurrenz machen. Nun muss das Unternehmen von Jeff Bezos aber einen Rückschlag hinnehmen - und der könnte langfristige Folgen haben.",
+     "link": "https://www.tagesschau.de/wirtschaft/technologie/rakete-amazon-satelliten-100.html",
+     "image": "https://images.tagesschau.de/image/c7c89c37-e4fe-49cb-b6ed-85722cd70b68/AAABoeMKW94/AAABnSSvrFg/16x9-big/vulcan-rakete-104.jpg?width=1920",
+     "aggregator": false,
+     "published": "2026-11-16T06:48:12+00:00"
+    },
+    {
+     "source": "n-tv",
+     "region": "DE",
+     "weight": 0.8,
+     "title": "Unbekannte Anomalie aufgetreten: Amazon verliert bei Absturz einer Vulcan-Rakete 40 Satelliten",
+     "summary": "Mit einem eigenen Satelliten-Netz will Amazon dem Internetdienst Starlink Konkurrenz machen. Doch anders als SpaceX wenige Stunden zuvor kann das Raumfahrunternehmen ULA keinen Erfolg verbuchen. Die Vulcan-Rakete stürzt zehn Minuten nach dem Start ab und versenkt 40 Satelliten im Meer.",
+     "link": "https://www.n-tv.de/wissen/Amazon-verliert-bei-Absturz-einer-Vulcan-Rakete-40-Satelliten-id31536817.html",
+     "image": "https://www.n-tv.de/img/31536818/1794798236/Img_4_3/250/633215323.jpg",
+     "aggregator": false,
+     "published": "2026-11-16T02:31:20+00:00"
+    },
+    {
+     "source": "Tagesspiegel",
+     "region": "DE",
+     "weight": 0.6,
+     "title": "Erster geplanter Flug scheitert Amazon Leo verliert 40 Satelliten bei missglücktem Raketenstart",
+     "summary": "Erster geplanter Flug scheitert Amazon Leo verliert 40 Satelliten bei missglücktem Raketenstart Tagesspiegel Amazon verliert 40 Satelliten beim Raketenstart - Rückschlag für Bezos’ Konkurrenz zu Musks Starlink tagesschau.de Amazon: Absturz der Vulcan-Rakete kostet US-Konzern 40 Satelliten Spiegel ULA-Rakete: Rakete mit 40 Amazon-Satelliten an Bord abgestürzt DIE ZEIT 40 Amazon-Satelliten: Rakete mit wertvoller Fracht abgestürzt T-Online",
+     "link": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxPYUh0anZjTkxNZDhhLXo0RTVvLXpXWHJtRFhzYUo2M3ZVMEs5OVF0MUpZTk5YNC13ZXZHVVFqZ1VYNGlWVlZhb2tTMXJBcDd6c2FCN2wwNlg2TkRwSDFiaHdBenZrZFhOaXRNeGRZNURrZlE3Y2o0X1JpMmRsQlZ4ellXRnNNX3lfVnFCY2cxbG5wWUhJOTJwYWZGeXh1a2piRWs3YmJyWjNHY3kyZ2RaeE9kbXpreEtPak5GeVVfbktRaVJMdGs4RlZ6MmIxU2F0Mm9BNVN3MmZkQVJFblpzMF9oWHEzdDc0WEtJYTVUREg?oc=5",
+     "image": null,
+     "aggregator": true,
+     "published": "2026-11-16T05:56:34+00:00"
+    }
+   ]
+  },
+  {
+   "id": 6,
+   "score": 11.24,
+   "outlets": [
+    "Deutschlandfunk",
+    "ORF",
+    "ZEIT ONLINE",
+    "DER STANDARD"
+   ],
+   "regions": [
+    "AT",
+    "DE"
+   ],
+   "trend": [],
+   "newest": "2026-11-16T09:12:06+00:00",
+   "articles": [
+    {
+     "source": "Deutschlandfunk",
+     "region": "DE",
+     "weight": 0.95,
+     "title": "Genf - 128 Länder beraten ab Montag über Beschränkungen für KI-Waffensysteme und Killerroboter",
+     "summary": "Die rasante Entwicklung autonomer Waffen mit künstlicher Intelligenz alarmiert zahlreiche Regierungen und Friedensaktivisten. In Genf beraten ab Montag 128 Länder über ein internationales Regelwerk.",
+     "link": "https://www.deutschlandfunk.de/128-laender-beraten-ab-montag-ueber-beschraenkungen-fuer-ki-waffensysteme-und-killerroboter-104.html",
+     "image": "https://bilder.deutschlandfunk.de/FI/LE/_d/d1/FILE_dd1ceeaf60a80cf604606bb75eb6e85c/46083206-jpg-100-768x768.jpg",
+     "aggregator": false,
+     "published": "2026-11-16T09:12:06+00:00"
+    },
+    {
+     "source": "ORF",
+     "region": "AT",
+     "weight": 0.95,
+     "title": "Suche nach Regeln für „Killerroboter“",
+     "summary": "Die rasante Entwicklung autonomer Waffen mit künstlicher Intelligenz alarmiert zahlreiche Regierungen und Friedensaktivisten. Damit einher geht der Ruf nach einem Verbot von Waffen, die ohne menschliches Eingreifen töten. In Genf beraten ab Montag die 128 Vertragsstaaten des UNO-Waffenübereinkommens (CCW) über eine Regulierung der vielfach auch als „Killerroboter“ bezeichneten Waffensysteme.",
+     "link": "https://orf.at/stories/3448266/",
+     "image": null,
+     "aggregator": false,
+     "published": "2026-11-15T21:57:48+00:00"
+    },
+    {
+     "source": "ZEIT ONLINE",
+     "region": "DE",
+     "weight": 0.9,
+     "title": "Autonome Waffensysteme: 128 Länder beraten über Grenzen für autonome KI-Waffen",
+     "summary": "In Genf wird in dieser Woche über mögliche Beschränkungen für die Entwicklung von KI-Waffen diskutiert. Deutschland fordert ein Verbot von vollautonomen Systemen.",
+     "link": "https://www.zeit.de/politik/2026-11/autonome-waffensysteme-ki-verbot-beratungen-genf-gxe",
+     "image": "https://img.zeit.de/politik/2026-11/autonome-waffensysteme-ccw-genf-verbot-usa-deutschland-gxe-foto-1/original__640x360",
+     "aggregator": false,
+     "published": "2026-11-16T08:08:17+00:00"
+    },
+    {
+     "source": "DER STANDARD",
+     "region": "AT",
+     "weight": 0.85,
+     "title": "Keine Kontrolle mehr: Debatte über autonome \"Killerroboter\"",
+     "summary": "128 Vertragsstaaten der UNO-Waffenkonvention diskutieren dieser Tage über klare Schranken bei der Entwicklung",
+     "link": "https://www.derstandard.at/story/3000000349349/keine-kontrolle-mehr-debatte-ueber-autonome-killerroboter?ref=rss",
+     "image": "https://i.ds.at/82Cq3g/rs:fill:150:0/plain/lido-images/2026/09/27/0663ffd0-d0bb-4414-876f-71b3dd089ef5.png",
+     "aggregator": false,
+     "published": "2026-11-16T07:03:15+00:00"
+    }
+   ]
+  },
+  {
+   "id": 7,
+   "score": 10.74,
+   "outlets": [
+    "Deutschlandfunk",
+    "SPIEGEL",
+    "n-tv"
+   ],
+   "regions": [
+    "DE"
+   ],
+   "trend": [
+    "Über 1200 Soldaten im Einsatz - Britischer Flugzeugträger übt für Einsätze im hohen Norden"
+   ],
+   "newest": "2026-11-16T09:12:06+00:00",
+   "articles": [
+    {
+     "source": "Deutschlandfunk",
+     "region": "DE",
+     "weight": 0.95,
+     "title": "Bilanz - Bericht: Zahl der psychisch kranken Bundeswehr-Soldaten gestiegen",
+     "summary": "Die Zahl der Bundeswehr-Soldatinnen und -Soldaten mit einer posttraumatischen Belastungsstörung oder einer anderen durch einen Einsatz ausgelösten psychischen Erkrankung hat zugenommen.",
+     "link": "https://www.deutschlandfunk.de/bericht-zahl-der-psychisch-kranken-bundeswehr-soldaten-gestiegen-104.html",
+     "image": "https://bilder.deutschlandfunk.de/58/bc/45/1d/58bc451d-100b-4643-b5cb-807ffce1e558/bundeswehr-wehrdienst-102-1920x1920.jpg",
+     "aggregator": false,
+     "published": "2026-11-16T09:12:06+00:00"
+    },
+    {
+     "source": "SPIEGEL",
+     "region": "DE",
+     "weight": 0.9,
+     "title": "Bundeswehr: Zahl psychisch erkrankter Soldaten deutlich gestiegen",
+     "summary": "Die Zahl der einsatzbedingten psychischen Erkrankungen unter Soldaten ist deutlich gestiegen. Ein Grund könnte sein, dass Bilder aus dem Ukrainekrieg alte Erinnerungen wecken. Viele Betroffene melden sich erst nach Jahren.",
+     "link": "https://www.spiegel.de/politik/bundeswehr-zahl-psychisch-erkrankter-soldaten-deutlich-gestiegen-a-3ea4d02c-ea6f-4dd3-96cb-7b2ee8479899#ref=rss",
+     "image": "https://cdn.prod.www.spiegel.de/images/5eb4ceea-5a6c-4452-a634-dcc12e62a97d_w520_r2.08_fpx55.74_fpy55.01.jpg",
+     "aggregator": false,
+     "published": "2026-11-16T07:59:00+00:00"
+    },
+    {
+     "source": "n-tv",
+     "region": "DE",
+     "weight": 0.8,
+     "title": "Alte Einsätze, neue Auslöser: Zahl psychisch erkrankter Bundeswehr-Soldaten gestiegen",
+     "summary": "Auslandseinsätze können bei Soldaten noch Jahre später Spuren hinterlassen. Neue Zahlen der Bundeswehr zeigen nun eine auffällige Entwicklung. Ein Experte nennt dafür mehrere mögliche Gründe und warnt vor einem Problem, das viele Betroffene weiterhin davon abhält, frühzeitig Hilfe zu suchen.",
+     "link": "https://www.n-tv.de/politik/Zahl-psychisch-erkrankter-Bundeswehr-Soldaten-gestiegen-id31536991.html",
+     "image": "https://www.n-tv.de/img/31537007/1794808993/Img_4_3/250/imago0868615505h.jpg",
+     "aggregator": false,
+     "published": "2026-11-16T05:19:02+00:00"
+    }
+   ]
+  },
+  {
+   "id": 8,
+   "score": 10.54,
+   "outlets": [
+    "tagesschau",
+    "ZDFheute",
+    "ZEIT ONLINE"
+   ],
+   "regions": [
+    "DE"
+   ],
+   "trend": [],
+   "newest": "2026-11-16T08:36:41+00:00",
+   "articles": [
+    {
+     "source": "tagesschau",
+     "region": "DE",
+     "weight": 1.0,
+     "title": "Entscheidende Woche bei der Weltklimakonferenz COP31 beginnt",
+     "summary": "In Antalya geht die Weltklimakonferenz in die entscheidende Phase: Die Ministerinnen und Minister kommen. Für Bundesumweltminister Schneider gibt es viel zu tun - und Erfolg dürfte wohl auch von Geldzusagen abhängen. Von J. Schreiber.",
+     "link": "https://www.tagesschau.de/ausland/asien/cop-klimagipfel-schneider-100.html",
+     "image": "https://images.tagesschau.de/image/8a8b7370-e27b-4455-afbc-53e2cdae3b84/AAABoeNuRB0/AAABnSSvrFg/16x9-big/schriftzug-cop31-100.jpg?width=1920",
+     "aggregator": false,
+     "published": "2026-11-16T00:35:10+00:00"
+    },
+    {
+     "source": "ZDFheute",
+     "region": "DE",
+     "weight": 1.0,
+     "title": "Rede UN-Generalsekretär Guterres auf der COP31",
+     "summary": "Rede von UN-Generalsekretär António Guterres auf der Weltklimakonferenz COP31 in Antalya",
+     "link": "https://www.phoenix.de/php/mediaplayer/vod_embed.php?cmsid=5247944",
+     "image": "https://www.zdfheute.de/assets/teaser-phoenix-rede-un-generalsekretaer-guterres-auf-der-cop31-5247944-100~384x216?cb=1794589447394",
+     "aggregator": false,
+     "published": "2026-11-13T16:51:00+00:00"
+    },
+    {
+     "source": "ZDFheute",
+     "region": "DE",
+     "weight": 1.0,
+     "title": "Rede Ursula von der Leyen auf der COP31",
+     "summary": "Rede von EU-Kommissionspräsidentin Ursula von der Leyen auf der Weltklimakonferenz (COP31) in Antalya",
+     "link": "https://www.phoenix.de/php/mediaplayer/vod_embed.php?cmsid=5247151",
+     "image": "https://www.zdfheute.de/assets/teaser-phoenix-rede-ursula-von-der-leyen-auf-der-cop31-5247151-100~384x216?cb=1794416637055",
+     "aggregator": false,
+     "published": "2026-11-11T16:44:00+00:00"
+    },
+    {
+     "source": "ZDFheute",
+     "region": "DE",
+     "weight": 1.0,
+     "title": "Rede UN-Generalsekretär Guterres auf der COP31",
+     "summary": "Rede von UN-Generalsekretär António Guterres auf der Weltklimakonferenz COP31 in Antalya",
+     "link": "https://www.phoenix.de/php/mediaplayer/vod_embed.php?cmsid=5247139",
+     "image": "https://www.zdfheute.de/assets/teaser-phoenix-rede-un-generalsekretaer-guterres-auf-der-cop31-5247139-100~384x216?cb=1794413638898",
+     "aggregator": false,
+     "published": "2026-11-11T15:46:00+00:00"
+    },
+    {
+     "source": "ZEIT ONLINE",
+     "region": "DE",
+     "weight": 0.9,
+     "title": "UN-Klimakonferenz in Antalya: Entscheidende Woche der UN-Klimakonferenz beginnt",
+     "summary": "Bei der COP31 wird Deutschland durch Umweltminister Schneider vertreten. Grünenpolitikerin Roth nennt das Fehlen des Kanzlers und der Entwicklungsministerin »erbärmlich«.",
+     "link": "https://www.zeit.de/wissenschaft/umwelt/2026-11/un-klimakonferenz-cop31-antalya-tuerkei-australien-carsten-schneider-gxe",
+     "image": "https://img.zeit.de/wissenschaft/umwelt/2026-11/un-klimakonferenz-cop31-antalya-tuerkei-australien-carsten-schneider-gxe-foto-1/original__640x360",
+     "aggregator": false,
+     "published": "2026-11-16T08:36:41+00:00"
+    }
+   ]
+  },
+  {
+   "id": 9,
+   "score": 10.48,
+   "outlets": [
+    "tagesschau Ausland",
+    "ZDFheute",
+    "SPIEGEL",
+    "n-tv"
+   ],
+   "regions": [
+    "DE",
+    "INT"
+   ],
+   "trend": [],
+   "newest": "2026-11-16T06:36:45+00:00",
+   "articles": [
+    {
+     "source": "tagesschau Ausland",
+     "region": "INT",
+     "weight": 1.0,
+     "title": "Mississippi: 32 Verletzte nach Kollision von Dampfer und Tanker",
+     "summary": "Ein Kreuzfahrtschiff ist auf dem Mississippi in New Orleans von einem Tanker gerammt worden. Der Flussdampfer kenterte. Alle Passagiere an Bord überlebten. Die Bürgermeisterin spricht von einem Wunder.",
+     "link": "https://www.tagesschau.de/ausland/amerika/kreuzfahrtschiff-unfall-new-orleans-102.html",
+     "image": "https://images.tagesschau.de/image/4c666b85-a4b1-47cb-a502-ae3a44ffe086/AAABodkGYWQ/AAABnSSvrFg/16x9-big/new-orleans-kreuzfahrtschiff-102.jpg?width=1920",
+     "aggregator": false,
+     "published": "2026-11-14T13:48:00+00:00"
+    },
+    {
+     "source": "ZDFheute",
+     "region": "DE",
+     "weight": 1.0,
+     "title": "Hafenbetreiber in New Orleans reicht wohl Millionenklage ein",
+     "summary": "Die Kollision eines Tankers mit einem Kreuzfahrtschiff in New Orleans wird rechtliche Folgen haben. Laut US-Medien fordert die Hafenverwaltung eine Million Dollar Schadensersatz.",
+     "link": "https://www.zdfheute.de/panorama/klage-unfall-frachter-kreuzfahrtschiff-new-orleans-100.html",
+     "image": "https://www.zdfheute.de/assets/new-orleans-schiffsunglueck-100~384x216?cb=1794714838557",
+     "aggregator": false,
+     "published": "2026-11-15T03:53:00+00:00"
+    },
+    {
+     "source": "SPIEGEL",
+     "region": "DE",
+     "weight": 0.9,
+     "title": "New Orleans: Steuerungsausfall verursachte Kollision von Tanker und Schaufelradschiff",
+     "summary": "Nach dem Schiffsunglück auf dem Mississippi, bei dem ein Tanker ein Schaufelradschiff mit 197 Personen an Bord gerammt hat, gibt es erste Erkenntnisse zur Ursache: Ein Steuerungsausfall des Tankers hat laut US-Behörden zur Kollision geführt.",
+     "link": "https://www.spiegel.de/panorama/new-orleans-steuerungsausfall-verursachte-kollision-von-tanker-und-schaufelradschiff-a-a72e688a-6d69-4b02-8702-afe63815d4ea#ref=rss",
+     "image": "https://cdn.prod.www.spiegel.de/images/36e6f018-e3bf-4152-af3c-e88bb550c6b2_w520_r2.08_fpx45.4_fpy49.98.jpg",
+     "aggregator": false,
+     "published": "2026-11-15T22:21:00+00:00"
+    },
+    {
+     "source": "n-tv",
+     "region": "DE",
+     "weight": 0.8,
+     "title": "190 Menschen an Bord: Defektes Steuerruder bei Tanker sorgte für Schiffsunglück in New Orleans",
+     "summary": "Am Freitag kentert ein Raddampfer im Hafen von New Orleans nach einem verheerenden Zusammenstoß mit einem Tanker. Nach Auswertung des Fahrtenschreibers gibt es bereits eine Erklärung für die Kollision.",
+     "link": "https://www.n-tv.de/panorama/Defektes-Steuerruder-bei-Tanker-sorgte-fuer-Schiffsunglueck-in-New-Orleans-id31537101.html",
+     "image": "https://www.n-tv.de/img/31533175/1794617121/Img_4_3/250/image.jpg",
+     "aggregator": false,
+     "published": "2026-11-16T06:36:45+00:00"
+    }
+   ]
+  },
+  {
+   "id": 10,
+   "score": 10.44,
+   "outlets": [
+    "tagesschau",
+    "ZDFheute",
+    "Deutschlandfunk",
+    "WELT"
+   ],
+   "regions": [
+    "DE"
+   ],
+   "trend": [],
+   "newest": "2026-11-16T09:12:06+00:00",
+   "articles": [
+    {
+     "source": "tagesschau",
+     "region": "DE",
+     "weight": 1.0,
+     "title": "Arzttermin gegen Bezahlung - warum der Vorstoß für Empörung sorgt",
+     "summary": "Schneller zum Facharzt - aber nur wenn man die Behandlung selbst zahlt: Kassenärzte-Chef Gassen hat mit seinen Äußerungen zu Terminen gegen Aufpreis breite Kritik ausgelöst. Wie ist die Situation für Kassenpatienten - und was macht die Politik?",
+     "link": "https://www.tagesschau.de/inland/gesellschaft/arzttermine-selbst-zahlen-debatte-100.html",
+     "image": "https://images.tagesschau.de/image/ee9f6cc9-2abe-4ab6-a786-06eaecbbc82c/AAABm2psovs/AAABnSSvrFg/16x9-big/arzt-patient-102.jpg?width=1920",
+     "aggregator": false,
+     "published": "2026-11-15T12:42:46+00:00"
+    },
+    {
+     "source": "tagesschau Inland",
+     "region": "DE",
+     "weight": 1.0,
+     "title": "Arzttermin gegen Bezahlung - warum der Vorstoß für Empörung sorgt",
+     "summary": "Schneller zum Facharzt - aber nur wenn man die Behandlung selbst zahlt: Kassenärzte-Chef Gassen hat mit seinen Äußerungen zu Terminen gegen Aufpreis breite Kritik ausgelöst. Wie ist die Situation für Kassenpatienten - und was macht die Politik?",
+     "link": "https://www.tagesschau.de/inland/gesellschaft/arzttermine-selbst-zahlen-debatte-100.html",
+     "image": "https://images.tagesschau.de/image/ee9f6cc9-2abe-4ab6-a786-06eaecbbc82c/AAABm2psovs/AAABnSSvrFg/16x9-big/arzt-patient-102.jpg?width=1920",
+     "aggregator": false,
+     "published": "2026-11-15T12:42:46+00:00"
+    },
+    {
+     "source": "tagesschau Inland",
+     "region": "DE",
+     "weight": 1.0,
+     "title": "Selbstzahlen oder lange Wartezeit? Kritik an Kassenärzte-Chef",
+     "summary": "Schneller zum Facharzt, wenn man den Termin selbst zahlt? Wegen der anstehenden Honorarkürzungen hält Kassenärzte-Chef Gassen das für wahrscheinlich. Er handelte sich damit deutliche Kritik ein.",
+     "link": "https://www.tagesschau.de/inland/reaktionen-selbstzahler-arzttermine-100.html",
+     "image": "https://images.tagesschau.de/image/d5214042-cf3f-48f9-bc4b-89dd65405722/AAABleWVibQ/AAABnSSvrFg/16x9-big/aerzte-113.jpg?width=1920",
+     "aggregator": false,
+     "published": "2026-11-14T19:45:01+00:00"
+    },
+    {
+     "source": "ZDFheute",
+     "region": "DE",
+     "weight": 1.0,
+     "title": "Facharzt: Schneller Termin bald nur für Selbstzahler?",
+     "summary": "Wer selbst zahlt, kommt schneller zum Facharzt? Kassenärzte-Chef Gassen hält das wegen Honorarkürzungen bald für wahrscheinlich. SPD, Kassen und ein Sozialverband laufen Sturm.",
+     "link": "https://www.zdfheute.de/politik/deutschland/arzt-termin-kosten-facharzt-verband-kassenaerzte-gassen-kritik-100.html",
+     "image": "https://www.zdfheute.de/assets/arztpraxis-wartezimmer-102~384x216?cb=1794676515551",
+     "aggregator": false,
+     "published": "2026-11-14T18:26:00+00:00"
+    },
+    {
+     "source": "Deutschlandfunk",
+     "region": "DE",
+     "weight": 0.95,
+     "title": "Gesundheit - Sprechstunde nur für Selbstzahler? Kritik an Vorstoß von Kassenärzte-Chef Gassen",
+     "summary": "Der Vorstandsvorsitzende der Kassenärztlichen Bundesvereinigung, Gassen, hat mit seinen Äußerungen zu möglichen Selbstzahler-Terminen Kritik auf sich gezogen.",
+     "link": "https://www.deutschlandfunk.de/sprechstunde-nur-fuer-selbstzahler-kritik-an-vorstoss-von-kassenaerzte-chef-gassen-102.html",
+     "image": "https://bilder.deutschlandfunk.de/FI/LE/_a/ca/FILE_aca2da5d75a1b4875733ba77102ad49a/arzt-migrantin-jpg-102-1280x1280.jpg",
+     "aggregator": false,
+     "published": "2026-11-16T09:12:06+00:00"
+    },
+    {
+     "source": "WELT",
+     "region": "DE",
+     "weight": 0.6,
+     "title": "„Hoch bezahlter Lobbyist“ – Lauterbach attackiert Kassenärzte-Chef Gassen",
+     "summary": "„Hoch bezahlter Lobbyist“ – Lauterbach attackiert Kassenärzte-Chef Gassen WELT Arzttermin gegen Bezahlung - warum der Vorstoß für Empörung sorgt tagesschau.de Grüne warnen vor \"Paywall\" für Arzttermine n-tv.de Krankenkassenreform: SPD und Grüne lehnen vermehrte Selbstzahlertermine in Arztpraxen ab DIE ZEIT Gesundheit - Sprechstunde nur für Selbstzahler? Kritik an Vorstoß von Kassenärzte-Chef Gassen Deutschlandfunk",
+     "link": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxNSWNVMWhFXzNsNVFLMDFCVjB3aGJYQThGcWN2ejZRaXZCaG1ITS1Xajk5a2JYN1VJTl9iblRhanQ1Zk9oOFliRkE4NENacXdRaE05VzlIZTBZV2FzUkFJOEtvUzVncUZWRkNYNFdEWHhlYkhPLU5UbDhvX18wNzl0ekRjVld6MjhxdmFZdUZMbVlrT2tjdVRUZGYxMkpjZGxVSmFadTA0SC1OcFk3T3dLVkQ2XzhQbm5vNldtMTU2eS1hdFZ6U0Z5M1l6UEFZYXpWLVBac3kxYmI5Zi1EQTdEX0FPdkMzWFdOZXp5VENpOXp6Rk5I?oc=5",
+     "image": null,
+     "aggregator": true,
+     "published": "2026-11-15T16:49:03+00:00"
+    }
+   ]
+  },
+  {
+   "id": 11,
+   "score": 10.24,
+   "outlets": [
+    "Deutschlandfunk",
+    "Handelsblatt",
+    "n-tv"
+   ],
+   "regions": [
+    "DE"
+   ],
+   "trend": [],
+   "newest": "2026-11-16T09:12:06+00:00",
+   "articles": [
+    {
+     "source": "Deutschlandfunk",
+     "region": "DE",
+     "weight": 0.95,
+     "title": "Deutsche Asylpolitik - \"Return Hubs\": Worum es bei dem geplanten Abschiebezentrum in Ruanda geht",
+     "summary": "Bundesinnenminister Dobrindt strebt die Einrichtung eines Abschiebezentrums in Ruanda gemeinsam mit vier anderen EU-Ländern an. Die Maßnahme ist innerhalb der Bundesregierung umstritten. Außerdem gibt es weitere Hürden für die sogenannten \"Return Hubs\". Ein Überblick.",
+     "link": "https://www.deutschlandfunk.de/return-hubs-worum-es-bei-dem-geplanten-abschiebezentrum-in-ruanda-geht-100.html",
+     "image": "https://bilder.deutschlandfunk.de/99/2f/fe/20/992ffe20-1032-4eb7-a3bc-e06cd31d60e1/stacheldraht-abschiebung-deutschland-100-1920x1920.jpg",
+     "aggregator": false,
+     "published": "2026-11-16T09:12:06+00:00"
+    },
+    {
+     "source": "Handelsblatt",
+     "region": "DE",
+     "weight": 0.9,
+     "title": "Asylpolitik: Vor Treffen in Wien – Kritik an geplanten EU-Abschiebezentren in Ruanda",
+     "summary": "Bundesinnenminister Alexander Dobrindt plant im Rahmen eines Modellprojekts ein Abschiebezentrum in Ruanda. Beim Koalitionspartner trifft der Plan auf harte Kritik.",
+     "link": "https://www.handelsblatt.com/politik/deutschland/asylpolitik-kritik-an-geplanten-eu-abschiebezentren-in-ruanda/100270139.html",
+     "image": "https://images.handelsblatt.com/g0QewJgCPiux/cover/900/506/0/0/207/207/0.5/0.5/berlin-deutschland-04.11.2026-deutscher-bundestag-104.-bundestagssitzung-sebastian-fiedler-spd.jpg",
+     "aggregator": false,
+     "published": "2026-11-16T08:50:04+00:00"
+    },
+    {
+     "source": "n-tv",
+     "region": "DE",
+     "weight": 0.8,
+     "title": "EU-Länder planen \"Return Hubs\": SPD-Politiker wollen Dobrindts Abschiebezentren in Ruanda verhindern",
+     "summary": "Flüchtlinge, die kein Anrecht auf Asyl haben, könnten künftig nach Ruanda abgeschoben werden. 20 Millionen Euro sind im Haushalt für \"Return Hubs\" vorgesehen, die Innenminister Dobrindt und andere EU-Länder einrichten wollen. In der SPD regt sich dagegen Widerstand.",
+     "link": "https://www.n-tv.de/politik/SPD-Politiker-wollen-Dobrindts-Abschiebezentren-in-Ruanda-verhindern-id31536847.html",
+     "image": "https://www.n-tv.de/img/31536894/1794819952/Img_4_3/250/632632861.jpg",
+     "aggregator": false,
+     "published": "2026-11-16T04:01:54+00:00"
+    }
+   ]
+  },
+  {
+   "id": 12,
+   "score": 9.9,
+   "outlets": [
+    "Handelsblatt",
+    "DER STANDARD"
+   ],
+   "regions": [
+    "AT",
+    "DE"
+   ],
+   "trend": [
+    "goldpreis"
+   ],
+   "newest": "2026-11-16T08:10:58+00:00",
+   "articles": [
+    {
+     "source": "Handelsblatt",
+     "region": "DE",
+     "weight": 0.9,
+     "title": "Dax aktuell: Dax startet verhalten in die neue Handelswoche – Goldpreis auf tiefstem Stand seit Oktober 2025",
+     "summary": "Nach dem Rekordhoch in der vergangenen Woche startet der Dax verhalten in den Handel. Anleger warten gespannt auf die Nvidia-Zahlen, die am Dienstagabend veröffentlicht werden.",
+     "link": "https://www.handelsblatt.com/finanzen/maerkte/marktberichte/dax-aktuell-dax-startet-verhalten-in-die-neue-handelswoche/100270107.html",
+     "image": "https://images.handelsblatt.com/bckzfpdOn42n/cover/900/506/0/1/0/0/0.5/0.5/graph-aktienkurs-aktienchart-dax-online-dax-bericht.jpg",
+     "aggregator": false,
+     "published": "2026-11-16T08:10:58+00:00"
+    },
+    {
+     "source": "DER STANDARD",
+     "region": "AT",
+     "weight": 0.85,
+     "title": "Goldpreis auf tiefsten Stand seit Oktober 2025 gefallen",
+     "summary": "Der Preis pro Feinunze sank an der Börse in London am Montag im frühen Handel auf 3832 Dollar, Hintergrund ist die Sorge vor einer höheren Inflation und damit anziehenden Zinsen",
+     "link": "https://www.derstandard.at/story/3000000349350/goldpreis-auf-tiefsten-stand-seit-oktober-2025-gefallen?ref=rss",
+     "image": "https://i.ds.at/4KQU6A/rs:fill:150:0/plain/lido-images/2026/11/16/5e969ffe-65cd-4874-949a-c5f1f51a2187.jpg",
+     "aggregator": false,
+     "published": "2026-11-16T07:08:29+00:00"
+    }
+   ]
+  },
+  {
+   "id": 13,
+   "score": 9.78,
+   "outlets": [
+    "tagesschau",
+    "SPIEGEL",
+    "DER STANDARD"
+   ],
+   "regions": [
+    "AT",
+    "DE"
+   ],
+   "trend": [],
+   "newest": "2026-11-16T08:25:28+00:00",
+   "articles": [
+    {
+     "source": "tagesschau",
+     "region": "DE",
+     "weight": 1.0,
+     "title": "Ehren-Oscar für Glenn Close, Chhath-Puja-Fest, Literaturnobelpreisträger Miguel Ángel Asturias",
+     "summary": "Ehren-Oscar für Glenn Close, Chhath-Puja-Fest, Literaturnobelpreisträger Miguel Ángel Asturias",
+     "link": "https://www.tagesschau.de/multimedia/bilder/blickpunkte-10570.html",
+     "image": "https://images.tagesschau.de/image/4660f178-8187-4a88-b433-3c1eed485350/AAABoeMe_UA/AAABnSSvrFg/16x9-big/close-102.jpg?width=1920",
+     "aggregator": false,
+     "published": "2026-11-16T07:07:39+00:00"
+    },
+    {
+     "source": "SPIEGEL",
+     "region": "DE",
+     "weight": 0.9,
+     "title": "Ehren-Oscar für Glenn Close: Auszeichnungen bei den Govenors Awards",
+     "summary": "Die Oscar-Academy hat bei ihrer alljährlichen Herbstgala die Preise fürs Lebenswerk vergeben. Ausgezeichnet wurden ein Animationsfilmer, eine Schauspielerin und ein Regisseur. Im Publikum war auch Sandra Hüller.",
+     "link": "https://www.spiegel.de/kultur/kino/ehren-oscar-fuer-glenn-close-auszeichnungen-bei-den-govenors-awards-a-0110e9b0-873f-453e-b53e-ca404570883f#ref=rss",
+     "image": "https://cdn.prod.www.spiegel.de/images/51a5a5db-f5e8-456c-9118-75f5c02a3506_w520_r2.08_fpx37.33_fpy50.jpg",
+     "aggregator": false,
+     "published": "2026-11-16T08:25:00+00:00"
+    },
+    {
+     "source": "DER STANDARD",
+     "region": "AT",
+     "weight": 0.85,
+     "title": "Glenn Close erhielt bei der Governors-Awards-Gala einen Ehren-Oscar",
+     "summary": "Die Schauspielerin war im Laufe ihrer Karriere achtmal für eine Trophäe nominiert und ging immer leer aus",
+     "link": "https://www.derstandard.at/story/3000000349357/glenn-close-erhielt-bei-der-governors-awards-gala-einen-ehren-oscar?ref=rss",
+     "image": "https://i.ds.at/QHqDYg/rs:fill:150:0/plain/lido-images/2026/11/16/f210a9a0-ee88-487d-bab4-c5d69bd420a5.jpg",
+     "aggregator": false,
+     "published": "2026-11-16T08:25:28+00:00"
+    },
+    {
+     "source": "Spiegel",
+     "region": "DE",
+     "weight": 0.6,
+     "title": "Ehren-Oscar für Glenn Close: Auszeichnungen bei den Govenors Awards",
+     "summary": "Ehren-Oscar für Glenn Close: Auszeichnungen bei den Govenors Awards Spiegel Weitere Schlagzeilen und Meinungen in Google News",
+     "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxOcm9JNnktLVFzVGxOQ1ZsQ3JXWXpNZmtfblFEQ0ttNUxTejRxZWJHTDJmNnA4cExhSkFGWkNySkpXWTNaYnNUdEQ4ak5yb0I3S01CZEdxTjdyQ3BUa01RYWEzVnhLZ2NGYXVLdmtURUFvelFWZGJlOGdDWTNKVDFvM3llQlVzeUEta0lielVYTXRPS2VzaDRLTVBlbWZyUGxFZlR2RlhWWHRvNllfS1dQaVNfV1hwcC1UTURjeHRPRkkwaEZTY2d2OEk2WFBZVHZPWTJjTGJfRTU?oc=5",
+     "image": null,
+     "aggregator": true,
+     "published": "2026-11-16T08:25:00+00:00"
+    }
+   ]
+  },
+  {
+   "id": 14,
+   "score": 9.69,
+   "outlets": [
+    "tagesschau Inland",
+    "ZDFheute",
+    "Handelsblatt"
+   ],
+   "regions": [
+    "DE"
+   ],
+   "trend": [],
+   "newest": "2026-11-16T09:02:53+00:00",
+   "articles": [
+    {
+     "source": "tagesschau Inland",
+     "region": "DE",
+     "weight": 1.0,
+     "title": "Trauerakt in München: Große Anteilnahme bei Abschied von Aiwanger",
+     "summary": "Der bayerische Vize-Ministerpräsident und Freie-Wähler-Chef Aiwanger ist mit einem Trauerstaatsakt gewürdigt worden. Die Anteilnahme war groß. Zu der Zeremonie in der Frauenkirche kamen mehr als 1.000 Trauergäste.",
+     "link": "https://www.tagesschau.de/inland/aiwanger-trauerfeier-100.html",
+     "image": "https://images.tagesschau.de/image/22daa702-6dd7-4916-b63e-089f68d00f62/AAABodofE2M/AAABnSSvrFg/16x9-big/aiwanger-gottesdienst-102.jpg?width=1920",
+     "aggregator": false,
+     "published": "2026-11-14T13:22:33+00:00"
+    },
+    {
+     "source": "ZDFheute",
+     "region": "DE",
+     "weight": 1.0,
+     "title": "Trauerstaatsakt und Gottesdienst für Hubert Aiwanger",
+     "summary": "Zehn Tage nach dem Tod von Hubert Aiwanger wird heute in München von ihm Abschied genommen.",
+     "link": "https://www.zdfheute.de/video/trauer-staatsakt-aiwanger-100.html",
+     "image": "https://www.zdfheute.de/assets/aiwanger-trauer-staatsakt-100~384x216?cb=1794667282079",
+     "aggregator": false,
+     "published": "2026-11-14T13:05:08+00:00"
+    },
+    {
+     "source": "Handelsblatt",
+     "region": "DE",
+     "weight": 0.9,
+     "title": "Nach Tod von Freie-Wähler-Chef: Aiwangers Lebensgefährtin: Alle dürfen zur Beisetzung kommen",
+     "summary": "Mehr als 1.100 Menschen nehmen in München Abschied von Hubert Aiwanger. Nun steht die Beisetzung in seiner niederbayerischen Heimat an - und seine Partnerin spricht eine ungewöhnliche Einladung aus.",
+     "link": "https://www.handelsblatt.com/politik/deutschland/nach-tod-von-freie-waehler-chef-aiwangers-lebensgefaehrtin-alle-duerfen-zur-beisetzung-kommen/100270099.html",
+     "image": "https://images.handelsblatt.com/etmOBgy6ewfy/cover/900/506/0/0/107/106/0.5/0.5/tanja-schweiger.jpg",
+     "aggregator": false,
+     "published": "2026-11-16T09:02:53+00:00"
+    }
+   ]
+  },
+  {
+   "id": 15,
+   "score": 9.64,
+   "outlets": [
+    "Deutschlandfunk",
+    "NZZ"
+   ],
+   "regions": [
+    "CH",
+    "DE"
+   ],
+   "trend": [],
+   "newest": "2026-11-16T09:12:06+00:00",
+   "articles": [
+    {
+     "source": "Deutschlandfunk",
+     "region": "DE",
+     "weight": 0.95,
+     "title": "Apec-Gipfel - China bestätigt gesondertes Treffen zwischen Trump, Putin und Xi",
+     "summary": "Nach den USA und Russland hat auch China das geplante Dreier-Gipfeltreffen bestätigt.",
+     "link": "https://www.deutschlandfunk.de/china-bestaetigt-gesondertes-treffen-zwischen-trump-putin-und-xi-102.html",
+     "image": "https://bilder.deutschlandfunk.de/ee/13/ad/53/ee13ad53-f0e7-42a1-8b44-d88c37ce3a23/apec-usa-asiatisch-pazifisch-wirtschaft-gemeinschaft-100-1920x1920.jpg",
+     "aggregator": false,
+     "published": "2026-11-16T09:12:06+00:00"
+    },
+    {
+     "source": "NZZ",
+     "region": "CH",
+     "weight": 0.9,
+     "title": "Dreiergipfel in Shenzhen: Peking organisiert ein Treffen zwischen Donald Trump, Xi Jinping und Wladimir Putin",
+     "summary": "Washington, Peking und Moskau haben die hochrangige Zusammenkunft am kommenden Donnerstag bestätigt. Das Problem ist, dass die drei Staatsoberhäupter mit unterschiedlichen Absichten in die Gespräche gehen werden – die Agenda ist offen.",
+     "link": "https://www.nzz.ch/international/dreiergipfel-in-shenzhen-peking-organisiert-ein-treffen-zwischen-donald-trump-xi-jinping-und-wladimir-putin-ld.10063910",
+     "image": "https://img-msp-prod.nzz.ch/2024/12/03/a4a8de60-1a13-460d-a1fe-d9b54c6aadad.jpeg?width=200&height=200&fit=bounds&quality=75&auto=webp&crop=3857,3857,x372,y446",
+     "aggregator": false,
+     "published": "2026-11-16T07:54:16+00:00"
+    }
+   ]
+  },
+  {
+   "id": 16,
+   "score": 9.64,
+   "outlets": [
+    "Deutschlandfunk",
+    "ORF",
+    "SRF News"
+   ],
+   "regions": [
+    "AT",
+    "CH",
+    "DE"
+   ],
+   "trend": [],
+   "newest": "2026-11-16T09:12:06+00:00",
+   "articles": [
+    {
+     "source": "Deutschlandfunk",
+     "region": "DE",
+     "weight": 0.95,
+     "title": "Krieg im Jemen - Regierungstruppen ziehen sich nach Kämpfen mit Huthi-Miliz von Meerenge Bab al-Mandab zurück",
+     "summary": "Im Jemen ziehen sich die Truppen der international anerkannten Regierung von der strategisch wichtigen Meerenge Bab al-Mandab zurück.",
+     "link": "https://www.deutschlandfunk.de/regierungstruppen-ziehen-sich-nach-kaempfen-mit-huthi-miliz-von-meerenge-bab-al-mandab-zurueck-102.html",
+     "image": "https://bilder.deutschlandfunk.de/ad/25/65/a0/ad2565a0-634e-42a1-bece-9ae3f215448f/bab-al-mandab-102-1920x1920.jpg",
+     "aggregator": false,
+     "published": "2026-11-16T09:12:06+00:00"
+    },
+    {
+     "source": "ORF",
+     "region": "AT",
+     "weight": 0.95,
+     "title": "Huthis festigen Kontrolle am Roten Meer",
+     "summary": "Die von Saudi-Arabien unterstützten Regierungstruppen im Jemen haben sich am Sonntag von der strategisch wichtigen Meerenge Bab al-Mandab zurückgezogen, um ihre provisorische Hauptstadt Aden zu verteidigen. Damit scheiterte ein mehrwöchiger Versuch einer Offensive mit dem Ziel, die von den vom Iran unterstützten Huthi-Rebellen im September eingenommene Meerenge zurückzuerobern. Der Iran griff am Sonntag indes US-Basen in Bahrain an.",
+     "link": "https://orf.at/stories/3448298/",
+     "image": null,
+     "aggregator": false,
+     "published": "2026-11-16T07:35:52+00:00"
+    },
+    {
+     "source": "SRF News",
+     "region": "CH",
+     "weight": 0.95,
+     "title": "Strategische Meerenge – Bab al-Mandab fällt wieder in die Hände der Huthi-Miliz",
+     "summary": "Die Regierungstruppen ziehen sich von der wichtigen Meerenge zurück. Vorrang hat nun die Sicherung der Hauptstadt.",
+     "link": "https://www.srf.ch/news/international/strategische-meerenge-bab-al-mandab-faellt-wieder-in-die-haende-der-huthi-miliz",
+     "image": "https://www.srf.ch/static/cms/images//320ws/45bb0a.webp",
+     "aggregator": false,
+     "published": "2026-11-15T14:36:16+00:00"
+    }
+   ]
+  },
+  {
+   "id": 17,
+   "score": 9.55,
+   "outlets": [
+    "ORF",
+    "SPIEGEL",
+    "DER STANDARD"
+   ],
+   "regions": [
+    "AT",
+    "DE"
+   ],
+   "trend": [],
+   "newest": "2026-11-16T06:50:00+00:00",
+   "articles": [
+    {
+     "source": "ORF",
+     "region": "AT",
+     "weight": 0.95,
+     "title": "Elf Tote bei Brand auf thailändischer Urlaubsinsel Phuket",
+     "summary": "",
+     "link": "https://orf.at/stories/3448295/",
+     "image": null,
+     "aggregator": false,
+     "published": "2026-11-16T05:42:14+00:00"
+    },
+    {
+     "source": "SPIEGEL",
+     "region": "DE",
+     "weight": 0.9,
+     "title": "Thailand: Elf Tote bei Brand auf Urlaubsinsel Phuket",
+     "summary": "Elf Menschen sterben bei einem schweren Feuer auf Phuket. Im Touristenzentrum Patong soll ein Transformator explodiert sein.",
+     "link": "https://www.spiegel.de/panorama/thailand-elf-tote-bei-brand-auf-urlaubsinsel-phuket-a-d50d087b-ea22-43df-bb3b-7d654e3fd103#ref=rss",
+     "image": "https://cdn.prod.www.spiegel.de/images/650819eb-65b3-42c4-89f2-bb76f62451f5_w520_r2.08_fpx62.63_fpy49.95.jpg",
+     "aggregator": false,
+     "published": "2026-11-16T06:50:00+00:00"
+    },
+    {
+     "source": "DER STANDARD",
+     "region": "AT",
+     "weight": 0.85,
+     "title": "Elf Tote bei Brand auf thailändischer Urlaubsinsel Phuket",
+     "summary": "Ein Kurzschluss an einem Strommast könnte das Feuer ausgelöst haben",
+     "link": "https://www.derstandard.at/story/3000000349346/elf-tote-bei-brand-auf-thail228ndischer-urlaubsinsel-phuket?ref=rss",
+     "image": "https://i.ds.at/Y5Xz0g/rs:fill:150:0/plain/lido-images/2026/11/16/d7dbc4a8-6192-4d3a-bb1d-b02497fc64c9.jpg",
+     "aggregator": false,
+     "published": "2026-11-16T05:47:56+00:00"
+    }
+   ]
+  },
+  {
+   "id": 18,
+   "score": 9.44,
+   "outlets": [
+    "Deutsche Welle",
+    "ORF",
+    "NZZ"
+   ],
+   "regions": [
+    "AT",
+    "CH",
+    "INT"
+   ],
+   "trend": [],
+   "newest": "2026-11-16T08:55:00+00:00",
+   "articles": [
+    {
+     "source": "Deutsche Welle",
+     "region": "INT",
+     "weight": 0.95,
+     "title": "Estland schließt nach Sabotageversuch Grenze zu Russland",
+     "summary": "Nach einem versuchten Brandanschlag auf eine Drohnenfabrik macht Estland den russischen Militärgeheimdienst verantwortlich. Tallinn kündigt eine vollständige Grenzschließung an. Moskau reagiert empört.",
+     "link": "https://www.dw.com/de/estland-schließt-nach-sabotageversuch-grenze-zu-russland/a-79955003?maca=de-rss-de-all-1119-xml-mrss",
+     "image": "https://static.dw.com/image/70044575_302.jpg",
+     "aggregator": false,
+     "published": "2026-11-16T08:55:00+00:00"
+    },
+    {
+     "source": "ORF",
+     "region": "AT",
+     "weight": 0.95,
+     "title": "Estland schließt Grenze zu Russland",
+     "summary": "Nach einem versuchten Brandanschlag auf das Gebäude des Drohnenherstellers Threod Systems in Estland hat die Regierung in Tallinn beschlossen, die Grenzen zu Russland zu schließen. Außenminister Margus Tsahkna sprach am Sonntag von einem Sabotageakt gegen die Rüstungsindustrie des Landes und warf dem russischen Militärgeheimdienst GRU vor, diesen in Auftrag gegeben zu haben. Russland übte scharfe Kritik.",
+     "link": "https://orf.at/stories/3448259/",
+     "image": null,
+     "aggregator": false,
+     "published": "2026-11-15T18:59:56+00:00"
+    },
+    {
+     "source": "NZZ",
+     "region": "CH",
+     "weight": 0.9,
+     "title": "Nach einem versuchten Sabotageakt bei einem Rüstungshersteller schliesst Estland die Grenze zu Russland",
+     "summary": "Mehrere Personen sind nach einem versuchten Brandanschlag festgenommen worden. Estland beschuldigt den russischen Militärgeheimdienst GRU.",
+     "link": "https://www.nzz.ch/international/estland-schliesst-grenzen-zu-russland-nach-sabotageakt-auf-ruestungsfirma-ld.10064620",
+     "image": "https://img-msp-prod.nzz.ch/2026/11/16/f4ba0125-2d05-4fc0-9875-df7f7f1b2908.jpg?width=200&height=200&fit=bounds&quality=75&auto=webp&crop=3569,3569,x0,y0",
+     "aggregator": false,
+     "published": "2026-11-16T04:30:00+00:00"
+    }
+   ]
+  },
+  {
+   "id": 19,
+   "score": 9.32,
+   "outlets": [
+    "tagesschau",
+    "ZDFheute",
+    "WELT"
+   ],
+   "regions": [
+    "DE"
+   ],
+   "trend": [],
+   "newest": "2026-11-16T08:32:21+00:00",
+   "articles": [
+    {
+     "source": "tagesschau",
+     "region": "DE",
+     "weight": 1.0,
+     "title": "Nations League: So kommt das DFB-Team ins Viertelfinale",
+     "summary": "Nach dem Sieg in Serbien kann Deutschland aus eigener Kraft die Gruppenphase überstehen, aber auch noch absteigen. Ein Sieg würde dem DFB-Team in jedem Fall fürs Weiterkommen reichen.",
+     "link": "https://www.sportschau.de/fussball/nationalmannschaft/so-erreicht-klopp-mit-dem-dfb-team-noch-viertelfinale,artikel-nations-league-viertelfinale-100.html",
+     "image": "https://images.sportschau.de/image/eb42dcb2-f7e1-4626-ae65-361ab1ff2991/AAABoQgUSFs/AAABnSSvrFg/16x9-big/wirtz-300.jpg?width=1920",
+     "aggregator": false,
+     "published": "2026-11-15T19:31:40+00:00"
+    },
+    {
+     "source": "ZDFheute",
+     "region": "DE",
+     "weight": 1.0,
+     "title": "Belgien düpiert Italien und steht im Viertelfinale",
+     "summary": "Belgien hat mit einem eindrucksvollen Sieg gegen Italien das Viertelfinale der Nations League erreicht. Der Gruppensieg ging an Frankreich, das die Türkei besiegte.",
+     "link": "https://www.zdfheute.de/sport/fussball-nations-league-gruppe-1-belgien-italien-frankreich-tuerkei-100.html",
+     "image": "https://www.zdfheute.de/assets/belgien-italien-124~384x216?cb=1794775925435",
+     "aggregator": false,
+     "published": "2026-11-15T22:17:00+00:00"
+    },
+    {
+     "source": "WELT",
+     "region": "DE",
+     "weight": 0.8,
+     "title": "So sehen Sie Deutschland gegen die Niederlande live im TV",
+     "summary": "Deutschland empfängt die Niederlande in der Nations League. Ein Sieg hält den Einzug ins Viertelfinale offen, eine Niederlage beendet ihn. Das Spiel wird live im Free-TV und kostenlos im Stream gezeigt.",
+     "link": "https://www.welt.de/sport/fussball/article6afaba19172b587f4434d489/nations-league-so-sehen-sie-deutschland-gegen-die-niederlande-live-im-tv.html",
+     "image": "https://images.welt.de/6afaba19172b587f4434d489/093dcec1c2e8b057c76132291c0a820e/ci23x11-w1200/dpa-com-260924-936-102999-jpg",
+     "aggregator": false,
+     "published": "2026-11-16T08:32:21+00:00"
+    }
+   ]
+  },
+  {
+   "id": 20,
+   "score": 9.19,
+   "outlets": [
+    "ZDFheute",
+    "ORF",
+    "WELT"
+   ],
+   "regions": [
+    "AT",
+    "DE"
+   ],
+   "trend": [],
+   "newest": "2026-11-16T08:27:00+00:00",
+   "articles": [
+    {
+     "source": "ZDFheute",
+     "region": "DE",
+     "weight": 1.0,
+     "title": "Prinz Harry in der Ukraine: \"Ihr werdet den Krieg gewinnen\"",
+     "summary": "Prinz Harry ist erneut überraschend in die Ukraine gereist. In Lwiw traf er verletzte Soldaten in einer Rehabilitationsklinik und sah sich ein Rollstuhlrugby-Spiel an.",
+     "link": "https://www.zdfheute.de/politik/ausland/prinz-harry-besuch-ukraine-krieg-russland-100.html",
+     "image": "https://www.zdfheute.de/assets/prinz-harry-besuch-ukraine-100~384x216?cb=1794817785804",
+     "aggregator": false,
+     "published": "2026-11-16T08:27:00+00:00"
+    },
+    {
+     "source": "ORF",
+     "region": "AT",
+     "weight": 0.95,
+     "title": "Prinz Harry besuchte Veteranen in Lwiw",
+     "summary": "",
+     "link": "https://orf.at/stories/3448287/",
+     "image": null,
+     "aggregator": false,
+     "published": "2026-11-15T22:46:51+00:00"
+    },
+    {
+     "source": "WELT",
+     "region": "DE",
+     "weight": 0.8,
+     "title": "Prinz Harry besucht verwundete Kriegsveteranen in Lviv",
+     "summary": "Der britische Prinz Harry ist überraschend nach Lviv in die Ukraine gereist. In einer Rehaklinik besuchte er verwundete Kriegsveteranen und sprach ihnen Mut zu. Bei seinem vierten Besuch seit Beginn des russischen Angriffskrieges verfolgte Harry zudem ein Rollstuhl-Rugby-Spiel,",
+     "link": "https://www.welt.de/politik/video6afaa6ea4495f9bd85b81aa5/ukraine-krieg-prinz-harry-besucht-verwundete-kriegsveteranen-in-lviv.html",
+     "image": "https://images.welt.de/6afaa6ea4495f9bd85b81aa5/66ac1b1cf5196fb9b4f217e51207da96/ci16x9-w1200/gyi-2304715710-jpg",
+     "aggregator": false,
+     "published": "2026-11-16T06:50:50+00:00"
+    }
+   ]
+  },
+  {
+   "id": 21,
+   "score": 8.84,
+   "outlets": [
+    "tagesschau Inland",
+    "Deutschlandfunk"
+   ],
+   "regions": [
+    "DE"
+   ],
+   "trend": [],
+   "newest": "2026-11-16T09:12:06+00:00",
+   "articles": [
+    {
+     "source": "tagesschau Inland",
+     "region": "DE",
+     "weight": 1.0,
+     "title": "Heils Kandidatur für SPD-Vorsitz aktiviert Klingbeils Fürsprecher",
+     "summary": "Der Erste wagt sich aus der Deckung: Ex-Arbeitsminister Heil will die SPD führen. Was macht Parteichef Klingbeil? Tritt er beim Parteitag im Januar erneut für den Vorsitz an? Nun sprachen sich weitere namhafte SPD-Politiker für ihn aus.",
+     "link": "https://www.tagesschau.de/inland/innenpolitik/spd-spitze-klingbeil-heil-100.html",
+     "image": "https://images.tagesschau.de/image/cfa04f79-ad8c-4715-92f8-9f25a2c9a38c/AAABod5Tybk/AAABnSSvrFg/16x9-big/klingbeil-466.jpg?width=1920",
+     "aggregator": false,
+     "published": "2026-11-15T13:30:13+00:00"
+    },
+    {
+     "source": "Deutschlandfunk",
+     "region": "DE",
+     "weight": 0.95,
+     "title": "Debatte über künftige Spitze - Lies warnt SPD vor \"Selbstbeschäftigung\" - Rückhalt für Klingbeil",
+     "summary": "Der frühere Arbeitsminister Heil hat als erster seine Kandidatur für den SPD-Vorsitz angekündigt. Daraufhin meldeten sich namhafte Fürsprecher des bisherigen Parteichefs Klingbeil. Der niedersächsische Ministerpräsident Lies warnte vor Streit in der Partei.",
+     "link": "https://www.deutschlandfunk.de/lies-warnt-spd-vor-selbstbeschaeftigung-rueckhalt-fuer-klingbeil-102.html",
+     "image": "https://bilder.deutschlandfunk.de/d3/11/b4/9a/d311b49a-5803-4f77-989b-e0f49b800c05/spd-partei-spitze-bas-klingbeil-100-1920x1920.jpg",
+     "aggregator": false,
+     "published": "2026-11-16T09:12:06+00:00"
+    }
+   ]
+  },
+  {
+   "id": 22,
+   "score": 8.44,
+   "outlets": [
+    "tagesschau",
+    "Deutschlandfunk",
+    "n-tv.de"
+   ],
+   "regions": [
+    "DE",
+    "INT"
+   ],
+   "trend": [],
+   "newest": "2026-11-16T09:12:06+00:00",
+   "articles": [
+    {
+     "source": "tagesschau",
+     "region": "DE",
+     "weight": 1.0,
+     "title": "Mögliche Abkommen: Eignet sich Ruanda für Abschiebezentren?",
+     "summary": "Wohin mit abgelehnten Asylbewerbern, die nicht in ihre Herkunftsländer abgeschoben werden können? Nach Plänen Deutschlands und anderer EU-Länder könnten sie bald nach Ruanda gebracht werden. Menschenrechtler warnen. Von Karin Bensch.",
+     "link": "https://www.tagesschau.de/ausland/afrika/ruanda-abschiebezentrum-100.html",
+     "image": "https://images.tagesschau.de/image/608a973e-4ad4-413a-b37e-9b5cbf77adef/AAABoeMBHSY/AAABnSSvrFg/16x9-big/ruanda-174.jpg?width=1920",
+     "aggregator": false,
+     "published": "2026-11-16T05:36:50+00:00"
+    },
+    {
+     "source": "tagesschau Ausland",
+     "region": "INT",
+     "weight": 1.0,
+     "title": "Mögliche Abkommen: Eignet sich Ruanda für Abschiebezentren?",
+     "summary": "Wohin mit abgelehnten Asylbewerbern, die nicht in ihre Herkunftsländer abgeschoben werden können? Nach Plänen Deutschlands und anderer EU-Länder könnten sie bald nach Ruanda gebracht werden. Menschenrechtler warnen. Von Karin Bensch.",
+     "link": "https://www.tagesschau.de/ausland/afrika/ruanda-abschiebezentrum-100.html",
+     "image": "https://images.tagesschau.de/image/608a973e-4ad4-413a-b37e-9b5cbf77adef/AAABoeMBHSY/AAABnSSvrFg/16x9-big/ruanda-174.jpg?width=1920",
+     "aggregator": false,
+     "published": "2026-11-16T05:36:50+00:00"
+    },
+    {
+     "source": "Deutschlandfunk",
+     "region": "DE",
+     "weight": 0.95,
+     "title": "Migration - Kritik aus SPD-Bundestagsfraktion an Plänen zu Abschiebezentren in Ruanda",
+     "summary": "Die Pläne von Bundesinnenminister Dobrindt von der CSU zu Abschiebezentren in Ruanda sorgen in der SPD-Bundestagsfraktion für Kritik. Der innenpolitische Sprecher, Fiedler, sagte, er könne das Vorhaben nicht vorbehaltlos unterstützen.",
+     "link": "https://www.deutschlandfunk.de/kritik-aus-spd-bundestagsfraktion-an-plaenen-zu-abschiebezentren-in-ruanda-100.html",
+     "image": null,
+     "aggregator": false,
+     "published": "2026-11-16T09:12:06+00:00"
+    },
+    {
+     "source": "n-tv.de",
+     "region": "DE",
+     "weight": 0.6,
+     "title": "EU-Länder planen \"Return Hubs\": SPD-Politiker wollen Dobrindts Abschiebezentren in Ruanda verhindern",
+     "summary": "EU-Länder planen \"Return Hubs\": SPD-Politiker wollen Dobrindts Abschiebezentren in Ruanda verhindern n-tv.de Mögliche Abkommen: Eignet sich Ruanda für Abschiebezentren? tagesschau.de „Return Hubs“: Worum es bei dem geplanten Abschiebezentrum in Ruanda geht Deutschlandfunk „20 Millionen Euro für 40 Plätze für ganz Deutschland“ – SPD-Politiker attackieren Abschiebe-Pläne WELT „Wir müssen Dobrindts Pläne stoppen“ SPD-Abgeordnete stellen sich gegen geplante Abschiebezentren in Ruanda Tagesspiegel",
+     "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQR0pBTjRRRXhiWE1YN0I0dmlleTJLQjh1UURLcG9BTDM4d25HaXloOE5NSFJBWHM1MGExbkRjQnZPa2xVTldHM3pxeDhtT2dmQ3BpNnZBU0ZfNmpSbm5qNmlId2lIaWVMMTlNdkx4V1I5MF9aeGdlajllbGxIbWxRNFBxX1FNeVF0eFBpX0pBT3I0MHFXSmN3WGRhM1pkS2N2ZjRvUGZDVmptWW95LWF1ZDB3?oc=5",
+     "image": null,
+     "aggregator": true,
+     "published": "2026-11-16T04:01:54+00:00"
+    }
+   ]
+  },
+  {
+   "id": 23,
+   "score": 8.38,
+   "outlets": [
+    "Handelsblatt",
+    "DER STANDARD"
+   ],
+   "regions": [
+    "AT",
+    "DE"
+   ],
+   "trend": [],
+   "newest": "2026-11-16T09:01:01+00:00",
+   "articles": [
+    {
+     "source": "Handelsblatt",
+     "region": "DE",
+     "weight": 0.9,
+     "title": "Iran-Krieg: Bessent: Irans Wirtschaft steht vor schnellem Zusammenbruch",
+     "summary": "Im festgefahrenen Iran-Krieg hoffte US-Präsident Trump, Teheran mit wirtschaftlichen Sanktionen brechen zu können. Die Regierung rechnet mit einem Wirtschaftseinbruch von 25 Prozent im Iran.",
+     "link": "https://www.handelsblatt.com/politik/international/iran-krieg-bessent-irans-wirtschaft-steht-vor-schnellem-zusammenbruch/100270108.html",
+     "image": "https://images.handelsblatt.com/I0WdGIOIrPqx/cover/900/506/0/0/109/108/0.5/0.5/us-finanzminister-scott-bessent.jpg",
+     "aggregator": false,
+     "published": "2026-11-16T06:37:34+00:00"
+    },
+    {
+     "source": "DER STANDARD",
+     "region": "AT",
+     "weight": 0.85,
+     "title": "US-Finanzminister rechnet mit schnellem Zusammenbruch der iranischen Wirtschaft",
+     "summary": "Angesichts verschärfter Sanktionen rechnet Scott Bessent mit einem Rückgang der iranischen Wirtschaft um 25 Prozent",
+     "link": "https://www.derstandard.at/story/3000000349385/us-finanzminister-rechnet-mit-schnellem-zusammenbruch-der-iranischen-wirtschaft?ref=rss",
+     "image": "https://i.ds.at/dtzgng/rs:fill:150:0/plain/lido-images/2026/11/16/e927fac1-83e9-40ed-9fd7-0d56edf19b5b.jpg",
+     "aggregator": false,
+     "published": "2026-11-16T09:01:01+00:00"
+    }
+   ]
+  },
+  {
+   "id": 24,
+   "score": 8.36,
+   "outlets": [
+    "Deutsche Welle",
+    "ORF"
+   ],
+   "regions": [
+    "AT",
+    "INT"
+   ],
+   "trend": [],
+   "newest": "2026-11-16T05:03:03+00:00",
+   "articles": [
+    {
+     "source": "Deutsche Welle",
+     "region": "INT",
+     "weight": 0.95,
+     "title": "Weißes Haus kündigt Dreiertreffen Trumps mit Xi und Putin an",
+     "summary": "Das gab es bislang noch nicht: Erstmals wollen US-Präsident Donald Trump, Chinas Staatschef Xi Jinping und Kremlchef Wladimir Putin zusammenkommen. Die Beratungen sind für den nächsten Donnerstag in China geplant.",
+     "link": "https://www.dw.com/de/weißes-haus-kündigt-dreiertreffen-trumps-mit-xi-und-putin-an/a-79946925?maca=de-rss-de-all-1119-xml-mrss",
+     "image": "https://static.dw.com/image/79946435_302.jpg",
+     "aggregator": false,
+     "published": "2026-11-14T09:19:00+00:00"
+    },
+    {
+     "source": "ORF",
+     "region": "AT",
+     "weight": 0.95,
+     "title": "China bestätigt Gipfeltreffen zwischen Trump, Putin und Xi",
+     "summary": "",
+     "link": "https://orf.at/stories/3448291/",
+     "image": null,
+     "aggregator": false,
+     "published": "2026-11-16T05:03:03+00:00"
+    }
+   ]
+  },
+  {
+   "id": 25,
+   "score": 7.98,
+   "outlets": [
+    "Deutsche Welle",
+    "DER STANDARD"
+   ],
+   "regions": [
+    "AT",
+    "INT"
+   ],
+   "trend": [],
+   "newest": "2026-11-16T04:31:32+00:00",
+   "articles": [
+    {
+     "source": "Deutsche Welle",
+     "region": "INT",
+     "weight": 0.95,
+     "title": "Xi-Putin-Trump-Gipfel in China?",
+     "summary": "Peking agiert vorsichtig angesichts der Spekulationen über ein mögliches Gipfeltreffen zwischen Xi, Putin und Trump. China möchte den Eindruck vermeiden, sich zu stark in den Ukraine-Krieg einzumischen.",
+     "link": "https://www.dw.com/de/xi-putin-trump-gipfel-in-china/a-79941737?maca=de-rss-de-all-1119-xml-mrss",
+     "image": "https://static.dw.com/image/77733980_302.jpg",
+     "aggregator": false,
+     "published": "2026-11-13T14:20:00+00:00"
+    },
+    {
+     "source": "DER STANDARD",
+     "region": "AT",
+     "weight": 0.85,
+     "title": "Am Donnerstag: China bestätigt Treffen zwischen Trump, Putin und Xi",
+     "summary": "Nach den USA und Russland hat nun auch China das Gipfeltreffen bestätigt. Das Treffen soll in der südchinesischen Stadt Shenzhen stattfinden",
+     "link": "https://www.derstandard.at/story/3000000349340/china-best228tigt-treffen-zwischen-trump-putin-und-xi-ebenfalls?ref=rss",
+     "image": "https://i.ds.at/VKCLRg/rs:fill:150:0/plain/lido-images/2026/11/16/530915b2-e0bf-4fd5-aac1-1dfae15a54c3.jpg",
+     "aggregator": false,
+     "published": "2026-11-16T04:31:32+00:00"
+    }
+   ]
+  },
+  {
+   "id": 26,
+   "score": 7.84,
+   "outlets": [
+    "tagesschau",
+    "Deutschlandfunk"
+   ],
+   "regions": [
+    "DE"
+   ],
+   "trend": [],
+   "newest": "2026-11-16T09:12:06+00:00",
+   "articles": [
+    {
+     "source": "tagesschau",
+     "region": "DE",
+     "weight": 1.0,
+     "title": "Schwesig stellt sich zur Wiederwahl",
+     "summary": "Mecklenburg-Vorpommerns Ministerpräsidentin Schwesig will sich am Mittag im Landtag für eine weitere Amtszeit wählen lassen. Die 52-Jährige stünde nach der Wahl an der Spitze der ersten rot-rot-grünen Koalition des Bundeslandes.",
+     "link": "https://www.tagesschau.de/inland/regional/mecklenburgvorpommern/schwesig-vor-wiederwahl-in-mv-ministerpraesidentin-laesst-kandidatur-fuer-spd-vorsitz-noch-offen,mvlandtag-120.html",
+     "image": "https://images.tagesschau.de/image/d091fb6b-27d7-43e1-b98a-63b31bdb7490/AAABoeMbwyY/AAABnSSvrFg/16x9-big/schwesig-410.jpg?width=1920",
+     "aggregator": false,
+     "published": "2026-11-16T07:12:18+00:00"
+    },
+    {
+     "source": "Deutschlandfunk",
+     "region": "DE",
+     "weight": 0.95,
+     "title": "Mecklenburg-Vorpommern - Ministerpräsidentin Schwesig stellt sich zur Wiederwahl",
+     "summary": "In Mecklenburg-Vorpommern stellt sich heute Ministerpräsidentin Schwesig zur Wiederwahl im Schweriner Landtag.",
+     "link": "https://www.deutschlandfunk.de/ministerpraesidentin-schwesig-stellt-sich-zur-wiederwahl-102.html",
+     "image": "https://bilder.deutschlandfunk.de/b1/47/1b/22/b1471b22-a63d-443d-86e0-90c18b4ff2b7/schwesig-spd-mecklenburg-vorpommern-104-1920x1920.jpg",
+     "aggregator": false,
+     "published": "2026-11-16T09:12:06+00:00"
+    }
+   ]
+  },
+  {
+   "id": 27,
+   "score": 7.84,
+   "outlets": [
+    "ZDFheute",
+    "Deutschlandfunk"
+   ],
+   "regions": [
+    "DE"
+   ],
+   "trend": [],
+   "newest": "2026-11-16T09:12:06+00:00",
+   "articles": [
+    {
+     "source": "ZDFheute",
+     "region": "DE",
+     "weight": 1.0,
+     "title": "Ramelow: Sie soll \"Fraktion aus eigenem Antrieb verlassen\"",
+     "summary": "Der Linken-Politiker Bodo Ramelow kritisiert im ZDF die Berliner Abgeordnete Vanessa Emde. Es gehe ihm aber nicht um \"ihre Haltung\", sondern um den \"Vertrauensbruch\".",
+     "link": "https://www.zdfheute.de/politik/deutschland/ramelow-linke-koalition-berlin-emde-fraktionsausschluss-100.html",
+     "image": "https://www.zdfheute.de/assets/bodo-ramelow-210~384x216?cb=1745656956717",
+     "aggregator": false,
+     "published": "2026-11-15T11:26:00+00:00"
+    },
+    {
+     "source": "Deutschlandfunk",
+     "region": "DE",
+     "weight": 0.95,
+     "title": "Berliner Linke - Ramelow fordert Emde zum freiwilligen Verlassen der Fraktion auf",
+     "summary": "Der Linken-Politiker Ramelow hat die Berliner Abgeordnete Emde aufgefordert, die Fraktion seiner Partei im Abgeordnetenhaus zu verlassen.",
+     "link": "https://www.deutschlandfunk.de/ramelow-fordert-emde-zum-freiwilligen-verlassen-der-fraktion-auf-106.html",
+     "image": "https://bilder.deutschlandfunk.de/c0/de/5c/07/c0de5c07-438a-463e-a773-b87550e044ff/bodo-ramelow-politiker-linke-100-1920x1920.jpg",
+     "aggregator": false,
+     "published": "2026-11-16T09:12:06+00:00"
+    }
+   ]
+  }
+ ]
+}
