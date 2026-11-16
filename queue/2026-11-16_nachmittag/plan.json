@@ -1,0 +1,70 @@
+{
+  "format": "single",
+  "candidate_id": 9,
+  "pillar": "POLITIK",
+  "region": "DE",
+  "kicker": "STROMSTEUER",
+  "hook_screen": "STROMSTEUER-WENDE?",
+  "hook_text": "Merz: Stromsteuer-Wende?",
+  "hook_voice": "Merz unter Druck: Kommt die Stromsteuer-Senkung jetzt doch?",
+  "beats": [
+    {
+      "voice": "Kanzler Friedrich Merz rechnet mit einer Einigung von Union und SPD – schon morgen im Koalitionsausschuss.",
+      "big": "DIENSTAG",
+      "label": "Koalitionsausschuss entscheidet"
+    },
+    {
+      "voice": "CSU-Chef Markus Söder nennt das eine Glaubwürdigkeitsfrage. Die nötigen Milliarden lassen sich laut Söder auftreiben.",
+      "big": "MILLIARDEN",
+      "label": "muss die Koalition auftreiben"
+    },
+    {
+      "voice": "Nur auf die höhere Mütterrente will die CSU nicht verzichten.",
+      "big": "MÜTTERRENTE",
+      "label": "Söder schließt Verzicht aus"
+    },
+    {
+      "voice": "Vergangene Woche war die Entlastung für alle noch verschoben – trotz Wahlversprechen. Jetzt entscheidet sich, ob Ihre Stromrechnung sinkt.",
+      "big": "VERSPROCHEN",
+      "label": "Senkung für alle war Wahlversprechen"
+    }
+  ],
+  "loop_line": "Hält Merz sein Versprechen – oder platzt die Senkung morgen erneut?",
+  "headline": "Merz: Stromsteuer-Senkung doch?",
+  "highlight": [
+    "Stromsteuer"
+  ],
+  "entities": [
+    "Friedrich Merz",
+    "Markus Söder",
+    "Koalitionsausschuss",
+    "CSU"
+  ],
+  "new_development": "Merz rechnet nun mit Einigung auf Stromsteuersenkung im Koalitionsausschuss am Dienstag; Söder hält Finanzierung für möglich (16. Nov) – am 12. Nov war die Senkung für alle noch verschoben.",
+  "youtube_title": "Merz unter Druck: Kommt die Stromsteuer-Senkung jetzt doch?",
+  "description_lead": "Stromsteuer-Wende? Bundeskanzler Friedrich Merz rechnet mit einer Einigung von Union und SPD auf die Senkung der Stromsteuer – entschieden wird am Dienstag im Koalitionsausschuss. CSU-Chef Markus Söder nennt die Senkung eine Glaubwürdigkeitsfrage und will an der Mütterrente festhalten.",
+  "tags": [
+    "Stromsteuer",
+    "Merz",
+    "Friedrich Merz",
+    "Markus Söder",
+    "Stromsteuer Senkung",
+    "Koalitionsausschuss",
+    "CDU",
+    "CSU",
+    "SPD",
+    "Mütterrente",
+    "Strompreis",
+    "Wahlversprechen",
+    "Bundesregierung",
+    "politik deutschland"
+  ],
+  "hashtags": [
+    "#stromsteuer",
+    "#merz",
+    "#politik"
+  ],
+  "facebook_caption_line1": "Stromsteuer-Wende? Merz rechnet jetzt doch mit Einigung – morgen fällt die Entscheidung",
+  "facebook_question": "Glauben Sie, dass die Stromsteuer diesmal wirklich für alle sinkt?",
+  "comment_question": "Hält Merz diesmal Wort – ja oder nein?"
+}
