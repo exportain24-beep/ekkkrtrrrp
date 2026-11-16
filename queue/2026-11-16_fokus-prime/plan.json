@@ -1,0 +1,43 @@
+{
+  "format": "single",
+  "candidate_id": 0,
+  "pillar": "WELT",
+  "region": "INT",
+  "kicker": "JAMES BOND",
+  "hook_screen": "NEUER 007!",
+  "hook_text": "James Bond: Pattinson ist 007",
+  "hook_voice": "James Bond hat ein neues Gesicht: Robert Pattinson wird 007.",
+  "beats": [
+    {
+      "voice": "Amazon MGM Studios bestätigte es am Montag auf der offiziellen 007-Website. Im Video hält Pattinson einen Revolver – „Identität bestätigt!“",
+      "big": "007",
+      "label": "„Identität bestätigt!“"
+    },
+    {
+      "voice": "Der vierzigjährige Brite folgt auf Daniel Craig. Offiziell ist er der siebte Bond-Darsteller.",
+      "big": "Nr. 7",
+      "label": "Nachfolger von Daniel Craig"
+    },
+    {
+      "voice": "Und zum ersten Mal hat Amazon das Sagen: Der nächste Bond-Film entsteht unter Amazons Federführung.",
+      "big": "AMAZON",
+      "label": "erster Bond-Film unter Amazon"
+    },
+    {
+      "voice": "Das Studio verspricht eine neue Ära für eine der meistgefeierten Figuren der Filmgeschichte.",
+      "big": "NEUE ÄRA",
+      "label": "verspricht das Studio"
+    }
+  ],
+  "loop_line": "Experten hatten ihn als Favoriten gehandelt – aber ist Pattinson Ihr James Bond?",
+  "headline": "Pattinson ist der neue James Bond",
+  "highlight": ["James Bond"],
+  "entities": ["Robert Pattinson", "Daniel Craig", "Amazon MGM Studios"],
+  "youtube_title": "James Bond: Robert Pattinson wird 007 – ist er der Richtige?",
+  "description_lead": "James Bond hat ein neues Gesicht: Robert Pattinson wird der nächste 007 und folgt auf Daniel Craig, wie Amazon MGM Studios am Montag bestätigte. Der 40-jährige Brite ist offiziell der siebte Bond-Darsteller – und der nächste Bond-Film ist der erste unter der Federführung von Amazon.",
+  "tags": ["James Bond", "Robert Pattinson", "neuer James Bond", "007", "Daniel Craig", "Amazon MGM Studios", "James Bond Darsteller", "Bond-Film", "Amazon", "Kino", "Film", "Hollywood", "nachrichten heute"],
+  "hashtags": ["#jamesbond", "#robertpattinson", "#007"],
+  "facebook_caption_line1": "Es ist offiziell: Robert Pattinson ist der neue James Bond – Nachfolger von Daniel Craig",
+  "facebook_question": "Ist Robert Pattinson die richtige Wahl für James Bond?",
+  "comment_question": "Ist Pattinson der richtige James Bond – ja oder nein?"
+}
