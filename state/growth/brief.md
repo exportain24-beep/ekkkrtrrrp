@@ -1,40 +1,39 @@
-# Growth-Brief – So 15. Nov 2026, 13:41 Berlin (vidIQ, 6 Calls, 30 Credits, Rest 4.978)
-Audit-Tag 15. Nov: Brief = Themenwahl-Hilfe, keine Format-/Slot-Änderung.
+# Growth-Brief – Mo 16. Nov 2026, 05:42 Berlin (vidIQ, 7 Calls, 35 Credits, Rest 4.903)
+Erster Tag mit 6 Shorts/Tag (neue Messreihe). Brief = Themenwahl-Hilfe, keine Format-/Slot-Änderung.
 
 ## Eilblick
-- **27 Abos (±0 seit 05:45; +11 seit 8. Nov) · 55.163 Views (+5.721 seit 05:45; +38.662 seit 8. Nov) · 106 Videos.**
-- Uploads 15. Nov (Views · VPH): **SpaceX Starship 491 · 70 · 3,2x** · Sabalenka-Eklat 60 · 60 (~2 h) · Frührente-Abschläge 165 · 27,5
-  · Meta 805 Mio. 19 · 3,8 · Handwerk-Krise 5 · 1,7 · Masern USA 0 (frisch, 12:15 UTC).
-- Nachreifen 14. Nov: Aiwanger 1.684 · 80 VPH · 6,6x · Berthold/AfD 1.507 · 79 · 7,1x · Orbán-Ex-Minister 1.222 · 68 · 5,1x · Nvidia/Trump 19 · Klingbeil/Heil 32.
-- Bestes heute: **SpaceX 70 VPH** (Spektakel + Bild). Schlechtestes: **Handwerk-Krise 1,7 VPH** (Branche ohne Gesicht).
-- Lektion: Institution/Branche ohne Person bleibt Schlusslicht (vgl. BND 144, Dax 67, Abo-Fallen 23); Zahl allein („80.000 Jobs“) rettet es nicht.
+- **28 Abos (+1 seit 15. Nov 13:41; +12 seit 8. Nov) · 56.908 Views (+1.745 seit 13:41; +7.466 seit 14. Nov) · 111 Videos.**
+- Uploads 15. Nov (Views · VPH): **Sabalenka-Eklat 782 · 46** · SpaceX Starship 900 · 39 · Phantasialand/Microsoft 523 · 35 · 3,2x
+  · Babiš/Rundfunk 168 · 17 (~10 h) · Reichelt-Bekennerschreiben 147 · 13 · Frührente 256 · 12 · Masern 81 · 5 · Meta 77 · 4 · Solar 47 · 4 · **Handwerk 52 · 2,7**.
+- Nachreifen 14. Nov: Aiwanger 2.047 · 55 VPH · 6,6x · Berthold/AfD 1.892 · 54 · 7,1x · Orbán-Ex-Minister 1.456 · 43 · 5,1x.
+- Bestes: **Sabalenka 46 VPH** (bekannte Person + Eklat). Schlechtestes: **Handwerk 2,7 VPH** (Branche ohne Gesicht).
+- Lektion: Markt-Gewinner gestern = 6–15 s, Person + Urteil im Titel; unsere 30–36-s-Frage-Titel ohne bekannte Person bleiben < 5 VPH.
 
-## Heißeste DACH-Themen in Shorts (vidIQ, seit 14. Nov)
-1. **Stromsteuer-Senkung geplatzt:** OOPS „Geld für stromsteuer Senkung nicht gefunden“ **382.473 · 14.960 VPH** (weiter steigend). Bei uns 12. Nov 690 → Folge nur mit neuem Fakt.
-2. **Rente mit 70 / Rentenreform:** Fry Swelt „Rente mit 70? …“ 239.870 · 10.854 VPH (Satire); „JUNGE UNION DROHT MERZ! Winkel stellt Rentenreform infrage!“ 72.000 · 13x.
-   → Unser Frührente-Short (27,5 VPH) ist das Thema – nächster Rente-Short mit Person (Merz/Winkel/Bas) zuerst.
-3. **Wegzugsteuer für Auswanderer:** Vindex 114.832 · 6.292 VPH. Nur mit belegtem Gesetzesstand.
-4. **EU-Kurs Ukraine/Aufrüstung:** LACROIX „Kritik an der EU: Militärischer Sieg statt diplomatischer Verhandlungen“ 93.261 · 3.755; „Wenn Aufrüstung zur wirtschaftlichen Belastung wird“ 70.763 · 3.190.
-5. **Merz in der Kritik:** OOPS „Friedrich Merz hat gesprochen“ 78.301 · 2.945; Streetvoices „Merz-Bürger stutzen ihn zurecht!“ 49.209 · 4.039. Neutral: Aussage + Gegenstimme.
-6. **CDU/Bundestag-Momente:** Finanzfuchs „CDU scheitert bei der Nationalhymne“ 21.457 · 3.140 VPH (33 s) · „Linke können es nicht“ 63.739 · 2.953.
-7. **Ungleichheit:** DieLinke „Gregor Gysi: So Ungerecht Ist Deutschland WIRKLICH!“ 59.711 · 2.334; Blumen Academy „Fast 40 Steuern in Deutschland?!“ 9.539 · 567.
-8. **Geheimdienst-Befugnisse (BND-Gesetz):** Deutschland Kurier 45.871 · 2.019; BITTEL TV „Computerdaten verfälschen…“ 12.277 · 1.113. Bei uns 144 → nur mit Gesicht + Zitat.
-- Woche (Outliers): Füllkrug bricht ZDF-Interview ab 982.900 · 36x · USA-Flugstopp Faktenfilter24 63.800 · **28x · 2.300 VPH** (bei uns 910)
-  · Wohnhaus New York tagesschau 231.500 · 1.100 VPH · Microsoft-Störung 119.500 · Aigner als Bundespräsidentin? 17.200 · 15x
-  · Tagesrückblick DACHschaden „Nachrichten vom 14. November“ 27.128 · 1.591 VPH · Mercedes-Stopp eineminutenachrichten 9.418 · 901.
-- Kriminalfälle dominieren weiter die Outliers (Hafencity 34x, Fall Lisa bis 43x, Krakau 17x) + „Remmo Skandal“ 6.210 · 2.129 VPH:
-  nur Behörden-/Gerichtsfakten, keine Opfer-Details, keine Herkunft – im Zweifel weglassen.
+## Heißeste DACH-Themen in Shorts (vidIQ, seit 15. Nov / diese Woche)
+1. **Stromsteuer-Senkung ohne Geld:** OOPS „Kein Geld für die stromsteuer senkung“ **87.557 · 8.727 VPH** (11 s). Dritter Tag oben. Bei uns 12. Nov 697 → nur mit neuem Fakt.
+2. **Weidel-Kanzlerin-Debatte / AfD-Umfragen:** Zwischen den Zeilen (Precht) „Steht Deutschland vor einer Kanzlerin Alice Weidel?“ **104.008 · 8.679 VPH**;
+   Streetvoices „Aiwanger Wählerlawine bei AFD“ 64.956 · 5.398. Neutral: Umfragezahl + Stimmen beider Seiten.
+3. **Merz & seine Versprechen:** Ruben Rupp „Merz und seine Versprechen“ 71.911 · 6.120; Danny Danny „Was erzählt merz da…“ 85.237 · 5.130 (719 Komm.);
+   OOPS „Friedrich Merz blamiert sich“ 41.098 · 3.444. Neutral: Zitat + Faktencheck.
+4. **Remmo-Skandal:** Finanzfuchs „Remmo Skandal“ **101.958 · 5.206 VPH · 387 Komm.** Nur belegte Justiz-Fakten, keine Herkunfts-Zuspitzung.
+5. **Gesundheit & Geld:** Herr Anwalt „Schnell zum Arzt nur gegen Geld? 💶“ 35.821 · 3.363 · 8,2 % Engagement; Karabag Krankenversicherung 26.785 · 2.076.
+6. **Ukraine: Nato gegen Donbass:** ein_Beobachter (1K Abos) „Ukraine in die NATO, Donbas an Russland? Was der US-Tausch für Deutschland heißt“ 8.093 · 1.561. Bei uns 14. Nov 389.
+7. **Wirtschaft:** NIUS „Mercedes stoppt Investitionen in Deutschland“ 18.317 · 1.233 (bei uns 13. Nov 899); AfD BW gegen Diätenerhöhung 12.939 · 1.148.
+8. **Breakouts der Woche:** ZDFheute „„Nee danke, ciao“: Füllkrug bricht ZDF-Interview ab“ **1 Mio · 36x** · Faktenfilter24 US-Flugverkehr 64,5K · 28x
+   · SAT.1 Hafencity-Schüsse 123,8K · 34x · eineminutenachrichten Kita-Kinder Dresden 660K · 5,7x · tagesschau Wohnhaus NY 233K · Glätte-Unfälle Norden 25,8K · 1,5K VPH.
+   Sicherheit/Unglück trägt – aber keine Opfer-Details, keine Gewaltbilder.
 
 ## Gewinner-Titelmuster (echte Titel)
-- „Mercedes stoppt alle Investitionen in Deutschland!“ (901 VPH) → Marke + Stopp-Verb + Deutschland, Aussage statt Frage.
-- „CDU scheitert bei der Nationalhymne“ (3.140 VPH) → Partei + Scheitern-Verb + konkretes Bild.
-- „Der komplette Flugverkehr in den USA steht still“ (28x) → Totalität („komplett“) + Stillstand, keine Frage.
-- Beobachtung: alle 6 heutigen Eilblick-Titel enden mit Frage; die Top-Markt-Titel oben sind Aussagesätze.
+- „Kein Geld für die stromsteuer senkung“ – Fakt als Satz, Alltags-Geld, kein Fragezeichen.
+- „Friedrich Merz blamiert sich“ – Person + ein Urteilsverb (bei uns nur, wenn belegbar; sonst „Merz unter Druck: …“).
+- „„Nee danke, ciao“: Füllkrug bricht ZDF-Interview ab“ – Originalzitat vorn + Person + Handlung.
+- Frage nur bei großer Personalie: „Steht Deutschland vor einer Kanzlerin Alice Weidel?“
+- Gewinner-Hashtags: #nachrichten #politik #deutschland #aktuell.
 
-## Keywords (vidIQ, YouTube-Suche DE – aus 05:41-Lauf, kein neuer Abruf)
-- nachrichten 54.561 · nachrichten aktuell 35.569 · welt nachrichten 2.892.
-- Wiederkehrende Hashtags bei Gewinnern: #politik #deutschland #aktuell #nachrichten #bundestag #aktuellenachrichten.
+## Keywords (vidIQ, YouTube-Suche DE)
+- nachrichten **60.292** · nachrichten aktuell **31.710** · welt nachrichten 2.892 (Wettbewerb/Score: unbekannt).
+- Personen-Keywords in Gewinnern: Merz, Weidel, Aiwanger, Füllkrug, Remmo.
 
-## Leitplanken
-Ausgelassen: „Migration Skandal“, „Merz lügt“, „Merz Ruiniert Deutschland?!“ (Meme), „Ein übler Wendehals“, „Die AfD hatte wieder recht gehabt“,
-„Das ist Polen! Nicht Brüssel!“ (Polemik/Meme ohne Fakt), Remmo (Herkunfts-/Clan-Zuspitzung). Politik neutral, ≥2 Quellen.
+## Für die Desks heute
+- Personen-Shorts zuerst (Merz/Weidel/Aiwanger), Geld-Alltag (Stromsteuer, Arzt/Kasse, Rente) mit Person im Titel.
+- Keine Branchen-/Behörden-Themen ohne Gesicht in den 6 Slots.
