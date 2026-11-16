@@ -1,0 +1,1916 @@
+{
+ "slot": {
+  "id": "fokus-politik",
+  "format": "single",
+  "time": "18:30",
+  "label": "Fokus Politik",
+  "focus": "Nur Tie-Breaker – immer zuerst die populärsten, meistberichteten Nachrichten. Bei Gleichstand bevorzugt: Die eine große politische oder sicherheitspolitische Enthüllung bzw. Eilmeldung des Tages aus Berlin, Wien, Bern oder Brüssel (Regierung, Kanzleramt, Hackerangriffe, Spionage, große Entscheidungen, Skandale).",
+  "notify_subscribers": false
+ },
+ "slot_time": "2026-11-16T18:30:00+01:00",
+ "date_text": "Montag, 16. November 2026",
+ "already_published": [
+  "AfD schickt Berthold ins Rennen",
+  "Millionen bei Orbáns Ex-Minister",
+  "Nvidia-Skandal erreicht Trumps Kabinett",
+  "Heil greift nach dem SPD-Vorsitz",
+  "SpaceX fängt Starship aus dem All",
+  "Frührente: Höhere Abschläge geplant",
+  "Facharzt-Termin nur gegen Bezahlung?",
+  "SPD-Gruppen gegen Klingbeil",
+  "GTA 6 löst Urlaubswelle aus",
+  "Meta muss 805 Millionen Euro zahlen",
+  "Handwerk droht massiver Jobverlust",
+  "Sabalenka entschuldigt sich",
+  "USA verlieren Status masernfrei",
+  "Microsoft-Störung: Chlor-Panne im Park",
+  "Solarförderung für Hausdächer bleibt",
+  "Reichelt-Anschlag: Bekennerschreiben",
+  "Babiš gegen den Rundfunk",
+  "Amazon verliert 40 Satelliten",
+  "Merz: Stromsteuer-Senkung doch?",
+  "Commerzbank-Übernahme genehmigt"
+ ],
+ "candidates": [
+  {
+   "id": 0,
+   "score": 28.28,
+   "outlets": [
+    "ZDFheute",
+    "Deutschlandfunk",
+    "ORF",
+    "SRF News",
+    "SPIEGEL",
+    "ZEIT ONLINE",
+    "Süddeutsche",
+    "NZZ",
+    "DER STANDARD",
+    "WELT",
+    "n-tv"
+   ],
+   "regions": [
+    "AT",
+    "CH",
+    "DE"
+   ],
+   "trend": [
+    "james bond kandidaten",
+    "Entscheidung steht wohl fest: „Harry Potter“-Star soll der neue James Bond sein",
+    "Wer wird der neue James Bond? Die Kandidaten im Überblick"
+   ],
+   "newest": "2026-11-16T15:51:00+00:00",
+   "articles": [
+    {
+     "source": "ZDFheute",
+     "region": "DE",
+     "weight": 1.0,
+     "title": "Robert Pattinson ist der neue James Bond",
+     "summary": "Das Geheimnis ist gelüftet: Hollywood-Star Robert Pattinson wird der nächste James-Bond-Darsteller. Mit der Entscheidung für den 40-jährigen Briten geht die Reihe neue Wege.",
+     "link": "https://www.zdfheute.de/panorama/prominente/robert-pattinson-james-bond-007-100.html",
+     "image": "https://www.zdfheute.de/assets/robert-pattinson-james-bond-100~384x216?cb=1794843703682",
+     "aggregator": false,
+     "published": "2026-11-16T15:27:00+00:00"
+    },
+    {
+     "source": "Deutschlandfunk",
+     "region": "DE",
+     "weight": 0.95,
+     "title": "Film - Robert Pattinson wird der neue James Bond",
+     "summary": "Robert Pattinson wird der neue James Bond-Darsteller: Der 40-Jährige ist der siebte Schauspieler, der die Rolle des berühmten britischen Spions übernimmt.",
+     "link": "https://www.deutschlandfunk.de/robert-pattinson-wird-der-neue-james-bond-100.html",
+     "image": "https://bilder.deutschlandfunk.de/c3/8f/5d/56/c38f5d56-7d15-42e7-9c6b-38282d992af4/schauspieler-james-bond-besetzung-hauptrolle-robert-pattinson-100-1920x1920.jpg",
+     "aggregator": false,
+     "published": "2026-11-16T15:51:00+00:00"
+    },
+    {
+     "source": "ORF",
+     "region": "AT",
+     "weight": 0.95,
+     "title": "Robert Pattinson wird neuer James Bond",
+     "summary": "",
+     "link": "https://orf.at/stories/3448367/",
+     "image": null,
+     "aggregator": false,
+     "published": "2026-11-16T15:20:24+00:00"
+    },
+    {
+     "source": "SRF News",
+     "region": "CH",
+     "weight": 0.95,
+     "title": "Agent 007 – Robert Pattinson wird neuer James Bond",
+     "summary": "Nach monatelangen Spekulationen steht der neue 007 fest: Der Brite Robert Pattinson übernimmt die Rolle des James Bond.",
+     "link": "https://www.srf.ch/news/agent-007-robert-pattinson-wird-neuer-james-bond",
+     "image": "https://www.srf.ch/static/cms/images//320ws/4b13a0.webp",
+     "aggregator": false,
+     "published": "2026-11-16T15:35:13+00:00"
+    },
+    {
+     "source": "SPIEGEL",
+     "region": "DE",
+     "weight": 0.9,
+     "title": "Robert Pattinson wird der neue James Bond",
+     "summary": "Der Nachfolger von Daniel Craig steht endlich fest: Der britische Schauspieler Robert Pattinson, berühmt geworden durch die »Twilight«-Saga, soll die Titelrolle im nächsten James-Bond-Film übernehmen.",
+     "link": "https://www.spiegel.de/kultur/robert-pattinson-wird-der-neue-james-bond-a-bfc865b8-5840-435b-b74a-cd863bfb794b#ref=rss",
+     "image": "https://cdn.prod.www.spiegel.de/images/48d8eaee-af4d-4762-93fb-781168240ea7_w520_r2.08_fpx66.65_fpy50.jpg",
+     "aggregator": false,
+     "published": "2026-11-16T15:08:00+00:00"
+    },
+    {
+     "source": "ZEIT ONLINE",
+     "region": "DE",
+     "weight": 0.9,
+     "title": "James Bond : Robert Pattinson wird neuer James-Bond-Darsteller",
+     "summary": "Der britische Schauspieler Robert Pattinson wurde für die Rolle als Spion 007 ausgesucht. Der 40-Jährige tritt damit die Nachfolge von Daniel Craig und Pierce Brosnan an.",
+     "link": "https://www.zeit.de/feuilleton/kunst/2026-11/robert-pattinson-wird-neuer-james-bond-darsteller",
+     "image": "https://img.zeit.de/feuilleton/film/2026-11/robert-pattinson-wird-neuer-james-bond-darsteller-bild/original__640x360",
+     "aggregator": false,
+     "published": "2026-11-16T15:44:24+00:00"
+    },
+    {
+     "source": "ZEIT ONLINE",
+     "region": "DE",
+     "weight": 0.9,
+     "title": "«James Bond will return»: Von Connery bis Craig: Die bisherigen James-Bond-Darsteller",
+     "summary": "",
+     "link": "https://www.zeit.de/news/2026-11/16/von-connery-bis-craig-die-bisherigen-james-bond-darsteller",
+     "image": "https://img.zeit.de/news/2026-11/16/von-connery-bis-craig-die-bisherigen-james-bond-darsteller-image-group/original__640x360",
+     "aggregator": false,
+     "published": "2026-11-16T15:41:35+00:00"
+    },
+    {
+     "source": "Süddeutsche",
+     "region": "DE",
+     "weight": 0.9,
+     "title": "Kino: Robert Pattinson wird der neue James Bond",
+     "summary": "Damit folgt der Brite auf Daniel Craig. Die Macher der Filmreihe weichen mit ihrer Entscheidung von einem altbekannten Muster bei der Besetzung der Rolle des berühmten Geheimagenten ab.",
+     "link": "https://www.sueddeutsche.de/kultur/robert-pattinson-james-bond-daniel-craig-007-kino-li.3581542",
+     "image": "https://www.sueddeutsche.de/2026/11/16/42f87d9f-e135-4194-8532-228045f615c5.jpg?rect=469%2C196%2C1672%2C1254&width=1000&fm=jpg&q=60",
+     "aggregator": false,
+     "published": "2026-11-16T15:17:36+00:00"
+    }
+   ]
+  },
+  {
+   "id": 1,
+   "score": 22.18,
+   "outlets": [
+    "tagesschau",
+    "Deutschlandfunk",
+    "SPIEGEL",
+    "ZEIT ONLINE",
+    "Handelsblatt",
+    "WirtschaftsWoche",
+    "heise online",
+    "DER STANDARD",
+    "WELT",
+    "n-tv",
+    "tagesschau.de"
+   ],
+   "regions": [
+    "AT",
+    "DE"
+   ],
+   "trend": [],
+   "newest": "2026-11-16T15:51:00+00:00",
+   "articles": [
+    {
+     "source": "tagesschau",
+     "region": "DE",
+     "weight": 1.0,
+     "title": "Tesla kündigt Milliarden-Investition in Werk in Brandenburg an",
+     "summary": "Tesla will drei Milliarden Euro für den Ausbau des Werks in Grünheide östlich von Berlin ausgeben. Der US-Elektroautobauer will damit ein neues Produktionsgebäude finanzieren. Künftig sollen dort \"Cybercabs\" - fahrerlose Taxis - gebaut werden.",
+     "link": "https://www.tagesschau.de/inland/regional/brandenburg/tesla-investitionen-brandenburg-100.html",
+     "image": "https://images.tagesschau.de/image/e865af29-aaff-4a5d-ad59-76a33bcc702c/AAABoeTlNbc/AAABnSSvrFg/16x9-big/tesla-cybercab-104.jpg?width=1920",
+     "aggregator": false,
+     "published": "2026-11-16T15:10:41+00:00"
+    },
+    {
+     "source": "tagesschau Wirtschaft",
+     "region": "DE",
+     "weight": 1.0,
+     "title": "Tesla kündigt Milliarden-Investition in Werk in Brandenburg an",
+     "summary": "Tesla will drei Milliarden Euro für den Ausbau des Werks in Grünheide östlich von Berlin ausgeben. Der US-Elektroautobauer will damit ein neues Produktionsgebäude finanzieren. Künftig sollen dort \"Cybercabs\" - fahrerlose Taxis - gebaut werden.",
+     "link": "https://www.tagesschau.de/inland/regional/brandenburg/tesla-investitionen-brandenburg-100.html",
+     "image": "https://images.tagesschau.de/image/e865af29-aaff-4a5d-ad59-76a33bcc702c/AAABoeTlNbc/AAABnSSvrFg/16x9-big/tesla-cybercab-104.jpg?width=1920",
+     "aggregator": false,
+     "published": "2026-11-16T15:10:41+00:00"
+    },
+    {
+     "source": "Deutschlandfunk",
+     "region": "DE",
+     "weight": 0.95,
+     "title": "Brandenburg - Tesla investiert drei Milliarden Euro in Werk in Grünheide",
+     "summary": "Der US-Elektroautokonzern Tesla baut sein Werk in ‌Grünheide ⁠bei Berlin ⁠aus und investiert dort drei Milliarden Euro.",
+     "link": "https://www.deutschlandfunk.de/tesla-investiert-drei-milliarden-euro-in-werk-in-gruenheide-100.html",
+     "image": "https://bilder.deutschlandfunk.de/97/97/2a/f6/97972af6-4c77-4367-a7da-cc781b829d41/tesla-gigafactory-brandenburg-102-1920x1920.jpg",
+     "aggregator": false,
+     "published": "2026-11-16T15:51:00+00:00"
+    },
+    {
+     "source": "SPIEGEL",
+     "region": "DE",
+     "weight": 0.9,
+     "title": "Tesla will Milliardensumme für Robotaxi-Bau in Deutschland investieren",
+     "summary": "Elon Musks Elektroautounternehmen hat angekündigt, sein Werk in Brandenburg für drei Milliarden Euro zu vergrößern. Ministerpräsident Woidke jubelt. Künftig sollen in Grünheide Cybercabs gebaut werden.",
+     "link": "https://www.spiegel.de/wirtschaft/unternehmen/tesla-investiert-milliardensumme-fuer-robotaxi-bau-in-deutschland-a-65132952-1c63-4862-b2ce-f82c5def838f#ref=rss",
+     "image": "https://cdn.prod.www.spiegel.de/images/3653751e-62a2-4378-9e8c-a876c2638cfd_w520_r2.08_fpx34.82_fpy50.jpg",
+     "aggregator": false,
+     "published": "2026-11-16T14:22:00+00:00"
+    },
+    {
+     "source": "ZEIT ONLINE",
+     "region": "DE",
+     "weight": 0.9,
+     "title": "US-Elektrobauer: Tesla will drei Milliarden Euro in Werk in Grünheide stecken",
+     "summary": "",
+     "link": "https://www.zeit.de/news/2026-11/16/tesla-will-drei-milliarden-euro-in-werk-in-gruenheide-stecken",
+     "image": "https://img.zeit.de/news/2026-11/16/tesla-will-drei-milliarden-euro-in-werk-in-gruenheide-stecken-image-group/original__640x360",
+     "aggregator": false,
+     "published": "2026-11-16T15:49:01+00:00"
+    },
+    {
+     "source": "ZEIT ONLINE",
+     "region": "DE",
+     "weight": 0.9,
+     "title": "Tesla-Werk Grünheide: Tesla investiert drei Milliarden in den Ausbau des Werks in Grünheide",
+     "summary": "Um eine neue Produktionshalle zu bauen, will Tesla drei Milliarden Euro in das Werk in Grünheide investieren. Dort sollen zukünftig selbstfahrende Autos gebaut werden.",
+     "link": "https://www.zeit.de/wirtschaft/2026-11/tesla-ausbau-fabrik-gruenheide-berlin",
+     "image": "https://img.zeit.de/wirtschaft/2026-11/tesla-ausbau-fabrik-gruenheide-berlin-foto-1/original__640x360",
+     "aggregator": false,
+     "published": "2026-11-16T15:08:30+00:00"
+    },
+    {
+     "source": "Handelsblatt",
+     "region": "DE",
+     "weight": 0.9,
+     "title": "Tesla: US-Autobauer investiert drei Milliarden Euro in Grünheide",
+     "summary": "Die Pläne für einen Ausbau der Tesla-Fabrik in Grünheide bei Berlin liegen schon länger vor. Nun nennt das Unternehmen von Elon Musk konkrete Zahlen.",
+     "link": "https://www.handelsblatt.com/unternehmen/industrie/tesla-us-autobauer-investiert-drei-milliarden-euro-in-gruenheide/100270267.html",
+     "image": "https://images.handelsblatt.com/du2ZmqyePwQw/cover/900/506/0/0/470/470/0.5/0.5/16.11.2026-brandenburg-gruenheide-der-haupteingang-zur-tesla-gigafactory-berlin-brandenburg-spiege.jpg",
+     "aggregator": false,
+     "published": "2026-11-16T14:58:49+00:00"
+    },
+    {
+     "source": "WirtschaftsWoche",
+     "region": "DE",
+     "weight": 0.85,
+     "title": "E-Autos: Tesla will drei Milliarden Euro in Werk in Grünheide stecken",
+     "summary": "Tesla setzt den Ausbau in Grünheide fort. Ab 2029 sollen dort Robotaxis produziert werden. Mehrere Hundert neue Stellen sollen entstehen.",
+     "link": "https://www.wiwo.de/unternehmen/auto/tesla-in-gruenheide-3-milliarden-euro-fuer-ausbau-und-robotaxis/100270269.html",
+     "image": "https://images.wiwo.de/0ftpacOqMZTp/cover/900/506/0/0/483/84/0.5/0.5/a-tesla-cybercab-driverless-taxi-travels-through-downtown-austin-texas-us-october-27-2026.-reute.jpg",
+     "aggregator": false,
+     "published": "2026-11-16T14:21:00+00:00"
+    }
+   ]
+  },
+  {
+   "id": 2,
+   "score": 21.98,
+   "outlets": [
+    "tagesschau",
+    "ZDFheute",
+    "Deutschlandfunk",
+    "SRF News",
+    "ZEIT ONLINE",
+    "DER STANDARD",
+    "n-tv",
+    "sportschau.de"
+   ],
+   "regions": [
+    "AT",
+    "CH",
+    "DE"
+   ],
+   "trend": [
+    "philippe diallo",
+    "Élections à la Fifa : Philippe Diallo, le président de la FFF, candidat à la présidence",
+    "diallo"
+   ],
+   "newest": "2026-11-16T15:51:00+00:00",
+   "articles": [
+    {
+     "source": "tagesschau",
+     "region": "DE",
+     "weight": 1.0,
+     "title": "UEFA vor der Entscheidung: Franzose Diallo möglicher Kandidat",
+     "summary": "Philippe Diallo aus Frankreich soll nach dem Willen der UEFA neuer FIFA-Präsident werden. Diallo soll sich gegen Amtsinhaber Gianni Infantino zur Wahl stellen - die Außenseiterrolle ist ihm sicher.",
+     "link": "https://www.sportschau.de/fussball/uefa-vor-der-entscheidung-franzose-diallo-moeglicher-kandidat,infantino-gegenkandidat-100.html",
+     "image": "https://images.sportschau.de/image/093451c7-5d95-418d-a9b8-8cca58a9a383/AAABoeQlCPs/AAABnSSvrFg/16x9-big/diallo-104.jpg?width=1920",
+     "aggregator": false,
+     "published": "2026-11-16T15:37:33+00:00"
+    },
+    {
+     "source": "ZDFheute",
+     "region": "DE",
+     "weight": 1.0,
+     "title": "UEFA schickt Diallo gegen Infantino ins Rennen",
+     "summary": "Frankreichs Verbandschef Philippe Diallo tritt gegen Amtsinhaber Gianni Infantino bei der Wahl zum FIFA-Präsidenten an. Das verkündete die Europäische Fußball-Union UEFA.",
+     "link": "https://www.zdfheute.de/sport/fussball-fifa-praesident-uefa-philippe-diallo-100.html",
+     "image": "https://www.zdfheute.de/assets/auslosung-gruppenphase-uefa-champions-league-2026-27-monaco-100~384x216?cb=1794843159851",
+     "aggregator": false,
+     "published": "2026-11-16T15:38:00+00:00"
+    },
+    {
+     "source": "Deutschlandfunk",
+     "region": "DE",
+     "weight": 0.95,
+     "title": "Fußball - FIFA-Präsidentschaftswahl: UEFA schickt Franzosen Diallo gegen Infantino ins Rennen",
+     "summary": "Der Präsident des französischen Fußballverbands, Philippe Diallo, tritt bei der Wahl zum FIFA-Präsidenten gegen den bisherigen Amtsinhaber Infantino an.",
+     "link": "https://www.deutschlandfunk.de/fifa-praesidentschaftswahl-uefa-schickt-franzosen-diallo-gegen-infantino-ins-rennen-100.html",
+     "image": "https://bilder.deutschlandfunk.de/49/8b/e0/d0/498be0d0-91cf-48d0-9217-e5fec509d072/philippe-diallo-infantino-gegner-wahl-antritt-fifa-100-1920x1920.jpg",
+     "aggregator": false,
+     "published": "2026-11-16T15:51:00+00:00"
+    },
+    {
+     "source": "SRF News",
+     "region": "CH",
+     "weight": 0.95,
+     "title": "Uefa hat sich entschieden – Diallo wird Gegenkandidat von Infantino für Fifa-Präsidentschaft",
+     "summary": "Die Uefa schickt im Fifa-Wahlkampf den Franzosen Philippe Diallo gegen Gianni Infantino ins Rennen.",
+     "link": "https://www.srf.ch/sport/fussball/fussball-allgemein/uefa-hat-sich-entschieden-diallo-wird-gegenkandidat-von-infantino-fuer-fifa-praesidentschaft",
+     "image": "https://www.srf.ch/static/cms/images//320ws/409ee4.webp",
+     "aggregator": false,
+     "published": "2026-11-16T15:39:58+00:00"
+    },
+    {
+     "source": "ZEIT ONLINE",
+     "region": "DE",
+     "weight": 0.9,
+     "title": "Fifa-Präsidentschaft: Uefa nominiert Franzosen Diallo gegen Infantino als Fifa-Präsidenten",
+     "summary": "Frankreichs Fußballverbandschef Philippe Diallo tritt bei der Fifa-Präsidentschaftswahl gegen Amtsinhaber Infantino an. Die Uefa stellt ihn als Gegenkandidaten auf.",
+     "link": "https://www.zeit.de/sport/2026-11/uefa-nominiert-franzosen-diallo-gegen-infantino-als-fifa-praesidenten",
+     "image": "https://img.zeit.de/sport/2026-11/fifa-praesident-philippe-diallo-gianni-infantino-uefa-foto-1/original__640x360",
+     "aggregator": false,
+     "published": "2026-11-16T15:48:56+00:00"
+    },
+    {
+     "source": "DER STANDARD",
+     "region": "AT",
+     "weight": 0.85,
+     "title": "Kann er Infantino stoppen? Uefa schickt Frankreichs Verbandschef ins Rennen um die Fifa-Präsidentschaft",
+     "summary": "Der 63-jährige Philippe Diallo habe die Einladung zur Kandidatur angenommen, teilte Europas Fußballverband am Montag mit. Seine Benennung ist eine Abkehr von der bisherigen Strategie",
+     "link": "https://www.derstandard.at/story/3000000349481/fu223ball-frankreichs-verbandschef-diallo-will-fifa-pr228sident-werden?ref=rss",
+     "image": "https://i.ds.at/RbkvSg/rs:fill:150:0/plain/lido-images/2026/11/16/4f35c89c-721a-47f4-a2eb-463dcfb8248c.jpg",
+     "aggregator": false,
+     "published": "2026-11-16T13:37:02+00:00"
+    },
+    {
+     "source": "n-tv",
+     "region": "DE",
+     "weight": 0.8,
+     "title": "Diallo soll FIFA-Boss werden: UEFA benennt überraschenden Herausforderer von Gianni Infantino",
+     "summary": "Die UEFA findet im Machtkampf um das Amt des FIFA-Präsidenten endlich einen Gegenkandidaten. Der eher unbekannte Philippe Diallo soll im kommenden Jahr gegen den mächtigen Gianni Infantino antreten.",
+     "link": "https://www.n-tv.de/sport/fussball/UEFA-benennt-ueberraschenden-Herausforderer-von-Gianni-Infantino-id31540073.html",
+     "image": "https://www.n-tv.de/img/31538847/1794835868/Img_4_3/250/imago1084827877h.jpg",
+     "aggregator": false,
+     "published": "2026-11-16T15:27:33+00:00"
+    },
+    {
+     "source": "sportschau.de",
+     "region": "DE",
+     "weight": 0.6,
+     "title": "UEFA vor der Entscheidung: Franzose Diallo möglicher Kandidat",
+     "summary": "UEFA vor der Entscheidung: Franzose Diallo möglicher Kandidat sportschau.de Uefa nominiert Franzosen Diallo gegen Infantino als Fifa-Präsidenten DIE ZEIT Klopp übt scharfe Kritik an Infantino FAZ Fifa-Präsident: Während Klopp Infantino frontal angreift, läuft dessen Gegnern die Zeit davon WELT Infantino will FIFA-Präsident bleiben: Mr. Unantastbar? WEB.DE",
+     "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNb0hvc3pBSVdELUNNYVJXaVFRaXg4Z2JQTW1lbzR1dGJud0dEUFY2bXZwWnBGXzJZeHhoc0E3VDRiRlM3eXFQS0liX1d6VzVGMjB1ZGM5WERqYWNZb1Vkc3pvWWdmU0xwaUN2M3FSbWx1VFZ0NHRvQ0ptaFRyT3kyMmpfV09EeGlwMjRVVGtvbzhhU2gybGthaHJiTi1feUtnT21WYmpWa010TE9yMXZuUjVMd2lKeGF4dFhuc08zTDNwRFdkaVFZOQ?oc=5",
+     "image": null,
+     "aggregator": true,
+     "published": "2026-11-16T14:02:00+00:00"
+    }
+   ]
+  },
+  {
+   "id": 3,
+   "score": 16.88,
+   "outlets": [
+    "tagesschau",
+    "ZDFheute",
+    "Deutsche Welle",
+    "Deutschlandfunk",
+    "ORF",
+    "n-tv",
+    "n-tv.de"
+   ],
+   "regions": [
+    "AT",
+    "DE",
+    "INT"
+   ],
+   "trend": [],
+   "newest": "2026-11-16T15:51:00+00:00",
+   "articles": [
+    {
+     "source": "tagesschau",
+     "region": "DE",
+     "weight": 1.0,
+     "title": "EU gibt UniCredit grünes Licht für Commerzbank-Übernahme",
+     "summary": "Die EU hat ihr Go für die umstrittene Übernahme der Commerzbank durch die italienische Großbank UniCredit gegeben. Die Kommission sieht \"keine wettbewerbsrechtlichen Bedenken\". Die Fusion rückt näher.",
+     "link": "https://www.tagesschau.de/wirtschaft/unternehmen/commerzbank-unicredit-eu-genehmigung-100.html",
+     "image": "https://images.tagesschau.de/image/48088695-d98f-4a0b-8eb4-cc1626bbac65/AAABoeQe9Xs/AAABnSSvrFg/16x9-big/commerzbank-195.jpg?width=1920",
+     "aggregator": false,
+     "published": "2026-11-16T11:50:50+00:00"
+    },
+    {
+     "source": "tagesschau Wirtschaft",
+     "region": "DE",
+     "weight": 1.0,
+     "title": "EU gibt UniCredit grünes Licht für Commerzbank-Übernahme",
+     "summary": "Die EU hat ihr Go für die umstrittene Übernahme der Commerzbank durch die italienische Großbank UniCredit gegeben. Die Kommission sieht \"keine wettbewerbsrechtlichen Bedenken\". Die Fusion rückt näher.",
+     "link": "https://www.tagesschau.de/wirtschaft/unternehmen/commerzbank-unicredit-eu-genehmigung-100.html",
+     "image": "https://images.tagesschau.de/image/48088695-d98f-4a0b-8eb4-cc1626bbac65/AAABoeQe9Xs/AAABnSSvrFg/16x9-big/commerzbank-195.jpg?width=1920",
+     "aggregator": false,
+     "published": "2026-11-16T11:50:50+00:00"
+    },
+    {
+     "source": "ZDFheute",
+     "region": "DE",
+     "weight": 1.0,
+     "title": "EU genehmigt Unicredit Übernahme von Commerzbank",
+     "summary": "Die EU hat Unicredit grünes Licht für die umstrittene Übernahme der Commerzbank gegeben. Die EU-Kommission genehmigte die Pläne der italienischen Großbank ohne Auflagen.",
+     "link": "https://www.zdfheute.de/wirtschaft/unternehmen/unicredit-commerzbank-uebernahme-eu-100.html",
+     "image": "https://www.zdfheute.de/assets/hauptsitz-commerzbank-100~384x216?cb=1794827081568",
+     "aggregator": false,
+     "published": "2026-11-16T12:04:00+00:00"
+    },
+    {
+     "source": "Deutsche Welle",
+     "region": "INT",
+     "weight": 0.95,
+     "title": "EU genehmigt Übernahme der Commerzbank durch Unicredit",
+     "summary": "Die italienische Großbank Unicredit hat eine weitere wichtige Hürde genommen. Die EU-Kommission erlaubt den Kauf der Commerzbank ohne Auflagen. Noch in diesem Jahr könnte Unicredit die Kontrolle übernehmen.",
+     "link": "https://www.dw.com/de/eu-genehmigt-übernahme-der-commerzbank-durch-unicredit/a-79960252?maca=de-rss-de-all-1119-xml-mrss",
+     "image": "https://static.dw.com/image/70206894_302.jpg",
+     "aggregator": false,
+     "published": "2026-11-16T13:46:00+00:00"
+    },
+    {
+     "source": "Deutschlandfunk",
+     "region": "DE",
+     "weight": 0.95,
+     "title": "Banken - EU-Kommission: Unicredit darf Commerzbank übernehmen",
+     "summary": "Die italienische Großbank Unicredit hat die Genehmigung der Europäischen Kommission für eine Übernahme der Commerzbank erhalten.",
+     "link": "https://www.deutschlandfunk.de/eu-kommission-unicredit-darf-commerzbank-uebernehmen-102.html",
+     "image": "https://bilder.deutschlandfunk.de/82/2a/6e/09/822a6e09-1cfa-4236-b466-ad289d9db705/unicredit-commerzbank-100-1920x1920.jpg",
+     "aggregator": false,
+     "published": "2026-11-16T15:51:00+00:00"
+    },
+    {
+     "source": "ORF",
+     "region": "AT",
+     "weight": 0.95,
+     "title": "Commerzbank-Übernahme: EU gibt UniCredit grünes Licht",
+     "summary": "",
+     "link": "https://orf.at/stories/3448332/",
+     "image": null,
+     "aggregator": false,
+     "published": "2026-11-16T10:40:21+00:00"
+    },
+    {
+     "source": "n-tv",
+     "region": "DE",
+     "weight": 0.8,
+     "title": "\"Keine Auflagen\": EU gibt Unicredit grünes Licht für Commerzbank-Übernahme",
+     "summary": "Die italienische Unicredit darf die Commerzbank übernehmen. Die EU hat keine wettbewerbsrechtlichen Bedenken gegen den Zusammenschluss der beiden Geldinstitute. Brüssel erhofft sich durch den Schritt gleich mehrere Verbesserungen.",
+     "link": "https://www.n-tv.de/wirtschaft/EU-gibt-Unicredit-gruenes-Licht-fuer-Commerzbank-Uebernahme-id31538214.html",
+     "image": "https://www.n-tv.de/img/31538235/1794829152/Img_4_3/250/627645634.jpg",
+     "aggregator": false,
+     "published": "2026-11-16T10:35:48+00:00"
+    },
+    {
+     "source": "n-tv.de",
+     "region": "DE",
+     "weight": 0.6,
+     "title": "\"Keine Auflagen\": EU gibt Unicredit grünes Licht für Commerzbank-Übernahme",
+     "summary": "\"Keine Auflagen\": EU gibt Unicredit grünes Licht für Commerzbank-Übernahme n-tv.de EU gibt UniCredit grünes Licht für Commerzbank-Übernahme tagesschau.de Commerzbank-Übernahme: Betriebe fürchten Verlust der Mittelstands-DNA FAZ Banken: EU und Fed erlauben Commerzbank-Übernahme durch Unicredit Handelsblatt Commerzbank-Aktie und UniCredit-Aktie leichter: EU und Fed geben grünes Licht, Orlopp erwartet UniCredit-Kontrolle noch in diesem Jahr Finanzen.net",
+     "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOVV83enAtQ25UWV9kTnhCOEl3bGxlaVJOb1MyZE9FV3d6alFzM3FPSVpmNFpPQlhHa0s1ejlMTU92SFdEdXJYX1pIWkpHeldoM2N4YlRRajc2cHNLeTBXTW9HUjlLWnhLb0RlZnRtcGM0X3RBSElzRzBrb1lpdGYzU0NSQXdzQ3RFOEQ0RC01UTRvZVdrdVRvSWdsNUI1Mi1ndlBGZXhXNWNnZw?oc=5",
+     "image": null,
+     "aggregator": true,
+     "published": "2026-11-16T10:35:48+00:00"
+    }
+   ]
+  },
+  {
+   "id": 4,
+   "score": 12.72,
+   "outlets": [
+    "tagesschau",
+    "ZDFheute",
+    "SPIEGEL",
+    "Süddeutsche",
+    "tagesschau.de"
+   ],
+   "regions": [
+    "DE"
+   ],
+   "trend": [],
+   "newest": "2026-11-16T14:29:00+00:00",
+   "articles": [
+    {
+     "source": "tagesschau",
+     "region": "DE",
+     "weight": 1.0,
+     "title": "Merz erwartet Einigung zur Stromsteuer im Koalitionsausschuss",
+     "summary": "Merz erwartet Einigung zur Stromsteuer im Koalitionsausschuss",
+     "link": "https://www.tagesschau.de/video/video-1684704.html",
+     "image": "https://images.tagesschau.de/image/7854c3cd-d268-4eff-8aca-25d5bc157e12/AAABoeS0Zbc/AAABnSSvrFg/16x9-big/sendungsbild-1828312.jpg?width=1920",
+     "aggregator": false,
+     "published": "2026-11-16T14:13:20+00:00"
+    },
+    {
+     "source": "tagesschau",
+     "region": "DE",
+     "weight": 1.0,
+     "title": "Merz erwartet Einigung zur Stromsteuer im Koalitionsausschuss",
+     "summary": "Die Bundesregierung will die Stromsteuer senken - bislang war jedoch unklar, wie das gegenfinanziert werden soll. Jetzt gibt es offenbar eine Möglichkeit: Kanzler Merz zeigte sich sicher, dass sich SPD und Union morgen einigen.",
+     "link": "https://www.tagesschau.de/inland/innenpolitik/merz-stromsteuer-100.html",
+     "image": "https://images.tagesschau.de/image/08258aaa-6bc7-4587-8e53-9d190092cf87/AAABoeRlSGU/AAABnSSvrFg/16x9-big/merz-1800.jpg?width=1920",
+     "aggregator": false,
+     "published": "2026-11-16T12:46:45+00:00"
+    },
+    {
+     "source": "tagesschau",
+     "region": "DE",
+     "weight": 1.0,
+     "title": "Söder hält Stromsteuersenkung doch noch für möglich",
+     "summary": "Morgen ist die umstrittene Stromsteuer Thema im Koalitionsausschuss. CSU-Chef Söder glaubt noch an eine Einigung und nennt Möglichkeiten, die Milliarden für eine Senkung aufzutreiben. An ein Thema will er aber nicht ran.",
+     "link": "https://www.tagesschau.de/inland/innenpolitik/haushalt-soeder-stromsteuer-moeglich-koalition-muetterrente-100.html",
+     "image": "https://images.tagesschau.de/image/ca4aa1b0-8301-4ef3-ab6d-932ee4364e56/AAABoJpbmPk/AAABnSSvrFg/16x9-big/soeder-merz-122.jpg?width=1920",
+     "aggregator": false,
+     "published": "2026-11-16T08:24:05+00:00"
+    },
+    {
+     "source": "tagesschau Inland",
+     "region": "DE",
+     "weight": 1.0,
+     "title": "Merz erwartet Einigung zur Stromsteuer im Koalitionsausschuss",
+     "summary": "Die Bundesregierung will die Stromsteuer senken - bislang war jedoch unklar, wie das gegenfinanziert werden soll. Jetzt gibt es offenbar eine Möglichkeit: Kanzler Merz zeigte sich sicher, dass sich SPD und Union morgen einigen.",
+     "link": "https://www.tagesschau.de/inland/innenpolitik/merz-stromsteuer-100.html",
+     "image": "https://images.tagesschau.de/image/08258aaa-6bc7-4587-8e53-9d190092cf87/AAABoeRlSGU/AAABnSSvrFg/16x9-big/merz-1800.jpg?width=1920",
+     "aggregator": false,
+     "published": "2026-11-16T12:46:45+00:00"
+    },
+    {
+     "source": "tagesschau Inland",
+     "region": "DE",
+     "weight": 1.0,
+     "title": "Söder hält Stromsteuersenkung doch noch für möglich",
+     "summary": "Morgen ist die umstrittene Stromsteuer Thema im Koalitionsausschuss. CSU-Chef Söder glaubt noch an eine Einigung und nennt Möglichkeiten, die Milliarden für eine Senkung aufzutreiben. An ein Thema will er aber nicht ran.",
+     "link": "https://www.tagesschau.de/inland/innenpolitik/haushalt-soeder-stromsteuer-moeglich-koalition-muetterrente-100.html",
+     "image": "https://images.tagesschau.de/image/ca4aa1b0-8301-4ef3-ab6d-932ee4364e56/AAABoJpbmPk/AAABnSSvrFg/16x9-big/soeder-merz-122.jpg?width=1920",
+     "aggregator": false,
+     "published": "2026-11-16T08:24:05+00:00"
+    },
+    {
+     "source": "ZDFheute",
+     "region": "DE",
+     "weight": 1.0,
+     "title": "Merz erneuert Versprechen: Stromsteuer soll 2027 sinken",
+     "summary": "Kanzler Merz stellt eine Einigung auf die Stromsteuersenkung für Dienstag in Aussicht. Auch Söder drängt auf Entlastungen. Doch es gibt weitere Streitpunkte in der Koalition.",
+     "link": "https://www.zdfheute.de/politik/deutschland/merz-koalition-stromsteuer-100.html",
+     "image": "https://www.zdfheute.de/assets/bundestag-merz-klingbeil-102~384x216?cb=1794840958840",
+     "aggregator": false,
+     "published": "2026-11-16T14:29:00+00:00"
+    },
+    {
+     "source": "SPIEGEL",
+     "region": "DE",
+     "weight": 0.9,
+     "title": "Stromsteuer: Friedrich Merz erwartet Einigung im Koalitionsausschuss",
+     "summary": "Die Senkung der Stromsteuer war lange ein Streitpunkt in der Koalition aus SPD und Union. Kanzler Merz geht nun von einer Lösung aus. Im Finanzministerium von Vizekanzler Klingbeil weiß man davon nichts.",
+     "link": "https://www.spiegel.de/politik/deutschland/stromsteuer-friedrich-merz-erwartet-einigung-im-koalitionsausschuss-a-f168982c-79b8-49e6-9ab2-dc870587a27c#ref=rss",
+     "image": "https://cdn.prod.www.spiegel.de/images/db6e6587-7312-40bc-9e3a-cd02d06194af_w520_r2.08_fpx32.51_fpy50.jpg",
+     "aggregator": false,
+     "published": "2026-11-16T12:07:00+00:00"
+    },
+    {
+     "source": "Süddeutsche",
+     "region": "DE",
+     "weight": 0.9,
+     "title": "Diskussion um Stromsteuer: Merz und Söder beharren auf Stromsteuersenkung",
+     "summary": "Die Vorsitzenden von CDU und CSU machen am Tag vor den Verhandlungen im Koalitionsausschuss klar: Die Entlastung der Privathaushalte müsse kommen. Doch die Frage bleibt: Wie soll das bezahlt werden?",
+     "link": "https://www.sueddeutsche.de/politik/stromsteuer-koalitionsausschuss-merz-soeder-gegenfinanzierung-spd-li.3581068",
+     "image": "https://www.sueddeutsche.de/2026/11/16/52521abf-0846-47ca-8fef-1a2da3ff5d8f.jpg?rect=652%2C37%2C2752%2C2064&width=1000&fm=jpg&q=60",
+     "aggregator": false,
+     "published": "2026-11-16T13:59:26+00:00"
+    }
+   ]
+  },
+  {
+   "id": 5,
+   "score": 12.68,
+   "outlets": [
+    "tagesschau Ausland",
+    "ZDFheute",
+    "Deutschlandfunk",
+    "Handelsblatt"
+   ],
+   "regions": [
+    "DE",
+    "INT"
+   ],
+   "trend": [],
+   "newest": "2026-11-16T15:51:00+00:00",
+   "articles": [
+    {
+     "source": "tagesschau Ausland",
+     "region": "INT",
+     "weight": 1.0,
+     "title": "Ukraine und Russland: Serie von Angriffen - wohl auch Energieanlagen betroffen",
+     "summary": "Am Wochenende hat es eine Serie russischer Angriffe auf die Ukraine gegeben - laut Präsident Selenskyj sind auch Energieanlagen darunter. Die Ukraine wiederum griff offenbar eine petrochemische Anlage in Russland an.",
+     "link": "https://www.tagesschau.de/ausland/ukraine-russland-angriffe-210.html",
+     "image": "https://images.tagesschau.de/image/6ea808b8-a97e-4ce2-b799-f35e8e4cd604/AAABod5Fx4A/AAABnSSvrFg/16x9-big/ukraine-2932.jpg?width=1920",
+     "aggregator": false,
+     "published": "2026-11-15T17:54:56+00:00"
+    },
+    {
+     "source": "ZDFheute",
+     "region": "DE",
+     "weight": 1.0,
+     "title": "Ukraine und Russland melden Tote nach schweren Angriffen",
+     "summary": "In Dnipro und Saporischschja sterben laut Behörden mindestens drei Menschen. Moskau meldet eine Attacke auf die Krim-Brücke. Selenskyj hofft auf weitere Hilfe für die Flugabwehr.",
+     "link": "https://www.zdfheute.de/politik/ausland/drohnen-angriffe-krimbruecke-ukraine-krieg-russland-100.html",
+     "image": "https://www.zdfheute.de/assets/ukraine-russland-krieg-zerstoerte-wohnhaeuser-100~384x216?cb=1794822282268",
+     "aggregator": false,
+     "published": "2026-11-16T12:31:00+00:00"
+    },
+    {
+     "source": "Deutschlandfunk",
+     "region": "DE",
+     "weight": 0.95,
+     "title": "Ukraine-Krieg - Russische Besatzungesbhörden melden ukrainische Angriff auf Krim-Brücke",
+     "summary": "Die Ukraine hat nach russischen Angaben erneut die Brücke zwischen der Halbinsel Krim und Russland angegriffen.",
+     "link": "https://www.deutschlandfunk.de/russische-besatzungesbhoerden-melden-ukrainische-angriff-auf-krim-bruecke-102.html",
+     "image": "https://bilder.deutschlandfunk.de/e1/06/7d/e2/e1067de2-6230-41ae-943b-92085b1ff504/die-nachrichten-kachel-2176-zu1224-100-768x768.jpg",
+     "aggregator": false,
+     "published": "2026-11-16T15:51:00+00:00"
+    },
+    {
+     "source": "Handelsblatt",
+     "region": "DE",
+     "weight": 0.9,
+     "title": "Ukraine-Krieg: Russland und Ukraine melden gegenseitige Angriffe",
+     "summary": "Nach russischen Angaben haben ukrainische Drohnen ein Wohngebäude in Nischnekamsk getroffen. Ein Video zeigte am Sonntag zudem eine brennende Industrieanlage. In der ukrainischen Stadt Saporischschja schlugen erneut russische Gleitbomben ein.",
+     "link": "https://www.handelsblatt.com/video/politik/krieg-ukraine-und-russland-melden-neue-schwere-luftangriffe/100270190.html",
+     "image": null,
+     "aggregator": false,
+     "published": "2026-11-16T14:41:00+00:00"
+    }
+   ]
+  },
+  {
+   "id": 6,
+   "score": 12.28,
+   "outlets": [
+    "tagesschau",
+    "Deutsche Welle",
+    "Deutschlandfunk",
+    "SRF News",
+    "Spiegel"
+   ],
+   "regions": [
+    "CH",
+    "DE",
+    "INT"
+   ],
+   "trend": [],
+   "newest": "2026-11-16T15:51:00+00:00",
+   "articles": [
+    {
+     "source": "tagesschau",
+     "region": "DE",
+     "weight": 1.0,
+     "title": "Dritter US-Flugzeugträger erreicht laut Medienberichten Nahen Osten",
+     "summary": "Das US-Militär hat seine Flotte im Nahen Osten um einen dritten Flugzeugträger ergänzt. Ob die USA dauerhaft ihre Präsenz verstärken oder einen anderen Flugzeugträger ablösen, ist unklar. Die Lage bleibt angespannt.",
+     "link": "https://www.tagesschau.de/ausland/amerika/usa-flugzeugtraeger-nahost-102.html",
+     "image": "https://images.tagesschau.de/image/a29c7668-f235-4ea4-b38e-0ca797c6d6d4/AAABoeTAzwk/AAABnSSvrFg/16x9-big/uss-rosevelt-flugzeugtraeger-us-marine-101.jpg?width=1920",
+     "aggregator": false,
+     "published": "2026-11-16T07:11:37+00:00"
+    },
+    {
+     "source": "tagesschau Ausland",
+     "region": "INT",
+     "weight": 1.0,
+     "title": "Dritter US-Flugzeugträger erreicht laut Medienberichten Nahen Osten",
+     "summary": "Das US-Militär hat seine Flotte im Nahen Osten um einen dritten Flugzeugträger ergänzt. Ob die USA dauerhaft ihre Präsenz verstärken oder einen anderen Flugzeugträger ablösen, ist unklar. Die Lage bleibt angespannt.",
+     "link": "https://www.tagesschau.de/ausland/amerika/usa-flugzeugtraeger-nahost-102.html",
+     "image": "https://images.tagesschau.de/image/a29c7668-f235-4ea4-b38e-0ca797c6d6d4/AAABoeTAzwk/AAABnSSvrFg/16x9-big/uss-rosevelt-flugzeugtraeger-us-marine-101.jpg?width=1920",
+     "aggregator": false,
+     "published": "2026-11-16T07:11:37+00:00"
+    },
+    {
+     "source": "Deutsche Welle",
+     "region": "INT",
+     "weight": 0.95,
+     "title": "News kompakt: Dritter US-Flugzeugträger erreicht Nahen Osten",
+     "summary": "Die Entsendung des dritten US-Flugzeugträgers in den Nahen Osten war seit Wochen bekannt. Nun soll er eingetroffen sein. Bei der UN-Klimakonferenz in Antalya beginnt die entscheidende Woche. Der DW-Nachrichtenüberblick.",
+     "link": "https://www.dw.com/de/news-kompakt-dritter-us-flugzeugträger-erreicht-nahen-osten/a-79954671?maca=de-rss-de-all-1119-xml-mrss",
+     "image": "https://static.dw.com/image/79954765_302.jpg",
+     "aggregator": false,
+     "published": "2026-11-16T08:00:00+00:00"
+    },
+    {
+     "source": "Deutschlandfunk",
+     "region": "DE",
+     "weight": 0.95,
+     "title": "Golf-Region - Bericht: Dritter US-Flugzeugträger erreicht Nahen Osten",
+     "summary": "Der in den Nahen Osten geschickte dritte US-Flugzeugträger steht nach Presseinformationen vor seiner Ankunft in der Region.",
+     "link": "https://www.deutschlandfunk.de/bericht-dritter-us-flugzeugtraeger-erreicht-nahen-osten-104.html",
+     "image": "https://bilder.deutschlandfunk.de/FI/LE/_b/b5/FILE_bb5ab582b9a1209dfd6649e807f6fbf5/uebung-der-us-marine-54375257-jpg-100-768x768.jpg",
+     "aggregator": false,
+     "published": "2026-11-16T15:51:00+00:00"
+    },
+    {
+     "source": "SRF News",
+     "region": "CH",
+     "weight": 0.95,
+     "title": "Krieg im Nahen Osten – Presse: Dritter US-Flugzeugträger erreicht Nahen Osten",
+     "summary": "Damit wäre das US-Militär zumindest vorübergehend wieder mit drei Flugzeugträgern gleichzeitig im Nahen Osten präsent.",
+     "link": "https://www.srf.ch/news/international/nahost/krieg-im-nahen-osten-presse-dritter-us-flugzeugtraeger-erreicht-nahen-osten",
+     "image": "https://www.srf.ch/static/cms/images//320ws/023265.webp",
+     "aggregator": false,
+     "published": "2026-11-16T12:30:11+00:00"
+    },
+    {
+     "source": "Spiegel",
+     "region": "DE",
+     "weight": 0.6,
+     "title": "Iran-Krieg: Dritter US-Flugzeugträger erreicht Nahen Osten",
+     "summary": "Iran-Krieg: Dritter US-Flugzeugträger erreicht Nahen Osten Spiegel Dritter US-Flugzeugträger erreicht laut Medienberichten Nahen Osten tagesschau.de Dritter US-Flugzeugträger erreicht Nahen Osten +++ Revolutionsgarden greifen US-Ziele in Bahrain an RND.de Dritter Flugzeugträger im Nahen Osten: USA demonstrieren Stärke nach Angriffen auf Bahrain Frankfurter Rundschau Ölmärkte reagieren: Naher Osten – Schwerer Rückschlag für Trump-Regierung T-Online",
+     "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxORFNuMnJBMXp6cUZSWXc4ZVYtM1Q1Q0NGdW1LNnkxTVpCbTZheUM4a1ZoVEdENE1fb2JFdzVKdk50dVlaQ3lzaHFrNkhuWjg5dGFJV1kwYk42N21STWxzU0VpYU5ZU2xYZGhWQjBSc3hSVWVSWUszaEJUd1E4QVVmcXVpY3RINlc5V2EtVkJySFg5QmtOWmlNZG1HbmNCUFJGVnE1U2dkZ0xsSFlhcEtZTXlnR190cTRpdTFYOXpzYjYzaVFmZWIw?oc=5",
+     "image": null,
+     "aggregator": true,
+     "published": "2026-11-16T03:37:00+00:00"
+    }
+   ]
+  },
+  {
+   "id": 7,
+   "score": 11.58,
+   "outlets": [
+    "Deutschlandfunk",
+    "SPIEGEL",
+    "DER STANDARD",
+    "n-tv"
+   ],
+   "regions": [
+    "AT",
+    "DE"
+   ],
+   "trend": [],
+   "newest": "2026-11-16T15:51:00+00:00",
+   "articles": [
+    {
+     "source": "Deutschlandfunk",
+     "region": "DE",
+     "weight": 0.95,
+     "title": "Bayerische Kultband - Mitgründer von Biermösl Blosn: Michael Well ist tot",
+     "summary": "Der Mitgründer der bayerischen Kultband Biermösl Blosn Michael Well ist tot.",
+     "link": "https://www.deutschlandfunk.de/mitgruender-von-biermoesl-blosn-michael-well-ist-tot-104.html",
+     "image": "https://bilder.deutschlandfunk.de/03/c7/f3/f2/03c7f3f2-0f87-4db5-898c-89010406e55a/michael-well-gestorben-100-1280x1280.jpg",
+     "aggregator": false,
+     "published": "2026-11-16T15:51:00+00:00"
+    },
+    {
+     "source": "SPIEGEL",
+     "region": "DE",
+     "weight": 0.9,
+     "title": "Michael Well: Biermösl-Blosn-Mitgründer ist tot",
+     "summary": "Zusammen mit seinen Brüdern Hans und Christoph gründete Michael Well die Biermösl Blosn, die Volksmusik mit satirischen Texten verband. Oft spielten sie mit Gerhard Polt. Nun ist der Musiker im Alter von 68 Jahren gestorben.",
+     "link": "https://www.spiegel.de/kultur/musik/michael-well-biermoesl-blosn-mitgruender-ist-tot-a-3c20b6a5-735a-44da-be94-f1ae79d65284#ref=rss",
+     "image": "https://cdn.prod.www.spiegel.de/images/0ca4ff75-29db-4329-8257-a1d229933caa_w520_r2.08_fpx65.32_fpy50.jpg",
+     "aggregator": false,
+     "published": "2026-11-16T12:35:00+00:00"
+    },
+    {
+     "source": "DER STANDARD",
+     "region": "AT",
+     "weight": 0.85,
+     "title": "Biermösl-Blosn-Mitbegründer Michael Well 68-jährig gestorben",
+     "summary": "Der Musiker machte die bayerische Volksmusik zu einem politischen Satireinstrument. Bis vor kurzem stand er noch auf der Bühne",
+     "link": "https://www.derstandard.at/story/3000000349471/bierm246sl-blosn-mitgr252nder-michael-well-68-j228hrig-gestorben?ref=rss",
+     "image": "https://i.ds.at/4Im_wA/rs:fill:150:0/plain/lido-images/2026/11/16/d89f5f62-85b1-4b45-97dc-617f24b6757b.jpg",
+     "aggregator": false,
+     "published": "2026-11-16T13:02:24+00:00"
+    },
+    {
+     "source": "n-tv",
+     "region": "DE",
+     "weight": 0.8,
+     "title": "Trauer um bayerischen Musiker: Biermösl-Blosn-Mitgründer Michael Well ist tot",
+     "summary": "Noch vor wenigen Wochen stand er auf der Bühne. Nun trauert die bayerische Musikszene um Michael Well. Der Mitgründer der Formation Biermösl Blosn ist nach langer Krebserkrankung im Alter von 68 Jahren gestorben.",
+     "link": "https://www.n-tv.de/leute/Biermoesl-Blosn-Mitgruender-Michael-Well-ist-tot-id31539605.html",
+     "image": "https://www.n-tv.de/img/31539599/1794842617/Img_4_3/250/29074404.jpg",
+     "aggregator": false,
+     "published": "2026-11-16T15:06:03+00:00"
+    },
+    {
+     "source": "Spiegel",
+     "region": "DE",
+     "weight": 0.6,
+     "title": "Michael Well von Biermösl Blosn ist tot",
+     "summary": "Michael Well von Biermösl Blosn ist tot Spiegel Michael Well: Biermösl-Blosn-Mitgründer ist tot Spiegel Zum Tod von Michael Well: Künstlerisch gepfeffert, aber immer mit Herz SZ.de Mitgründer der Biermösl Blosn: Michael Well ist tot BR Michael Well ist tot: Biermösl-Blosn-Mitgründer stirbt mit 68 BILD",
+     "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQVXl4X29fV2xySWg3VjNaQ0w0dDNST1BGV0tqX3lFZk1MWlEydEg1eGtHbDFkcURkRGswN0ptQW15ZDB1eXFiZW50Ym1qc0FGZUl4aVRnVld0RjJ5bmVkQzE2WUxVc2ZmM1BQcFhJUnUxRUtwUy01U2xjLWpUSW1VbTRqdnJhYlBYSnJjTHJ0UV9ENWFocXpjRldJek9LV3N4dmR6dHZTTURfVFd0dmFHcVVJcmt2eGtVTkpv?oc=5",
+     "image": null,
+     "aggregator": true,
+     "published": "2026-11-16T12:35:00+00:00"
+    }
+   ]
+  },
+  {
+   "id": 8,
+   "score": 11.38,
+   "outlets": [
+    "ZDFheute",
+    "Deutschlandfunk",
+    "ORF",
+    "n-tv"
+   ],
+   "regions": [
+    "AT",
+    "DE"
+   ],
+   "trend": [],
+   "newest": "2026-11-16T15:51:00+00:00",
+   "articles": [
+    {
+     "source": "ZDFheute",
+     "region": "DE",
+     "weight": 1.0,
+     "title": "SPD kritisiert Dobrindts Abschiebepläne",
+     "summary": "Innenminister Dobrindt plant mit vier weiteren EU-Staaten ein Abschiebezentrum in Ruanda. Doch in der SPD mehren sich kritische Stimmen - unter anderem an den hohen Kosten.",
+     "link": "https://www.zdfheute.de/politik/ruanda-abschiebungen-hubs-dobrindt-spd-100.html",
+     "image": "https://www.zdfheute.de/assets/dobrindt-klingbeil-kabinett-scheinvaterschaft-100~384x216?cb=1765392372157",
+     "aggregator": false,
+     "published": "2026-11-16T15:00:00+00:00"
+    },
+    {
+     "source": "Deutschlandfunk",
+     "region": "DE",
+     "weight": 0.95,
+     "title": "Migrationspolitik - Deutschland und vier weitere EU-Staaten planen ab 2027 Abschiebezentrum in Ruanda",
+     "summary": "Deutschland, Österreich und drei weitere EU-Staaten nehmen mit Ruanda konkrete Verhandlungen über ein Abschiebezentrum auf. Ziel sei es, ausreisepflichtige Asylbewerber bereits 2027 in das afrikanische Land zu bringen, kündigte Österreichs Kanzler Stocker an.",
+     "link": "https://www.deutschlandfunk.de/deutschland-und-vier-weitere-eu-staaten-planen-ab-2027-abschiebezentrum-in-ruanda-100.html",
+     "image": "https://bilder.deutschlandfunk.de/da/6d/0a/0f/da6d0a0f-7ea9-4676-99fa-7f9138c9c6fc/kigali-ruanda-100-1920x1920.jpg",
+     "aggregator": false,
+     "published": "2026-11-16T15:51:00+00:00"
+    },
+    {
+     "source": "ORF",
+     "region": "AT",
+     "weight": 0.95,
+     "title": "Abschiebezentrum in Ruanda fix",
+     "summary": "Österreich und vier weitere EU-Staaten haben sich mit Ruanda auf die Umsetzung eines Abschiebezentrums in dem ostafrikanischen Staat geeinigt. Ziel sei es, ausreisepflichtige Personen bereits 2027 nach Ruanda zu bringen, teilte Bundeskanzler Christian Stocker (ÖVP) am Montag bei einer Pressekonferenz mit Vertretern der fünf Staaten mit. Er sprach von einem „historischen Paradigmenwechsel“. An dem Vorhaben gab es im Vorfeld viel Kritik.",
+     "link": "https://orf.at/stories/3448356/",
+     "image": null,
+     "aggregator": false,
+     "published": "2026-11-16T15:29:23+00:00"
+    },
+    {
+     "source": "ORF",
+     "region": "AT",
+     "weight": 0.95,
+     "title": "Offenbar Einigung mit Ruanda",
+     "summary": "Österreich und vier weitere EU-Staaten wollen abgelehnte Asylwerber und Asylwerberinnen künftig in ein Abschiebezentrum in Ruanda bringen. Entsprechende Pläne dürften Innenminister Gerhard Karner (ÖVP) und seine Amtskollegen aus Deutschland, Griechenland, Dänemark und den Niederlanden laut Diplomaten am Montag in Wien vorstellen. Zuvor hatten bereits der „Standard“ und Reuters über die Einigung berichtet.",
+     "link": "https://orf.at/stories/3448325/",
+     "image": null,
+     "aggregator": false,
+     "published": "2026-11-16T11:08:51+00:00"
+    },
+    {
+     "source": "n-tv",
+     "region": "DE",
+     "weight": 0.8,
+     "title": "Start wohl bereits 2027: Deutschland und vier weitere EU-Staaten planen Abschiebezentrum in Ruanda",
+     "summary": "Fünf EU-Staaten, darunter Deutschland und Österreich, planen ab 2027 ein gemeinsames Abschiebezentrum in Ruanda. Österreichs Kanzler Stocker spricht von einem historischen Paradigmenwechsel. Menschenrechtler kritisieren das Vorhaben scharf.",
+     "link": "https://www.n-tv.de/politik/Deutschland-und-vier-weitere-EU-Staaten-planen-Abschiebezentrum-in-Ruanda-id31539975.html",
+     "image": "https://www.n-tv.de/img/31539995/1794845861/Img_4_3/250/633340534.jpg",
+     "aggregator": false,
+     "published": "2026-11-16T15:14:43+00:00"
+    }
+   ]
+  },
+  {
+   "id": 9,
+   "score": 11.18,
+   "outlets": [
+    "Deutschlandfunk",
+    "ORF",
+    "SPIEGEL",
+    "n-tv"
+   ],
+   "regions": [
+    "AT",
+    "DE"
+   ],
+   "trend": [],
+   "newest": "2026-11-16T15:51:00+00:00",
+   "articles": [
+    {
+     "source": "Deutschlandfunk",
+     "region": "DE",
+     "weight": 0.95,
+     "title": "Brüssel - EU verhängt Sanktionen gegen Russlands reichste Unternehmerin",
+     "summary": "Die EU hat die reichste Unternehmerin Russlands, Tatyana Kim, auf ihre Sanktionsliste gesetzt.",
+     "link": "https://www.deutschlandfunk.de/eu-verhaengt-sanktionen-gegen-russlands-reichste-unternehmerin-102.html",
+     "image": "https://bilder.deutschlandfunk.de/fe/70/b0/f7/fe70b0f7-f583-4afa-a4e9-66179177466a/tatyana-kim-wildberries-russland-eu-sanktionen-100-1920x1920.jpg",
+     "aggregator": false,
+     "published": "2026-11-16T15:51:00+00:00"
+    },
+    {
+     "source": "ORF",
+     "region": "AT",
+     "weight": 0.95,
+     "title": "Russlands reichste Unternehmerin auf EU-Sanktionsliste",
+     "summary": "",
+     "link": "https://orf.at/stories/3448353/",
+     "image": null,
+     "aggregator": false,
+     "published": "2026-11-16T13:20:52+00:00"
+    },
+    {
+     "source": "SPIEGEL",
+     "region": "DE",
+     "weight": 0.9,
+     "title": "EU verhängt Sanktionen gegen Russlands reichste Unternehmerin Tatyana Kim",
+     "summary": "Die Europäische Union hat neue Sanktionen gegen Russland auf den Weg gebracht. Betroffen ist auch die Unternehmerin Tatyana Kim. Ihre Online-Handelsplattform Wildberries fungiere als Liefernetzwerk für das russische Militär.",
+     "link": "https://www.spiegel.de/ausland/eu-verhaengt-sanktionen-gegen-russlands-reichste-unternehmerin-a-5a3758d4-9ec5-472d-9152-00125534a660#ref=rss",
+     "image": "https://cdn.prod.www.spiegel.de/images/da96f92b-a40d-429f-9dbd-858ec72f0d98_w520_r2.08_fpx49.94_fpy45.jpg",
+     "aggregator": false,
+     "published": "2026-11-16T15:04:00+00:00"
+    },
+    {
+     "source": "n-tv",
+     "region": "DE",
+     "weight": 0.8,
+     "title": "Kim profitiert von Angriffskrieg: EU sanktioniert reichste Frau Russlands",
+     "summary": "Tatjana Kim steht an der Spitze des russischen Äquivalents zu Amazon. Mit ihrem Unternehmen Wildberries unterstützt sie nach Ansicht der EU den Angriffskrieg gegen die Ukraine. Brüssel belegt Kim sowie zahlreiche weitere Personen und Organisationen nun mit Sanktionen.",
+     "link": "https://www.n-tv.de/politik/EU-sanktioniert-reichste-Frau-Russlands-id31539143.html",
+     "image": "https://www.n-tv.de/img/31539140/1794838635/Img_4_3/250/632388268.jpg",
+     "aggregator": false,
+     "published": "2026-11-16T15:02:44+00:00"
+    }
+   ]
+  },
+  {
+   "id": 10,
+   "score": 11.0,
+   "outlets": [
+    "tagesschau Wirtschaft",
+    "SRF News",
+    "heise online"
+   ],
+   "regions": [
+    "CH",
+    "DE"
+   ],
+   "trend": [],
+   "newest": "2026-11-16T14:06:33+00:00",
+   "articles": [
+    {
+     "source": "tagesschau Wirtschaft",
+     "region": "DE",
+     "weight": 1.0,
+     "title": "Rücktritt von Nvidia-Chef Huang: Vom Sympathieträger zum Sicherheitsrisiko",
+     "summary": "Er war nicht nur Chef, sondern auch Gesicht von Nvidia: Jensen Huang formte den Chip-Riesen maßgeblich - als \"sympathischer Tech-Bro\" mit guten Kontakten zur Trump-Regierung. Bis er zum Risiko wurde. Von Gabi Biesinger.",
+     "link": "https://www.tagesschau.de/wirtschaft/unternehmen/nvidia-huang-rolle-100.html",
+     "image": "https://images.tagesschau.de/image/62a459a4-de47-412c-bc99-10728c9a25e5/AAABodAPyYk/AAABnSSvrFg/16x9-big/huang-120.jpg?width=1920",
+     "aggregator": false,
+     "published": "2026-11-12T16:17:54+00:00"
+    },
+    {
+     "source": "SRF News",
+     "region": "CH",
+     "weight": 0.95,
+     "title": "Abgang von Nvidia-Chef – Affären hin oder her: Tech-Bros wollen Jensen Huang zurückhaben",
+     "summary": "Weggefährten setzen sich für Jensen Huang ein. Kann er wieder Nvidia-Chef werden?",
+     "link": "https://www.srf.ch/news/wirtschaft/abgang-von-nvidia-chef-affaeren-hin-oder-her-tech-bros-wollen-jensen-huang-zurueckhaben",
+     "image": "https://www.srf.ch/static/cms/images//320ws/5c639c0.webp",
+     "aggregator": false,
+     "published": "2026-11-16T14:06:33+00:00"
+    },
+    {
+     "source": "heise online",
+     "region": "DE",
+     "weight": 0.85,
+     "title": "Gerüchte um Nvidia-Nachfolge: Wer wird CEO?",
+     "summary": "Nach dem Rücktritt von Nvidia-Chef Jensen Huang wird spekuliert, wer seine Nachfolge antreten könnte. Es gibt ein paar Kandidaten – unter anderem von Apple.",
+     "link": "https://www.heise.de/news/Geruechte-um-Nvidia-Nachfolge-Wer-wird-CEO-11523074.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
+     "image": null,
+     "aggregator": false,
+     "published": "2026-11-12T16:56:00+00:00"
+    }
+   ]
+  },
+  {
+   "id": 11,
+   "score": 10.88,
+   "outlets": [
+    "Deutschlandfunk",
+    "Handelsblatt",
+    "DER STANDARD",
+    "Golem"
+   ],
+   "regions": [
+    "AT",
+    "DE"
+   ],
+   "trend": [],
+   "newest": "2026-11-16T15:51:00+00:00",
+   "articles": [
+    {
+     "source": "Deutschlandfunk",
+     "region": "DE",
+     "weight": 0.95,
+     "title": "Raumfahrt - Vulcan-Rakete versagt nach Start, Amazon verliert 40 \"Leo\"-Satelliten",
+     "summary": "Der Start einer Vulcan-Rakete des Raumfahrtunternehmens United Launch Alliance ist gescheitert.",
+     "link": "https://www.deutschlandfunk.de/vulcan-rakete-versagt-nach-start-amazon-verliert-40-leo-satelliten-102.html",
+     "image": "https://bilder.deutschlandfunk.de/5f/d5/4b/c2/5fd54bc2-78be-47f3-9482-6d5a0d1f82ec/rakete-alliance-vulkan-cape-canaveral-100-1920x1920.jpg",
+     "aggregator": false,
+     "published": "2026-11-16T15:51:00+00:00"
+    },
+    {
+     "source": "Handelsblatt",
+     "region": "DE",
+     "weight": 0.9,
+     "title": "Raumfahrt: ULA-Rakete stürzt ab – mit 40 Amazon-Satelliten an Bord",
+     "summary": "Rund zehn Minuten nach dem Start vom Weltraumbahnhof Cape Canaveral in Florida ist am Sonntag eine Vulcan-Rakete des Raumfahrtunternehmens United Launch Alliance (ULA) abgestürzt. Die Ursache ist noch unklar.",
+     "link": "https://www.handelsblatt.com/video/unternehmen/raumfahrt-ula-rakete-stuerzt-mit-40-amazon-satelliten-an-bord-ab/100270194.html",
+     "image": null,
+     "aggregator": false,
+     "published": "2026-11-16T14:43:00+00:00"
+    },
+    {
+     "source": "DER STANDARD",
+     "region": "AT",
+     "weight": 0.85,
+     "title": "Nutzlast-Rakete von Boeing/Lockheed kurz nach Start abgestürzt",
+     "summary": "Dabei wurden 40 Satelliten zerstört, die für das Internet-Netzwerk Leo des Online-Konzerns Amazon gedacht waren. Die Ursache war zunächst unklar",
+     "link": "https://www.derstandard.at/story/3000000349335/nutzlast-rakete-von-boeinglockheed-kurz-nach-start-abgest252rzt?ref=rss",
+     "image": "https://i.ds.at/mlkjeQ/rs:fill:150:0/plain/lido-images/2026/11/15/60464a39-fb0e-40eb-9744-b816e50269b1.jpg",
+     "aggregator": false,
+     "published": "2026-11-15T21:41:47+00:00"
+    },
+    {
+     "source": "Golem",
+     "region": "DE",
+     "weight": 0.75,
+     "title": "Panne bei Vulcan-Rakete: Amazon verliert 40 Breitband-Satelliten",
+     "summary": "Doppelter Rückschlag für die Konkurrenz von SpaceX: Der Transport von 40 Kommunikationssatelliten für Amazon ist gescheitert. ( Rakete , Amazon )",
+     "link": "https://www.golem.de/news/vulcan-rakete-amazon-verliert-40-breitband-satelliten-2611-215250.html",
+     "image": "https://cpx.golem.de/cpx.php?class=17&amp;aid=215250&amp;page=1&amp;ts=1794821942",
+     "aggregator": false,
+     "published": "2026-11-16T09:39:02+00:00"
+    }
+   ]
+  },
+  {
+   "id": 12,
+   "score": 10.58,
+   "outlets": [
+    "Deutschlandfunk",
+    "ORF",
+    "Handelsblatt"
+   ],
+   "regions": [
+    "AT",
+    "DE"
+   ],
+   "trend": [],
+   "newest": "2026-11-16T15:51:00+00:00",
+   "articles": [
+    {
+     "source": "Deutschlandfunk",
+     "region": "DE",
+     "weight": 0.95,
+     "title": "Deutsche Asylpolitik - \"Return Hubs\": Worum es bei dem geplanten Abschiebezentrum in Ruanda geht",
+     "summary": "Bundesinnenminister Dobrindt strebt die Einrichtung eines Abschiebezentrums in Ruanda gemeinsam mit vier anderen EU-Ländern an. Die Maßnahme ist innerhalb der Bundesregierung umstritten. Außerdem gibt es weitere Hürden für die sogenannten \"Return Hubs\". Ein Überblick.",
+     "link": "https://www.deutschlandfunk.de/return-hubs-worum-es-bei-dem-geplanten-abschiebezentrum-in-ruanda-geht-100.html",
+     "image": "https://bilder.deutschlandfunk.de/99/2f/fe/20/992ffe20-1032-4eb7-a3bc-e06cd31d60e1/stacheldraht-abschiebung-deutschland-100-1920x1920.jpg",
+     "aggregator": false,
+     "published": "2026-11-16T15:51:00+00:00"
+    },
+    {
+     "source": "ORF",
+     "region": "AT",
+     "weight": 0.95,
+     "title": "Österreich dabei: Abschiebezentrum in Ruanda geplant",
+     "summary": "",
+     "link": "https://orf.at/stories/3448314/",
+     "image": null,
+     "aggregator": false,
+     "published": "2026-11-16T08:31:53+00:00"
+    },
+    {
+     "source": "Handelsblatt",
+     "region": "DE",
+     "weight": 0.9,
+     "title": "Asylpolitik: 20 Millionen Euro für 40 Abschiebungen? Dobrindts Ruanda-Plan stößt auf Widerstand",
+     "summary": "Der Bundesinnenminister treibt mit vier Staaten die Einrichtung von Abschiebezentren außerhalb der EU voran. Ruanda gilt als Favorit. Die SPD verweigert aber die Finanzierung des Projekts.",
+     "link": "https://www.handelsblatt.com/politik/deutschland/asylpolitik-dobrindts-ruanda-abschiebeplan-stoesst-auf-widerstand/100270115.html",
+     "image": "https://images.handelsblatt.com/8T2aq9cOmy9f/cover/900/506/0/0/0/417/0.5/0.5/abschiebeflug-auch-in-deutschland-wird-kontrovers-diskutiert-ob-syrien-sicher-genug-ist-fuer-gefluechtete-um-dorthin-abgeschoben-zu-werden.jpg",
+     "aggregator": false,
+     "published": "2026-11-16T15:10:32+00:00"
+    }
+   ]
+  },
+  {
+   "id": 13,
+   "score": 10.3,
+   "outlets": [
+    "ZDFheute",
+    "Deutsche Welle",
+    "n-tv"
+   ],
+   "regions": [
+    "DE",
+    "INT"
+   ],
+   "trend": [],
+   "newest": "2026-11-16T15:18:15+00:00",
+   "articles": [
+    {
+     "source": "ZDFheute",
+     "region": "DE",
+     "weight": 1.0,
+     "title": "Ausnahmespiel in München",
+     "summary": "Rund 70.000 Fans werden in der Arena erwartet, wenn die NFL-Klubs New England Patriots auf die Detroit Lions treffen.",
+     "link": "https://www.zdfheute.de/video/muenchen-nflspiel-100.html",
+     "image": "https://www.zdfheute.de/assets/nfl-muenchen-saisonspiel-100~384x216?cb=1794676878386",
+     "aggregator": false,
+     "published": "2026-11-14T16:42:35+00:00"
+    },
+    {
+     "source": "Deutsche Welle",
+     "region": "INT",
+     "weight": 0.95,
+     "title": "Amon-Ra St. Brown: Zwei Touchdowns - und München liegt ihm zu Füßen",
+     "summary": "Vor 70.000 Fans in München führt Amon-Ra St. Brown die Detroit Lions mit zwei Touchdowns beim \"Munich Game\" der NFL zum Sieg gegen New England - in einer Stadt, die für ihn an diesem Tag mehr als ein Gastspielort ist.",
+     "link": "https://www.dw.com/de/amon-ra-st-brown-zwei-touchdowns-und-münchen-liegt-ihm-zu-füßen/a-79956840?maca=de-rss-de-all-1119-xml-mrss",
+     "image": "https://static.dw.com/image/79957023_302.jpg",
+     "aggregator": false,
+     "published": "2026-11-16T10:57:00+00:00"
+    },
+    {
+     "source": "n-tv",
+     "region": "DE",
+     "weight": 0.8,
+     "title": "Hutchinson schwer verletzt: Jubel endet für NFL-Star dramatisch",
+     "summary": "Die Detroit Lions und die New England Patriots liefern den europäischen Fans ein spektakuläres Football-Match. Doch beide Teams bezahlen den Ausflug nach München teuer: Jeweils ein Star verletzt sich schwer.",
+     "link": "https://www.n-tv.de/sport/nfl/Jubel-endet-fuer-NFL-Star-dramatisch-id31539911.html",
+     "image": "https://www.n-tv.de/img/31536229/1794760350/Img_4_3/250/image.jpg",
+     "aggregator": false,
+     "published": "2026-11-16T15:18:15+00:00"
+    }
+   ]
+  },
+  {
+   "id": 14,
+   "score": 10.28,
+   "outlets": [
+    "tagesschau Inland",
+    "Süddeutsche",
+    "Handelsblatt"
+   ],
+   "regions": [
+    "DE"
+   ],
+   "trend": [],
+   "newest": "2026-11-16T14:57:33+00:00",
+   "articles": [
+    {
+     "source": "tagesschau Inland",
+     "region": "DE",
+     "weight": 1.0,
+     "title": "Keine Senkung der Stromsteuer: Bei der Union \"hat es ordentlich geknallt\"",
+     "summary": "Die Senkung der Stromsteuer wird nun vermutlich doch nicht kommen - trotz anderslautender Versprechen. Bei der Union will man das noch nicht akzeptieren. Und die Opposition nimmt sich Kanzler Merz vor.",
+     "link": "https://www.tagesschau.de/inland/innenpolitik/haushalt-kompromisse-stromsteuer-reaktionen-100.html",
+     "image": "https://images.tagesschau.de/image/c719ccdf-4c2e-4d89-8cc7-51bde98c7346/AAABn3WyiBE/AAABnSSvrFg/16x9-big/cdu-csu-fraktion-102.jpg?width=1920",
+     "aggregator": false,
+     "published": "2026-11-12T13:40:04+00:00"
+    },
+    {
+     "source": "Süddeutsche",
+     "region": "DE",
+     "weight": 0.9,
+     "title": "Bundespolitik: Merz fordert vollständige Senkung der Stromsteuer",
+     "summary": "Der Bundeskanzler geht davon aus, am Dienstag zu einer Entscheidung zu kommen. Die Stromsteuer soll für alle auf das europäische Minimum gesenkt werden. Die nötigen Milliardenmittel im Bundeshaushalt fehlen jedoch bisher.",
+     "link": "https://www.sueddeutsche.de/politik/bundesregierung-liveblog-merz-stromsteuer-li.3580621",
+     "image": "https://www.sueddeutsche.de/2026/11/16/b92e021a-b9af-4f16-81f7-333a837f578a.jpg?rect=290%2C245%2C3026%2C2270&width=1000&fm=jpg&q=60",
+     "aggregator": false,
+     "published": "2026-11-16T13:26:50+00:00"
+    },
+    {
+     "source": "Handelsblatt",
+     "region": "DE",
+     "weight": 0.9,
+     "title": "Haushalt: „Der Finanzminister kann nicht überrascht sein“ – Merz setzt Klingbeil bei Stromsteuer unter Druck",
+     "summary": "Nach harten Verhandlungen haben die Fraktionen den Haushalt finalisiert. Doch die Union lässt bei der Senkung der Stromsteuer nicht locker. Gibt es eine Einigung – oder eskaliert der Streit?",
+     "link": "https://www.handelsblatt.com/politik/deutschland/haushalt-merz-setzt-klingbeil-bei-senkung-der-stromsteuer-unter-zugzwang/100270123.html",
+     "image": "https://images.handelsblatt.com/918YkgXKpRwQ/cover/900/506/0/0/214/213/0.5/0.5/16.11.2026-bayern-muenchen-friedrich-merz-l-cdu-vorsitzender-und-bundeskanzler-und-markus-soede.jpg",
+     "aggregator": false,
+     "published": "2026-11-16T14:57:33+00:00"
+    }
+   ]
+  },
+  {
+   "id": 15,
+   "score": 10.05,
+   "outlets": [
+    "tagesschau",
+    "ZDFheute",
+    "SRF News",
+    "tagesschau.de"
+   ],
+   "regions": [
+    "CH",
+    "DE",
+    "INT"
+   ],
+   "trend": [],
+   "newest": "2026-11-16T14:33:00+00:00",
+   "articles": [
+    {
+     "source": "tagesschau",
+     "region": "DE",
+     "weight": 1.0,
+     "title": "UN verhandeln Regeln zum Einsatz autonomer Waffensysteme",
+     "summary": "Sie können selbstständig Ziele auswählen und Menschen töten: In Genf verhandeln heute 130 Staaten über internationale Regeln für autonome Waffensysteme - auch \"Killerroboter\" genannt. Von Sandra Biegger.",
+     "link": "https://www.tagesschau.de/ausland/europa/vereinte-nationen-autonome-waffensysteme-100.html",
+     "image": "https://images.tagesschau.de/image/ffa06e13-d57b-4235-a827-ba7b899299a2/AAABoeOz20A/AAABnSSvrFg/16x9-big/autonome-waffe-100.jpg?width=1920",
+     "aggregator": false,
+     "published": "2026-11-16T09:32:58+00:00"
+    },
+    {
+     "source": "tagesschau Ausland",
+     "region": "INT",
+     "weight": 1.0,
+     "title": "UN verhandeln Regeln zum Einsatz autonomer Waffensysteme",
+     "summary": "Sie können selbstständig Ziele auswählen und Menschen töten: In Genf verhandeln heute 130 Staaten über internationale Regeln für autonome Waffensysteme - auch \"Killerroboter\" genannt. Von Sandra Biegger.",
+     "link": "https://www.tagesschau.de/ausland/europa/vereinte-nationen-autonome-waffensysteme-100.html",
+     "image": "https://images.tagesschau.de/image/ffa06e13-d57b-4235-a827-ba7b899299a2/AAABoeOz20A/AAABnSSvrFg/16x9-big/autonome-waffe-100.jpg?width=1920",
+     "aggregator": false,
+     "published": "2026-11-16T09:32:58+00:00"
+    },
+    {
+     "source": "ZDFheute",
+     "region": "DE",
+     "weight": 1.0,
+     "title": "Ringen um Regeln für \"Killerroboter\": Darum geht es",
+     "summary": "Dürfen autonome Waffensysteme ohne menschliches Zutun Ziele suchen und feuern? Über Regeln zum Einsatz von \"Killerrobotern\" beraten Vertreter von 128 Staaten in Genf. Darum geht's.",
+     "link": "https://www.zdfheute.de/politik/killerroboter-autonome-waffensysteme-regelen-konferenz-genf-100.html",
+     "image": "https://www.zdfheute.de/assets/uebung-autonomer-kriegsroboter-der-us-armee-100~384x216?cb=1794831262924",
+     "aggregator": false,
+     "published": "2026-11-16T14:33:00+00:00"
+    },
+    {
+     "source": "SRF News",
+     "region": "CH",
+     "weight": 0.95,
+     "title": "Autonome Waffensysteme – 128 Staaten ringen in Genf um Regeln für Killerroboter",
+     "summary": "Zwar wollen viele Länder rechtliche Einschränkungen. Doch Staaten, die an solchen Waffen arbeiten, sind dagegen.",
+     "link": "https://www.srf.ch/news/international/autonome-waffensysteme-128-staaten-ringen-in-genf-um-regeln-fuer-killerroboter",
+     "image": "https://www.srf.ch/static/cms/images//320ws/bd50b2.webp",
+     "aggregator": false,
+     "published": "2026-11-16T07:57:57+00:00"
+    },
+    {
+     "source": "tagesschau.de",
+     "region": "DE",
+     "weight": 0.6,
+     "title": "UN verhandeln Regeln zum Einsatz autonomer Waffensysteme",
+     "summary": "UN verhandeln Regeln zum Einsatz autonomer Waffensysteme tagesschau.de Ringen um Regeln für \"Killerroboter\": Darum geht es ZDFheute Wenn KI über Leben und Tod entscheidet: Debatte über autonome Waffen in Genf Neue Zürcher Zeitung Verteidigung: Staaten planen bei UN-Konferenz Vorstoß gegen Killerroboter Handelsblatt Genf - 128 Länder beraten ab Montag über Beschränkungen für KI-Waffensysteme und Killerroboter Deutschlandfunk",
+     "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOeEo2WnM1YmVpZU5PaFRpQzJoMndDUlFZQjI2eTdtLXF2c3dVdDFTRDdrX0pkZjVsMFRKNGNrOTVfRS02c3VEVTAxXzIxRkFRbi1wSDNreHVJVE1kTkZ5X1FQLURhb2NtVU9Va0U1U0RSQTRJV3h5U3ZNOEVTRldRSDVXbGR2cTdNSFVTXzBJMGM5cXdC?oc=5",
+     "image": null,
+     "aggregator": true,
+     "published": "2026-11-16T09:10:40+00:00"
+    }
+   ]
+  },
+  {
+   "id": 16,
+   "score": 9.98,
+   "outlets": [
+    "Deutschlandfunk",
+    "n-tv",
+    "Golem"
+   ],
+   "regions": [
+    "DE"
+   ],
+   "trend": [],
+   "newest": "2026-11-16T15:51:00+00:00",
+   "articles": [
+    {
+     "source": "Deutschlandfunk",
+     "region": "DE",
+     "weight": 0.95,
+     "title": "Nach Treffen mit Söder - Merz: Stromsteuersenkung wird morgen beschlossen",
+     "summary": "Bundeskanzler Merz hat in Aussicht gestellt, dass die Stromsteuer auch für Privathaushalte nun doch 2027 sinkt. Man werde sich am Dienstag im Koalitionsausschuss einigen, sagte der CDU-Vorsitzende bei einem gemeinsamen Auftritt mit CSU-Chef Söder.",
+     "link": "https://www.deutschlandfunk.de/merz-stromsteuersenkung-wird-morgen-beschlossen-102.html",
+     "image": "https://bilder.deutschlandfunk.de/7c/b6/47/7e/7cb6477e-79c9-4ebb-90c1-800a90a15286/cdu-csu-bundeskanzler-merz-ministerpraesident-soeder-bayern-stromsteuer-100-1920x1920.jpg",
+     "aggregator": false,
+     "published": "2026-11-16T15:51:00+00:00"
+    },
+    {
+     "source": "n-tv",
+     "region": "DE",
+     "weight": 0.8,
+     "title": "\"Werden uns morgen einigen\": Merz und Söder sehen Stromsteuersenkung auf der Zielgeraden",
+     "summary": "Um die Stromsteuer ist in der schwarz-roten Koalition ein Streit entbrannt. Finanzminister Klingbeil verlangt eine Gegenfinanzierung, während die Union auf den Koalitionsvertrag pocht. Vor dem entscheidenden Treffen legt sich Kanzler Merz nun fest.",
+     "link": "https://www.n-tv.de/politik/Merz-und-Soeder-sehen-Stromsteuersenkung-auf-der-Zielgeraden-id31538688.html",
+     "image": "https://www.n-tv.de/img/31538696/1794836779/Img_4_3/250/imago0870785609h.jpg",
+     "aggregator": false,
+     "published": "2026-11-16T12:26:07+00:00"
+    },
+    {
+     "source": "Golem",
+     "region": "DE",
+     "weight": 0.75,
+     "title": "Haushaltsstreit mit SPD: Merz und Söder beharren auf Stromsteuersenkung",
+     "summary": "Das Hin und Her um die Stromsteuer geht weiter. Bundeskanzler Merz sieht dafür Spielraum im Bundeshalt 2027. ( Bundesregierung , Elektroauto )",
+     "link": "https://www.golem.de/news/haushaltsstreit-mit-spd-merz-und-soeder-beharren-auf-stromsteuersenkung-2611-215266.html",
+     "image": "https://cpx.golem.de/cpx.php?class=17&amp;aid=215266&amp;page=1&amp;ts=1794836881",
+     "aggregator": false,
+     "published": "2026-11-16T13:48:01+00:00"
+    }
+   ]
+  },
+  {
+   "id": 17,
+   "score": 9.86,
+   "outlets": [
+    "ORF",
+    "Süddeutsche",
+    "n-tv",
+    "T-Online"
+   ],
+   "regions": [
+    "AT",
+    "DE"
+   ],
+   "trend": [],
+   "newest": "2026-11-16T15:47:03+00:00",
+   "articles": [
+    {
+     "source": "ORF",
+     "region": "AT",
+     "weight": 0.95,
+     "title": "Bericht: Französische Soldaten als Ausbildner in Ukraine",
+     "summary": "",
+     "link": "https://orf.at/stories/3448338/",
+     "image": null,
+     "aggregator": false,
+     "published": "2026-11-16T11:48:58+00:00"
+    },
+    {
+     "source": "Süddeutsche",
+     "region": "DE",
+     "weight": 0.9,
+     "title": "Geheimmission „Volia“: Sind französische Soldaten in der Ukraine aktiv?",
+     "summary": "Ein Radiosender berichtet von einer französischen Einheit, die in der Ukraine operiere. Das wäre militärisch und politisch brisant. Bisher schweigt Präsident Macron dazu.",
+     "link": "https://www.sueddeutsche.de/politik/ukraine-krieg-frankreich-geheimmission-li.3581484",
+     "image": "https://www.sueddeutsche.de/2026/11/16/19be3304-1266-4e9a-ac97-ee08aa5047a0.jpg?rect=223%2C0%2C3555%2C2666&width=1000&fm=jpg&q=60",
+     "aggregator": false,
+     "published": "2026-11-16T15:47:03+00:00"
+    },
+    {
+     "source": "n-tv",
+     "region": "DE",
+     "weight": 0.8,
+     "title": "Parlament fühlt sich übergangen: Berichte: Französische Soldaten seit Monaten in der Ukraine im Einsatz",
+     "summary": "Bislang ist kein westlicher Staat offiziell mit Militärangehörigen in der Ukraine aktiv. Doch Medienberichten zufolge sind französische Soldaten in dem von Russland angegriffenen Land im Einsatz - aber nicht für Kampfhandlungen.",
+     "link": "https://www.n-tv.de/politik/Ukraine-Krieg-Franzoesische-Soldaten-sollen-seit-Monaten-im-Einsatz-sein-id31538473.html",
+     "image": "https://www.n-tv.de/img/31538418/1794831265/Img_4_3/250/601478306.jpg",
+     "aggregator": false,
+     "published": "2026-11-16T12:15:29+00:00"
+    },
+    {
+     "source": "T-Online",
+     "region": "DE",
+     "weight": 0.6,
+     "title": "Nato-Staat hat offenbar Soldaten in die Ukraine verlegt",
+     "summary": "Nato-Staat hat offenbar Soldaten in die Ukraine verlegt T-Online Geheimmission „Volia“: Sind französische Soldaten in der Ukraine aktiv? - Politik - SZ.de SZ.de Ukraine-Krieg: Französische Soldaten sollen seit Monaten in der Ukraine sein WELT Berichte: Französische Soldaten seit Monaten in der Ukraine im Einsatz n-tv.de Frankreich soll Militärangehörige für geheime Missionen in die Ukraine entsandt haben Informat.ro",
+     "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxPS3I0dWNkTk0zdC1ESUNOQjRIY0FEcVd4YzYyRmpyQ0JjNndMbkIwNmVJaEVIb21fa3JsLXVHMHYtb0J5WVA4VllGQmkza2F1WkNmdGdsZEVSa3dZVmZGeVFoby11R1BfZlNzNTVxMThLazNtSGFVb04xT1ZRX0dvWFBjQkNXUWtQTVA2MDhwN1FPYk5vc21qMjRDR09sSy1WMTdkdERidXloaEVrbzFncnpoOUJpMHdmRkMwRjVXQ0VZU1BCOG8tNDVFeng5Zng3b29FVDljLVBvLTBlMnJDQzZZQUo?oc=5",
+     "image": null,
+     "aggregator": true,
+     "published": "2026-11-16T12:35:09+00:00"
+    }
+   ]
+  },
+  {
+   "id": 18,
+   "score": 9.78,
+   "outlets": [
+    "Deutschlandfunk",
+    "SRF News"
+   ],
+   "regions": [
+    "CH",
+    "DE"
+   ],
+   "trend": [],
+   "newest": "2026-11-16T15:51:00+00:00",
+   "articles": [
+    {
+     "source": "Deutschlandfunk",
+     "region": "DE",
+     "weight": 0.95,
+     "title": "Apec-Gipfel - China bestätigt gesondertes Treffen zwischen Trump, Putin und Xi",
+     "summary": "Nach den USA und Russland hat auch China das geplante Dreier-Gipfeltreffen bestätigt.",
+     "link": "https://www.deutschlandfunk.de/china-bestaetigt-gesondertes-treffen-zwischen-trump-putin-und-xi-102.html",
+     "image": "https://bilder.deutschlandfunk.de/ee/13/ad/53/ee13ad53-f0e7-42a1-8b44-d88c37ce3a23/apec-usa-asiatisch-pazifisch-wirtschaft-gemeinschaft-100-1920x1920.jpg",
+     "aggregator": false,
+     "published": "2026-11-16T15:51:00+00:00"
+    },
+    {
+     "source": "SRF News",
+     "region": "CH",
+     "weight": 0.95,
+     "title": "Krieg in der Ukraine – Trump vor Treffen mit Xi und Putin: Auch Ukraine ein Thema",
+     "summary": "Der US-Präsident wird am Donnerstag Chinas Staatschef Xi Jinping und Russlands Präsident Wladimir Putin treffen.",
+     "link": "https://www.srf.ch/news/international/ukraine/krieg-in-der-ukraine-trump-vor-treffen-mit-xi-und-putin-auch-ukraine-ein-thema",
+     "image": "https://www.srf.ch/static/cms/images//320ws/9208db.webp",
+     "aggregator": false,
+     "published": "2026-11-16T14:55:09+00:00"
+    }
+   ]
+  },
+  {
+   "id": 19,
+   "score": 9.68,
+   "outlets": [
+    "tagesschau",
+    "Deutschlandfunk",
+    "SPIEGEL"
+   ],
+   "regions": [
+    "DE",
+    "INT"
+   ],
+   "trend": [],
+   "newest": "2026-11-16T15:51:00+00:00",
+   "articles": [
+    {
+     "source": "tagesschau",
+     "region": "DE",
+     "weight": 1.0,
+     "title": "Mögliche Abkommen: Eignet sich Ruanda für Abschiebezentren?",
+     "summary": "Wohin mit abgelehnten Asylbewerbern, die nicht in ihre Herkunftsländer abgeschoben werden können? Nach Plänen Deutschlands und anderer EU-Länder könnten sie bald nach Ruanda gebracht werden. Menschenrechtler warnen. Von Karin Bensch.",
+     "link": "https://www.tagesschau.de/ausland/afrika/ruanda-abschiebezentrum-100.html",
+     "image": "https://images.tagesschau.de/image/608a973e-4ad4-413a-b37e-9b5cbf77adef/AAABoeMBHSY/AAABnSSvrFg/16x9-big/ruanda-174.jpg?width=1920",
+     "aggregator": false,
+     "published": "2026-11-16T05:36:50+00:00"
+    },
+    {
+     "source": "tagesschau Ausland",
+     "region": "INT",
+     "weight": 1.0,
+     "title": "Mögliche Abkommen: Eignet sich Ruanda für Abschiebezentren?",
+     "summary": "Wohin mit abgelehnten Asylbewerbern, die nicht in ihre Herkunftsländer abgeschoben werden können? Nach Plänen Deutschlands und anderer EU-Länder könnten sie bald nach Ruanda gebracht werden. Menschenrechtler warnen. Von Karin Bensch.",
+     "link": "https://www.tagesschau.de/ausland/afrika/ruanda-abschiebezentrum-100.html",
+     "image": "https://images.tagesschau.de/image/608a973e-4ad4-413a-b37e-9b5cbf77adef/AAABoeMBHSY/AAABnSSvrFg/16x9-big/ruanda-174.jpg?width=1920",
+     "aggregator": false,
+     "published": "2026-11-16T05:36:50+00:00"
+    },
+    {
+     "source": "Deutschlandfunk",
+     "region": "DE",
+     "weight": 0.95,
+     "title": "Migration - Kritik aus SPD-Bundestagsfraktion an Plänen zu Abschiebezentren in Ruanda",
+     "summary": "Die Pläne von Bundesinnenminister Dobrindt von der CSU zu Abschiebezentren in Ruanda sorgen in der SPD-Bundestagsfraktion für Kritik. Der innenpolitische Sprecher, Fiedler, sagte, er könne das Vorhaben nicht vorbehaltlos unterstützen.",
+     "link": "https://www.deutschlandfunk.de/kritik-aus-spd-bundestagsfraktion-an-plaenen-zu-abschiebezentren-in-ruanda-100.html",
+     "image": "https://bilder.deutschlandfunk.de/a4/99/df/94/a499df94-3d9b-44f4-bab0-37fe1dfec2d1/556942148-100-1920x1920.jpg",
+     "aggregator": false,
+     "published": "2026-11-16T15:51:00+00:00"
+    },
+    {
+     "source": "SPIEGEL",
+     "region": "DE",
+     "weight": 0.9,
+     "title": "Ruanda: Sind die von Alexander Dobrindt geplanten Abschiebezentren erlaubt?",
+     "summary": "CSU-Innenminister Dobrindt will gemeinsam mit vier EU-Partnern abgelehnte Asylbewerber ausfliegen lassen, am liebsten nach Ruanda. Großbritannien war mit einem eigenen Ruanda-Plan gescheitert. Was steckt hinter der Idee?",
+     "link": "https://www.spiegel.de/politik/deutschland/return-hub-in-ruanda-sind-alexander-dobrindts-geplante-abschiebezentren-erlaubt-a-76d37dd4-0662-4e2c-bf9a-a9922102bb07#ref=rss",
+     "image": "https://cdn.prod.www.spiegel.de/images/e96d7874-b8c7-407d-b717-3b14ee5b5bed_w520_r2.08_fpx46.67_fpy50.jpg",
+     "aggregator": false,
+     "published": "2026-11-16T11:36:00+00:00"
+    }
+   ]
+  },
+  {
+   "id": 20,
+   "score": 9.37,
+   "outlets": [
+    "tagesschau",
+    "Handelsblatt",
+    "WirtschaftsWoche"
+   ],
+   "regions": [
+    "DE"
+   ],
+   "trend": [],
+   "newest": "2026-11-16T15:31:52+00:00",
+   "articles": [
+    {
+     "source": "tagesschau",
+     "region": "DE",
+     "weight": 1.0,
+     "title": "Stahl soll Zukunft bleiben - Aber wie? - Branchengipfel in Salzgitter",
+     "summary": "Stahl soll Zukunft bleiben - Aber wie? - Branchengipfel in Salzgitter",
+     "link": "https://www.tagesschau.de/video/video-1684746.html",
+     "image": "https://images.tagesschau.de/image/ed454f35-494a-4c9f-829f-19c83ffb18f0/AAABoeT8KYM/AAABnSSvrFg/16x9-big/sendungsbild-1828344.jpg?width=1920",
+     "aggregator": false,
+     "published": "2026-11-16T15:31:52+00:00"
+    },
+    {
+     "source": "Handelsblatt",
+     "region": "DE",
+     "weight": 0.9,
+     "title": "Branchengipfel in Salzgitter: Stahl soll Zukunft bleiben - Aber wie?",
+     "summary": "Hohe Energiepreise und globale Überkapazitäten setzen Deutschlands Stahlerzeuger unter Druck. Beim „Nationalen Stahlgipfel“ stellt die Branche daher Forderungen auf. Beschäftigte protestieren.",
+     "link": "https://www.handelsblatt.com/politik/deutschland/branchengipfel-in-salzgitter-stahl-soll-zukunft-bleiben-aber-wie/100270254.html",
+     "image": "https://images.handelsblatt.com/Ub8UErGz0Sm0/cover/900/506/0/0/107/106/0.5/0.5/nationaler-stahlgipfel-2026.jpg",
+     "aggregator": false,
+     "published": "2026-11-16T14:55:59+00:00"
+    },
+    {
+     "source": "WirtschaftsWoche",
+     "region": "DE",
+     "weight": 0.85,
+     "title": "Stahlgipfel Salzgitter: Stahl soll Zukunft bleiben – aber wie bloß?",
+     "summary": "Hohe Energiepreise und globale Überkapazitäten setzen Deutschlands Stahlerzeuger unter Druck. Beim „Nationalen Stahlgipfel“ stellt die Branche daher Forderungen auf. Beschäftigte protestieren.",
+     "link": "https://www.wiwo.de/unternehmen/industrie/stahlgipfel-in-salzgitter-industrie-fordert-umsetzungsgipfel/100269608.html",
+     "image": "https://images.wiwo.de/-oy8CdxG8QNs/cover/900/506/0/0/0/0/0.5/0.5/16.11.2026-niedersachsen-salzgitter-katharina-reiche-cdu-bundeswirtschaftsministerin-spricht.jpg",
+     "aggregator": false,
+     "published": "2026-11-16T15:23:00+00:00"
+    }
+   ]
+  },
+  {
+   "id": 21,
+   "score": 9.23,
+   "outlets": [
+    "SRF News",
+    "SPIEGEL",
+    "n-tv"
+   ],
+   "regions": [
+    "CH",
+    "DE"
+   ],
+   "trend": [],
+   "newest": "2026-11-16T15:42:17+00:00",
+   "articles": [
+    {
+     "source": "SRF News",
+     "region": "CH",
+     "weight": 0.95,
+     "title": "69. Grammy Awards – Raye führt die Liste der Grammy-Nominierungen 2027 an",
+     "summary": "Von Raye bis Rosalía: Bei den Grammy-Nominierungen 2027 geben Musikerinnen den Ton an.",
+     "link": "https://www.srf.ch/kultur/musik/69-grammy-awards-raye-fuehrt-die-liste-der-grammy-nominierungen-2027-an",
+     "image": "https://www.srf.ch/static/cms/images//320ws/abe9f1.webp",
+     "aggregator": false,
+     "published": "2026-11-16T14:57:26+00:00"
+    },
+    {
+     "source": "SPIEGEL",
+     "region": "DE",
+     "weight": 0.9,
+     "title": "Grammy Awards: Raye für elf Preise nominiert",
+     "summary": "Sängerinnen führen die Liste der Nominierten für die weltweit wichtigsten Musikpreise an: Auf die Britin Raye folgt die Spanierin Rosalía mit neun Grammy-Chancen. Beyoncé machte die hundert Nominierungen voll.",
+     "link": "https://www.spiegel.de/kultur/musik/grammy-awards-raye-fuer-elf-preise-nominiert-a-78265902-0202-4c7b-bb38-afedf4edeeca#ref=rss",
+     "image": "https://cdn.prod.www.spiegel.de/images/4a5d4861-4a64-4eab-89c4-1eb7a4446771_w520_r2.08_fpx49.98_fpy48.99.jpg",
+     "aggregator": false,
+     "published": "2026-11-16T14:35:00+00:00"
+    },
+    {
+     "source": "n-tv",
+     "region": "DE",
+     "weight": 0.8,
+     "title": "Grammy-Nominierungen 2027: Raye stellt Rekord von Beyoncé ein",
+     "summary": "Die Nominierten für die 69. Grammy Awards stehen fest. Die britische Sängerin Raye ist elfmal nominiert und zieht damit mit Superstar Beyoncé gleich. Dolly Parton könnte posthum drei Grammys gewinnen.",
+     "link": "https://www.n-tv.de/leute/Raye-stellt-Rekord-von-Beyonce-ein-id31540035.html",
+     "image": "https://www.n-tv.de/img/31540060/1794846183/Img_4_3/250/imago0869100868h.jpg",
+     "aggregator": false,
+     "published": "2026-11-16T15:42:17+00:00"
+    }
+   ]
+  },
+  {
+   "id": 22,
+   "score": 9.22,
+   "outlets": [
+    "tagesschau",
+    "ZDFheute",
+    "n-tv"
+   ],
+   "regions": [
+    "DE",
+    "INT"
+   ],
+   "trend": [],
+   "newest": "2026-11-16T14:46:58+00:00",
+   "articles": [
+    {
+     "source": "tagesschau",
+     "region": "DE",
+     "weight": 1.0,
+     "title": "Depardieu akzeptiert Belästigungsurteil und bittet um Entschuldigung",
+     "summary": "Seit Jahren werfen Frauen dem Schauspieler Depardieu sexuelle Übergriffe und Gewalt vor. Der 77-Jährige hat sich nie einsichtig gezeigt - bis jetzt. Schon nächste Woche steht für Depardieu der nächste Gerichtstermin an.",
+     "link": "https://www.tagesschau.de/ausland/europa/depardieu-belaestigung-urteil-entschuldigung-100.html",
+     "image": "https://images.tagesschau.de/image/3b031111-b28f-41e9-bbdf-37338d62d3df/AAABoeSbmAw/AAABnSSvrFg/16x9-big/depardieu-120.jpg?width=1920",
+     "aggregator": false,
+     "published": "2026-11-16T14:46:58+00:00"
+    },
+    {
+     "source": "tagesschau Ausland",
+     "region": "INT",
+     "weight": 1.0,
+     "title": "Depardieu akzeptiert Belästigungsurteil und bittet um Entschuldigung",
+     "summary": "Seit Jahren werfen Frauen dem Schauspieler Depardieu sexuelle Übergriffe und Gewalt vor. Der 77-Jährige hat sich nie einsichtig gezeigt - bis jetzt. Schon nächste Woche steht für Depardieu der nächste Gerichtstermin an.",
+     "link": "https://www.tagesschau.de/ausland/europa/depardieu-belaestigung-urteil-entschuldigung-100.html",
+     "image": "https://images.tagesschau.de/image/3b031111-b28f-41e9-bbdf-37338d62d3df/AAABoeSbmAw/AAABnSSvrFg/16x9-big/depardieu-120.jpg?width=1920",
+     "aggregator": false,
+     "published": "2026-11-16T14:46:58+00:00"
+    },
+    {
+     "source": "ZDFheute",
+     "region": "DE",
+     "weight": 1.0,
+     "title": "Gérard Depardieu entschuldigt sich für sexuelle Übergriffe",
+     "summary": "Schauspieler Gérard Depardieu akzeptiert seine Verurteilung wegen sexueller Übergriffe und bittet um Entschuldigung. Auch die Staatsanwaltschaft zieht ihre Berufung zurück.",
+     "link": "https://www.zdfheute.de/panorama/prominente/gerard-depardieu-frankreich-sexuelle-belaestigung-uebergriffe-entschuldigung-100.html",
+     "image": "https://www.zdfheute.de/assets/gerard-depardieu-116~384x216?cb=1794824767629",
+     "aggregator": false,
+     "published": "2026-11-16T13:30:00+00:00"
+    },
+    {
+     "source": "n-tv",
+     "region": "DE",
+     "weight": 0.8,
+     "title": "Überraschende Kehrtwende: Gérard Depardieu akzeptiert Urteil und bittet um Entschuldigung",
+     "summary": "Eigentlich wollte Gérard Depardieu seine Verurteilung wegen sexueller Übergriffe anfechten. Doch nun macht der Schauspieler einen überraschenden Rückzieher. Er akzeptiert seine Bewährungsstrafe und entschuldigt sich bei den Betroffenen.",
+     "link": "https://www.n-tv.de/leute/Sexueller-Uebergriffe-Gerard-Depardieu-akzeptiert-Urteil-und-bittet-um-Entschuldigung-id31538094.html",
+     "image": "https://www.n-tv.de/img/4441180/1794827599/Img_4_3/250/image.jpg",
+     "aggregator": false,
+     "published": "2026-11-16T10:38:01+00:00"
+    }
+   ]
+  },
+  {
+   "id": 23,
+   "score": 9.11,
+   "outlets": [
+    "tagesschau Inland",
+    "Handelsblatt",
+    "DER STANDARD"
+   ],
+   "regions": [
+    "AT",
+    "DE"
+   ],
+   "trend": [],
+   "newest": "2026-11-16T14:44:00+00:00",
+   "articles": [
+    {
+     "source": "tagesschau Inland",
+     "region": "DE",
+     "weight": 1.0,
+     "title": "Ex-Arbeitsminister Hubertus Heil kandidiert für SPD-Vorsitz",
+     "summary": "Mitte Januar wird auf einem Bundesparteitag die komplette Führung der SPD neu gewählt. Ex-Arbeitsminister Heil hat laut ARD-Hauptstadtstudio jetzt als Erster offiziell seine Kandidatur für den Vorsitz angekündigt. Von Moritz Rödle.",
+     "link": "https://www.tagesschau.de/inland/innenpolitik/heil-spd-vorsitz-kandidatur-100.html",
+     "image": "https://images.tagesschau.de/image/5cdff6b6-d243-40c2-bc41-897b5aab9b1a/AAABodmGHmQ/AAABnSSvrFg/16x9-big/hubertus-heil-210.jpg?width=1920",
+     "aggregator": false,
+     "published": "2026-11-14T18:12:45+00:00"
+    },
+    {
+     "source": "Handelsblatt",
+     "region": "DE",
+     "weight": 0.9,
+     "title": "Ex-Arbeitsminister: Hubertus Heil kandidiert für den SPD-Parteivorsitz",
+     "summary": "SPD-Co-Chef Lars Klingbeil lässt bislang offen, ob er bei der Neuwahl der Parteispitze im Januar erneut antritt. Nun hat Ex-Arbeitsminister Hubertus Heil Ambitionen angemeldet. Er wirbt unter anderem dafür, die Partei zu modernisieren.",
+     "link": "https://www.handelsblatt.com/video/politik/deutschland-ex-arbeitsminister-heil-kandidiert-fuer-den-spd-parteivorsitz/100270180.html",
+     "image": null,
+     "aggregator": false,
+     "published": "2026-11-16T14:44:00+00:00"
+    },
+    {
+     "source": "DER STANDARD",
+     "region": "AT",
+     "weight": 0.85,
+     "title": "In der SPD hat der Machtkampf um die Chefposten begonnen",
+     "summary": "Im Jänner stellt sich die SPD-Spitze neu auf. Ex-Arbeitsminister Hubertus Heil will Chef werden und Lars Klingbeil aus dem Amt drängen",
+     "link": "https://www.derstandard.at/story/3000000349478/in-der-spd-hat-der-machtkampf-um-die-chefposten-begonnen?ref=rss",
+     "image": "https://i.ds.at/5RlvBA/rs:fill:150:0/plain/lido-images/2026/11/16/8d1fefaf-9614-427b-bc99-bb2628a943da.jpg",
+     "aggregator": false,
+     "published": "2026-11-16T13:48:37+00:00"
+    }
+   ]
+  },
+  {
+   "id": 24,
+   "score": 8.95,
+   "outlets": [
+    "tagesschau",
+    "heise online",
+    "Golem"
+   ],
+   "regions": [
+    "DE"
+   ],
+   "trend": [],
+   "newest": "2026-11-16T09:09:01+00:00",
+   "articles": [
+    {
+     "source": "tagesschau",
+     "region": "DE",
+     "weight": 1.0,
+     "title": "Ex-Nvidia-Chef Huang arbeitet offenbar bereits an seinem Comeback",
+     "summary": "Seine Affären - auch mit einer mutmaßlichen chinesischen Spionin - haben mehr als eine Billion Dollar Börsenwert vernichtet. Damit war der Rücktritt des Nvidia-Chefs unvermeidlich. Nun plant Jensen Huang offenbar bereits sein Comeback.",
+     "link": "https://www.tagesschau.de/wirtschaft/unternehmen/nvidia-huang-chefposten-100.html",
+     "image": "https://images.tagesschau.de/image/aa0f8d48-38c2-4005-a1bc-2376cee7f6ef/AAABoeMV4y8/AAABnSSvrFg/16x9-big/jensen-huang-110.jpg?width=1920",
+     "aggregator": false,
+     "published": "2026-11-16T08:07:28+00:00"
+    },
+    {
+     "source": "tagesschau Wirtschaft",
+     "region": "DE",
+     "weight": 1.0,
+     "title": "Ex-Nvidia-Chef Huang arbeitet offenbar bereits an seinem Comeback",
+     "summary": "Seine Affären - auch mit einer mutmaßlichen chinesischen Spionin - haben mehr als eine Billion Dollar Börsenwert vernichtet. Damit war der Rücktritt des Nvidia-Chefs unvermeidlich. Nun plant Jensen Huang offenbar bereits sein Comeback.",
+     "link": "https://www.tagesschau.de/wirtschaft/unternehmen/nvidia-huang-chefposten-100.html",
+     "image": "https://images.tagesschau.de/image/aa0f8d48-38c2-4005-a1bc-2376cee7f6ef/AAABoeMV4y8/AAABnSSvrFg/16x9-big/jensen-huang-110.jpg?width=1920",
+     "aggregator": false,
+     "published": "2026-11-16T08:07:28+00:00"
+    },
+    {
+     "source": "tagesschau Wirtschaft",
+     "region": "DE",
+     "weight": 1.0,
+     "title": "Nvidia: Huang-Affäre könnte zu Trump-Skandal werden",
+     "summary": "Laut Medienberichten wurde Trump zwei Mal von der Affäre des Nvidia-Chefs Huang mit einer mutmaßlichen chinesischen Spionin unterrichtet. Doch der Präsident beteuert, von nichts gewusst zu haben. Von C. Kühntopp.",
+     "link": "https://www.tagesschau.de/ausland/amerika/nvidia-trump-100.html",
+     "image": "https://images.tagesschau.de/image/f9401978-bea2-4fa5-9226-a0299084e01c/AAABodPof7M/AAABnSSvrFg/16x9-big/huang-trump-102.jpg?width=1920",
+     "aggregator": false,
+     "published": "2026-11-13T02:36:47+00:00"
+    },
+    {
+     "source": "heise online",
+     "region": "DE",
+     "weight": 0.85,
+     "title": "Megaspeed bestätigt: Alice Huang hat Unternehmen verlassen",
+     "summary": "Alice Huang soll eine chinesische Spionin gewesen sein und hatte eine Affäre mit dem Nvidia-Chef. Sie hat das Unternehmen Megaspeed vor Monaten verlassen.",
+     "link": "https://www.heise.de/news/Megaspeed-bestaetigt-Alice-Huang-hat-Unternehmen-verlassen-11525549.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
+     "image": null,
+     "aggregator": false,
+     "published": "2026-11-15T12:22:00+00:00"
+    },
+    {
+     "source": "Golem",
+     "region": "DE",
+     "weight": 0.75,
+     "title": "Nvidia: Jensen Huang soll über Rückkehr sprechen",
+     "summary": "Mit seinem Weggang scheint sich Ex-Nvidia-Chef Jensen Huang offenbar nicht abfinden zu wollen: Er soll seine Rückkehr planen. ( Nvidia , KI )",
+     "link": "https://www.golem.de/news/nvidia-jensen-huang-soll-ueber-rueckkehr-sprechen-2611-215246.html",
+     "image": "https://cpx.golem.de/cpx.php?class=17&amp;aid=215246&amp;page=1&amp;ts=1794820141",
+     "aggregator": false,
+     "published": "2026-11-16T09:09:01+00:00"
+    }
+   ]
+  },
+  {
+   "id": 25,
+   "score": 8.43,
+   "outlets": [
+    "ORF",
+    "SRF News"
+   ],
+   "regions": [
+    "AT",
+    "CH"
+   ],
+   "trend": [],
+   "newest": "2026-11-16T14:48:16+00:00",
+   "articles": [
+    {
+     "source": "ORF",
+     "region": "AT",
+     "weight": 0.95,
+     "title": "Programmfehler und Kettenreaktion hinter Microsoft-Ausfall",
+     "summary": "",
+     "link": "https://orf.at/stories/3448344/",
+     "image": null,
+     "aggregator": false,
+     "published": "2026-11-16T12:03:32+00:00"
+    },
+    {
+     "source": "SRF News",
+     "region": "CH",
+     "weight": 0.95,
+     "title": "Globale Panne – Alter Programmfehler löste Microsoft-Ausfall aus",
+     "summary": "Ein Fehler schlummerte seit Juli in Microsofts System – bis drei Faktoren eine weltweite Kettenreaktion auslösten.",
+     "link": "https://www.srf.ch/news/wirtschaft/globale-panne-alter-programmfehler-loeste-microsoft-ausfall-aus",
+     "image": "https://www.srf.ch/static/cms/images//320ws/80d60bf.webp",
+     "aggregator": false,
+     "published": "2026-11-16T14:48:16+00:00"
+    }
+   ]
+  },
+  {
+   "id": 26,
+   "score": 8.43,
+   "outlets": [
+    "ZDFheute",
+    "Süddeutsche"
+   ],
+   "regions": [
+    "DE"
+   ],
+   "trend": [],
+   "newest": "2026-11-16T14:47:40+00:00",
+   "articles": [
+    {
+     "source": "ZDFheute",
+     "region": "DE",
+     "weight": 1.0,
+     "title": "Bundeskanzler Merz zu Gast bei der CSU",
+     "summary": "Pressekonferenz der CSU mit Parteichef und Ministerpräsident Markus Söder und Bundeskanzler Friedrich Merz (CDU)",
+     "link": "https://www.phoenix.de/php/mediaplayer/vod_embed.php?cmsid=5248163",
+     "image": "https://www.zdfheute.de/assets/teaser-phoenix-bundeskanzler-merz-zu-gast-bei-der-csu-5248163-100~384x216?cb=1794834836850",
+     "aggregator": false,
+     "published": "2026-11-16T11:35:00+00:00"
+    },
+    {
+     "source": "ZDFheute",
+     "region": "DE",
+     "weight": 1.0,
+     "title": "EU-Haushalt: \"Treten jetzt ein in die entscheidenden Verhandlungen\"",
+     "summary": "Statement von Bundeskanzler Friedrich Merz (CDU) beim Treffen der EU-Regierungschefs in Dublin",
+     "link": "https://www.phoenix.de/php/mediaplayer/vod_embed.php?cmsid=5247804",
+     "image": "https://www.zdfheute.de/assets/teaser-phoenix-eu-haushalt-treten-jetzt-ein-in-die-entscheidenden-verhandlungen-5247804-100~384x216?cb=1794575642454",
+     "aggregator": false,
+     "published": "2026-11-13T12:52:00+00:00"
+    },
+    {
+     "source": "Süddeutsche",
+     "region": "DE",
+     "weight": 0.9,
+     "title": "Kanzler Merz zu Gast bei der CSU: Söder fordert ein „Zusammenraufen in Berlin“",
+     "summary": "Friedrich Merz besucht den CSU-Vorstand und trifft auf einen erstarkten Markus Söder. Dieser beschwört den Schulterschluss der Unionsschwestern, kann sich aber in der Bundespolitik auch demonstrativ Trotz erlauben.",
+     "link": "https://www.sueddeutsche.de/bayern/merz-soeder-csu-aigner-mtu-vorstand-muenchen-li.3581040",
+     "image": "https://www.sueddeutsche.de/2026/11/16/07b56e15-9018-4476-8cd9-37b451520294.jpg?rect=0%2C0%2C3825%2C2869&width=1000&fm=jpg&q=60",
+     "aggregator": false,
+     "published": "2026-11-16T14:47:40+00:00"
+    }
+   ]
+  },
+  {
+   "id": 27,
+   "score": 8.24,
+   "outlets": [
+    "ZDFheute",
+    "DER STANDARD",
+    "n-tv"
+   ],
+   "regions": [
+    "AT",
+    "DE"
+   ],
+   "trend": [],
+   "newest": "2026-11-16T12:44:04+00:00",
+   "articles": [
+    {
+     "source": "ZDFheute",
+     "region": "DE",
+     "weight": 1.0,
+     "title": "Die Baustellen für Ministerpräsidentin Schwesig",
+     "summary": "Manuela Schwesig ist als Ministerpräsidentin von Mecklenburg-Vorpommern wiedergewählt - mit komfortabler Mehrheit. Doch es gibt Baustellen, die das Regieren schwer machen dürften.",
+     "link": "https://www.zdfheute.de/politik/deutschland/manuela-schwesig-spd-mecklenburg-vorpommern-wahl-ministerpraesidentin-100.html",
+     "image": "https://www.zdfheute.de/assets/manuela-schwesig-spd-mecklenburg-vorpommern-schwerin-100~384x216?cb=1794831959354",
+     "aggregator": false,
+     "published": "2026-11-16T12:25:00+00:00"
+    },
+    {
+     "source": "DER STANDARD",
+     "region": "AT",
+     "weight": 0.85,
+     "title": "Schwesig in Mecklenburg-Vorpommern als Ministerpräsidentin wiedergewählt",
+     "summary": "Der Bundesvorsitz der SPD steht vor einer Neuwahl, mögliche Kandidaturen sorgen für Spannung. Schwesig, die nun als Schlüsselfigur in der Partei gilt, könnte antreten",
+     "link": "https://www.derstandard.at/story/3000000349468/schwesig-als-ministerpr228sidentin-wiedergew228hlt-schl252sselrolle-in-spd?ref=rss",
+     "image": "https://i.ds.at/WiALzQ/rs:fill:150:0/plain/lido-images/2026/11/16/bbdbaa6a-e7ed-40fc-a230-e9e8de30aa87.jpg",
+     "aggregator": false,
+     "published": "2026-11-16T12:44:04+00:00"
+    },
+    {
+     "source": "n-tv",
+     "region": "DE",
+     "weight": 0.8,
+     "title": "Koalition stimmt einheitlich: Manuela Schwesig als Ministerpräsidentin in Mecklenburg-Vorpommern wiedergewählt",
+     "summary": "Manuela Schwesig übernimmt erneut das Amt der Ministerpräsidentin Mecklenburg-Vorpommern. Die 52-Jährige erhält bei der Abstimmung im Landtag von Schwerin alle Stimmen ihrer rot-rot-grünen Koalition.",
+     "link": "https://www.n-tv.de/politik/Manuela-Schwesig-als-Ministerpraesidentin-in-Mecklenburg-Vorpommern-wiedergewaehlt-id31538793.html",
+     "image": "https://www.n-tv.de/img/31538856/1794835989/Img_4_3/250/image.jpg",
+     "aggregator": false,
+     "published": "2026-11-16T12:21:03+00:00"
+    }
+   ]
+  }
+ ]
+}
