@@ -1,0 +1,27 @@
+{
+  "format": "single",
+  "candidate_id": 1,
+  "pillar": "TECHNOLOGIE",
+  "region": "INT",
+  "kicker": "AMAZON LEO",
+  "hook_screen": "40 SATELLITEN WEG!",
+  "hook_text": "Amazon verliert 40 Satelliten",
+  "hook_voice": "Amazon verliert vierzig Satelliten – Rückschlag im Duell mit Musk.",
+  "beats": [
+    {"voice": "Die Vulcan-Rakete stürzte am Sonntag zehn Minuten nach dem Start ab. Die Satelliten versanken im Meer.", "big": "10 MIN", "label": "nach dem Start abgestürzt"},
+    {"voice": "Alle vierzig waren für Amazon Leo bestimmt – den Internetdienst, mit dem Jeff Bezos Musks Starlink angreifen will.", "big": "40", "label": "Satelliten für Amazon Leo zerstört"},
+    {"voice": "Besonders bitter: SpaceX gelang nur wenige Stunden zuvor ein erfolgreicher Start.", "big": "STUNDEN", "label": "vorher: Erfolg für SpaceX"},
+    {"voice": "Die Ursache ist noch unklar. Jetzt drohen Amazon Verzögerungen – und Starlink dominiert weiter.", "big": "URSACHE?", "label": "Rakete von Boeing und Lockheed"}
+  ],
+  "loop_line": "Kann Bezos Musk im All überhaupt noch einholen?",
+  "headline": "Amazon verliert 40 Satelliten",
+  "highlight": ["Amazon"],
+  "entities": ["Vulcan Centaur", "Amazon Leo", "Jeff Bezos", "United Launch Alliance"],
+  "youtube_title": "Amazon verliert 40 Satelliten: Kann Bezos Musk noch einholen?",
+  "description_lead": "Amazon verliert 40 Satelliten: Eine Vulcan-Rakete von United Launch Alliance ist am Sonntag kurz nach dem Start abgestürzt, die Fracht für den Internetdienst Amazon Leo ging verloren. Für Jeff Bezos ist das ein schwerer Rückschlag im Wettlauf mit Elon Musks Starlink.",
+  "tags": ["Amazon", "Amazon Leo", "Jeff Bezos", "Elon Musk", "Starlink", "SpaceX", "Vulcan Rakete", "United Launch Alliance", "Satelliten", "Raketenstart", "Satelliteninternet", "Raumfahrt", "Rakete abgestürzt"],
+  "hashtags": ["#amazon", "#starlink", "#raumfahrt"],
+  "facebook_caption_line1": "Amazon verliert 40 Satelliten: Rakete stürzt zehn Minuten nach dem Start ins Meer",
+  "facebook_question": "Kann Amazon Starlink noch Konkurrenz machen?",
+  "comment_question": "Holt Bezos Musk noch ein – ja oder nein?"
+}
