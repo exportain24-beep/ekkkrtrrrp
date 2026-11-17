@@ -1,0 +1,43 @@
+{
+  "format": "single",
+  "candidate_id": 5,
+  "pillar": "WIRTSCHAFT",
+  "region": "DE",
+  "kicker": "GRÜNHEIDE",
+  "hook_screen": "3 MILLIARDEN!",
+  "hook_text": "Tesla: 3 Milliarden",
+  "hook_voice": "Musk setzt drei Milliarden Euro auf Tesla in Grünheide.",
+  "beats": [
+    {
+      "voice": "Dort sollen künftig fahrerlose Taxis gebaut werden – Kapazität für bis zu eine Million sogenannte Cybercabs.",
+      "big": "1 MILLION",
+      "label": "Robotaxis – geplante Kapazität"
+    },
+    {
+      "voice": "Das Geld fließt in ein neues Produktionsgebäude im Werk östlich von Berlin.",
+      "big": "3 MRD. €",
+      "label": "für ein neues Produktionsgebäude"
+    },
+    {
+      "voice": "Brandenburgs Ministerpräsident Dietmar Woidke spricht von einem großen Tag für sein Land.",
+      "big": "GROSSER TAG",
+      "label": "sagt Ministerpräsident Woidke"
+    },
+    {
+      "voice": "Die Ausbaupläne gibt es schon länger. Jetzt nennt Tesla konkrete Zahlen – in ein paar Jahren sollen die Robotaxis vom Band rollen.",
+      "big": "ROBOTAXI",
+      "label": "Start in ein paar Jahren geplant"
+    }
+  ],
+  "loop_line": "Steigen Sie bald in ein Taxi ohne Fahrer – gebaut in Brandenburg?",
+  "headline": "Tesla: 3 Milliarden für Grünheide",
+  "highlight": ["Tesla"],
+  "entities": ["Tesla Grünheide", "Elon Musk", "Dietmar Woidke", "Tesla Cybercab"],
+  "youtube_title": "Tesla Grünheide: 3 Milliarden für Robotaxis – wann rollen sie?",
+  "description_lead": "Tesla will drei Milliarden Euro in den Ausbau des Werks in Grünheide bei Berlin stecken – in einem neuen Produktionsgebäude sollen fahrerlose Cybercabs von Elon Musk entstehen, mit Kapazität für bis zu eine Million Robotaxis. Brandenburgs Ministerpräsident Dietmar Woidke spricht von einem großen Tag für das Land.",
+  "tags": ["Tesla", "Tesla Grünheide", "Elon Musk", "Grünheide", "Robotaxi", "Cybercab", "Dietmar Woidke", "Brandenburg", "Tesla Werk", "Elektroauto", "autonomes Fahren", "Investition", "Wirtschaft Deutschland"],
+  "hashtags": ["#tesla", "#elonmusk", "#grünheide"],
+  "facebook_caption_line1": "Tesla Grünheide: Musk steckt drei Milliarden Euro in fahrerlose Taxis aus Brandenburg",
+  "facebook_question": "Würden Sie in ein Taxi ohne Fahrer steigen?",
+  "comment_question": "Robotaxi ohne Fahrer: Würden Sie einsteigen – ja oder nein?"
+}
