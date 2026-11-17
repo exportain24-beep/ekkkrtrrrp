@@ -1,0 +1,63 @@
+{
+ "format": "single",
+ "candidate_id": 4,
+ "pillar": "POLITIK",
+ "region": "INT",
+ "kicker": "UKRAINE-KRIEG",
+ "hook_screen": "KRIM-BRÜCKE EINGESTÜRZT",
+ "hook_voice": "Selenskyj zeigt im Ukraine-Krieg die eingestürzte Krim-Brücke.",
+ "beats": [
+  {
+   "voice": "Moskau beruft offenbar eine Krisensitzung ein. Schon am Montag stand der Brückenbogen nach Angriffen schief, jetzt ist er zerstört.",
+   "big": "Krisensitzung",
+   "label": "in Moskau offenbar einberufen"
+  },
+  {
+   "voice": "Selenskyj spricht von einer beispiellosen Militäroperation und veröffentlicht ein Video.",
+   "big": "beispiellos",
+   "label": "so nennt Selenskyj den Angriff"
+  },
+  {
+   "voice": "Auch in Kiew trafen Raketen U-Bahn und Brücken. Die EU setzte zugleich hundertfünfundvierzig weitere Namen auf ihre Sanktionsliste.",
+   "big": "145",
+   "label": "neue Ziele der EU-Sanktionen"
+  }
+ ],
+ "loop_line": "Die Brücke ist beschädigt, aber die Frage bleibt: Wie antwortet Moskau?",
+ "headline": "Krim-Brücke teilweise eingestürzt",
+ "highlight": [
+  "Krim-Brücke"
+ ],
+ "entities": [
+  "Wolodymyr Selenskyj",
+  "Krim-Brücke",
+  "Kertsch-Brücke",
+  "Kreml"
+ ],
+ "youtube_title": "Ukraine-Krieg: Krim-Brücke eingestürzt – reagiert Moskau jetzt?",
+ "description_lead": "Im Ukraine-Krieg ist die Krim-Brücke nach einem Angriff teilweise eingestürzt, Selenskyj spricht von einer beispiellosen Militäroperation. Moskau beruft offenbar eine Krisensitzung ein, die EU erweitert ihre Russland-Sanktionen.",
+ "tags": [
+  "Ukraine-Krieg",
+  "Selenskyj",
+  "Putin",
+  "Krim-Brücke",
+  "Kertsch-Brücke",
+  "Krim",
+  "Moskau",
+  "Kiew",
+  "EU-Sanktionen",
+  "Russland",
+  "Ukraine",
+  "Krisensitzung",
+  "nachrichten heute",
+  "aktuelle nachrichten"
+ ],
+ "hashtags": [
+  "#ukrainekrieg",
+  "#krimbruecke",
+  "#selenskyj"
+ ],
+ "facebook_caption_line1": "Krim-Brücke teilweise eingestürzt: Moskau beruft offenbar eine Krisensitzung ein, Selenskyj spricht von einer beispiellosen Militäroperation im Ukraine-Krieg.",
+ "facebook_question": "Wie sollte Europa auf die Zuspitzung im Ukraine-Krieg reagieren?",
+ "comment_question": "Ist die zerstörte Krim-Brücke ein Wendepunkt im Ukraine-Krieg – ja oder nein?"
+}

@@ -1,0 +1,1872 @@
+{
+ "slot": {
+  "id": "mittag",
+  "format": "single",
+  "time": "12:00",
+  "label": "am Mittag",
+  "focus": "Nur Tie-Breaker – immer zuerst die populärsten, meistberichteten Nachrichten. Bei Gleichstand bevorzugt: Der eine meistberichtete Aufreger des Mittags – bevorzugt Wirtschaft, Preise, Jobs, Technologie mit Wirkung auf die Menschen in DACH.",
+  "pillars": [
+   "WIRTSCHAFT",
+   "TECHNOLOGIE",
+   "POLITIK",
+   "WELT"
+  ],
+  "notify_subscribers": true
+ },
+ "slot_time": "2026-11-17T12:00:00+01:00",
+ "date_text": "Dienstag, 17. November 2026",
+ "already_published": [
+  "USA verlieren Status masernfrei",
+  "Microsoft-Störung: Chlor-Panne im Park",
+  "Solarförderung für Hausdächer bleibt",
+  "Reichelt-Anschlag: Bekennerschreiben",
+  "Babiš gegen den Rundfunk",
+  "Amazon verliert 40 Satelliten",
+  "Merz: Stromsteuer-Senkung doch?",
+  "Commerzbank-Übernahme genehmigt",
+  "Dobrindts Ruanda-Plan: SPD bremst",
+  "Pattinson ist der neue James Bond",
+  "Tesla: 3 Milliarden für Grünheide"
+ ],
+ "candidates": [
+  {
+   "id": 0,
+   "score": 18.87,
+   "outlets": [
+    "tagesschau",
+    "ZDFheute",
+    "Deutschlandfunk",
+    "SRF News",
+    "heise online",
+    "DER STANDARD",
+    "WELT",
+    "Golem",
+    "STERN.de"
+   ],
+   "regions": [
+    "AT",
+    "CH",
+    "DE"
+   ],
+   "trend": [],
+   "newest": "2026-11-17T10:31:46+00:00",
+   "articles": [
+    {
+     "source": "tagesschau",
+     "region": "DE",
+     "weight": 1.0,
+     "title": "Robert Pattinson wird neuer James Bond - Nachfolge von Daniel Craig",
+     "summary": "Unter Experten war er als heißer Favorit gehandelt worden. Nun steht es auch offiziell fest: Robert Pattinson wird neuer 007. Der nächste James-Bond-Film wird der erste unter der Federführung von Amazon.",
+     "link": "https://www.tagesschau.de/kultur/james-bond-robert-pattinson-100.html",
+     "image": "https://images.tagesschau.de/image/eae6fe04-b756-497b-af5e-4e6ecdb8f66f/AAABoeU7Cjk/AAABnSSvrFg/16x9-big/pattinson-122.jpg?width=1920",
+     "aggregator": false,
+     "published": "2026-11-16T16:33:42+00:00"
+    },
+    {
+     "source": "ZDFheute",
+     "region": "DE",
+     "weight": 1.0,
+     "title": "Robert Pattinson ist der neue James Bond",
+     "summary": "Das Geheimnis ist gelüftet: Hollywood-Star Robert Pattinson wird der nächste James-Bond-Darsteller. Mit der Entscheidung für den 40-jährigen Briten geht die Reihe neue Wege.",
+     "link": "https://www.zdfheute.de/video/panorama-james-bond-pattinson-video-100.html",
+     "image": "https://www.zdfheute.de/assets/robert-pattinson-london-filmfestival-100~384x216?cb=1794847561917",
+     "aggregator": false,
+     "published": "2026-11-16T16:50:00+00:00"
+    },
+    {
+     "source": "ZDFheute",
+     "region": "DE",
+     "weight": 1.0,
+     "title": "Wie aus Robert Pattinson ein moderner James Bond werden kann",
+     "summary": "Robert Pattinson hat in seiner Karriere ganz unterschiedliche Rollen an Land gezogen. Jetzt wird er der neue 007. Was bringt er mit und wie könnte er die Rolle künftig prägen?",
+     "link": "https://www.zdfheute.de/panorama/prominente/robert-pattinson-james-bond-007-film-schauspieler-100.html",
+     "image": "https://www.zdfheute.de/assets/robert-pattinson-schauspieler-100~384x216?cb=1794875938852",
+     "aggregator": false,
+     "published": "2026-11-17T00:39:00+00:00"
+    },
+    {
+     "source": "Deutschlandfunk",
+     "region": "DE",
+     "weight": 0.95,
+     "title": "Film - Robert Pattinson wird der neue James Bond",
+     "summary": "Robert Pattinson wird der neue James Bond-Darsteller: Der 40-Jährige ist der siebte Schauspieler, der die Rolle des berühmten britischen Spions übernimmt.",
+     "link": "https://www.deutschlandfunk.de/robert-pattinson-wird-der-neue-james-bond-112.html",
+     "image": "https://bilder.deutschlandfunk.de/c3/8f/5d/56/c38f5d56-7d15-42e7-9c6b-38282d992af4/schauspieler-james-bond-besetzung-hauptrolle-robert-pattinson-100-1920x1920.jpg",
+     "aggregator": false,
+     "published": "2026-11-17T10:31:46+00:00"
+    },
+    {
+     "source": "SRF News",
+     "region": "CH",
+     "weight": 0.95,
+     "title": "Der neue James Bond – Robert Pattinson als 007: Der erste echte Star in der Rolle",
+     "summary": "Der «Twilight»-Star wird der nächste James Bond. SRF-Filmexperte Enno Reins ordnet die eher überraschende Besetzung ein.",
+     "link": "https://www.srf.ch/kultur/film-serien/der-neue-james-bond-robert-pattinson-als-007-der-erste-echte-star-in-der-rolle",
+     "image": "https://www.srf.ch/static/cms/images//320ws/d9fcb7.webp",
+     "aggregator": false,
+     "published": "2026-11-17T10:23:07+00:00"
+    },
+    {
+     "source": "SRF News",
+     "region": "CH",
+     "weight": 0.95,
+     "title": "Agent 007 – Robert Pattinson wird neuer James Bond",
+     "summary": "Nach monatelangen Spekulationen steht der neue 007 fest: Der Brite Robert Pattinson übernimmt die Rolle des James Bond.",
+     "link": "https://www.srf.ch/news/agent-007-robert-pattinson-wird-neuer-james-bond",
+     "image": "https://www.srf.ch/static/cms/images//320ws/4b13a0.webp",
+     "aggregator": false,
+     "published": "2026-11-16T16:12:47+00:00"
+    },
+    {
+     "source": "heise online",
+     "region": "DE",
+     "weight": 0.85,
+     "title": "„Ein wahr gewordener Traum“: Robert Pattinson spielt Amazons James Bond",
+     "summary": "Amazon MGM Studios hat den Nachfolger von Daniel Craig gefunden: Robert Pattinson spielt James Bond. Regie im neuen Film führt „Dune“-Regisseur Villeneuve.",
+     "link": "https://www.heise.de/news/Neuer-James-Bond-Amazon-entscheidet-sich-fuer-Robert-Pattinson-11527147.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
+     "image": null,
+     "aggregator": false,
+     "published": "2026-11-17T06:53:00+00:00"
+    },
+    {
+     "source": "DER STANDARD",
+     "region": "AT",
+     "weight": 0.85,
+     "title": "Robert Pattinson ist der nächste James Bond",
+     "summary": "Es sei die Ehre seines Lebens, so der britische Schauspieler, der die Rolle nach Daniel Craig übernimmt",
+     "link": "https://www.derstandard.at/story/3000000349527/robert-pattinson-ist-der-naechste-james-bond?ref=rss",
+     "image": "https://i.ds.at/Nnu8BQ/rs:fill:150:0/plain/lido-images/2026/11/16/da2fc8f2-dc8b-4654-8c03-ec64b8e4ec47.jpg",
+     "aggregator": false,
+     "published": "2026-11-16T15:16:57+00:00"
+    }
+   ]
+  },
+  {
+   "id": 1,
+   "score": 16.87,
+   "outlets": [
+    "tagesschau",
+    "ZDFheute",
+    "Deutschlandfunk",
+    "SRF News",
+    "SPIEGEL",
+    "DER STANDARD",
+    "n-tv"
+   ],
+   "regions": [
+    "AT",
+    "CH",
+    "DE"
+   ],
+   "trend": [],
+   "newest": "2026-11-17T10:31:46+00:00",
+   "articles": [
+    {
+     "source": "tagesschau",
+     "region": "DE",
+     "weight": 1.0,
+     "title": "Nations League: 5:0 - Deutschland gegen die Niederlande wie im Rausch",
+     "summary": "Die deutsche Nationalmannschaft hat mit einem rauschhaften Auftritt die Niederlande klar besiegt und den Gruppensieg in der Nations League eingefahren. Damit zieht sie ins Viertelfinale ein.",
+     "link": "https://www.sportschau.de/fussball/nationalmannschaft/50-deutschland-gegen-niederlande-wie-im-rausch,deutschland-niederlande-spielbericht-102.html",
+     "image": "https://images.sportschau.de/image/787e000b-97ba-497c-b521-f43062e12f8d/AAABoeZIVHw/AAABnSSvrFg/16x9-big/scherhant-brown-100.jpg?width=1920",
+     "aggregator": false,
+     "published": "2026-11-16T21:35:02+00:00"
+    },
+    {
+     "source": "ZDFheute",
+     "region": "DE",
+     "weight": 1.0,
+     "title": "DFB-Feuerwerk gegen Niederlande - alle Tore im Video",
+     "summary": "Das DFB-Team hat das Viertelfinale in der Nations League erreicht. Gegen den Erzrivalen Niederlande zeigte das Klopp-Team eine beherzte Leistung und siegte verdient mit 5:0.",
+     "link": "https://www.zdfheute.de/sport/fussball-nations-league-deutschland-dfb-niederlande-spielbericht-100.html",
+     "image": "https://www.zdfheute.de/assets/deutschland-niederlande-146~384x216?cb=1794865435619",
+     "aggregator": false,
+     "published": "2026-11-16T21:35:00+00:00"
+    },
+    {
+     "source": "Deutschlandfunk",
+     "region": "DE",
+     "weight": 0.95,
+     "title": "Berlin - Deutsche Fußball-Nationalmannschaft mit Kantersieg gegen Niederlande im Viertelfinale der Nations League",
+     "summary": "Die deutsche Fußball-Nationalmannschaft hat das Viertelfinale der Nations League erreicht.",
+     "link": "https://www.deutschlandfunk.de/deutsche-fussball-nationalmannschaft-mit-kantersieg-gegen-niederlande-im-viertelfinale-der-nations-l-102.html",
+     "image": "https://bilder.deutschlandfunk.de/cc/65/44/5e/cc65445e-df0d-4a76-aa58-e8a366e38ae4/deutschland-niederlande-106-1920x1920.jpg",
+     "aggregator": false,
+     "published": "2026-11-17T10:31:46+00:00"
+    },
+    {
+     "source": "SRF News",
+     "region": "CH",
+     "weight": 0.95,
+     "title": "Nations League: Gruppe A2 – Deutschland watscht Niederlande ab und holt Gruppensieg",
+     "summary": "Deutschland fegt die Niederlande zum Abschluss der Nations-League-Gruppe A2 in Berlin mit 5:0 vom Feld.",
+     "link": "https://www.srf.ch/sport/fussball/nations-league/nations-league-gruppe-a2-deutschland-watscht-niederlande-ab-und-holt-gruppensieg",
+     "image": "https://www.srf.ch/static/cms/images//320ws/826d46.webp",
+     "aggregator": false,
+     "published": "2026-11-16T21:50:45+00:00"
+    },
+    {
+     "source": "SPIEGEL",
+     "region": "DE",
+     "weight": 0.9,
+     "title": "Nations League: Deutschland schlägt Niederlande 5:0 - Privatcoaching für seinen Schlüsselspieler, Problemlösungen auf dem Feld – So funktioniert die Klopp-Methode",
+     "summary": "Innerhalb von sechs Partien hat Jürgen Klopp aus einem hadernden Team eine Elf geformt, die gegen die Niederlande rauschhaften Fußball spielte. Wie ist dem Bundestrainer das gelungen?",
+     "link": "https://www.spiegel.de/sport/fussball/nations-league-deutschland-schlaegt-niederlande-5-0-privatcoaching-fuer-seinen-schluesselspieler-problemloesungen-auf-dem-feld-so-funktioniert-die-klopp-methode-a-81734608-84f9-4c63-ae77-98c574f4ac59#ref=rss",
+     "image": "https://cdn.prod.www.spiegel.de/images/35ba2aeb-cf40-4ec1-8345-516566820961_w520_r2.08_fpx32.66_fpy44.98.jpg",
+     "aggregator": false,
+     "published": "2026-11-17T07:35:00+00:00"
+    },
+    {
+     "source": "DER STANDARD",
+     "region": "AT",
+     "weight": 0.85,
+     "title": "Deutschland steht nach Gala gegen die Niederlande im Viertelfinale der Nations League",
+     "summary": "Die DFB-Elf besiegte Oranje 5:0, das ebenfalls in die K.-o.-Phase einzieht. Wirtz traf in Berlin doppelt. Griechenland hat das Nachsehen",
+     "link": "https://www.derstandard.at/story/3000000349560/deutschland-steht-nach-gala-gegen-die-niederlande-im-viertelfinale-der-nations-league?ref=rss",
+     "image": "https://i.ds.at/sHemWQ/rs:fill:150:0/plain/lido-images/2026/11/16/a88f0f89-88c5-49b4-a39d-0722f27e1a6a.jpg",
+     "aggregator": false,
+     "published": "2026-11-16T21:55:11+00:00"
+    },
+    {
+     "source": "n-tv",
+     "region": "DE",
+     "weight": 0.8,
+     "title": "Pressestimmen zur DFB-Gala: \"Gewaltsame Erniedrigung. Deutschland zerstört die Niederlande\"",
+     "summary": "Ohne jede Gnade nimmt die DFB-Elf im letzten Gruppenspiel der Nations League die niederländische Fußball-Nationalmannschaft auseinander. Die internationale Presse findet deutliche Worte für das, was sich im Berliner Olympiastadion abgespielt hat.",
+     "link": "https://www.n-tv.de/sport/fussball/Gewaltsame-Erniedrigung-Deutschland-zerstoert-die-Niederlande-id31541929.html",
+     "image": "https://www.n-tv.de/img/31541973/1794903798/Img_4_3/250/imago1086029712h.jpg",
+     "aggregator": false,
+     "published": "2026-11-17T08:52:25+00:00"
+    },
+    {
+     "source": "n-tv",
+     "region": "DE",
+     "weight": 0.8,
+     "title": "Von DFB-Elf gedemütigt: \"Schande für Holland! Eine Schande war das!\"",
+     "summary": "Die niederländische Nationalmannschaft kommt mit riesigem Selbstvertrauen nach Berlin - und wird dann im Gruppenfinale der Nations League vom entfesselten DFB-Team in Stücke gerissen. Unser Experte ist fassungslos.",
+     "link": "https://www.n-tv.de/sport/fussball/Schande-fuer-Holland-Eine-Schande-war-das-id31540961.html",
+     "image": "https://www.n-tv.de/img/31541101/1794868431/Img_4_3/250/image.jpg",
+     "aggregator": false,
+     "published": "2026-11-17T04:30:00+00:00"
+    }
+   ]
+  },
+  {
+   "id": 2,
+   "score": 14.77,
+   "outlets": [
+    "Deutschlandfunk",
+    "ORF",
+    "SPIEGEL",
+    "ZEIT ONLINE",
+    "Handelsblatt",
+    "n-tv"
+   ],
+   "regions": [
+    "AT",
+    "DE"
+   ],
+   "trend": [],
+   "newest": "2026-11-17T10:31:46+00:00",
+   "articles": [
+    {
+     "source": "Deutschlandfunk",
+     "region": "DE",
+     "weight": 0.95,
+     "title": "Türkei - Polizei geht mit Razzia gegen von oppositionsnahem Sender Sözcü TV vor",
+     "summary": "In der Türkei ist die Polizei mit einer Razzia gegen den oppositionsnahen Sender Sözcü TV vorgegangen.",
+     "link": "https://www.deutschlandfunk.de/polizei-geht-mit-razzia-gegen-von-oppositionsnahem-sender-soezcue-tv-vor-100.html",
+     "image": "https://bilder.deutschlandfunk.de/cd/5f/03/70/cd5f0370-a840-471c-abff-71bc8cfc0aba/soezcue-tv-tuerkei-100-1920x1920.jpg",
+     "aggregator": false,
+     "published": "2026-11-17T10:31:46+00:00"
+    },
+    {
+     "source": "ORF",
+     "region": "AT",
+     "weight": 0.95,
+     "title": "Oppositionsnaher Sender in Türkei unter Zwangsverwaltung",
+     "summary": "",
+     "link": "https://orf.at/stories/3448434/",
+     "image": null,
+     "aggregator": false,
+     "published": "2026-11-17T09:24:51+00:00"
+    },
+    {
+     "source": "SPIEGEL",
+     "region": "DE",
+     "weight": 0.9,
+     "title": "Türkei: Polizei stürmt Sitz von oppositionsnahem Sender Sözcü TV",
+     "summary": "Die Türkei setzt ihr Vorgehen gegen Oppositionsmedien fort: Am frühen Morgen hat die Polizei den Sitz von Sözcü TV durchsucht und Mitarbeiter festgenommen. Das Medium wurde unter staatliche Zwangsverwaltung gestellt.",
+     "link": "https://www.spiegel.de/ausland/tuerkei-polizei-stuermt-sitz-von-oppositionsnahem-sender-soezcue-tv-a-625b2ba6-8c4e-4600-9fff-d1664c06bdb5#ref=rss",
+     "image": "https://cdn.prod.www.spiegel.de/images/d9cb94d1-f854-4f84-bafe-6e85a7e29dcf_w520_r2.08_fpx60.67_fpy50.99.jpg",
+     "aggregator": false,
+     "published": "2026-11-17T07:16:00+00:00"
+    },
+    {
+     "source": "ZEIT ONLINE",
+     "region": "DE",
+     "weight": 0.9,
+     "title": "Sözcü TV: Türkische Polizei stürmt oppositionsnahen Sender Sözcü TV",
+     "summary": "In der Türkei ist mit Sözcü TV ein weiterer Fernsehsender unter Zwangsverwaltung gestellt worden. Bei einer Razzia sollen mehrere Menschen festgenommen worden sein.",
+     "link": "https://www.zeit.de/politik/ausland/2026-11/soeuzcue-tv-mediengruppe-tuerkei-razzia-zwangsverwalter-gxe",
+     "image": "https://img.zeit.de/politik/ausland/2026-11/soeuzcue-tv-mediengruppe-tuerkei-razzia-zwangsverwalter-gxe-foto-1/original__640x360",
+     "aggregator": false,
+     "published": "2026-11-17T10:09:40+00:00"
+    },
+    {
+     "source": "Handelsblatt",
+     "region": "DE",
+     "weight": 0.9,
+     "title": "Sözcü TV: Türkische Behörden übernehmen oppositionsnahen Sender",
+     "summary": "Die türkische Regierung erhöht den Druck auf oppositionelle Medien. Ein Sender wurde nun unter Zwangsverwaltung gestellt, der Inhaber verhaftet. Was Beobachter nun befürchten.",
+     "link": "https://www.handelsblatt.com/politik/international/tuerkei-behoerden-setzen-verwalter-bei-oppositionsnahem-sender-soezcue-tv-ein/100270502.html",
+     "image": "https://images.handelsblatt.com/pUrq5qEHRyVl/cover/900/506/0/0/168/167/0.5/0.5/tuerkei-oppositionsnaher-sender-soezcue-tv-unter-zwangsverwaltung.jpg",
+     "aggregator": false,
+     "published": "2026-11-17T09:23:20+00:00"
+    },
+    {
+     "source": "n-tv",
+     "region": "DE",
+     "weight": 0.8,
+     "title": "Razzia bei Sözcü TV: Türkei stellt Oppositionssender unter Zwangsverwaltung",
+     "summary": "Regierungskritische Medien geraten in der Türkei immer stärker unter Druck. Binnen weniger Wochen greifen die Behörden nun bei einem weiteren bekannten Fernsehsender ein. Die Staatsanwaltschaft begründet ihr Vorgehen mit Vorwürfen gegen den Eigentümer.",
+     "link": "https://www.n-tv.de/politik/Tuerkei-stellt-Oppositionssender-unter-Zwangsverwaltung-id31542651.html",
+     "image": "https://www.n-tv.de/img/31542738/1794912028/Img_4_3/250/image.jpg",
+     "aggregator": false,
+     "published": "2026-11-17T10:03:00+00:00"
+    }
+   ]
+  },
+  {
+   "id": 3,
+   "score": 14.47,
+   "outlets": [
+    "Deutschlandfunk",
+    "Handelsblatt",
+    "WirtschaftsWoche",
+    "DIE ZEIT"
+   ],
+   "regions": [
+    "DE"
+   ],
+   "trend": [
+    "markus brunnermeier",
+    "Germany to Propose Markus Brunnermeier as ECB Chief Economist",
+    "Berlin to pick Markus Brunnermeier as ECB board candidate"
+   ],
+   "newest": "2026-11-17T10:31:46+00:00",
+   "articles": [
+    {
+     "source": "Deutschlandfunk",
+     "region": "DE",
+     "weight": 0.95,
+     "title": "Europäische Zentralbank - Deutscher Ökonom Brunnermeier soll Chefvolkswirt bei der EZB werden",
+     "summary": "Die Bundesregierung will den Ökonomen Markus Brunnermeier als Chefvolkswirt bei der Europäischen Zentralbank nominieren.",
+     "link": "https://www.deutschlandfunk.de/deutscher-oekonom-brunnermeier-soll-chefvolkswirt-bei-der-ezb-werden-100.html",
+     "image": "https://bilder.deutschlandfunk.de/b5/42/85/1e/b542851e-e856-44fa-96bf-02536b5cfef9/markus-brunnermeier-100-1280x1280.jpg",
+     "aggregator": false,
+     "published": "2026-11-17T10:31:46+00:00"
+    },
+    {
+     "source": "Handelsblatt",
+     "region": "DE",
+     "weight": 0.9,
+     "title": "Europäische Zentralbank: Deutscher Brunnermeier soll Chef-Volkswirt bei EZB werden",
+     "summary": "Wer soll in die Chefetage der EZB einziehen? Deutschland könnte den obersten Volkswirt stellen.",
+     "link": "https://www.handelsblatt.com/politik/deutschland/europaeische-zentralbank-deutscher-brunnermeier-soll-chef-volkswirt-bei-ezb-werden/100270483.html",
+     "image": "https://images.handelsblatt.com/SYg2ex4YnFPF/cover/900/506/0/0/107/107/0.5/0.5/markus-brunnermeier.jpg",
+     "aggregator": false,
+     "published": "2026-11-17T08:28:40+00:00"
+    },
+    {
+     "source": "WirtschaftsWoche",
+     "region": "DE",
+     "weight": 0.85,
+     "title": "Europäische Zentralbank: Markus Brunnermeier soll Chef-Volkswirt werden",
+     "summary": "Die Bundesregierung will Markus Brunnermeier als Chef-Volkswirt bei der EZB vorschlagen. Das fachliche Rüstzeug bringt er nach Ansicht vieler Experten mit.",
+     "link": "https://www.wiwo.de/politik/europa/europaeische-zentralbank-markus-brunnermeier-soll-ezb-chef-volkswirt-werden/100270482.html",
+     "image": "https://images.wiwo.de/3ZSaJ1wpUBC6/cover/900/506/0/1469/1344/89/0.5/0.5/markus-brunnermeier-symposium-soziale-marktwirtschaft-eur-deutschland-berlin-10.11.2025-rede-v.jpg",
+     "aggregator": false,
+     "published": "2026-11-17T10:06:00+00:00"
+    },
+    {
+     "source": "DIE ZEIT",
+     "region": "DE",
+     "weight": 0.6,
+     "title": "Europäische Zentralbank: Markus Brunnermeier soll EZB-Chefvolkswirt werden",
+     "summary": "Europäische Zentralbank: Markus Brunnermeier soll EZB-Chefvolkswirt werden DIE ZEIT (S+) EZB: Deutschland favorisiert Pablo Hernández de Cos für Lagarde-Nachfolge Spiegel Notenbank: Markus Brunnermeier soll neuer EZB-Chefökonom werden Handelsblatt EZB-Chefposten wird frei: Insiderbericht: Deutschland unterstützt Spanier de Cos als Nachfolger für Lagarde n-tv.de EZB-Chefvolkswirt: Deutschland schlägt Markus Brunnermeier vor FAZ",
+     "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQOFJ6ajZCendCdkxwU1RGWmZMaDR0aEM5TG04Q2x5OHNtUHdLZGR0TzN6czlSeGpaUlFadGxUTmpRMkRBUkNQcUtqS2VjbnczRmhJUGhiLXlmTnp5b1ZOYV9VMHVOVmc5VU90ajNBdGYzQ094LUNpUTY1OEVrTGQ3ZlQ2WVFWdk9iX050RlhGTmFMVFY4Z3d1LUVycUdoU1FTdE13dUR4ME94WEsxVGJlU2ZQNkMtSDFFbXY0?oc=5",
+     "image": null,
+     "aggregator": true,
+     "published": "2026-11-17T08:48:25+00:00"
+    }
+   ]
+  },
+  {
+   "id": 4,
+   "score": 14.37,
+   "outlets": [
+    "Deutschlandfunk",
+    "SPIEGEL",
+    "Süddeutsche",
+    "DER STANDARD",
+    "n-tv",
+    "Tagesspiegel"
+   ],
+   "regions": [
+    "AT",
+    "DE"
+   ],
+   "trend": [],
+   "newest": "2026-11-17T10:31:46+00:00",
+   "articles": [
+    {
+     "source": "Deutschlandfunk",
+     "region": "DE",
+     "weight": 0.95,
+     "title": "Krieg - Wichtige Krim-Brücke nach Angriff teilweise eingestürzt",
+     "summary": "Die wichtige Brücke zwischen Russland und der Halbinsel Krim ist nach ukrainischen Angriffen teilweise eingestürzt. Präsident Selenskyj veröffentlichte ein Video, auf dem zu sehen ist, dass einer der Brückenbögen zerstört ist. Selenskyj sprach von einer beispiellosen Militäroperation.",
+     "link": "https://www.deutschlandfunk.de/wichtige-krim-bruecke-nach-angriff-teilweise-eingestuerzt-100.html",
+     "image": "https://bilder.deutschlandfunk.de/34/5d/82/50/345d8250-efd3-4da0-8306-fe87a7c4bd6b/kertsch-bruecke-krim-100-1920x1920.jpg",
+     "aggregator": false,
+     "published": "2026-11-17T10:31:46+00:00"
+    },
+    {
+     "source": "SPIEGEL",
+     "region": "DE",
+     "weight": 0.9,
+     "title": "Russland: Regierung beruft offenbar nach Angriff auf Krimbrücke Krisensitzung ein",
+     "summary": "Die Brücke zur von Russland annektierten Halbinsel Krim ist durch einen erneuten ukrainischen Angriff stark beschädigt worden. In Russland tagt ein Krisenrat.",
+     "link": "https://www.spiegel.de/ausland/russland-regierung-beruft-offenbar-nach-angriff-auf-krimbruecke-krisensitzung-ein-a-cf3b4538-0f83-46a7-a649-3bca14b7af2e#ref=rss",
+     "image": "https://cdn.prod.www.spiegel.de/images/a137571f-4d84-437c-bb5b-1ecc67e391c0_w520_r2.08_fpx32.41_fpy50.jpg",
+     "aggregator": false,
+     "published": "2026-11-17T09:02:00+00:00"
+    },
+    {
+     "source": "Süddeutsche",
+     "region": "DE",
+     "weight": 0.9,
+     "title": "Krieg in der Ukraine: Krim-Brücke nach Angriff teilweise eingestürzt",
+     "summary": "Die strategisch wichtige Brücke zwischen dem russischen Festland und der annektierten Halbinsel ist immer wieder Ziel von Angriffen. Jetzt meldet der ukrainische Präsident Selenskij einen Erfolg.",
+     "link": "https://www.sueddeutsche.de/politik/ukraine-krieg-newsblog-krim-bruecke-einsturz-li.3571967",
+     "image": "https://www.sueddeutsche.de/2026/11/17/57fc85a1-4c9a-40b6-8356-ed8351186b49.jpg?rect=1334%2C692%2C1814%2C1361&width=1000&fm=jpg&q=60",
+     "aggregator": false,
+     "published": "2026-11-17T09:52:20+00:00"
+    },
+    {
+     "source": "DER STANDARD",
+     "region": "AT",
+     "weight": 0.85,
+     "title": "U-Bahn und Brücken in Kyjiw von Raketen getroffen, Krim-Brücke teilweise eingestürzt",
+     "summary": "Augenzeugenberichten zufolge sind am frühen Morgen Explosionen zu hören gewesen. Die EU setzte 145 weitere Organisationen und Personen auf ihre Russland-Sanktionsliste",
+     "link": "https://www.derstandard.at/jetzt/livebericht/3000000349544/u-bahn-und-bruecken-in-kyjiw-von-raketen-getroffen?ref=rss",
+     "image": "https://i.ds.at/haVUkQ/rs:fill:150:0/plain/lido-images/2026/11/17/357a7751-8439-48a7-86e1-00da72fa9a42.jpg",
+     "aggregator": false,
+     "published": "2026-11-17T06:51:32+00:00"
+    },
+    {
+     "source": "n-tv",
+     "region": "DE",
+     "weight": 0.8,
+     "title": "Kreml-Prestigeprojekt attackiert: Krim-Brücke ist in Teilen eingestürzt - Moskau beruft Krisensitzung ein",
+     "summary": "Nun bestätigt es auch der ukrainische Präsident Selenskyj. Die ukrainische Armee attackiert in der Nacht die Krim-Brücke. Die Schäden sind massiv: Der Bogen der russischen Autobrücke, der am Montag nach Angriffen schon schief stand, ist zerstört. Moskau reagiert nervös.",
+     "link": "https://www.n-tv.de/politik/Krim-Bruecke-ist-in-Teilen-eingestuerzt-Moskau-beruft-Krisensitzung-ein-id31541607.html",
+     "image": "https://www.n-tv.de/img/31542112/1794905734/Img_4_3/250/HXTcfujWoAEw0Wh.jpg",
+     "aggregator": false,
+     "published": "2026-11-17T05:55:49+00:00"
+    },
+    {
+     "source": "Tagesspiegel",
+     "region": "DE",
+     "weight": 0.6,
+     "title": "Ukraine-Krieg: Berichte: Krim-Brücke nach Angriff teilweise eingestürzt",
+     "summary": "Ukraine-Krieg: Berichte: Krim-Brücke nach Angriff teilweise eingestürzt Tagesspiegel Krieg gegen die Ukaine: Ukraine zerstört Teile der Krim-Brücke bei Angriffen DIE ZEIT Russland: Regierung beruft offenbar nach Angriff auf Krimbrücke Krisensitzung ein Spiegel Kertsch-Brücke nach Ukrainenangriff teilweise eingestürzt FAZ Krieg - Wichtige Krim-Brücke nach Angriff teilweise eingestürzt Deutschlandfunk",
+     "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPc2M0QWVLQjQyWnM0VUlLOXhIWm92Ym9QWGN4cmFPSFREemI4cmFTYkxMaVhkSFc3RV9WN0ZETG16al9xdmZnQXk4UmZKejRUXzduTTZNc2dxTG1wLWQtb2R4eXU2UDJzSWt0SjAwb3ZZRGRMREd2OEE1eElTT3BPZmQ4bTFUV2VJOGF0cTBPSEVJNHk0a1NqWHNWYk9RSlhrMWl1cUxjRXJvbUFXbmVKRmdsZ29zOWhuNmllSXdlS3dFWEhVbTFDVVdTbw?oc=5",
+     "image": null,
+     "aggregator": true,
+     "published": "2026-11-17T06:53:33+00:00"
+    }
+   ]
+  },
+  {
+   "id": 5,
+   "score": 13.67,
+   "outlets": [
+    "tagesschau",
+    "ZDFheute",
+    "Deutsche Welle",
+    "Deutschlandfunk",
+    "SRF News"
+   ],
+   "regions": [
+    "CH",
+    "DE",
+    "INT"
+   ],
+   "trend": [],
+   "newest": "2026-11-17T10:31:46+00:00",
+   "articles": [
+    {
+     "source": "tagesschau",
+     "region": "DE",
+     "weight": 1.0,
+     "title": "UEFA bestätigt: Franzose Diallo tritt gegen Infantino an",
+     "summary": "Philippe Diallo aus Frankreich soll nach dem Willen der UEFA neuer FIFA-Präsident werden. Diallo soll sich gegen Amtsinhaber Gianni Infantino zur Wahl stellen - die Außenseiterrolle ist ihm sicher.",
+     "link": "https://www.sportschau.de/fussball/uefa-vor-der-entscheidung-franzose-diallo-moeglicher-kandidat,infantino-gegenkandidat-100.html",
+     "image": "https://images.sportschau.de/image/093451c7-5d95-418d-a9b8-8cca58a9a383/AAABoeQlCPs/AAABnSSvrFg/16x9-big/diallo-104.jpg?width=1920",
+     "aggregator": false,
+     "published": "2026-11-16T15:37:33+00:00"
+    },
+    {
+     "source": "tagesschau",
+     "region": "DE",
+     "weight": 1.0,
+     "title": "Diallo - Notlösung der UEFA gegen Infantino",
+     "summary": "Der von der UEFA unterstützte Kandidat bei der Präsidentschaftswahl der FIFA ist eine Notlösung, meint Chaled Nahar. Philippe Diallo hat geringe Chancen - kann aber trotzdem FIFA-Präsident werden.",
+     "link": "https://www.sportschau.de/fussball/diallo-notloesung-der-uefa-gegen-infantino,kommentar-diallo-infantino-100.html",
+     "image": "https://images.sportschau.de/image/1f1b9fe6-00d2-41ad-b926-a86f493c7572/AAABoeQk1Ls/AAABnSSvrFg/16x9-big/diallo-102.jpg?width=1920",
+     "aggregator": false,
+     "published": "2026-11-16T17:53:49+00:00"
+    },
+    {
+     "source": "ZDFheute",
+     "region": "DE",
+     "weight": 1.0,
+     "title": "UEFA schickt Diallo gegen Infantino ins Rennen",
+     "summary": "Die UEFA schickt einen eigenen Kandidaten ins Rennen: Frankreichs Verbandschef Philippe Diallo tritt bei der Wahl zum FIFA-Präsidenten gegen Amtsinhaber Gianni Infantino an.",
+     "link": "https://www.zdfheute.de/sport/fussball-fifa-praesident-uefa-philippe-diallo-100.html",
+     "image": "https://www.zdfheute.de/assets/auslosung-gruppenphase-uefa-champions-league-2026-27-monaco-100~384x216?cb=1794843159851",
+     "aggregator": false,
+     "published": "2026-11-16T15:38:00+00:00"
+    },
+    {
+     "source": "Deutsche Welle",
+     "region": "INT",
+     "weight": 0.95,
+     "title": "FIFA-Wahl: FFF-Chef Philippe Diallo wird Europas Gegenkandidat zu Gianni Infantino",
+     "summary": "Gianni Infantino sammelt weltweit Unterstützung für eine vierte Amtszeit als FIFA-Präsident. Nun hat Europa kurz vor Fristende einen Gegenkandidaten aufgestellt. Sein Name: Philippe Diallo.",
+     "link": "https://www.dw.com/de/fifa-wahl-fff-chef-philippe-diallo-wird-europas-gegenkandidat-zu-gianni-infantino/a-79961195?maca=de-rss-de-all-1119-xml-mrss",
+     "image": "https://static.dw.com/image/79961413_302.jpg",
+     "aggregator": false,
+     "published": "2026-11-16T15:22:00+00:00"
+    },
+    {
+     "source": "Deutschlandfunk",
+     "region": "DE",
+     "weight": 0.95,
+     "title": "Fußball - FIFA-Präsidentschaftswahl: UEFA schickt Franzosen Diallo gegen Infantino ins Rennen",
+     "summary": "Zwei Tage vor Ende der Bewerbungsfrist hat die UEFA einen Gegenkandidaten für den umstrittenen FIFA-Chef Infantino gefunden. Der Präsident des französischen Fußballverbands, Philippe Diallo, tritt bei der Wahl im März an.",
+     "link": "https://www.deutschlandfunk.de/fifa-praesidentschaftswahl-uefa-schickt-franzosen-diallo-gegen-infantino-ins-rennen-104.html",
+     "image": "https://bilder.deutschlandfunk.de/49/8b/e0/d0/498be0d0-91cf-48d0-9217-e5fec509d072/philippe-diallo-infantino-gegner-wahl-antritt-fifa-100-1920x1920.jpg",
+     "aggregator": false,
+     "published": "2026-11-17T10:31:46+00:00"
+    },
+    {
+     "source": "SRF News",
+     "region": "CH",
+     "weight": 0.95,
+     "title": "Fifa-Präsidentschaft – Wie stehen die Chancen von Philippe Diallo, Infantino abzulösen?",
+     "summary": "Die Uefa hat sich auf einen Gegenkandidaten für den amtierenden Fifa-Chef Gianni Infantino geeinigt: Philippe Diallo.",
+     "link": "https://www.srf.ch/news/international/fifa-praesidentschaft-wie-stehen-die-chancen-von-philippe-diallo-infantino-abzuloesen",
+     "image": "https://www.srf.ch/static/cms/images//320ws/de2a2b.webp",
+     "aggregator": false,
+     "published": "2026-11-17T05:08:40+00:00"
+    }
+   ]
+  },
+  {
+   "id": 6,
+   "score": 12.67,
+   "outlets": [
+    "tagesschau Inland",
+    "ZDFheute",
+    "Deutschlandfunk",
+    "SPIEGEL"
+   ],
+   "regions": [
+    "DE"
+   ],
+   "trend": [],
+   "newest": "2026-11-17T10:31:46+00:00",
+   "articles": [
+    {
+     "source": "tagesschau Inland",
+     "region": "DE",
+     "weight": 1.0,
+     "title": "AfD will Ex-Fußballprofi Berthold als Bundespräsidenten nominieren",
+     "summary": "Der ehemalige Fußballprofi Thomas Berthold soll nach ARD-Informationen für die AfD ins Rennen um das Amt des Bundespräsidenten gehen. Der Weltmeister von 1990 tat sich während der Corona-Pandemie als \"Querdenker\" hervor.",
+     "link": "https://www.tagesschau.de/inland/innenpolitik/berthold-afd-wahl-bundespraesident-100.html",
+     "image": "https://images.tagesschau.de/image/8a357c52-432c-4162-988c-fb5723ee6c98/AAABodZtqQ0/AAABnSSvrFg/16x9-big/thomas-berthold-110.jpg?width=1920",
+     "aggregator": false,
+     "published": "2026-11-13T16:37:14+00:00"
+    },
+    {
+     "source": "ZDFheute",
+     "region": "DE",
+     "weight": 1.0,
+     "title": "DFB-Präsident rügt AfD-Kandidatur von Weltmeister Berthold",
+     "summary": "Thomas Berthold hat sich von der AfD zum Kandidaten für die Wahl des Bundespräsidenten aufstellen lassen. Für DFB-Chef Neuendorf ist das unverständlich - er findet klare Worte.",
+     "link": "https://www.zdfheute.de/politik/afd-thomas-berthold-kritik-dfb-neuendorf-100.html",
+     "image": "https://www.zdfheute.de/assets/thomas-berthold-120~384x216?cb=1794581316927",
+     "aggregator": false,
+     "published": "2026-11-16T21:30:00+00:00"
+    },
+    {
+     "source": "Deutschlandfunk",
+     "region": "DE",
+     "weight": 0.95,
+     "title": "Ex-Fußball-Weltmeister - DFB grenzt sich von AfD und Bundespräsidenten-Kandidat Thomas Berthod ab",
+     "summary": "Der Deutsche Fußball-Bund hat die Ernennung von Ex-Weltmeister Thomas Berthold zum Kandidaten der AfD für die Wahl zum Bundespräsidenten kritisiert.",
+     "link": "https://www.deutschlandfunk.de/dfb-grenzt-sich-von-afd-und-bundespraesidenten-kandidat-thomas-berthod-ab-100.html",
+     "image": "https://bilder.deutschlandfunk.de/e1/3b/45/4e/e13b454e-9d9d-45a5-bbf8-42ade7bb7ec0/thomas-berthold-fussballer-100-1920x1920.jpg",
+     "aggregator": false,
+     "published": "2026-11-17T10:31:46+00:00"
+    },
+    {
+     "source": "SPIEGEL",
+     "region": "DE",
+     "weight": 0.9,
+     "title": "Fußball-Weltmeister Thomas Berthold: Der frühere Nationalspieler kandidiert für die AfD für das Amt des Bundespräsidenten",
+     "summary": "Die AfD hat den Fußball-Weltmeister von 1990, Thomas Berthold, als Bewerber für das Amt des Bundespräsidenten nominiert. Das ist bei Bertholds Werdegang mittlerweile keine Überraschung mehr.",
+     "link": "https://www.spiegel.de/sport/fussball/fussball-weltmeister-thomas-berthold-der-fruehere-nationalspieler-kandidiert-fuer-die-afd-fuer-das-amt-des-bundespraesidenten-a-303ea3aa-c3ed-43b6-a433-5dbcd4586015#ref=rss",
+     "image": "https://cdn.prod.www.spiegel.de/images/5cffdfb3-b2f5-4720-a175-dc22a194dbe4_w520_r2.08_fpx39_fpy41.jpg",
+     "aggregator": false,
+     "published": "2026-11-17T09:45:00+00:00"
+    }
+   ]
+  },
+  {
+   "id": 7,
+   "score": 12.57,
+   "outlets": [
+    "tagesschau",
+    "ZDFheute",
+    "Handelsblatt",
+    "heise online",
+    "Golem"
+   ],
+   "regions": [
+    "DE"
+   ],
+   "trend": [],
+   "newest": "2026-11-17T09:19:29+00:00",
+   "articles": [
+    {
+     "source": "tagesschau",
+     "region": "DE",
+     "weight": 1.0,
+     "title": "Tesla investiert 3. Mrd. Euro in Werk in Grünheide",
+     "summary": "Tesla investiert 3. Mrd. Euro in Werk in Grünheide",
+     "link": "https://www.tagesschau.de/tagesschau_20_uhr/video-1684958.html",
+     "image": "https://images.tagesschau.de/image/fb374571-dfb9-473c-b0ad-b31661a94a15/AAABoei3zyQ/AAABnSSvrFg/16x9-big/tesla-cybercab-106.jpg?width=1920",
+     "aggregator": false,
+     "published": "2026-11-17T09:13:07+00:00"
+    },
+    {
+     "source": "tagesschau",
+     "region": "DE",
+     "weight": 1.0,
+     "title": "Tesla kündigt Milliarden-Investition in Werk in Brandenburg an",
+     "summary": "Tesla will drei Milliarden Euro für den Ausbau des Werks in Grünheide östlich von Berlin ausgeben. Der US-Elektroautobauer will damit ein neues Produktionsgebäude finanzieren. Künftig sollen dort \"Cybercabs\" - fahrerlose Taxis - gebaut werden.",
+     "link": "https://www.tagesschau.de/inland/regional/brandenburg/tesla-investitionen-brandenburg-100.html",
+     "image": "https://images.tagesschau.de/image/e865af29-aaff-4a5d-ad59-76a33bcc702c/AAABoeTlNbc/AAABnSSvrFg/16x9-big/tesla-cybercab-104.jpg?width=1920",
+     "aggregator": false,
+     "published": "2026-11-16T20:48:40+00:00"
+    },
+    {
+     "source": "tagesschau Wirtschaft",
+     "region": "DE",
+     "weight": 1.0,
+     "title": "Tesla kündigt Milliarden-Investition in Werk in Brandenburg an",
+     "summary": "Tesla will drei Milliarden Euro für den Ausbau des Werks in Grünheide östlich von Berlin ausgeben. Der US-Elektroautobauer will damit ein neues Produktionsgebäude finanzieren. Künftig sollen dort \"Cybercabs\" - fahrerlose Taxis - gebaut werden.",
+     "link": "https://www.tagesschau.de/inland/regional/brandenburg/tesla-investitionen-brandenburg-100.html",
+     "image": "https://images.tagesschau.de/image/e865af29-aaff-4a5d-ad59-76a33bcc702c/AAABoeTlNbc/AAABnSSvrFg/16x9-big/tesla-cybercab-104.jpg?width=1920",
+     "aggregator": false,
+     "published": "2026-11-16T20:48:40+00:00"
+    },
+    {
+     "source": "ZDFheute",
+     "region": "DE",
+     "weight": 1.0,
+     "title": "Tesla will drei Milliarden Euro in Grünheide-Werk stecken",
+     "summary": "Der US-Autobauer Tesla will in den Ausbau des Werks in Grünheide investieren. Brandenburgs Ministerpräsident Dietmar Woidke spricht von einem \"großen Tag\" für das Bundesland.",
+     "link": "https://www.zdfheute.de/wirtschaft/unternehmen/tesla-gruenheide-werk-ausbau-milliarden-100.html",
+     "image": "https://www.zdfheute.de/assets/tesla-gigafactory-berlin-brandenburg-106~384x216?cb=1794839450104",
+     "aggregator": false,
+     "published": "2026-11-16T16:24:00+00:00"
+    },
+    {
+     "source": "Handelsblatt",
+     "region": "DE",
+     "weight": 0.9,
+     "title": "E-Autobauer: Steigende Zulassungen zu Quartalsenden: Sechs Sonderschichten für Teslas Gigafabrik geplant",
+     "summary": "Teslas Werk in Grünheide hat sein Produktionsziel für Oktober verfehlt und verordnet weitere Pflichtschichten. Beim Landesamt für Arbeitsschutz liegen Beschwerden von Beschäftigten.",
+     "link": "https://www.handelsblatt.com/unternehmen/industrie/tesla-sechs-sonderschichten-fuer-gigafabrik-in-gruenheide-geplant/100270232.html",
+     "image": "https://images.handelsblatt.com/iTNfsiu9pyIp/cover/900/506/0/0/16/235/0.5/0.5/tesla-werk-gruenheide.jpg",
+     "aggregator": false,
+     "published": "2026-11-17T09:19:29+00:00"
+    },
+    {
+     "source": "heise online",
+     "region": "DE",
+     "weight": 0.85,
+     "title": "Dienstag: Schärfere US-Exportregeln für KI-Chips, Störungen bei US-Banken",
+     "summary": "USA schließen Schlupflöcher + Softwareprobleme bei US-Banken + Tesla investiert in Grünheide + Europäer suchen Alternativen + Cyberangriffe auf BundID",
+     "link": "https://www.heise.de/news/Dienstag-Schaerfere-US-Exportregeln-fuer-KI-Chips-Stoerungen-bei-US-Banken-11527091.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
+     "image": null,
+     "aggregator": false,
+     "published": "2026-11-17T05:15:00+00:00"
+    },
+    {
+     "source": "heise online",
+     "region": "DE",
+     "weight": 0.85,
+     "title": "Tesla will drei Milliarden Euro in Werk in Grünheide stecken",
+     "summary": "Die Pläne für einen Ausbau der Tesla-Fabrik in Grünheide bei Berlin liegen schon länger vor. Nun nennt das Unternehmen von Elon Musk konkrete Zahlen.",
+     "link": "https://www.heise.de/news/Tesla-will-drei-Milliarden-Euro-in-Werk-in-Gruenheide-stecken-11526787.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
+     "image": null,
+     "aggregator": false,
+     "published": "2026-11-16T15:04:00+00:00"
+    },
+    {
+     "source": "Golem",
+     "region": "DE",
+     "weight": 0.75,
+     "title": "Drei Milliarden Euro für Grünheide: Tesla baut neue Autofabrik für das Cybercab",
+     "summary": "Während deutsche Autohersteller mit Investitionen knausern, baut Tesla in Grünheide eine weitere Fabrik. Ab 2029 sollen Cybercabs vom Band rollen. ( Gigafactory Berlin , Elektroauto )",
+     "link": "https://www.golem.de/news/drei-milliarden-euro-fuer-gruenheide-tesla-baut-neue-autofabrik-fuer-das-cybercab-2611-215268.html",
+     "image": "https://cpx.golem.de/cpx.php?class=17&amp;aid=215268&amp;page=1&amp;ts=1794839222",
+     "aggregator": false,
+     "published": "2026-11-16T14:27:02+00:00"
+    }
+   ]
+  },
+  {
+   "id": 8,
+   "score": 12.36,
+   "outlets": [
+    "ORF",
+    "SPIEGEL",
+    "NZZ",
+    "DER STANDARD",
+    "n-tv"
+   ],
+   "regions": [
+    "AT",
+    "CH",
+    "DE"
+   ],
+   "trend": [],
+   "newest": "2026-11-17T09:17:08+00:00",
+   "articles": [
+    {
+     "source": "ORF",
+     "region": "AT",
+     "weight": 0.95,
+     "title": "Viele Verletzte nach Zusammenstoß zweier Züge in Prag",
+     "summary": "",
+     "link": "https://orf.at/stories/3448428/",
+     "image": null,
+     "aggregator": false,
+     "published": "2026-11-17T08:17:10+00:00"
+    },
+    {
+     "source": "SPIEGEL",
+     "region": "DE",
+     "weight": 0.9,
+     "title": "Tschechien: Zwei Personenzüge in Prag zusammengestoßen",
+     "summary": "In der Nähe der tschechischen Hauptstadt ist es zu einer Kollision zweier Züge gekommen. Zahlreiche Menschen kamen ins Krankenhaus. Verkehrsminister Ivan Bednárik sprach von einem »sehr ernsten Ereignis«.",
+     "link": "https://www.spiegel.de/panorama/justiz/tschechien-zwei-personenzuege-in-prag-zusammengestossen-a-e49085a6-6048-46ef-9fc0-5eeec465f6d0#ref=rss",
+     "image": "https://cdn.prod.www.spiegel.de/images/90b79aec-3079-4183-b6a1-190e8233803f_w520_r2.08_fpx33.32_fpy50.jpg",
+     "aggregator": false,
+     "published": "2026-11-17T08:35:00+00:00"
+    },
+    {
+     "source": "NZZ",
+     "region": "CH",
+     "weight": 0.9,
+     "title": "Zwei Personenzüge in Tschechien zusammengestossen – viele Verletzte",
+     "summary": "Beim Prager Hauptbahnhof kam es zu einem Zugunglück. Der Bahnverkehr wurde vorübergehend gestoppt – wie lange die Aufräumarbeiten dauern, ist noch offen.",
+     "link": "https://www.nzz.ch/panorama/zwei-personenzuege-in-tschechien-zusammengestossen-viele-verletzte-ld.10066147",
+     "image": "https://img-msp-prod.nzz.ch/2026/11/17/bd1f9af4-b032-48c2-aa74-ced380a962a6.jpg?width=200&height=200&fit=bounds&quality=75&auto=webp&crop=4640,4640,x1168,y0",
+     "aggregator": false,
+     "published": "2026-11-17T08:28:17+00:00"
+    },
+    {
+     "source": "DER STANDARD",
+     "region": "AT",
+     "weight": 0.85,
+     "title": "Zwei Personenzüge in Prag zusammengestoßen, viele Verletzte",
+     "summary": "Nahe dem Prager Hauptbahnhof sind zwei Personenzüge auf einer Brücke zusammengestoßen. Der Bahnverkehr wurde vorübergehend gestoppt. Wie lange die Aufräumarbeiten dauern, ist noch offen",
+     "link": "https://www.derstandard.at/story/3000000349591/zwei-personenzuege-in-prag-zusammengestossen-viele-verletzte?ref=rss",
+     "image": "https://i.ds.at/K7Denw/rs:fill:150:0/plain/lido-images/2026/11/17/468ba49e-dfdf-4d8e-8408-09b43cb9d6b7.jpg",
+     "aggregator": false,
+     "published": "2026-11-17T08:20:40+00:00"
+    },
+    {
+     "source": "n-tv",
+     "region": "DE",
+     "weight": 0.8,
+     "title": "\"Sehr ernstes Ereignis\": Dutzende Menschen bei Zugkollision in Prag verletzt",
+     "summary": "In Prag stoßen zwei Züge auf einer Brücke nahe des Hauptbahnhofs zusammen. Polizei, Feuerwehr und Rettungsdienste sind im Einsatz. Warum sich die Züge auf dem selben Gleis befanden, ist noch unklar.",
+     "link": "https://www.n-tv.de/panorama/Dutzende-Menschen-bei-Zugkollision-in-Prag-verletzt-id31542423.html",
+     "image": "https://www.n-tv.de/img/31542666/1794911152/Img_4_3/250/epi_1106731696_IMAGO SP_imago st 1117 09010001 0884903094.jpg_Trains collision nea.jpg",
+     "aggregator": false,
+     "published": "2026-11-17T09:17:08+00:00"
+    }
+   ]
+  },
+  {
+   "id": 9,
+   "score": 11.94,
+   "outlets": [
+    "tagesschau",
+    "ZDFheute",
+    "ZEIT ONLINE",
+    "n-tv",
+    "Spiegel"
+   ],
+   "regions": [
+    "DE"
+   ],
+   "trend": [],
+   "newest": "2026-11-17T10:25:01+00:00",
+   "articles": [
+    {
+     "source": "tagesschau",
+     "region": "DE",
+     "weight": 1.0,
+     "title": "Datenleak: Interne Dokumente belasten die Deutsche Bank",
+     "summary": "Die Schatten der Vergangenheit holen die Deutsche Bank erneut ein. Informationen aus einem Datenleck offenbaren fragwürdige Geschäftspraktiken und mutmaßliche Probleme bei den Kontrollen beim größten deutschen Geldhaus.",
+     "link": "https://www.tagesschau.de/wirtschaft/unternehmen/deutsche-bank-datenleak-100.html",
+     "image": "https://images.tagesschau.de/image/048f69ce-a833-4bc8-aa3b-d1f4d0d62697/AAABoegrxuk/AAABnSSvrFg/16x9-big/deutsche-bank-396.jpg?width=1920",
+     "aggregator": false,
+     "published": "2026-11-17T09:42:53+00:00"
+    },
+    {
+     "source": "tagesschau Wirtschaft",
+     "region": "DE",
+     "weight": 1.0,
+     "title": "Datenleak: Interne Dokumente belasten die Deutsche Bank",
+     "summary": "Die Schatten der Vergangenheit holen die Deutsche Bank erneut ein. Informationen aus einem Datenleck offenbaren fragwürdige Geschäftspraktiken und mutmaßliche Probleme bei den Kontrollen beim größten deutschen Geldhaus.",
+     "link": "https://www.tagesschau.de/wirtschaft/unternehmen/deutsche-bank-datenleak-100.html",
+     "image": "https://images.tagesschau.de/image/048f69ce-a833-4bc8-aa3b-d1f4d0d62697/AAABoegrxuk/AAABnSSvrFg/16x9-big/deutsche-bank-396.jpg?width=1920",
+     "aggregator": false,
+     "published": "2026-11-17T09:42:53+00:00"
+    },
+    {
+     "source": "ZDFheute",
+     "region": "DE",
+     "weight": 1.0,
+     "title": "Interne Dokumente belasten die Deutsche Bank",
+     "summary": "Das größte Banken-Leak zeigt, wie die Deutsche Bank offenbar Warnsignale ignorierte, Regeln aufweichte und umstrittene Geschäfte fortführte.",
+     "link": "https://www.zdfheute.de/wirtschaft/inside-deutsche-bank-leak-100.html",
+     "image": "https://www.zdfheute.de/assets/inside-deutsche-bank-104~384x216?cb=1794396500894",
+     "aggregator": false,
+     "published": "2026-11-17T06:00:00+00:00"
+    },
+    {
+     "source": "ZEIT ONLINE",
+     "region": "DE",
+     "weight": 0.9,
+     "title": "Deutsche Bank: Datenleck bei der Deutschen Bank offenbart Kontrollversagen",
+     "summary": "Whistleblower haben 15 Millionen interne Dokumente der Deutschen Bank geleakt. Sie dokumentieren unter anderem Geschäftsbeziehungen zu Jeffrey Epstein und Donald Trump.",
+     "link": "https://www.zeit.de/wirtschaft/2026-11/datenleck-deutsche-bank-geschaeftspraktiken-kontrollversagen-dokumente-spiegel-le-monde-new-york-times-gxe",
+     "image": "https://img.zeit.de/wirtschaft/2026-11/datenleck-deutsche-bank-geschaeftspraktiken-kontrollversagen-dokumente-spiegel-le-monde-new-york-times-gxe-foto-1/original__640x360",
+     "aggregator": false,
+     "published": "2026-11-17T10:25:01+00:00"
+    },
+    {
+     "source": "n-tv",
+     "region": "DE",
+     "weight": 0.8,
+     "title": "Millionen interne Dokumente: Datenleck legt fragwürdige Geschäfte der Deutschen Bank offen",
+     "summary": "Dutzende Medienhäuser werten einen gewaltigen Bestand interner Unterlagen der Deutschen Bank aus. Die Dokumente reichen teils Jahrzehnte zurück und betreffen einige der umstrittensten Kunden des Geldhauses. Nun muss sich Deutschlands größte Bank erneut unbequemen Fragen zu ihrer Vergangenheit stellen.",
+     "link": "https://www.n-tv.de/wirtschaft/Datenleck-legt-fragwuerdige-Geschaefte-der-Deutschen-Bank-offen-id31542318.html",
+     "image": "https://www.n-tv.de/img/31542357/1794908556/Img_4_3/250/imago0868939016h.jpg",
+     "aggregator": false,
+     "published": "2026-11-17T08:59:57+00:00"
+    },
+    {
+     "source": "Spiegel",
+     "region": "DE",
+     "weight": 0.6,
+     "title": "Deutsche Bank: Aktienkurs bricht nach Datenleak ein",
+     "summary": "Deutsche Bank: Aktienkurs bricht nach Datenleak ein Spiegel Datenleak: Interne Dokumente belasten die Deutsche Bank tagesschau.de Deutsche Bank: Aktie stürzt nach Enthüllungen um 6 Prozent ab BILD Daten-Leak erschüttert die Deutsche Bank: Mehr als 15 Millionen interne Dokumente öffentlich SZ.de (S+) Datenleak »Inside Deutsche Bank« enthüllt dunkle Geheimnisse Spiegel",
+     "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPWDBRMDdfRU1Tb2ZVS3JkeWNKNnlFZW43YjB1dW5pZnd3MmRPR21tcmtSRV9MWXpjb18xakNpVTRTNzBuUVhxX1VGa2NGdHpzVWRxZzdOZlhmV2J3akxyUWpJakJKY0JfU1gxbmZhOWlYa2o1c25VVGVvTURXeFpmeVh0VjFkSXpKRTgtVDlyZTBWSEIzWkN3LVVDTlgtdzZ1eU5yaHI2WXpwbDgybjV0RnpjSjE3dVFvbV95aWx5ZzM?oc=5",
+     "image": null,
+     "aggregator": true,
+     "published": "2026-11-17T08:47:00+00:00"
+    }
+   ]
+  },
+  {
+   "id": 10,
+   "score": 11.17,
+   "outlets": [
+    "Deutschlandfunk",
+    "ZEIT ONLINE",
+    "Handelsblatt",
+    "WirtschaftsWoche"
+   ],
+   "regions": [
+    "DE"
+   ],
+   "trend": [],
+   "newest": "2026-11-17T10:31:46+00:00",
+   "articles": [
+    {
+     "source": "Deutschlandfunk",
+     "region": "DE",
+     "weight": 0.95,
+     "title": "Wirtschaft - EU hebt Wachstumsprognose für Deutschland deutlich an",
+     "summary": "Die EU-Kommission hat ihre Wachstumsprognose für Deutschland mehr als verdoppelt.",
+     "link": "https://www.deutschlandfunk.de/eu-hebt-wachstumsprognose-fuer-deutschland-deutlich-an-100.html",
+     "image": "https://bilder.deutschlandfunk.de/FI/LE/_6/3e/FILE_63ed7e0905e780ffd84a3b71916c77b8/imago0109100580h-jpg-100-768x768.jpg",
+     "aggregator": false,
+     "published": "2026-11-17T10:31:46+00:00"
+    },
+    {
+     "source": "ZEIT ONLINE",
+     "region": "DE",
+     "weight": 0.9,
+     "title": "Wirtschaftsprognose der EU-Kommission: EU-Kommission verdoppelt Wachstumsprognose für Deutschland für 2026",
+     "summary": "Die EU-Kommission hat ihre Wachstumsprognose für Deutschland für das laufende Jahr auf 1,3 Prozent erhöht. Grund sei der Exportzuwachs zu Jahresbeginn.",
+     "link": "https://www.zeit.de/wirtschaft/2026-11/eu-kommission-wirtschaftsprognose-wachstum-inflation-euroraum-deutschland-gxe",
+     "image": "https://img.zeit.de/wirtschaft/2026-11/eu-kommission-wirtschaftsprognose-wachstum-inflation-euroraum-deutschland-gxe-foto-1/original__640x360",
+     "aggregator": false,
+     "published": "2026-11-17T10:27:58+00:00"
+    },
+    {
+     "source": "ZEIT ONLINE",
+     "region": "DE",
+     "weight": 0.9,
+     "title": "Konjunktur: EU-Kommission verdoppelt Wachstumsprognose für Deutschland",
+     "summary": "",
+     "link": "https://www.zeit.de/news/2026-11/17/eu-kommission-verdoppelt-wachstumsprognose-fuer-deutschland",
+     "image": "https://img.zeit.de/news/2026-11/17/eu-kommission-verdoppelt-wachstumsprognose-fuer-deutschland-image-group/original__640x360",
+     "aggregator": false,
+     "published": "2026-11-17T10:11:17+00:00"
+    },
+    {
+     "source": "Handelsblatt",
+     "region": "DE",
+     "weight": 0.9,
+     "title": "Konjunktur: EU-Kommission verdoppelt Wachstumsprognose für Deutschland",
+     "summary": "Trotz hoher Energiepreise und Handelskonflikten geht es für die deutsche Wirtschaft voran. Doch der Blick auf Preise und Staatsschulden offenbart Schattenseiten des Wachstums.",
+     "link": "https://www.handelsblatt.com/politik/deutschland/konjunktur-eu-kommission-verdoppelt-wachstumsprognose-fuer-deutschland/100270535.html",
+     "image": "https://images.handelsblatt.com/I6adQh-OX5ru/cover/900/506/0/0/106/105/0.5/0.5/containerterminal-in-bremerhaven.jpg",
+     "aggregator": false,
+     "published": "2026-11-17T10:11:17+00:00"
+    },
+    {
+     "source": "Handelsblatt",
+     "region": "DE",
+     "weight": 0.9,
+     "title": "Konjunktur: Brüssel zieht nach – und verdoppelt Wachstumsprognose für Deutschland",
+     "summary": "Zweimal im Jahr prognostizieren Brüssels Konjunkturexperten, wie es mit der Wirtschaft weitergeht. Bisher waren sie zurückhaltender als andere Institute – auch mit Blick auf Deutschland.",
+     "link": "https://www.handelsblatt.com/politik/konjunktur/konjunktur-eu-kommission-verdoppelt-wachstumsprognose-fuer-deutschland/100270507.html",
+     "image": "https://images.handelsblatt.com/4LCQ30PxZj2t/cover/900/506/0/0/313/312/0.5/0.5/archiv-04.11.2026-baden-wuerttemberg-heidelberg-ein-bauarbeiter-geht-auf-einer-baustelle-vor-baeu.jpg",
+     "aggregator": false,
+     "published": "2026-11-17T10:08:20+00:00"
+    },
+    {
+     "source": "WirtschaftsWoche",
+     "region": "DE",
+     "weight": 0.85,
+     "title": "Konjunktur: EU-Kommission verdoppelt Wachstumsprognose für Deutschland",
+     "summary": "Trotz hoher Energiepreise und Handelskonflikten geht es für die deutsche Wirtschaft voran. Doch der Blick auf Preise und Staatsschulden offenbart Schattenseiten des Wachstums.",
+     "link": "https://www.wiwo.de/politik/konjunktur/konjunktur-eu-kommission-verdoppelt-wachstumsprognose-fuer-deutschland/100270542.html",
+     "image": "https://images.wiwo.de/y7wnHjhN9Y3F/cover/900/506/0/0/309/308/0.5/0.5/archiv-13.07.2026-bremen-bremerhaven-containerbruecken-stehen-auf-dem-gelaende-von-msc-gate-eine.jpg",
+     "aggregator": false,
+     "published": "2026-11-17T10:24:21+00:00"
+    }
+   ]
+  },
+  {
+   "id": 11,
+   "score": 10.77,
+   "outlets": [
+    "ZDFheute",
+    "heise online",
+    "DER STANDARD",
+    "Tagesspiegel"
+   ],
+   "regions": [
+    "AT",
+    "DE"
+   ],
+   "trend": [],
+   "newest": "2026-11-17T06:54:39+00:00",
+   "articles": [
+    {
+     "source": "ZDFheute",
+     "region": "DE",
+     "weight": 1.0,
+     "title": "Kann Jensen Huang zu Nvidia zurückkehren?",
+     "summary": "Rückendeckung aus dem Silicon Valley: Elon Musk und einflussreiche Investoren wollen Jensen Huang zurück an die Nvidia-Spitze holen. Doch wie wahrscheinlich ist seine Rückkehr?",
+     "link": "https://www.zdfheute.de/wirtschaft/unternehmen/nvidia-jensen-huang-rueckkehr-chancen-100.html",
+     "image": "https://www.zdfheute.de/assets/aid-image-74043456-hires-100~384x216?cb=1794820394595",
+     "aggregator": false,
+     "published": "2026-11-16T08:35:00+00:00"
+    },
+    {
+     "source": "heise online",
+     "region": "DE",
+     "weight": 0.85,
+     "title": "Tage nach dem Rücktritt: Jensen Huang will angeblich wieder Nvidia-CEO werden",
+     "summary": "Der Druck auf Nvidia wächst, Jensen Huang zurück an die Spitze zu holen. Auch der zurückgetretene CEO redet darüber, berichtet jetzt die Financial Times.",
+     "link": "https://www.heise.de/news/Tage-nach-dem-Ruecktritt-Jensen-Huang-will-angeblich-wieder-Nvidia-CEO-werden-11525691.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
+     "image": null,
+     "aggregator": false,
+     "published": "2026-11-16T06:02:00+00:00"
+    },
+    {
+     "source": "DER STANDARD",
+     "region": "AT",
+     "weight": 0.85,
+     "title": "Nvidia-Verwaltungsrat schließt Rückkehr von Ex-Chef Huang aus",
+     "summary": "Zuvor hatten sich Manager aus der Tech-Branche, darunter Elon Musk, für eine Rückkehr Jensen Huangs an die Spitze von Nvidia ausgesprochen",
+     "link": "https://www.derstandard.at/story/3000000349575/nvidia-verwaltungsrat-schlie223t-r252ckkehr-von-ex-chef-huang-aus?ref=rss",
+     "image": "https://i.ds.at/517FyQ/rs:fill:150:0/plain/lido-images/2026/11/17/fe0abdd8-8c56-4f16-bd30-c4e19af5dea1.jpg",
+     "aggregator": false,
+     "published": "2026-11-17T06:54:39+00:00"
+    },
+    {
+     "source": "Tagesspiegel",
+     "region": "DE",
+     "weight": 0.6,
+     "title": "Kommt Jensen Huang zurück an die Nvidia-Spitze? Musk und andere Tech-Bosse machen Druck – doch der Verwaltungsrat ist dagegen",
+     "summary": "Kommt Jensen Huang zurück an die Nvidia-Spitze? Musk und andere Tech-Bosse machen Druck – doch der Verwaltungsrat ist dagegen Tagesspiegel Ex-Nvidia-Chef Huang arbeitet offenbar bereits an seinem Comeback tagesschau.de „Was helfen mir 5 Prozent mehr, wenn dann Kündigung kommt?“ FOCUS online Nvidia-Quartalszahlen: Sollten Anleger noch schnell bei der Aktie zugreifen? WirtschaftsWoche Nvidia: Konzern schließt Rückkehr von Jensen Huang offenbar aus Spiegel",
+     "link": "https://news.google.com/rss/articles/CBMihgJBVV95cUxPQjFCS09tTllZZHp2dWVNRUFIb0VLRDc4N2UxWHJLNy1neUozRXQzNEU5VHlVZXU5SWJUYjZ0NnQ1WGJ4OGZZUk9GaFpIb2hqdHU4RzF3c3BSbnB5TUdSOTNvTW1FMGpHWlphQ2VVUVBkT2lIaEZYRy11WHR5V2pTSmJvSms4NlpNWDhEWXRsU2VfV19IWXJWaGJFZVZYanJJSHNmank0YmFvLW9RQXJERUY0RUlTQjN1bnhfTmJvbHVvLTBVUmVMTzZvSXh6RVl2V0V0UUFWMVdhN25GOGJ1WEdtcUxzTzdUdmhWby1VRjNXaWtqV1ZfYnAtNGw2NzQtZGdQUk9R?oc=5",
+     "image": null,
+     "aggregator": true,
+     "published": "2026-11-17T06:28:00+00:00"
+    }
+   ]
+  },
+  {
+   "id": 12,
+   "score": 10.63,
+   "outlets": [
+    "tagesschau",
+    "ORF",
+    "n-tv",
+    "Golem"
+   ],
+   "regions": [
+    "AT",
+    "DE"
+   ],
+   "trend": [],
+   "newest": "2026-11-17T09:30:35+00:00",
+   "articles": [
+    {
+     "source": "tagesschau",
+     "region": "DE",
+     "weight": 1.0,
+     "title": "Kalifornien verklagt Chat-GPT-Entwickler OpenAI wegen KI-Hacking-Attacken",
+     "summary": "Kalifornien verklagt Chat-GPT-Entwickler OpenAI wegen KI-Hacking-Attacken",
+     "link": "https://www.tagesschau.de/video/video-1685152.html",
+     "image": "https://images.tagesschau.de/image/25c942c4-d115-429e-a804-af9accdc77ea/AAABoejRE4g/AAABnSSvrFg/16x9-big/sendungsbild-1828656.jpg?width=1920",
+     "aggregator": false,
+     "published": "2026-11-17T09:23:03+00:00"
+    },
+    {
+     "source": "tagesschau",
+     "region": "DE",
+     "weight": 1.0,
+     "title": "Künstliche Intelligenz: Kalifornien verklagt OpenAI wegen Cyberangriffen",
+     "summary": "Der Generalstaatsanwalt von Kalifornien klagt OpenAI an. Der Vorwurf: Das Tech-Unternehmen habe ein gefährliches Produkt entwickelt und nicht ausreichend getestet - und nicht mit Behörden kooperiert. Von R. Spiegelhauer.",
+     "link": "https://www.tagesschau.de/wirtschaft/unternehmen/openai-klage-kalifornien-100.html",
+     "image": "https://images.tagesschau.de/image/107293a0-c863-4c97-aa48-5a6679dbacfa/AAABoejuMes/AAABnSSvrFg/16x9-big/altman-106.jpg?width=1920",
+     "aggregator": false,
+     "published": "2026-11-17T01:16:16+00:00"
+    },
+    {
+     "source": "ORF",
+     "region": "AT",
+     "weight": 0.95,
+     "title": "Kalifornien klagt OpenAI wegen Hacking-Attacken",
+     "summary": "",
+     "link": "https://orf.at/stories/3448396/",
+     "image": null,
+     "aggregator": false,
+     "published": "2026-11-16T19:59:42+00:00"
+    },
+    {
+     "source": "n-tv",
+     "region": "DE",
+     "weight": 0.8,
+     "title": "\"Mangelhafte Vorkehrungen\": Kalifornien verklagt ChatGPT-Mutter OpenAI nach Hackerattacke",
+     "summary": "Im Sommer brach KI des Entwicklers OpenAI aus einer angeblich sicheren Umgebung aus und hackte sich in die Computer eines Konkurrenten. Der US-Bundesstaat Kalifornien moniert die Erprobung eines gefährlichen Produkts ohne Aufsicht als Gesetzesverstoß und zieht vor Gericht.",
+     "link": "https://www.n-tv.de/wirtschaft/Kalifornien-verklagt-ChatGPT-Mutter-OpenAI-nach-Hackerattacke-id31542680.html",
+     "image": "https://www.n-tv.de/img/31542677/1794911240/Img_4_3/250/2026-11-10T234945Z_1686535270_RC2QRLABI66M_RTRMADP_3_OPENAI-RESULTS.jpg",
+     "aggregator": false,
+     "published": "2026-11-17T09:30:35+00:00"
+    },
+    {
+     "source": "Golem",
+     "region": "DE",
+     "weight": 0.75,
+     "title": "KI-Sicherheit: Kalifornien verklagt OpenAI wegen irreführender Werbung",
+     "summary": "Die Klage richtet sich gegen OpenAIs Unternehmenskultur, absehbare Folgen von ungesicherten KI-Modellen einfach in Kauf zu nehmen. ( KI , Politik )",
+     "link": "https://www.golem.de/news/ki-sicherheit-kalifornien-verklagt-openai-wegen-irrefuehrender-werbung-2611-215292.html",
+     "image": "https://cpx.golem.de/cpx.php?class=17&amp;aid=215292&amp;page=1&amp;ts=1794903122",
+     "aggregator": false,
+     "published": "2026-11-17T08:12:02+00:00"
+    }
+   ]
+  },
+  {
+   "id": 13,
+   "score": 10.57,
+   "outlets": [
+    "Deutschlandfunk",
+    "SRF News",
+    "Handelsblatt"
+   ],
+   "regions": [
+    "CH",
+    "DE"
+   ],
+   "trend": [],
+   "newest": "2026-11-17T10:31:46+00:00",
+   "articles": [
+    {
+     "source": "Deutschlandfunk",
+     "region": "DE",
+     "weight": 0.95,
+     "title": "Philippinen - \"Kriegstreiber\": Proteste gegen Trump-Besuch in Manila halten an",
+     "summary": "Kurz vor der Ankunft von US-Präsident Trump auf den Philippinen halten die Proteste gegen seinen Besuch an.",
+     "link": "https://www.deutschlandfunk.de/kriegstreiber-proteste-gegen-trump-besuch-in-manila-halten-an-100.html",
+     "image": "https://bilder.deutschlandfunk.de/b9/94/60/6a/b994606a-f181-406b-93c7-abff1ca86857/trump-philippinen-asean-100-1920x1920.jpg",
+     "aggregator": false,
+     "published": "2026-11-17T10:31:46+00:00"
+    },
+    {
+     "source": "SRF News",
+     "region": "CH",
+     "weight": 0.95,
+     "title": "Demos gegen «Pax Silica» – Warum Trump in Manila mit Protesten empfangen wird",
+     "summary": "Der US-Präsident macht auf seiner Asienreise Halt auf den Philippinen. Dort gab es Demonstrationen gegen den Besuch.",
+     "link": "https://www.srf.ch/news/international/demos-gegen-pax-silica-warum-trump-in-manila-mit-protesten-empfangen-wird",
+     "image": "https://www.srf.ch/static/cms/images//320ws/3eb263.webp",
+     "aggregator": false,
+     "published": "2026-11-17T07:16:42+00:00"
+    },
+    {
+     "source": "Handelsblatt",
+     "region": "DE",
+     "weight": 0.9,
+     "title": "Nikkei, Topix, CSI 300: Asiens Börsen geben nach – US-Chip-Sanktionen und Nvidia belasten",
+     "summary": "Kurz vor der Ankunft von US-Präsident Donald Trump in Asien hat die US-Regierung die Auflagen für den Export fortschrittlichster KI-Chips verschärft. Nikkei und Topix reagierten negativ.",
+     "link": "https://www.handelsblatt.com/finanzen/maerkte/marktberichte/nikkei-topix-csi-300-asiens-boersen-geben-nach-us-chip-sanktionen-und-nvidia-belasten/100270404.html",
+     "image": "https://images.handelsblatt.com/4S2TOTbRscEy/cover/900/506/0/0/313/312/0.5/0.5/archiv-27.04.2023-japan-tokio-eine-person-geht-in-tokio-zum-gebaeude-der-tokioter-boerse.-die-akt.jpg",
+     "aggregator": false,
+     "published": "2026-11-17T09:32:39+00:00"
+    }
+   ]
+  },
+  {
+   "id": 14,
+   "score": 10.53,
+   "outlets": [
+    "tagesschau",
+    "WELT"
+   ],
+   "regions": [
+    "DE"
+   ],
+   "trend": [
+    "Pro & Contra: Sollte die Koalition die Stromsteuer senken – oder andere Prioritäten setzen?"
+   ],
+   "newest": "2026-11-17T09:48:13+00:00",
+   "articles": [
+    {
+     "source": "tagesschau",
+     "region": "DE",
+     "weight": 1.0,
+     "title": "Koalitionsausschuss berät über Stromsteuer",
+     "summary": "Koalitionsausschuss berät über Stromsteuer",
+     "link": "https://www.tagesschau.de/video/video-1685106.html",
+     "image": "https://images.tagesschau.de/image/ec0c645b-58bc-4cdc-8cc8-959f9071e66c/AAABoegUAHQ/AAABnSSvrFg/16x9-big/sendungsbild-1828558.jpg?width=1920",
+     "aggregator": false,
+     "published": "2026-11-17T05:56:38+00:00"
+    },
+    {
+     "source": "tagesschau",
+     "region": "DE",
+     "weight": 1.0,
+     "title": "Merz erwartet Einigung zur Stromsteuer im Koalitionsausschuss",
+     "summary": "Die Bundesregierung will die Stromsteuer senken - bislang war jedoch unklar, wie das gegenfinanziert werden soll. Jetzt gibt es offenbar eine Möglichkeit: Kanzler Merz zeigte sich sicher, dass sich SPD und Union morgen einigen.",
+     "link": "https://www.tagesschau.de/inland/innenpolitik/merz-stromsteuer-100.html",
+     "image": "https://images.tagesschau.de/image/08258aaa-6bc7-4587-8e53-9d190092cf87/AAABoeRlSGU/AAABnSSvrFg/16x9-big/merz-1800.jpg?width=1920",
+     "aggregator": false,
+     "published": "2026-11-16T12:46:45+00:00"
+    },
+    {
+     "source": "tagesschau",
+     "region": "DE",
+     "weight": 1.0,
+     "title": "Söder hält Stromsteuersenkung doch noch für möglich",
+     "summary": "Morgen ist die umstrittene Stromsteuer Thema im Koalitionsausschuss. CSU-Chef Söder glaubt noch an eine Einigung und nennt Möglichkeiten, die Milliarden für eine Senkung aufzutreiben. An ein Thema will er aber nicht ran.",
+     "link": "https://www.tagesschau.de/inland/innenpolitik/haushalt-soeder-stromsteuer-moeglich-koalition-muetterrente-100.html",
+     "image": "https://images.tagesschau.de/image/ca4aa1b0-8301-4ef3-ab6d-932ee4364e56/AAABoJpbmPk/AAABnSSvrFg/16x9-big/soeder-merz-122.jpg?width=1920",
+     "aggregator": false,
+     "published": "2026-11-16T08:24:05+00:00"
+    },
+    {
+     "source": "tagesschau Inland",
+     "region": "DE",
+     "weight": 1.0,
+     "title": "Merz erwartet Einigung zur Stromsteuer im Koalitionsausschuss",
+     "summary": "Die Bundesregierung will die Stromsteuer senken - bislang war jedoch unklar, wie das gegenfinanziert werden soll. Jetzt gibt es offenbar eine Möglichkeit: Kanzler Merz zeigte sich sicher, dass sich SPD und Union morgen einigen.",
+     "link": "https://www.tagesschau.de/inland/innenpolitik/merz-stromsteuer-100.html",
+     "image": "https://images.tagesschau.de/image/08258aaa-6bc7-4587-8e53-9d190092cf87/AAABoeRlSGU/AAABnSSvrFg/16x9-big/merz-1800.jpg?width=1920",
+     "aggregator": false,
+     "published": "2026-11-16T12:46:45+00:00"
+    },
+    {
+     "source": "tagesschau Inland",
+     "region": "DE",
+     "weight": 1.0,
+     "title": "Söder hält Stromsteuersenkung doch noch für möglich",
+     "summary": "Morgen ist die umstrittene Stromsteuer Thema im Koalitionsausschuss. CSU-Chef Söder glaubt noch an eine Einigung und nennt Möglichkeiten, die Milliarden für eine Senkung aufzutreiben. An ein Thema will er aber nicht ran.",
+     "link": "https://www.tagesschau.de/inland/innenpolitik/haushalt-soeder-stromsteuer-moeglich-koalition-muetterrente-100.html",
+     "image": "https://images.tagesschau.de/image/ca4aa1b0-8301-4ef3-ab6d-932ee4364e56/AAABoJpbmPk/AAABnSSvrFg/16x9-big/soeder-merz-122.jpg?width=1920",
+     "aggregator": false,
+     "published": "2026-11-16T08:24:05+00:00"
+    },
+    {
+     "source": "WELT",
+     "region": "DE",
+     "weight": 0.8,
+     "title": "„Das was der Finanzminister da macht, grenzt an Arbeitsverweigerung“",
+     "summary": "Vor dem Koalitionsausschuss drängen Friedrich Merz und Markus Söder auf eine Senkung der Stromsteuer. Weil die Gegenfinanzierung der fünf Milliarden Euro weiter unklar bleibt, kritisiert „Bild“-Politik-Chefautor Peter Tiede das Finanzministerium deutlich.",
+     "link": "https://www.welt.de/politik/video6afc13029893cadb7bd158f2/peter-tiede-das-was-der-finanzminister-da-macht-grenzt-an-arbeitsverweigerung.html",
+     "image": "https://images.welt.de/6afc13029893cadb7bd158f2/82350d960c17f9349b97cb23b0098369/ci16x9-w1200/tiede-png",
+     "aggregator": false,
+     "published": "2026-11-17T09:48:13+00:00"
+    }
+   ]
+  },
+  {
+   "id": 15,
+   "score": 10.13,
+   "outlets": [
+    "Süddeutsche",
+    "Handelsblatt",
+    "WirtschaftsWoche"
+   ],
+   "regions": [
+    "DE"
+   ],
+   "trend": [],
+   "newest": "2026-11-17T10:06:00+00:00",
+   "articles": [
+    {
+     "source": "Süddeutsche",
+     "region": "DE",
+     "weight": 0.9,
+     "title": "USA: Neue US-Einschränkungen für Export von KI-Chips",
+     "summary": "Die USA wollen China bei der Entwicklung von KI bremsen. Deshalb verschärft die Trump-Regierung nun die Regeln für den Export von KI-Chips in bestimmte Länder. Allerdings scheint man sich intern nicht einig zu sein.",
+     "link": "https://www.sueddeutsche.de/politik/usa-news-liveblog-ki-nvidia-china-export-handel-lutnick-bessent-trump-halbleiter-nvidia-li.3578585",
+     "image": "https://www.sueddeutsche.de/2026/11/17/f70770aa-d26a-4585-a873-bd5955a83e05.jpg?rect=659%2C253%2C2896%2C2172&width=1000&fm=jpg&q=60",
+     "aggregator": false,
+     "published": "2026-11-17T02:01:23+00:00"
+    },
+    {
+     "source": "Handelsblatt",
+     "region": "DE",
+     "weight": 0.9,
+     "title": "Rivalität mit China: Neue US-Einschränkungen für Export von KI-Chips",
+     "summary": "Die US-Regierung verbietet den Export moderner Chips etwa von Nvidia nach China. Und doch haben chinesische Stellen manchmal Zugriff darauf. Verschärfte Exportregeln sollen das verhindern.",
+     "link": "https://www.handelsblatt.com/technik/it-internet/rivalitaet-mit-china-neue-us-einschraenkungen-fuer-export-von-ki-chips/100270383.html",
+     "image": "https://images.handelsblatt.com/d6xihx29dUrN/cover/900/506/0/0/107/106/0.5/0.5/jensen-huang-bei-nvidia-entwicklerkonferenz-gtc.jpg",
+     "aggregator": false,
+     "published": "2026-11-17T10:06:00+00:00"
+    },
+    {
+     "source": "WirtschaftsWoche",
+     "region": "DE",
+     "weight": 0.85,
+     "title": "Nach Nvidia-Affäre: Neue US-Einschränkungen für Export von KI-Chips",
+     "summary": "Die US-Regierung verbietet den Export moderner Chips etwa von Nvidia nach China. Und doch haben chinesische Stellen manchmal Zugriff darauf. Verschärfte Exportregeln sollen das verhindern.",
+     "link": "https://www.wiwo.de/politik/ausland/kuenstliche-intelligenz-neue-us-einschraenkungen-fuer-export-von-ki-chips/100270430.html",
+     "image": "https://images.wiwo.de/V3pQuVvGoJfM/cover/900/506/0/0/313/312/0.5/0.5/archiv-18.03.2025-usa-san-jose-ceo-jensen-huang-spricht-waehrend-der-keynote-auf-der-nvidia-gtc..jpg",
+     "aggregator": false,
+     "published": "2026-11-17T07:20:00+00:00"
+    }
+   ]
+  },
+  {
+   "id": 16,
+   "score": 9.87,
+   "outlets": [
+    "tagesschau",
+    "Deutsche Welle",
+    "n-tv",
+    "SZ.de"
+   ],
+   "regions": [
+    "DE",
+    "INT"
+   ],
+   "trend": [],
+   "newest": "2026-11-17T09:54:08+00:00",
+   "articles": [
+    {
+     "source": "tagesschau",
+     "region": "DE",
+     "weight": 1.0,
+     "title": "Protest Tokios in Moskau - Mutmaßlich russische Jets im japanischen Luftraum",
+     "summary": "Japan hat das Eindringen zweier mutmaßlich russischer Flugzeuge in den Luftraum des Landes gemeldet. Das Militär ließ Abfangjäger aufsteigen. Auch Südkorea und Taiwan meldeten Zwischenfälle mit russischen Jets.",
+     "link": "https://www.tagesschau.de/ausland/asien/japan-russland-luftraumverletzung-100.html",
+     "image": "https://images.tagesschau.de/image/816aabd3-0428-4ceb-b956-282236092e48/AAABoejswE8/AAABnSSvrFg/16x9-big/f-15-kampfflugzeuge-japan-100.jpg?width=1920",
+     "aggregator": false,
+     "published": "2026-11-17T09:54:08+00:00"
+    },
+    {
+     "source": "tagesschau Ausland",
+     "region": "INT",
+     "weight": 1.0,
+     "title": "Protest Tokios in Moskau - Mutmaßlich russische Jets im japanischen Luftraum",
+     "summary": "Japan hat das Eindringen zweier mutmaßlich russischer Flugzeuge in den Luftraum des Landes gemeldet. Das Militär ließ Abfangjäger aufsteigen. Auch Südkorea und Taiwan meldeten Zwischenfälle mit russischen Jets.",
+     "link": "https://www.tagesschau.de/ausland/asien/japan-russland-luftraumverletzung-100.html",
+     "image": "https://images.tagesschau.de/image/816aabd3-0428-4ceb-b956-282236092e48/AAABoejswE8/AAABnSSvrFg/16x9-big/f-15-kampfflugzeuge-japan-100.jpg?width=1920",
+     "aggregator": false,
+     "published": "2026-11-17T09:54:08+00:00"
+    },
+    {
+     "source": "Deutsche Welle",
+     "region": "INT",
+     "weight": 0.95,
+     "title": "Japan beklagt Verletzung des Luftraums durch russische Jets",
+     "summary": "Zwei mutmaßlich russische Flugzeuge seien nahe der Insel Okinoshima in den japanischen Luftraum eingedrungen, heißt es aus Tokio. Die japanische Luftwaffe habe reagiert.",
+     "link": "https://www.dw.com/de/japan-beklagt-verletzung-des-luftraums-durch-russische-jets/a-79965537?maca=de-rss-de-all-1119-xml-mrss",
+     "image": "https://static.dw.com/image/79964587_302.jpg",
+     "aggregator": false,
+     "published": "2026-11-17T09:04:00+00:00"
+    },
+    {
+     "source": "n-tv",
+     "region": "DE",
+     "weight": 0.8,
+     "title": "Kampfflugzeuge steigen auf: Japan wirft Russland Verletzung seines Luftraums vor",
+     "summary": "Tokio spricht von einer \"Bedrohung für unsere Sicherheit\": Zwei mutmaßlich russische Flugzeuge sollen in den japanischen Luftraum eingedrungen sein. Die Spannungen zwischen beiden Ländern hatten zuletzt zugenommen. Auch Südkorea meldet einen ähnlichen Vorfall.",
+     "link": "https://www.n-tv.de/politik/Japan-wirft-Russland-Verletzung-seines-Luftraums-vor-id31541597.html",
+     "image": "https://www.n-tv.de/img/31541640/1794896500/Img_4_3/250/AFP__20250923__76G73Z7__v1__HighRes__GermanyNatoAviationAirDefence.jpg",
+     "aggregator": false,
+     "published": "2026-11-17T05:31:13+00:00"
+    },
+    {
+     "source": "SZ.de",
+     "region": "DE",
+     "weight": 0.6,
+     "title": "Mehrere Vorfälle mit russischen Fliegern vor Wirtschaftsgipfel in Asien - Politik - SZ.de",
+     "summary": "Mehrere Vorfälle mit russischen Fliegern vor Wirtschaftsgipfel in Asien - Politik - SZ.de SZ.de Protest Tokios in Moskau - Mutmaßlich russische Jets im japanischen Luftraum tagesschau.de Kurz vor Apec: Mehrere Vorfälle mit russischen Fliegern in Region taz.de Japan wirft Russland Luftraumverletzung mit Kampfflugzeugen vor FAZ Tokio: Zwei russische Flugzeuge in japanischen Luftraum eingedrungen WELT",
+     "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQZXFUblgwRS10R2pwSGYzZHh3Mkpub0VfelhCSFVFdFdRSFV6U2Zoa2ZLYlBTd285bktod1BGWnhHVlIwUEVwQzlPMDdubHlhMUZNYXotMk5WWjBubHR4RXpqTXg5b0psN1pGaFoyNXJwdXhsaWdRNE03Z0VNSl9PMGNlRlpUMVZqMllHN2M0cXFYZXR6YVlV?oc=5",
+     "image": null,
+     "aggregator": true,
+     "published": "2026-11-17T09:03:46+00:00"
+    }
+   ]
+  },
+  {
+   "id": 17,
+   "score": 9.59,
+   "outlets": [
+    "Süddeutsche",
+    "heise online"
+   ],
+   "regions": [
+    "DE"
+   ],
+   "trend": [
+    "Comeback bei der Heim-WM? Pekeler spricht über Rückkehr"
+   ],
+   "newest": "2026-11-17T06:22:00+00:00",
+   "articles": [
+    {
+     "source": "Süddeutsche",
+     "region": "DE",
+     "weight": 0.9,
+     "title": "Chipkonzern: Jensen Huang spricht über Rückkehr an Nvidia-Spitze",
+     "summary": "Der zurückgetretene Firmenchef galt bis zu seinem Abgang als nahezu unersetzlich bei Nvidia. Nun gibt es einem Bericht zufolge Bestrebungen, ihn wieder einzusetzen. Aber wie soll das funktionieren?",
+     "link": "https://www.sueddeutsche.de/wirtschaft/jensen-huang-nvidia-affaere-rueckkehr-chef-li.3580971",
+     "image": "https://www.sueddeutsche.de/2026/11/16/81e8ab43-bcec-4171-8a9d-be0f36346684.jpg?rect=798%2C70%2C2701%2C2026&width=1000&fm=jpg&q=60",
+     "aggregator": false,
+     "published": "2026-11-16T18:35:08+00:00"
+    },
+    {
+     "source": "heise online",
+     "region": "DE",
+     "weight": 0.85,
+     "title": "Trotz Trump-Unterstützung: Keine Rückkehr für Nvidia-Gründer Huang",
+     "summary": "Trotz des Drucks von Verbündeten plant Nvidia laut Medienberichten nicht, den zurückgetretenen Mitgründer Jensen Huang als Chef zurückzuholen.",
+     "link": "https://www.heise.de/news/Bericht-Nvidia-hat-keine-Plaene-fuer-Rueckkehr-Huangs-als-Chef-11527137.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
+     "image": null,
+     "aggregator": false,
+     "published": "2026-11-17T06:22:00+00:00"
+    }
+   ]
+  },
+  {
+   "id": 18,
+   "score": 9.5,
+   "outlets": [
+    "ORF",
+    "WirtschaftsWoche",
+    "DER STANDARD"
+   ],
+   "regions": [
+    "AT",
+    "DE"
+   ],
+   "trend": [],
+   "newest": "2026-11-17T08:12:00+00:00",
+   "articles": [
+    {
+     "source": "ORF",
+     "region": "AT",
+     "weight": 0.95,
+     "title": "USA ermitteln seit 2024 gegen Nvidia-Partner Megaspeed",
+     "summary": "",
+     "link": "https://orf.at/stories/3448411/",
+     "image": null,
+     "aggregator": false,
+     "published": "2026-11-17T05:52:40+00:00"
+    },
+    {
+     "source": "WirtschaftsWoche",
+     "region": "DE",
+     "weight": 0.85,
+     "title": "Nvidia-Skandal: US-Behörden veröffentlichen Details zu Ermittlungen gegen Nvidia-Partner Megaspeed",
+     "summary": "Der Spionageverdacht um den Nvidia-Partner Megaspeed zieht weitere Kreise. US-Behörden ermitteln bereits seit 2024.",
+     "link": "https://www.wiwo.de/politik/ausland/nvidia-skandal-us-behoerden-veroeffentlichen-details-zu-megaspeed-ermittlungen/100270455.html",
+     "image": "https://images.wiwo.de/LELk7GoYWSG4/cover/900/506/0/0/260/260/0.5/0.5/file-photo-the-ocean-financial-centre-building-where-the-registered-office-address-of-singapore-ba.jpg",
+     "aggregator": false,
+     "published": "2026-11-17T08:12:00+00:00"
+    },
+    {
+     "source": "DER STANDARD",
+     "region": "AT",
+     "weight": 0.85,
+     "title": "US-Behörden ermitteln seit 2024 gegen Nvidia-Partner Megaspeed",
+     "summary": "Ermittelt wurde wegen möglicher Verstöße gegen Exportkontrollen",
+     "link": "https://www.derstandard.at/story/3000000349566/us-beh246rden-ermitteln-seit-2024-gegen-nvidia-partner-megaspeed?ref=rss",
+     "image": "https://i.ds.at/A9CZYg/rs:fill:150:0/plain/lido-images/2026/11/17/dd78bd66-4a87-403f-a689-61bc8f49bf5a.jpg",
+     "aggregator": false,
+     "published": "2026-11-17T05:38:44+00:00"
+    }
+   ]
+  },
+  {
+   "id": 19,
+   "score": 9.37,
+   "outlets": [
+    "Deutschlandfunk",
+    "SPIEGEL",
+    "DER STANDARD"
+   ],
+   "regions": [
+    "AT",
+    "DE"
+   ],
+   "trend": [],
+   "newest": "2026-11-17T10:31:46+00:00",
+   "articles": [
+    {
+     "source": "Deutschlandfunk",
+     "region": "DE",
+     "weight": 0.95,
+     "title": "Handelspolitik - China und Kanada vereinbaren weitere Zollerleichterungen",
+     "summary": "China und Kanada haben weitere Zollerleichterungen vereinbart.",
+     "link": "https://www.deutschlandfunk.de/china-und-kanada-vereinbaren-weitere-zollerleichterungen-100.html",
+     "image": "https://bilder.deutschlandfunk.de/7f/95/b9/c0/7f95b9c0-5908-4ffc-81e1-4af920fa017d/carney-xi-kanada-china-shenzhen-100-1920x1920.jpg",
+     "aggregator": false,
+     "published": "2026-11-17T10:31:46+00:00"
+    },
+    {
+     "source": "SPIEGEL",
+     "region": "DE",
+     "weight": 0.9,
+     "title": "Kanada und China unterlaufen Trumps Zollpolitik mit Zollerleichterungen",
+     "summary": "Mit Zollerleichterungen auf Produkte wie Lebensmittel und Stahl wollen China und Kanada ihre Zusammenarbeit vertiefen. Den beiden Ländern geht es auch darum, die US-Zollpolitik zu unterlaufen.",
+     "link": "https://www.spiegel.de/wirtschaft/kanada-und-china-unterlaufen-trumps-zollpolitik-mit-zollerleichterungen-a-3eeca7f4-6869-4bce-a9e0-58a8a9f5c309#ref=rss",
+     "image": "https://cdn.prod.www.spiegel.de/images/efdb8682-bfa9-4141-8116-fb8ff8263115_w520_r2.08_fpx32.9_fpy49.98.jpg",
+     "aggregator": false,
+     "published": "2026-11-17T06:44:00+00:00"
+    },
+    {
+     "source": "DER STANDARD",
+     "region": "AT",
+     "weight": 0.85,
+     "title": "China und Kanada vereinbarten weitere Zollerleichterungen",
+     "summary": "Während beide mit der US-Regierung streiten, bauen China und Kanada ihre Handelsbeziehungen weiter aus. Der Zollkonflikt mit Donald Trump treibt ihre Annäherung voran",
+     "link": "https://www.derstandard.at/story/3000000349573/china-und-kanada-vereinbarten-weitere-zollerleichterungen?ref=rss",
+     "image": "https://i.ds.at/aE-D0g/rs:fill:150:0/plain/lido-images/2026/11/17/4ecfdd23-bcd4-4001-9200-20393214fce4.jpg",
+     "aggregator": false,
+     "published": "2026-11-17T06:39:44+00:00"
+    }
+   ]
+  },
+  {
+   "id": 20,
+   "score": 9.27,
+   "outlets": [
+    "Deutschlandfunk",
+    "SPIEGEL",
+    "n-tv"
+   ],
+   "regions": [
+    "DE"
+   ],
+   "trend": [],
+   "newest": "2026-11-17T10:31:46+00:00",
+   "articles": [
+    {
+     "source": "Deutschlandfunk",
+     "region": "DE",
+     "weight": 0.95,
+     "title": "Defektes Stellwerk - Weiter massive Störungen auf Bahnstrecke Berlin-Hannover",
+     "summary": "Wegen eines defekten Stellwerks im Raum Magdeburg kommt es weiter zu Störungen auf der Bahnstrecke zwischen Berlin und Hannover.",
+     "link": "https://www.deutschlandfunk.de/weiter-massive-stoerungen-auf-bahnstrecke-berlin-hannover-100.html",
+     "image": null,
+     "aggregator": false,
+     "published": "2026-11-17T10:31:46+00:00"
+    },
+    {
+     "source": "SPIEGEL",
+     "region": "DE",
+     "weight": 0.9,
+     "title": "Deutsche Bahn: Bahnverkehr auf der Strecke Berlin-Hannover massiv gestört",
+     "summary": "Ein Mähfahrzeug hat offenbar Bahntechnik beschädigt: Zwischen Hannover und Berlin müssen die Menschen sich gerade auf zusätzliche Probleme einstellen. Die Reise auf der Strecke dauert ohnehin schon länger als gewöhnlich.",
+     "link": "https://www.spiegel.de/panorama/justiz/deutsche-bahn-bahnverkehr-auf-der-strecke-berlin-hannover-massiv-gestoert-a-83697693-dcb4-4de9-a040-008e91e83045#ref=rss",
+     "image": "https://cdn.prod.www.spiegel.de/images/08fee13c-3897-4a38-8b17-d0996bfe3273_w520_r2.08_fpx26.08_fpy54.99.jpg",
+     "aggregator": false,
+     "published": "2026-11-17T08:27:00+00:00"
+    },
+    {
+     "source": "n-tv",
+     "region": "DE",
+     "weight": 0.8,
+     "title": "Verspätungen und Ausfälle: Massive Störungen auf Bahnstrecke Berlin - Hannover dauern an",
+     "summary": "Bahnkunden müssen wieder einmal Geduld beweisen. Auf der Bahnverbindung zwischen Berlin und Hannover herrscht weiterhin Chaos. Fernverkehrszüge werden weiträumig über Hamburg umgeleitet.",
+     "link": "https://www.n-tv.de/panorama/Massive-Stoerungen-auf-Bahnstrecke-Berlin-Hannover-dauern-an-id31542101.html",
+     "image": "https://www.n-tv.de/img/31542242/1794907687/Img_4_3/250/625132822.jpg",
+     "aggregator": false,
+     "published": "2026-11-17T10:01:31+00:00"
+    }
+   ]
+  },
+  {
+   "id": 21,
+   "score": 9.07,
+   "outlets": [
+    "Deutschlandfunk",
+    "WELT",
+    "n-tv"
+   ],
+   "regions": [
+    "DE"
+   ],
+   "trend": [],
+   "newest": "2026-11-17T10:31:46+00:00",
+   "articles": [
+    {
+     "source": "Deutschlandfunk",
+     "region": "DE",
+     "weight": 0.95,
+     "title": "Berlin - Hisbollah-naher Verein verboten - Durchsuchungen",
+     "summary": "Die Berliner Senatsverwaltung für Inneres geht gegen einen Hisbollah-nahen Verein vor.",
+     "link": "https://www.deutschlandfunk.de/hisbollah-naher-verein-verboten-durchsuchungen-102.html",
+     "image": "https://bilder.deutschlandfunk.de/FI/LE/_a/34/FILE_a34fef3498a6583fe2846e641fa92fec/121251737-jpg-100-768x768.jpg",
+     "aggregator": false,
+     "published": "2026-11-17T10:31:46+00:00"
+    },
+    {
+     "source": "WELT",
+     "region": "DE",
+     "weight": 0.8,
+     "title": "„Plattform zur Verbreitung ihrer Propaganda“ – Berlin verbietet Hisbollah-nahen Moscheeverein",
+     "summary": "Sechs Jahre nach dem Verbot der Terrororganisation Hisbollah durch das Bundesinnenministerium schließt die Berliner Landesregierung einen der wichtigsten Treffpunkte der Organisation.",
+     "link": "https://www.welt.de/politik/deutschland/video6afc276b028f6e41ab3f2559/extremismus-plattform-zur-verbreitung-ihrer-propaganda-berlin-verbietet-hisbollah-nahen-moscheeverein.html",
+     "image": "https://images.welt.de/6afc276b028f6e41ab3f2559/666802f6c7967a663dcdf1129060e64d/ci16x9-w1200/dpa-com-261117-936-147971-jpg",
+     "aggregator": false,
+     "published": "2026-11-17T10:11:27+00:00"
+    },
+    {
+     "source": "WELT",
+     "region": "DE",
+     "weight": 0.8,
+     "title": "„Plattform zur Verbreitung ihrer Propaganda“ – Berlin verbietet Hisbollah-nahen Moscheeverein",
+     "summary": "Die Organisation unterstütze die terroristische Hisbollah im Libanon organisatorisch und finanziell: Die Berliner Senatsverwaltung hat den Moscheeverein El-Irschad verboten. Mit dem Schritt hatte sie sich Zeit gelassen.",
+     "link": "https://www.welt.de/politik/deutschland/article6afc01babfa018bfcc989c4e/extremismus-plattform-zur-verbreitung-ihrer-propaganda-berlin-verbietet-hisbollah-nahen-moscheeverein.html",
+     "image": "https://images.welt.de/6afc01babfa018bfcc989c4e/938eb82d5a3a3188a15af168fe91f2fc/ci23x11-w1200/dpa-com-261117-936-147971-jpg",
+     "aggregator": false,
+     "published": "2026-11-17T07:55:23+00:00"
+    },
+    {
+     "source": "n-tv",
+     "region": "DE",
+     "weight": 0.8,
+     "title": "Razzien gegen Mitglieder: Berlin verbietet Verein wegen Hisbollah-Unterstützung",
+     "summary": "Am Morgen durchsuchen Polizisten in Berlin Räume des Vereins El-Irschad. Der Vorwurf: Er unterstütze die Hisbollah im Libanon organisatorisch und finanziell und soll ihr eine \"Plattform zur Verbreitung ihrer Propaganda\" geboten haben.",
+     "link": "https://www.n-tv.de/politik/Berlin-verbietet-Verein-wegen-Hisbollah-Unterstuetzung-id31541919.html",
+     "image": "https://www.n-tv.de/img/31541970/1794903737/Img_4_3/250/633492355.jpg",
+     "aggregator": false,
+     "published": "2026-11-17T09:02:53+00:00"
+    }
+   ]
+  },
+  {
+   "id": 22,
+   "score": 8.85,
+   "outlets": [
+    "tagesschau Inland",
+    "ZDFheute"
+   ],
+   "regions": [
+    "DE"
+   ],
+   "trend": [],
+   "newest": "2026-11-17T10:10:00+00:00",
+   "articles": [
+    {
+     "source": "tagesschau Inland",
+     "region": "DE",
+     "weight": 1.0,
+     "title": "Heil zum angestrebten SPD-Vorsitz: \"Habe viel Zuspruch aus der Partei\"",
+     "summary": "Die SPD sucht eine neue Parteispitze. Erster Bewerber ist Hubertus Heil. Er bekomme viel Zuspruch aus der Partei, sagte er im Bericht aus Berlin. Auch zu Vizekanzler Klingbeil äußerte er sich. Offen ließ Heil, mit welcher Frau er kandidieren will.",
+     "link": "https://www.tagesschau.de/inland/innenpolitik/heil-spd-kandidatur-100.html",
+     "image": "https://images.tagesschau.de/image/f962e541-2509-42bb-a115-4ea9044ea8ec/AAABoeA8Lts/AAABnSSvrFg/16x9-big/sendungsbild-1827956.jpg?width=1920",
+     "aggregator": false,
+     "published": "2026-11-15T18:44:55+00:00"
+    },
+    {
+     "source": "ZDFheute",
+     "region": "DE",
+     "weight": 1.0,
+     "title": "Das \"Krokodil\": Heil auf der Jagd nach dem Parteivorsitz",
+     "summary": "Hubertus Heil will Parteivorsitzender der SPD werden. Seine Chancen - noch sehr überschaubar. Aber Heil hat nichts zu verlieren. Und jetzt meldet sich Franziska Giffey zu Wort.",
+     "link": "https://www.zdfheute.de/politik/spd-vorsitz-heil-giffey-schwesig-klingbeil-100.html",
+     "image": "https://www.zdfheute.de/assets/spd-giffey-heil-100~384x216?cb=1794907389408",
+     "aggregator": false,
+     "published": "2026-11-17T10:10:00+00:00"
+    }
+   ]
+  },
+  {
+   "id": 23,
+   "score": 8.84,
+   "outlets": [
+    "Süddeutsche",
+    "WELT",
+    "n-tv"
+   ],
+   "regions": [
+    "DE"
+   ],
+   "trend": [],
+   "newest": "2026-11-17T10:06:42+00:00",
+   "articles": [
+    {
+     "source": "Süddeutsche",
+     "region": "DE",
+     "weight": 0.9,
+     "title": "5:0 gegen die Niederlande: Renaissance der Nationalelf",
+     "summary": "Fünf Traumtore zum Jahresabschluss: Nach dem WM-Frust zeigt das DFB-Team unter dem neuen Bundestrainer Jürgen Klopp gegen die Niederlande das beste Spiel seit Jahren.",
+     "link": "https://www.sueddeutsche.de/sport/nations-league-deutschland-sieg-niederlande-juergen-klopp-li.3581646",
+     "image": "https://www.sueddeutsche.de/2026/11/16/4cf9ed2b-981c-4622-b329-0d20000702d4.jpg?rect=178%2C102%2C2328%2C1746&width=1000&fm=jpg&q=60",
+     "aggregator": false,
+     "published": "2026-11-16T22:02:21+00:00"
+    },
+    {
+     "source": "WELT",
+     "region": "DE",
+     "weight": 0.8,
+     "title": "„Maximal Regionalliga“ – Scherhants Genugtuung nach dem Traumtor",
+     "summary": "Verkannt in Berlin, durchgestartet in Freiburg – und bei Jürgen Klopp. Derry Scherhant zählt beim neuen Bundestrainer zu den Gewinnern. Dabei gab es nicht wenige, die dem Außenstürmer keine Profikarriere zugetraut haben.",
+     "link": "https://www.welt.de/sport/fussball/article6afc0b63028f6e41ab3f20da/deutschland-niederlande-maximal-regionalliga-scherhants-emotionale-abrechnung.html",
+     "image": "https://images.welt.de/6afc0b63028f6e41ab3f20da/ab9799f483102e4e7f038c65cf8c3836/ci23x11-w1200/1794862543604-afp-d7na9rz-jpg",
+     "aggregator": false,
+     "published": "2026-11-17T10:06:42+00:00"
+    },
+    {
+     "source": "n-tv",
+     "region": "DE",
+     "weight": 0.8,
+     "title": "\"Endspiel\" gegen die Niederlande: Jürgen Klopp tauscht zwei DFB-Spieler aus",
+     "summary": "Zwei Veränderungen in der deutschen Startelf: Nach dem Sieg gegen Serbien baut Bundestrainer Jürgen Klopp die Abwehr des DFB-Teams um. Zwei von vier Spielern werden ausgetauscht.",
+     "link": "https://www.n-tv.de/sport/fussball/Juergen-Klopp-tauscht-zwei-DFB-Spieler-aus-id31540820.html",
+     "image": "https://www.n-tv.de/img/31536514/1794770240/Img_4_3/250/633196213.jpg",
+     "aggregator": false,
+     "published": "2026-11-16T18:38:42+00:00"
+    }
+   ]
+  },
+  {
+   "id": 24,
+   "score": 8.72,
+   "outlets": [
+    "ZDFheute",
+    "ZEIT ONLINE"
+   ],
+   "regions": [
+    "DE"
+   ],
+   "trend": [],
+   "newest": "2026-11-17T10:21:15+00:00",
+   "articles": [
+    {
+     "source": "ZDFheute",
+     "region": "DE",
+     "weight": 1.0,
+     "title": "Rede UN-Generalsekretär Guterres auf der COP31",
+     "summary": "Rede von UN-Generalsekretär António Guterres auf der Weltklimakonferenz COP31 in Antalya",
+     "link": "https://www.phoenix.de/php/mediaplayer/vod_embed.php?cmsid=5247944",
+     "image": "https://www.zdfheute.de/assets/teaser-phoenix-rede-un-generalsekretaer-guterres-auf-der-cop31-5247944-100~384x216?cb=1794589447394",
+     "aggregator": false,
+     "published": "2026-11-13T16:51:00+00:00"
+    },
+    {
+     "source": "ZEIT ONLINE",
+     "region": "DE",
+     "weight": 0.9,
+     "title": "UN-Klimakonferenz COP31: Umweltminister fordert konkrete Ergebnisse bei Weltklimakonferenz",
+     "summary": "Carsten Schneider dringt in Antalya auf Fortschritte beim Ausstieg aus fossilen Energien. Zudem spricht er sich für eine Übergewinnsteuer für Ölkonzerne aus.",
+     "link": "https://www.zeit.de/wissenschaft/umwelt/2026-11/un-klimakonferenz-cop31-carsten-schneider-antalia-fossile-energietraeger-gxe",
+     "image": "https://img.zeit.de/wissenschaft/umwelt/2026-11/un-klimakonferenz-cop31-carsten-schneider-antalia-fossile-energietraeger-gxe-foto-1/original__640x360",
+     "aggregator": false,
+     "published": "2026-11-17T10:21:15+00:00"
+    }
+   ]
+  },
+  {
+   "id": 25,
+   "score": 8.67,
+   "outlets": [
+    "Deutschlandfunk",
+    "SPIEGEL"
+   ],
+   "regions": [
+    "DE"
+   ],
+   "trend": [],
+   "newest": "2026-11-17T10:31:46+00:00",
+   "articles": [
+    {
+     "source": "Deutschlandfunk",
+     "region": "DE",
+     "weight": 0.95,
+     "title": "VAP - Seitenhieb gegen deutsche Medien: Merz lobt ausländische Presse",
+     "summary": "Bundeskanzler Merz findet Deutschland in Medien anderer Länder positiver dargestellt als in der heimischen Presse.",
+     "link": "https://www.deutschlandfunk.de/seitenhieb-gegen-deutsche-medien-merz-lobt-auslaendische-presse-100.html",
+     "image": "https://bilder.deutschlandfunk.de/ed/2a/d5/9e/ed2ad59e-56fb-438a-a770-c8707bb24c20/bundeskanzler-merz-120-1920x1920.jpg",
+     "aggregator": false,
+     "published": "2026-11-17T10:31:46+00:00"
+    },
+    {
+     "source": "SPIEGEL",
+     "region": "DE",
+     "weight": 0.9,
+     "title": "Deutschland: Friedrich Merz lobt ausländische Medien für ein »deutlich positiveres« Deutschlandbild",
+     "summary": "Friedrich Merz lobt die Darstellung Deutschlands, die internationale Journalisten verbreiten. Der Kanzler spekulierte zugleich darüber, warum die Berichterstattung im Inland deutlich weniger positiv ausfällt.",
+     "link": "https://www.spiegel.de/politik/deutschland/deutschland-friedrich-merz-lobt-auslaendische-medien-fuer-ein-deutlich-positiveres-deutschlandbild-a-37e0819d-1ecd-487b-bdd4-21bb7c353c9f#ref=rss",
+     "image": "https://cdn.prod.www.spiegel.de/images/43c6815d-dabd-4ba4-88f8-f750effddf9d_w520_r2.08_fpx31.05_fpy55.jpg",
+     "aggregator": false,
+     "published": "2026-11-17T09:26:00+00:00"
+    }
+   ]
+  },
+  {
+   "id": 26,
+   "score": 8.67,
+   "outlets": [
+    "Deutschlandfunk",
+    "SPIEGEL"
+   ],
+   "regions": [
+    "DE"
+   ],
+   "trend": [],
+   "newest": "2026-11-17T10:31:46+00:00",
+   "articles": [
+    {
+     "source": "Deutschlandfunk",
+     "region": "DE",
+     "weight": 0.95,
+     "title": "Erhebung - Wegen Trump: Immer weniger ausländische Studierende in den USA",
+     "summary": "Die Zahl der ausländischen Studierenden in den USA nimmt weiter ab. Das geht aus einer Erhebung zum Semesterstart hervor. Der Rückgang wird vor allem auf die Politik der US-Regierung zurückgeführt.",
+     "link": "https://www.deutschlandfunk.de/wegen-trump-immer-weniger-auslaendische-studierende-in-den-usa-108.html",
+     "image": "https://bilder.deutschlandfunk.de/NO/VA/_d/1c/NOVA_d1c3388adc62d2ac0596d01fbe8ef8aa/craft-12286115-asset-100-1920x1920.jpg",
+     "aggregator": false,
+     "published": "2026-11-17T10:31:46+00:00"
+    },
+    {
+     "source": "SPIEGEL",
+     "region": "DE",
+     "weight": 0.9,
+     "title": "USA: Universitäten verzeichnen Rückgang internationaler Studierender",
+     "summary": "Neun Prozent weniger internationale Studierende, bei den Neuankömmlingen sogar ein Minus von 15 Prozent – Trumps Politik zeigt Folgen an den Universitäten der USA. Diese streichen nun Studiengänge.",
+     "link": "https://www.spiegel.de/start/usa-universitaeten-verzeichnen-rueckgang-internationaler-studierender-a-b7324a1a-6099-4ec1-b722-29ff4575c9ab#ref=rss",
+     "image": "https://cdn.prod.www.spiegel.de/images/79aa1038-1246-4b5f-8bae-a0361efe5265_w520_r2.08_fpx33.44_fpy50.jpg",
+     "aggregator": false,
+     "published": "2026-11-17T07:02:00+00:00"
+    }
+   ]
+  },
+  {
+   "id": 27,
+   "score": 8.64,
+   "outlets": [
+    "ZDFheute",
+    "DER STANDARD",
+    "WELT"
+   ],
+   "regions": [
+    "AT",
+    "DE"
+   ],
+   "trend": [],
+   "newest": "2026-11-17T08:36:57+00:00",
+   "articles": [
+    {
+     "source": "ZDFheute",
+     "region": "DE",
+     "weight": 1.0,
+     "title": "Deutsche Bank: Was steckt drin im Leak?",
+     "summary": "Was verbirgt sich hinter dem \"Inside Deutsche Bank\"-Leak? Und wie wurden die 15 Millionen Dokumente ausgewertet? frontal inside blickt hinter die Recherche.",
+     "link": "https://www.zdfheute.de/video/frontal/deutsche-bank-frontal-inside-100.html",
+     "image": "https://www.zdfheute.de/assets/frontal-inside-deutsche-bank-100~384x216?cb=1794854138216",
+     "aggregator": false,
+     "published": "2026-11-17T06:00:00+00:00"
+    },
+    {
+     "source": "DER STANDARD",
+     "region": "AT",
+     "weight": 0.85,
+     "title": "Inside Deutsche Bank: Schmutziges Geld, Oligarchen, ein US-Präsident – und was die Bank wirklich wusste",
+     "summary": "15 Millionen interne Dokumente, das größte Leak der Bankengeschichte: Sie zeigen, wie das Institut Warnsignale überhörte und Geschäfte mit Oligarchen und dubiosen Geldflüssen weiterführte",
+     "link": "https://www.derstandard.at/story/3000000346866/inside-deutsche-bank-schmutziges-geld-oligarchen-ein-us-praesident-und-was-die-bank-wirklich-wusste?ref=rss",
+     "image": "https://i.ds.at/Lzys-Q/rs:fill:150:0/plain/lido-images/2026/11/16/4a696420-624c-4ea3-9c50-eede8abc42c3.jpg",
+     "aggregator": false,
+     "published": "2026-11-17T06:00:00+00:00"
+    },
+    {
+     "source": "WELT",
+     "region": "DE",
+     "weight": 0.8,
+     "title": "Datenleck bei der Deutschen Bank offenbart „problematische Geschäfte“ – Aktie schmiert ab",
+     "summary": "Mehrere Medien haben mehr als 15 Millionen interne Dokumente der Deutschen Bank ausgewertet. Die Daten sollen zeigen, dass die Bank Warnungen vor riskanten Geschäften überging.",
+     "link": "https://www.welt.de/wirtschaft/article6afc0b949893cadb7bd1583d/finanzinstitut-datenleck-bei-der-deutschen-bank-offenbart-problematische-geschaefte-aktie-schmiert-ab.html",
+     "image": "https://images.welt.de/6afc0b949893cadb7bd1583d/db089aa0dac877236a4027686328d975-master/ci23x11-w1200/2026-11-17t080409z-2048659953-rc2ximauxy3g-rtrmadp-3-deutsche-bank-media-jpg",
+     "aggregator": false,
+     "published": "2026-11-17T08:36:57+00:00"
+    }
+   ]
+  }
+ ]
+}
