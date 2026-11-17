@@ -126,3 +126,4 @@
 - vidIQ-Watch rodErJlAaTw (Stromsteuer): Hook sofort, Deutsch korrekt; nur 3 Fotos im Loop, Hook-Karte abgeschnitten („STROMSTEUER-WEN“).
 - vidIQ-Watch joutIhbYI-4 (Commerzbank): „COMMERZBANK FÄLLT?“ Sek. 0, Deutsch korrekt; Stock-Sprecherin + 3 Fassadenfotos, kein Gesicht.
 - Kein Hebel geändert: 6/Tag-Reihe läuft erst seit heute (48-h-Vergleich am 18. Nov); Kandidaten „Bildvielfalt“ und „Hook-Karten-Kürzung prüfen“ in experiments.md.
+- 2026-11-17 05:45 Berlin · Growth-Brief A · Credits ≈4.808 · Abos 29 · Views 62.983

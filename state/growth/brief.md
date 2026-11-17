@@ -1,40 +1,39 @@
-# Growth-Brief – Mo 16. Nov 2026, 13:43 Berlin (vidIQ, 6 Calls, 25 Credits, Rest ~4.878)
-Tag 1 mit 6 Shorts/Tag (neue Messreihe). Brief = Themenwahl-Hilfe, keine Format-/Slot-Änderung.
+# Growth-Brief – Di 17. Nov 2026, 05:45 Berlin (vidIQ, 7 Calls, 30 Credits, Rest ≈ 4.808)
+Tag 2 der 6/Tag-Reihe. Brief = Themenwahl-Hilfe, keine Format-/Slot-Änderung.
 
 ## Eilblick
-- **28 Abos (±0 seit 05:42) · 61.854 Views (+4.946 seit 05:42; +12.412 seit 15. Nov früh) · 111 Videos.**
-- Heute bisher 1 Upload: **Amazon verliert 40 Satelliten (11:00 UTC) 28 Views · 28 VPH in ~1 h** – Tech/Firma ohne DACH-Bezug, erst beobachten.
-- Gestern (Views · VPH): SpaceX 929 · 30 · Sabalenka 872 · 35 · Phantasialand/Microsoft 531 · 23 · Frührente 260 · 8,7 · Babiš 188 · 10
-  · Reichelt-Bekennerschreiben 162 · 8,5 · Masern 97 · 4 · Meta 79 · 2,7 · Solar 47 · 2,2 · **Handwerk 52 · 2,0**.
-- Nachreifen 14. Nov: Aiwanger 2.071 · 47 VPH · 5,4x · Berthold/AfD 2.009 · 47 · 5,2x · Orbán-Ex-Minister 1.515 · 36 · 3,1x.
-- Bestes 15. Nov: **Sabalenka 35 VPH**; schlechtestes: **Handwerk 2,0 VPH**. Lektion: Person + Bruch trägt, Branche/Behörde ohne Gesicht nicht.
+- **29 Abos (+1 seit 16. Nov 13:43) · 62.983 Views (+1.129 seit 13:43; +6.075 seit 16. Nov früh) · 116 Videos.** 30 Tage: +12 Abos, +35.986 Views.
+- 16. Nov (Views · VPH): **Stromsteuer „doch?“ 567 · 37,8 · 3,6x** · Amazon-Satelliten 220 · 12,9 · Dobrindt/Ruanda 138 · 12,5
+  · Commerzbank 66 · 5,1 · **Bond/Pattinson 46 · 4,6** (11 h alt).
+- Nachreifen: Berthold 2.272 · 38,6 VPH · 5,2x · Aiwanger 2.260 · 37 · 5,4x · Reichelt 1.742 · 7,1x · Orbán 1.662 · 3,1x · Sabalenka 1.083 · SpaceX 1.079.
+- Lektion: Merz + Geld im Alltag (Stromsteuer) schlägt Bank/Fusion ohne Gesicht 8:1 – und Merz ist gestern DAS Feed-Thema (unten).
 
-## Heißeste DACH-Themen in Shorts (vidIQ, seit 15. Nov / diese Woche)
-1. **Stromsteuer / Merz-Versprechen (Tag 4 oben):** OOPS „Kein Geld für die stromsteuer senkung“ **120.333 · 6.691 VPH** (11 s);
-   **ntv heute** „Stromsteuer – Bricht Merz sein Versprechen? | Kommentar“ 1.970 · **1.713 VPH** (frisch). Bei uns 12. Nov 700 → nur mit neuem Fakt.
-2. **Merz-Person allgemein:** Ruben Rupp „Merz und seine Versprechen“ **138.812 · 7.143 VPH**; OOPS „Friedrich Merz ist stolz auf Deutschland“ 5.033 · 3.922 (heute 09 UTC);
-   Finanzfuchs „Friedrich Merz Skandal“ 63.100 · 2.129. Neutral: Zitat + Faktencheck.
-3. **Weidel/AfD-Umfragen:** Zwischen den Zeilen „Steht Deutschland vor einer Kanzlerin Alice Weidel?“ **131.616 · 6.122**; Streetvoices „Aiwanger Wählerlawine bei AFD“ 94.426 · 4.706.
-4. **Rente/Altersarmut:** Yaro „Wenn Rentner im Müll suchen müssen, läuft etwas falsch!“ 60.292 · 2.770; Política Real „JUNGE UNION DROHT MERZ! Winkel stellt Rentenreform infrage!“ 75.600 · **13x**.
-5. **Wirtschaft/Auto:** NIUS „Mercedes stoppt Investitionen in Deutschland“ 25.084 · 1.052; Marc Friedrich Auto-Warnung 2.121 · 776 (heute). Bei uns Mercedes 891 · 10x.
-6. **Ukraine/Nato-Tausch:** ein_Beobachter (1K Abos) „Ukraine in die NATO, Donbas an Russland?…“ 22.462 · 1.708; TSN „UKRAINE BEFREIT 800 KM²!“ 7,3x.
-7. **Unglück/Sicherheit (Breakouts):** TV Oberfranken „Bayreuth: Mit 1,2 Promille – Busfahrer kollidiert…“ 108,8K · **45x** · 1,6K VPH;
-   SAT.1 Hafencity 123,8K · 71x; eineminutenachrichten Kita-Kinder Dresden 665,5K · 3,2K VPH; ntv „Russische Öl-Anlage brennt – Lange Auto-Schlangen“ 123,8K · 397 VPH.
-   Nur Fakten, keine Opfer-Details, keine Gewaltbilder.
-8. **Reichelt-Anschlag:** :newstime „Totalschaden: Auto von Nius-Chefredakteur Reichelt angezündet“ 70,6K · **50x**; faz 58K · 560 VPH – Nachdreh nur bei großem neuen Fakt (unser Nachdreh 162).
-- Konkurrenz-Liste (7 Kanäle) diese Woche: keine Breakouts laut vidIQ.
+## Heißeste DACH-Themen in Shorts (vidIQ, seit 16. Nov / diese Woche)
+1. **Merz/CDU unter Druck – Rücktrittsforderungen**: OOPS „CDU fordert Rücktritt…“ 58,0K · 4.264 VPH; „Rücktritt… gefordert“ 37,9K · 3.945 VPH;
+   Finanzfuchs „Bürger wollen Merz ?“ 86,2K · 5.555 VPH; „Keiner will Merz“ 9,9K · 731. → Nur mit belegter Quelle (wer fordert was?), neutral.
+2. **Krim-Brücke angegriffen**: WELT Netzreporter „Großangriff auf die Krim-Brücke“ 40,8K · 4,2K VPH · 2,4x; „Neue Eskalation…“ 35,8K · 1,8K VPH · 3,4x;
+   Stuttgarter Zeitung 73,3K · 1,2K VPH. Einzelthema, Fakten aus russ./ukr. Angaben klar kennzeichnen.
+3. **Deutschlands Ukraine-Kosten**: BSW Bund „Deutschland zahlt immer mehr für den Ukraine-Krieg!“ 22,4K · 2.322 VPH; COMPACT „Deutschland zahlt,
+   keiner dankt es!“ 44,7K · 2.697 VPH. → Als Zahl + Haushalt erzählen, nicht parteiisch.
+4. **USA wollen Pipeline kaufen**: Vindex 44,1K · 2.762 VPH (7 s). Nur bringen, wenn seriöse Quelle bestätigt (sonst Gerücht → weglassen).
+5. **Ilse Aigner (CSU) „Skandal“**: Finanzfuchs 13,6K · 2.388 VPH · 7,7 % Engagement. Erst Sachlage prüfen.
+6. **Geld/Rente/Inflation**: „Warum konnten Boomer besser Geld sparen…“ 25,0K · 1.441 VPH; „EM-Rente um 9 Euro gekürzt – Gericht…“ 14,5K · 784;
+   „Dein Geld wird heimlich weniger“ 11,7K · 735. Passt zu unserem Stromsteuer-Treffer.
+7. **Unfall B311 bei Erbach (3 Tote)**: DONAU 3 FM 242,8K · **626x** · 12,3K VPH (Regionalsender, 3,9K Abos). Nur sachlich, keine Unfallbilder.
+8. **Ost-West-Debatte**: WeltLupe „Was wäre, wenn der Osten aus Deutschland austreten würde?“ 80,8K · 3.340 VPH (3,2K Abos). Gedankenspiel-Format.
+- Wochen-Breakouts (älter, Folge nur mit neuem Fakt): Dresden-Kita-Kinder (eineminutenachrichten 702,8K · 6,5x) · Reichelt-Auto (newstime 50x, faz 7,1x)
+  · Hafencity-Schüsse 71x · New-York-Einsturz (tagesschau 235,9K).
+- Konkurrenz-Liste (7 Kanäle) diese Woche: **keine Breakout-Shorts** gemeldet.
 
-## Gewinner-Titelmuster (echte Titel)
-- „Kein Geld für die stromsteuer senkung“ – Fakt als Aussagesatz, Alltags-Geld, 11 s.
-- „Bayreuth: Mit 1,2 Promille – Busfahrer kollidiert mit mehreren Fahrzeugen“ – Ort + Zahl + Handlung.
-- „JUNGE UNION DROHT MERZ! Winkel stellt Rentenreform infrage!“ – Konfliktverb + Person + Rente.
-- Markt-Gewinner heute 6–15 s; unsere 30–36-s-Fragetitel ohne bekannte Person bleiben < 5 VPH.
-- Hashtags der Gewinner: #politik #deutschland #aktuell #nachrichten.
+## Gewinnende Titelmuster
+- Name + Konfliktverb, kurzer Aussagesatz: „CDU fordert Rücktritt von Friedrich Merz #deutschland #politik #aktuell“ (58,0K).
+- Superlativ + Ort im Doppelpunkt-Format: „Großangriff auf die Krim-Brücke: Hunderte ukrainische Drohnen sollen die wichtige Verbindung“ (40,8K).
+- „Deutschland“ + Geld + Ausrufezeichen: „Deutschland zahlt immer mehr für den Ukraine-Krieg!“ (22,4K).
+- Muster: Person/Land zuerst, Verb mit Druck (fordert, zahlt, Angriff), ≤ 8 Wörter; Topkanäle nutzen 6–25 s Länge.
 
-## Keywords (vidIQ country_search DE, aus 05:41-Lauf – kein Keyword-Call in diesem Lauf)
-- nachrichten 60.292 · nachrichten aktuell 31.710 · welt nachrichten 2.892.
-- Personen-/Themen-Keywords in heutigen Gewinnern: Merz, Stromsteuer, Weidel, Aiwanger, Rente, Mercedes.
+## Keywords (vidIQ country_search DE, Suchvolumen im Land)
+- nachrichten 57.276 · nachrichten aktuell 26.566 · welt nachrichten 2.892 (Wettbewerb/Wachstum: keine Angabe).
+- Tipp: „Nachrichten aktuell“ in Beschreibung/Hashtag (#aktuell, #nachrichten) – Suche liefert bereits 26 % unserer Views.
 
-## Für die Desks (Nachmittag/Abend)
-- Stromsteuer-Wende mit Merz/Söder im Titel ist das stärkste Markt-Thema (ntv kommentiert heute) – Aussage statt Frage.
-- Danach Rente mit Person (Winkel/JU vs. Merz) und Merz-Zitat + Faktencheck. Keine Tech-/Behörden-Themen ohne DACH-Gesicht.
+## Leitplanken
+- Keine Herkunfts-/Nationalitäts-Zuspitzung, keine Gerüchte, keine Hetze, keine drastischen Bilder; Politik neutral, Quelle nennen.
